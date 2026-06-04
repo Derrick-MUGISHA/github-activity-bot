@@ -16,21 +16,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
-      "published_at": "2026-06-03T13:46:51Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "agents",
-        "ai",
-        "discuss",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
       "published_at": "2026-06-02T20:02:20Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
+      "published_at": "2026-06-03T13:46:51Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "agents",
+        "ai",
+        "discuss",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "What I'm building, and why",
@@ -555,8 +555,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 43514,
+      "stars": 45141,
       "user": "pewdiepie-archdaemon"
+    },
+    {
+      "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "published_at": "2026-06-01T03:32:48Z",
+      "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272724896?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "PanisHandsome"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -585,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1387,
+      "stars": 1418,
       "user": "asz798838958"
     },
     {
@@ -600,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 772,
       "user": "ClaudioDrews"
     },
     {
@@ -615,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "DannyMac180"
     },
     {
@@ -630,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 83,
       "user": "ethanhq"
     }
   ],
@@ -885,8 +900,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 43514,
+      "stars": 45141,
       "user": "pewdiepie-archdaemon"
+    },
+    {
+      "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "published_at": "2026-06-01T03:32:48Z",
+      "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272724896?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "PanisHandsome"
+    },
+    {
+      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "url": "https://github.com/mrdoob/draco.js",
+      "published_at": "2026-06-03T08:44:06Z",
+      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "mrdoob"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -904,21 +949,6 @@
       "user": "owenshuo"
     },
     {
-      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
-      "url": "https://github.com/andyhuo520/tang-changan",
-      "published_at": "2026-05-29T03:51:09Z",
-      "description": "大唐长安 · 智机府 — Tang Changan web game",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "andyhuo520"
-    },
-    {
       "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
       "url": "https://github.com/Wanduforl/MacArkPet",
       "published_at": "2026-05-29T08:05:17Z",
@@ -930,23 +960,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "Wanduforl"
-    },
-    {
-      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "url": "https://github.com/mrdoob/draco.js",
-      "published_at": "2026-06-03T08:44:06Z",
-      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "mrdoob"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -960,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 102,
       "user": "IRNova"
     }
   ],
@@ -1140,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1387,
+      "stars": 1418,
       "user": "asz798838958"
     },
     {
@@ -1155,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 772,
       "user": "ClaudioDrews"
     },
     {
@@ -1170,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 535,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1185,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "DannyMac180"
     },
     {
@@ -1200,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 387,
       "user": "tiantianGPU"
     }
   ],
@@ -1292,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 149,
       "user": "tastyeffectco"
     }
   ],
@@ -1383,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "rstagit"
     }
   ],
@@ -1610,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 535,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1625,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 102,
       "user": "IRNova"
     }
   ],
@@ -1966,8 +1981,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 43514,
+      "stars": 45141,
       "user": "pewdiepie-archdaemon"
+    },
+    {
+      "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "published_at": "2026-06-01T03:32:48Z",
+      "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272724896?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "PanisHandsome"
+    },
+    {
+      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "url": "https://github.com/mrdoob/draco.js",
+      "published_at": "2026-06-03T08:44:06Z",
+      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "mrdoob"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -1985,21 +2030,6 @@
       "user": "owenshuo"
     },
     {
-      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
-      "url": "https://github.com/andyhuo520/tang-changan",
-      "published_at": "2026-05-29T03:51:09Z",
-      "description": "大唐长安 · 智机府 — Tang Changan web game",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "andyhuo520"
-    },
-    {
       "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
       "url": "https://github.com/Wanduforl/MacArkPet",
       "published_at": "2026-05-29T08:05:17Z",
@@ -2011,23 +2041,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "Wanduforl"
-    },
-    {
-      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "url": "https://github.com/mrdoob/draco.js",
-      "published_at": "2026-06-03T08:44:06Z",
-      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "mrdoob"
     },
     {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
@@ -2041,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1387,
+      "stars": 1418,
       "user": "asz798838958"
     },
     {
@@ -2056,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 772,
       "user": "ClaudioDrews"
     },
     {
@@ -2071,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 535,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2086,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "DannyMac180"
     },
     {
@@ -2101,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 387,
       "user": "tiantianGPU"
     },
     {
@@ -2116,8 +2131,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "rstagit"
+    },
+    {
+      "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "published_at": "2026-06-03T18:55:02Z",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "tastyeffectco"
     },
     {
       "title": "pood1e/wa-app - GitHub Repository",
@@ -2131,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 118,
       "user": "pood1e"
     },
     {
@@ -2146,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 102,
       "user": "IRNova"
     },
     {
@@ -2161,23 +2191,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 83,
       "user": "ethanhq"
-    },
-    {
-      "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxes",
-      "published_at": "2026-06-03T18:55:02Z",
-      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
-      "source": "GitHub",
-      "stars": 71,
-      "user": "tastyeffectco"
     }
   ]
 }
