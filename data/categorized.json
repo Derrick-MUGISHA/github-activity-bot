@@ -555,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 43068,
+      "stars": 43514,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -585,23 +585,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1387,
       "user": "asz798838958"
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "published_at": "2026-05-28T11:25:55Z",
-      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 1345,
-      "user": "Sophomoresty"
     },
     {
       "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
@@ -615,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 749,
       "user": "ClaudioDrews"
     },
     {
@@ -630,23 +615,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "DannyMac180"
-    },
-    {
-      "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
-      "url": "https://github.com/MatinSenPai/SenPaiScanner",
-      "published_at": "2026-05-28T17:02:54Z",
-      "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 1021,
-      "user": "MatinSenPai"
     },
     {
       "title": "ethanhq/cc-fleet - 🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
@@ -660,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "ethanhq"
     }
   ],
@@ -915,23 +885,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 43068,
+      "stars": 43514,
       "user": "pewdiepie-archdaemon"
-    },
-    {
-      "title": "Sophomoresty/bpc-fetch - Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
-      "url": "https://github.com/Sophomoresty/bpc-fetch",
-      "published_at": "2026-05-28T08:31:28Z",
-      "description": "Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "Sophomoresty"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -977,6 +932,21 @@
       "source": "GitHub",
       "stars": 97,
       "user": "Wanduforl"
+    },
+    {
+      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "url": "https://github.com/mrdoob/draco.js",
+      "published_at": "2026-06-03T08:44:06Z",
+      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "mrdoob"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -1170,23 +1140,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1387,
       "user": "asz798838958"
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "published_at": "2026-05-28T11:25:55Z",
-      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 1345,
-      "user": "Sophomoresty"
     },
     {
       "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
@@ -1200,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 749,
       "user": "ClaudioDrews"
     },
     {
@@ -1215,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 523,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1230,8 +1185,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "DannyMac180"
+    },
+    {
+      "title": "tiantianGPU/reg-factory - GitHub Repository",
+      "url": "https://github.com/tiantianGPU/reg-factory",
+      "published_at": "2026-06-01T13:38:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
+      "source": "GitHub",
+      "stars": 371,
+      "user": "tiantianGPU"
     }
   ],
   "DevOps": [
@@ -1309,6 +1279,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
+    },
+    {
+      "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "published_at": "2026-06-03T18:55:02Z",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "tastyeffectco"
     }
   ],
   "WebDev": [
@@ -1398,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "rstagit"
     }
   ],
@@ -1625,23 +1610,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 523,
       "user": "qiuqiubuchongle-cloud"
-    },
-    {
-      "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
-      "url": "https://github.com/MatinSenPai/SenPaiScanner",
-      "published_at": "2026-05-28T17:02:54Z",
-      "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 1021,
-      "user": "MatinSenPai"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -1996,23 +1966,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 43068,
+      "stars": 43514,
       "user": "pewdiepie-archdaemon"
-    },
-    {
-      "title": "Sophomoresty/bpc-fetch - Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
-      "url": "https://github.com/Sophomoresty/bpc-fetch",
-      "published_at": "2026-05-28T08:31:28Z",
-      "description": "Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "Sophomoresty"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -2060,6 +2015,21 @@
       "user": "Wanduforl"
     },
     {
+      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "url": "https://github.com/mrdoob/draco.js",
+      "published_at": "2026-06-03T08:44:06Z",
+      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "mrdoob"
+    },
+    {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
       "url": "https://github.com/asz798838958/aBaiAutoplus",
       "published_at": "2026-05-31T14:29:52Z",
@@ -2071,23 +2041,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1387,
       "user": "asz798838958"
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "published_at": "2026-05-28T11:25:55Z",
-      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 1345,
-      "user": "Sophomoresty"
     },
     {
       "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
@@ -2101,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 749,
       "user": "ClaudioDrews"
     },
     {
@@ -2116,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 523,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2131,23 +2086,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "DannyMac180"
     },
     {
-      "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
-      "url": "https://github.com/MatinSenPai/SenPaiScanner",
-      "published_at": "2026-05-28T17:02:54Z",
-      "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "title": "tiantianGPU/reg-factory - GitHub Repository",
+      "url": "https://github.com/tiantianGPU/reg-factory",
+      "published_at": "2026-06-01T13:38:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 1021,
-      "user": "MatinSenPai"
+      "stars": 371,
+      "user": "tiantianGPU"
     },
     {
       "title": "rstagit/rstaspoof - ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux",
@@ -2161,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "rstagit"
     },
     {
@@ -2206,8 +2161,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "ethanhq"
+    },
+    {
+      "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "published_at": "2026-06-03T18:55:02Z",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "tastyeffectco"
     }
   ]
 }
