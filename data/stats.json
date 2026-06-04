@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 48,
+    "AI": 47,
     "JavaScript": 22,
     "Python": 18,
     "DevOps": 7,
@@ -15,23 +15,24 @@
     "Cloud": 16,
     "Database": 2,
     "Security": 5,
-    "Tools": 34
+    "Tools": 35
   },
   "by_language": {
-    "Go": 26,
+    "Go": 25,
     "JavaScript": 22,
     "Java": 18,
     "Rust": 1,
     "Python": 18,
     "PHP": 1,
+    "CSharp": 1,
     "Kotlin": 1
   },
   "by_date": {
     "2026-06-03": 16,
     "2026-06-04": 9,
-    "2026-06-02": 11,
-    "2026-06-01": 14,
-    "2026-05-29": 6,
+    "2026-06-02": 12,
+    "2026-06-01": 13,
+    "2026-05-29": 5,
     "2026-05-28": 1,
     "2026-05-27": 4,
     "2026-05-26": 3,
@@ -66,7 +67,7 @@
     "2017-11-27": 1,
     "2026-05-11": 1,
     "2025-05-07": 1,
-    "2026-05-30": 2
+    "2026-05-30": 3
   },
   "top_tags": {
     "ai": 22,
@@ -80,24 +81,25 @@
     "javascript": 8,
     "discuss": 8,
     "programming": 7,
-    "go": 7,
     "python": 7,
-    "devchallenge": 5,
-    "webdev": 5,
+    "devchallenge": 6,
+    "webdev": 6,
+    "go": 6,
     "kubernetes": 4,
+    "githubchallenge": 4,
     "aws": 4,
-    "antigravity": 3,
     "gke": 3,
     "googlecloud": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "29.9",
+    "Go": "28.7",
     "JavaScript": "25.3",
     "Java": "20.7",
     "Rust": "1.1",
     "Python": "20.7",
     "PHP": "1.1",
+    "CSharp": "1.1",
     "Kotlin": "1.1"
   }
 }
