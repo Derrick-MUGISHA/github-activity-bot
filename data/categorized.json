@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
       "published_at": "2026-06-03T21:02:16Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
       "source": "Dev.to",
       "user": "Natheesh Kumar"
+    },
+    {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
+      "published_at": "2026-06-04T18:19:03Z",
+      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Kaggle is making AI benchmark creation effortless",
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 50658,
+      "stars": 50977,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1479,
       "user": "asz798838958"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "ClaudioDrews"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 97,
       "user": "ethanhq"
     }
   ],
@@ -1137,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 50658,
+      "stars": 50977,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1152,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1479,
       "user": "asz798838958"
     },
     {
@@ -1167,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "ClaudioDrews"
     },
     {
@@ -1197,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 420,
       "user": "V0id-v2"
     }
   ],
@@ -1304,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 379,
       "user": "tastyeffectco"
     }
   ],
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 50658,
+      "stars": 50977,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1479,
       "user": "asz798838958"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "ClaudioDrews"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 420,
       "user": "V0id-v2"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 379,
       "user": "tastyeffectco"
     },
     {
@@ -2244,7 +2244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 97,
       "user": "ethanhq"
     }
   ]
