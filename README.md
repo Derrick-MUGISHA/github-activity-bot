@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-05 0:00 CAT)
+## 📅 Latest Updates (2026-06-05 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,17 +153,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png" width="200" alt="Seamless scaling with VPA In-place Pod Resize on GKE" />
-      <br/>
-      <b>Seamless scaling with VPA In-place Pod Resize on G...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png" width="200" alt="Extending a MCP/A2A Currency Agent with A2UI" />
       <br/>
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png" width="200" alt="I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png" width="200" alt="Seamless scaling with VPA In-place Pod Resize on GKE" />
+      <br/>
+      <b>Seamless scaling with VPA In-place Pod Resize on G...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,10 +199,10 @@ npm run test
 
 - [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
 - [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
-- [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 - [Extending a MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3) _[Dev.to]_
 - [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [Winner Announcement Delayed for the Google I/O 2026 Writing Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb) _[Dev.to]_
+- [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 - [Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture](https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j) _[Dev.to]_
 - [Kaggle is making AI benchmark creation effortless](https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n) _[Dev.to]_
 - [Automating Document Review with Google Workspace Studio and NotebookLM](https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [I Built a Terminal Dashboard to Keep Track of All My Local Projects](https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3) _[Dev.to]_
 - [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc) _[Dev.to]_
 
-_Last automated update: Fri, 05 Jun 2026 00:10:52 CAT_
+_Last automated update: Fri, 05 Jun 2026 01:36:01 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 05 Jun 2026 00:10:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 04 Jun 2026 22:10:52 GMT</b><br/>
+  <b>Last automated update: Thu, 04 Jun 2026 23:36:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
