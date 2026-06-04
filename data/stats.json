@@ -18,8 +18,8 @@
     "Tools": 33
   },
   "by_language": {
-    "JavaScript": 24,
     "Go": 24,
+    "JavaScript": 24,
     "Python": 18,
     "CSharp": 1,
     "Java": 19,
@@ -86,18 +86,18 @@
     "python": 7,
     "go": 7,
     "devchallenge": 6,
-    "webdev": 6,
     "agents": 6,
+    "webdev": 6,
     "gemini": 5,
-    "typescript": 4,
     "kubernetes": 4,
     "googlecloud": 4,
-    "antigravitycli": 4
+    "antigravitycli": 4,
+    "typescript": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.0",
     "Go": "27.0",
+    "JavaScript": "27.0",
     "Python": "20.2",
     "CSharp": "1.1",
     "Java": "21.3",
