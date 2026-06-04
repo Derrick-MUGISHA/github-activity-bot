@@ -16,19 +16,19 @@
       "user": "marcosomma"
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "title": "Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana",
+      "url": "https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h",
+      "published_at": "2026-06-04T13:04:00Z",
+      "description": "Welcome back to The Agent Factory! This week, we went beyond the hype to dissect the technical...",
       "tags": [
-        "kubernetes",
         "ai",
-        "gke",
-        "googlecloud"
+        "nanobanana",
+        "antigravity",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm09x57b0ktpchn5bxgd.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Amit Maraj"
     },
     {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
@@ -44,6 +44,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
+      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
+      "published_at": "2026-06-04T08:53:08Z",
+      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "notebooklm",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -74,21 +104,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd43wkzyxv1xx7g6ectge.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
-      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
-      "published_at": "2026-06-02T12:16:54Z",
-      "description": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
-      "tags": [
-        "programming",
-        "tutorial",
-        "architecture",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
-      "source": "Dev.to",
-      "user": "M Hossein"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -162,6 +177,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -386,18 +416,19 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
-      "published_at": "2026-05-14T17:16:10Z",
-      "description": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
+      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
+      "published_at": "2026-06-02T12:16:54Z",
+      "description": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
       "tags": [
-        "gemmachallenge",
-        "gemma",
-        "devchallenge"
+        "programming",
+        "tutorial",
+        "architecture",
+        "typescript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "M Hossein"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -555,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 47836,
+      "stars": 48808,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -600,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1467,
       "user": "asz798838958"
     },
     {
@@ -615,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 809,
       "user": "ClaudioDrews"
     },
     {
@@ -630,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "DannyMac180"
     },
     {
@@ -645,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 91,
       "user": "ethanhq"
     }
   ],
@@ -664,21 +695,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
-      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
-      "published_at": "2026-06-02T12:16:54Z",
-      "description": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
-      "tags": [
-        "programming",
-        "tutorial",
-        "architecture",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
-      "source": "Dev.to",
-      "user": "M Hossein"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -767,6 +783,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
+    },
+    {
+      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
+      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
+      "published_at": "2026-06-02T12:16:54Z",
+      "description": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
+      "tags": [
+        "programming",
+        "tutorial",
+        "architecture",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
+      "source": "Dev.to",
+      "user": "M Hossein"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -900,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 47836,
+      "stars": 48808,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -915,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 121,
       "user": "mrdoob"
     },
     {
@@ -945,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 102,
       "user": "Wanduforl"
     },
     {
@@ -975,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "IRNova"
     }
   ],
@@ -1155,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1467,
       "user": "asz798838958"
     },
     {
@@ -1170,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 809,
       "user": "ClaudioDrews"
     },
     {
@@ -1185,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 548,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1200,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "DannyMac180"
     },
     {
@@ -1215,25 +1246,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "tiantianGPU"
     }
   ],
   "DevOps": [
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
       "tags": [
-        "kubernetes",
         "ai",
-        "gke",
-        "googlecloud"
+        "cloud",
+        "devops",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Gubernator [the kill ku8s]",
@@ -1262,6 +1293,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -1307,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 338,
       "user": "tastyeffectco"
     }
   ],
@@ -1398,25 +1444,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "rstagit"
     }
   ],
   "Cloud": [
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
       "tags": [
-        "kubernetes",
         "ai",
-        "gke",
-        "googlecloud"
+        "cloud",
+        "devops",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Saurabh Mishra"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -1490,6 +1536,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -1599,21 +1660,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
-      "published_at": "2026-05-14T15:18:37Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "rust",
-        "agents",
-        "aws",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
       "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
       "published_at": "2026-06-01T08:52:27Z",
@@ -1625,7 +1671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 548,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1640,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "IRNova"
     }
   ],
@@ -1659,6 +1705,36 @@
     }
   ],
   "Security": [
+    {
+      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
+      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
+      "published_at": "2026-06-04T08:53:08Z",
+      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "notebooklm",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
     {
       "title": "Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack",
       "url": "https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9",
@@ -1763,21 +1839,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
-      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
-      "published_at": "2026-06-02T12:16:54Z",
-      "description": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
-      "tags": [
-        "programming",
-        "tutorial",
-        "architecture",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
-      "source": "Dev.to",
-      "user": "M Hossein"
-    },
-    {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
       "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
       "published_at": "2026-06-02T11:23:28Z",
@@ -1793,36 +1854,6 @@
       "user": "Bharath Nayak"
     },
     {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo",
-      "published_at": "2026-06-02T07:06:53Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "webdev",
-        "csharp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6omx869rpavgg7ouvf5.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
-    },
-    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1836,6 +1867,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "What are your goals for the week? #181",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
+      "published_at": "2026-06-01T14:00:00Z",
+      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
+      "tags": [
+        "devjournal",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
     },
     {
       "title": "Spec-Driven Development with OpenSpec",
@@ -1956,6 +2002,21 @@
       "user": "Viorel PETCU"
     },
     {
+      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
+      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo",
+      "published_at": "2026-06-02T07:06:53Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "webdev",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6omx869rpavgg7ouvf5.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
       "published_at": "2026-05-21T17:33:15Z",
@@ -1970,6 +2031,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
+      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
+      "published_at": "2026-06-02T12:16:54Z",
+      "description": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
+      "tags": [
+        "programming",
+        "tutorial",
+        "architecture",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
+      "source": "Dev.to",
+      "user": "M Hossein"
+    },
+    {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "published_at": "2026-05-31T14:05:51Z",
@@ -1981,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 47836,
+      "stars": 48808,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1996,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 121,
       "user": "mrdoob"
     },
     {
@@ -2026,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 102,
       "user": "Wanduforl"
     },
     {
@@ -2056,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1467,
       "user": "asz798838958"
     },
     {
@@ -2071,7 +2147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 809,
       "user": "ClaudioDrews"
     },
     {
@@ -2086,7 +2162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 548,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2101,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "DannyMac180"
     },
     {
@@ -2116,7 +2192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "tiantianGPU"
     },
     {
@@ -2131,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 338,
       "user": "tastyeffectco"
     },
     {
@@ -2146,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "rstagit"
     },
     {
@@ -2176,7 +2252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "IRNova"
     },
     {
@@ -2191,7 +2267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 91,
       "user": "ethanhq"
     }
   ]
