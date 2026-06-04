@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.1 (28.1%)
-JavaScript      █████████████████████████████ 27.0 (27.0%)
-Java            ███████████████████████ 21.3 (21.3%)
-Python          ██████████████████████ 20.2 (20.2%)
+Go              ██████████████████████████████ 28.4 (28.4%)
+JavaScript      ████████████████████████████ 26.1 (26.1%)
+Java            ███████████████████████ 21.6 (21.6%)
+Python          ██████████████████████ 20.5 (20.5%)
 PHP             █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
@@ -73,7 +73,7 @@ Kotlin          █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 25
-    "JavaScript" : 24
+    "JavaScript" : 23
     "Java" : 19
     "Python" : 18
     "PHP" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-04 17:00 CAT)
+## 📅 Latest Updates (2026-06-04 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqthhtx07x9d8vp0ys7hz.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzaoptk5fi6mxzn73wgj5.png" width="200" alt="Winner Announcement Delayed for the Google I/O 2026 Writing Challenge" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Winner Announcement Delayed for the Google I/O 202...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png" width="200" alt="Every tool seems to have a coding agent horned in these days..... I don't think that makes sense." />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqthhtx07x9d8vp0ys7hz.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Every tool seems to have a coding agent horned in ...</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,11 +199,12 @@ npm run test
 - [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
 - [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
 - [Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana](https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h) _[Dev.to]_
+- [Winner Announcement Delayed for the Google I/O 2026 Writing Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k) _[Dev.to]_
+- [Kaggle is making AI benchmark creation effortless](https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n) _[Dev.to]_
 - [Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.](https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db) _[Dev.to]_
 - [Automating Document Review with Google Workspace Studio and NotebookLM](https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e) _[Dev.to]_
 - [How we turned the Replay keynote surprise into an open-source embedded playground](https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm) _[Dev.to]_
-- [Learning Lessons from Gaming](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm) _[Dev.to]_
 - [Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation](https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng) _[Dev.to]_
 - [Gubernator [the kill ku8s]](https://dev.to/gde/gubernator-the-kill-ku8s-2g0e) _[Dev.to]_
 - [I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me](https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [Executing Google Apps Script on Complex Schedules using Vibe Coding](https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m) _[Dev.to]_
 - [[Gemini][Agent] Google Managed Agents API](https://dev.to/gde/geminiagent-google-managed-agents-api-4e43) _[Dev.to]_
 - [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
-- [Debloating The AI-Grown Codebase](https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om) _[Dev.to]_
 
-_Last automated update: Thu, 04 Jun 2026 17:57:18 CAT_
+_Last automated update: Thu, 04 Jun 2026 20:17:52 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Thu, 04 Jun 2026 17:57:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 04 Jun 2026 15:57:18 GMT</b><br/>
+  <b>Last automated update: Thu, 04 Jun 2026 18:17:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
