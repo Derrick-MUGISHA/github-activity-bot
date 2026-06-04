@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
-
 **Security**: 🟦🟦 5 (4.8%)
 
-**Mobile**:  1 (1.0%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**Database**:  1 (1.0%)
+**Database**: 🟦 2 (1.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
@@ -60,24 +60,24 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.4 (28.4%)
-JavaScript      ████████████████████████████ 26.1 (26.1%)
-Java            ███████████████████████ 21.6 (21.6%)
-Python          ██████████████████████ 20.5 (20.5%)
+Go              ██████████████████████████████ 29.9 (29.9%)
+JavaScript      █████████████████████████ 25.3 (25.3%)
+Java            █████████████████████ 20.7 (20.7%)
+Python          █████████████████████ 20.7 (20.7%)
+Rust            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
-    "JavaScript" : 23
-    "Java" : 19
+    "Go" : 26
+    "JavaScript" : 22
+    "Java" : 18
     "Python" : 18
+    "Rust" : 1
     "PHP" : 1
-    "CSharp" : 1
     "Kotlin" : 1
 ```
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![productivity](https://img.shields.io/badge/productivity-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-04 20:00 CAT)
+## 📅 Latest Updates (2026-06-04 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,15 +142,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png" width="200" alt="Am I Becoming Too Slow for the AI World?" />
-      <br/>
-      <b>Am I Becoming Too Slow for the AI World?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnujhe3wstvm7pkkdy6ms.png" width="200" alt="Want to work with me? We're hiring a Community Program Manager at DEV!" />
       <br/>
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm09x57b0ktpchn5bxgd.png" width="200" alt="Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana" />
@@ -170,20 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzaoptk5fi6mxzn73wgj5.png" width="200" alt="Winner Announcement Delayed for the Google I/O 2026 Writing Challenge" />
+    <a href="https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png" width="200" alt="Seamless scaling with VPA In-place Pod Resize on GKE" />
       <br/>
-      <b>Winner Announcement Delayed for the Google I/O 202...</b>
+      <b>Seamless scaling with VPA In-place Pod Resize on G...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqthhtx07x9d8vp0ys7hz.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png" width="200" alt="Extending a MCP/A2A Currency Agent with A2UI" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Extending a MCP/A2A Currency Agent with A2UI</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png" width="200" alt="I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)" />
+      <br/>
+      <b>I Finished What I Started: Adding AI to Every Laye...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,27 +196,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
-- [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
 - [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
 - [Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana](https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h) _[Dev.to]_
+- [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
+- [Extending a MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3) _[Dev.to]_
+- [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [Winner Announcement Delayed for the Google I/O 2026 Writing Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k) _[Dev.to]_
+- [Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture](https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j) _[Dev.to]_
 - [Kaggle is making AI benchmark creation effortless](https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n) _[Dev.to]_
-- [Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.](https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db) _[Dev.to]_
 - [Automating Document Review with Google Workspace Studio and NotebookLM](https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e) _[Dev.to]_
 - [How we turned the Replay keynote surprise into an open-source embedded playground](https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm) _[Dev.to]_
+- [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
 - [Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation](https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng) _[Dev.to]_
 - [Gubernator [the kill ku8s]](https://dev.to/gde/gubernator-the-kill-ku8s-2g0e) _[Dev.to]_
-- [I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me](https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60) _[Dev.to]_
 - [After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System](https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp) _[Dev.to]_
 - [31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334) _[Dev.to]_
 - [26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p) _[Dev.to]_
-- [Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack](https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9) _[Dev.to]_
-- [Executing Google Apps Script on Complex Schedules using Vibe Coding](https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m) _[Dev.to]_
-- [[Gemini][Agent] Google Managed Agents API](https://dev.to/gde/geminiagent-google-managed-agents-api-4e43) _[Dev.to]_
-- [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
+- [Characterize the AWS Graviton memory subsystem using ASCT](https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24) _[Dev.to]_
+- [I Built a Terminal Dashboard to Keep Track of All My Local Projects](https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3) _[Dev.to]_
+- [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc) _[Dev.to]_
 
-_Last automated update: Thu, 04 Jun 2026 20:17:52 CAT_
+_Last automated update: Thu, 04 Jun 2026 22:30:56 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 04 Jun 2026 20:17:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 04 Jun 2026 18:17:52 GMT</b><br/>
+  <b>Last automated update: Thu, 04 Jun 2026 20:30:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
