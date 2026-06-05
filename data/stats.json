@@ -15,10 +15,10 @@
     "Cloud": 15,
     "Database": 2,
     "Security": 4,
-    "Tools": 30
+    "Tools": 31
   },
   "by_language": {
-    "Go": 23,
+    "Go": 24,
     "Swift": 1,
     "JavaScript": 23,
     "Java": 19,
@@ -33,10 +33,10 @@
     "2026-06-05": 3,
     "2026-06-04": 11,
     "2026-06-02": 10,
-    "2026-06-01": 11,
+    "2026-06-01": 12,
     "2026-05-29": 3,
     "2026-05-28": 3,
-    "2026-05-27": 5,
+    "2026-05-27": 4,
     "2026-05-26": 3,
     "2026-05-31": 8,
     "2026-05-21": 1,
@@ -72,7 +72,7 @@
     "2026-05-30": 3
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -85,22 +85,22 @@
     "programming": 6,
     "agents": 6,
     "webdev": 6,
+    "productivity": 5,
     "go": 5,
     "google": 4,
     "kubernetes": 4,
     "githubchallenge": 4,
     "mcps": 4,
-    "antigravitycli": 4,
-    "aws": 4
+    "antigravitycli": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "26.1",
+    "Go": "27.0",
     "Swift": "1.1",
-    "JavaScript": "26.1",
-    "Java": "21.6",
+    "JavaScript": "25.8",
+    "Java": "21.3",
     "Rust": "1.1",
-    "Python": "20.5",
+    "Python": "20.2",
     "PHP": "1.1",
     "CSharp": "1.1",
     "Kotlin": "1.1"
