@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-05 12:00 CAT)
+## 📅 Latest Updates (2026-06-05 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png" width="200" alt="Extending a MCP/A2A Currency Agent with A2UI" />
+    <a href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png" width="200" alt="Am I Becoming Too Slow for the AI World?" />
       <br/>
-      <b>Extending a MCP/A2A Currency Agent with A2UI</b>
+      <b>Am I Becoming Too Slow for the AI World?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,19 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png" width="200" alt="I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)" />
+    <a href="https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png" width="200" alt="Extending a MCP/A2A Currency Agent with A2UI" />
       <br/>
-      <b>I Finished What I Started: Adding AI to Every Laye...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png" width="200" alt="Am I Becoming Too Slow for the AI World?" />
-      <br/>
-      <b>Am I Becoming Too Slow for the AI World?</b>
+      <b>Extending a MCP/A2A Currency Agent with A2UI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcvni7hpbmrizwoojlsmt.png" width="200" alt="Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture" />
+      <br/>
+      <b>Physics, Engineering, and Architecture in Software...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,26 +199,26 @@ npm run test
 
 - [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
 - [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
-- [Extending a MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3) _[Dev.to]_
-- [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
+- [Extending a MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3) _[Dev.to]_
 - [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 - [Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture](https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j) _[Dev.to]_
-- [Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana](https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h) _[Dev.to]_
 - [Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation](https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng) _[Dev.to]_
+- [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [Gubernator [the kill ku8s]](https://dev.to/gde/gubernator-the-kill-ku8s-2g0e) _[Dev.to]_
 - [31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334) _[Dev.to]_
 - [26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p) _[Dev.to]_
 - [Winner Announcement Delayed for the Google I/O 2026 Writing Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb) _[Dev.to]_
 - [Characterize the AWS Graviton memory subsystem using ASCT](https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24) _[Dev.to]_
 - [Kaggle is making AI benchmark creation effortless](https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n) _[Dev.to]_
+- [Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana](https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h) _[Dev.to]_
 - [Automating Document Review with Google Workspace Studio and NotebookLM](https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e) _[Dev.to]_
 - [I Built a Terminal Dashboard to Keep Track of All My Local Projects](https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3) _[Dev.to]_
 - [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc) _[Dev.to]_
 - [LiveKnowledge: Engineering Verifiable Knowledge](https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl) _[Dev.to]_
 - [Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack](https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9) _[Dev.to]_
 
-_Last automated update: Fri, 05 Jun 2026 12:30:06 CAT_
+_Last automated update: Fri, 05 Jun 2026 15:37:34 CAT_
 
 
 
@@ -226,18 +226,29 @@ _Last automated update: Fri, 05 Jun 2026 12:30:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 3. Database: Explain database indexing and when to use it
 
 **Difficulty**: Medium | **Topics**: optimization, performance
 
@@ -245,17 +256,6 @@ Token bucket, sliding window, Redis
 <summary>💡 Hint</summary>
 
 B-tree, trade-offs, query performance
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 05 Jun 2026 10:30:06 GMT</b><br/>
+  <b>Last automated update: Fri, 05 Jun 2026 13:37:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
