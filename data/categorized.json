@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 51392,
+      "stars": 52228,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1491,
       "user": "asz798838958"
     },
     {
@@ -613,8 +613,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 835,
       "user": "ClaudioDrews"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "published_at": "2026-06-02T03:25:51Z",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 457,
+      "user": "jd-opensource"
     },
     {
       "title": "ethanhq/cc-fleet - 🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
@@ -633,21 +648,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
-      "published_at": "2026-06-03T05:09:01Z",
-      "description": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
-      "tags": [
-        "nextjs",
-        "typescript",
-        "webdev",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
     {
       "title": "Multi-step form without the overhead",
       "url": "https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc",
@@ -689,6 +689,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
+      "published_at": "2026-06-03T05:09:01Z",
+      "description": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "webdev",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -856,21 +871,6 @@
       "user": "velmu"
     },
     {
-      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "url": "https://github.com/mrdoob/draco.js",
-      "published_at": "2026-06-03T08:44:06Z",
-      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "mrdoob"
-    },
-    {
       "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
       "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
       "published_at": "2026-05-30T22:31:34Z",
@@ -882,8 +882,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 136,
       "user": "tejaswigowda"
+    },
+    {
+      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "url": "https://github.com/mrdoob/draco.js",
+      "published_at": "2026-06-03T08:44:06Z",
+      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "mrdoob"
     },
     {
       "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
@@ -1122,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 51392,
+      "stars": 52228,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1137,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1491,
       "user": "asz798838958"
     },
     {
@@ -1152,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 835,
       "user": "ClaudioDrews"
     },
     {
@@ -1167,23 +1182,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 564,
       "user": "qiuqiubuchongle-cloud"
     },
     {
-      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
-      "published_at": "2026-05-30T21:57:30Z",
-      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "published_at": "2026-06-02T03:25:51Z",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 428,
-      "user": "V0id-v2"
+      "stars": 457,
+      "user": "jd-opensource"
     }
   ],
   "DevOps": [
@@ -1289,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 398,
       "user": "tastyeffectco"
     }
   ],
@@ -1591,7 +1606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 564,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1963,21 +1978,6 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "url": "https://github.com/mrdoob/draco.js",
-      "published_at": "2026-06-03T08:44:06Z",
-      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "mrdoob"
-    },
-    {
       "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
       "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
       "published_at": "2026-05-30T22:31:34Z",
@@ -1989,8 +1989,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 136,
       "user": "tejaswigowda"
+    },
+    {
+      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "url": "https://github.com/mrdoob/draco.js",
+      "published_at": "2026-06-03T08:44:06Z",
+      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "mrdoob"
     },
     {
       "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
@@ -2049,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 51392,
+      "stars": 52228,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2064,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1491,
       "user": "asz798838958"
     },
     {
@@ -2079,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 835,
       "user": "ClaudioDrews"
     },
     {
@@ -2094,23 +2109,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 564,
       "user": "qiuqiubuchongle-cloud"
     },
     {
-      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
-      "published_at": "2026-05-30T21:57:30Z",
-      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "published_at": "2026-06-02T03:25:51Z",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 428,
-      "user": "V0id-v2"
+      "stars": 457,
+      "user": "jd-opensource"
     },
     {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2124,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 398,
       "user": "tastyeffectco"
     },
     {
@@ -2154,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "pood1e"
     },
     {
