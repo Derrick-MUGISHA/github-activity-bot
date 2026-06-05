@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Extending a MCP/A2A Currency Agent with A2UI",
-      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
-      "published_at": "2026-06-03T21:02:16Z",
-      "description": "Building an Agent with A2A, MCP, ADK, and A2UI   This tutorial aims to extend and test a...",
+      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
+      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
+      "published_at": "2026-06-05T19:37:39Z",
+      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
       "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "a2ui"
+        "ai",
+        "wecoded",
+        "programming",
+        "iot"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Jen Looper"
     },
     {
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
@@ -31,6 +31,21 @@
       "user": "Olivier Lacombe"
     },
     {
+      "title": "Extending a MCP/A2A Currency Agent with A2UI",
+      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
+      "published_at": "2026-06-03T21:02:16Z",
+      "description": "Building an Agent with A2A, MCP, ADK, and A2UI   This tutorial aims to extend and test a...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "a2ui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
       "published_at": "2026-06-04T18:19:03Z",
@@ -44,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -86,6 +86,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
+      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
+      "published_at": "2026-06-04T19:38:50Z",
+      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "google",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
+      "source": "Dev.to",
+      "user": "Jean-Phi Baconnais"
     },
     {
       "title": "Kaggle is making AI benchmark creation effortless",
@@ -215,6 +230,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "What I'm building, and why",
@@ -393,36 +423,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
       "source": "Dev.to",
       "user": "Fayaz"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 54872,
+      "stars": 55196,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 866,
       "user": "ClaudioDrews"
     }
   ],
@@ -746,21 +746,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -894,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "tejaswigowda"
     },
     {
@@ -913,6 +898,21 @@
       "user": "mrdoob"
     },
     {
+      "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
+      "url": "https://github.com/Obsidian-Trades/polymarket-copy-trading-bot",
+      "published_at": "2026-06-03T06:30:03Z",
+      "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "Obsidian-Trades"
+    },
+    {
       "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
       "url": "https://github.com/PanisHandsome/ai-rules-sync",
       "published_at": "2026-06-01T03:32:48Z",
@@ -926,21 +926,6 @@
       "source": "GitHub",
       "stars": 105,
       "user": "PanisHandsome"
-    },
-    {
-      "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-      "url": "https://github.com/Obsidian-Trades/polymarket-copy-trading-bot",
-      "published_at": "2026-06-03T06:30:03Z",
-      "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Obsidian-Trades"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -1149,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 54872,
+      "stars": 55196,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1179,8 +1164,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 866,
       "user": "ClaudioDrews"
+    },
+    {
+      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+      "published_at": "2026-05-30T21:57:30Z",
+      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
+      "source": "GitHub",
+      "stars": 613,
+      "user": "V0id-v2"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -1196,21 +1196,6 @@
       "source": "GitHub",
       "stars": 577,
       "user": "qiuqiubuchongle-cloud"
-    },
-    {
-      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
-      "published_at": "2026-05-30T21:57:30Z",
-      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
-      "source": "GitHub",
-      "stars": 575,
-      "user": "V0id-v2"
     }
   ],
   "DevOps": [
@@ -1228,21 +1213,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Gubernator [the kill ku8s]",
@@ -1290,6 +1260,21 @@
       "user": "Cristhian Ferreira "
     },
     {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
       "published_at": "2026-06-02T20:02:20Z",
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 435,
       "user": "tastyeffectco"
     }
   ],
@@ -1364,21 +1349,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1437,21 +1407,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1542,6 +1497,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Cross Cloud A2A Agent Benchmarking with Antigravity CLI",
@@ -1680,21 +1650,6 @@
   ],
   "Security": [
     {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
       "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
       "published_at": "2026-06-04T08:53:08Z",
@@ -1723,6 +1678,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5dccfyxefebwdbm7g36a.png",
       "source": "Dev.to",
       "user": "Oli Guei"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1957,21 +1927,6 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
       "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
       "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
       "published_at": "2026-05-30T22:31:34Z",
@@ -1983,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "tejaswigowda"
     },
     {
@@ -2002,6 +1957,21 @@
       "user": "mrdoob"
     },
     {
+      "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
+      "url": "https://github.com/Obsidian-Trades/polymarket-copy-trading-bot",
+      "published_at": "2026-06-03T06:30:03Z",
+      "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "Obsidian-Trades"
+    },
+    {
       "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
       "url": "https://github.com/PanisHandsome/ai-rules-sync",
       "published_at": "2026-06-01T03:32:48Z",
@@ -2015,21 +1985,6 @@
       "source": "GitHub",
       "stars": 105,
       "user": "PanisHandsome"
-    },
-    {
-      "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-      "url": "https://github.com/Obsidian-Trades/polymarket-copy-trading-bot",
-      "published_at": "2026-06-03T06:30:03Z",
-      "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Obsidian-Trades"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -2058,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 54872,
+      "stars": 55196,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2088,8 +2043,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 866,
       "user": "ClaudioDrews"
+    },
+    {
+      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+      "published_at": "2026-05-30T21:57:30Z",
+      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
+      "source": "GitHub",
+      "stars": 613,
+      "user": "V0id-v2"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -2107,21 +2077,6 @@
       "user": "qiuqiubuchongle-cloud"
     },
     {
-      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
-      "published_at": "2026-05-30T21:57:30Z",
-      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
-      "source": "GitHub",
-      "stars": 575,
-      "user": "V0id-v2"
-    },
-    {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "url": "https://github.com/tastyeffectco/sandboxes",
       "published_at": "2026-06-03T18:55:02Z",
@@ -2133,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 435,
       "user": "tastyeffectco"
     },
     {
@@ -2178,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "FengZi1221"
     },
     {
