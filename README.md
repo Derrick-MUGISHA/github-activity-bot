@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-05-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -40,13 +40,13 @@
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦 2 (1.9%)
+**Mobile**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -60,10 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.7 (26.7%)
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Java            █████████████████████████ 22.2 (22.2%)
-Python          ██████████████████████ 20.0 (20.0%)
+Go              ██████████████████████████████ 27.0 (27.0%)
+JavaScript      █████████████████████████████ 25.8 (25.8%)
+Java            ████████████████████████ 21.3 (21.3%)
+Python          ██████████████████████ 20.2 (20.2%)
+Swift           █ 1.1 (1.1%)
 Rust            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
@@ -74,20 +75,20 @@ Kotlin          █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 24
-    "JavaScript" : 24
-    "Java" : 20
+    "JavaScript" : 23
+    "Java" : 19
     "Python" : 18
+    "Swift" : 1
     "Rust" : 1
     "PHP" : 1
     "CSharp" : 1
-    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -127,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-05 15:00 CAT)
+## 📅 Latest Updates (2026-06-05 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,15 +145,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnujhe3wstvm7pkkdy6ms.png" width="200" alt="Want to work with me? We're hiring a Community Program Manager at DEV!" />
-      <br/>
-      <b>Want to work with me? We're hiring a Community Pro...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png" width="200" alt="Am I Becoming Too Slow for the AI World?" />
       <br/>
@@ -161,8 +153,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png" width="200" alt="Extending a MCP/A2A Currency Agent with A2UI" />
@@ -172,6 +162,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png" width="200" alt="Seamless scaling with VPA In-place Pod Resize on GKE" />
@@ -190,6 +182,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png" width="200" alt="Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation" />
+      <br/>
+      <b>Building a Multi-Agent Security Framework for Kube...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,7 +199,6 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
-- [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
 - [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
 - [Extending a MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3) _[Dev.to]_
 - [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
@@ -206,6 +206,8 @@ npm run test
 - [Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation](https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng) _[Dev.to]_
 - [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [Gubernator [the kill ku8s]](https://dev.to/gde/gubernator-the-kill-ku8s-2g0e) _[Dev.to]_
+- [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422) _[Dev.to]_
+- [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
 - [31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334) _[Dev.to]_
 - [26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p) _[Dev.to]_
 - [Winner Announcement Delayed for the Google I/O 2026 Writing Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb) _[Dev.to]_
@@ -216,9 +218,8 @@ npm run test
 - [I Built a Terminal Dashboard to Keep Track of All My Local Projects](https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3) _[Dev.to]_
 - [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc) _[Dev.to]_
 - [LiveKnowledge: Engineering Verifiable Knowledge](https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl) _[Dev.to]_
-- [Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack](https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9) _[Dev.to]_
 
-_Last automated update: Fri, 05 Jun 2026 15:37:34 CAT_
+_Last automated update: Fri, 05 Jun 2026 18:17:26 CAT_
 
 
 
@@ -226,18 +227,7 @@ _Last automated update: Fri, 05 Jun 2026 15:37:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
-
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
-
-<details>
-<summary>💡 Hint</summary>
-
-Function wrappers, @syntax, practical uses
-
-</details>
-
-### 2. DataStructures: Find the median of two sorted arrays
+### 1. DataStructures: Find the median of two sorted arrays
 
 **Difficulty**: Hard | **Topics**: arrays, binary search
 
@@ -248,14 +238,25 @@ Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Execution timing, event loop phases
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 05 Jun 2026 13:37:34 GMT</b><br/>
+  <b>Last automated update: Fri, 05 Jun 2026 16:17:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
