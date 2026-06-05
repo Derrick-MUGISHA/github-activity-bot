@@ -46,33 +46,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
-      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
-      "published_at": "2026-06-04T08:53:08Z",
-      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "notebooklm",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -86,6 +59,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana",
@@ -116,6 +101,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
+      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
+      "published_at": "2026-06-04T08:53:08Z",
+      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "notebooklm",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "LiveKnowledge: Engineering Verifiable Knowledge",
@@ -163,36 +163,6 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "Debloating The AI-Grown Codebase",
-      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
-      "published_at": "2026-06-01T17:22:48Z",
-      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
-      "published_at": "2026-06-02T11:23:28Z",
-      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "tags": [
-        "ai",
-        "discuss",
-        "html",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
-      "source": "Dev.to",
-      "user": "Bharath Nayak"
-    },
-    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -238,21 +208,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
       "title": "The Software Developer's Guide to AEO",
       "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
       "published_at": "2026-05-28T19:04:59Z",
@@ -280,19 +235,19 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "title": "What are your goals for the week? #181",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
+      "published_at": "2026-06-01T14:00:00Z",
+      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
       "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
+        "devjournal",
+        "discuss",
+        "productivity",
+        "watercooler"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
       "source": "Dev.to",
-      "user": "Christopher Sidebottom"
+      "user": "Chris Jarvis"
     },
     {
       "title": "What I'm building, and why",
@@ -370,6 +325,21 @@
       "user": "Hagag"
     },
     {
+      "title": "Debloating The AI-Grown Codebase",
+      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
+      "published_at": "2026-06-01T17:22:48Z",
+      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
+      "tags": [
+        "ai",
+        "programming",
+        "agents",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
+    },
+    {
       "title": "Sovereign Synapse: The Context-Cleaner",
       "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
       "published_at": "2026-06-02T13:53:40Z",
@@ -413,19 +383,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "When Is 100% Vibe Coding OK ?",
-      "url": "https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p",
-      "published_at": "2026-05-31T22:20:09Z",
-      "description": "Recently, I lost a lot of time reviewing and would have lost even more implementing, what I can only...",
+      "title": "AI fatigue is very real and people are fighting back!",
+      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
+      "published_at": "2026-05-27T19:45:09Z",
+      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
       "tags": [
         "ai",
-        "go",
-        "cschallenge",
-        "productivity"
+        "workplace",
+        "discuss",
+        "career"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsl8aiadsg29na5hy1toe.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
       "source": "Dev.to",
-      "user": "Viorel PETCU"
+      "user": "Fayaz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -613,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 50977,
+      "stars": 51392,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -628,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1485,
       "user": "asz798838958"
     },
     {
@@ -643,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 828,
       "user": "ClaudioDrews"
     },
     {
@@ -749,6 +719,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
       "source": "Dev.to",
       "user": "Stefan Buhrmester"
+    },
+    {
+      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
+      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
+      "published_at": "2026-05-28T14:39:29Z",
+      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "enum",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
+      "source": "Dev.to",
+      "user": "Sage Starr"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -882,8 +867,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "mrdoob"
+    },
+    {
+      "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
+      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "published_at": "2026-05-30T22:31:34Z",
+      "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "tejaswigowda"
     },
     {
       "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
@@ -901,21 +901,6 @@
       "user": "PanisHandsome"
     },
     {
-      "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
-      "url": "https://github.com/Wanduforl/MacArkPet",
-      "published_at": "2026-05-29T08:05:17Z",
-      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Wanduforl"
-    },
-    {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
       "url": "https://github.com/owenshuo/open-bounty-radar",
       "published_at": "2026-05-30T22:24:30Z",
@@ -931,19 +916,19 @@
       "user": "owenshuo"
     },
     {
-      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
-      "url": "https://github.com/andyhuo520/tang-changan",
-      "published_at": "2026-05-29T03:51:09Z",
-      "description": "大唐长安 · 智机府 — Tang Changan web game",
+      "title": "forter/agentic-readiness-guide - Agentic Readiness Guide",
+      "url": "https://github.com/forter/agentic-readiness-guide",
+      "published_at": "2026-06-03T06:16:58Z",
+      "description": "Agentic Readiness Guide",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6420463?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "andyhuo520"
+      "stars": 75,
+      "user": "forter"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -1137,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 50977,
+      "stars": 51392,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1152,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1485,
       "user": "asz798838958"
     },
     {
@@ -1167,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 828,
       "user": "ClaudioDrews"
     },
     {
@@ -1182,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1197,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 428,
       "user": "V0id-v2"
     }
   ],
@@ -1304,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 387,
       "user": "tastyeffectco"
     }
   ],
@@ -1324,21 +1309,6 @@
       "user": "Ovi Demetrian Jr"
     },
     {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
-      "published_at": "2026-06-02T11:23:28Z",
-      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "tags": [
-        "ai",
-        "discuss",
-        "html",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
-      "source": "Dev.to",
-      "user": "Bharath Nayak"
-    },
-    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1352,6 +1322,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
+      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
+      "published_at": "2026-05-28T14:39:29Z",
+      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "enum",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
+      "source": "Dev.to",
+      "user": "Sage Starr"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1606,7 +1591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1656,21 +1641,6 @@
   ],
   "Security": [
     {
-      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
-      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
-      "published_at": "2026-06-04T08:53:08Z",
-      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "notebooklm",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
       "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
       "published_at": "2026-06-04T06:49:28Z",
@@ -1684,6 +1654,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
+      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
+      "published_at": "2026-06-04T08:53:08Z",
+      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "notebooklm",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack",
@@ -1745,18 +1730,6 @@
       "user": "Natheesh Kumar"
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -1770,6 +1743,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "I Built a Terminal Dashboard to Keep Track of All My Local Projects",
@@ -1800,21 +1785,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk58s97r9eq9qgs3d5vk3.png",
       "source": "Dev.to",
       "user": "Adam Rybinski"
-    },
-    {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
-      "published_at": "2026-06-02T11:23:28Z",
-      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "tags": [
-        "ai",
-        "discuss",
-        "html",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
-      "source": "Dev.to",
-      "user": "Bharath Nayak"
     },
     {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
@@ -1874,21 +1844,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
       "source": "Dev.to",
       "user": "Chris Jarvis"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
     },
     {
       "title": "What I'm building, and why",
@@ -1979,21 +1934,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "When Is 100% Vibe Coding OK ?",
-      "url": "https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p",
-      "published_at": "2026-05-31T22:20:09Z",
-      "description": "Recently, I lost a lot of time reviewing and would have lost even more implementing, what I can only...",
-      "tags": [
-        "ai",
-        "go",
-        "cschallenge",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsl8aiadsg29na5hy1toe.png",
-      "source": "Dev.to",
-      "user": "Viorel PETCU"
-    },
-    {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
       "published_at": "2026-05-21T17:33:15Z",
@@ -2034,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "mrdoob"
+    },
+    {
+      "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
+      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "published_at": "2026-05-30T22:31:34Z",
+      "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "tejaswigowda"
     },
     {
       "title": "PanisHandsome/ai-rules-sync - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
@@ -2053,21 +2008,6 @@
       "user": "PanisHandsome"
     },
     {
-      "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
-      "url": "https://github.com/Wanduforl/MacArkPet",
-      "published_at": "2026-05-29T08:05:17Z",
-      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Wanduforl"
-    },
-    {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
       "url": "https://github.com/owenshuo/open-bounty-radar",
       "published_at": "2026-05-30T22:24:30Z",
@@ -2083,19 +2023,19 @@
       "user": "owenshuo"
     },
     {
-      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
-      "url": "https://github.com/andyhuo520/tang-changan",
-      "published_at": "2026-05-29T03:51:09Z",
-      "description": "大唐长安 · 智机府 — Tang Changan web game",
+      "title": "forter/agentic-readiness-guide - Agentic Readiness Guide",
+      "url": "https://github.com/forter/agentic-readiness-guide",
+      "published_at": "2026-06-03T06:16:58Z",
+      "description": "Agentic Readiness Guide",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6420463?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "andyhuo520"
+      "stars": 75,
+      "user": "forter"
     },
     {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
@@ -2109,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 50977,
+      "stars": 51392,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2124,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1485,
       "user": "asz798838958"
     },
     {
@@ -2139,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 828,
       "user": "ClaudioDrews"
     },
     {
@@ -2154,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2169,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 428,
       "user": "V0id-v2"
     },
     {
@@ -2184,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 387,
       "user": "tastyeffectco"
     },
     {
