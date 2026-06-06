@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-06 11:00 CAT)
+## 📅 Latest Updates (2026-06-06 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
 - [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 
-_Last automated update: Sat, 06 Jun 2026 11:47:28 CAT_
+_Last automated update: Sat, 06 Jun 2026 13:22:37 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 06 Jun 2026 11:47:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Execution timing, event loop phases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 06 Jun 2026 09:47:28 GMT</b><br/>
+  <b>Last automated update: Sat, 06 Jun 2026 11:22:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
