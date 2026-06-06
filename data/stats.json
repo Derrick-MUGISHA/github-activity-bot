@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 46,
+    "AI": 47,
     "JavaScript": 24,
     "Python": 18,
     "DevOps": 7,
@@ -15,7 +15,7 @@
     "Cloud": 14,
     "Database": 2,
     "Security": 4,
-    "Tools": 32
+    "Tools": 33
   },
   "by_language": {
     "Go": 22,
@@ -30,7 +30,7 @@
   },
   "by_date": {
     "2026-06-03": 17,
-    "2026-06-05": 3,
+    "2026-06-05": 4,
     "2026-06-04": 12,
     "2026-06-02": 12,
     "2026-06-01": 8,
@@ -71,24 +71,24 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 21,
+    "ai": 22,
     "github": 15,
     "open-source": 15,
     "javascript": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "discuss": 8,
+    "discuss": 9,
     "python": 7,
     "devchallenge": 6,
+    "productivity": 6,
     "webdev": 6,
     "programming": 5,
-    "productivity": 5,
     "agents": 5,
     "go": 5,
+    "career": 4,
     "kubernetes": 4,
     "googlecloud": 4,
-    "githubchallenge": 4,
     "google": 4,
     "aws": 4
   },

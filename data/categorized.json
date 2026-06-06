@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
+      "published_at": "2026-06-05T15:45:48Z",
+      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
+      "source": "Dev.to",
+      "user": "Marko Frei"
+    },
+    {
       "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
       "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
       "published_at": "2026-06-05T19:37:39Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
-      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
-      "published_at": "2026-06-04T17:58:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
-      "source": "Dev.to",
-      "user": "Natheesh Kumar"
     },
     {
       "title": "Dystopian Civilization Scenarios",
@@ -146,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
+      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
+      "published_at": "2026-06-04T17:58:15Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "githubcopilot",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
+      "source": "Dev.to",
+      "user": "Natheesh Kumar"
     },
     {
       "title": "The Software Developer's Guide to AEO",
@@ -595,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 57605,
+      "stars": 57841,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -610,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1550,
+      "stars": 1552,
       "user": "asz798838958"
     },
     {
@@ -625,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 932,
       "user": "ClaudioDrews"
     },
     {
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 680,
       "user": "jd-opensource"
     }
   ],
@@ -675,19 +690,6 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
       "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
       "published_at": "2026-06-03T05:09:01Z",
@@ -701,6 +703,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -894,7 +909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "Jane-xiaoer"
     },
     {
@@ -909,7 +924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 219,
       "user": "nevertoday"
     },
     {
@@ -954,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "VoidSignals"
     },
     {
@@ -1149,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 57605,
+      "stars": 57841,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1164,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1550,
+      "stars": 1552,
       "user": "asz798838958"
     },
     {
@@ -1179,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 932,
       "user": "ClaudioDrews"
     },
     {
@@ -1194,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 680,
       "user": "jd-opensource"
     },
     {
@@ -1316,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "tastyeffectco"
     }
   ],
@@ -1724,19 +1739,19 @@
   ],
   "Tools": [
     {
-      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
-      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
-      "published_at": "2026-06-04T17:58:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
+      "published_at": "2026-06-05T15:45:48Z",
+      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot",
-        "webdev"
+        "ai",
+        "discuss",
+        "career",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
       "source": "Dev.to",
-      "user": "Natheesh Kumar"
+      "user": "Marko Frei"
     },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
@@ -1782,6 +1797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk58s97r9eq9qgs3d5vk3.png",
       "source": "Dev.to",
       "user": "Adam Rybinski"
+    },
+    {
+      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
+      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
+      "published_at": "2026-06-04T17:58:15Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "githubcopilot",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
+      "source": "Dev.to",
+      "user": "Natheesh Kumar"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1983,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "Jane-xiaoer"
     },
     {
@@ -1998,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 219,
       "user": "nevertoday"
     },
     {
@@ -2043,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "VoidSignals"
     },
     {
@@ -2058,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 57605,
+      "stars": 57841,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2073,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1550,
+      "stars": 1552,
       "user": "asz798838958"
     },
     {
@@ -2088,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 932,
       "user": "ClaudioDrews"
     },
     {
@@ -2103,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 680,
       "user": "jd-opensource"
     },
     {
@@ -2133,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "tastyeffectco"
     },
     {
@@ -2178,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "pood1e"
     },
     {
