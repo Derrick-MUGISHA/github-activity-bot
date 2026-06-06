@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-06 14:00 CAT)
+## 📅 Latest Updates (2026-06-06 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 
-_Last automated update: Sat, 06 Jun 2026 14:49:54 CAT_
+_Last automated update: Sat, 06 Jun 2026 16:27:05 CAT_
 
 
 
@@ -238,25 +238,25 @@ Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 06 Jun 2026 12:49:54 GMT</b><br/>
+  <b>Last automated update: Sat, 06 Jun 2026 14:27:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
