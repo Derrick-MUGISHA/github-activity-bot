@@ -88,21 +88,6 @@
       "user": "Jean-Phi Baconnais"
     },
     {
-      "title": "Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana",
-      "url": "https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h",
-      "published_at": "2026-06-04T13:04:00Z",
-      "description": "Welcome back to The Agent Factory! This week, we went beyond the hype to dissect the technical...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "antigravity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm09x57b0ktpchn5bxgd.png",
-      "source": "Dev.to",
-      "user": "Amit Maraj"
-    },
-    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -215,6 +200,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana",
+      "url": "https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h",
+      "published_at": "2026-06-04T13:04:00Z",
+      "description": "Welcome back to The Agent Factory! This week, we went beyond the hype to dissect the technical...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "antigravity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm09x57b0ktpchn5bxgd.png",
+      "source": "Dev.to",
+      "user": "Amit Maraj"
     },
     {
       "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
@@ -440,6 +440,21 @@
       "user": "Burton Smith"
     },
     {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
+      "published_at": "2026-06-02T09:43:33Z",
+      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "tags": [
+        "agentdevelopmentkit",
+        "googlecloud",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -595,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 56976,
+      "stars": 57178,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -610,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1547,
       "user": "asz798838958"
     },
     {
@@ -625,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 914,
       "user": "ClaudioDrews"
     },
     {
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 655,
       "user": "jd-opensource"
     }
   ],
@@ -894,8 +909,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "Jane-xiaoer"
+    },
+    {
+      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+      "published_at": "2026-06-03T03:26:16Z",
+      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "nevertoday"
     },
     {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
@@ -911,21 +941,6 @@
       "source": "GitHub",
       "stars": 150,
       "user": "mrdoob"
-    },
-    {
-      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "published_at": "2026-06-03T03:26:16Z",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "nevertoday"
     },
     {
       "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
@@ -954,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 122,
       "user": "VoidSignals"
     },
     {
@@ -1149,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 56976,
+      "stars": 57178,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1164,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1547,
       "user": "asz798838958"
     },
     {
@@ -1179,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 914,
       "user": "ClaudioDrews"
     },
     {
@@ -1194,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 655,
       "user": "jd-opensource"
     },
     {
@@ -1228,21 +1243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Gubernator [the kill ku8s]",
-      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
-      "published_at": "2026-06-02T12:55:56Z",
-      "description": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
-      "tags": [
-        "architecture",
-        "infrastructure",
-        "kubernetes",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1305,6 +1305,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Gubernator [the kill ku8s]",
+      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
+      "published_at": "2026-06-02T12:55:56Z",
+      "description": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
+      "tags": [
+        "architecture",
+        "infrastructure",
+        "kubernetes",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "url": "https://github.com/tastyeffectco/sandboxes",
       "published_at": "2026-06-03T18:55:02Z",
@@ -1316,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 455,
       "user": "tastyeffectco"
     }
   ],
@@ -1437,21 +1452,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p",
-      "published_at": "2026-06-01T19:42:06Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "antigravitycli",
-        "mcps",
-        "nvidial4",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ppdbma8f0ii916q0drf.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Characterize the AWS Graviton memory subsystem using ASCT",
@@ -1602,6 +1602,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
+      "published_at": "2026-06-02T09:43:33Z",
+      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "tags": [
+        "agentdevelopmentkit",
+        "googlecloud",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -1957,6 +1972,21 @@
       "user": "Chris Jarvis"
     },
     {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
+      "published_at": "2026-06-02T09:43:33Z",
+      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "tags": [
+        "agentdevelopmentkit",
+        "googlecloud",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
       "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
       "published_at": "2026-06-04T05:20:47Z",
@@ -1968,8 +1998,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "Jane-xiaoer"
+    },
+    {
+      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+      "published_at": "2026-06-03T03:26:16Z",
+      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "nevertoday"
     },
     {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
@@ -1985,21 +2030,6 @@
       "source": "GitHub",
       "stars": 150,
       "user": "mrdoob"
-    },
-    {
-      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "published_at": "2026-06-03T03:26:16Z",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "nevertoday"
     },
     {
       "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
@@ -2028,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 122,
       "user": "VoidSignals"
     },
     {
@@ -2043,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 56976,
+      "stars": 57178,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2058,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1547,
       "user": "asz798838958"
     },
     {
@@ -2073,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 914,
       "user": "ClaudioDrews"
     },
     {
@@ -2088,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 655,
       "user": "jd-opensource"
     },
     {
@@ -2118,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 455,
       "user": "tastyeffectco"
     },
     {
@@ -2137,6 +2167,21 @@
       "user": "rstagit"
     },
     {
+      "title": "FengZi1221/proxy-installer - 一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
+      "url": "https://github.com/FengZi1221/proxy-installer",
+      "published_at": "2026-06-04T19:05:37Z",
+      "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "FengZi1221"
+    },
+    {
       "title": "pood1e/wa-app - GitHub Repository",
       "url": "https://github.com/pood1e/wa-app",
       "published_at": "2026-05-31T12:09:33Z",
@@ -2150,21 +2195,6 @@
       "source": "GitHub",
       "stars": 127,
       "user": "pood1e"
-    },
-    {
-      "title": "FengZi1221/proxy-installer - 一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
-      "url": "https://github.com/FengZi1221/proxy-installer",
-      "published_at": "2026-06-04T19:05:37Z",
-      "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "FengZi1221"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
