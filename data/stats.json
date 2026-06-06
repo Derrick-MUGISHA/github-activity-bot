@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -14,7 +14,7 @@
     "Mobile": 2,
     "Cloud": 14,
     "Database": 2,
-    "Security": 4,
+    "Security": 3,
     "Tools": 33
   },
   "by_language": {
@@ -29,7 +29,7 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-06-03": 17,
+    "2026-06-03": 16,
     "2026-06-05": 4,
     "2026-06-04": 12,
     "2026-06-02": 12,
@@ -84,13 +84,13 @@
     "productivity": 6,
     "webdev": 6,
     "programming": 5,
-    "agents": 5,
     "go": 5,
     "career": 4,
     "kubernetes": 4,
     "googlecloud": 4,
     "google": 4,
-    "aws": 4
+    "aws": 4,
+    "opensource": 4
   },
   "trending_topics": [],
   "language_percentages": {
