@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-06 9:00 CAT)
+## 📅 Latest Updates (2026-06-06 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
 - [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 
-_Last automated update: Sat, 06 Jun 2026 09:36:27 CAT_
+_Last automated update: Sat, 06 Jun 2026 11:47:28 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 06 Jun 2026 09:36:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 06 Jun 2026 07:36:27 GMT</b><br/>
+  <b>Last automated update: Sat, 06 Jun 2026 09:47:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
