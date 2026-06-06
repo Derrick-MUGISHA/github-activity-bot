@@ -425,6 +425,21 @@
       "user": "Chris Jarvis"
     },
     {
+      "title": "AI fatigue is very real and people are fighting back!",
+      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
+      "published_at": "2026-05-27T19:45:09Z",
+      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
+      "tags": [
+        "ai",
+        "workplace",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
+      "source": "Dev.to",
+      "user": "Fayaz"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -584,21 +599,6 @@
       "user": "PanisHandsome"
     },
     {
-      "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
-      "url": "https://github.com/owenshuo/open-bounty-radar",
-      "published_at": "2026-05-30T22:24:30Z",
-      "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55501274?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "owenshuo"
-    },
-    {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "published_at": "2026-05-31T14:05:51Z",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 55505,
+      "stars": 55620,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1531,
       "user": "asz798838958"
     },
     {
@@ -640,8 +640,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 878,
       "user": "ClaudioDrews"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "published_at": "2026-06-02T03:25:51Z",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 561,
+      "user": "jd-opensource"
     }
   ],
   "JavaScript": [
@@ -868,21 +883,6 @@
       "user": "velmu"
     },
     {
-      "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
-      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-      "published_at": "2026-05-30T22:31:34Z",
-      "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "tejaswigowda"
-    },
-    {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
       "url": "https://github.com/mrdoob/draco.js",
       "published_at": "2026-06-03T08:44:06Z",
@@ -909,7 +909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 117,
       "user": "Obsidian-Trades"
     },
     {
@@ -928,19 +928,34 @@
       "user": "PanisHandsome"
     },
     {
-      "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
-      "url": "https://github.com/owenshuo/open-bounty-radar",
-      "published_at": "2026-05-30T22:24:30Z",
-      "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
+      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
+      "published_at": "2026-06-03T06:30:11Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55501274?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "owenshuo"
+      "stars": 84,
+      "user": "VoidSignals"
+    },
+    {
+      "title": "forter/agentic-readiness-guide - Agentic Readiness Guide",
+      "url": "https://github.com/forter/agentic-readiness-guide",
+      "published_at": "2026-06-03T06:16:58Z",
+      "description": "Agentic Readiness Guide",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6420463?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "forter"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -1134,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 55505,
+      "stars": 55620,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1149,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1531,
       "user": "asz798838958"
     },
     {
@@ -1164,23 +1179,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 878,
       "user": "ClaudioDrews"
-    },
-    {
-      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
-      "published_at": "2026-05-30T21:57:30Z",
-      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
-      "source": "GitHub",
-      "stars": 635,
-      "user": "V0id-v2"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -1194,8 +1194,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "qiuqiubuchongle-cloud"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "published_at": "2026-06-02T03:25:51Z",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 561,
+      "user": "jd-opensource"
     }
   ],
   "DevOps": [
@@ -1301,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "tastyeffectco"
     }
   ],
@@ -1407,21 +1422,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334",
-      "published_at": "2026-06-01T22:12:15Z",
-      "description": "This article provides a step by step deployment review for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "mcps",
-        "antigravitycli",
-        "googlecloudrun",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7fwgjay5o4p21f5o3art.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1600,7 +1600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1942,21 +1942,6 @@
       "user": "Chris Jarvis"
     },
     {
-      "title": "tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
-      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-      "published_at": "2026-05-30T22:31:34Z",
-      "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1267401?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "tejaswigowda"
-    },
-    {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
       "url": "https://github.com/mrdoob/draco.js",
       "published_at": "2026-06-03T08:44:06Z",
@@ -1983,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 117,
       "user": "Obsidian-Trades"
     },
     {
@@ -2002,19 +1987,34 @@
       "user": "PanisHandsome"
     },
     {
-      "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
-      "url": "https://github.com/owenshuo/open-bounty-radar",
-      "published_at": "2026-05-30T22:24:30Z",
-      "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
+      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
+      "published_at": "2026-06-03T06:30:11Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55501274?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "owenshuo"
+      "stars": 84,
+      "user": "VoidSignals"
+    },
+    {
+      "title": "forter/agentic-readiness-guide - Agentic Readiness Guide",
+      "url": "https://github.com/forter/agentic-readiness-guide",
+      "published_at": "2026-06-03T06:16:58Z",
+      "description": "Agentic Readiness Guide",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6420463?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "forter"
     },
     {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
@@ -2028,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 55505,
+      "stars": 55620,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2043,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1531,
       "user": "asz798838958"
     },
     {
@@ -2058,23 +2058,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 878,
       "user": "ClaudioDrews"
-    },
-    {
-      "title": "V0id-v2/Void-Tools-v2.0 - Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
-      "published_at": "2026-05-30T21:57:30Z",
-      "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121522213?v=4",
-      "source": "GitHub",
-      "stars": 635,
-      "user": "V0id-v2"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -2088,8 +2073,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "qiuqiubuchongle-cloud"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "published_at": "2026-06-02T03:25:51Z",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 561,
+      "user": "jd-opensource"
     },
     {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2103,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "tastyeffectco"
     },
     {
@@ -2148,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "FengZi1221"
     },
     {
