@@ -322,21 +322,6 @@
       "user": "Hagag"
     },
     {
-      "title": "Debloating The AI-Grown Codebase",
-      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
-      "published_at": "2026-06-01T17:22:48Z",
-      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Sovereign Synapse: The Context-Cleaner",
       "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
       "published_at": "2026-06-02T13:53:40Z",
@@ -438,6 +423,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
       "source": "Dev.to",
       "user": "Fayaz"
+    },
+    {
+      "title": "Content Virtualization using the HTML <template> Element",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
+      "published_at": "2026-06-02T13:26:42Z",
+      "description": "When I started this experiment, the core question was simple:   Because content inside...",
+      "tags": [
+        "html",
+        "javascript",
+        "performance",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
+      "source": "Dev.to",
+      "user": "Burton Smith"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 55620,
+      "stars": 56119,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1538,
       "user": "asz798838958"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 887,
       "user": "ClaudioDrews"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 590,
       "user": "jd-opensource"
     }
   ],
@@ -761,6 +761,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
+    },
+    {
+      "title": "Content Virtualization using the HTML <template> Element",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
+      "published_at": "2026-06-02T13:26:42Z",
+      "description": "When I started this experiment, the core question was simple:   Because content inside...",
+      "tags": [
+        "html",
+        "javascript",
+        "performance",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
+      "source": "Dev.to",
+      "user": "Burton Smith"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -883,6 +898,21 @@
       "user": "velmu"
     },
     {
+      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "published_at": "2026-06-04T05:20:47Z",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
+      "source": "GitHub",
+      "stars": 404,
+      "user": "Jane-xiaoer"
+    },
+    {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
       "url": "https://github.com/mrdoob/draco.js",
       "published_at": "2026-06-03T08:44:06Z",
@@ -894,7 +924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "mrdoob"
     },
     {
@@ -909,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 142,
       "user": "Obsidian-Trades"
     },
     {
@@ -939,23 +969,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 98,
       "user": "VoidSignals"
-    },
-    {
-      "title": "forter/agentic-readiness-guide - Agentic Readiness Guide",
-      "url": "https://github.com/forter/agentic-readiness-guide",
-      "published_at": "2026-06-03T06:16:58Z",
-      "description": "Agentic Readiness Guide",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6420463?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "forter"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -969,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "IRNova"
     }
   ],
@@ -1149,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 55620,
+      "stars": 56119,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1164,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1538,
       "user": "asz798838958"
     },
     {
@@ -1179,23 +1194,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 887,
       "user": "ClaudioDrews"
-    },
-    {
-      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
-      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
-      "published_at": "2026-06-01T08:52:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "qiuqiubuchongle-cloud"
     },
     {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
@@ -1209,8 +1209,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 590,
       "user": "jd-opensource"
+    },
+    {
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+      "published_at": "2026-06-01T08:52:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
+      "source": "GitHub",
+      "stars": 583,
+      "user": "qiuqiubuchongle-cloud"
     }
   ],
   "DevOps": [
@@ -1316,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "tastyeffectco"
     }
   ],
@@ -1364,6 +1379,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
+    },
+    {
+      "title": "Content Virtualization using the HTML <template> Element",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
+      "published_at": "2026-06-02T13:26:42Z",
+      "description": "When I started this experiment, the core question was simple:   Because content inside...",
+      "tags": [
+        "html",
+        "javascript",
+        "performance",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
+      "source": "Dev.to",
+      "user": "Burton Smith"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1600,7 +1630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1615,7 +1645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "IRNova"
     }
   ],
@@ -1942,6 +1972,21 @@
       "user": "Chris Jarvis"
     },
     {
+      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "published_at": "2026-06-04T05:20:47Z",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
+      "source": "GitHub",
+      "stars": 404,
+      "user": "Jane-xiaoer"
+    },
+    {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
       "url": "https://github.com/mrdoob/draco.js",
       "published_at": "2026-06-03T08:44:06Z",
@@ -1953,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "mrdoob"
     },
     {
@@ -1968,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 142,
       "user": "Obsidian-Trades"
     },
     {
@@ -1998,23 +2043,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 98,
       "user": "VoidSignals"
-    },
-    {
-      "title": "forter/agentic-readiness-guide - Agentic Readiness Guide",
-      "url": "https://github.com/forter/agentic-readiness-guide",
-      "published_at": "2026-06-03T06:16:58Z",
-      "description": "Agentic Readiness Guide",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6420463?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "forter"
     },
     {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
@@ -2028,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 55620,
+      "stars": 56119,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2043,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1538,
       "user": "asz798838958"
     },
     {
@@ -2058,23 +2088,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 887,
       "user": "ClaudioDrews"
-    },
-    {
-      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
-      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
-      "published_at": "2026-06-01T08:52:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "qiuqiubuchongle-cloud"
     },
     {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
@@ -2088,8 +2103,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 590,
       "user": "jd-opensource"
+    },
+    {
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+      "published_at": "2026-06-01T08:52:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
+      "source": "GitHub",
+      "stars": 583,
+      "user": "qiuqiubuchongle-cloud"
     },
     {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2103,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "tastyeffectco"
     },
     {
@@ -2148,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 123,
       "user": "FengZi1221"
     },
     {
@@ -2163,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "IRNova"
     }
   ]
