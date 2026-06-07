@@ -31,6 +31,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
       "published_at": "2026-06-05T14:58:17Z",
@@ -56,21 +71,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx9et2voj059rxt8kgm8r.webp",
       "source": "Dev.to",
       "user": "Olivier Lacombe"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
@@ -118,21 +118,6 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
-      "published_at": "2026-06-01T18:54:52Z",
-      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
       "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
       "published_at": "2026-06-05T15:45:48Z",
@@ -146,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
       "source": "Dev.to",
       "user": "Marko Frei"
+    },
+    {
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
+      "published_at": "2026-06-01T18:54:52Z",
+      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -215,21 +215,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
-      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
-      "published_at": "2026-06-04T08:53:08Z",
-      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "notebooklm",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "What I'm building, and why",
@@ -614,6 +599,21 @@
       "user": "indigodaddy"
     },
     {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "JimLiu"
+    },
+    {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "url": "https://github.com/jd-opensource/JoyAI-Echo",
       "published_at": "2026-06-02T03:25:51Z",
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 796,
       "user": "jd-opensource"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "VAST-AI-Research"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "iampedii"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "baidu"
     }
   ],
@@ -939,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Jane-xiaoer"
     },
     {
@@ -954,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "nevertoday"
     },
     {
@@ -969,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "mrdoob"
     },
     {
@@ -984,23 +984,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "VoidSignals"
     },
     {
-      "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-      "url": "https://github.com/Obsidian-Trades/polymarket-copy-trading-bot",
-      "published_at": "2026-06-03T06:30:03Z",
-      "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 143,
-      "user": "Obsidian-Trades"
+      "stars": 151,
+      "user": "JimLiu"
     }
   ],
   "Python": [
@@ -1179,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 796,
       "user": "jd-opensource"
     },
     {
@@ -1194,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "VAST-AI-Research"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "tiantianGPU"
     },
     {
@@ -1239,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "S-Sigdel"
     }
   ],
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "tastyeffectco"
     }
   ],
@@ -1436,6 +1436,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "JimLiu"
     }
   ],
   "Mobile": [
@@ -1660,7 +1675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1675,7 +1690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "iampedii"
     },
     {
@@ -1724,21 +1739,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
-      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
-      "published_at": "2026-06-04T08:53:08Z",
-      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "notebooklm",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
     {
       "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
       "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Jane-xiaoer"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "nevertoday"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "mrdoob"
     },
     {
@@ -2074,23 +2074,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "VoidSignals"
     },
     {
-      "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-      "url": "https://github.com/Obsidian-Trades/polymarket-copy-trading-bot",
-      "published_at": "2026-06-03T06:30:03Z",
-      "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748270?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 143,
-      "user": "Obsidian-Trades"
+      "stars": 151,
+      "user": "JimLiu"
     },
     {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
@@ -2104,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 796,
       "user": "jd-opensource"
     },
     {
@@ -2119,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "VAST-AI-Research"
     },
     {
@@ -2149,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "tiantianGPU"
     },
     {
@@ -2164,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "S-Sigdel"
     },
     {
@@ -2179,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "tastyeffectco"
     },
     {
@@ -2209,7 +2209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "iampedii"
     },
     {
@@ -2239,7 +2239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "baidu"
     }
   ]

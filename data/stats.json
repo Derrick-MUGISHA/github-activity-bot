@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -10,15 +10,15 @@
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 8,
-    "WebDev": 5,
+    "WebDev": 6,
     "Mobile": 1,
     "Cloud": 16,
     "Database": 2,
-    "Security": 3,
+    "Security": 2,
     "Tools": 32
   },
   "by_language": {
-    "Go": 22,
+    "Go": 21,
     "Swift": 1,
     "JavaScript": 23,
     "Java": 20,
@@ -28,9 +28,9 @@
     "CSharp": 1
   },
   "by_date": {
-    "2026-06-03": 16,
+    "2026-06-03": 15,
     "2026-06-05": 5,
-    "2026-06-04": 12,
+    "2026-06-04": 11,
     "2026-06-02": 12,
     "2026-06-01": 11,
     "2026-05-29": 3,
@@ -69,6 +69,7 @@
     "2017-11-27": 1,
     "2026-05-11": 1,
     "2025-05-07": 1,
+    "2026-06-07": 1,
     "2026-06-06": 1
   },
   "top_tags": {
@@ -89,19 +90,19 @@
     "aws": 5,
     "go": 5,
     "googlecloud": 4,
-    "google": 4,
     "career": 4,
+    "google": 4,
     "opensource": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "25.3",
-    "Swift": "1.1",
-    "JavaScript": "26.4",
-    "Java": "23.0",
-    "Rust": "1.1",
-    "Python": "20.7",
-    "PHP": "1.1",
-    "CSharp": "1.1"
+    "Go": "24.4",
+    "Swift": "1.2",
+    "JavaScript": "26.7",
+    "Java": "23.3",
+    "Rust": "1.2",
+    "Python": "20.9",
+    "PHP": "1.2",
+    "CSharp": "1.2"
   }
 }
