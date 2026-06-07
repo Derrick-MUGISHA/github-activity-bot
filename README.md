@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-07 22:00 CAT)
+## 📅 Latest Updates (2026-06-07 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
 - [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6) _[Dev.to]_
 
-_Last automated update: Sun, 07 Jun 2026 22:10:33 CAT_
+_Last automated update: Sun, 07 Jun 2026 23:35:43 CAT_
 
 
 
@@ -237,25 +237,25 @@ Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 07 Jun 2026 20:10:33 GMT</b><br/>
+  <b>Last automated update: Sun, 07 Jun 2026 21:35:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
