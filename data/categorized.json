@@ -16,21 +16,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
       "published_at": "2026-06-05T14:58:17Z",
@@ -200,6 +185,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "What I'm building, and why",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 222,
       "user": "JimLiu"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 823,
       "user": "jd-opensource"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "iampedii"
     },
     {
@@ -924,7 +924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 462,
       "user": "Jane-xiaoer"
     },
     {
@@ -939,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "nevertoday"
     },
     {
@@ -954,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 222,
       "user": "JimLiu"
     },
     {
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "mrdoob"
     }
   ],
@@ -1164,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 823,
       "user": "jd-opensource"
     },
     {
@@ -1179,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 599,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 398,
       "user": "S-Sigdel"
     }
   ],
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 222,
       "user": "JimLiu"
     }
   ],
@@ -1630,7 +1630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 599,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1645,7 +1645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "iampedii"
     }
   ],
@@ -1724,21 +1724,6 @@
   ],
   "Tools": [
     {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "LiveKnowledge: Engineering Verifiable Knowledge",
       "url": "https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl",
       "published_at": "2026-06-04T05:18:06Z",
@@ -1794,6 +1779,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "What I'm building, and why",
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 462,
       "user": "Jane-xiaoer"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "nevertoday"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 222,
       "user": "JimLiu"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "mrdoob"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 823,
       "user": "jd-opensource"
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 599,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2119,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 398,
       "user": "S-Sigdel"
     },
     {
@@ -2164,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "iampedii"
     },
     {
@@ -2179,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "MengMengCode"
     },
     {
