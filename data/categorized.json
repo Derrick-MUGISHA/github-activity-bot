@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
-      "published_at": "2026-06-05T15:45:48Z",
-      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
-      "source": "Dev.to",
-      "user": "Marko Frei"
-    },
-    {
       "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
       "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
       "published_at": "2026-06-05T19:37:39Z",
@@ -148,6 +133,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
+      "published_at": "2026-06-05T15:45:48Z",
+      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
+      "source": "Dev.to",
+      "user": "Marko Frei"
+    },
+    {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
       "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
       "published_at": "2026-06-04T17:58:15Z",
@@ -215,21 +215,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
@@ -595,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 747,
       "user": "jd-opensource"
     },
     {
@@ -610,8 +595,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 500,
       "user": "VAST-AI-Research"
+    },
+    {
+      "title": "Fullive-AI/Anima - Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "url": "https://github.com/Fullive-AI/Anima",
+      "published_at": "2026-06-01T10:06:21Z",
+      "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285607428?v=4",
+      "source": "GitHub",
+      "stars": 389,
+      "user": "Fullive-AI"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "baidu"
     }
   ],
@@ -909,7 +909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "Jane-xiaoer"
     },
     {
@@ -924,7 +924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 282,
       "user": "nevertoday"
     },
     {
@@ -969,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 143,
       "user": "VoidSignals"
     }
   ],
@@ -1149,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 747,
       "user": "jd-opensource"
     },
     {
@@ -1164,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 592,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1179,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 500,
       "user": "VAST-AI-Research"
     },
     {
@@ -1194,23 +1194,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 465,
       "user": "tiantianGPU"
     },
     {
-      "title": "S-Sigdel/vimhjkl - learn vim from your terminal with spaced repetition",
-      "url": "https://github.com/S-Sigdel/vimhjkl",
-      "published_at": "2026-06-01T08:08:33Z",
-      "description": "learn vim from your terminal with spaced repetition",
+      "title": "Fullive-AI/Anima - Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "url": "https://github.com/Fullive-AI/Anima",
+      "published_at": "2026-06-01T10:06:21Z",
+      "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285607428?v=4",
       "source": "GitHub",
-      "stars": 385,
-      "user": "S-Sigdel"
+      "stars": 389,
+      "user": "Fullive-AI"
     }
   ],
   "DevOps": [
@@ -1260,21 +1260,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
       "published_at": "2026-06-02T20:02:20Z",
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 475,
       "user": "tastyeffectco"
     }
   ],
@@ -1484,21 +1469,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Cross Cloud A2A Agent Benchmarking with Antigravity CLI",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-benchmarking-with-antigravity-cli-1enf",
       "published_at": "2026-06-02T20:54:53Z",
@@ -1600,7 +1570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 592,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1665,21 +1635,6 @@
   ],
   "Security": [
     {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
       "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
       "published_at": "2026-06-04T08:53:08Z",
@@ -1708,21 +1663,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
-      "published_at": "2026-06-05T15:45:48Z",
-      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
-      "source": "Dev.to",
-      "user": "Marko Frei"
-    },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
@@ -1767,6 +1707,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk58s97r9eq9qgs3d5vk3.png",
       "source": "Dev.to",
       "user": "Adam Rybinski"
+    },
+    {
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
+      "published_at": "2026-06-05T15:45:48Z",
+      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
+      "source": "Dev.to",
+      "user": "Marko Frei"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -1983,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "Jane-xiaoer"
     },
     {
@@ -1998,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 282,
       "user": "nevertoday"
     },
     {
@@ -2043,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 143,
       "user": "VoidSignals"
     },
     {
@@ -2058,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 747,
       "user": "jd-opensource"
     },
     {
@@ -2073,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 592,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2088,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 500,
       "user": "VAST-AI-Research"
     },
     {
@@ -2103,23 +2058,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 465,
       "user": "tiantianGPU"
     },
     {
-      "title": "S-Sigdel/vimhjkl - learn vim from your terminal with spaced repetition",
-      "url": "https://github.com/S-Sigdel/vimhjkl",
-      "published_at": "2026-06-01T08:08:33Z",
-      "description": "learn vim from your terminal with spaced repetition",
+      "title": "Fullive-AI/Anima - Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "url": "https://github.com/Fullive-AI/Anima",
+      "published_at": "2026-06-01T10:06:21Z",
+      "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285607428?v=4",
       "source": "GitHub",
-      "stars": 385,
-      "user": "S-Sigdel"
+      "stars": 389,
+      "user": "Fullive-AI"
     },
     {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2133,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 475,
       "user": "tastyeffectco"
     },
     {
@@ -2193,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "baidu"
     }
   ]
