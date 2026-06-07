@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-07-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (48.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (30.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.7%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**DevOps**: 🟦🟦🟦 8 (7.8%)
+**DevOps**: 🟦🟦🟦 8 (7.6%)
 
-**WebDev**: 🟦🟦 6 (5.9%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**Database**: 🟦 2 (2.0%)
+**Security**: 🟦 3 (2.9%)
 
-**Security**: 🟦 2 (2.0%)
+**Database**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,21 +60,21 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Go              ███████████████████████████ 24.4 (24.4%)
-Java            ██████████████████████████ 23.3 (23.3%)
-Python          ███████████████████████ 20.9 (20.9%)
-Swift           █ 1.2 (1.2%)
-Rust            █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 26.4 (26.4%)
+Go              █████████████████████████████ 25.3 (25.3%)
+Java            ██████████████████████████ 23.0 (23.0%)
+Python          ████████████████████████ 20.7 (20.7%)
+Swift           █ 1.1 (1.1%)
+Rust            █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Go" : 21
+    "Go" : 22
     "Java" : 20
     "Python" : 18
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![kubernetes](https://img.shields.io/badge/kubernetes-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-4-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![kubernetes](https://img.shields.io/badge/kubernetes-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![aws](https://img.shields.io/badge/aws-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-07 16:00 CAT)
+## 📅 Latest Updates (2026-06-07 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,9 +216,9 @@ npm run test
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 - [Extending a MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3) _[Dev.to]_
-- [After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System](https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp) _[Dev.to]_
+- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 
-_Last automated update: Sun, 07 Jun 2026 16:55:43 CAT_
+_Last automated update: Sun, 07 Jun 2026 18:12:18 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 07 Jun 2026 16:55:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 07 Jun 2026 14:55:43 GMT</b><br/>
+  <b>Last automated update: Sun, 07 Jun 2026 16:12:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
