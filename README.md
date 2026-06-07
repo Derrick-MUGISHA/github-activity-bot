@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-07-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.4%)
 
-**DevOps**: 🟦🟦🟦 8 (7.6%)
+**DevOps**: 🟦🟦🟦 8 (7.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
-
-**Security**: 🟦 3 (2.9%)
+**WebDev**: 🟦🟦 6 (5.8%)
 
 **Database**: 🟦 2 (1.9%)
+
+**Security**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,21 +60,21 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.4 (26.4%)
-Go              █████████████████████████████ 25.3 (25.3%)
-Java            ██████████████████████████ 23.0 (23.0%)
-Python          ████████████████████████ 20.7 (20.7%)
-Swift           █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 26.7 (26.7%)
+Go              ███████████████████████████ 24.4 (24.4%)
+Java            ██████████████████████████ 23.3 (23.3%)
+Python          ███████████████████████ 20.9 (20.9%)
+Swift           █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
+CSharp          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Go" : 22
+    "Go" : 21
     "Java" : 20
     "Python" : 18
     "Swift" : 1
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-07 13:00 CAT)
+## 📅 Latest Updates (2026-06-07 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -173,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png" width="200" alt="Dystopian Civilization Scenarios" />
+    <a href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png" width="200" alt="Am I Becoming Too Slow for the AI World?" />
       <br/>
-      <b>Dystopian Civilization Scenarios</b>
+      <b>Am I Becoming Too Slow for the AI World?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx9et2voj059rxt8kgm8r.webp" width="200" alt="Introducing Gemma 4 12B: a unified, encoder-free multimodal model" />
+    <a href="https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png" width="200" alt="Dystopian Civilization Scenarios" />
       <br/>
-      <b>Introducing Gemma 4 12B: a unified, encoder-free m...</b>
+      <b>Dystopian Civilization Scenarios</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,24 +201,24 @@ npm run test
 - [Magnificent Humanity, Building Cities, and a Special Announcement!](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf) _[Dev.to]_
 - [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 - [Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture](https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j) _[Dev.to]_
+- [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
 - [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422) _[Dev.to]_
 - [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5) _[Dev.to]_
-- [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904) _[Dev.to]_
 - [Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh) _[Dev.to]_
 - [Characterize the AWS Graviton memory subsystem using ASCT](https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24) _[Dev.to]_
 - [I Built a Terminal Dashboard to Keep Track of All My Local Projects](https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3) _[Dev.to]_
 - [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc) _[Dev.to]_
 - [LiveKnowledge: Engineering Verifiable Knowledge](https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl) _[Dev.to]_
 - [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
-- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 - [AI Won't Replace Humans — It'll Just Make Us Pickier](https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij) _[Dev.to]_
+- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k) _[Dev.to]_
 - [Want to work with me? We're hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol) _[Dev.to]_
 - [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 
-_Last automated update: Sun, 07 Jun 2026 13:25:47 CAT_
+_Last automated update: Sun, 07 Jun 2026 14:59:12 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Sun, 07 Jun 2026 13:25:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 2. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 3. Database: Design a database schema for a social media platform
+### 1. Database: Design a database schema for a social media platform
 
 **Difficulty**: Hard | **Topics**: design, scalability
 
@@ -256,6 +234,28 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 Users, posts, relationships, indexes, partitioning
+
+</details>
+
+### 2. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. DataStructures: Find the longest substring without repeating characters
+
+**Difficulty**: Medium | **Topics**: strings, sliding window
+
+<details>
+<summary>💡 Hint</summary>
+
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 07 Jun 2026 11:25:47 GMT</b><br/>
+  <b>Last automated update: Sun, 07 Jun 2026 12:59:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
