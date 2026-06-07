@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-06-orange)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-07-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (32.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.6%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.6%)
 
 **DevOps**: 🟦🟦🟦 7 (6.8%)
 
@@ -44,9 +44,9 @@
 
 **Security**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (1.9%)
-
 **Database**: 🟦 2 (1.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
@@ -60,21 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.0 (27.0%)
-Go              ███████████████████████████ 24.7 (24.7%)
-Java            █████████████████████████ 22.5 (22.5%)
-Python          ██████████████████████ 20.2 (20.2%)
+JavaScript      ██████████████████████████████ 26.4 (26.4%)
+Go              █████████████████████████████ 25.3 (25.3%)
+Java            ██████████████████████████ 23.0 (23.0%)
+Python          ████████████████████████ 20.7 (20.7%)
 Swift           █ 1.1 (1.1%)
 Rust            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 CSharp          █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
+    "JavaScript" : 23
     "Go" : 22
     "Java" : 20
     "Python" : 18
@@ -128,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-07 1:00 CAT)
+## 📅 Latest Updates (2026-06-07 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +218,7 @@ npm run test
 - [I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)](https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942) _[Dev.to]_
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 
-_Last automated update: Sun, 07 Jun 2026 01:16:45 CAT_
+_Last automated update: Sun, 07 Jun 2026 03:36:33 CAT_
 
 
 
@@ -227,36 +226,36 @@ _Last automated update: Sun, 07 Jun 2026 01:16:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -290,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 06 Jun 2026 23:16:46 GMT</b><br/>
+  <b>Last automated update: Sun, 07 Jun 2026 01:36:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
