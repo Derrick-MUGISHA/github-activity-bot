@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
-      "published_at": "2026-06-05T19:37:39Z",
-      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
-      "tags": [
-        "ai",
-        "wecoded",
-        "programming",
-        "iot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
       "published_at": "2026-06-04T18:19:03Z",
@@ -118,21 +103,6 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
-      "published_at": "2026-06-05T15:45:48Z",
-      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
-      "source": "Dev.to",
-      "user": "Marko Frei"
-    },
-    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -146,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
+      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
+      "published_at": "2026-06-05T19:37:39Z",
+      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
+      "tags": [
+        "ai",
+        "wecoded",
+        "programming",
+        "iot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -292,6 +277,21 @@
       "user": "Ken W Alger"
     },
     {
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
+      "published_at": "2026-06-05T15:45:48Z",
+      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
+      "source": "Dev.to",
+      "user": "Marko Frei"
+    },
+    {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
       "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
       "published_at": "2026-06-03T13:46:51Z",
@@ -318,21 +318,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7dl72d50qc7nfs1fl86q.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -625,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 209,
       "user": "JimLiu"
     },
     {
@@ -640,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 819,
       "user": "jd-opensource"
     },
     {
@@ -655,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "VAST-AI-Research"
     },
     {
@@ -670,23 +655,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "iampedii"
-    },
-    {
-      "title": "realrenatto/take-over - Take-Over is a Go-based tool designed to detect subdomain takeover vulnerabilities across different Cloud Service Providers (CSPs).",
-      "url": "https://github.com/realrenatto/take-over",
-      "published_at": "2026-06-06T18:55:03Z",
-      "description": "Take-Over is a Go-based tool designed to detect subdomain takeover vulnerabilities across different Cloud Service Providers (CSPs).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/200254256?v=4",
-      "source": "GitHub",
-      "stars": 56,
-      "user": "realrenatto"
     },
     {
       "title": "baidu/nettools - A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
@@ -700,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "baidu"
     }
   ],
@@ -969,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "nevertoday"
     },
     {
@@ -984,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 209,
       "user": "JimLiu"
     },
     {
@@ -999,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "VoidSignals"
     },
     {
@@ -1014,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "mrdoob"
     }
   ],
@@ -1194,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 819,
       "user": "jd-opensource"
     },
     {
@@ -1209,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1224,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "VAST-AI-Research"
     },
     {
@@ -1239,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "tiantianGPU"
     },
     {
@@ -1254,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "S-Sigdel"
     }
   ],
@@ -1305,21 +1275,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Gubernator [the kill ku8s]",
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
       "published_at": "2026-06-02T12:55:56Z",
@@ -1365,8 +1320,8 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxes",
+      "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "url": "https://github.com/tastyeffectco/sandboxd",
       "published_at": "2026-06-03T18:55:02Z",
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "tags": [
@@ -1376,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "tastyeffectco"
     }
   ],
@@ -1464,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 209,
       "user": "JimLiu"
     }
   ],
@@ -1589,21 +1544,6 @@
       "user": "xbill"
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
       "published_at": "2026-05-27T09:44:24Z",
@@ -1690,7 +1630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1705,23 +1645,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "iampedii"
-    },
-    {
-      "title": "realrenatto/take-over - Take-Over is a Go-based tool designed to detect subdomain takeover vulnerabilities across different Cloud Service Providers (CSPs).",
-      "url": "https://github.com/realrenatto/take-over",
-      "published_at": "2026-06-06T18:55:03Z",
-      "description": "Take-Over is a Go-based tool designed to detect subdomain takeover vulnerabilities across different Cloud Service Providers (CSPs).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/200254256?v=4",
-      "source": "GitHub",
-      "stars": 56,
-      "user": "realrenatto"
     }
   ],
   "Database": [
@@ -1829,21 +1754,6 @@
       "user": "Adam Rybinski"
     },
     {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
-      "published_at": "2026-06-05T15:45:48Z",
-      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
-      "source": "Dev.to",
-      "user": "Marko Frei"
-    },
-    {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
       "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
       "published_at": "2026-06-04T17:58:15Z",
@@ -1942,6 +1852,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
       "source": "Dev.to",
       "user": "Stefan Buhrmester"
+    },
+    {
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
+      "published_at": "2026-06-05T15:45:48Z",
+      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
+      "source": "Dev.to",
+      "user": "Marko Frei"
     },
     {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
@@ -2074,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "nevertoday"
     },
     {
@@ -2089,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 209,
       "user": "JimLiu"
     },
     {
@@ -2104,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "VoidSignals"
     },
     {
@@ -2119,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "mrdoob"
     },
     {
@@ -2134,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 819,
       "user": "jd-opensource"
     },
     {
@@ -2149,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2164,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "VAST-AI-Research"
     },
     {
@@ -2179,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "tiantianGPU"
     },
     {
@@ -2194,12 +2119,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "S-Sigdel"
     },
     {
-      "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxes",
+      "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "url": "https://github.com/tastyeffectco/sandboxd",
       "published_at": "2026-06-03T18:55:02Z",
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "tags": [
@@ -2209,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "tastyeffectco"
     },
     {
@@ -2239,23 +2164,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "iampedii"
     },
     {
-      "title": "realrenatto/take-over - Take-Over is a Go-based tool designed to detect subdomain takeover vulnerabilities across different Cloud Service Providers (CSPs).",
-      "url": "https://github.com/realrenatto/take-over",
-      "published_at": "2026-06-06T18:55:03Z",
-      "description": "Take-Over is a Go-based tool designed to detect subdomain takeover vulnerabilities across different Cloud Service Providers (CSPs).",
+      "title": "MengMengCode/CLICD - CLICD 是一个面向 LXC 的轻量容器管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器，也适合需要批量创建和分发子用户管理链接的场景。",
+      "url": "https://github.com/MengMengCode/CLICD",
+      "published_at": "2026-06-05T11:27:26Z",
+      "description": "CLICD 是一个面向 LXC 的轻量容器管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器，也适合需要批量创建和分发子用户管理链接的场景。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/200254256?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 56,
-      "user": "realrenatto"
+      "stars": 58,
+      "user": "MengMengCode"
     },
     {
       "title": "baidu/nettools - A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
@@ -2269,7 +2194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "baidu"
     }
   ]
