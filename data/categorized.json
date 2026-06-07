@@ -58,21 +58,6 @@
       "user": "Olivier Lacombe"
     },
     {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
-      "published_at": "2026-06-04T19:38:50Z",
-      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "google",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
-      "source": "Dev.to",
-      "user": "Jean-Phi Baconnais"
-    },
-    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -86,6 +71,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
+      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
+      "published_at": "2026-06-04T19:38:50Z",
+      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "google",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
+      "source": "Dev.to",
+      "user": "Jean-Phi Baconnais"
     },
     {
       "title": "LiveKnowledge: Engineering Verifiable Knowledge",
@@ -425,6 +425,51 @@
       "user": "Aryan Irani"
     },
     {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana",
+      "url": "https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h",
+      "published_at": "2026-06-04T13:04:00Z",
+      "description": "Welcome back to The Agent Factory! This week, we went beyond the hype to dissect the technical...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "antigravity",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm09x57b0ktpchn5bxgd.png",
+      "source": "Dev.to",
+      "user": "Amit Maraj"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -580,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 765,
       "user": "jd-opensource"
     },
     {
@@ -595,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 506,
       "user": "VAST-AI-Research"
     },
     {
@@ -625,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 92,
       "user": "iampedii"
     },
     {
@@ -655,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "baidu"
     }
   ],
@@ -909,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Jane-xiaoer"
     },
     {
@@ -924,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 288,
       "user": "nevertoday"
     },
     {
@@ -939,8 +984,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "mrdoob"
+    },
+    {
+      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
+      "published_at": "2026-06-03T06:30:11Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "VoidSignals"
     },
     {
       "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
@@ -956,21 +1016,6 @@
       "source": "GitHub",
       "stars": 143,
       "user": "Obsidian-Trades"
-    },
-    {
-      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
-      "published_at": "2026-06-03T06:30:11Z",
-      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
-      "source": "GitHub",
-      "stars": 143,
-      "user": "VoidSignals"
     }
   ],
   "Python": [
@@ -1149,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 765,
       "user": "jd-opensource"
     },
     {
@@ -1164,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1179,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 506,
       "user": "VAST-AI-Research"
     },
     {
@@ -1194,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 470,
       "user": "tiantianGPU"
     },
     {
@@ -1290,6 +1335,36 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
+      "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
+      "published_at": "2026-05-26T16:43:57Z",
+      "description": "For years, NGINX has been the default choice for reverse proxying and load balancing.  It solved...",
+      "tags": [
+        "nginx",
+        "kubernetes",
+        "devops",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
+      "source": "Dev.to",
+      "user": "Himanshu Gupta"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "url": "https://github.com/tastyeffectco/sandboxes",
       "published_at": "2026-06-03T18:55:02Z",
@@ -1301,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "tastyeffectco"
     }
   ],
@@ -1559,6 +1634,36 @@
       "user": "Aryan Irani"
     },
     {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
       "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
       "published_at": "2026-06-01T08:52:27Z",
@@ -1570,7 +1675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1585,7 +1690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 92,
       "user": "iampedii"
     },
     {
@@ -1648,6 +1753,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
+      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
+      "published_at": "2026-06-04T06:49:28Z",
+      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1779,20 +1899,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
       "source": "Dev.to",
       "user": "Harish Kumar"
-    },
-    {
-      "title": "Learning Lessons from Gaming",
-      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm",
-      "published_at": "2026-06-02T14:00:58Z",
-      "description": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
-      "tags": [
-        "productivity",
-        "learning",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzufvcvbvxzvp8pevsdsc.jpg",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
@@ -1938,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Jane-xiaoer"
     },
     {
@@ -1953,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 288,
       "user": "nevertoday"
     },
     {
@@ -1968,8 +2074,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "mrdoob"
+    },
+    {
+      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
+      "published_at": "2026-06-03T06:30:11Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "VoidSignals"
     },
     {
       "title": "Obsidian-Trades/polymarket-copy-trading-bot - polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
@@ -1987,21 +2108,6 @@
       "user": "Obsidian-Trades"
     },
     {
-      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
-      "published_at": "2026-06-03T06:30:11Z",
-      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
-      "source": "GitHub",
-      "stars": 143,
-      "user": "VoidSignals"
-    },
-    {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "url": "https://github.com/jd-opensource/JoyAI-Echo",
       "published_at": "2026-06-02T03:25:51Z",
@@ -2013,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 765,
       "user": "jd-opensource"
     },
     {
@@ -2028,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2043,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 506,
       "user": "VAST-AI-Research"
     },
     {
@@ -2058,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164491093?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 470,
       "user": "tiantianGPU"
     },
     {
@@ -2088,7 +2194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "tastyeffectco"
     },
     {
@@ -2118,7 +2224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 92,
       "user": "iampedii"
     },
     {
@@ -2148,7 +2254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "baidu"
     }
   ]
