@@ -455,6 +455,21 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
+      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
+      "published_at": "2026-06-04T08:53:08Z",
+      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "notebooklm",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -610,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 199,
       "user": "JimLiu"
     },
     {
@@ -625,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 811,
       "user": "jd-opensource"
     },
     {
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "VAST-AI-Research"
     },
     {
@@ -720,21 +735,6 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
-      "published_at": "2026-06-03T05:09:01Z",
-      "description": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
-      "tags": [
-        "nextjs",
-        "typescript",
-        "webdev",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "How Are Developers Actually Using AI At Work?",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
       "published_at": "2026-05-27T07:11:18Z",
@@ -806,6 +806,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
       "source": "Dev.to",
       "user": "Burton Smith"
+    },
+    {
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
+      "published_at": "2026-06-03T05:09:01Z",
+      "description": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "webdev",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -939,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Jane-xiaoer"
     },
     {
@@ -954,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 312,
       "user": "nevertoday"
     },
     {
@@ -969,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 199,
       "user": "JimLiu"
     },
     {
@@ -999,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "mrdoob"
     }
   ],
@@ -1179,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 811,
       "user": "jd-opensource"
     },
     {
@@ -1194,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1209,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "VAST-AI-Research"
     },
     {
@@ -1239,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "S-Sigdel"
     }
   ],
@@ -1449,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 199,
       "user": "JimLiu"
     }
   ],
@@ -1634,6 +1649,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Characterize the AWS Graviton memory subsystem using ASCT",
+      "url": "https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24",
+      "published_at": "2026-06-03T20:57:57Z",
+      "description": "If you've ever deployed memory-bound workloads on AWS Graviton, you know that CPU compute speed is...",
+      "tags": [
+        "aws",
+        "arm",
+        "linux",
+        "ubuntu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fokacinrvb66nasw7yfi0.jpg",
+      "source": "Dev.to",
+      "user": "Jason Andrews"
+    },
+    {
       "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
       "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
       "published_at": "2026-06-04T06:49:28Z",
@@ -1660,7 +1690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1738,6 +1768,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
+      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
+      "published_at": "2026-06-04T08:53:08Z",
+      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "notebooklm",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1988,6 +2033,21 @@
       "user": "Aryan Irani"
     },
     {
+      "title": "I Built a Terminal Dashboard to Keep Track of All My Local Projects",
+      "url": "https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3",
+      "published_at": "2026-06-03T23:12:02Z",
+      "description": "A terminal dashboard that scans your local projects and shows stack, git activity, and status at a glance. Open in editor, run scripts, or launch a terminal from one TUI.",
+      "tags": [
+        "cli",
+        "tui",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8fc5rzb5y8502c74si0.png",
+      "source": "Dev.to",
+      "user": "Roie Ambulo"
+    },
+    {
       "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
       "published_at": "2026-06-04T05:20:47Z",
@@ -1999,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Jane-xiaoer"
     },
     {
@@ -2014,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 312,
       "user": "nevertoday"
     },
     {
@@ -2029,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 199,
       "user": "JimLiu"
     },
     {
@@ -2059,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "mrdoob"
     },
     {
@@ -2074,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 811,
       "user": "jd-opensource"
     },
     {
@@ -2089,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2104,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149052137?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "VAST-AI-Research"
     },
     {
@@ -2134,7 +2194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108139412?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "S-Sigdel"
     },
     {
