@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "It's Time We All Eat some more Cucumber!",
+      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
+      "published_at": "2026-06-08T09:22:09Z",
+      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
+      "tags": [
+        "ai",
+        "tdd",
+        "bdd",
+        "darkfactory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
+    },
+    {
+      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
+      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm",
+      "published_at": "2026-06-08T02:27:01Z",
+      "description": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
+      "tags": [
+        "mcpserver",
+        "agenticai",
+        "googleantigravity",
+        "agentharness"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
       "published_at": "2026-06-04T18:19:03Z",
@@ -26,6 +56,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
+      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl",
+      "published_at": "2026-06-08T08:08:51Z",
+      "description": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
+      "tags": [
+        "workspacestudio",
+        "googleworkspace",
+        "automation",
+        "notebooklm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2zjlv1db4oc3v724ycr.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
@@ -73,6 +118,21 @@
       "user": "Ayoola Solomon"
     },
     {
+      "title": "[GCP Practical] LINE Business Card Bot",
+      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
+      "published_at": "2026-06-07T15:26:28Z",
+      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "tags": [
+        "api",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -86,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon",
+      "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4",
+      "published_at": "2026-06-05T14:58:21Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxle8q89sqfi40z1vlhn9.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -202,6 +277,21 @@
       "user": "Hagag"
     },
     {
+      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
+      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
+      "published_at": "2026-06-05T19:37:39Z",
+      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
+      "tags": [
+        "ai",
+        "wecoded",
+        "programming",
+        "iot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
       "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
       "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
       "published_at": "2026-06-05T15:45:48Z",
@@ -215,6 +305,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
       "source": "Dev.to",
       "user": "Marko Frei"
+    },
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
+      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
+      "published_at": "2026-06-07T13:26:05Z",
+      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "tags": [
+        "firebase",
+        "angular",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
@@ -245,19 +350,19 @@
       "user": "xbill"
     },
     {
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
-      "published_at": "2026-06-05T19:37:39Z",
-      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
+      "title": "What are your goals for the week? #181",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
+      "published_at": "2026-06-01T14:00:00Z",
+      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
       "tags": [
-        "ai",
-        "wecoded",
-        "programming",
-        "iot"
+        "devjournal",
+        "discuss",
+        "productivity",
+        "watercooler"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
       "source": "Dev.to",
-      "user": "Jen Looper"
+      "user": "Chris Jarvis"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -275,19 +380,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
+      "title": "Google Colab, but in your favourite terminal",
+      "url": "https://dev.to/gde/google-colab-but-in-your-favourite-terminal-5hf8",
+      "published_at": "2026-06-05T21:45:00Z",
+      "description": "While some of my recent posts have involved using the Colab extension for VS Code and the...",
       "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
+        "colab",
+        "cli",
+        "ai",
+        "machinelearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2p1273q5008c0pi65rk6.png",
       "source": "Dev.to",
-      "user": "Chris Jarvis"
+      "user": "Glen Yu"
     },
     {
       "title": "AI fatigue is very real and people are fighting back!",
@@ -350,79 +455,19 @@
       "user": "Olivier Lacombe"
     },
     {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "published_at": "2026-05-25T15:08:33Z",
-      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "title": "Extending a MCP/A2A Currency Agent with AG-UI",
+      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-ag-ui-1252",
+      "published_at": "2026-06-05T17:04:28Z",
+      "description": "Building an Agent with A2A, MCP, ADK, and AG-UI   This tutorial aims to extend and test a...",
       "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
+        "mcps",
+        "a2aprotocol",
+        "agents",
+        "a2ui"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbrjgcs18pxg54fdtger6.png",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Agent Factory Recap: Building with Gemini 3, AI Studio, Antigravity, and Nano Banana",
-      "url": "https://dev.to/googleai/agent-factory-recap-building-with-gemini-3-ai-studio-antigravity-and-nano-banana-186h",
-      "published_at": "2026-06-04T13:04:00Z",
-      "description": "Welcome back to The Agent Factory! This week, we went beyond the hype to dissect the technical...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "antigravity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm09x57b0ktpchn5bxgd.png",
-      "source": "Dev.to",
-      "user": "Amit Maraj"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
-      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
-      "published_at": "2026-06-04T08:53:08Z",
-      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "notebooklm",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
+      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -580,8 +625,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 501,
       "user": "JimLiu"
+    },
+    {
+      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "published_at": "2026-06-04T03:45:01Z",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "techjarves"
     },
     {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
@@ -595,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1046,
       "user": "jd-opensource"
     },
     {
@@ -610,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 342,
       "user": "GordenSun"
     },
     {
@@ -625,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 229,
       "user": "openai"
     },
     {
@@ -640,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "Soul-AILab"
     },
     {
@@ -655,23 +715,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 120,
       "user": "iampedii"
-    },
-    {
-      "title": "baidu/nettools - A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
-      "url": "https://github.com/baidu/nettools",
-      "published_at": "2026-06-02T08:03:10Z",
-      "description": "A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
-      "source": "GitHub",
-      "stars": 87,
-      "user": "baidu"
     }
   ],
   "JavaScript": [
@@ -749,6 +794,21 @@
       "user": "Stefan Buhrmester"
     },
     {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
+      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
+      "published_at": "2026-06-07T13:26:05Z",
+      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "tags": [
+        "firebase",
+        "angular",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
       "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
       "published_at": "2026-05-28T14:39:29Z",
@@ -777,21 +837,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
       "source": "Dev.to",
       "user": "Burton Smith"
-    },
-    {
-      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
-      "published_at": "2026-06-03T05:09:01Z",
-      "description": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
-      "tags": [
-        "nextjs",
-        "typescript",
-        "webdev",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -914,21 +959,6 @@
       "user": "velmu"
     },
     {
-      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "published_at": "2026-06-04T05:20:47Z",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 480,
-      "user": "Jane-xiaoer"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -940,8 +970,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 501,
       "user": "JimLiu"
+    },
+    {
+      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "published_at": "2026-06-04T05:20:47Z",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
+      "source": "GitHub",
+      "stars": 481,
+      "user": "Jane-xiaoer"
     },
     {
       "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
@@ -955,23 +1000,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 431,
       "user": "nevertoday"
-    },
-    {
-      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
-      "published_at": "2026-06-03T06:30:11Z",
-      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "VoidSignals"
     },
     {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
@@ -987,9 +1017,39 @@
       "source": "GitHub",
       "stars": 164,
       "user": "mrdoob"
+    },
+    {
+      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "published_at": "2026-06-04T03:45:01Z",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "techjarves"
     }
   ],
   "Python": [
+    {
+      "title": "[GCP Practical] LINE Business Card Bot",
+      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
+      "published_at": "2026-06-07T15:26:28Z",
+      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "tags": [
+        "api",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
       "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
@@ -1150,23 +1210,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1046,
       "user": "jd-opensource"
-    },
-    {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "rednote-hilab"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -1180,8 +1225,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 342,
       "user": "GordenSun"
+    },
+    {
+      "title": "rednote-hilab/dots.tts - GitHub Repository",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "published_at": "2026-06-04T09:22:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "rednote-hilab"
     },
     {
       "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
@@ -1195,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 229,
       "user": "openai"
     },
     {
@@ -1210,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "Soul-AILab"
     }
   ],
@@ -1276,34 +1336,19 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
-      "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
-      "published_at": "2026-05-26T16:43:57Z",
-      "description": "For years, NGINX has been the default choice for reverse proxying and load balancing.  It solved...",
+      "title": "Examples Gubernator",
+      "url": "https://dev.to/gde/examples-gubernator-3pk9",
+      "published_at": "2026-06-06T09:18:33Z",
+      "description": "Gubernator Orchestrator Update!   Just shipped some major improvements examples to Gubernator (the...",
       "tags": [
-        "nginx",
-        "kubernetes",
         "devops",
-        "webdev"
+        "go",
+        "rag",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
       "source": "Dev.to",
-      "user": "Himanshu Gupta"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -1317,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "tastyeffectco"
     }
   ],
@@ -1391,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 501,
       "user": "JimLiu"
     }
   ],
@@ -1424,6 +1469,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "[GCP Practical] LINE Business Card Bot",
+      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
+      "published_at": "2026-06-07T15:26:28Z",
+      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "tags": [
+        "api",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1469,6 +1529,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
+      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
+      "published_at": "2026-06-07T13:26:05Z",
+      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "tags": [
+        "firebase",
+        "angular",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "The Ultimate Cloud Run Guide 2026",
@@ -1531,51 +1606,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "published_at": "2026-05-25T15:08:33Z",
-      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Characterize the AWS Graviton memory subsystem using ASCT",
-      "url": "https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24",
-      "published_at": "2026-06-03T20:57:57Z",
-      "description": "If you've ever deployed memory-bound workloads on AWS Graviton, you know that CPU compute speed is...",
-      "tags": [
-        "aws",
-        "arm",
-        "linux",
-        "ubuntu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fokacinrvb66nasw7yfi0.jpg",
-      "source": "Dev.to",
-      "user": "Jason Andrews"
-    },
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -1587,7 +1617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 120,
       "user": "iampedii"
     }
   ],
@@ -1621,36 +1651,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation",
-      "url": "https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng",
-      "published_at": "2026-06-04T06:49:28Z",
-      "description": "Kubernetes is the industry standard for scaling cloud-native workloads While it offers tremendous...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkffzvkvt061fbw8nmtip.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Automating Document Review with Google Workspace Studio and NotebookLM",
-      "url": "https://dev.to/gde/automating-document-review-with-google-workspace-studio-and-notebooklm-4p6e",
-      "published_at": "2026-06-04T08:53:08Z",
-      "description": "If you work in IT, Legal, or Procurement, you know the pain of the Vendor Security Review. A vendor...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "notebooklm",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1825,6 +1825,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "What are your goals for the week? #181",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
+      "published_at": "2026-06-01T14:00:00Z",
+      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
+      "tags": [
+        "devjournal",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
+    },
+    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
       "published_at": "2026-05-27T09:44:24Z",
@@ -1855,21 +1870,6 @@
       "user": "Daniel Balcarek"
     },
     {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
       "published_at": "2026-06-02T09:43:33Z",
@@ -1885,49 +1885,19 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "I Built a Terminal Dashboard to Keep Track of All My Local Projects",
-      "url": "https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3",
-      "published_at": "2026-06-03T23:12:02Z",
-      "description": "A terminal dashboard that scans your local projects and shows stack, git activity, and status at a glance. Open in editor, run scripts, or launch a terminal from one TUI.",
+      "title": "GitHub, Demystified",
+      "url": "https://dev.to/mlh/github-demystified-4mkd",
+      "published_at": "2026-06-05T19:32:48Z",
+      "description": "TL;DR - GitHub is a place to store code and keep track of every change made to it. That is the...",
       "tags": [
-        "cli",
-        "tui",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8fc5rzb5y8502c74si0.png",
-      "source": "Dev.to",
-      "user": "Roie Ambulo"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
-    },
-    {
-      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "published_at": "2026-06-04T05:20:47Z",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "tags": [
-        "javascript",
         "github",
-        "open-source"
+        "beginners",
+        "opensource",
+        "software"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 480,
-      "user": "Jane-xiaoer"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7xcajowex8jup12kszn7.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
@@ -1941,8 +1911,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 501,
       "user": "JimLiu"
+    },
+    {
+      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "published_at": "2026-06-04T05:20:47Z",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
+      "source": "GitHub",
+      "stars": 481,
+      "user": "Jane-xiaoer"
     },
     {
       "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
@@ -1956,23 +1941,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 431,
       "user": "nevertoday"
-    },
-    {
-      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
-      "published_at": "2026-06-03T06:30:11Z",
-      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "VoidSignals"
     },
     {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
@@ -1990,6 +1960,21 @@
       "user": "mrdoob"
     },
     {
+      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "published_at": "2026-06-04T03:45:01Z",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "techjarves"
+    },
+    {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "url": "https://github.com/jd-opensource/JoyAI-Echo",
       "published_at": "2026-06-02T03:25:51Z",
@@ -2001,23 +1986,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1046,
       "user": "jd-opensource"
-    },
-    {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "rednote-hilab"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2031,8 +2001,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 342,
       "user": "GordenSun"
+    },
+    {
+      "title": "rednote-hilab/dots.tts - GitHub Repository",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "published_at": "2026-06-04T09:22:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "rednote-hilab"
     },
     {
       "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
@@ -2046,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 229,
       "user": "openai"
     },
     {
@@ -2061,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "Soul-AILab"
     },
     {
@@ -2076,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "tastyeffectco"
     },
     {
@@ -2091,8 +2076,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 137,
       "user": "FengZi1221"
+    },
+    {
+      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
+      "published_at": "2026-06-05T07:34:28Z",
+      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "iampedii"
     },
     {
       "title": "TryHarder-L/NiniMenu - 一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
@@ -2110,34 +2110,19 @@
       "user": "TryHarder-L"
     },
     {
-      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
-      "published_at": "2026-06-05T07:34:28Z",
-      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "title": "MengMengCode/CLICD - CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。",
+      "url": "https://github.com/MengMengCode/CLICD",
+      "published_at": "2026-06-05T11:27:26Z",
+      "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "iampedii"
-    },
-    {
-      "title": "baidu/nettools - A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
-      "url": "https://github.com/baidu/nettools",
-      "published_at": "2026-06-02T08:03:10Z",
-      "description": "A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
-      "source": "GitHub",
-      "stars": 87,
-      "user": "baidu"
+      "stars": 96,
+      "user": "MengMengCode"
     }
   ]
 }
