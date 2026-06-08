@@ -28,21 +28,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5",
-      "published_at": "2026-06-05T16:51:47Z",
-      "description": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "gemma",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx9et2voj059rxt8kgm8r.webp",
-      "source": "Dev.to",
-      "user": "Olivier Lacombe"
-    },
-    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -101,21 +86,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
-      "published_at": "2026-06-05T19:37:39Z",
-      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
-      "tags": [
-        "ai",
-        "wecoded",
-        "programming",
-        "iot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -262,21 +232,6 @@
       "user": "Hagag"
     },
     {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
-      "published_at": "2026-06-02T13:53:40Z",
-      "description": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
-      "tags": [
-        "python",
-        "cryptocurrency",
-        "mcp",
-        "localfirst"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
       "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
       "published_at": "2026-06-05T15:45:48Z",
@@ -318,6 +273,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7dl72d50qc7nfs1fl86q.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
+      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
+      "published_at": "2026-06-05T19:37:39Z",
+      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
+      "tags": [
+        "ai",
+        "wecoded",
+        "programming",
+        "iot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -395,6 +365,21 @@
       "user": "Aryan Irani"
     },
     {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5",
+      "published_at": "2026-06-05T16:51:47Z",
+      "description": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "gemma",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx9et2voj059rxt8kgm8r.webp",
+      "source": "Dev.to",
+      "user": "Olivier Lacombe"
+    },
+    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -453,6 +438,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yfdchwns7nlmqn5ybim.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Spec-Driven Development with OpenSpec",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
+      "published_at": "2026-06-02T18:50:00Z",
+      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "tags": [
+        "ai",
+        "sdd",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
+      "source": "Dev.to",
+      "user": "Christopher Sidebottom"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 355,
       "user": "JimLiu"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 884,
       "user": "jd-opensource"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 219,
       "user": "openai"
     },
     {
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "iampedii"
     },
     {
@@ -685,25 +685,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 72,
       "user": "baidu"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Multi-step form without the overhead",
-      "url": "https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc",
-      "published_at": "2026-06-03T23:37:00Z",
-      "description": "Using built-in form GET method to pass data from one page to another without complicated code.",
-      "tags": [
-        "html",
-        "javascript",
-        "forms"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfnrzq0g9c5w27ok09pj.png",
-      "source": "Dev.to",
-      "user": "Ovi Demetrian Jr"
-    },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
@@ -939,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 471,
       "user": "Jane-xiaoer"
     },
     {
@@ -954,7 +940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 385,
       "user": "nevertoday"
     },
     {
@@ -969,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 355,
       "user": "JimLiu"
     },
     {
@@ -984,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "mrdoob"
     },
     {
@@ -999,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "VoidSignals"
     }
   ],
@@ -1016,21 +1002,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
       "source": "Dev.to",
       "user": "Lucas Rafaldini"
-    },
-    {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
-      "published_at": "2026-06-02T13:53:40Z",
-      "description": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
-      "tags": [
-        "python",
-        "cryptocurrency",
-        "mcp",
-        "localfirst"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -1179,23 +1150,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 884,
       "user": "jd-opensource"
-    },
-    {
-      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
-      "url": "https://github.com/openai/role-specific-plugins",
-      "published_at": "2026-06-02T16:27:24Z",
-      "description": "Role-specific Codex plugin templates",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "openai"
     },
     {
       "title": "rednote-hilab/dots.tts - GitHub Repository",
@@ -1209,8 +1165,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 229,
       "user": "rednote-hilab"
+    },
+    {
+      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
+      "url": "https://github.com/openai/role-specific-plugins",
+      "published_at": "2026-06-02T16:27:24Z",
+      "description": "Role-specific Codex plugin templates",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "openai"
     },
     {
       "title": "Soul-AILab/SoulX-Transcriber - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
@@ -1239,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58266997?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 176,
       "user": "cellebrite-labs"
     }
   ],
@@ -1346,25 +1317,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 500,
       "user": "tastyeffectco"
     }
   ],
   "WebDev": [
-    {
-      "title": "Multi-step form without the overhead",
-      "url": "https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc",
-      "published_at": "2026-06-03T23:37:00Z",
-      "description": "Using built-in form GET method to pass data from one page to another without complicated code.",
-      "tags": [
-        "html",
-        "javascript",
-        "forms"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfnrzq0g9c5w27ok09pj.png",
-      "source": "Dev.to",
-      "user": "Ovi Demetrian Jr"
-    },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
@@ -1434,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 355,
       "user": "JimLiu"
     }
   ],
@@ -1645,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "iampedii"
     }
   ],
@@ -1973,6 +1930,21 @@
       "user": "Roie Ambulo"
     },
     {
+      "title": "Spec-Driven Development with OpenSpec",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
+      "published_at": "2026-06-02T18:50:00Z",
+      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "tags": [
+        "ai",
+        "sdd",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
+      "source": "Dev.to",
+      "user": "Christopher Sidebottom"
+    },
+    {
       "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
       "published_at": "2026-06-04T05:20:47Z",
@@ -1984,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 471,
       "user": "Jane-xiaoer"
     },
     {
@@ -1999,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 385,
       "user": "nevertoday"
     },
     {
@@ -2014,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 355,
       "user": "JimLiu"
     },
     {
@@ -2029,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "mrdoob"
     },
     {
@@ -2044,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "VoidSignals"
     },
     {
@@ -2059,23 +2031,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 884,
       "user": "jd-opensource"
-    },
-    {
-      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
-      "url": "https://github.com/openai/role-specific-plugins",
-      "published_at": "2026-06-02T16:27:24Z",
-      "description": "Role-specific Codex plugin templates",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "openai"
     },
     {
       "title": "rednote-hilab/dots.tts - GitHub Repository",
@@ -2089,8 +2046,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 229,
       "user": "rednote-hilab"
+    },
+    {
+      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
+      "url": "https://github.com/openai/role-specific-plugins",
+      "published_at": "2026-06-02T16:27:24Z",
+      "description": "Role-specific Codex plugin templates",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "openai"
     },
     {
       "title": "Soul-AILab/SoulX-Transcriber - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
@@ -2119,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58266997?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 176,
       "user": "cellebrite-labs"
     },
     {
@@ -2134,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 500,
       "user": "tastyeffectco"
     },
     {
@@ -2149,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 130,
       "user": "FengZi1221"
     },
     {
@@ -2164,23 +2136,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "iampedii"
     },
     {
-      "title": "MengMengCode/CLICD - CLICD 是一个面向 LXC 的轻量容器管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器，也适合需要批量创建和分发子用户管理链接的场景。",
-      "url": "https://github.com/MengMengCode/CLICD",
-      "published_at": "2026-06-05T11:27:26Z",
-      "description": "CLICD 是一个面向 LXC 的轻量容器管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器，也适合需要批量创建和分发子用户管理链接的场景。",
+      "title": "TryHarder-L/NiniMenu - 一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
+      "url": "https://github.com/TryHarder-L/NiniMenu",
+      "published_at": "2026-06-05T15:33:26Z",
+      "description": "一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 60,
-      "user": "MengMengCode"
+      "stars": 97,
+      "user": "TryHarder-L"
     },
     {
       "title": "baidu/nettools - A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
@@ -2194,7 +2166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 72,
       "user": "baidu"
     }
   ]
