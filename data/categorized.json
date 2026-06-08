@@ -102,21 +102,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
-      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl",
-      "published_at": "2026-06-08T08:08:51Z",
-      "description": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "automation",
-        "notebooklm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2zjlv1db4oc3v724ycr.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -162,19 +147,19 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "[GCP Practical] LINE Business Card Bot",
-      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
-      "published_at": "2026-06-07T15:26:28Z",
-      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
+      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl",
+      "published_at": "2026-06-08T08:08:51Z",
+      "description": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
       "tags": [
-        "api",
-        "gemini",
-        "google",
-        "python"
+        "workspacestudio",
+        "googleworkspace",
+        "automation",
+        "notebooklm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2zjlv1db4oc3v724ycr.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Aryan Irani"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -319,6 +304,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
       "source": "Dev.to",
       "user": "Hagag"
+    },
+    {
+      "title": "[GCP Practical] LINE Business Card Bot",
+      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
+      "published_at": "2026-06-07T15:26:28Z",
+      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "tags": [
+        "api",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "JimLiu"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "techjarves"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1063,
       "user": "jd-opensource"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "GordenSun"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "openai"
     },
     {
@@ -774,7 +774,7 @@
         "typescript",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiibsuprbbyifibfoide6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
     },
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "JimLiu"
     },
     {
@@ -1073,11 +1073,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "techjarves"
     }
   ],
   "Python": [
+    {
+      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
+      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
+      "published_at": "2026-06-01T16:22:31Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
+      "source": "Dev.to",
+      "user": "Lucas Rafaldini"
+    },
     {
       "title": "[GCP Practical] LINE Business Card Bot",
       "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
@@ -1092,19 +1105,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
-      "source": "Dev.to",
-      "user": "Lucas Rafaldini"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -1253,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1063,
       "user": "jd-opensource"
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "GordenSun"
     },
     {
@@ -1283,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "rednote-hilab"
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "openai"
     },
     {
@@ -1313,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 203,
       "user": "JFGAtlas"
     }
   ],
@@ -1362,21 +1362,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Gubernator [the kill ku8s]",
-      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
-      "published_at": "2026-06-02T12:55:56Z",
-      "description": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
-      "tags": [
-        "architecture",
-        "infrastructure",
-        "kubernetes",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Examples Gubernator",
@@ -1479,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "JimLiu"
     }
   ],
@@ -1499,6 +1484,20 @@
   ],
   "Cloud": [
     {
+      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
+      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
+      "published_at": "2026-06-08T19:43:35Z",
+      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
+      "tags": [
+        "googlecloud",
+        "agents",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
+      "source": "Dev.to",
+      "user": "Joey Lynne Hernandez"
+    },
+    {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
       "published_at": "2026-06-04T18:19:03Z",
@@ -1512,21 +1511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "[GCP Practical] LINE Business Card Bot",
-      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
-      "published_at": "2026-06-07T15:26:28Z",
-      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
-      "tags": [
-        "api",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1574,6 +1558,21 @@
       "user": "xbill"
     },
     {
+      "title": "[GCP Practical] LINE Business Card Bot",
+      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
+      "published_at": "2026-06-07T15:26:28Z",
+      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "tags": [
+        "api",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
       "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
       "published_at": "2026-06-07T13:26:05Z",
@@ -1602,21 +1601,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png",
       "source": "Dev.to",
       "user": "Sara Ford"
-    },
-    {
-      "title": "Mix and Match: Running Kiro on Google Cloud Shell",
-      "url": "https://dev.to/gde/mix-and-match-running-kiro-on-google-cloud-shell-5hco",
-      "published_at": "2026-05-31T12:12:24Z",
-      "description": "This article provides a step by step deployment guide for using Amazon Kiro CLI on the Google Cloud...",
-      "tags": [
-        "kiro",
-        "aws",
-        "googlecloudplatform",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yivqalcsiuq59xkecnh.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -2011,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "JimLiu"
     },
     {
@@ -2071,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "techjarves"
     },
     {
@@ -2086,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1063,
       "user": "jd-opensource"
     },
     {
@@ -2101,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "GordenSun"
     },
     {
@@ -2116,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "rednote-hilab"
     },
     {
@@ -2131,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "openai"
     },
     {
@@ -2146,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 203,
       "user": "JFGAtlas"
     },
     {
@@ -2176,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "FengZi1221"
     },
     {
@@ -2221,7 +2205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "MengMengCode"
     }
   ]

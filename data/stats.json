@@ -9,7 +9,7 @@
     "AI": 53,
     "JavaScript": 24,
     "Python": 18,
-    "DevOps": 6,
+    "DevOps": 5,
     "WebDev": 5,
     "Mobile": 1,
     "Cloud": 11,
@@ -23,23 +23,23 @@
     "Go": 27,
     "Swift": 1,
     "Rust": 2,
-    "Python": 18,
-    "PHP": 2
+    "PHP": 2,
+    "Python": 18
   },
   "by_date": {
-    "2026-06-08": 10,
+    "2026-06-08": 12,
     "2026-06-04": 8,
     "2026-06-05": 8,
     "2026-06-03": 8,
-    "2026-06-02": 8,
-    "2026-06-07": 7,
+    "2026-06-02": 7,
     "2026-06-01": 7,
+    "2026-06-07": 7,
     "2026-05-29": 3,
     "2026-05-28": 3,
     "2026-05-27": 5,
     "2026-05-26": 3,
     "2026-05-21": 1,
-    "2026-05-31": 2,
+    "2026-05-31": 1,
     "2026-06-06": 3,
     "2026-03-11": 1,
     "2024-02-27": 1,
@@ -75,7 +75,7 @@
     "ai": 25,
     "github": 16,
     "open-source": 15,
-    "discuss": 11,
+    "discuss": 12,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -83,15 +83,15 @@
     "programming": 8,
     "productivity": 7,
     "python": 7,
+    "agents": 6,
     "go": 6,
     "webdev": 5,
-    "agents": 5,
     "typescript": 4,
+    "googlecloud": 4,
     "llm": 4,
     "google": 4,
     "opensource": 4,
-    "devchallenge": 4,
-    "gemini": 4
+    "devchallenge": 4
   },
   "trending_topics": [],
   "language_percentages": {
@@ -100,7 +100,7 @@
     "Go": "28.7",
     "Swift": "1.1",
     "Rust": "2.1",
-    "Python": "19.1",
-    "PHP": "2.1"
+    "PHP": "2.1",
+    "Python": "19.1"
   }
 }
