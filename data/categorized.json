@@ -172,21 +172,6 @@
       "user": "Nicholas Kang (Nick)"
     },
     {
-      "title": "Cross Cloud A2A Agent Benchmarking with Antigravity CLI",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-benchmarking-with-antigravity-cli-1enf",
-      "published_at": "2026-06-02T20:54:53Z",
-      "description": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
-      "tags": [
-        "a2aprotocol",
-        "gcp",
-        "aws",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsxkhmi0jv0vdk472uybp.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "An LLM API call, in 4 GIFs",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
       "published_at": "2026-05-26T20:52:22Z",
@@ -595,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 472,
       "user": "JimLiu"
     },
     {
@@ -610,8 +595,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 1017,
       "user": "jd-opensource"
+    },
+    {
+      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "published_at": "2026-06-07T16:20:13Z",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "GordenSun"
     },
     {
       "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "openai"
     },
     {
@@ -644,21 +644,6 @@
       "user": "Soul-AILab"
     },
     {
-      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "published_at": "2026-06-07T16:20:13Z",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "GordenSun"
-    },
-    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -670,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 114,
       "user": "iampedii"
     },
     {
@@ -685,11 +670,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 87,
       "user": "baidu"
     }
   ],
   "JavaScript": [
+    {
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
+      "published_at": "2026-06-08T09:09:29Z",
+      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "tags": [
+        "webdev",
+        "typescript",
+        "bash",
+        "devdiscuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
+      "source": "Dev.to",
+      "user": "Hadil Ben Abdallah"
+    },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
@@ -925,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "Jane-xiaoer"
     },
     {
@@ -940,7 +940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 472,
       "user": "JimLiu"
     },
     {
@@ -955,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 427,
       "user": "nevertoday"
     },
     {
@@ -970,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "VoidSignals"
     },
     {
@@ -1150,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 1017,
       "user": "jd-opensource"
     },
     {
@@ -1165,8 +1165,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 284,
       "user": "rednote-hilab"
+    },
+    {
+      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "published_at": "2026-06-07T16:20:13Z",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "GordenSun"
     },
     {
       "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
@@ -1180,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "openai"
     },
     {
@@ -1197,21 +1212,6 @@
       "source": "GitHub",
       "stars": 195,
       "user": "Soul-AILab"
-    },
-    {
-      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "published_at": "2026-06-07T16:20:13Z",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "GordenSun"
     }
   ],
   "DevOps": [
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 510,
       "user": "tastyeffectco"
     }
   ],
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 472,
       "user": "JimLiu"
     }
   ],
@@ -1467,21 +1467,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Cross Cloud A2A Agent Benchmarking with Antigravity CLI",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-benchmarking-with-antigravity-cli-1enf",
-      "published_at": "2026-06-02T20:54:53Z",
-      "description": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
-      "tags": [
-        "a2aprotocol",
-        "gcp",
-        "aws",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsxkhmi0jv0vdk472uybp.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1602,7 +1587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 114,
       "user": "iampedii"
     }
   ],
@@ -1941,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "Jane-xiaoer"
     },
     {
@@ -1956,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 472,
       "user": "JimLiu"
     },
     {
@@ -1971,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 427,
       "user": "nevertoday"
     },
     {
@@ -1986,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "VoidSignals"
     },
     {
@@ -2016,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 1017,
       "user": "jd-opensource"
     },
     {
@@ -2031,8 +2016,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 284,
       "user": "rednote-hilab"
+    },
+    {
+      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "published_at": "2026-06-07T16:20:13Z",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "GordenSun"
     },
     {
       "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "openai"
     },
     {
@@ -2065,21 +2065,6 @@
       "user": "Soul-AILab"
     },
     {
-      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "published_at": "2026-06-07T16:20:13Z",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "GordenSun"
-    },
-    {
       "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "url": "https://github.com/tastyeffectco/sandboxd",
       "published_at": "2026-06-03T18:55:02Z",
@@ -2091,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 510,
       "user": "tastyeffectco"
     },
     {
@@ -2106,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "FengZi1221"
     },
     {
@@ -2121,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 117,
       "user": "TryHarder-L"
     },
     {
@@ -2136,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 114,
       "user": "iampedii"
     },
     {
@@ -2151,7 +2136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 87,
       "user": "baidu"
     }
   ]
