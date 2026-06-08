@@ -145,18 +145,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -172,19 +160,16 @@
       "user": "marcosomma"
     },
     {
-      "title": "What I'm building, and why",
-      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
-      "published_at": "2026-06-03T09:57:16Z",
-      "description": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed to your AI agent over MCP). Both offline, no SaaS. This is the why.",
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
       "tags": [
-        "opensource",
-        "testing",
-        "webdev",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
-      "user": "Harish Kumar"
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "Cross Cloud A2A Agent Benchmarking with Antigravity CLI",
@@ -610,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 429,
       "user": "JimLiu"
     },
     {
@@ -625,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 958,
       "user": "jd-opensource"
     },
     {
@@ -640,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "openai"
     },
     {
@@ -655,8 +640,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "Soul-AILab"
+    },
+    {
+      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "published_at": "2026-06-07T16:20:13Z",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "GordenSun"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 109,
       "user": "iampedii"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 83,
       "user": "baidu"
     }
   ],
@@ -925,23 +925,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "Jane-xiaoer"
-    },
-    {
-      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "published_at": "2026-06-03T03:26:16Z",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
-      "source": "GitHub",
-      "stars": 385,
-      "user": "nevertoday"
     },
     {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
@@ -955,8 +940,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 429,
       "user": "JimLiu"
+    },
+    {
+      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+      "published_at": "2026-06-03T03:26:16Z",
+      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
+      "source": "GitHub",
+      "stars": 414,
+      "user": "nevertoday"
+    },
+    {
+      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
+      "published_at": "2026-06-03T06:30:11Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "VoidSignals"
     },
     {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
@@ -972,21 +987,6 @@
       "source": "GitHub",
       "stars": 164,
       "user": "mrdoob"
-    },
-    {
-      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
-      "published_at": "2026-06-03T06:30:11Z",
-      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "VoidSignals"
     }
   ],
   "Python": [
@@ -1150,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 958,
       "user": "jd-opensource"
     },
     {
@@ -1165,7 +1165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 262,
       "user": "rednote-hilab"
     },
     {
@@ -1180,7 +1180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "openai"
     },
     {
@@ -1195,23 +1195,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "Soul-AILab"
     },
     {
-      "title": "cellebrite-labs/ghidra-rpc - A Ghidra agentic reverse engineering skill.",
-      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
-      "published_at": "2026-06-04T18:41:57Z",
-      "description": "A Ghidra agentic reverse engineering skill.",
+      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "published_at": "2026-06-07T16:20:13Z",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58266997?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 176,
-      "user": "cellebrite-labs"
+      "stars": 190,
+      "user": "GordenSun"
     }
   ],
   "DevOps": [
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 504,
       "user": "tastyeffectco"
     }
   ],
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 429,
       "user": "JimLiu"
     }
   ],
@@ -1602,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 109,
       "user": "iampedii"
     }
   ],
@@ -1726,18 +1726,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -1753,19 +1741,16 @@
       "user": "marcosomma"
     },
     {
-      "title": "What I'm building, and why",
-      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
-      "published_at": "2026-06-03T09:57:16Z",
-      "description": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed to your AI agent over MCP). Both offline, no SaaS. This is the why.",
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
       "tags": [
-        "opensource",
-        "testing",
-        "webdev",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
-      "user": "Harish Kumar"
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
@@ -1956,23 +1941,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "Jane-xiaoer"
-    },
-    {
-      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "published_at": "2026-06-03T03:26:16Z",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
-      "source": "GitHub",
-      "stars": 385,
-      "user": "nevertoday"
     },
     {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
@@ -1986,8 +1956,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 429,
       "user": "JimLiu"
+    },
+    {
+      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+      "published_at": "2026-06-03T03:26:16Z",
+      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
+      "source": "GitHub",
+      "stars": 414,
+      "user": "nevertoday"
+    },
+    {
+      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
+      "published_at": "2026-06-03T06:30:11Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "VoidSignals"
     },
     {
       "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
@@ -2005,21 +2005,6 @@
       "user": "mrdoob"
     },
     {
-      "title": "VoidSignals/Polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "url": "https://github.com/VoidSignals/Polymarket-trading-bot",
-      "published_at": "2026-06-03T06:30:11Z",
-      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287748527?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "VoidSignals"
-    },
-    {
       "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "url": "https://github.com/jd-opensource/JoyAI-Echo",
       "published_at": "2026-06-02T03:25:51Z",
@@ -2031,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 958,
       "user": "jd-opensource"
     },
     {
@@ -2046,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 262,
       "user": "rednote-hilab"
     },
     {
@@ -2061,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "openai"
     },
     {
@@ -2076,23 +2061,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "Soul-AILab"
     },
     {
-      "title": "cellebrite-labs/ghidra-rpc - A Ghidra agentic reverse engineering skill.",
-      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
-      "published_at": "2026-06-04T18:41:57Z",
-      "description": "A Ghidra agentic reverse engineering skill.",
+      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "published_at": "2026-06-07T16:20:13Z",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58266997?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 176,
-      "user": "cellebrite-labs"
+      "stars": 190,
+      "user": "GordenSun"
     },
     {
       "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2106,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 504,
       "user": "tastyeffectco"
     },
     {
@@ -2121,23 +2106,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "FengZi1221"
-    },
-    {
-      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
-      "published_at": "2026-06-05T07:34:28Z",
-      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "iampedii"
     },
     {
       "title": "TryHarder-L/NiniMenu - 一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
@@ -2151,8 +2121,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 110,
       "user": "TryHarder-L"
+    },
+    {
+      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
+      "published_at": "2026-06-05T07:34:28Z",
+      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "iampedii"
     },
     {
       "title": "baidu/nettools - A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss localization, and bandwidth measurement, enabling end-to-end reliability in large-scale data centers.",
@@ -2166,7 +2151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 83,
       "user": "baidu"
     }
   ]
