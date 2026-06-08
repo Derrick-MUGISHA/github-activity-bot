@@ -16,6 +16,35 @@
       "user": "Sebastian Schürmann"
     },
     {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
+    },
+    {
+      "title": "The agent that fixes bugs by running the code",
+      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
+      "published_at": "2026-06-08T09:13:08Z",
+      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
+      "tags": [
+        "ai",
+        "agents",
+        "debugging",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
+      "source": "Dev.to",
+      "user": "shrey "
+    },
+    {
       "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
       "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm",
       "published_at": "2026-06-08T02:27:01Z",
@@ -29,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "I tried to make an AI agent answer more. It answered less.",
+      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a",
+      "published_at": "2026-06-08T06:48:16Z",
+      "description": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
+      "tags": [
+        "ai",
+        "llm",
+        "eval",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png",
+      "source": "Dev.to",
+      "user": "ankush chadha"
     },
     {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
@@ -163,19 +207,19 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
-      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
-      "published_at": "2026-06-04T17:58:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
+      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
+      "published_at": "2026-06-07T05:09:27Z",
+      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot",
+        "laravel",
+        "php",
+        "ai",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
       "source": "Dev.to",
-      "user": "Natheesh Kumar"
+      "user": "Tom Shaw"
     },
     {
       "title": "The Software Developer's Guide to AEO",
@@ -395,6 +439,35 @@
       "user": "Glen Yu"
     },
     {
+      "title": "The Bot That Never Was",
+      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
+      "published_at": "2026-06-06T14:35:00Z",
+      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
+      "tags": [
+        "security",
+        "opensource",
+        "github",
+        "supplychain"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
+      "source": "Dev.to",
+      "user": "Ionut-Cristian Florescu"
+    },
+    {
+      "title": "What if the best developer on your team is the one who does not understand your business at all?",
+      "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
+      "published_at": "2026-06-06T13:58:22Z",
+      "description": "For as long as I can remember, we have insisted on the opposite. The best developers understand the...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnniekdqejxlzll5dgyb8.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
+    },
+    {
       "title": "AI fatigue is very real and people are fighting back!",
       "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
       "published_at": "2026-05-27T19:45:09Z",
@@ -438,36 +511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5",
-      "published_at": "2026-06-05T16:51:47Z",
-      "description": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "gemma",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx9et2voj059rxt8kgm8r.webp",
-      "source": "Dev.to",
-      "user": "Olivier Lacombe"
-    },
-    {
-      "title": "Extending a MCP/A2A Currency Agent with AG-UI",
-      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-ag-ui-1252",
-      "published_at": "2026-06-05T17:04:28Z",
-      "description": "Building an Agent with A2A, MCP, ADK, and AG-UI   This tutorial aims to extend and test a...",
-      "tags": [
-        "mcps",
-        "a2aprotocol",
-        "agents",
-        "a2ui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbrjgcs18pxg54fdtger6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -625,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 509,
       "user": "JimLiu"
     },
     {
@@ -640,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "techjarves"
     },
     {
@@ -655,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1058,
       "user": "jd-opensource"
     },
     {
@@ -670,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 357,
       "user": "GordenSun"
     },
     {
@@ -685,23 +728,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "openai"
-    },
-    {
-      "title": "Soul-AILab/SoulX-Transcriber - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
-      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-      "published_at": "2026-06-02T05:08:08Z",
-      "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
-      "source": "GitHub",
-      "stars": 197,
-      "user": "Soul-AILab"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -729,11 +757,26 @@
         "webdev",
         "typescript",
         "bash",
-        "devdiscuss"
+        "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
       "source": "Dev.to",
       "user": "Hadil Ben Abdallah"
+    },
+    {
+      "title": "TanStack Start Is Kind of a Big Deal",
+      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
+      "published_at": "2026-06-08T17:06:43Z",
+      "description": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
+      "tags": [
+        "tanstack",
+        "react",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiibsuprbbyifibfoide6.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -970,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 509,
       "user": "JimLiu"
     },
     {
@@ -1000,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 432,
       "user": "nevertoday"
     },
     {
@@ -1030,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "techjarves"
     }
   ],
@@ -1210,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1058,
       "user": "jd-opensource"
     },
     {
@@ -1225,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 357,
       "user": "GordenSun"
     },
     {
@@ -1240,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 298,
       "user": "rednote-hilab"
     },
     {
@@ -1255,23 +1298,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "openai"
     },
     {
-      "title": "Soul-AILab/SoulX-Transcriber - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
-      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-      "published_at": "2026-06-02T05:08:08Z",
-      "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+      "title": "JFGAtlas/aethergate-pro - GitHub Repository",
+      "url": "https://github.com/JFGAtlas/aethergate-pro",
+      "published_at": "2026-06-07T07:57:03Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 197,
-      "user": "Soul-AILab"
+      "stars": 201,
+      "user": "JFGAtlas"
     }
   ],
   "DevOps": [
@@ -1362,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 514,
       "user": "tastyeffectco"
     }
   ],
@@ -1436,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 509,
       "user": "JimLiu"
     }
   ],
@@ -1652,6 +1695,21 @@
   ],
   "Security": [
     {
+      "title": "The Bot That Never Was",
+      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
+      "published_at": "2026-06-06T14:35:00Z",
+      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
+      "tags": [
+        "security",
+        "opensource",
+        "github",
+        "supplychain"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
+      "source": "Dev.to",
+      "user": "Ionut-Cristian Florescu"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1665,6 +1723,35 @@
     }
   ],
   "Tools": [
+    {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
+    },
+    {
+      "title": "The agent that fixes bugs by running the code",
+      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
+      "published_at": "2026-06-08T09:13:08Z",
+      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
+      "tags": [
+        "ai",
+        "agents",
+        "debugging",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
+      "source": "Dev.to",
+      "user": "shrey "
+    },
     {
       "title": "LiveKnowledge: Engineering Verifiable Knowledge",
       "url": "https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl",
@@ -1681,19 +1768,19 @@
       "user": "Adam Rybinski"
     },
     {
-      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
-      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942",
-      "published_at": "2026-06-04T17:58:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
+      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
+      "published_at": "2026-06-07T05:09:27Z",
+      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot",
+        "laravel",
+        "php",
+        "ai",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x6k5oieoy7feycsrjbu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
       "source": "Dev.to",
-      "user": "Natheesh Kumar"
+      "user": "Tom Shaw"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1709,6 +1796,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "Reviving an Abandoned Side Project with Spec-Driven Development (SDD)",
+      "url": "https://dev.to/karlyhoffman/reviving-an-abandoned-side-project-with-speckit-and-copilot-3517",
+      "published_at": "2026-06-07T15:13:15Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge     I had two goals when I decided to...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo3m26o3lrqx63ohpzek5.png",
+      "source": "Dev.to",
+      "user": "Karly Hoffman"
     },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
@@ -1855,19 +1956,33 @@
       "user": "Evan Lin"
     },
     {
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo",
-      "published_at": "2026-06-02T07:06:53Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
+      "title": "The Bot That Never Was",
+      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
+      "published_at": "2026-06-06T14:35:00Z",
+      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "webdev",
-        "csharp"
+        "security",
+        "opensource",
+        "github",
+        "supplychain"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6omx869rpavgg7ouvf5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
       "source": "Dev.to",
-      "user": "Daniel Balcarek"
+      "user": "Ionut-Cristian Florescu"
+    },
+    {
+      "title": "What if the best developer on your team is the one who does not understand your business at all?",
+      "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
+      "published_at": "2026-06-06T13:58:22Z",
+      "description": "For as long as I can remember, we have insisted on the opposite. The best developers understand the...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnniekdqejxlzll5dgyb8.png",
+      "source": "Dev.to",
+      "user": "HybridTechie"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -1885,21 +2000,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "GitHub, Demystified",
-      "url": "https://dev.to/mlh/github-demystified-4mkd",
-      "published_at": "2026-06-05T19:32:48Z",
-      "description": "TL;DR - GitHub is a place to store code and keep track of every change made to it. That is the...",
-      "tags": [
-        "github",
-        "beginners",
-        "opensource",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7xcajowex8jup12kszn7.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -1911,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 509,
       "user": "JimLiu"
     },
     {
@@ -1941,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 432,
       "user": "nevertoday"
     },
     {
@@ -1971,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "techjarves"
     },
     {
@@ -1986,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1058,
       "user": "jd-opensource"
     },
     {
@@ -2001,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 357,
       "user": "GordenSun"
     },
     {
@@ -2016,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 298,
       "user": "rednote-hilab"
     },
     {
@@ -2031,23 +2131,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "openai"
     },
     {
-      "title": "Soul-AILab/SoulX-Transcriber - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
-      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
-      "published_at": "2026-06-02T05:08:08Z",
-      "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+      "title": "JFGAtlas/aethergate-pro - GitHub Repository",
+      "url": "https://github.com/JFGAtlas/aethergate-pro",
+      "published_at": "2026-06-07T07:57:03Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232559637?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 197,
-      "user": "Soul-AILab"
+      "stars": 201,
+      "user": "JFGAtlas"
     },
     {
       "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2061,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 514,
       "user": "tastyeffectco"
     },
     {
@@ -2076,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 139,
       "user": "FengZi1221"
     },
     {
@@ -2121,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "MengMengCode"
     }
   ]
