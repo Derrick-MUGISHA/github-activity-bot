@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 35 (33.3%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 35 (33.3%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (2.9%)
 
-**Security**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.2 (27.2%)
-JavaScript      █████████████████████████████ 26.1 (26.1%)
-Java            ████████████████████████ 21.7 (21.7%)
-Python          ██████████████████████ 19.6 (19.6%)
+Go              ██████████████████████████████ 28.0 (28.0%)
+JavaScript      ████████████████████████████ 25.8 (25.8%)
+Java            ███████████████████████ 21.5 (21.5%)
+Python          █████████████████████ 19.4 (19.4%)
 Rust            ██ 2.2 (2.2%)
 PHP             ██ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
@@ -72,7 +72,7 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 26
     "JavaScript" : 24
     "Java" : 20
     "Python" : 18
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-09 6:00 CAT)
+## 📅 Latest Updates (2026-06-09 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,17 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yuvsiop6qbjp87vx4l8.png" width="200" alt="Github "Finish-Up-A-Thon" Challenge Winner Announcement Delayed & General Challenge Timeline Updates" />
-      <br/>
-      <b>Github "Finish-Up-A-Thon" Challenge Winner Announc...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png" width="200" alt="TanStack Start Is Kind of a Big Deal" />
       <br/>
@@ -170,20 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png" width="200" alt="The perfect background music for Vibecoding..." />
-      <br/>
-      <b>The perfect background music for Vibecoding...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp" width="200" alt="It's Time We All Eat some more Cucumber!" />
       <br/>
       <b>It's Time We All Eat some more Cucumber!</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png" width="200" alt="From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs" />
+      <br/>
+      <b>From Dashboards to Autonomous Action: Why You Need...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yuvsiop6qbjp87vx4l8.png" width="200" alt="Github "Finish-Up-A-Thon" Challenge Winner Announcement Delayed & General Challenge Timeline Updates" />
+      <br/>
+      <b>Github "Finish-Up-A-Thon" Challenge Winner Announc...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,12 +197,11 @@ npm run test
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj) _[Dev.to]_
 - [You’re a Real TypeScript Developer Only If...](https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o) _[Dev.to]_
-- [Github "Finish-Up-A-Thon" Challenge Winner Announcement Delayed & General Challenge Timeline Updates](https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk) _[Dev.to]_
 - [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec) _[Dev.to]_
-- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg) _[Dev.to]_
 - [It's Time We All Eat some more Cucumber!](https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic) _[Dev.to]_
 - [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada) _[Dev.to]_
-- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon) _[Dev.to]_
+- [Github "Finish-Up-A-Thon" Challenge Winner Announcement Delayed & General Challenge Timeline Updates](https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk) _[Dev.to]_
+- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg) _[Dev.to]_
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-1m9f) _[Dev.to]_
@@ -211,12 +210,13 @@ npm run test
 - [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422) _[Dev.to]_
 - [Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh) _[Dev.to]_
 - [How I took my Rust GUI from 135 MB to 30 MB by ditching the GPU](https://dev.to/trystan_sarrade/how-i-took-my-rust-gui-from-135-mb-to-30-mb-by-ditching-the-gpu-2i7d) _[Dev.to]_
+- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon) _[Dev.to]_
 - [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
-- [LiveKnowledge: Engineering Verifiable Knowledge](https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl) _[Dev.to]_
 - [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
 - [Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM](https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl) _[Dev.to]_
+- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 
-_Last automated update: Tue, 09 Jun 2026 06:33:24 CAT_
+_Last automated update: Tue, 09 Jun 2026 10:20:59 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 09 Jun 2026 06:33:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 09 Jun 2026 04:33:24 GMT</b><br/>
+  <b>Last automated update: Tue, 09 Jun 2026 08:20:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
