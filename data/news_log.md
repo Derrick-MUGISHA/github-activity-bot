@@ -1950302,3 +1950302,807 @@ This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I 
 
 ---
 
+
+
+## 📰 DevTech News — 2026-06-09 13:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (53 articles)
+
+#### 1. [It's Time We All Eat some more Cucumber!](https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic)
+📅 Mon, 08 Jun 2026 09:22:09 GMT
+👤 By: Sebastian Schürmann | 📌 Source: Dev.to
+
+![It's Time We All Eat some more Cucumber!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp)
+
+Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...
+
+🏷️ Tags: `ai`, `tdd`, `bdd`, `darkfactory`
+
+---
+
+#### 2. [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg)
+📅 Mon, 08 Jun 2026 18:01:28 GMT
+👤 By: Michael Ramich | 📌 Source: Dev.to
+
+![The perfect background music for Vibecoding...](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png)
+
+While vibecoding, you sometimes need some background music. But music can also be a massive...
+
+🏷️ Tags: `ai`, `programming`, `productivity`
+
+---
+
+#### 3. [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a)
+📅 Mon, 08 Jun 2026 06:48:16 GMT
+👤 By: ankush chadha | 📌 Source: Dev.to
+
+![I tried to make an AI agent answer more. It answered less.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png)
+
+If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...
+
+🏷️ Tags: `ai`, `llm`, `eval`, `agents`
+
+---
+
+#### 4. [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p)
+📅 Thu, 04 Jun 2026 18:19:03 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Seamless scaling with VPA In-place Pod Resize on GKE](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png)
+
+Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg)
+📅 Mon, 08 Jun 2026 09:13:08 GMT
+👤 By: shrey  | 📌 Source: Dev.to
+
+![The agent that fixes bugs by running the code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg)
+
+Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.
+
+🏷️ Tags: `ai`, `agents`, `debugging`, `productivity`
+
+---
+
+#### 6. [Dialling Our Agents to 11: My Favourite MCP Servers](https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm)
+📅 Mon, 08 Jun 2026 02:27:01 GMT
+👤 By: Darren "Dazbo" Lester | 📌 Source: Dev.to
+
+![Dialling Our Agents to 11: My Favourite MCP Servers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png)
+
+What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...
+
+🏷️ Tags: `mcpserver`, `agenticai`, `googleantigravity`, `agentharness`
+
+---
+
+#### 7. [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422)
+📅 Fri, 05 Jun 2026 14:58:17 GMT
+👤 By: Ingo Steinke, web developer | 📌 Source: Dev.to
+
+![Dystopian Civilization Scenarios](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png)
+
+Gaming, like AI, is far from what fascinates me most about technology and creative development....
+
+🏷️ Tags: `watercooler`
+
+---
+
+#### 8. [Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh)
+📅 Thu, 04 Jun 2026 19:38:50 GMT
+👤 By: Jean-Phi Baconnais | 📌 Source: Dev.to
+
+![Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg)
+
+En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...
+
+🏷️ Tags: `ai`, `antigravity`, `google`, `development`
+
+---
+
+#### 9. [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon)
+📅 Mon, 08 Jun 2026 04:45:51 GMT
+👤 By: Rapls | 📌 Source: Dev.to
+
+![Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png)
+
+I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...
+
+🏷️ Tags: `claudecode`, `ai`, `productivity`, `mcp`
+
+---
+
+#### 10. [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555)
+📅 Tue, 02 Jun 2026 20:02:27 GMT
+👤 By: Ayoola Solomon | 📌 Source: Dev.to
+
+![Stop writing prompts to classify text: make evaluation declarative](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png)
+
+I've built the same thing more than once: a step that reads an inbound message — a lead form, a...
+
+🏷️ Tags: `ai`, `llm`, `typescript`, `softwareengineering`
+
+---
+
+### 🏷️ JavaScript (24 articles)
+
+#### 1. [You’re a Real TypeScript Developer Only If...](https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o)
+📅 Mon, 08 Jun 2026 09:09:29 GMT
+👤 By: Hadil Ben Abdallah | 📌 Source: Dev.to
+
+![You’re a Real TypeScript Developer Only If...](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png)
+
+A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...
+
+🏷️ Tags: `webdev`, `typescript`, `bash`, `programming`
+
+---
+
+#### 2. [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
+📅 Mon, 08 Jun 2026 17:06:43 GMT
+👤 By: Erik Hanchett | 📌 Source: Dev.to
+
+![TanStack Start Is Kind of a Big Deal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png)
+
+Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...
+
+🏷️ Tags: `tanstack`, `react`, `typescript`, `webdev`
+
+---
+
+#### 3. [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555)
+📅 Tue, 02 Jun 2026 20:02:27 GMT
+👤 By: Ayoola Solomon | 📌 Source: Dev.to
+
+![Stop writing prompts to classify text: make evaluation declarative](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png)
+
+I've built the same thing more than once: a step that reads an inbound message — a lead form, a...
+
+🏷️ Tags: `ai`, `llm`, `typescript`, `softwareengineering`
+
+---
+
+#### 4. [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c)
+📅 Wed, 27 May 2026 07:11:18 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![How Are Developers Actually Using AI At Work?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png)
+
+JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...
+
+🏷️ Tags: `discuss`, `ai`
+
+---
+
+#### 5. [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+📅 Tue, 26 May 2026 20:52:22 GMT
+👤 By: Jasmin Virdi | 📌 Source: Dev.to
+
+![An LLM API call, in 4 GIFs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png)
+
+This is the first post of series Building TinyAgent where we are going to build a small agent from...
+
+🏷️ Tags: `llm`, `javascript`, `ai`, `beginners`
+
+---
+
+#### 6. [Inertia X.11 adds Frames and Modals to Inertia 3](https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22)
+📅 Mon, 01 Jun 2026 16:31:20 GMT
+👤 By: Stefan Buhrmester | 📌 Source: Dev.to
+
+![Inertia X.11 adds Frames and Modals to Inertia 3](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png)
+
+It has been a long time coming, but after countless hours of refactoring, testing, and completely...
+
+🏷️ Tags: `javascript`, `opensource`, `showdev`, `webdev`
+
+---
+
+#### 7. [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions](https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5)
+📅 Sun, 07 Jun 2026 13:26:05 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png)
+
+Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...
+
+🏷️ Tags: `firebase`, `angular`, `gemini`, `ai`
+
+---
+
+#### 8. [TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2)
+📅 Thu, 28 May 2026 14:39:29 GMT
+👤 By: Sage Starr | 📌 Source: Dev.to
+
+![TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png)
+
+After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...
+
+🏷️ Tags: `typescript`, `javascript`, `enum`, `opensource`
+
+---
+
+#### 9. [Content Virtualization using the HTML <template> Element](https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7)
+📅 Tue, 02 Jun 2026 13:26:42 GMT
+👤 By: Burton Smith | 📌 Source: Dev.to
+
+![Content Virtualization using the HTML <template> Element](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png)
+
+When I started this experiment, the core question was simple:   Because content inside...
+
+🏷️ Tags: `html`, `javascript`, `performance`, `ai`
+
+---
+
+#### 10. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy](https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn)
+📅 Mon, 01 Jun 2026 16:22:31 GMT
+👤 By: Lucas Rafaldini | 📌 Source: Dev.to
+
+![From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`
+
+---
+
+#### 2. [[GCP Practical] LINE Business Card Bot](https://dev.to/gde/gcp-practical-line-business-card-bot-d46)
+📅 Sun, 07 Jun 2026 15:26:28 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Practical] LINE Business Card Bot](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png)
+
+Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...
+
+🏷️ Tags: `api`, `gemini`, `google`, `python`
+
+---
+
+#### 3. [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe)
+📅 Wed, 27 May 2026 09:44:24 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png)
+
+Preface   In the previous article, we successfully upgraded the LINE business card...
+
+🏷️ Tags: `ai`, `gemini`, `google`, `python`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p)
+📅 Thu, 04 Jun 2026 18:19:03 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Seamless scaling with VPA In-place Pod Resize on GKE](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png)
+
+Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l)
+📅 Mon, 01 Jun 2026 18:54:52 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Strategies for running AI workloads on GKE without committed quota](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png)
+
+Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 4. [Examples Gubernator](https://dev.to/gde/examples-gubernator-3pk9)
+📅 Sat, 06 Jun 2026 09:18:33 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Examples Gubernator](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png)
+
+Gubernator Orchestrator Update!   Just shipped some major improvements examples to Gubernator (the...
+
+🏷️ Tags: `devops`, `gubernator`, `docker`, `containers`
+
+---
+
+#### 5. [tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories](https://github.com/tastyeffectco/sandboxd)
+📅 Wed, 03 Jun 2026 18:55:02 GMT
+👤 By: tastyeffectco | 📌 Source: GitHub
+
+![tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories](https://avatars.githubusercontent.com/u/205345397?v=4)
+
+Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 522
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 2. [TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2)
+📅 Thu, 28 May 2026 14:39:29 GMT
+👤 By: Sage Starr | 📌 Source: Dev.to
+
+![TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png)
+
+After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...
+
+🏷️ Tags: `typescript`, `javascript`, `enum`, `opensource`
+
+---
+
+#### 3. [Content Virtualization using the HTML <template> Element](https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7)
+📅 Tue, 02 Jun 2026 13:26:42 GMT
+👤 By: Burton Smith | 📌 Source: Dev.to
+
+![Content Virtualization using the HTML <template> Element](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png)
+
+When I started this experiment, the core question was simple:   Because content inside...
+
+🏷️ Tags: `html`, `javascript`, `performance`, `ai`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.](https://github.com/JimLiu/baoyu-design)
+📅 Sun, 07 Jun 2026 01:16:18 GMT
+👤 By: JimLiu | 📌 Source: GitHub
+
+![JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.](https://avatars.githubusercontent.com/u/648674?v=4)
+
+Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 584
+
+---
+
+### 🏷️ Mobile (1 articles)
+
+#### 1. [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422)
+📅 Fri, 05 Jun 2026 14:58:17 GMT
+👤 By: Ingo Steinke, web developer | 📌 Source: Dev.to
+
+![Dystopian Civilization Scenarios](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png)
+
+Gaming, like AI, is far from what fascinates me most about technology and creative development....
+
+🏷️ Tags: `watercooler`
+
+---
+
+### 🏷️ Cloud (11 articles)
+
+#### 1. [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada)
+📅 Mon, 08 Jun 2026 19:43:35 GMT
+👤 By: Joey Lynne Hernandez | 📌 Source: Dev.to
+
+![From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png)
+
+The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...
+
+🏷️ Tags: `googlecloud`, `agents`, `dataengineering`
+
+---
+
+#### 2. [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p)
+📅 Thu, 04 Jun 2026 18:19:03 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Seamless scaling with VPA In-place Pod Resize on GKE](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png)
+
+Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l)
+📅 Mon, 01 Jun 2026 18:54:52 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Strategies for running AI workloads on GKE without committed quota](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png)
+
+Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 4. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 5. [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6)
+📅 Tue, 26 May 2026 14:18:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Azure Cloud Shell with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png)
+
+This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...
+
+🏷️ Tags: `cli`, `azurecloudshell`, `antigravitycli`, `azure`
+
+---
+
+#### 6. [[GCP Practical] LINE Business Card Bot](https://dev.to/gde/gcp-practical-line-business-card-bot-d46)
+📅 Sun, 07 Jun 2026 15:26:28 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Practical] LINE Business Card Bot](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png)
+
+Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...
+
+🏷️ Tags: `api`, `gemini`, `google`, `python`
+
+---
+
+#### 7. [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions](https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5)
+📅 Sun, 07 Jun 2026 13:26:05 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png)
+
+Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...
+
+🏷️ Tags: `firebase`, `angular`, `gemini`, `ai`
+
+---
+
+#### 8. [The Ultimate Cloud Run Guide 2026](https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8)
+📅 Mon, 01 Jun 2026 14:31:53 GMT
+👤 By: Sara Ford | 📌 Source: Dev.to
+
+![The Ultimate Cloud Run Guide 2026](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png)
+
+At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...
+
+🏷️ Tags: `cloud`, `google`, `serverless`, `tutorial`
+
+---
+
+#### 9. [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe)
+📅 Wed, 27 May 2026 09:44:24 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png)
+
+Preface   In the previous article, we successfully upgraded the LINE business card...
+
+🏷️ Tags: `ai`, `gemini`, `google`, `python`
+
+---
+
+#### 10. [I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me](https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60)
+📅 Tue, 02 Jun 2026 09:43:33 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png)
+
+Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...
+
+🏷️ Tags: `agentdevelopmentkit`, `googlecloud`, `devto`, `gemini`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Query Markdown as a Database with mq-db: SQL, mq, and Interval Indexes](https://dev.to/harehare/query-markdown-as-a-database-with-mq-db-sql-mq-and-interval-indexes-52h9)
+📅 Wed, 03 Jun 2026 14:23:05 GMT
+👤 By: Takahiro Sato | 📌 Source: Dev.to
+
+![Query Markdown as a Database with mq-db: SQL, mq, and Interval Indexes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiin1tm6p2m9qgg3vu780.png)
+
+mq-db treats Markdown files as a structured database. Index documents, run SQL queries with hierarchy support, and explore content in an interactive TUI — all from a single binary.
+
+🏷️ Tags: `markdown`, `database`, `sql`, `rust`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (3 articles)
+
+#### 1. [The Bot That Never Was](https://dev.to/icflorescu/the-bot-that-never-was-2mfp)
+📅 Sat, 06 Jun 2026 14:35:00 GMT
+👤 By: Ionut-Cristian Florescu | 📌 Source: Dev.to
+
+![The Bot That Never Was](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png)
+
+How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.
+
+🏷️ Tags: `security`, `opensource`, `github`, `supplychain`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 3. [MengMengCode/CLICD - CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.](https://github.com/MengMengCode/CLICD)
+📅 Fri, 05 Jun 2026 11:27:26 GMT
+👤 By: MengMengCode | 📌 Source: GitHub
+
+![MengMengCode/CLICD - CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.](https://avatars.githubusercontent.com/u/227010654?v=4)
+
+CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 119
+
+---
+
+### 🏷️ Tools (35 articles)
+
+#### 1. [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg)
+📅 Mon, 08 Jun 2026 18:01:28 GMT
+👤 By: Michael Ramich | 📌 Source: Dev.to
+
+![The perfect background music for Vibecoding...](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png)
+
+While vibecoding, you sometimes need some background music. But music can also be a massive...
+
+🏷️ Tags: `ai`, `programming`, `productivity`
+
+---
+
+#### 2. [Github "Finish-Up-A-Thon" Challenge Winner Announcement Delayed & General Challenge Timeline Updates](https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk)
+📅 Mon, 08 Jun 2026 22:21:49 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Github "Finish-Up-A-Thon" Challenge Winner Announcement Delayed & General Challenge Timeline Updates](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yuvsiop6qbjp87vx4l8.png)
+
+Hey all, we have a quick update for everyone who participated in the GitHub "Finish-Up-A-Thon"...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`, `githubcopilot`
+
+---
+
+#### 3. [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg)
+📅 Mon, 08 Jun 2026 09:13:08 GMT
+👤 By: shrey  | 📌 Source: Dev.to
+
+![The agent that fixes bugs by running the code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg)
+
+Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.
+
+🏷️ Tags: `ai`, `agents`, `debugging`, `productivity`
+
+---
+
+#### 4. [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon)
+📅 Mon, 08 Jun 2026 04:45:51 GMT
+👤 By: Rapls | 📌 Source: Dev.to
+
+![Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png)
+
+I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...
+
+🏷️ Tags: `claudecode`, `ai`, `productivity`, `mcp`
+
+---
+
+#### 5. [Building a Streaming LLM Agent with the Laravel AI SDK](https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6)
+📅 Sun, 07 Jun 2026 05:09:27 GMT
+👤 By: Tom Shaw | 📌 Source: Dev.to
+
+![Building a Streaming LLM Agent with the Laravel AI SDK](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png)
+
+A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.
+
+🏷️ Tags: `laravel`, `php`, `ai`, `webdev`
+
+---
+
+#### 6. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 7. [Reviving an Abandoned Side Project with Spec-Driven Development (SDD)](https://dev.to/karlyhoffman/reviving-an-abandoned-side-project-with-speckit-and-copilot-3517)
+📅 Sun, 07 Jun 2026 15:13:15 GMT
+👤 By: Karly Hoffman | 📌 Source: Dev.to
+
+![Reviving an Abandoned Side Project with Spec-Driven Development (SDD)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo3m26o3lrqx63ohpzek5.png)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge     I had two goals when I decided to...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`, `tutorial`
+
+---
+
+#### 8. [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904)
+📅 Wed, 03 Jun 2026 17:30:38 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![Am I Becoming Too Slow for the AI World?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png)
+
+The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `career`
+
+---
+
+#### 9. [Kaggle is making AI benchmark creation effortless](https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n)
+📅 Thu, 04 Jun 2026 15:51:23 GMT
+👤 By: Nicholas Kang (Nick) | 📌 Source: Dev.to
+
+![Kaggle is making AI benchmark creation effortless](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png)
+
+As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...
+
+🏷️ Tags: `ai`
+
+---
+
+#### 10. [From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy](https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn)
+📅 Mon, 01 Jun 2026 16:22:31 GMT
+👤 By: Lucas Rafaldini | 📌 Source: Dev.to
+
+![From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`
+
+---
+
