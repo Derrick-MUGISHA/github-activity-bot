@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
       "title": "It's Time We All Eat some more Cucumber!",
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
       "published_at": "2026-06-08T09:22:09Z",
@@ -14,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
       "source": "Dev.to",
       "user": "Sebastian Schürmann"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
+      "published_at": "2026-06-09T12:16:25Z",
+      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "tags": [
+        "agentsasanapi",
+        "managedagent",
+        "gemini",
+        "managedagentsapi"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
     },
     {
       "title": "The perfect background music for Vibecoding...",
@@ -177,36 +207,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon",
-      "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4",
-      "published_at": "2026-06-05T14:58:21Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxle8q89sqfi40z1vlhn9.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
-      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
-      "published_at": "2026-06-07T05:09:27Z",
-      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
-      "tags": [
-        "laravel",
-        "php",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
-      "source": "Dev.to",
-      "user": "Tom Shaw"
-    },
-    {
       "title": "The Software Developer's Guide to AEO",
       "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
       "published_at": "2026-05-28T19:04:59Z",
@@ -336,21 +336,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
-      "published_at": "2026-06-05T15:45:48Z",
-      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
-      "source": "Dev.to",
-      "user": "Marko Frei"
-    },
-    {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
       "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
       "published_at": "2026-06-07T13:26:05Z",
@@ -452,6 +437,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2p1273q5008c0pi65rk6.png",
       "source": "Dev.to",
       "user": "Glen Yu"
+    },
+    {
+      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
+      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
+      "published_at": "2026-06-07T05:09:27Z",
+      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
+      "tags": [
+        "laravel",
+        "php",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
+      "source": "Dev.to",
+      "user": "Tom Shaw"
     },
     {
       "title": "What if the best developer on your team is the one who does not understand your business at all?",
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 618,
       "user": "JimLiu"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 174,
       "user": "adamallcock"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 563,
       "user": "GordenSun"
     },
     {
@@ -728,8 +728,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 310,
       "user": "xiaohuailabs"
+    },
+    {
+      "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "published_at": "2026-06-08T04:32:27Z",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
+      "source": "GitHub",
+      "stars": 248,
+      "user": "apple"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -743,11 +758,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "iampedii"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
       "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
@@ -1002,21 +1032,6 @@
       "user": "velmu"
     },
     {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 602,
-      "user": "JimLiu"
-    },
-    {
       "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
       "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
       "published_at": "2026-06-03T03:26:16Z",
@@ -1028,8 +1043,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 626,
       "user": "nevertoday"
+    },
+    {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 618,
+      "user": "JimLiu"
     },
     {
       "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
@@ -1058,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 174,
       "user": "adamallcock"
     },
     {
@@ -1253,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 563,
       "user": "GordenSun"
     },
     {
@@ -1268,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 365,
       "user": "rednote-hilab"
     },
     {
@@ -1283,38 +1313,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 310,
       "user": "xiaohuailabs"
     },
     {
-      "title": "hoolulu/deep-research - 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
-      "url": "https://github.com/hoolulu/deep-research",
-      "published_at": "2026-06-05T07:56:54Z",
-      "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "published_at": "2026-06-08T12:29:36Z",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84072841?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 238,
-      "user": "hoolulu"
+      "stars": 253,
+      "user": "Tencent-Hunyuan"
     },
     {
-      "title": "JFGAtlas/aethergate-pro - GitHub Repository",
-      "url": "https://github.com/JFGAtlas/aethergate-pro",
-      "published_at": "2026-06-07T07:57:03Z",
-      "description": "Trending GitHub Repository",
+      "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "published_at": "2026-06-08T04:32:27Z",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 236,
-      "user": "JFGAtlas"
+      "stars": 248,
+      "user": "apple"
     }
   ],
   "DevOps": [
@@ -1390,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 530,
       "user": "tastyeffectco"
     }
   ],
@@ -1464,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 618,
       "user": "JimLiu"
     }
   ],
@@ -1480,9 +1510,39 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "published_at": "2026-06-08T04:32:27Z",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
+      "source": "GitHub",
+      "stars": 248,
+      "user": "apple"
     }
   ],
   "Cloud": [
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
     {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
       "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
@@ -1644,7 +1704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "iampedii"
     }
   ],
@@ -1717,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "MengMengCode"
     }
   ],
@@ -1779,21 +1839,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
       "source": "Dev.to",
       "user": "Rapls"
-    },
-    {
-      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
-      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
-      "published_at": "2026-06-07T05:09:27Z",
-      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
-      "tags": [
-        "laravel",
-        "php",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
-      "source": "Dev.to",
-      "user": "Tom Shaw"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1895,21 +1940,6 @@
       "user": "Stefan Buhrmester"
     },
     {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij",
-      "published_at": "2026-06-05T15:45:48Z",
-      "description": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcxj08lud65396p9vw8yb.png",
-      "source": "Dev.to",
-      "user": "Marko Frei"
-    },
-    {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
       "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
       "published_at": "2026-06-03T13:46:51Z",
@@ -1984,6 +2014,21 @@
       "user": "Ionut-Cristian Florescu"
     },
     {
+      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
+      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
+      "published_at": "2026-06-07T05:09:27Z",
+      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
+      "tags": [
+        "laravel",
+        "php",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
+      "source": "Dev.to",
+      "user": "Tom Shaw"
+    },
+    {
       "title": "What if the best developer on your team is the one who does not understand your business at all?",
       "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
       "published_at": "2026-06-06T13:58:22Z",
@@ -2013,21 +2058,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 602,
-      "user": "JimLiu"
-    },
-    {
       "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
       "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
       "published_at": "2026-06-03T03:26:16Z",
@@ -2039,8 +2069,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 626,
       "user": "nevertoday"
+    },
+    {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 618,
+      "user": "JimLiu"
     },
     {
       "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
@@ -2069,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 174,
       "user": "adamallcock"
     },
     {
@@ -2099,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 563,
       "user": "GordenSun"
     },
     {
@@ -2114,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 365,
       "user": "rednote-hilab"
     },
     {
@@ -2129,38 +2174,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 310,
       "user": "xiaohuailabs"
     },
     {
-      "title": "hoolulu/deep-research - 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
-      "url": "https://github.com/hoolulu/deep-research",
-      "published_at": "2026-06-05T07:56:54Z",
-      "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "published_at": "2026-06-08T12:29:36Z",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84072841?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 238,
-      "user": "hoolulu"
+      "stars": 253,
+      "user": "Tencent-Hunyuan"
     },
     {
-      "title": "JFGAtlas/aethergate-pro - GitHub Repository",
-      "url": "https://github.com/JFGAtlas/aethergate-pro",
-      "published_at": "2026-06-07T07:57:03Z",
-      "description": "Trending GitHub Repository",
+      "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "published_at": "2026-06-08T04:32:27Z",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 236,
-      "user": "JFGAtlas"
+      "stars": 248,
+      "user": "apple"
     },
     {
       "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2174,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 530,
       "user": "tastyeffectco"
     },
     {
@@ -2204,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "iampedii"
     },
     {
@@ -2234,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "MengMengCode"
     }
   ]
