@@ -60,21 +60,6 @@
       "user": "shrey "
     },
     {
-      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
-      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm",
-      "published_at": "2026-06-08T02:27:01Z",
-      "description": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
-      "tags": [
-        "mcpserver",
-        "agenticai",
-        "googleantigravity",
-        "agentharness"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "I tried to make an AI agent answer more. It answered less.",
       "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a",
       "published_at": "2026-06-08T06:48:16Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
+      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm",
+      "published_at": "2026-06-08T02:27:01Z",
+      "description": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
+      "tags": [
+        "mcpserver",
+        "agenticai",
+        "googleantigravity",
+        "agentharness"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Dystopian Civilization Scenarios",
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "JimLiu"
     },
     {
@@ -687,21 +687,6 @@
       "user": "techjarves"
     },
     {
-      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "published_at": "2026-06-02T03:25:51Z",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 1070,
-      "user": "jd-opensource"
-    },
-    {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "published_at": "2026-06-07T16:20:13Z",
@@ -713,23 +698,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 383,
       "user": "GordenSun"
-    },
-    {
-      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
-      "url": "https://github.com/openai/role-specific-plugins",
-      "published_at": "2026-06-02T16:27:24Z",
-      "description": "Role-specific Codex plugin templates",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 233,
-      "user": "openai"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -743,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "iampedii"
     }
   ],
@@ -1013,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "JimLiu"
     },
     {
@@ -1043,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "nevertoday"
     },
     {
@@ -1242,21 +1212,6 @@
       "user": "arathore"
     },
     {
-      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "published_at": "2026-06-02T03:25:51Z",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 1070,
-      "user": "jd-opensource"
-    },
-    {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "published_at": "2026-06-07T16:20:13Z",
@@ -1268,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 383,
       "user": "GordenSun"
     },
     {
@@ -1283,23 +1238,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "rednote-hilab"
-    },
-    {
-      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
-      "url": "https://github.com/openai/role-specific-plugins",
-      "published_at": "2026-06-02T16:27:24Z",
-      "description": "Role-specific Codex plugin templates",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 233,
-      "user": "openai"
     },
     {
       "title": "JFGAtlas/aethergate-pro - GitHub Repository",
@@ -1313,8 +1253,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 208,
       "user": "JFGAtlas"
+    },
+    {
+      "title": "hoolulu/deep-research - 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "url": "https://github.com/hoolulu/deep-research",
+      "published_at": "2026-06-05T07:56:54Z",
+      "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/84072841?v=4",
+      "source": "GitHub",
+      "stars": 196,
+      "user": "hoolulu"
+    },
+    {
+      "title": "lbq110/weread-exporter - 微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+      "url": "https://github.com/lbq110/weread-exporter",
+      "published_at": "2026-06-05T14:36:47Z",
+      "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8669651?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "lbq110"
     }
   ],
   "DevOps": [
@@ -1449,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "JimLiu"
     }
   ],
@@ -1614,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "iampedii"
     }
   ],
@@ -1678,20 +1648,6 @@
   ],
   "Tools": [
     {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
       "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
       "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk",
       "published_at": "2026-06-08T22:21:49Z",
@@ -1704,6 +1660,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yuvsiop6qbjp87vx4l8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
     },
     {
       "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -1979,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "JimLiu"
     },
     {
@@ -2009,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "nevertoday"
     },
     {
@@ -2043,21 +2013,6 @@
       "user": "techjarves"
     },
     {
-      "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "published_at": "2026-06-02T03:25:51Z",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 1070,
-      "user": "jd-opensource"
-    },
-    {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "published_at": "2026-06-07T16:20:13Z",
@@ -2069,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 383,
       "user": "GordenSun"
     },
     {
@@ -2084,23 +2039,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "rednote-hilab"
-    },
-    {
-      "title": "openai/role-specific-plugins - Role-specific Codex plugin templates",
-      "url": "https://github.com/openai/role-specific-plugins",
-      "published_at": "2026-06-02T16:27:24Z",
-      "description": "Role-specific Codex plugin templates",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 233,
-      "user": "openai"
     },
     {
       "title": "JFGAtlas/aethergate-pro - GitHub Repository",
@@ -2114,8 +2054,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 208,
       "user": "JFGAtlas"
+    },
+    {
+      "title": "hoolulu/deep-research - 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "url": "https://github.com/hoolulu/deep-research",
+      "published_at": "2026-06-05T07:56:54Z",
+      "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/84072841?v=4",
+      "source": "GitHub",
+      "stars": 196,
+      "user": "hoolulu"
+    },
+    {
+      "title": "lbq110/weread-exporter - 微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+      "url": "https://github.com/lbq110/weread-exporter",
+      "published_at": "2026-06-05T14:36:47Z",
+      "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8669651?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "lbq110"
     },
     {
       "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
@@ -2144,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 148,
       "user": "FengZi1221"
     },
     {
@@ -2159,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "iampedii"
     },
     {
@@ -2189,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "MengMengCode"
     }
   ]
