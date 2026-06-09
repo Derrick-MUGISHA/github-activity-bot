@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "It's Time We All Eat some more Cucumber!",
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
       "published_at": "2026-06-08T09:22:09Z",
@@ -44,6 +29,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
       "source": "Dev.to",
       "user": "Romin Irani"
+    },
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
+      "published_at": "2026-06-09T18:44:05Z",
+      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5 is now in General Availability...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnce2r1qaqf4f2eewwh08.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "The perfect background music for Vibecoding...",
@@ -349,21 +363,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
-      "published_at": "2026-06-03T13:46:51Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "agents",
-        "ai",
-        "discuss",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Local Mac Gemma 4 Deployment with MCP and Antigravity CLI",
@@ -683,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "JimLiu"
     },
     {
@@ -698,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "adamallcock"
     },
     {
@@ -713,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 571,
       "user": "GordenSun"
     },
     {
@@ -728,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "xiaohuailabs"
     },
     {
@@ -743,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 290,
       "user": "apple"
     },
     {
@@ -758,26 +757,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "iampedii"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
       "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
@@ -807,6 +791,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -1043,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 642,
       "user": "nevertoday"
     },
     {
@@ -1058,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "JimLiu"
     },
     {
@@ -1088,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "adamallcock"
     },
     {
@@ -1283,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 571,
       "user": "GordenSun"
     },
     {
@@ -1298,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "rednote-hilab"
     },
     {
@@ -1313,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "xiaohuailabs"
     },
     {
@@ -1328,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 290,
       "user": "apple"
     },
     {
@@ -1343,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1420,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "tastyeffectco"
     }
   ],
@@ -1494,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "JimLiu"
     }
   ],
@@ -1523,11 +1522,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 290,
       "user": "apple"
     }
   ],
   "Cloud": [
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
+      "published_at": "2026-06-09T18:44:05Z",
+      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5 is now in General Availability...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnce2r1qaqf4f2eewwh08.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
     {
       "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
       "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
@@ -1704,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "iampedii"
     }
   ],
@@ -1940,21 +1953,6 @@
       "user": "Stefan Buhrmester"
     },
     {
-      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
-      "published_at": "2026-06-03T13:46:51Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "agents",
-        "ai",
-        "discuss",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
       "published_at": "2026-05-21T17:33:15Z",
@@ -2069,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 642,
       "user": "nevertoday"
     },
     {
@@ -2084,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "JimLiu"
     },
     {
@@ -2114,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "adamallcock"
     },
     {
@@ -2144,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 571,
       "user": "GordenSun"
     },
     {
@@ -2159,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "rednote-hilab"
     },
     {
@@ -2174,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "xiaohuailabs"
     },
     {
@@ -2189,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 290,
       "user": "apple"
     },
     {
@@ -2204,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2219,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "tastyeffectco"
     },
     {
@@ -2249,7 +2247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "iampedii"
     },
     {
@@ -2264,7 +2262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "TryHarder-L"
     },
     {
