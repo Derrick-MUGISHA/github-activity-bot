@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
+    },
+    {
       "title": "It's Time We All Eat some more Cucumber!",
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
       "published_at": "2026-06-08T09:22:09Z",
@@ -16,20 +30,6 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
       "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
       "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
       "published_at": "2026-06-08T04:45:51Z",
@@ -43,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
       "source": "Dev.to",
       "user": "Rapls"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "The agent that fixes bugs by running the code",
+      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
+      "published_at": "2026-06-08T09:13:08Z",
+      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
+      "tags": [
+        "ai",
+        "agents",
+        "debugging",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
+      "source": "Dev.to",
+      "user": "shrey "
     },
     {
       "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
@@ -668,23 +668,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 546,
       "user": "JimLiu"
     },
     {
-      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-      "published_at": "2026-06-04T03:45:01Z",
-      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 151,
-      "user": "techjarves"
+      "stars": 161,
+      "user": "adamallcock"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -698,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 465,
       "user": "GordenSun"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "iampedii"
     }
   ],
@@ -983,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 546,
       "user": "JimLiu"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "Jane-xiaoer"
     },
     {
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 484,
       "user": "nevertoday"
     },
     {
@@ -1028,23 +1028,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "mrdoob"
     },
     {
-      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-      "published_at": "2026-06-04T03:45:01Z",
-      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 151,
-      "user": "techjarves"
+      "stars": 161,
+      "user": "adamallcock"
     }
   ],
   "Python": [
@@ -1223,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 465,
       "user": "GordenSun"
     },
     {
@@ -1238,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 317,
       "user": "rednote-hilab"
     },
     {
@@ -1253,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 227,
       "user": "JFGAtlas"
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84072841?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 218,
       "user": "hoolulu"
     },
     {
@@ -1283,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8669651?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 193,
       "user": "lbq110"
     }
   ],
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "tastyeffectco"
     }
   ],
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 546,
       "user": "JimLiu"
     }
   ],
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "iampedii"
     }
   ],
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 546,
       "user": "JimLiu"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "Jane-xiaoer"
     },
     {
@@ -1979,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 484,
       "user": "nevertoday"
     },
     {
@@ -1994,23 +1994,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "mrdoob"
     },
     {
-      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-      "published_at": "2026-06-04T03:45:01Z",
-      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 151,
-      "user": "techjarves"
+      "stars": 161,
+      "user": "adamallcock"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 465,
       "user": "GordenSun"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 317,
       "user": "rednote-hilab"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284298099?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 227,
       "user": "JFGAtlas"
     },
     {
@@ -2069,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84072841?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 218,
       "user": "hoolulu"
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8669651?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 193,
       "user": "lbq110"
     },
     {
@@ -2099,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "tastyeffectco"
     },
     {
@@ -2114,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 155,
       "user": "FengZi1221"
     },
     {
@@ -2129,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "iampedii"
     },
     {
@@ -2144,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "TryHarder-L"
     },
     {
@@ -2159,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 111,
       "user": "MengMengCode"
     }
   ]
