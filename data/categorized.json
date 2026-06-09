@@ -34,13 +34,13 @@
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
       "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
       "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5 is now in General Availability...",
+      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
       "tags": [
         "ai",
         "claude",
         "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnce2r1qaqf4f2eewwh08.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
       "source": "Dev.to",
       "user": "Jen Harvey"
     },
@@ -58,20 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -159,6 +145,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
       "source": "Dev.to",
       "user": "Jean-Phi Baconnais"
+    },
+    {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
     },
     {
       "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 629,
       "user": "JimLiu"
     },
     {
@@ -712,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 575,
       "user": "GordenSun"
     },
     {
@@ -727,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "xiaohuailabs"
     },
     {
@@ -742,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 322,
       "user": "apple"
     },
     {
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "iampedii"
     }
   ],
@@ -1042,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 646,
       "user": "nevertoday"
     },
     {
@@ -1057,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 629,
       "user": "JimLiu"
     },
     {
@@ -1102,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "mrdoob"
     }
   ],
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 575,
       "user": "GordenSun"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "rednote-hilab"
     },
     {
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "xiaohuailabs"
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 322,
       "user": "apple"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 267,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "tastyeffectco"
     }
   ],
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 629,
       "user": "JimLiu"
     }
   ],
@@ -1522,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 322,
       "user": "apple"
     }
   ],
@@ -1531,13 +1531,13 @@
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
       "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
       "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5 is now in General Availability...",
+      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
       "tags": [
         "ai",
         "claude",
         "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnce2r1qaqf4f2eewwh08.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
       "source": "Dev.to",
       "user": "Jen Harvey"
     },
@@ -1717,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "iampedii"
     }
   ],
@@ -1796,20 +1796,6 @@
   ],
   "Tools": [
     {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
       "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
       "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk",
       "published_at": "2026-06-08T22:21:49Z",
@@ -1837,6 +1823,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
       "source": "Dev.to",
       "user": "shrey "
+    },
+    {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
     },
     {
       "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 646,
       "user": "nevertoday"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 629,
       "user": "JimLiu"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "mrdoob"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 575,
       "user": "GordenSun"
     },
     {
@@ -2157,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "rednote-hilab"
     },
     {
@@ -2172,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "xiaohuailabs"
     },
     {
@@ -2187,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 322,
       "user": "apple"
     },
     {
@@ -2202,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 267,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2217,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "tastyeffectco"
     },
     {
@@ -2247,7 +2247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "iampedii"
     },
     {
@@ -2262,7 +2262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "TryHarder-L"
     },
     {
