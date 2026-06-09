@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-09 13:00 CAT)
+## 📅 Latest Updates (2026-06-09 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,13 +210,13 @@ npm run test
 - [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422) _[Dev.to]_
 - [Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh) _[Dev.to]_
 - [How I took my Rust GUI from 135 MB to 30 MB by ditching the GPU](https://dev.to/trystan_sarrade/how-i-took-my-rust-gui-from-135-mb-to-30-mb-by-ditching-the-gpu-2i7d) _[Dev.to]_
-- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon) _[Dev.to]_
 - [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
+- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon) _[Dev.to]_
 - [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
 - [Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM](https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl) _[Dev.to]_
 - [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 
-_Last automated update: Tue, 09 Jun 2026 13:37:13 CAT_
+_Last automated update: Tue, 09 Jun 2026 16:03:33 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 09 Jun 2026 13:37:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 09 Jun 2026 11:37:13 GMT</b><br/>
+  <b>Last automated update: Tue, 09 Jun 2026 14:03:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
