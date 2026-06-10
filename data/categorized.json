@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "How we built AIventure, an AI-Powered Retro Dungeon",
       "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
       "published_at": "2026-06-10T03:09:39Z",
@@ -59,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png",
       "source": "Dev.to",
       "user": "ankush chadha"
-    },
-    {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -162,6 +162,20 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
+    },
+    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -175,20 +189,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
       "source": "Dev.to",
       "user": "Jean-Phi Baconnais"
-    },
-    {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -219,6 +219,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
@@ -406,21 +421,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "The Bot That Never Was",
-      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
-      "published_at": "2026-06-06T14:35:00Z",
-      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
-      "tags": [
-        "security",
-        "opensource",
-        "github",
-        "supplychain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
-      "source": "Dev.to",
-      "user": "Ionut-Cristian Florescu"
     },
     {
       "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 677,
       "user": "JimLiu"
     },
     {
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "adamallcock"
     },
     {
@@ -697,23 +697,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "techjarves"
     },
     {
-      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
-      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
-      "published_at": "2026-06-05T14:22:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "published_at": "2026-06-08T13:30:36Z",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 156,
-      "user": "wechat-miniprogram"
+      "stars": 160,
+      "user": "XBuilderLAB"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -727,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 721,
       "user": "GordenSun"
     },
     {
@@ -742,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 580,
       "user": "apple"
     },
     {
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "xiaohuailabs"
     },
     {
@@ -772,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "iampedii"
     },
     {
@@ -808,21 +808,6 @@
       "user": "Hadil Ben Abdallah"
     },
     {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "TanStack Start Is Kind of a Big Deal",
       "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
       "published_at": "2026-06-08T17:06:43Z",
@@ -851,6 +836,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
@@ -1072,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 677,
       "user": "JimLiu"
     },
     {
@@ -1102,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "adamallcock"
     },
     {
@@ -1117,23 +1117,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "techjarves"
     },
     {
-      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
-      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
-      "published_at": "2026-06-05T14:22:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "published_at": "2026-06-08T13:30:36Z",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 156,
-      "user": "wechat-miniprogram"
+      "stars": 160,
+      "user": "XBuilderLAB"
     }
   ],
   "Python": [
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 721,
       "user": "GordenSun"
     },
     {
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 580,
       "user": "apple"
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "xiaohuailabs"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "rednote-hilab"
     },
     {
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 423,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1424,6 +1424,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
@@ -1493,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 677,
       "user": "JimLiu"
     }
   ],
@@ -1511,6 +1526,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism",
+      "url": "https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl",
+      "published_at": "2026-06-06T01:52:38Z",
+      "description": "How I built SysMonitor, an open-source macOS resource monitor that tracks CPU, RAM, and Network with zero clutter.",
+      "tags": [
+        "macos",
+        "swiftui",
+        "swift",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7ug3gulc6oyid15kwwy.png",
+      "source": "Dev.to",
+      "user": "fanioz"
+    },
+    {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
       "published_at": "2026-06-08T04:32:27Z",
@@ -1522,25 +1552,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 580,
       "user": "apple"
     }
   ],
   "Cloud": [
-    {
-      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
-      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
-      "published_at": "2026-06-08T19:43:35Z",
-      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
-      "tags": [
-        "googlecloud",
-        "agents",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
-      "source": "Dev.to",
-      "user": "Joey Lynne Hernandez"
-    },
     {
       "title": "G4 Fractional VMs are now available on Google Cloud!",
       "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
@@ -1557,19 +1573,18 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
+      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
+      "published_at": "2026-06-08T19:43:35Z",
+      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
       "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
+        "googlecloud",
+        "agents",
+        "dataengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
       "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
+      "user": "Joey Lynne Hernandez"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -1614,6 +1629,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "published_at": "2026-06-09T15:23:55Z",
+      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "nextjs",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1717,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "iampedii"
     }
   ],
@@ -1736,21 +1766,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "The Bot That Never Was",
-      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
-      "published_at": "2026-06-06T14:35:00Z",
-      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
-      "tags": [
-        "security",
-        "opensource",
-        "github",
-        "supplychain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
-      "source": "Dev.to",
-      "user": "Ionut-Cristian Florescu"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1837,20 +1852,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Reviving an Abandoned Side Project with Spec-Driven Development (SDD)",
-      "url": "https://dev.to/karlyhoffman/reviving-an-abandoned-side-project-with-speckit-and-copilot-3517",
-      "published_at": "2026-06-07T15:13:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge     I had two goals when I decided to...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo3m26o3lrqx63ohpzek5.png",
-      "source": "Dev.to",
-      "user": "Karly Hoffman"
     },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
@@ -1982,21 +1983,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "The Bot That Never Was",
-      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
-      "published_at": "2026-06-06T14:35:00Z",
-      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
-      "tags": [
-        "security",
-        "opensource",
-        "github",
-        "supplychain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
-      "source": "Dev.to",
-      "user": "Ionut-Cristian Florescu"
-    },
-    {
       "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
       "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
       "published_at": "2026-06-07T05:09:27Z",
@@ -2041,6 +2027,21 @@
       "user": "Aryan Irani"
     },
     {
+      "title": "Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism",
+      "url": "https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl",
+      "published_at": "2026-06-06T01:52:38Z",
+      "description": "How I built SysMonitor, an open-source macOS resource monitor that tracks CPU, RAM, and Network with zero clutter.",
+      "tags": [
+        "macos",
+        "swiftui",
+        "swift",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7ug3gulc6oyid15kwwy.png",
+      "source": "Dev.to",
+      "user": "fanioz"
+    },
+    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -2052,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 677,
       "user": "JimLiu"
     },
     {
@@ -2082,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "adamallcock"
     },
     {
@@ -2097,23 +2098,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "techjarves"
     },
     {
-      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
-      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
-      "published_at": "2026-06-05T14:22:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "published_at": "2026-06-08T13:30:36Z",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 156,
-      "user": "wechat-miniprogram"
+      "stars": 160,
+      "user": "XBuilderLAB"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2127,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 721,
       "user": "GordenSun"
     },
     {
@@ -2142,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 580,
       "user": "apple"
     },
     {
@@ -2157,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "xiaohuailabs"
     },
     {
@@ -2172,7 +2173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "rednote-hilab"
     },
     {
@@ -2187,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 423,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2202,7 +2203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "iampedii"
     },
     {
