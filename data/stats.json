@@ -19,8 +19,8 @@
   },
   "by_language": {
     "JavaScript": 25,
-    "Java": 20,
     "Go": 27,
+    "Java": 20,
     "Swift": 3,
     "Rust": 2,
     "Python": 17,
@@ -88,8 +88,8 @@
     "gemini": 5,
     "devchallenge": 5,
     "go": 5,
-    "webdev": 4,
     "typescript": 4,
+    "webdev": 4,
     "agents": 4,
     "llm": 4,
     "opensource": 4
@@ -97,8 +97,8 @@
   "trending_topics": [],
   "language_percentages": {
     "JavaScript": "26.3",
-    "Java": "21.1",
     "Go": "28.4",
+    "Java": "21.1",
     "Swift": "3.2",
     "Rust": "2.1",
     "Python": "17.9",

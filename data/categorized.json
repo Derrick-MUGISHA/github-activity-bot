@@ -161,21 +161,6 @@
       "user": "Michael Ramich"
     },
     {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-      "published_at": "2026-06-08T04:45:51Z",
-      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
       "published_at": "2026-06-02T20:02:27Z",
@@ -273,6 +258,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+      "published_at": "2026-06-08T04:45:51Z",
+      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
+      "source": "Dev.to",
+      "user": "Rapls"
     },
     {
       "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "JimLiu"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 188,
       "user": "adamallcock"
     },
     {
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "techjarves"
     },
     {
@@ -697,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "wechat-miniprogram"
     },
     {
@@ -712,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 693,
       "user": "GordenSun"
     },
     {
@@ -727,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 506,
       "user": "apple"
     },
     {
@@ -742,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 413,
       "user": "xiaohuailabs"
     },
     {
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 169,
       "user": "iampedii"
     },
     {
@@ -772,26 +772,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "hadihonarvar"
     }
   ],
   "JavaScript": [
-    {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
-      "published_at": "2026-06-08T09:09:29Z",
-      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
-      "tags": [
-        "webdev",
-        "typescript",
-        "bash",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
-      "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
-    },
     {
       "title": "TanStack Start Is Kind of a Big Deal",
       "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
@@ -806,6 +791,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
+      "published_at": "2026-06-08T09:09:29Z",
+      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "tags": [
+        "webdev",
+        "typescript",
+        "bash",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
+      "source": "Dev.to",
+      "user": "Hadil Ben Abdallah"
     },
     {
       "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
@@ -1057,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "JimLiu"
     },
     {
@@ -1072,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 500,
       "user": "Jane-xiaoer"
     },
     {
@@ -1087,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 188,
       "user": "adamallcock"
     },
     {
@@ -1102,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "techjarves"
     },
     {
@@ -1117,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "wechat-miniprogram"
     }
   ],
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 693,
       "user": "GordenSun"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 506,
       "user": "apple"
     },
     {
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 418,
       "user": "rednote-hilab"
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 413,
       "user": "xiaohuailabs"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 396,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "JimLiu"
     }
   ],
@@ -1537,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 506,
       "user": "apple"
     }
   ],
@@ -1717,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 169,
       "user": "iampedii"
     }
   ],
@@ -1825,21 +1825,6 @@
       "user": "Michael Ramich"
     },
     {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-      "published_at": "2026-06-08T04:45:51Z",
-      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
       "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk",
       "published_at": "2026-06-08T22:21:49Z",
@@ -1908,6 +1893,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+      "published_at": "2026-06-08T04:45:51Z",
+      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
+      "source": "Dev.to",
+      "user": "Rapls"
     },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "JimLiu"
     },
     {
@@ -2112,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 500,
       "user": "Jane-xiaoer"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 188,
       "user": "adamallcock"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "techjarves"
     },
     {
@@ -2157,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "wechat-miniprogram"
     },
     {
@@ -2172,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 693,
       "user": "GordenSun"
     },
     {
@@ -2187,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 506,
       "user": "apple"
     },
     {
@@ -2202,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 418,
       "user": "rednote-hilab"
     },
     {
@@ -2217,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 413,
       "user": "xiaohuailabs"
     },
     {
@@ -2232,7 +2232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 396,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2247,7 +2247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 169,
       "user": "iampedii"
     },
     {
@@ -2277,7 +2277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "TryHarder-L"
     },
     {
@@ -2307,7 +2307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "hadihonarvar"
     }
   ]
