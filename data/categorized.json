@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "How we built AIventure, an AI-Powered Retro Dungeon",
       "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
       "published_at": "2026-06-10T03:09:39Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "It's Time We All Eat some more Cucumber!",
@@ -162,20 +162,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -189,6 +175,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
       "source": "Dev.to",
       "user": "Jean-Phi Baconnais"
+    },
+    {
+      "title": "No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4",
+      "url": "https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8",
+      "published_at": "2026-06-10T02:39:08Z",
+      "description": "With Google’s Gemma 4 12B, you can host a highly intelligent assistant that natively understands text...",
+      "tags": [
+        "tutorial",
+        "ai",
+        "opensource",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqsxcyhz5uf2s8d92x0ew.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -278,6 +279,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script",
+      "url": "https://dev.to/gde/the-1-second-timeout-hack-running-infinite-parallel-workloads-natively-on-google-apps-script-2ge4",
+      "published_at": "2026-06-09T06:18:21Z",
+      "description": "Abstract   This paper presents a serverless architecture that overcomes the stateless...",
+      "tags": [
+        "ai",
+        "googleappsscript",
+        "serverless",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjtvp9aq6tnv7kb6yqfu.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Am I Becoming Too Slow for the AI World?",
       "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
       "published_at": "2026-06-03T17:30:38Z",
@@ -303,6 +319,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
     },
     {
       "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -365,21 +395,6 @@
       "user": "Hagag"
     },
     {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
-      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
-      "published_at": "2026-06-07T13:26:05Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Local Mac Gemma 4 Deployment with MCP and Antigravity CLI",
       "url": "https://dev.to/gde/local-mac-gemma-4-deployment-with-mcp-and-antigravity-cli-l0p",
       "published_at": "2026-05-31T19:03:09Z",
@@ -423,6 +438,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "I Built Yumii — An Open-Source AI Companion",
+      "url": "https://dev.to/code_neuron58/i-built-yumii-an-open-source-ai-companion-3692",
+      "published_at": "2026-06-07T14:45:43Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   Yumii is an...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ljaxvqszmwgra6yc7st.png",
+      "source": "Dev.to",
+      "user": "Biprayan Choudhuri"
+    },
+    {
       "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
       "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
       "published_at": "2026-06-07T05:09:27Z",
@@ -436,80 +466,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
       "source": "Dev.to",
       "user": "Tom Shaw"
-    },
-    {
-      "title": "What if the best developer on your team is the one who does not understand your business at all?",
-      "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
-      "published_at": "2026-06-06T13:58:22Z",
-      "description": "For as long as I can remember, we have insisted on the opposite. The best developers understand the...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnniekdqejxlzll5dgyb8.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "AI fatigue is very real and people are fighting back!",
-      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
-      "published_at": "2026-05-27T19:45:09Z",
-      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
-      "tags": [
-        "ai",
-        "workplace",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "Examples Gubernator",
-      "url": "https://dev.to/gde/examples-gubernator-3pk9",
-      "published_at": "2026-06-06T09:18:33Z",
-      "description": "Gubernator Orchestrator Update!   Just shipped some major improvements examples to Gubernator (the...",
-      "tags": [
-        "devops",
-        "gubernator",
-        "docker",
-        "containers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -667,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "JimLiu"
     },
     {
@@ -697,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "techjarves"
     },
     {
@@ -712,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "XBuilderLAB"
     },
     {
@@ -727,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -742,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 598,
       "user": "apple"
     },
     {
@@ -757,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "xiaohuailabs"
     },
     {
@@ -772,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "iampedii"
     },
     {
@@ -787,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 41,
       "user": "hadihonarvar"
     }
   ],
@@ -896,21 +852,6 @@
       "user": "Stefan Buhrmester"
     },
     {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
-      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
-      "published_at": "2026-06-07T13:26:05Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
       "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
       "published_at": "2026-05-28T14:39:29Z",
@@ -924,21 +865,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1072,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "JimLiu"
     },
     {
@@ -1117,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "techjarves"
     },
     {
@@ -1132,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "XBuilderLAB"
     }
   ],
@@ -1297,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -1312,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 598,
       "user": "apple"
     },
     {
@@ -1327,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "xiaohuailabs"
     },
     {
@@ -1342,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 432,
       "user": "rednote-hilab"
     },
     {
@@ -1357,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 426,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1376,6 +1302,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Gubernator visual schema.",
+      "url": "https://dev.to/gde/gubernator-visual-schema-1dfc",
+      "published_at": "2026-06-09T09:42:18Z",
+      "description": "Excited to share the latest feature built for Gubernator (gbnt): Visual Stack Topology &amp;...",
+      "tags": [
+        "docker",
+        "gubernator",
+        "antigravity",
+        "agenticarchitect"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04v0grh5v6qutl6jamsw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1406,21 +1347,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Examples Gubernator",
-      "url": "https://dev.to/gde/examples-gubernator-3pk9",
-      "published_at": "2026-06-06T09:18:33Z",
-      "description": "Gubernator Orchestrator Update!   Just shipped some major improvements examples to Gubernator (the...",
-      "tags": [
-        "devops",
-        "gubernator",
-        "docker",
-        "containers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     }
   ],
   "WebDev": [
@@ -1470,21 +1396,6 @@
       "user": "Sage Starr"
     },
     {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1508,11 +1419,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "JimLiu"
     }
   ],
   "Mobile": [
+    {
+      "title": "Flutter Midsommer Madnesss",
+      "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb",
+      "published_at": "2026-06-09T21:35:36Z",
+      "description": "This is a submission for the June Solstice Game Jam  When you have a hammer- everything is a...",
+      "tags": [
+        "devchallenge",
+        "gamechallenge",
+        "gamedev",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnn283nzexgthepevuw2q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
@@ -1526,21 +1452,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism",
-      "url": "https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl",
-      "published_at": "2026-06-06T01:52:38Z",
-      "description": "How I built SysMonitor, an open-source macOS resource monitor that tracks CPU, RAM, and Network with zero clutter.",
-      "tags": [
-        "macos",
-        "swiftui",
-        "swift",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7ug3gulc6oyid15kwwy.png",
-      "source": "Dev.to",
-      "user": "fanioz"
-    },
-    {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
       "published_at": "2026-06-08T04:32:27Z",
@@ -1552,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 598,
       "user": "apple"
     }
   ],
@@ -1616,6 +1527,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4",
+      "url": "https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8",
+      "published_at": "2026-06-10T02:39:08Z",
+      "description": "With Google’s Gemma 4 12B, you can host a highly intelligent assistant that natively understands text...",
+      "tags": [
+        "tutorial",
+        "ai",
+        "opensource",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqsxcyhz5uf2s8d92x0ew.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1661,6 +1587,21 @@
       "user": "Cristhian Ferreira "
     },
     {
+      "title": "The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script",
+      "url": "https://dev.to/gde/the-1-second-timeout-hack-running-infinite-parallel-workloads-natively-on-google-apps-script-2ge4",
+      "published_at": "2026-06-09T06:18:21Z",
+      "description": "Abstract   This paper presents a serverless architecture that overcomes the stateless...",
+      "tags": [
+        "ai",
+        "googleappsscript",
+        "serverless",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjtvp9aq6tnv7kb6yqfu.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Azure Cloud Shell with Antigravity CLI",
       "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6",
       "published_at": "2026-05-26T14:18:48Z",
@@ -1674,21 +1615,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
-      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
-      "published_at": "2026-06-07T13:26:05Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "The Ultimate Cloud Run Guide 2026",
@@ -1721,21 +1647,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -1747,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "iampedii"
     }
   ],
@@ -1811,20 +1722,6 @@
       "user": "shrey "
     },
     {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
       "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
       "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk",
       "published_at": "2026-06-08T22:21:49Z",
@@ -1879,6 +1776,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
       "source": "Dev.to",
       "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "The perfect background music for Vibecoding...",
+      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
+      "published_at": "2026-06-08T18:01:28Z",
+      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
+      "source": "Dev.to",
+      "user": "Michael Ramich"
     },
     {
       "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -1983,6 +1894,35 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Reviving an Abandoned Side Project with Spec-Driven Development (SDD)",
+      "url": "https://dev.to/karlyhoffman/reviving-an-abandoned-side-project-with-speckit-and-copilot-3517",
+      "published_at": "2026-06-07T15:13:15Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge     I had two goals when I decided to...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmydmc2slvsvwpbr3rafa.png",
+      "source": "Dev.to",
+      "user": "Karly Hoffman"
+    },
+    {
+      "title": "I Built Yumii — An Open-Source AI Companion",
+      "url": "https://dev.to/code_neuron58/i-built-yumii-an-open-source-ai-companion-3692",
+      "published_at": "2026-06-07T14:45:43Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   Yumii is an...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ljaxvqszmwgra6yc7st.png",
+      "source": "Dev.to",
+      "user": "Biprayan Choudhuri"
+    },
+    {
       "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
       "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
       "published_at": "2026-06-07T05:09:27Z",
@@ -1998,50 +1938,6 @@
       "user": "Tom Shaw"
     },
     {
-      "title": "What if the best developer on your team is the one who does not understand your business at all?",
-      "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
-      "published_at": "2026-06-06T13:58:22Z",
-      "description": "For as long as I can remember, we have insisted on the opposite. The best developers understand the...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnniekdqejxlzll5dgyb8.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism",
-      "url": "https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl",
-      "published_at": "2026-06-06T01:52:38Z",
-      "description": "How I built SysMonitor, an open-source macOS resource monitor that tracks CPU, RAM, and Network with zero clutter.",
-      "tags": [
-        "macos",
-        "swiftui",
-        "swift",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7ug3gulc6oyid15kwwy.png",
-      "source": "Dev.to",
-      "user": "fanioz"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -2053,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "JimLiu"
     },
     {
@@ -2098,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "techjarves"
     },
     {
@@ -2113,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "XBuilderLAB"
     },
     {
@@ -2128,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -2143,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 598,
       "user": "apple"
     },
     {
@@ -2158,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "xiaohuailabs"
     },
     {
@@ -2173,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 432,
       "user": "rednote-hilab"
     },
     {
@@ -2188,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 426,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2203,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "iampedii"
     },
     {
@@ -2263,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 41,
       "user": "hadihonarvar"
     }
   ]
