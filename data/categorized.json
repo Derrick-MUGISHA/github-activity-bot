@@ -1,532 +1,6 @@
 {
   "AI": [
     {
-      "title": "It's Time We All Eat some more Cucumber!",
-      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
-      "published_at": "2026-06-08T09:22:09Z",
-      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
-      "tags": [
-        "ai",
-        "tdd",
-        "bdd",
-        "darkfactory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
-    },
-    {
-      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
-      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
-      "published_at": "2026-06-09T12:16:25Z",
-      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
-      "tags": [
-        "agentsasanapi",
-        "managedagent",
-        "gemini",
-        "managedagentsapi"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
-    },
-    {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
-      "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a",
-      "published_at": "2026-06-08T06:48:16Z",
-      "description": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "tags": [
-        "ai",
-        "llm",
-        "eval",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png",
-      "source": "Dev.to",
-      "user": "ankush chadha"
-    },
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
-    },
-    {
-      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
-      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm",
-      "published_at": "2026-06-08T02:27:01Z",
-      "description": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
-      "tags": [
-        "mcpserver",
-        "agenticai",
-        "googleantigravity",
-        "agentharness"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
-      "published_at": "2026-06-05T14:58:17Z",
-      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "tags": [
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
-      "published_at": "2026-06-04T19:38:50Z",
-      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "google",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
-      "source": "Dev.to",
-      "user": "Jean-Phi Baconnais"
-    },
-    {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-      "published_at": "2026-06-08T04:45:51Z",
-      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
-      "published_at": "2026-06-02T20:02:27Z",
-      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "tags": [
-        "ai",
-        "llm",
-        "typescript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
-      "source": "Dev.to",
-      "user": "Ayoola Solomon"
-    },
-    {
-      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
-      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl",
-      "published_at": "2026-06-08T08:08:51Z",
-      "description": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "automation",
-        "notebooklm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2zjlv1db4oc3v724ycr.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
-      "published_at": "2026-06-01T18:54:52Z",
-      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
-      "published_at": "2026-05-28T19:04:59Z",
-      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "tags": [
-        "ai",
-        "contentwriting",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
-      "source": "Dev.to",
-      "user": "Karl L. Hughes"
-    },
-    {
-      "title": "Extending a MCP/A2A Currency Agent with A2UI",
-      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
-      "published_at": "2026-06-03T21:02:16Z",
-      "description": "Building an Agent with A2A, MCP, ADK, and A2UI   This tutorial aims to extend and test a...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "a2ui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
-      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
-      "published_at": "2026-06-01T10:50:34Z",
-      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
-      "source": "Dev.to",
-      "user": "Hagag"
-    },
-    {
-      "title": "[GCP Practical] LINE Business Card Bot",
-      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
-      "published_at": "2026-06-07T15:26:28Z",
-      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
-      "tags": [
-        "api",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf",
-      "published_at": "2026-06-05T19:37:39Z",
-      "description": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
-      "tags": [
-        "ai",
-        "wecoded",
-        "programming",
-        "iot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa8hrl1ffcrqzvz3o1gi.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
-      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
-      "published_at": "2026-06-07T13:26:05Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Local Mac Gemma 4 Deployment with MCP and Antigravity CLI",
-      "url": "https://dev.to/gde/local-mac-gemma-4-deployment-with-mcp-and-antigravity-cli-l0p",
-      "published_at": "2026-05-31T19:03:09Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a M3 Macbook Air. A suite of...",
-      "tags": [
-        "mcpserver",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7dl72d50qc7nfs1fl86q.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "The Bot That Never Was",
-      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
-      "published_at": "2026-06-06T14:35:00Z",
-      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
-      "tags": [
-        "security",
-        "opensource",
-        "github",
-        "supplychain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
-      "source": "Dev.to",
-      "user": "Ionut-Cristian Florescu"
-    },
-    {
-      "title": "Google Colab, but in your favourite terminal",
-      "url": "https://dev.to/gde/google-colab-but-in-your-favourite-terminal-5hf8",
-      "published_at": "2026-06-05T21:45:00Z",
-      "description": "While some of my recent posts have involved using the Colab extension for VS Code and the...",
-      "tags": [
-        "colab",
-        "cli",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2p1273q5008c0pi65rk6.png",
-      "source": "Dev.to",
-      "user": "Glen Yu"
-    },
-    {
-      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
-      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
-      "published_at": "2026-06-07T05:09:27Z",
-      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
-      "tags": [
-        "laravel",
-        "php",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
-      "source": "Dev.to",
-      "user": "Tom Shaw"
-    },
-    {
-      "title": "What if the best developer on your team is the one who does not understand your business at all?",
-      "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
-      "published_at": "2026-06-06T13:58:22Z",
-      "description": "For as long as I can remember, we have insisted on the opposite. The best developers understand the...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnniekdqejxlzll5dgyb8.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "AI fatigue is very real and people are fighting back!",
-      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
-      "published_at": "2026-05-27T19:45:09Z",
-      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
-      "tags": [
-        "ai",
-        "workplace",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "Examples Gubernator",
-      "url": "https://dev.to/gde/examples-gubernator-3pk9",
-      "published_at": "2026-06-06T09:18:33Z",
-      "description": "Gubernator Orchestrator Update!   Just shipped some major improvements examples to Gubernator (the...",
-      "tags": [
-        "devops",
-        "gubernator",
-        "docker",
-        "containers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -682,7 +156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 649,
       "user": "JimLiu"
     },
     {
@@ -697,7 +171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 180,
       "user": "adamallcock"
     },
     {
@@ -712,7 +186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "techjarves"
     },
     {
@@ -727,7 +201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 138,
       "user": "wechat-miniprogram"
     },
     {
@@ -742,7 +216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 648,
       "user": "GordenSun"
     },
     {
@@ -757,7 +231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 411,
       "user": "apple"
     },
     {
@@ -772,7 +246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 368,
       "user": "xiaohuailabs"
     },
     {
@@ -787,7 +261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "iampedii"
     },
     {
@@ -807,154 +281,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
-      "published_at": "2026-06-08T09:09:29Z",
-      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
-      "tags": [
-        "webdev",
-        "typescript",
-        "bash",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
-      "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
-    },
-    {
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
-      "published_at": "2026-06-08T17:06:43Z",
-      "description": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
-      "tags": [
-        "tanstack",
-        "react",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
-      "published_at": "2026-06-02T20:02:27Z",
-      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "tags": [
-        "ai",
-        "llm",
-        "typescript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
-      "source": "Dev.to",
-      "user": "Ayoola Solomon"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
-      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
-      "published_at": "2026-06-01T16:31:20Z",
-      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
-      "tags": [
-        "javascript",
-        "opensource",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
-      "source": "Dev.to",
-      "user": "Stefan Buhrmester"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
-      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
-      "published_at": "2026-06-07T13:26:05Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
-      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
-      "published_at": "2026-05-28T14:39:29Z",
-      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
-      "tags": [
-        "typescript",
-        "javascript",
-        "enum",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
-      "source": "Dev.to",
-      "user": "Sage Starr"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
     {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
@@ -1087,7 +413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 649,
       "user": "JimLiu"
     },
     {
@@ -1102,7 +428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 495,
       "user": "Jane-xiaoer"
     },
     {
@@ -1117,7 +443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 180,
       "user": "adamallcock"
     },
     {
@@ -1132,7 +458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "techjarves"
     },
     {
@@ -1147,54 +473,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 138,
       "user": "wechat-miniprogram"
     }
   ],
   "Python": [
-    {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
-      "source": "Dev.to",
-      "user": "Lucas Rafaldini"
-    },
-    {
-      "title": "[GCP Practical] LINE Business Card Bot",
-      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
-      "published_at": "2026-06-07T15:26:28Z",
-      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
-      "tags": [
-        "api",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1327,23 +610,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 648,
       "user": "GordenSun"
-    },
-    {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "rednote-hilab"
     },
     {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
@@ -1357,8 +625,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 411,
       "user": "apple"
+    },
+    {
+      "title": "rednote-hilab/dots.tts - GitHub Repository",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "published_at": "2026-06-04T09:22:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
+      "source": "GitHub",
+      "stars": 399,
+      "user": "rednote-hilab"
     },
     {
       "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
@@ -1372,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 368,
       "user": "xiaohuailabs"
     },
     {
@@ -1387,118 +670,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 329,
       "user": "Tencent-Hunyuan"
     }
   ],
-  "DevOps": [
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
-      "published_at": "2026-06-01T18:54:52Z",
-      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Examples Gubernator",
-      "url": "https://dev.to/gde/examples-gubernator-3pk9",
-      "published_at": "2026-06-06T09:18:33Z",
-      "description": "Gubernator Orchestrator Update!   Just shipped some major improvements examples to Gubernator (the...",
-      "tags": [
-        "devops",
-        "gubernator",
-        "docker",
-        "containers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    }
-  ],
+  "DevOps": [],
   "WebDev": [
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
-      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
-      "published_at": "2026-05-28T14:39:29Z",
-      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
-      "tags": [
-        "typescript",
-        "javascript",
-        "enum",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
-      "source": "Dev.to",
-      "user": "Sage Starr"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
@@ -1523,23 +700,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 649,
       "user": "JimLiu"
     }
   ],
   "Mobile": [
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
-      "published_at": "2026-06-05T14:58:17Z",
-      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "tags": [
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
     {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
@@ -1552,189 +717,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 411,
       "user": "apple"
     }
   ],
   "Cloud": [
-    {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
-      "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
-      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
-      "published_at": "2026-06-08T19:43:35Z",
-      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
-      "tags": [
-        "googlecloud",
-        "agents",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
-      "source": "Dev.to",
-      "user": "Joey Lynne Hernandez"
-    },
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
-      "published_at": "2026-06-01T18:54:52Z",
-      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6",
-      "published_at": "2026-05-26T14:18:48Z",
-      "description": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "tags": [
-        "cli",
-        "azurecloudshell",
-        "antigravitycli",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "[GCP Practical] LINE Business Card Bot",
-      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46",
-      "published_at": "2026-06-07T15:26:28Z",
-      "description": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
-      "tags": [
-        "api",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51ixx8tpbh4lc7167hqw.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions",
-      "url": "https://dev.to/railsstudent/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-2bn5",
-      "published_at": "2026-06-07T13:26:05Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x063zxhxkg2fagofn2l.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "The Ultimate Cloud Run Guide 2026",
-      "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8",
-      "published_at": "2026-06-01T14:31:53Z",
-      "description": "At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...",
-      "tags": [
-        "cloud",
-        "google",
-        "serverless",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png",
-      "source": "Dev.to",
-      "user": "Sara Ford"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
@@ -1747,26 +734,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "iampedii"
     }
   ],
   "Database": [
-    {
-      "title": "Query Markdown as a Database with mq-db: SQL, mq, and Interval Indexes",
-      "url": "https://dev.to/harehare/query-markdown-as-a-database-with-mq-db-sql-mq-and-interval-indexes-52h9",
-      "published_at": "2026-06-03T14:23:05Z",
-      "description": "mq-db treats Markdown files as a structured database. Index documents, run SQL queries with hierarchy support, and explore content in an interactive TUI — all from a single binary.",
-      "tags": [
-        "markdown",
-        "database",
-        "sql",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiin1tm6p2m9qgg3vu780.png",
-      "source": "Dev.to",
-      "user": "Takahiro Sato"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1782,21 +754,6 @@
   ],
   "Security": [
     {
-      "title": "The Bot That Never Was",
-      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
-      "published_at": "2026-06-06T14:35:00Z",
-      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
-      "tags": [
-        "security",
-        "opensource",
-        "github",
-        "supplychain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
-      "source": "Dev.to",
-      "user": "Ionut-Cristian Florescu"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1820,271 +777,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "MengMengCode"
     }
   ],
   "Tools": [
-    {
-      "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
-      "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk",
-      "published_at": "2026-06-08T22:21:49Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the GitHub \"Finish-Up-A-Thon\"...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yuvsiop6qbjp87vx4l8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
-    },
-    {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-      "published_at": "2026-06-08T04:45:51Z",
-      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Reviving an Abandoned Side Project with Spec-Driven Development (SDD)",
-      "url": "https://dev.to/karlyhoffman/reviving-an-abandoned-side-project-with-speckit-and-copilot-3517",
-      "published_at": "2026-06-07T15:13:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge     I had two goals when I decided to...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo3m26o3lrqx63ohpzek5.png",
-      "source": "Dev.to",
-      "user": "Karly Hoffman"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
-      "source": "Dev.to",
-      "user": "Lucas Rafaldini"
-    },
-    {
-      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
-      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
-      "published_at": "2026-06-01T10:50:34Z",
-      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
-      "source": "Dev.to",
-      "user": "Hagag"
-    },
-    {
-      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
-      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
-      "published_at": "2026-06-01T16:31:20Z",
-      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
-      "tags": [
-        "javascript",
-        "opensource",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
-      "source": "Dev.to",
-      "user": "Stefan Buhrmester"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
-      "published_at": "2026-05-21T17:33:15Z",
-      "description": "Update: Winner Announcement Delayed         Github \"Finish-Up-A-Thon\" Challenge Winner Announcement...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "The Bot That Never Was",
-      "url": "https://dev.to/icflorescu/the-bot-that-never-was-2mfp",
-      "published_at": "2026-06-06T14:35:00Z",
-      "description": "How a forged github-actions commit planted a credential-stealing worm in five of my repos, why opening one in an AI editor detonates it, and how the same worm hit 73 Microsoft repos that GitHub disabled in 105 seconds while mine stayed live.",
-      "tags": [
-        "security",
-        "opensource",
-        "github",
-        "supplychain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51b3wc4skp1pu6376pml.png",
-      "source": "Dev.to",
-      "user": "Ionut-Cristian Florescu"
-    },
-    {
-      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
-      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
-      "published_at": "2026-06-07T05:09:27Z",
-      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
-      "tags": [
-        "laravel",
-        "php",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
-      "source": "Dev.to",
-      "user": "Tom Shaw"
-    },
-    {
-      "title": "What if the best developer on your team is the one who does not understand your business at all?",
-      "url": "https://dev.to/hybridtechie/what-if-the-best-developer-on-your-team-is-the-one-who-does-not-understand-your-business-at-all-5701",
-      "published_at": "2026-06-06T13:58:22Z",
-      "description": "For as long as I can remember, we have insisted on the opposite. The best developers understand the...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnniekdqejxlzll5dgyb8.png",
-      "source": "Dev.to",
-      "user": "HybridTechie"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
     {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
@@ -2097,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 649,
       "user": "JimLiu"
     },
     {
@@ -2112,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 495,
       "user": "Jane-xiaoer"
     },
     {
@@ -2127,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 180,
       "user": "adamallcock"
     },
     {
@@ -2142,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "techjarves"
     },
     {
@@ -2157,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 138,
       "user": "wechat-miniprogram"
     },
     {
@@ -2172,23 +869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 648,
       "user": "GordenSun"
-    },
-    {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "rednote-hilab"
     },
     {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
@@ -2202,8 +884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 411,
       "user": "apple"
+    },
+    {
+      "title": "rednote-hilab/dots.tts - GitHub Repository",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "published_at": "2026-06-04T09:22:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
+      "source": "GitHub",
+      "stars": 399,
+      "user": "rednote-hilab"
     },
     {
       "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
@@ -2217,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 368,
       "user": "xiaohuailabs"
     },
     {
@@ -2232,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 329,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2247,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "FengZi1221"
     },
     {
@@ -2262,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "iampedii"
     },
     {
@@ -2277,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 138,
       "user": "TryHarder-L"
     },
     {
@@ -2292,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "MengMengCode"
     },
     {
