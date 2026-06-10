@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-45-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-5-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-10-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,28 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15 (33.3%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 35 (33.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15 (33.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15 (33.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦 2 (4.4%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**Security**: 🟦🟦 2 (4.4%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦 1 (2.2%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦 1 (2.2%)
+**Mobile**: 🟦 3 (2.9%)
 
-**Database**: 🟦 1 (2.2%)
+**Security**: 🟦 3 (2.9%)
+
+**Database**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -57,28 +60,32 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.3 (28.3%)
-Java            ██████████████████████████████ 28.3 (28.3%)
-Python          ██████████████████████████████ 28.3 (28.3%)
-Go              ██████████████ 13.2 (13.2%)
-Swift           ██ 1.9 (1.9%)
+Go              ██████████████████████████████ 28.4 (28.4%)
+JavaScript      ████████████████████████████ 26.3 (26.3%)
+Java            ██████████████████████ 21.1 (21.1%)
+Python          ███████████████████ 17.9 (17.9%)
+Swift           ███ 3.2 (3.2%)
+Rust            ██ 2.1 (2.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 15
-    "Java" : 15
-    "Python" : 15
-    "Go" : 7
-    "Swift" : 1
+    "Go" : 27
+    "JavaScript" : 25
+    "Java" : 20
+    "Python" : 17
+    "Swift" : 3
+    "Rust" : 2
+    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![python](https://img.shields.io/badge/python-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -118,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-10 6:00 CAT)
+## 📅 Latest Updates (2026-06-10 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -126,60 +133,60 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/JimLiu/baoyu-design">
-      <img src="https://avatars.githubusercontent.com/u/648674?v=4" width="200" alt="JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8." />
+    <a href="https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png" width="200" alt="You’re a Real TypeScript Developer Only If..." />
       <br/>
-      <b>JimLiu/baoyu-design - Run Claude Design locally as...</b>
+      <b>You’re a Real TypeScript Developer Only If...</b>
     </a>
     <br/>
-    <sub>GitHub</sub>
+    <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/Jane-xiaoer/xiaoer-videolab">
-      <img src="https://avatars.githubusercontent.com/u/175961422?v=4" width="200" alt="Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。" />
+    <a href="https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png" width="200" alt="TanStack Start Is Kind of a Big Deal" />
       <br/>
-      <b>Jane-xiaoer/xiaoer-videolab - One click on the too...</b>
+      <b>TanStack Start Is Kind of a Big Deal</b>
     </a>
     <br/>
-    <sub>GitHub</sub>
+    <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/adamallcock/codex-chatgpt-control">
-      <img src="https://avatars.githubusercontent.com/u/92055994?v=4" width="200" alt="adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions" />
+    <a href="https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp" width="200" alt="It's Time We All Eat some more Cucumber!" />
       <br/>
-      <b>adamallcock/codex-chatgpt-control - Unofficial SDK...</b>
+      <b>It's Time We All Eat some more Cucumber!</b>
     </a>
     <br/>
-    <sub>GitHub</sub>
+    <sub>Dev.to</sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/techjarves/Local-AI-Image-Generator">
-      <img src="https://avatars.githubusercontent.com/u/54399984?v=4" width="200" alt="techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required." />
+    <a href="https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png" width="200" alt="From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs" />
       <br/>
-      <b>techjarves/Local-AI-Image-Generator - A fully self...</b>
+      <b>From Dashboards to Autonomous Action: Why You Need...</b>
     </a>
     <br/>
-    <sub>GitHub</sub>
+    <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/wechat-miniprogram/ai-mode-demo">
-      <img src="https://avatars.githubusercontent.com/u/40269642?v=4" width="200" alt="wechat-miniprogram/ai-mode-demo - GitHub Repository" />
+    <a href="https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg" width="200" alt="Claude Fable 5 is Now Generally Available on Google Cloud! 🚀" />
       <br/>
-      <b>wechat-miniprogram/ai-mode-demo - GitHub Repositor...</b>
+      <b>Claude Fable 5 is Now Generally Available on Googl...</b>
     </a>
     <br/>
-    <sub>GitHub</sub>
+    <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/GordenSun/GordenSuperPPTSkills">
-      <img src="https://avatars.githubusercontent.com/u/3281492?v=4" width="200" alt="GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。" />
+    <a href="https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png" width="200" alt="Antigravity Managed Agents Tutorial: Ship Production AI Agents" />
       <br/>
-      <b>GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最...</b>
+      <b>Antigravity Managed Agents Tutorial: Ship Producti...</b>
     </a>
     <br/>
-    <sub>GitHub</sub>
+    <sub>Dev.to</sub>
   </td>
 </tr>
 </table>
@@ -188,28 +195,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated) _[HackerNews]_
-- [Airfoil](https://ciechanow.ski/airfoil/) _[HackerNews]_
-- [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) _[HackerNews]_
-- [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/) _[HackerNews]_
-- [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) _[HackerNews]_
-- [Gemini AI](https://deepmind.google/technologies/gemini/) _[HackerNews]_
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) _[HackerNews]_
-- [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot) _[HackerNews]_
-- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) _[HackerNews]_
-- [Bypassing airport security via SQL injection](https://ian.sh/tsa) _[HackerNews]_
-- [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360) _[HackerNews]_
-- [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/) _[HackerNews]_
-- [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch) _[HackerNews]_
-- [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/) _[HackerNews]_
-- [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com) _[HackerNews]_
-- [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) _[HackerNews]_
-- [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) _[HackerNews]_
-- [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) _[HackerNews]_
-- [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/) _[HackerNews]_
-- [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/) _[HackerNews]_
+- [You’re a Real TypeScript Developer Only If...](https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o) _[Dev.to]_
+- [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec) _[Dev.to]_
+- [It's Time We All Eat some more Cucumber!](https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic) _[Dev.to]_
+- [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada) _[Dev.to]_
+- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog) _[Dev.to]_
+- [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
+- [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
+- [Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run](https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj) _[Dev.to]_
+- [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
+- [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg) _[Dev.to]_
+- [Dialling Our Agents to 11: My Favourite MCP Servers](https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm) _[Dev.to]_
+- [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422) _[Dev.to]_
+- [Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh) _[Dev.to]_
+- [How I took my Rust GUI from 135 MB to 30 MB by ditching the GPU](https://dev.to/trystan_sarrade/how-i-took-my-rust-gui-from-135-mb-to-30-mb-by-ditching-the-gpu-2i7d) _[Dev.to]_
+- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg) _[Dev.to]_
+- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon) _[Dev.to]_
+- [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla) _[Dev.to]_
+- [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
+- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 
-_Last automated update: Wed, 10 Jun 2026 06:47:06 CAT_
+_Last automated update: Wed, 10 Jun 2026 10:45:46 CAT_
 
 
 
@@ -217,36 +224,36 @@ _Last automated update: Wed, 10 Jun 2026 06:47:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Heap, stack, garbage collection
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -280,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 10 Jun 2026 04:47:06 GMT</b><br/>
+  <b>Last automated update: Wed, 10 Jun 2026 08:45:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
