@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
+      "published_at": "2026-06-10T03:09:39Z",
+      "description": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "tags": [
+        "gamedev",
+        "gemini",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
+      "source": "Dev.to",
+      "user": "bebechien"
+    },
+    {
       "title": "It's Time We All Eat some more Cucumber!",
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
       "published_at": "2026-06-08T09:22:09Z",
@@ -16,33 +31,19 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
-      "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
+      "published_at": "2026-06-10T15:38:18Z",
+      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
       "tags": [
-        "ai",
-        "claude",
-        "googlecloud"
+        "gpu",
+        "googlecloud",
+        "nvidia",
+        "infrastructure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
       "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
-      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
-      "published_at": "2026-06-09T12:16:25Z",
-      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
-      "tags": [
-        "agentsasanapi",
-        "managedagent",
-        "gemini",
-        "managedagentsapi"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -73,6 +74,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
+      "published_at": "2026-06-09T18:44:05Z",
+      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
+      "published_at": "2026-06-09T12:16:25Z",
+      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "tags": [
+        "agentsasanapi",
+        "managedagent",
+        "gemini",
+        "managedagentsapi"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
     },
     {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
@@ -191,20 +221,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "The Software Developer's Guide to AEO",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
-      "published_at": "2026-05-28T19:04:59Z",
-      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "tags": [
-        "ai",
-        "contentwriting",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
-      "source": "Dev.to",
-      "user": "Karl L. Hughes"
-    },
-    {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
       "published_at": "2026-06-03T21:02:16Z",
@@ -218,6 +234,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
+      "published_at": "2026-05-28T19:04:59Z",
+      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "tags": [
+        "ai",
+        "contentwriting",
+        "documentation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
+      "source": "Dev.to",
+      "user": "Karl L. Hughes"
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
@@ -482,21 +512,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "38 Domains, One Session. What the DNS Migration Tools Didn't Show Me.",
-      "url": "https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7",
-      "published_at": "2026-06-05T20:33:29Z",
-      "description": "Thirty-eight domains. One session. No user-visible downtime.  That's the result. But the process...",
-      "tags": [
-        "automation",
-        "devops",
-        "infrastructure",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg3ckvg94gkmoirccee7g.png",
-      "source": "Dev.to",
-      "user": "Dipo Ajayi"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -652,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 672,
       "user": "JimLiu"
     },
     {
@@ -667,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "adamallcock"
     },
     {
@@ -682,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "techjarves"
     },
     {
@@ -697,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 156,
       "user": "wechat-miniprogram"
     },
     {
@@ -712,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 714,
       "user": "GordenSun"
     },
     {
@@ -727,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 547,
       "user": "apple"
     },
     {
@@ -742,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 429,
       "user": "xiaohuailabs"
     },
     {
@@ -757,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 174,
       "user": "iampedii"
     },
     {
@@ -777,21 +792,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
-      "published_at": "2026-06-08T17:06:43Z",
-      "description": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
-      "tags": [
-        "tanstack",
-        "react",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
       "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
@@ -821,6 +821,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "TanStack Start Is Kind of a Big Deal",
+      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
+      "published_at": "2026-06-08T17:06:43Z",
+      "description": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
+      "tags": [
+        "tanstack",
+        "react",
+        "typescript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -1057,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 672,
       "user": "JimLiu"
     },
     {
@@ -1072,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "Jane-xiaoer"
     },
     {
@@ -1087,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "adamallcock"
     },
     {
@@ -1102,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "techjarves"
     },
     {
@@ -1117,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 156,
       "user": "wechat-miniprogram"
     }
   ],
@@ -1282,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 714,
       "user": "GordenSun"
     },
     {
@@ -1297,23 +1312,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 547,
       "user": "apple"
-    },
-    {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "rednote-hilab"
     },
     {
       "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
@@ -1327,8 +1327,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 429,
       "user": "xiaohuailabs"
+    },
+    {
+      "title": "rednote-hilab/dots.tts - GitHub Repository",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "published_at": "2026-06-04T09:22:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "rednote-hilab"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -1342,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 418,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1406,21 +1421,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "38 Domains, One Session. What the DNS Migration Tools Didn't Show Me.",
-      "url": "https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7",
-      "published_at": "2026-06-05T20:33:29Z",
-      "description": "Thirty-eight domains. One session. No user-visible downtime.  That's the result. But the process...",
-      "tags": [
-        "automation",
-        "devops",
-        "infrastructure",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg3ckvg94gkmoirccee7g.png",
-      "source": "Dev.to",
-      "user": "Dipo Ajayi"
     }
   ],
   "WebDev": [
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 672,
       "user": "JimLiu"
     }
   ],
@@ -1511,21 +1511,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism",
-      "url": "https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl",
-      "published_at": "2026-06-06T01:52:38Z",
-      "description": "How I built SysMonitor, an open-source macOS resource monitor that tracks CPU, RAM, and Network with zero clutter.",
-      "tags": [
-        "macos",
-        "swiftui",
-        "swift",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7ug3gulc6oyid15kwwy.png",
-      "source": "Dev.to",
-      "user": "fanioz"
-    },
-    {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
       "published_at": "2026-06-08T04:32:27Z",
@@ -1537,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 547,
       "user": "apple"
     }
   ],
@@ -1557,18 +1542,19 @@
       "user": "Joey Lynne Hernandez"
     },
     {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
-      "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
+      "published_at": "2026-06-10T15:38:18Z",
+      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
       "tags": [
-        "ai",
-        "claude",
-        "googlecloud"
+        "gpu",
+        "googlecloud",
+        "nvidia",
+        "infrastructure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
       "source": "Dev.to",
-      "user": "Jen Harvey"
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
@@ -1584,6 +1570,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
+      "published_at": "2026-06-09T18:44:05Z",
+      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
@@ -1717,26 +1717,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 174,
       "user": "iampedii"
     }
   ],
   "Database": [
-    {
-      "title": "Query Markdown as a Database with mq-db: SQL, mq, and Interval Indexes",
-      "url": "https://dev.to/harehare/query-markdown-as-a-database-with-mq-db-sql-mq-and-interval-indexes-52h9",
-      "published_at": "2026-06-03T14:23:05Z",
-      "description": "mq-db treats Markdown files as a structured database. Index documents, run SQL queries with hierarchy support, and explore content in an interactive TUI — all from a single binary.",
-      "tags": [
-        "markdown",
-        "database",
-        "sql",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiin1tm6p2m9qgg3vu780.png",
-      "source": "Dev.to",
-      "user": "Takahiro Sato"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2056,36 +2041,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism",
-      "url": "https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl",
-      "published_at": "2026-06-06T01:52:38Z",
-      "description": "How I built SysMonitor, an open-source macOS resource monitor that tracks CPU, RAM, and Network with zero clutter.",
-      "tags": [
-        "macos",
-        "swiftui",
-        "swift",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7ug3gulc6oyid15kwwy.png",
-      "source": "Dev.to",
-      "user": "fanioz"
-    },
-    {
-      "title": "38 Domains, One Session. What the DNS Migration Tools Didn't Show Me.",
-      "url": "https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7",
-      "published_at": "2026-06-05T20:33:29Z",
-      "description": "Thirty-eight domains. One session. No user-visible downtime.  That's the result. But the process...",
-      "tags": [
-        "automation",
-        "devops",
-        "infrastructure",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg3ckvg94gkmoirccee7g.png",
-      "source": "Dev.to",
-      "user": "Dipo Ajayi"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -2097,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 672,
       "user": "JimLiu"
     },
     {
@@ -2112,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "Jane-xiaoer"
     },
     {
@@ -2127,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "adamallcock"
     },
     {
@@ -2142,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "techjarves"
     },
     {
@@ -2157,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 156,
       "user": "wechat-miniprogram"
     },
     {
@@ -2172,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 714,
       "user": "GordenSun"
     },
     {
@@ -2187,23 +2142,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 547,
       "user": "apple"
-    },
-    {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "rednote-hilab"
     },
     {
       "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
@@ -2217,8 +2157,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 429,
       "user": "xiaohuailabs"
+    },
+    {
+      "title": "rednote-hilab/dots.tts - GitHub Repository",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "published_at": "2026-06-04T09:22:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "rednote-hilab"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -2232,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 418,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2247,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 174,
       "user": "iampedii"
     },
     {
