@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 634,
       "user": "JimLiu"
     },
     {
@@ -701,6 +701,36 @@
       "user": "adamallcock"
     },
     {
+      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "published_at": "2026-06-04T03:45:01Z",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "techjarves"
+    },
+    {
+      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "published_at": "2026-06-05T14:22:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "wechat-miniprogram"
+    },
+    {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "published_at": "2026-06-07T16:20:13Z",
@@ -712,23 +742,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 587,
       "user": "GordenSun"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 325,
-      "user": "xiaohuailabs"
     },
     {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
@@ -742,8 +757,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 337,
       "user": "apple"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "xiaohuailabs"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -757,8 +787,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "iampedii"
+    },
+    {
+      "title": "hadihonarvar/flock - Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
+      "url": "https://github.com/hadihonarvar/flock",
+      "published_at": "2026-06-05T03:06:23Z",
+      "description": "Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "hadihonarvar"
     }
   ],
   "JavaScript": [
@@ -1031,21 +1076,6 @@
       "user": "velmu"
     },
     {
-      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "published_at": "2026-06-03T03:26:16Z",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "nevertoday"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -1057,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 634,
       "user": "JimLiu"
     },
     {
@@ -1091,19 +1121,34 @@
       "user": "adamallcock"
     },
     {
-      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "url": "https://github.com/mrdoob/draco.js",
-      "published_at": "2026-06-03T08:44:06Z",
-      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "published_at": "2026-06-04T03:45:01Z",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 168,
-      "user": "mrdoob"
+      "stars": 161,
+      "user": "techjarves"
+    },
+    {
+      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "published_at": "2026-06-05T14:22:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "wechat-miniprogram"
     }
   ],
   "Python": [
@@ -1282,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 587,
       "user": "GordenSun"
     },
     {
@@ -1297,23 +1342,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 378,
       "user": "rednote-hilab"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 325,
-      "user": "xiaohuailabs"
     },
     {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
@@ -1327,8 +1357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 337,
       "user": "apple"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "xiaohuailabs"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -1342,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "Tencent-Hunyuan"
     }
   ],
@@ -1406,21 +1451,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfjmnd4xp1htfzinipkk.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxd",
-      "published_at": "2026-06-03T18:55:02Z",
-      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
-      "source": "GitHub",
-      "stars": 535,
-      "user": "tastyeffectco"
     }
   ],
   "WebDev": [
@@ -1493,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 634,
       "user": "JimLiu"
     }
   ],
@@ -1522,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 337,
       "user": "apple"
     }
   ],
@@ -1717,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "iampedii"
     }
   ],
@@ -2056,21 +2086,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "nevertoday/zhongguo-traditional-colors - 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "published_at": "2026-06-03T03:26:16Z",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166048?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "nevertoday"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -2082,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 634,
       "user": "JimLiu"
     },
     {
@@ -2116,19 +2131,34 @@
       "user": "adamallcock"
     },
     {
-      "title": "mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-      "url": "https://github.com/mrdoob/draco.js",
-      "published_at": "2026-06-03T08:44:06Z",
-      "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "published_at": "2026-06-04T03:45:01Z",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "source": "GitHub",
-      "stars": 168,
-      "user": "mrdoob"
+      "stars": 161,
+      "user": "techjarves"
+    },
+    {
+      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "published_at": "2026-06-05T14:22:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "wechat-miniprogram"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2142,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 587,
       "user": "GordenSun"
     },
     {
@@ -2157,23 +2187,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 378,
       "user": "rednote-hilab"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 325,
-      "user": "xiaohuailabs"
     },
     {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
@@ -2187,8 +2202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 337,
       "user": "apple"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "xiaohuailabs"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -2202,23 +2232,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "Tencent-Hunyuan"
-    },
-    {
-      "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxd",
-      "published_at": "2026-06-03T18:55:02Z",
-      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205345397?v=4",
-      "source": "GitHub",
-      "stars": 535,
-      "user": "tastyeffectco"
     },
     {
       "title": "FengZi1221/proxy-installer - 一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
@@ -2247,7 +2262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "iampedii"
     },
     {
@@ -2279,6 +2294,21 @@
       "source": "GitHub",
       "stars": 129,
       "user": "MengMengCode"
+    },
+    {
+      "title": "hadihonarvar/flock - Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
+      "url": "https://github.com/hadihonarvar/flock",
+      "published_at": "2026-06-05T03:06:23Z",
+      "description": "Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "hadihonarvar"
     }
   ]
 }
