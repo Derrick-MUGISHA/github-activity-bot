@@ -1955996,3 +1955996,555 @@ What building real multi-repo software with AI coding agents taught me about tok
 
 ---
 
+
+
+## 📰 DevTech News — 2026-06-10 6:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (21 articles)
+
+#### 1. [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated)
+📅 Wed, 11 Mar 2026 19:29:29 GMT
+👤 By: usefulposter | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 2. [Airfoil](https://ciechanow.ski/airfoil/)
+📅 Tue, 27 Feb 2024 16:32:49 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 3. [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+📅 Tue, 23 Jul 2024 15:08:41 GMT
+👤 By: atgctg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 4. [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
+📅 Mon, 02 Jun 2025 21:09:53 GMT
+👤 By: tabletcorry | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 5. [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+📅 Thu, 12 Feb 2026 16:23:24 GMT
+👤 By: scottshambaugh | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 6. [Gemini AI](https://deepmind.google/technologies/gemini/)
+📅 Wed, 06 Dec 2023 15:03:47 GMT
+👤 By: dmotz | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 7. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+📅 Fri, 15 May 2026 20:26:47 GMT
+👤 By: reasonableklout | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 8. [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+📅 Tue, 24 Feb 2026 12:16:45 GMT
+👤 By: Qem | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 9. [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+📅 Wed, 27 May 2026 10:43:25 GMT
+👤 By: theorchid | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 10. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ JavaScript (15 articles)
+
+#### 1. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (15 articles)
+
+#### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 2. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+📅 Wed, 07 May 2025 17:32:26 GMT
+👤 By: arathore | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ WebDev (2 articles)
+
+#### 1. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.](https://github.com/JimLiu/baoyu-design)
+📅 Sun, 07 Jun 2026 01:16:18 GMT
+👤 By: JimLiu | 📌 Source: GitHub
+
+![JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.](https://avatars.githubusercontent.com/u/648674?v=4)
+
+Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 649
+
+---
+
+### 🏷️ Mobile (1 articles)
+
+#### 1. [apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI](https://github.com/apple/coreai-models)
+📅 Mon, 08 Jun 2026 04:32:27 GMT
+👤 By: apple | 📌 Source: GitHub
+
+![apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI](https://avatars.githubusercontent.com/u/10639145?v=4)
+
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 411
+
+---
+
+### 🏷️ Cloud (1 articles)
+
+#### 1. [iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.](https://github.com/iampedii/WhiteDNS-Wizard)
+📅 Fri, 05 Jun 2026 07:34:28 GMT
+👤 By: iampedii | 📌 Source: GitHub
+
+![iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.](https://avatars.githubusercontent.com/u/7813872?v=4)
+
+Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 156
+
+---
+
+### 🏷️ Database (1 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (2 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 2. [MengMengCode/CLICD - CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.](https://github.com/MengMengCode/CLICD)
+📅 Fri, 05 Jun 2026 11:27:26 GMT
+👤 By: MengMengCode | 📌 Source: GitHub
+
+![MengMengCode/CLICD - CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.](https://avatars.githubusercontent.com/u/227010654?v=4)
+
+CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 133
+
+---
+
+### 🏷️ Tools (15 articles)
+
+#### 1. [JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.](https://github.com/JimLiu/baoyu-design)
+📅 Sun, 07 Jun 2026 01:16:18 GMT
+👤 By: JimLiu | 📌 Source: GitHub
+
+![JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.](https://avatars.githubusercontent.com/u/648674?v=4)
+
+Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 649
+
+---
+
+#### 2. [Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。](https://github.com/Jane-xiaoer/xiaoer-videolab)
+📅 Thu, 04 Jun 2026 05:20:47 GMT
+👤 By: Jane-xiaoer | 📌 Source: GitHub
+
+![Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。](https://avatars.githubusercontent.com/u/175961422?v=4)
+
+One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 495
+
+---
+
+#### 3. [adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions](https://github.com/adamallcock/codex-chatgpt-control)
+📅 Sat, 06 Jun 2026 21:09:56 GMT
+👤 By: adamallcock | 📌 Source: GitHub
+
+![adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions](https://avatars.githubusercontent.com/u/92055994?v=4)
+
+Unofficial SDK for Codex agents controlling visible ChatGPT web sessions
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 180
+
+---
+
+#### 4. [techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.](https://github.com/techjarves/Local-AI-Image-Generator)
+📅 Thu, 04 Jun 2026 03:45:01 GMT
+👤 By: techjarves | 📌 Source: GitHub
+
+![techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.](https://avatars.githubusercontent.com/u/54399984?v=4)
+
+A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 163
+
+---
+
+#### 5. [wechat-miniprogram/ai-mode-demo - GitHub Repository](https://github.com/wechat-miniprogram/ai-mode-demo)
+📅 Fri, 05 Jun 2026 14:22:25 GMT
+👤 By: wechat-miniprogram | 📌 Source: GitHub
+
+![wechat-miniprogram/ai-mode-demo - GitHub Repository](https://avatars.githubusercontent.com/u/40269642?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 138
+
+---
+
+#### 6. [GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。](https://github.com/GordenSun/GordenSuperPPTSkills)
+📅 Sun, 07 Jun 2026 16:20:13 GMT
+👤 By: GordenSun | 📌 Source: GitHub
+
+![GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。](https://avatars.githubusercontent.com/u/3281492?v=4)
+
+AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 648
+
+---
+
+#### 7. [apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI](https://github.com/apple/coreai-models)
+📅 Mon, 08 Jun 2026 04:32:27 GMT
+👤 By: apple | 📌 Source: GitHub
+
+![apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI](https://avatars.githubusercontent.com/u/10639145?v=4)
+
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 411
+
+---
+
+#### 8. [rednote-hilab/dots.tts - GitHub Repository](https://github.com/rednote-hilab/dots.tts)
+📅 Thu, 04 Jun 2026 09:22:35 GMT
+👤 By: rednote-hilab | 📌 Source: GitHub
+
+![rednote-hilab/dots.tts - GitHub Repository](https://avatars.githubusercontent.com/u/211634691?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 399
+
+---
+
+#### 9. [xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费](https://github.com/xiaohuailabs/xiaohu-video-translate)
+📅 Mon, 08 Jun 2026 09:55:55 GMT
+👤 By: xiaohuailabs | 📌 Source: GitHub
+
+![xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费](https://avatars.githubusercontent.com/u/129160475?v=4)
+
+对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 368
+
+---
+
+#### 10. [Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning](https://github.com/Tencent-Hunyuan/UniRL)
+📅 Mon, 08 Jun 2026 12:29:36 GMT
+👤 By: Tencent-Hunyuan | 📌 Source: GitHub
+
+![Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning](https://avatars.githubusercontent.com/u/210980732?v=4)
+
+UniRL is a Framework for Unified Multimodal Model Reinforcement Learning
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 329
+
+---
+
