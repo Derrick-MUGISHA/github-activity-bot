@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "How we built AIventure, an AI-Powered Retro Dungeon",
       "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
       "published_at": "2026-06-10T03:09:39Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "It's Time We All Eat some more Cucumber!",
@@ -59,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
+    },
+    {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
+      "published_at": "2026-06-10T20:13:47Z",
+      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "tags": [
+        "android",
+        "ai",
+        "firebase",
+        "buildwithai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
+      "source": "Dev.to",
+      "user": "Héctor Romero"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -438,36 +453,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "I Built Yumii — An Open-Source AI Companion",
-      "url": "https://dev.to/code_neuron58/i-built-yumii-an-open-source-ai-companion-3692",
-      "published_at": "2026-06-07T14:45:43Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   Yumii is an...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ljaxvqszmwgra6yc7st.png",
-      "source": "Dev.to",
-      "user": "Biprayan Choudhuri"
-    },
-    {
-      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
-      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
-      "published_at": "2026-06-07T05:09:27Z",
-      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
-      "tags": [
-        "laravel",
-        "php",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
-      "source": "Dev.to",
-      "user": "Tom Shaw"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -623,7 +608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 702,
       "user": "JimLiu"
     },
     {
@@ -638,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "adamallcock"
     },
     {
@@ -653,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 183,
       "user": "XBuilderLAB"
     },
     {
@@ -668,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 165,
       "user": "wechat-miniprogram"
     },
     {
@@ -683,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63437581?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "emollick"
     },
     {
@@ -698,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 739,
       "user": "GordenSun"
     },
     {
@@ -713,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 634,
       "user": "apple"
     },
     {
@@ -728,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 448,
       "user": "xiaohuailabs"
     },
     {
@@ -743,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "Parcle-AI"
     },
     {
@@ -758,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "iampedii"
     },
     {
@@ -897,21 +882,6 @@
       "user": "Stefan Buhrmester"
     },
     {
-      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
-      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
-      "published_at": "2026-05-28T14:39:29Z",
-      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
-      "tags": [
-        "typescript",
-        "javascript",
-        "enum",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
-      "source": "Dev.to",
-      "user": "Sage Starr"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1043,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 702,
       "user": "JimLiu"
     },
     {
@@ -1058,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "adamallcock"
     },
     {
@@ -1073,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 183,
       "user": "XBuilderLAB"
     },
     {
@@ -1088,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 165,
       "user": "wechat-miniprogram"
     },
     {
@@ -1103,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63437581?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "emollick"
     }
   ],
@@ -1268,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 739,
       "user": "GordenSun"
     },
     {
@@ -1283,23 +1253,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 634,
       "user": "apple"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 440,
-      "user": "xiaohuailabs"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -1313,8 +1268,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 461,
       "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "xiaohuailabs"
     },
     {
       "title": "Parcle-AI/parcle-memory - GitHub Repository",
@@ -1328,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "Parcle-AI"
     }
   ],
@@ -1426,21 +1396,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
-      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
-      "published_at": "2026-05-28T14:39:29Z",
-      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
-      "tags": [
-        "typescript",
-        "javascript",
-        "enum",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
-      "source": "Dev.to",
-      "user": "Sage Starr"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1464,11 +1419,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 702,
       "user": "JimLiu"
     }
   ],
   "Mobile": [
+    {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
+      "published_at": "2026-06-10T20:13:47Z",
+      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "tags": [
+        "android",
+        "ai",
+        "firebase",
+        "buildwithai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
+      "source": "Dev.to",
+      "user": "Héctor Romero"
+    },
     {
       "title": "Flutter Midsommer Madnesss",
       "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb",
@@ -1497,6 +1467,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Android Midsommer Madness",
+      "url": "https://dev.to/gde/mobile-midsommer-madness-ohe",
+      "published_at": "2026-06-08T23:53:34Z",
+      "description": "This is a submission for the June Solstice Game Jam           What I Built   When it comes to Summar...",
+      "tags": [
+        "devchallenge",
+        "gamechallenge",
+        "gamedev",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxba1iup7orthwdout1bt.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
       "published_at": "2026-06-08T04:32:27Z",
@@ -1508,11 +1493,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 634,
       "user": "apple"
     }
   ],
   "Cloud": [
+    {
+      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0",
+      "published_at": "2026-06-10T17:37:21Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "tags": [
+        "nvidia",
+        "mcps",
+        "googlecloudrun",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "G4 Fractional VMs are now available on Google Cloud!",
       "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
@@ -1529,6 +1529,21 @@
       "user": "Maciej Strzelczyk"
     },
     {
+      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg",
+      "published_at": "2026-06-10T01:05:21Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "tags": [
+        "mcps",
+        "nvidial4",
+        "gemma12b",
+        "googlecloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
       "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
       "published_at": "2026-06-08T19:43:35Z",
@@ -1541,6 +1556,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
       "source": "Dev.to",
       "user": "Joey Lynne Hernandez"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2",
+      "published_at": "2026-06-09T17:22:57Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "runcloud",
+        "googleantigravity",
+        "mcps",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr3wd3vh6jgedbjn8jt2s.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -1692,6 +1722,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Building with the Developer Knowledge API and Antigravity CLI",
+      "url": "https://dev.to/gde/building-with-the-developer-knowledge-api-and-antigravity-cli-21pk",
+      "published_at": "2026-06-08T17:14:59Z",
+      "description": "Enabling The Developer API support with MCP to streamline Google Cloud Development          ...",
+      "tags": [
+        "googlecloud",
+        "mcps",
+        "antigravitycli",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgwp6obxxz2aki0bsqzq.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -1703,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "iampedii"
     }
   ],
@@ -1939,50 +1984,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Reviving an Abandoned Side Project with Spec-Driven Development (SDD)",
-      "url": "https://dev.to/karlyhoffman/reviving-an-abandoned-side-project-with-speckit-and-copilot-3517",
-      "published_at": "2026-06-07T15:13:15Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge     I had two goals when I decided to...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmydmc2slvsvwpbr3rafa.png",
-      "source": "Dev.to",
-      "user": "Karly Hoffman"
-    },
-    {
-      "title": "I Built Yumii — An Open-Source AI Companion",
-      "url": "https://dev.to/code_neuron58/i-built-yumii-an-open-source-ai-companion-3692",
-      "published_at": "2026-06-07T14:45:43Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   Yumii is an...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ljaxvqszmwgra6yc7st.png",
-      "source": "Dev.to",
-      "user": "Biprayan Choudhuri"
-    },
-    {
-      "title": "Building a Streaming LLM Agent with the Laravel AI SDK",
-      "url": "https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6",
-      "published_at": "2026-06-07T05:09:27Z",
-      "description": "A hands-on guide to building a streaming, tool-using chat agent in Laravel with the Laravel AI SDK — what an LLM agent actually is, how the SDK models agents and tools, and how to wire up streaming, memory, and tests.",
-      "tags": [
-        "laravel",
-        "php",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8hu95qognpxqnon47bi.png",
-      "source": "Dev.to",
-      "user": "Tom Shaw"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -1994,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 702,
       "user": "JimLiu"
     },
     {
@@ -2009,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "adamallcock"
     },
     {
@@ -2024,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 183,
       "user": "XBuilderLAB"
     },
     {
@@ -2039,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 165,
       "user": "wechat-miniprogram"
     },
     {
@@ -2054,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63437581?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "emollick"
     },
     {
@@ -2069,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 739,
       "user": "GordenSun"
     },
     {
@@ -2084,23 +2085,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 634,
       "user": "apple"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 440,
-      "user": "xiaohuailabs"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -2114,8 +2100,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 461,
       "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "xiaohuailabs"
     },
     {
       "title": "Parcle-AI/parcle-memory - GitHub Repository",
@@ -2129,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "Parcle-AI"
     },
     {
@@ -2144,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "iampedii"
     },
     {
@@ -2159,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "TryHarder-L"
     },
     {
