@@ -19,9 +19,9 @@
   },
   "by_language": {
     "Go": 32,
-    "Kotlin": 2,
     "JavaScript": 22,
     "Java": 18,
+    "Kotlin": 2,
     "Swift": 2,
     "Python": 17
   },
@@ -85,21 +85,21 @@
     "googlecloud": 6,
     "productivity": 6,
     "python": 6,
-    "gamedev": 5,
     "agents": 5,
+    "gamedev": 5,
     "gemini": 5,
     "programming": 5,
     "go": 5,
     "webdev": 4,
     "watercooler": 4,
-    "gamechallenge": 4
+    "llm": 4
   },
   "trending_topics": [],
   "language_percentages": {
     "Go": "34.4",
-    "Kotlin": "2.2",
     "JavaScript": "23.7",
     "Java": "19.4",
+    "Kotlin": "2.2",
     "Swift": "2.2",
     "Python": "18.3"
   }

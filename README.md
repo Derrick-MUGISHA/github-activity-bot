@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gamedev](https://img.shields.io/badge/gamedev-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gamedev](https://img.shields.io/badge/gamedev-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-11 11:00 CAT)
+## 📅 Latest Updates (2026-06-11 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,39 +140,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fax4jk8zrsu7o2jxcmhf2.gif" width="200" alt="How I Built a Treasure-Run Game Where Australia Saves the Sun" />
-      <br/>
-      <b>How I Built a Treasure-Run Game Where Australia Sa...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png" width="200" alt="Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI" />
-      <br/>
-      <b>Deployment Planning with Gemma 26B, NVIDIA L4, MCP...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp" width="200" alt="It's Time We All Eat some more Cucumber!" />
       <br/>
       <b>It's Time We All Eat some more Cucumber!</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png" width="200" alt="G4 Fractional VMs are now available on Google Cloud!" />
-      <br/>
-      <b>G4 Fractional VMs are now available on Google Clou...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -187,6 +158,35 @@ npm run test
     <sub>Dev.to</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png" width="200" alt="How we built AIventure, an AI-Powered Retro Dungeon" />
+      <br/>
+      <b>How we built AIventure, an AI-Powered Retro Dungeo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/welcome-thread-v379-9fb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw8uy9884krpidqid24qu.jpeg" width="200" alt="Welcome Thread - v379" />
+      <br/>
+      <b>Welcome Thread - v379</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png" width="200" alt="I tried to make an AI agent answer more. It answered less." />
+      <br/>
+      <b>I tried to make an AI agent answer more. It answer...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
 </table>
 
 
@@ -194,18 +194,17 @@ npm run test
 ### 📰 Top Headlines
 
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
-- [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) _[Dev.to]_
-- [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [It's Time We All Eat some more Cucumber!](https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic) _[Dev.to]_
-- [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
 - [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada) _[Dev.to]_
 - [How we built AIventure, an AI-Powered Retro Dungeon](https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54) _[Dev.to]_
 - [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb) _[Dev.to]_
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
-- [Configuring Firebase AI Logic for Android to Use Gemini Models](https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7) _[Dev.to]_
+- [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2) _[Dev.to]_
+- [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) _[Dev.to]_
 - [You’re a Real TypeScript Developer Only If...](https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg) _[Dev.to]_
+- [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
 - [Flutter Midsommer Madnesss](https://dev.to/gde/flutter-midsommer-madnesss-kkb) _[Dev.to]_
 - [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog) _[Dev.to]_
 - [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 - [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg) _[Dev.to]_
 - [Building a Content Pipeline: A Guide to the Workspace Studio + Gems Integration](https://dev.to/gde/building-a-content-pipeline-a-guide-to-the-workspace-studio-gems-integration-e3n) _[Dev.to]_
+- [Dialling Our Agents to 11: My Favourite MCP Servers](https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm) _[Dev.to]_
 
-_Last automated update: Thu, 11 Jun 2026 11:20:23 CAT_
+_Last automated update: Thu, 11 Jun 2026 15:00:08 CAT_
 
 
 
@@ -222,29 +222,18 @@ _Last automated update: Thu, 11 Jun 2026 11:20:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 2. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -252,6 +241,17 @@ Lazy evaluation, pipeline, terminal operations
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
+
+</details>
+
+### 3. Database: What is database normalization and denormalization?
+
+**Difficulty**: Medium | **Topics**: design, optimization
+
+<details>
+<summary>💡 Hint</summary>
+
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 11 Jun 2026 09:20:23 GMT</b><br/>
+  <b>Last automated update: Thu, 11 Jun 2026 13:00:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

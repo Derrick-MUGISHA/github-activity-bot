@@ -31,21 +31,6 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
-      "published_at": "2026-06-10T15:38:18Z",
-      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
-      "tags": [
-        "gpu",
-        "googlecloud",
-        "nvidia",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "How we built AIventure, an AI-Powered Retro Dungeon",
       "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
       "published_at": "2026-06-10T03:09:39Z",
@@ -76,19 +61,19 @@
       "user": "ankush chadha"
     },
     {
-      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
-      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
-      "published_at": "2026-06-10T20:13:47Z",
-      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
+      "published_at": "2026-06-10T15:38:18Z",
+      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
       "tags": [
-        "android",
-        "ai",
-        "firebase",
-        "buildwithai"
+        "gpu",
+        "googlecloud",
+        "nvidia",
+        "infrastructure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
       "source": "Dev.to",
-      "user": "Héctor Romero"
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
+      "published_at": "2026-06-10T20:13:47Z",
+      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "tags": [
+        "android",
+        "ai",
+        "firebase",
+        "buildwithai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
+      "source": "Dev.to",
+      "user": "Héctor Romero"
     },
     {
       "title": "Dystopian Civilization Scenarios",
@@ -608,23 +608,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 743,
       "user": "JimLiu"
-    },
-    {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "adamallcock"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -638,8 +623,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 204,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "source": "GitHub",
+      "stars": 200,
+      "user": "adamallcock"
     },
     {
       "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
@@ -653,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 176,
       "user": "wechat-miniprogram"
     },
     {
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 167,
       "user": "alchaincyf"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 766,
       "user": "GordenSun"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 671,
       "user": "apple"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "xiaohuailabs"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 381,
       "user": "Parcle-AI"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "iampedii"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "pivanov"
     }
   ],
@@ -1013,23 +1013,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 743,
       "user": "JimLiu"
-    },
-    {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "adamallcock"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -1043,8 +1028,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 204,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "source": "GitHub",
+      "stars": 200,
+      "user": "adamallcock"
     },
     {
       "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
@@ -1058,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 176,
       "user": "wechat-miniprogram"
     },
     {
@@ -1073,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 167,
       "user": "alchaincyf"
     }
   ],
@@ -1238,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 766,
       "user": "GordenSun"
     },
     {
@@ -1253,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 671,
       "user": "apple"
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 503,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1283,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "xiaohuailabs"
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 381,
       "user": "Parcle-AI"
     }
   ],
@@ -1419,26 +1419,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 743,
       "user": "JimLiu"
     }
   ],
   "Mobile": [
-    {
-      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
-      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
-      "published_at": "2026-06-10T20:13:47Z",
-      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
-      "tags": [
-        "android",
-        "ai",
-        "firebase",
-        "buildwithai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
-      "source": "Dev.to",
-      "user": "Héctor Romero"
-    },
     {
       "title": "Flutter Midsommer Madnesss",
       "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb",
@@ -1453,6 +1438,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnn283nzexgthepevuw2q.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
+      "published_at": "2026-06-10T20:13:47Z",
+      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "tags": [
+        "android",
+        "ai",
+        "firebase",
+        "buildwithai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
+      "source": "Dev.to",
+      "user": "Héctor Romero"
     },
     {
       "title": "Dystopian Civilization Scenarios",
@@ -1493,11 +1493,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 671,
       "user": "apple"
     }
   ],
   "Cloud": [
+    {
+      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
+      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
+      "published_at": "2026-06-08T19:43:35Z",
+      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
+      "tags": [
+        "googlecloud",
+        "agents",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
+      "source": "Dev.to",
+      "user": "Joey Lynne Hernandez"
+    },
     {
       "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0",
@@ -1512,35 +1526,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
-      "published_at": "2026-06-10T15:38:18Z",
-      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
-      "tags": [
-        "gpu",
-        "googlecloud",
-        "nvidia",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
-      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
-      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
-      "published_at": "2026-06-08T19:43:35Z",
-      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
-      "tags": [
-        "googlecloud",
-        "agents",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
-      "source": "Dev.to",
-      "user": "Joey Lynne Hernandez"
     },
     {
       "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
@@ -1571,6 +1556,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
+      "published_at": "2026-06-10T15:38:18Z",
+      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
+      "tags": [
+        "gpu",
+        "googlecloud",
+        "nvidia",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -1748,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "iampedii"
     }
   ],
@@ -1791,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "MengMengCode"
     }
   ],
@@ -1995,23 +1995,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 743,
       "user": "JimLiu"
-    },
-    {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "adamallcock"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -2025,8 +2010,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 204,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "source": "GitHub",
+      "stars": 200,
+      "user": "adamallcock"
     },
     {
       "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
@@ -2040,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 176,
       "user": "wechat-miniprogram"
     },
     {
@@ -2055,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 167,
       "user": "alchaincyf"
     },
     {
@@ -2070,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 766,
       "user": "GordenSun"
     },
     {
@@ -2085,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 671,
       "user": "apple"
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 503,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2115,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "xiaohuailabs"
     },
     {
@@ -2130,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 381,
       "user": "Parcle-AI"
     },
     {
@@ -2145,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "iampedii"
     },
     {
@@ -2160,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 151,
       "user": "TryHarder-L"
     },
     {
@@ -2175,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "MengMengCode"
     },
     {
@@ -2205,7 +2205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "pivanov"
     }
   ]
