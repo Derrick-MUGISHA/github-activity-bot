@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-11 21:00 CAT)
+## 📅 Latest Updates (2026-06-11 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,6 +151,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvr5f501mx06fgj0jqsde.png" width="200" alt="I'm so tired to code. Not even Vibe Coding... D:" />
+      <br/>
+      <b>I'm so tired to code. Not even Vibe Coding... D:</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png" width="200" alt="Your Vibe-Coded App Works. Is It Any Good?" />
       <br/>
@@ -159,22 +170,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png" width="200" alt="CSS – only a Nerdy Hobby?" />
       <br/>
       <b>CSS – only a Nerdy Hobby?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvr5f501mx06fgj0jqsde.png" width="200" alt="I'm so tired to code. Not even Vibe Coding... D:" />
-      <br/>
-      <b>I'm so tired to code. Not even Vibe Coding... D:</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,9 +197,9 @@ npm run test
 
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) _[Dev.to]_
 - [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8) _[Dev.to]_
+- [I'm so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p) _[Dev.to]_
 - [Your Vibe-Coded App Works. Is It Any Good?](https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co) _[Dev.to]_
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
-- [I'm so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p) _[Dev.to]_
 - [System Design - A Frontend Engineer's Deep Dive](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5) _[Dev.to]_
 - [Why New Language Features Need to Target AI Agents, Not Developers](https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
@@ -209,14 +209,14 @@ npm run test
 - [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) _[Dev.to]_
 - [Go Packages and Modules explained](https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
-- [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [You’re a Real TypeScript Developer Only If...](https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o) _[Dev.to]_
+- [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg) _[Dev.to]_
 - [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
 
-_Last automated update: Thu, 11 Jun 2026 21:38:12 CAT_
+_Last automated update: Thu, 11 Jun 2026 23:49:19 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 11 Jun 2026 21:38:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 11 Jun 2026 19:38:12 GMT</b><br/>
+  <b>Last automated update: Thu, 11 Jun 2026 21:49:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
