@@ -1,34 +1,19 @@
 {
   "AI": [
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
+      "published_at": "2026-06-11T14:06:23Z",
+      "description": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
       "tags": [
         "ai",
-        "css",
         "webdev",
-        "watercooler"
+        "discuss",
+        "career"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
       "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "It's Time We All Eat some more Cucumber!",
-      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
-      "published_at": "2026-06-08T09:22:09Z",
-      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
-      "tags": [
-        "ai",
-        "tdd",
-        "bdd",
-        "darkfactory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
+      "user": "Greg Baugues"
     },
     {
       "title": "How we built AIventure, an AI-Powered Retro Dungeon",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -222,6 +222,21 @@
       "user": "Ayoola Solomon"
     },
     {
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
+      "published_at": "2026-06-06T01:41:40Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "discuss",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -309,6 +324,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "It's Time We All Eat some more Cucumber!",
+      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
+      "published_at": "2026-06-08T09:22:09Z",
+      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
+      "tags": [
+        "ai",
+        "tdd",
+        "bdd",
+        "darkfactory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
+    },
+    {
       "title": "Kaggle is making AI benchmark creation effortless",
       "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
       "published_at": "2026-06-04T15:51:23Z",
@@ -363,21 +393,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
       "source": "Dev.to",
       "user": "Rapls"
-    },
-    {
-      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
-      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl",
-      "published_at": "2026-06-08T08:08:51Z",
-      "description": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
-      "tags": [
-        "workspacestudio",
-        "googleworkspace",
-        "automation",
-        "notebooklm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2zjlv1db4oc3v724ycr.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -436,21 +451,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
       "source": "Dev.to",
       "user": "Chris Jarvis"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -608,7 +608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 763,
       "user": "JimLiu"
     },
     {
@@ -623,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 219,
       "user": "XBuilderLAB"
     },
     {
@@ -638,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "adamallcock"
     },
     {
@@ -653,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "wechat-miniprogram"
     },
     {
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 176,
       "user": "alchaincyf"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 777,
       "user": "GordenSun"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "apple"
     },
     {
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 462,
       "user": "xiaohuailabs"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "Parcle-AI"
     },
     {
@@ -743,8 +743,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "iampedii"
+    },
+    {
+      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "url": "https://github.com/pivanov/ctx-wire",
+      "published_at": "2026-06-05T03:50:50Z",
+      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "pivanov"
     },
     {
       "title": "hadihonarvar/flock - Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
@@ -760,21 +775,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "hadihonarvar"
-    },
-    {
-      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "url": "https://github.com/pivanov/ctx-wire",
-      "published_at": "2026-06-05T03:50:50Z",
-      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
-      "source": "GitHub",
-      "stars": 40,
-      "user": "pivanov"
     }
   ],
   "JavaScript": [
@@ -792,6 +792,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
       "source": "Dev.to",
       "user": "Hadil Ben Abdallah"
+    },
+    {
+      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+      "published_at": "2026-06-10T07:04:58Z",
+      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "TanStack Start Is Kind of a Big Deal",
@@ -1013,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 763,
       "user": "JimLiu"
     },
     {
@@ -1028,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 219,
       "user": "XBuilderLAB"
     },
     {
@@ -1043,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "adamallcock"
     },
     {
@@ -1058,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "wechat-miniprogram"
     },
     {
@@ -1073,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 176,
       "user": "alchaincyf"
     }
   ],
@@ -1090,21 +1105,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
       "source": "Dev.to",
       "user": "Lucas Rafaldini"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1238,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 777,
       "user": "GordenSun"
     },
     {
@@ -1253,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "apple"
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 515,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1283,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 462,
       "user": "xiaohuailabs"
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "Parcle-AI"
     }
   ],
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 763,
       "user": "JimLiu"
     }
   ],
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "apple"
     }
   ],
@@ -1707,36 +1707,6 @@
       "user": "Sara Ford"
     },
     {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Building with the Developer Knowledge API and Antigravity CLI",
-      "url": "https://dev.to/gde/building-with-the-developer-knowledge-api-and-antigravity-cli-21pk",
-      "published_at": "2026-06-08T17:14:59Z",
-      "description": "Enabling The Developer API support with MCP to streamline Google Cloud Development          ...",
-      "tags": [
-        "googlecloud",
-        "mcps",
-        "antigravitycli",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgwp6obxxz2aki0bsqzq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -1748,7 +1718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "iampedii"
     }
   ],
@@ -1767,6 +1737,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+      "published_at": "2026-06-10T07:04:58Z",
+      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1791,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 141,
       "user": "MengMengCode"
     }
   ],
@@ -1810,6 +1795,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
       "source": "Dev.to",
       "user": "shrey "
+    },
+    {
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
+      "published_at": "2026-06-06T01:41:40Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "discuss",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1969,21 +1969,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -1995,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 763,
       "user": "JimLiu"
     },
     {
@@ -2010,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 219,
       "user": "XBuilderLAB"
     },
     {
@@ -2025,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "adamallcock"
     },
     {
@@ -2040,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "wechat-miniprogram"
     },
     {
@@ -2055,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 176,
       "user": "alchaincyf"
     },
     {
@@ -2070,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 777,
       "user": "GordenSun"
     },
     {
@@ -2085,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "apple"
     },
     {
@@ -2100,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 515,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2115,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 462,
       "user": "xiaohuailabs"
     },
     {
@@ -2130,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 386,
       "user": "Parcle-AI"
     },
     {
@@ -2145,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "iampedii"
     },
     {
@@ -2175,8 +2160,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 141,
       "user": "MengMengCode"
+    },
+    {
+      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "url": "https://github.com/pivanov/ctx-wire",
+      "published_at": "2026-06-05T03:50:50Z",
+      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "pivanov"
     },
     {
       "title": "hadihonarvar/flock - Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
@@ -2192,21 +2192,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "hadihonarvar"
-    },
-    {
-      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "url": "https://github.com/pivanov/ctx-wire",
-      "published_at": "2026-06-05T03:50:50Z",
-      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
-      "source": "GitHub",
-      "stars": 40,
-      "user": "pivanov"
     }
   ]
 }
