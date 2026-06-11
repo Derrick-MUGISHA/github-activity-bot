@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-11 23:00 CAT)
+## 📅 Latest Updates (2026-06-12 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,17 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvr5f501mx06fgj0jqsde.png" width="200" alt="I'm so tired to code. Not even Vibe Coding... D:" />
-      <br/>
-      <b>I'm so tired to code. Not even Vibe Coding... D:</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png" width="200" alt="Your Vibe-Coded App Works. Is It Any Good?" />
       <br/>
@@ -170,11 +159,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png" width="200" alt="CSS – only a Nerdy Hobby?" />
       <br/>
       <b>CSS – only a Nerdy Hobby?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvr5f501mx06fgj0jqsde.png" width="200" alt="I'm so tired to code. Not even Vibe Coding... D:" />
+      <br/>
+      <b>I'm so tired to code. Not even Vibe Coding... D:</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,9 +197,9 @@ npm run test
 
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) _[Dev.to]_
 - [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8) _[Dev.to]_
-- [I'm so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p) _[Dev.to]_
 - [Your Vibe-Coded App Works. Is It Any Good?](https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co) _[Dev.to]_
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
+- [I'm so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p) _[Dev.to]_
 - [System Design - A Frontend Engineer's Deep Dive](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5) _[Dev.to]_
 - [Why New Language Features Need to Target AI Agents, Not Developers](https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg) _[Dev.to]_
 - [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
 
-_Last automated update: Thu, 11 Jun 2026 23:49:19 CAT_
+_Last automated update: Fri, 12 Jun 2026 01:18:46 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 11 Jun 2026 23:49:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 11 Jun 2026 21:49:19 GMT</b><br/>
+  <b>Last automated update: Thu, 11 Jun 2026 23:18:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
