@@ -18,7 +18,7 @@
     "Tools": 28
   },
   "by_language": {
-    "Go": 33,
+    "Go": 32,
     "Kotlin": 2,
     "JavaScript": 22,
     "Java": 18,
@@ -26,7 +26,7 @@
     "Python": 17
   },
   "by_date": {
-    "2026-06-10": 10,
+    "2026-06-10": 11,
     "2026-06-08": 19,
     "2026-06-09": 7,
     "2026-06-04": 3,
@@ -69,7 +69,7 @@
     "2017-11-27": 1,
     "2026-05-11": 1,
     "2025-05-07": 1,
-    "2026-06-07": 3,
+    "2026-06-07": 2,
     "2026-06-06": 2
   },
   "top_tags": {
@@ -86,8 +86,8 @@
     "productivity": 6,
     "python": 6,
     "gamedev": 5,
-    "gemini": 5,
     "agents": 5,
+    "gemini": 5,
     "programming": 5,
     "go": 5,
     "webdev": 4,
@@ -96,11 +96,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "35.1",
-    "Kotlin": "2.1",
-    "JavaScript": "23.4",
-    "Java": "19.1",
-    "Swift": "2.1",
-    "Python": "18.1"
+    "Go": "34.4",
+    "Kotlin": "2.2",
+    "JavaScript": "23.7",
+    "Java": "19.4",
+    "Swift": "2.2",
+    "Python": "18.3"
   }
 }
