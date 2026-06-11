@@ -623,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "JimLiu"
     },
     {
@@ -638,23 +638,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "adamallcock"
-    },
-    {
-      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-      "published_at": "2026-06-04T03:45:01Z",
-      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "techjarves"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -668,8 +653,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "published_at": "2026-06-05T14:22:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "wechat-miniprogram"
+    },
+    {
+      "title": "emollick/concord - Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "url": "https://github.com/emollick/concord",
+      "published_at": "2026-06-07T04:13:41Z",
+      "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63437581?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "emollick"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -683,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 728,
       "user": "GordenSun"
     },
     {
@@ -698,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "apple"
     },
     {
@@ -717,6 +732,21 @@
       "user": "xiaohuailabs"
     },
     {
+      "title": "Parcle-AI/parcle-memory - GitHub Repository",
+      "url": "https://github.com/Parcle-AI/parcle-memory",
+      "published_at": "2026-06-06T02:15:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "Parcle-AI"
+    },
+    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -728,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "iampedii"
     },
     {
@@ -745,6 +775,21 @@
       "source": "GitHub",
       "stars": 42,
       "user": "hadihonarvar"
+    },
+    {
+      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "url": "https://github.com/pivanov/ctx-wire",
+      "published_at": "2026-06-05T03:50:50Z",
+      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
+      "source": "GitHub",
+      "stars": 39,
+      "user": "pivanov"
     }
   ],
   "JavaScript": [
@@ -998,23 +1043,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "JimLiu"
-    },
-    {
-      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "published_at": "2026-06-04T05:20:47Z",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 501,
-      "user": "Jane-xiaoer"
     },
     {
       "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
@@ -1028,23 +1058,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "adamallcock"
-    },
-    {
-      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-      "published_at": "2026-06-04T03:45:01Z",
-      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "techjarves"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -1058,8 +1073,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "published_at": "2026-06-05T14:22:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "wechat-miniprogram"
+    },
+    {
+      "title": "emollick/concord - Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "url": "https://github.com/emollick/concord",
+      "published_at": "2026-06-07T04:13:41Z",
+      "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63437581?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "emollick"
     }
   ],
   "Python": [
@@ -1223,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 728,
       "user": "GordenSun"
     },
     {
@@ -1238,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "apple"
     },
     {
@@ -1257,21 +1302,6 @@
       "user": "xiaohuailabs"
     },
     {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 432,
-      "user": "rednote-hilab"
-    },
-    {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "url": "https://github.com/Tencent-Hunyuan/UniRL",
       "published_at": "2026-06-08T12:29:36Z",
@@ -1283,8 +1313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 429,
       "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "Parcle-AI/parcle-memory - GitHub Repository",
+      "url": "https://github.com/Parcle-AI/parcle-memory",
+      "published_at": "2026-06-06T02:15:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "Parcle-AI"
     }
   ],
   "DevOps": [
@@ -1419,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "JimLiu"
     }
   ],
@@ -1463,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "apple"
     }
   ],
@@ -1658,7 +1703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "iampedii"
     }
   ],
@@ -1949,23 +1994,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "JimLiu"
-    },
-    {
-      "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "published_at": "2026-06-04T05:20:47Z",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 501,
-      "user": "Jane-xiaoer"
     },
     {
       "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
@@ -1979,23 +2009,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "adamallcock"
-    },
-    {
-      "title": "techjarves/Local-AI-Image-Generator - A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-      "published_at": "2026-06-04T03:45:01Z",
-      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54399984?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "techjarves"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -2009,8 +2024,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "wechat-miniprogram/ai-mode-demo - GitHub Repository",
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "published_at": "2026-06-05T14:22:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40269642?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "wechat-miniprogram"
+    },
+    {
+      "title": "emollick/concord - Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "url": "https://github.com/emollick/concord",
+      "published_at": "2026-06-07T04:13:41Z",
+      "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63437581?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "emollick"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2024,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 728,
       "user": "GordenSun"
     },
     {
@@ -2039,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "apple"
     },
     {
@@ -2058,21 +2103,6 @@
       "user": "xiaohuailabs"
     },
     {
-      "title": "rednote-hilab/dots.tts - GitHub Repository",
-      "url": "https://github.com/rednote-hilab/dots.tts",
-      "published_at": "2026-06-04T09:22:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211634691?v=4",
-      "source": "GitHub",
-      "stars": 432,
-      "user": "rednote-hilab"
-    },
-    {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "url": "https://github.com/Tencent-Hunyuan/UniRL",
       "published_at": "2026-06-08T12:29:36Z",
@@ -2084,8 +2114,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 429,
       "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "Parcle-AI/parcle-memory - GitHub Repository",
+      "url": "https://github.com/Parcle-AI/parcle-memory",
+      "published_at": "2026-06-06T02:15:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "Parcle-AI"
     },
     {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
@@ -2099,23 +2144,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "iampedii"
-    },
-    {
-      "title": "FengZi1221/proxy-installer - 一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
-      "url": "https://github.com/FengZi1221/proxy-installer",
-      "published_at": "2026-06-04T19:05:37Z",
-      "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95153092?v=4",
-      "source": "GitHub",
-      "stars": 159,
-      "user": "FengZi1221"
     },
     {
       "title": "TryHarder-L/NiniMenu - 一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
@@ -2161,6 +2191,21 @@
       "source": "GitHub",
       "stars": 42,
       "user": "hadihonarvar"
+    },
+    {
+      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "url": "https://github.com/pivanov/ctx-wire",
+      "published_at": "2026-06-05T03:50:50Z",
+      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
+      "source": "GitHub",
+      "stars": 39,
+      "user": "pivanov"
     }
   ]
 }
