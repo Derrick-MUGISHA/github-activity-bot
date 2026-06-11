@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-10-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-11-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -40,7 +40,7 @@
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.9 (31.9%)
-JavaScript      ████████████████████████ 25.3 (25.3%)
-Java            ████████████████████ 20.9 (20.9%)
-Python          ██████████████████ 18.7 (18.7%)
+Go              ██████████████████████████████ 32.6 (32.6%)
+JavaScript      ███████████████████████ 25.0 (25.0%)
+Java            ███████████████████ 20.7 (20.7%)
+Python          █████████████████ 18.5 (18.5%)
 Swift           ██ 2.2 (2.2%)
 PHP             █ 1.1 (1.1%)
 
@@ -71,7 +71,7 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
+    "Go" : 30
     "JavaScript" : 23
     "Java" : 19
     "Python" : 17
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-11 0:00 CAT)
+## 📅 Latest Updates (2026-06-11 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,19 +140,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fax4jk8zrsu7o2jxcmhf2.gif" width="200" alt="How I Built a Treasure-Run Game Where Australia Saves the Sun" />
+    <a href="https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png" width="200" alt="How we built AIventure, an AI-Powered Retro Dungeon" />
       <br/>
-      <b>How I Built a Treasure-Run Game Where Australia Sa...</b>
+      <b>How we built AIventure, an AI-Powered Retro Dungeo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png" width="200" alt="How we built AIventure, an AI-Powered Retro Dungeon" />
+    <a href="https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fax4jk8zrsu7o2jxcmhf2.gif" width="200" alt="How I Built a Treasure-Run Game Where Australia Saves the Sun" />
       <br/>
-      <b>How we built AIventure, an AI-Powered Retro Dungeo...</b>
+      <b>How I Built a Treasure-Run Game Where Australia Sa...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,8 +194,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
-- [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) _[Dev.to]_
 - [How we built AIventure, an AI-Powered Retro Dungeon](https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54) _[Dev.to]_
+- [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) _[Dev.to]_
 - [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb) _[Dev.to]_
 - [It's Time We All Eat some more Cucumber!](https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic) _[Dev.to]_
 - [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422) _[Dev.to]_
 - [Retour sur le Google I/O 2026 | Focus Antigravity 2.0](https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh) _[Dev.to]_
 
-_Last automated update: Thu, 11 Jun 2026 00:57:56 CAT_
+_Last automated update: Thu, 11 Jun 2026 02:18:32 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Thu, 11 Jun 2026 00:57:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Mutability, performance, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 10 Jun 2026 22:57:56 GMT</b><br/>
+  <b>Last automated update: Thu, 11 Jun 2026 00:18:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
