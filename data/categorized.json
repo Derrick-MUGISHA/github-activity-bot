@@ -16,19 +16,18 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
-      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
-      "published_at": "2026-06-10T03:09:39Z",
-      "description": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "title": "Your Vibe-Coded App Works. Is It Any Good?",
+      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
+      "published_at": "2026-06-11T19:00:35Z",
+      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
       "tags": [
-        "gamedev",
-        "gemini",
-        "gemma",
-        "ai"
+        "vibecoding",
+        "ai",
+        "firstyearincode"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
       "source": "Dev.to",
-      "user": "bebechien"
+      "user": "MLH Team"
     },
     {
       "title": "CSS – only a Nerdy Hobby?",
@@ -44,6 +43,64 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Why New Language Features Need to Target AI Agents, Not Developers",
+      "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
+      "published_at": "2026-06-11T14:12:20Z",
+      "description": "AI agents are writing our production code. It's time to stop designing syntax sugar for humans and start optimizing languages for bots.",
+      "tags": [
+        "ai",
+        "architecture",
+        "programming",
+        "computerscience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvwctfuvjomnaftukqva8.png",
+      "source": "Dev.to",
+      "user": "ModernCpp"
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
+      "published_at": "2026-06-10T03:09:39Z",
+      "description": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "tags": [
+        "gamedev",
+        "gemini",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
+      "source": "Dev.to",
+      "user": "bebechien"
+    },
+    {
+      "title": "Go Packages and Modules explained",
+      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
+      "published_at": "2026-06-11T00:37:56Z",
+      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
+      "tags": [
+        "go",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
+      "source": "Dev.to",
+      "user": "Fer Rios"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -252,21 +309,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
       "published_at": "2026-06-03T21:02:16Z",
@@ -425,32 +467,19 @@
       "user": "Hagag"
     },
     {
-      "title": "Local Mac Gemma 4 Deployment with MCP and Antigravity CLI",
-      "url": "https://dev.to/gde/local-mac-gemma-4-deployment-with-mcp-and-antigravity-cli-l0p",
-      "published_at": "2026-05-31T19:03:09Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a M3 Macbook Air. A suite of...",
+      "title": "Who approved this?",
+      "url": "https://dev.to/maureknob/who-approved-this-16pp",
+      "published_at": "2026-06-09T19:15:58Z",
+      "description": "While I was doing my MBA in Technology for Business, I kept thinking about possible topics for my...",
       "tags": [
-        "mcpserver",
-        "llm"
+        "ai",
+        "security",
+        "biometrics",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7dl72d50qc7nfs1fl86q.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4orq9x1nmfb9qchmo3y.png",
       "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
+      "user": "maureknob"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -608,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "JimLiu"
     },
     {
@@ -623,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 222,
       "user": "XBuilderLAB"
     },
     {
@@ -668,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "alchaincyf"
     },
     {
@@ -683,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 780,
       "user": "GordenSun"
     },
     {
@@ -698,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 710,
       "user": "apple"
     },
     {
@@ -713,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "xiaohuailabs"
     },
     {
@@ -728,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "Parcle-AI"
     },
     {
@@ -743,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "iampedii"
     },
     {
@@ -809,21 +838,6 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
-      "published_at": "2026-06-08T17:06:43Z",
-      "description": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
-      "tags": [
-        "tanstack",
-        "react",
-        "typescript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
       "published_at": "2026-06-02T20:02:27Z",
@@ -839,19 +853,19 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "title": "TanStack Start Is Kind of a Big Deal",
+      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
+      "published_at": "2026-06-08T17:06:43Z",
+      "description": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
       "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
+        "tanstack",
+        "react",
+        "typescript",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
       "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
+      "user": "Erik Hanchett"
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
@@ -880,21 +894,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
-      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
-      "published_at": "2026-06-01T16:31:20Z",
-      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
-      "tags": [
-        "javascript",
-        "opensource",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
-      "source": "Dev.to",
-      "user": "Stefan Buhrmester"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1028,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "JimLiu"
     },
     {
@@ -1043,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 222,
       "user": "XBuilderLAB"
     },
     {
@@ -1088,11 +1087,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "alchaincyf"
     }
   ],
   "Python": [
+    {
+      "title": "Google Antigravity SDK: The developer guide",
+      "url": "https://dev.to/googleai/google-antigravity-sdk-the-developer-guide-4o8m",
+      "published_at": "2026-06-09T15:01:34Z",
+      "description": "The Google Antigravity SDK is a Python framework for building and running autonomous agents. It...",
+      "tags": [
+        "mcpserver",
+        "googlegemini",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2Aew_HgMaHiNf6tcYBBnH-jQ.png",
+      "source": "Dev.to",
+      "user": "Karl Weinmeister"
+    },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
       "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
@@ -1238,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 780,
       "user": "GordenSun"
     },
     {
@@ -1253,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 710,
       "user": "apple"
     },
     {
@@ -1268,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1283,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "xiaohuailabs"
     },
     {
@@ -1298,11 +1312,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "Parcle-AI"
     }
   ],
   "DevOps": [
+    {
+      "title": "Go Packages and Modules explained",
+      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
+      "published_at": "2026-06-11T00:37:56Z",
+      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
+      "tags": [
+        "go",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
+      "source": "Dev.to",
+      "user": "Fer Rios"
+    },
     {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
@@ -1381,6 +1408,20 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "System Design - A Frontend Engineer's Deep Dive",
+      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
+      "published_at": "2026-06-11T17:38:12Z",
+      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
+      "tags": [
+        "systemdesign",
+        "architecture",
+        "datamodeling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frora6hlqa51eapfni58m.png",
+      "source": "Dev.to",
+      "user": "Harsha Attray"
+    },
+    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1419,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "JimLiu"
     }
   ],
@@ -1467,21 +1508,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Android Midsommer Madness",
-      "url": "https://dev.to/gde/mobile-midsommer-madness-ohe",
-      "published_at": "2026-06-08T23:53:34Z",
-      "description": "This is a submission for the June Solstice Game Jam           What I Built   When it comes to Summar...",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxba1iup7orthwdout1bt.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
       "published_at": "2026-06-08T04:32:27Z",
@@ -1493,11 +1519,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 710,
       "user": "apple"
     }
   ],
   "Cloud": [
+    {
+      "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl",
+      "published_at": "2026-06-11T14:11:07Z",
+      "description": "This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...",
+      "tags": [
+        "antigravitycli",
+        "mcps",
+        "gemma4",
+        "googlecloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
     {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
       "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
@@ -1632,21 +1688,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
-      "published_at": "2026-06-09T15:23:55Z",
-      "description": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "nextjs",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouit40pwxnylzq4ehd19.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1692,21 +1733,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Ultimate Cloud Run Guide 2026",
-      "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8",
-      "published_at": "2026-06-01T14:31:53Z",
-      "description": "At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...",
-      "tags": [
-        "cloud",
-        "google",
-        "serverless",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png",
-      "source": "Dev.to",
-      "user": "Sara Ford"
-    },
-    {
       "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
       "url": "https://github.com/iampedii/WhiteDNS-Wizard",
       "published_at": "2026-06-05T07:34:28Z",
@@ -1718,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "iampedii"
     }
   ],
@@ -1738,6 +1764,21 @@
   ],
   "Security": [
     {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
       "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
       "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
       "published_at": "2026-06-10T07:04:58Z",
@@ -1751,6 +1792,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "Who approved this?",
+      "url": "https://dev.to/maureknob/who-approved-this-16pp",
+      "published_at": "2026-06-09T19:15:58Z",
+      "description": "While I was doing my MBA in Technology for Business, I kept thinking about possible topics for my...",
+      "tags": [
+        "ai",
+        "security",
+        "biometrics",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4orq9x1nmfb9qchmo3y.png",
+      "source": "Dev.to",
+      "user": "maureknob"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1776,11 +1832,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "MengMengCode"
     }
   ],
   "Tools": [
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
     {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
@@ -1795,6 +1866,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
       "source": "Dev.to",
       "user": "shrey "
+    },
+    {
+      "title": "Show your team colors on GitHub | Slack | etc. for the World Cup ⚽️ 🏆",
+      "url": "https://dev.to/leereilly/show-your-team-colors-on-github-slack-etc-for-the-world-cup-4a63",
+      "published_at": "2026-06-11T06:03:58Z",
+      "description": "I have no idea if this will be a hit, a miss, or the kind of thing that gets exactly four stars and...",
+      "tags": [
+        "soccer",
+        "football",
+        "github",
+        "slack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpqn38vm5zeh2ljrwb3q.png",
+      "source": "Dev.to",
+      "user": "Lee Reilly"
     },
     {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
@@ -1911,64 +1997,6 @@
       "user": "Hagag"
     },
     {
-      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
-      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
-      "published_at": "2026-06-01T16:31:20Z",
-      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
-      "tags": [
-        "javascript",
-        "opensource",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
-      "source": "Dev.to",
-      "user": "Stefan Buhrmester"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
-      "published_at": "2026-05-21T17:33:15Z",
-      "description": "Update: Winner Announcement Delayed         Github \"Finish-Up-A-Thon\" Challenge Winner Announcement...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
-      "published_at": "2026-06-01T14:00:00Z",
-      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "tags": [
-        "devjournal",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
-      "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
-      "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk",
-      "published_at": "2026-06-08T22:21:49Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the GitHub \"Finish-Up-A-Thon\"...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yuvsiop6qbjp87vx4l8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -1980,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "JimLiu"
     },
     {
@@ -1995,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 222,
       "user": "XBuilderLAB"
     },
     {
@@ -2040,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "alchaincyf"
     },
     {
@@ -2055,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 780,
       "user": "GordenSun"
     },
     {
@@ -2070,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 710,
       "user": "apple"
     },
     {
@@ -2085,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2100,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "xiaohuailabs"
     },
     {
@@ -2115,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "Parcle-AI"
     },
     {
@@ -2130,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "iampedii"
     },
     {
@@ -2160,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "MengMengCode"
     },
     {
