@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 772,
       "user": "JimLiu"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "XBuilderLAB"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "adamallcock"
     },
     {
@@ -682,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 184,
       "user": "alchaincyf"
     },
     {
@@ -697,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 788,
       "user": "GordenSun"
     },
     {
@@ -712,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 741,
       "user": "apple"
     },
     {
@@ -727,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "xiaohuailabs"
     },
     {
@@ -742,53 +742,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "Parcle-AI"
     },
     {
-      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
-      "published_at": "2026-06-05T07:34:28Z",
-      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "url": "https://github.com/Sliverkiss/mimocode2api",
+      "published_at": "2026-06-11T00:55:11Z",
+      "description": "MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 192,
-      "user": "iampedii"
+      "stars": 38,
+      "user": "Sliverkiss"
     },
     {
-      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "url": "https://github.com/pivanov/ctx-wire",
-      "published_at": "2026-06-05T03:50:50Z",
-      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "url": "https://github.com/saiyam1814/kiac",
+      "published_at": "2026-06-10T18:10:36Z",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 43,
-      "user": "pivanov"
-    },
-    {
-      "title": "hadihonarvar/flock - Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
-      "url": "https://github.com/hadihonarvar/flock",
-      "published_at": "2026-06-05T03:06:23Z",
-      "description": "Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "hadihonarvar"
+      "stars": 22,
+      "user": "saiyam1814"
     }
   ],
   "JavaScript": [
@@ -879,6 +864,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
+    },
+    {
+      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
+      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
+      "published_at": "2026-06-01T16:31:20Z",
+      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
+      "tags": [
+        "javascript",
+        "opensource",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
+      "source": "Dev.to",
+      "user": "Stefan Buhrmester"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1012,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 772,
       "user": "JimLiu"
     },
     {
@@ -1027,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "XBuilderLAB"
     },
     {
@@ -1042,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "adamallcock"
     },
     {
@@ -1057,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "BuilderIO"
     },
     {
@@ -1072,8 +1072,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 184,
       "user": "alchaincyf"
+    },
+    {
+      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "url": "https://github.com/saiyam1814/kiac",
+      "published_at": "2026-06-10T18:10:36Z",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
+      "source": "GitHub",
+      "stars": 22,
+      "user": "saiyam1814"
     }
   ],
   "Python": [
@@ -1237,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 788,
       "user": "GordenSun"
     },
     {
@@ -1252,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 741,
       "user": "apple"
     },
     {
@@ -1267,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 523,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1282,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "xiaohuailabs"
     },
     {
@@ -1297,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "Parcle-AI"
     }
   ],
@@ -1374,6 +1389,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "url": "https://github.com/saiyam1814/kiac",
+      "published_at": "2026-06-10T18:10:36Z",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
+      "source": "GitHub",
+      "stars": 22,
+      "user": "saiyam1814"
     }
   ],
   "WebDev": [
@@ -1445,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 772,
       "user": "JimLiu"
     }
   ],
@@ -1504,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 741,
       "user": "apple"
     }
   ],
@@ -1716,21 +1746,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
-      "published_at": "2026-06-05T07:34:28Z",
-      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
-      "source": "GitHub",
-      "stars": 192,
-      "user": "iampedii"
     }
   ],
   "Database": [
@@ -1804,21 +1819,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "MengMengCode/CLICD - CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.",
-      "url": "https://github.com/MengMengCode/CLICD",
-      "published_at": "2026-06-05T11:27:26Z",
-      "description": "CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "MengMengCode"
     }
   ],
   "Tools": [
@@ -1982,6 +1982,21 @@
       "user": "Hagag"
     },
     {
+      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
+      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
+      "published_at": "2026-06-01T16:31:20Z",
+      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
+      "tags": [
+        "javascript",
+        "opensource",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
+      "source": "Dev.to",
+      "user": "Stefan Buhrmester"
+    },
+    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -1993,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 772,
       "user": "JimLiu"
     },
     {
@@ -2008,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "XBuilderLAB"
     },
     {
@@ -2023,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "adamallcock"
     },
     {
@@ -2038,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "BuilderIO"
     },
     {
@@ -2053,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 184,
       "user": "alchaincyf"
     },
     {
@@ -2068,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 788,
       "user": "GordenSun"
     },
     {
@@ -2083,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 741,
       "user": "apple"
     },
     {
@@ -2098,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 523,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2113,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "xiaohuailabs"
     },
     {
@@ -2128,83 +2143,83 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "Parcle-AI"
     },
     {
-      "title": "iampedii/WhiteDNS-Wizard - Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
-      "url": "https://github.com/iampedii/WhiteDNS-Wizard",
-      "published_at": "2026-06-05T07:34:28Z",
-      "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "url": "https://github.com/Sliverkiss/mimocode2api",
+      "published_at": "2026-06-11T00:55:11Z",
+      "description": "MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7813872?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 192,
-      "user": "iampedii"
+      "stars": 38,
+      "user": "Sliverkiss"
     },
     {
-      "title": "TryHarder-L/NiniMenu - 一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
-      "url": "https://github.com/TryHarder-L/NiniMenu",
-      "published_at": "2026-06-05T15:33:26Z",
-      "description": "一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别\"今天吃什么\"的纠结。",
+      "title": "yzfly/TokenCode - 为并行而生的 Agent 运行时——Go 写的开源终端 Coding Agent（类 Claude Code），可接入任意模型，自带心跳与自动做梦 | A parallel-native agent runtime in Go: an open-source, Claude Code-style coding agent. Any model, heartbeat & dreaming.",
+      "url": "https://github.com/yzfly/TokenCode",
+      "published_at": "2026-06-09T03:39:21Z",
+      "description": "为并行而生的 Agent 运行时——Go 写的开源终端 Coding Agent（类 Claude Code），可接入任意模型，自带心跳与自动做梦 | A parallel-native agent runtime in Go: an open-source, Claude Code-style coding agent. Any model, heartbeat & dreaming.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50231875?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46625232?v=4",
       "source": "GitHub",
-      "stars": 151,
-      "user": "TryHarder-L"
+      "stars": 28,
+      "user": "yzfly"
     },
     {
-      "title": "MengMengCode/CLICD - CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.",
-      "url": "https://github.com/MengMengCode/CLICD",
-      "published_at": "2026-06-05T11:27:26Z",
-      "description": "CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitoring, and delegated user access.",
+      "title": "AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full - Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
+      "url": "https://github.com/AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full",
+      "published_at": "2026-06-08T19:32:34Z",
+      "description": "Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/289285442?v=4",
       "source": "GitHub",
-      "stars": 142,
-      "user": "MengMengCode"
+      "stars": 26,
+      "user": "AspectTaleAdapter"
     },
     {
-      "title": "pivanov/ctx-wire - ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
-      "url": "https://github.com/pivanov/ctx-wire",
-      "published_at": "2026-06-05T03:50:50Z",
-      "description": "ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire. ",
+      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "url": "https://github.com/glockinhand/guns.lol-view-bot",
+      "published_at": "2026-06-10T14:39:07Z",
+      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/191504?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 43,
-      "user": "pivanov"
+      "stars": 25,
+      "user": "glockinhand"
     },
     {
-      "title": "hadihonarvar/flock - Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
-      "url": "https://github.com/hadihonarvar/flock",
-      "published_at": "2026-06-05T03:06:23Z",
-      "description": "Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
+      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "url": "https://github.com/saiyam1814/kiac",
+      "published_at": "2026-06-10T18:10:36Z",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10359872?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 42,
-      "user": "hadihonarvar"
+      "stars": 22,
+      "user": "saiyam1814"
     }
   ]
 }
