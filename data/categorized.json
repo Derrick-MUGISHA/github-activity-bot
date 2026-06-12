@@ -75,21 +75,6 @@
       "user": "Laurent Picard"
     },
     {
-      "title": "Why New Language Features Need to Target AI Agents, Not Developers",
-      "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
-      "published_at": "2026-06-11T14:12:20Z",
-      "description": "AI agents are writing our production code. It's time to stop designing syntax sugar for humans and start optimizing languages for bots.",
-      "tags": [
-        "ai",
-        "architecture",
-        "programming",
-        "computerscience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvwctfuvjomnaftukqva8.png",
-      "source": "Dev.to",
-      "user": "ModernCpp"
-    },
-    {
       "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
       "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
       "published_at": "2026-06-12T03:36:28Z",
@@ -381,6 +366,21 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "Why New Language Features Need to Target AI Agents, Not Developers",
+      "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
+      "published_at": "2026-06-11T14:12:20Z",
+      "description": "AI agents are writing our production code. It's time to stop designing syntax sugar for humans and start optimizing languages for bots.",
+      "tags": [
+        "ai",
+        "architecture",
+        "programming",
+        "computerscience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvwctfuvjomnaftukqva8.png",
+      "source": "Dev.to",
+      "user": "ModernCpp"
+    },
+    {
       "title": "How we built AIventure, an AI-Powered Retro Dungeon",
       "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
       "published_at": "2026-06-10T03:09:39Z",
@@ -623,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 881,
       "user": "DietrichGebert"
     },
     {
@@ -638,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "JimLiu"
     },
     {
@@ -653,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "XBuilderLAB"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "Sliverkiss"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "saiyam1814"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 881,
       "user": "DietrichGebert"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "JimLiu"
     },
     {
@@ -1060,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "XBuilderLAB"
     },
     {
@@ -1075,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "BuilderIO"
     },
     {
@@ -1105,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "saiyam1814"
     }
   ],
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "saiyam1814"
     }
   ],
@@ -1571,7 +1571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "JimLiu"
     }
   ],
@@ -1995,21 +1995,6 @@
       "user": "shrey "
     },
     {
-      "title": "Show your team colors on GitHub | Slack | etc. for the World Cup ⚽️ 🏆",
-      "url": "https://dev.to/leereilly/show-your-team-colors-on-github-slack-etc-for-the-world-cup-4a63",
-      "published_at": "2026-06-11T06:03:58Z",
-      "description": "I have no idea if this will be a hit, a miss, or the kind of thing that gets exactly four stars and...",
-      "tags": [
-        "soccer",
-        "football",
-        "github",
-        "slack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpqn38vm5zeh2ljrwb3q.png",
-      "source": "Dev.to",
-      "user": "Lee Reilly"
-    },
-    {
       "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
       "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
       "published_at": "2026-06-11T04:08:23Z",
@@ -2023,6 +2008,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "Show your team colors on GitHub | Slack | etc. for the World Cup ⚽️ 🏆",
+      "url": "https://dev.to/leereilly/show-your-team-colors-on-github-slack-etc-for-the-world-cup-4a63",
+      "published_at": "2026-06-11T06:03:58Z",
+      "description": "I have no idea if this will be a hit, a miss, or the kind of thing that gets exactly four stars and...",
+      "tags": [
+        "soccer",
+        "football",
+        "github",
+        "slack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpqn38vm5zeh2ljrwb3q.png",
+      "source": "Dev.to",
+      "user": "Lee Reilly"
     },
     {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 881,
       "user": "DietrichGebert"
     },
     {
@@ -2081,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "JimLiu"
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "XBuilderLAB"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "BuilderIO"
     },
     {
@@ -2216,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "Sliverkiss"
     },
     {
@@ -2231,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "saiyam1814"
     },
     {
