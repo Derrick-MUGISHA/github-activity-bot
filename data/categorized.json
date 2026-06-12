@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "JimLiu"
     },
     {
@@ -652,8 +652,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 236,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-06-12T00:52:37Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "source": "GitHub",
+      "stars": 210,
+      "user": "DietrichGebert"
     },
     {
       "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
@@ -667,23 +682,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 208,
       "user": "adamallcock"
-    },
-    {
-      "title": "alchaincyf/fanbox - GitHub Repository",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "alchaincyf"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -697,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 806,
       "user": "GordenSun"
     },
     {
@@ -712,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 769,
       "user": "apple"
     },
     {
@@ -727,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 468,
       "user": "xiaohuailabs"
     },
     {
@@ -742,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 396,
       "user": "Parcle-AI"
     },
     {
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 45,
       "user": "Sliverkiss"
     },
     {
@@ -772,11 +772,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 22,
+      "stars": 24,
       "user": "saiyam1814"
     }
   ],
   "JavaScript": [
+    {
+      "title": "System Design - A Frontend Engineer's Deep Dive",
+      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
+      "published_at": "2026-06-11T17:38:12Z",
+      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
+      "tags": [
+        "systemdesign",
+        "webdev",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
+      "source": "Dev.to",
+      "user": "Harsha Attray"
+    },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
       "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
@@ -1012,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "JimLiu"
     },
     {
@@ -1027,23 +1042,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 236,
       "user": "XBuilderLAB"
-    },
-    {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "adamallcock"
     },
     {
       "title": "BuilderIO/skills - Skills for coding agents",
@@ -1057,23 +1057,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 221,
       "user": "BuilderIO"
     },
     {
-      "title": "alchaincyf/fanbox - GitHub Repository",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "Trending GitHub Repository",
+      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-06-12T00:52:37Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 184,
-      "user": "alchaincyf"
+      "stars": 210,
+      "user": "DietrichGebert"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "adamallcock"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -1087,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 22,
+      "stars": 24,
       "user": "saiyam1814"
     }
   ],
@@ -1252,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 806,
       "user": "GordenSun"
     },
     {
@@ -1267,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 769,
       "user": "apple"
     },
     {
@@ -1282,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 528,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1297,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 468,
       "user": "xiaohuailabs"
     },
     {
@@ -1312,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 396,
       "user": "Parcle-AI"
     }
   ],
@@ -1402,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 22,
+      "stars": 24,
       "user": "saiyam1814"
     }
   ],
@@ -1429,10 +1444,11 @@
       "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
       "tags": [
         "systemdesign",
-        "architecture",
-        "datamodeling"
+        "webdev",
+        "frontend",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frora6hlqa51eapfni58m.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
       "source": "Dev.to",
       "user": "Harsha Attray"
     },
@@ -1475,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "JimLiu"
     }
   ],
@@ -1534,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 769,
       "user": "apple"
     }
   ],
@@ -2008,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "JimLiu"
     },
     {
@@ -2023,23 +2039,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 236,
       "user": "XBuilderLAB"
-    },
-    {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "adamallcock"
     },
     {
       "title": "BuilderIO/skills - Skills for coding agents",
@@ -2053,23 +2054,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 221,
       "user": "BuilderIO"
     },
     {
-      "title": "alchaincyf/fanbox - GitHub Repository",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "Trending GitHub Repository",
+      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-06-12T00:52:37Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 184,
-      "user": "alchaincyf"
+      "stars": 210,
+      "user": "DietrichGebert"
+    },
+    {
+      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "published_at": "2026-06-06T21:09:56Z",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "adamallcock"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2083,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 806,
       "user": "GordenSun"
     },
     {
@@ -2098,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 769,
       "user": "apple"
     },
     {
@@ -2113,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 528,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2128,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 468,
       "user": "xiaohuailabs"
     },
     {
@@ -2143,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 396,
       "user": "Parcle-AI"
     },
     {
@@ -2158,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 45,
       "user": "Sliverkiss"
     },
     {
@@ -2177,21 +2193,6 @@
       "user": "yzfly"
     },
     {
-      "title": "AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full - Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
-      "url": "https://github.com/AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full",
-      "published_at": "2026-06-08T19:32:34Z",
-      "description": "Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/289285442?v=4",
-      "source": "GitHub",
-      "stars": 26,
-      "user": "AspectTaleAdapter"
-    },
-    {
       "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
       "url": "https://github.com/glockinhand/guns.lol-view-bot",
       "published_at": "2026-06-10T14:39:07Z",
@@ -2203,8 +2204,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 25,
+      "stars": 27,
       "user": "glockinhand"
+    },
+    {
+      "title": "AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full - Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
+      "url": "https://github.com/AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full",
+      "published_at": "2026-06-08T19:32:34Z",
+      "description": "Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/289285442?v=4",
+      "source": "GitHub",
+      "stars": 25,
+      "user": "AspectTaleAdapter"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -2218,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 22,
+      "stars": 24,
       "user": "saiyam1814"
     }
   ]
