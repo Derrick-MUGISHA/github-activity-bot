@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 24,
     "Python": 17,
     "DevOps": 7,
@@ -15,21 +15,21 @@
     "Cloud": 13,
     "Database": 1,
     "Security": 4,
-    "Tools": 28
+    "Tools": 27
   },
   "by_language": {
     "Go": 33,
     "JavaScript": 24,
     "Java": 20,
     "Python": 17,
-    "Kotlin": 1,
     "Swift": 2,
+    "Kotlin": 1,
     "CSharp": 1
   },
   "by_date": {
     "2026-06-11": 10,
     "2026-06-10": 16,
-    "2026-06-08": 14,
+    "2026-06-08": 13,
     "2026-06-09": 11,
     "2026-06-04": 3,
     "2026-06-05": 1,
@@ -37,7 +37,7 @@
     "2026-06-06": 2,
     "2026-06-03": 3,
     "2026-06-01": 4,
-    "2026-05-29": 1,
+    "2026-05-29": 2,
     "2026-05-28": 1,
     "2026-05-27": 3,
     "2026-05-26": 2,
@@ -74,7 +74,7 @@
     "2026-06-12": 1
   },
   "top_tags": {
-    "ai": 27,
+    "ai": 26,
     "github": 16,
     "open-source": 15,
     "AI": 10,
@@ -83,17 +83,17 @@
     "javascript": 9,
     "devchallenge": 7,
     "webdev": 7,
-    "go": 6,
     "python": 6,
+    "go": 6,
+    "discuss": 5,
     "programming": 5,
     "gamedev": 5,
     "googlecloud": 5,
-    "productivity": 5,
-    "discuss": 4,
     "mcps": 4,
     "gamechallenge": 4,
     "llm": 4,
-    "agents": 4
+    "agents": 4,
+    "productivity": 4
   },
   "trending_topics": [],
   "language_percentages": {
@@ -101,8 +101,8 @@
     "JavaScript": "24.5",
     "Java": "20.4",
     "Python": "17.3",
-    "Kotlin": "1.0",
     "Swift": "2.0",
+    "Kotlin": "1.0",
     "CSharp": "1.0"
   }
 }
