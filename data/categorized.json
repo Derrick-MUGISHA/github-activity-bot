@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
       "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
       "published_at": "2026-06-11T14:06:23Z",
@@ -30,6 +45,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
+      "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
+      "published_at": "2026-06-12T02:42:21Z",
+      "description": "Resolving Friction   Last year when the very cool Google Antigravity (Agy) was first...",
+      "tags": [
+        "wsl",
+        "agenticai",
+        "browseragent",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Why New Language Features Need to Target AI Agents, Not Developers",
       "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
       "published_at": "2026-06-11T14:12:20Z",
@@ -43,6 +73,61 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvwctfuvjomnaftukqva8.png",
       "source": "Dev.to",
       "user": "ModernCpp"
+    },
+    {
+      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+      "published_at": "2026-06-12T03:36:28Z",
+      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "tags": [
+        "typescript",
+        "ai",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "source": "Dev.to",
+      "user": "jsmanifest"
+    },
+    {
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "source": "Dev.to",
+      "user": "Simon Coudeville"
+    },
+    {
+      "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
+      "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
+      "published_at": "2026-06-12T02:23:18Z",
+      "description": "A battle-tested relational design for airline-mile-style points that expire per grant, support exact cancellation, and satisfy accounting audits — plus real PostgreSQL benchmarks and a scalability analysis.",
+      "tags": [
+        "postgres",
+        "database",
+        "sql",
+        "systemdesign"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxli6937eqnfrppar586.png",
+      "source": "Dev.to",
+      "user": "Yuki Matsukura"
+    },
+    {
+      "title": "The AI Addiction Nobody Is Talking About",
+      "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
+      "published_at": "2026-06-11T22:49:00Z",
+      "description": "There is a particular kind of restlessness spreading through the tech world right now. It is not...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg",
+      "source": "Dev.to",
+      "user": "Samir Yahyazade"
     },
     {
       "title": "CSS – only a Nerdy Hobby?",
@@ -73,6 +158,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png",
       "source": "Dev.to",
       "user": "ankush chadha"
+    },
+    {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
+      "published_at": "2026-06-12T06:09:59Z",
+      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "G4 Fractional VMs are now available on Google Cloud!",
@@ -351,137 +466,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script",
-      "url": "https://dev.to/gde/the-1-second-timeout-hack-running-infinite-parallel-workloads-natively-on-google-apps-script-2ge4",
-      "published_at": "2026-06-09T06:18:21Z",
-      "description": "Abstract   This paper presents a serverless architecture that overcomes the stateless...",
-      "tags": [
-        "ai",
-        "googleappsscript",
-        "serverless",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjtvp9aq6tnv7kb6yqfu.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "It's Time We All Eat some more Cucumber!",
-      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
-      "published_at": "2026-06-08T09:22:09Z",
-      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
-      "tags": [
-        "ai",
-        "tdd",
-        "bdd",
-        "darkfactory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
-    },
-    {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
-      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
-      "published_at": "2026-06-01T10:50:34Z",
-      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
-      "source": "Dev.to",
-      "user": "Hagag"
-    },
-    {
-      "title": "Who approved this?",
-      "url": "https://dev.to/maureknob/who-approved-this-16pp",
-      "published_at": "2026-06-09T19:15:58Z",
-      "description": "While I was doing my MBA in Technology for Business, I kept thinking about possible topics for my...",
-      "tags": [
-        "ai",
-        "security",
-        "biometrics",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4orq9x1nmfb9qchmo3y.png",
-      "source": "Dev.to",
-      "user": "maureknob"
-    },
-    {
-      "title": "The Level 5 Engineer - The Map I Didn't Know I Needed",
-      "url": "https://dev.to/diyaburman/the-level-5-engineer-the-map-i-didnt-know-i-needed-5b5",
-      "published_at": "2026-06-09T19:12:34Z",
-      "description": "The Level 5 Engineer Newsletter — Issue #1           Preface   I want to be upfront about something...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "testing",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdzulf3cd06bgzlhkzl4z.png",
-      "source": "Dev.to",
-      "user": "Diya Burman"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -637,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 823,
       "user": "JimLiu"
     },
     {
@@ -652,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 694,
       "user": "DietrichGebert"
     },
     {
@@ -667,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 272,
       "user": "XBuilderLAB"
     },
     {
@@ -697,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 837,
       "user": "GordenSun"
     },
     {
@@ -712,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 818,
       "user": "apple"
     },
     {
@@ -727,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 479,
       "user": "xiaohuailabs"
     },
     {
@@ -742,7 +726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 58,
       "user": "Sliverkiss"
     },
     {
@@ -757,11 +741,71 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 28,
+      "stars": 31,
       "user": "saiyam1814"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Why I still teach Singleton even though modules make it redundant",
+      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
+      "published_at": "2026-06-12T12:31:21Z",
+      "description": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "python",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
+      "source": "Dev.to",
+      "user": "Dmitry Sheiko"
+    },
+    {
+      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+      "published_at": "2026-06-12T03:36:28Z",
+      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "tags": [
+        "typescript",
+        "ai",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "source": "Dev.to",
+      "user": "jsmanifest"
+    },
+    {
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "source": "Dev.to",
+      "user": "Simon Coudeville"
+    },
+    {
+      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
+      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
+      "published_at": "2026-06-11T21:13:40Z",
+      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
+      "tags": [
+        "nextjs",
+        "react",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
+      "source": "Dev.to",
+      "user": "Tonal Mathew"
+    },
     {
       "title": "System Design - A Frontend Engineer's Deep Dive",
       "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
@@ -849,36 +893,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
-      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
-      "published_at": "2026-06-01T16:31:20Z",
-      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
-      "tags": [
-        "javascript",
-        "opensource",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
-      "source": "Dev.to",
-      "user": "Stefan Buhrmester"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1012,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 823,
       "user": "JimLiu"
     },
     {
@@ -1027,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 694,
       "user": "DietrichGebert"
     },
     {
@@ -1042,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 272,
       "user": "XBuilderLAB"
     },
     {
@@ -1057,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 251,
       "user": "BuilderIO"
     },
     {
@@ -1087,11 +1101,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 28,
+      "stars": 31,
       "user": "saiyam1814"
     }
   ],
   "Python": [
+    {
+      "title": "Why I still teach Singleton even though modules make it redundant",
+      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
+      "published_at": "2026-06-12T12:31:21Z",
+      "description": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "python",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
+      "source": "Dev.to",
+      "user": "Dmitry Sheiko"
+    },
     {
       "title": "Google Antigravity SDK: The developer guide",
       "url": "https://dev.to/googleai/google-antigravity-sdk-the-developer-guide-4o8m",
@@ -1108,17 +1137,19 @@
       "user": "Karl Weinmeister"
     },
     {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
+      "title": "Heterogeneous Pythonic language in your pocket",
+      "url": "https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7",
+      "published_at": "2026-06-11T19:02:52Z",
+      "description": "Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...",
       "tags": [
-        "devchallenge",
-        "githubchallenge"
+        "gpu",
+        "python",
+        "android",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
       "source": "Dev.to",
-      "user": "Lucas Rafaldini"
+      "user": "Amr Hesham"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1252,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 837,
       "user": "GordenSun"
     },
     {
@@ -1267,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 818,
       "user": "apple"
     },
     {
@@ -1282,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 548,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1297,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 479,
       "user": "xiaohuailabs"
     },
     {
@@ -1312,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 423,
       "user": "jwangkun"
     }
   ],
@@ -1391,21 +1422,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "The Level 5 Engineer - The Map I Didn't Know I Needed",
-      "url": "https://dev.to/diyaburman/the-level-5-engineer-the-map-i-didnt-know-i-needed-5b5",
-      "published_at": "2026-06-09T19:12:34Z",
-      "description": "The Level 5 Engineer Newsletter — Issue #1           Preface   I want to be upfront about something...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "testing",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdzulf3cd06bgzlhkzl4z.png",
-      "source": "Dev.to",
-      "user": "Diya Burman"
-    },
-    {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "url": "https://github.com/saiyam1814/kiac",
       "published_at": "2026-06-10T18:10:36Z",
@@ -1417,11 +1433,71 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 28,
+      "stars": 31,
       "user": "saiyam1814"
     }
   ],
   "WebDev": [
+    {
+      "title": "Celebrate June rituals with Solstice Bingo!",
+      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
+      "published_at": "2026-06-11T11:25:14Z",
+      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
+      "tags": [
+        "devchallenge",
+        "gamechallenge",
+        "gamedev",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
+      "source": "Dev.to",
+      "user": "Klaudia Grzondziel"
+    },
+    {
+      "title": "CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it",
+      "url": "https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj",
+      "published_at": "2026-06-11T23:06:19Z",
+      "description": "I think you all know the overscroll rubber-banding effect: when you scroll past the end of a page, or...",
+      "tags": [
+        "css",
+        "webdev",
+        "design",
+        "ux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwddxeftce6j338vnmx8q.jpg",
+      "source": "Dev.to",
+      "user": "a-dev"
+    },
+    {
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "source": "Dev.to",
+      "user": "Simon Coudeville"
+    },
+    {
+      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
+      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
+      "published_at": "2026-06-11T21:13:40Z",
+      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
+      "tags": [
+        "nextjs",
+        "react",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
+      "source": "Dev.to",
+      "user": "Tonal Mathew"
+    },
     {
       "title": "System Design - A Frontend Engineer's Deep Dive",
       "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
@@ -1491,11 +1567,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 823,
       "user": "JimLiu"
     }
   ],
   "Mobile": [
+    {
+      "title": "IOS Midsommer Madness",
+      "url": "https://dev.to/gde/ios-midsommer-madness-5h4",
+      "published_at": "2026-06-12T12:43:27Z",
+      "description": "This is a submission for the June Solstice Game Jam  Your Iphone can now celebrate the Solstace! When...",
+      "tags": [
+        "antigravitycli",
+        "devchallenge",
+        "gamechallenge",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32vmbwht9bm2ercy7zw6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Flutter Midsommer Madnesss",
       "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb",
@@ -1524,6 +1615,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Heterogeneous Pythonic language in your pocket",
+      "url": "https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7",
+      "published_at": "2026-06-11T19:02:52Z",
+      "description": "Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...",
+      "tags": [
+        "gpu",
+        "python",
+        "android",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
+      "source": "Dev.to",
+      "user": "Amr Hesham"
+    },
+    {
       "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
       "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
       "published_at": "2026-06-10T20:13:47Z",
@@ -1550,7 +1656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 818,
       "user": "apple"
     }
   ],
@@ -1569,6 +1675,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Connecting GCP Budget Alerts to AppSheet: A Step-by-Step Guide",
+      "url": "https://dev.to/gde/connecting-gcp-budget-alerts-to-appsheet-a-step-by-step-guide-4pda",
+      "published_at": "2026-06-12T13:57:22Z",
+      "description": "Have you ever woken up to a massive Google Cloud bill because a developer accidentally left a cluster...",
+      "tags": [
+        "googlecloud",
+        "appsheet",
+        "finops",
+        "cloudbilling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forzh3f8zqojz34mvey9f.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1720,37 +1841,37 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script",
-      "url": "https://dev.to/gde/the-1-second-timeout-hack-running-infinite-parallel-workloads-natively-on-google-apps-script-2ge4",
-      "published_at": "2026-06-09T06:18:21Z",
-      "description": "Abstract   This paper presents a serverless architecture that overcomes the stateless...",
+      "title": "FanhuaCloud/go-sso - GitHub Repository",
+      "url": "https://github.com/FanhuaCloud/go-sso",
+      "published_at": "2026-06-08T13:06:34Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "ai",
-        "googleappsscript",
-        "serverless",
-        "gemini"
+        "go",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjtvp9aq6tnv7kb6yqfu.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6",
-      "published_at": "2026-05-26T14:18:48Z",
-      "description": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "tags": [
-        "cli",
-        "azurecloudshell",
-        "antigravitycli",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
-      "source": "Dev.to",
-      "user": "xbill"
+      "cover_image": "https://avatars.githubusercontent.com/u/19590243?v=4",
+      "source": "GitHub",
+      "stars": 30,
+      "user": "FanhuaCloud"
     }
   ],
   "Database": [
+    {
+      "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
+      "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
+      "published_at": "2026-06-12T02:23:18Z",
+      "description": "A battle-tested relational design for airline-mile-style points that expire per grant, support exact cancellation, and satisfy accounting audits — plus real PostgreSQL benchmarks and a scalability analysis.",
+      "tags": [
+        "postgres",
+        "database",
+        "sql",
+        "systemdesign"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxli6937eqnfrppar586.png",
+      "source": "Dev.to",
+      "user": "Yuki Matsukura"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1765,6 +1886,36 @@
     }
   ],
   "Security": [
+    {
+      "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
+      "url": "https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc",
+      "published_at": "2026-06-12T04:34:38Z",
+      "description": "I committed a new version of my plugin to SVN and got a message I hadn’t seen before: this version...",
+      "tags": [
+        "wordpress",
+        "security",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3bffmfdonj0e3y7gkriw.png",
+      "source": "Dev.to",
+      "user": "Rapls"
+    },
+    {
+      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
+      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
+      "published_at": "2026-06-11T21:13:40Z",
+      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
+      "tags": [
+        "nextjs",
+        "react",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
+      "source": "Dev.to",
+      "user": "Tonal Mathew"
+    },
     {
       "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
       "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
@@ -1796,21 +1947,6 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "Who approved this?",
-      "url": "https://dev.to/maureknob/who-approved-this-16pp",
-      "published_at": "2026-06-09T19:15:58Z",
-      "description": "While I was doing my MBA in Technology for Business, I kept thinking about possible topics for my...",
-      "tags": [
-        "ai",
-        "security",
-        "biometrics",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4orq9x1nmfb9qchmo3y.png",
-      "source": "Dev.to",
-      "user": "maureknob"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1824,6 +1960,36 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+      "published_at": "2026-06-12T03:36:28Z",
+      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "tags": [
+        "typescript",
+        "ai",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "source": "Dev.to",
+      "user": "jsmanifest"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
@@ -1900,105 +2066,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "The perfect background music for Vibecoding...",
-      "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
-      "published_at": "2026-06-08T18:01:28Z",
-      "description": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
-      "source": "Dev.to",
-      "user": "Michael Ramich"
-    },
-    {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "published_at": "2026-06-03T17:30:38Z",
-      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
-      "source": "Dev.to",
-      "user": "Lucas Rafaldini"
-    },
-    {
-      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
-      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
-      "published_at": "2026-06-01T10:50:34Z",
-      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
-      "source": "Dev.to",
-      "user": "Hagag"
-    },
-    {
-      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
-      "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
-      "published_at": "2026-06-01T16:31:20Z",
-      "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
-      "tags": [
-        "javascript",
-        "opensource",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqdyn4zn9o091pcrso0ai.png",
-      "source": "Dev.to",
-      "user": "Stefan Buhrmester"
-    },
-    {
-      "title": "The Level 5 Engineer - The Map I Didn't Know I Needed",
-      "url": "https://dev.to/diyaburman/the-level-5-engineer-the-map-i-didnt-know-i-needed-5b5",
-      "published_at": "2026-06-09T19:12:34Z",
-      "description": "The Level 5 Engineer Newsletter — Issue #1           Preface   I want to be upfront about something...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "testing",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdzulf3cd06bgzlhkzl4z.png",
-      "source": "Dev.to",
-      "user": "Diya Burman"
-    },
-    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -2010,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 823,
       "user": "JimLiu"
     },
     {
@@ -2025,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 694,
       "user": "DietrichGebert"
     },
     {
@@ -2040,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 272,
       "user": "XBuilderLAB"
     },
     {
@@ -2055,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 251,
       "user": "BuilderIO"
     },
     {
@@ -2085,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 837,
       "user": "GordenSun"
     },
     {
@@ -2100,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 818,
       "user": "apple"
     },
     {
@@ -2115,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 548,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2130,7 +2197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 479,
       "user": "xiaohuailabs"
     },
     {
@@ -2145,7 +2212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 423,
       "user": "jwangkun"
     },
     {
@@ -2160,8 +2227,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 58,
       "user": "Sliverkiss"
+    },
+    {
+      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "url": "https://github.com/saiyam1814/kiac",
+      "published_at": "2026-06-10T18:10:36Z",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "saiyam1814"
+    },
+    {
+      "title": "FanhuaCloud/go-sso - GitHub Repository",
+      "url": "https://github.com/FanhuaCloud/go-sso",
+      "published_at": "2026-06-08T13:06:34Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19590243?v=4",
+      "source": "GitHub",
+      "stars": 30,
+      "user": "FanhuaCloud"
     },
     {
       "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
@@ -2179,21 +2276,6 @@
       "user": "glockinhand"
     },
     {
-      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
-      "url": "https://github.com/saiyam1814/kiac",
-      "published_at": "2026-06-10T18:10:36Z",
-      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
-      "source": "GitHub",
-      "stars": 28,
-      "user": "saiyam1814"
-    },
-    {
       "title": "yzfly/TokenCode - 为并行而生的 Agent 运行时——Go 写的开源终端 Coding Agent（类 Claude Code），可接入任意模型，自带心跳与自动做梦 | A parallel-native agent runtime in Go: an open-source, Claude Code-style coding agent. Any model, heartbeat & dreaming.",
       "url": "https://github.com/yzfly/TokenCode",
       "published_at": "2026-06-09T03:39:21Z",
@@ -2207,21 +2289,6 @@
       "source": "GitHub",
       "stars": 28,
       "user": "yzfly"
-    },
-    {
-      "title": "AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full - Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
-      "url": "https://github.com/AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full",
-      "published_at": "2026-06-08T19:32:34Z",
-      "description": "Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/289285442?v=4",
-      "source": "GitHub",
-      "stars": 26,
-      "user": "AspectTaleAdapter"
     }
   ]
 }
