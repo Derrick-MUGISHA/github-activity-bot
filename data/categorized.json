@@ -16,20 +16,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Your Vibe-Coded App Works. Is It Any Good?",
-      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
-      "published_at": "2026-06-11T19:00:35Z",
-      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "firstyearincode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -45,6 +31,20 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Your Vibe-Coded App Works. Is It Any Good?",
+      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
+      "published_at": "2026-06-11T19:00:35Z",
+      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "firstyearincode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Why New Language Features Need to Target AI Agents, Not Developers",
       "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
       "published_at": "2026-06-11T14:12:20Z",
@@ -58,36 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvwctfuvjomnaftukqva8.png",
       "source": "Dev.to",
       "user": "ModernCpp"
-    },
-    {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
-      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
-      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
-      "published_at": "2026-06-10T03:09:39Z",
-      "description": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
-      "tags": [
-        "gamedev",
-        "gemini",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
-      "source": "Dev.to",
-      "user": "bebechien"
     },
     {
       "title": "Go Packages and Modules explained",
@@ -234,6 +204,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -292,6 +277,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54",
+      "published_at": "2026-06-10T03:09:39Z",
+      "description": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "tags": [
+        "gamedev",
+        "gemini",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-aiventure.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -482,6 +482,21 @@
       "user": "maureknob"
     },
     {
+      "title": "The Level 5 Engineer - The Map I Didn't Know I Needed",
+      "url": "https://dev.to/diyaburman/the-level-5-engineer-the-map-i-didnt-know-i-needed-5b5",
+      "published_at": "2026-06-09T19:12:34Z",
+      "description": "The Level 5 Engineer Newsletter — Issue #1           Preface   I want to be upfront about something...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "testing",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdzulf3cd06bgzlhkzl4z.png",
+      "source": "Dev.to",
+      "user": "Diya Burman"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -637,23 +652,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 807,
       "user": "JimLiu"
-    },
-    {
-      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "url": "https://github.com/XBuilderLAB/cheat-on-money",
-      "published_at": "2026-06-08T13:30:36Z",
-      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "XBuilderLAB"
     },
     {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -667,8 +667,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 395,
       "user": "DietrichGebert"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "published_at": "2026-06-08T13:30:36Z",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
+      "source": "GitHub",
+      "stars": 255,
+      "user": "XBuilderLAB"
     },
     {
       "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
@@ -697,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 822,
       "user": "GordenSun"
     },
     {
@@ -712,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 791,
       "user": "apple"
     },
     {
@@ -727,23 +742,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "xiaohuailabs"
-    },
-    {
-      "title": "Parcle-AI/parcle-memory - GitHub Repository",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "published_at": "2026-06-06T02:15:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
-      "source": "GitHub",
-      "stars": 396,
-      "user": "Parcle-AI"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 52,
       "user": "Sliverkiss"
     },
     {
@@ -772,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 24,
+      "stars": 28,
       "user": "saiyam1814"
     }
   ],
@@ -793,19 +793,19 @@
       "user": "Harsha Attray"
     },
     {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
-      "published_at": "2026-06-08T09:09:29Z",
-      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
+      "published_at": "2026-06-02T20:02:27Z",
+      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
       "tags": [
-        "webdev",
+        "ai",
+        "llm",
         "typescript",
-        "bash",
-        "programming"
+        "softwareengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
+      "user": "Ayoola Solomon"
     },
     {
       "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
@@ -823,19 +823,19 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
-      "published_at": "2026-06-02T20:02:27Z",
-      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
+      "published_at": "2026-06-08T09:09:29Z",
+      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
       "tags": [
-        "ai",
-        "llm",
+        "webdev",
         "typescript",
-        "softwareengineering"
+        "bash",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
       "source": "Dev.to",
-      "user": "Ayoola Solomon"
+      "user": "Hadil Ben Abdallah"
     },
     {
       "title": "TanStack Start Is Kind of a Big Deal",
@@ -1027,8 +1027,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 807,
       "user": "JimLiu"
+    },
+    {
+      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-06-12T00:52:37Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "source": "GitHub",
+      "stars": 395,
+      "user": "DietrichGebert"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -1042,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 255,
       "user": "XBuilderLAB"
     },
     {
@@ -1057,23 +1072,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 230,
       "user": "BuilderIO"
-    },
-    {
-      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-06-12T00:52:37Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "DietrichGebert"
     },
     {
       "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
@@ -1102,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 24,
+      "stars": 28,
       "user": "saiyam1814"
     }
   ],
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 822,
       "user": "GordenSun"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 791,
       "user": "apple"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 540,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1312,23 +1312,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "xiaohuailabs"
     },
     {
-      "title": "Parcle-AI/parcle-memory - GitHub Repository",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "published_at": "2026-06-06T02:15:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "published_at": "2026-06-07T15:45:23Z",
+      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 396,
-      "user": "Parcle-AI"
+      "stars": 412,
+      "user": "jwangkun"
     }
   ],
   "DevOps": [
@@ -1406,6 +1406,21 @@
       "user": "Cristhian Ferreira "
     },
     {
+      "title": "The Level 5 Engineer - The Map I Didn't Know I Needed",
+      "url": "https://dev.to/diyaburman/the-level-5-engineer-the-map-i-didnt-know-i-needed-5b5",
+      "published_at": "2026-06-09T19:12:34Z",
+      "description": "The Level 5 Engineer Newsletter — Issue #1           Preface   I want to be upfront about something...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "testing",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdzulf3cd06bgzlhkzl4z.png",
+      "source": "Dev.to",
+      "user": "Diya Burman"
+    },
+    {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "url": "https://github.com/saiyam1814/kiac",
       "published_at": "2026-06-10T18:10:36Z",
@@ -1417,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 24,
+      "stars": 28,
       "user": "saiyam1814"
     }
   ],
@@ -1491,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 807,
       "user": "JimLiu"
     }
   ],
@@ -1550,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 791,
       "user": "apple"
     }
   ],
@@ -1569,35 +1584,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
-      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
-      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
-      "published_at": "2026-06-08T19:43:35Z",
-      "description": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
-      "tags": [
-        "googlecloud",
-        "agents",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kgbqlc6mli5gc8mjhz6.png",
-      "source": "Dev.to",
-      "user": "Joey Lynne Hernandez"
     },
     {
       "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1687,6 +1673,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4",
@@ -1839,21 +1840,6 @@
   ],
   "Tools": [
     {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -1882,6 +1868,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpqn38vm5zeh2ljrwb3q.png",
       "source": "Dev.to",
       "user": "Lee Reilly"
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
@@ -2013,6 +2014,21 @@
       "user": "Stefan Buhrmester"
     },
     {
+      "title": "The Level 5 Engineer - The Map I Didn't Know I Needed",
+      "url": "https://dev.to/diyaburman/the-level-5-engineer-the-map-i-didnt-know-i-needed-5b5",
+      "published_at": "2026-06-09T19:12:34Z",
+      "description": "The Level 5 Engineer Newsletter — Issue #1           Preface   I want to be upfront about something...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "testing",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdzulf3cd06bgzlhkzl4z.png",
+      "source": "Dev.to",
+      "user": "Diya Burman"
+    },
+    {
       "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
       "published_at": "2026-06-07T01:16:18Z",
@@ -2024,8 +2040,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 807,
       "user": "JimLiu"
+    },
+    {
+      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "published_at": "2026-06-12T00:52:37Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "source": "GitHub",
+      "stars": 395,
+      "user": "DietrichGebert"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -2039,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 255,
       "user": "XBuilderLAB"
     },
     {
@@ -2054,23 +2085,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 230,
       "user": "BuilderIO"
-    },
-    {
-      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-06-12T00:52:37Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "DietrichGebert"
     },
     {
       "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
@@ -2099,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 822,
       "user": "GordenSun"
     },
     {
@@ -2114,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 791,
       "user": "apple"
     },
     {
@@ -2129,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 540,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2144,23 +2160,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "xiaohuailabs"
     },
     {
-      "title": "Parcle-AI/parcle-memory - GitHub Repository",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "published_at": "2026-06-06T02:15:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "published_at": "2026-06-07T15:45:23Z",
+      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 396,
-      "user": "Parcle-AI"
+      "stars": 412,
+      "user": "jwangkun"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2174,8 +2190,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 52,
       "user": "Sliverkiss"
+    },
+    {
+      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "url": "https://github.com/saiyam1814/kiac",
+      "published_at": "2026-06-10T18:10:36Z",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
+      "source": "GitHub",
+      "stars": 28,
+      "user": "saiyam1814"
     },
     {
       "title": "yzfly/TokenCode - 为并行而生的 Agent 运行时——Go 写的开源终端 Coding Agent（类 Claude Code），可接入任意模型，自带心跳与自动做梦 | A parallel-native agent runtime in Go: an open-source, Claude Code-style coding agent. Any model, heartbeat & dreaming.",
@@ -2221,21 +2252,6 @@
       "source": "GitHub",
       "stars": 25,
       "user": "AspectTaleAdapter"
-    },
-    {
-      "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
-      "url": "https://github.com/saiyam1814/kiac",
-      "published_at": "2026-06-10T18:10:36Z",
-      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
-      "source": "GitHub",
-      "stars": 24,
-      "user": "saiyam1814"
     }
   ]
 }
