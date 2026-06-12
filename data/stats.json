@@ -7,7 +7,7 @@
   },
   "by_category": {
     "AI": 55,
-    "JavaScript": 23,
+    "JavaScript": 24,
     "Python": 17,
     "DevOps": 6,
     "WebDev": 5,
@@ -19,8 +19,8 @@
   },
   "by_language": {
     "Go": 34,
-    "JavaScript": 23,
-    "Java": 19,
+    "JavaScript": 24,
+    "Java": 20,
     "Python": 17,
     "Kotlin": 1,
     "Swift": 2,
@@ -28,7 +28,7 @@
   },
   "by_date": {
     "2026-06-11": 10,
-    "2026-06-10": 17,
+    "2026-06-10": 16,
     "2026-06-08": 15,
     "2026-06-09": 10,
     "2026-06-04": 3,
@@ -70,7 +70,8 @@
     "2017-11-27": 1,
     "2026-05-11": 1,
     "2025-05-07": 1,
-    "2026-06-07": 2
+    "2026-06-07": 2,
+    "2026-06-12": 1
   },
   "top_tags": {
     "ai": 26,
@@ -79,9 +80,9 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "javascript": 8,
+    "javascript": 9,
     "devchallenge": 7,
-    "webdev": 6,
+    "webdev": 7,
     "googlecloud": 6,
     "go": 6,
     "python": 6,
@@ -96,12 +97,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "35.1",
-    "JavaScript": "23.7",
-    "Java": "19.6",
-    "Python": "17.5",
+    "Go": "34.3",
+    "JavaScript": "24.2",
+    "Java": "20.2",
+    "Python": "17.2",
     "Kotlin": "1.0",
-    "Swift": "2.1",
+    "Swift": "2.0",
     "CSharp": "1.0"
   }
 }
