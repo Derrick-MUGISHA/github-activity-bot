@@ -16,21 +16,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "Your Vibe-Coded App Works. Is It Any Good?",
       "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
       "published_at": "2026-06-11T19:00:35Z",
@@ -60,17 +45,19 @@
       "user": "ModernCpp"
     },
     {
-      "title": "Go Packages and Modules explained",
-      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
-      "published_at": "2026-06-11T00:37:56Z",
-      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
       "tags": [
-        "go",
-        "devops"
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
-      "user": "Fer Rios"
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -177,21 +164,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
-      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
-      "published_at": "2026-06-10T20:13:47Z",
-      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
-      "tags": [
-        "android",
-        "ai",
-        "firebase",
-        "buildwithai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
-      "source": "Dev.to",
-      "user": "Héctor Romero"
-    },
-    {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
       "published_at": "2026-06-05T14:58:17Z",
@@ -294,6 +266,19 @@
       "user": "bebechien"
     },
     {
+      "title": "Go Packages and Modules explained",
+      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
+      "published_at": "2026-06-11T00:37:56Z",
+      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
+      "tags": [
+        "go",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
+      "source": "Dev.to",
+      "user": "Fer Rios"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -307,6 +292,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
+      "published_at": "2026-06-10T20:13:47Z",
+      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "tags": [
+        "android",
+        "ai",
+        "firebase",
+        "buildwithai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
+      "source": "Dev.to",
+      "user": "Héctor Romero"
     },
     {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
@@ -381,18 +381,6 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "The perfect background music for Vibecoding...",
       "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
       "published_at": "2026-06-08T18:01:28Z",
@@ -405,6 +393,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
       "source": "Dev.to",
       "user": "Michael Ramich"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
@@ -420,21 +420,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-      "published_at": "2026-06-08T04:45:51Z",
-      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
-      "source": "Dev.to",
-      "user": "Rapls"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -652,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 815,
       "user": "JimLiu"
     },
     {
@@ -667,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 550,
       "user": "DietrichGebert"
     },
     {
@@ -682,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 262,
       "user": "XBuilderLAB"
     },
     {
@@ -712,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 833,
       "user": "GordenSun"
     },
     {
@@ -727,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 803,
       "user": "apple"
     },
     {
@@ -742,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "xiaohuailabs"
     },
     {
@@ -757,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "Sliverkiss"
     },
     {
@@ -1027,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 815,
       "user": "JimLiu"
     },
     {
@@ -1042,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 550,
       "user": "DietrichGebert"
     },
     {
@@ -1057,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 262,
       "user": "XBuilderLAB"
     },
     {
@@ -1072,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 242,
       "user": "BuilderIO"
     },
     {
@@ -1267,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 833,
       "user": "GordenSun"
     },
     {
@@ -1282,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 803,
       "user": "apple"
     },
     {
@@ -1297,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 545,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1312,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "xiaohuailabs"
     },
     {
@@ -1327,24 +1312,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 419,
       "user": "jwangkun"
     }
   ],
   "DevOps": [
-    {
-      "title": "Go Packages and Modules explained",
-      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
-      "published_at": "2026-06-11T00:37:56Z",
-      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
-      "tags": [
-        "go",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
-      "source": "Dev.to",
-      "user": "Fer Rios"
-    },
     {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
@@ -1374,6 +1346,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04v0grh5v6qutl6jamsw.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Go Packages and Modules explained",
+      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
+      "published_at": "2026-06-11T00:37:56Z",
+      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
+      "tags": [
+        "go",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
+      "source": "Dev.to",
+      "user": "Fer Rios"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1438,21 +1423,6 @@
   ],
   "WebDev": [
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "System Design - A Frontend Engineer's Deep Dive",
       "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
       "published_at": "2026-06-11T17:38:12Z",
@@ -1466,6 +1436,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
       "source": "Dev.to",
       "user": "Harsha Attray"
+    },
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1506,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 815,
       "user": "JimLiu"
     }
   ],
@@ -1527,6 +1512,18 @@
       "user": "xbill"
     },
     {
+      "title": "Dystopian Civilization Scenarios",
+      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
+      "published_at": "2026-06-05T14:58:17Z",
+      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
+      "tags": [
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
       "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
       "published_at": "2026-06-10T20:13:47Z",
@@ -1542,18 +1539,6 @@
       "user": "Héctor Romero"
     },
     {
-      "title": "Dystopian Civilization Scenarios",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
-      "published_at": "2026-06-05T14:58:17Z",
-      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "tags": [
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
       "published_at": "2026-06-08T04:32:27Z",
@@ -1565,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 803,
       "user": "apple"
     }
   ],
@@ -1915,18 +1900,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "The perfect background music for Vibecoding...",
       "url": "https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg",
       "published_at": "2026-06-08T18:01:28Z",
@@ -1939,6 +1912,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqow6vo4f0k39jjtjv7h.png",
       "source": "Dev.to",
       "user": "Michael Ramich"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
@@ -1954,21 +1939,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-      "published_at": "2026-06-08T04:45:51Z",
-      "description": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fboef9o8mp2xg9r0cqcfx.png",
-      "source": "Dev.to",
-      "user": "Rapls"
     },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
@@ -2040,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 815,
       "user": "JimLiu"
     },
     {
@@ -2055,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 550,
       "user": "DietrichGebert"
     },
     {
@@ -2070,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 262,
       "user": "XBuilderLAB"
     },
     {
@@ -2085,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 242,
       "user": "BuilderIO"
     },
     {
@@ -2115,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 833,
       "user": "GordenSun"
     },
     {
@@ -2130,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10639145?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 803,
       "user": "apple"
     },
     {
@@ -2145,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 545,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2160,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "xiaohuailabs"
     },
     {
@@ -2175,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 419,
       "user": "jwangkun"
     },
     {
@@ -2190,8 +2160,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "Sliverkiss"
+    },
+    {
+      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "url": "https://github.com/glockinhand/guns.lol-view-bot",
+      "published_at": "2026-06-10T14:39:07Z",
+      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
+      "source": "GitHub",
+      "stars": 29,
+      "user": "glockinhand"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -2224,21 +2209,6 @@
       "user": "yzfly"
     },
     {
-      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "url": "https://github.com/glockinhand/guns.lol-view-bot",
-      "published_at": "2026-06-10T14:39:07Z",
-      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
-      "source": "GitHub",
-      "stars": 27,
-      "user": "glockinhand"
-    },
-    {
       "title": "AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full - Adobe Lightroom Classic Photo Editor Download | v15.3.0 Installer with Patch & Keygen | Pre-Activated Unlocked Setup for Windows",
       "url": "https://github.com/AspectTaleAdapter/Adobe-Lightroom-Classic-15-3-Full",
       "published_at": "2026-06-08T19:32:34Z",
@@ -2250,7 +2220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289285442?v=4",
       "source": "GitHub",
-      "stars": 25,
+      "stars": 26,
       "user": "AspectTaleAdapter"
     }
   ]
