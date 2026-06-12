@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
@@ -42,7 +42,7 @@
 
 **DevOps**: 🟦🟦 6 (5.7%)
 
-**Mobile**: 🟦🟦 6 (5.7%)
+**Mobile**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.1 (32.1%)
-JavaScript      ███████████████████████ 24.5 (24.5%)
-Java            ███████████████████ 19.8 (19.8%)
-Python          ████████████████ 17.0 (17.0%)
-Swift           ███ 2.8 (2.8%)
+Go              ██████████████████████████████ 32.4 (32.4%)
+JavaScript      ███████████████████████ 24.8 (24.8%)
+Java            ███████████████████ 20.0 (20.0%)
+Python          ████████████████ 17.1 (17.1%)
+Swift           ██ 1.9 (1.9%)
 Rust            ██ 1.9 (1.9%)
 Kotlin          ██ 1.9 (1.9%)
 
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 26
     "Java" : 21
     "Python" : 18
-    "Swift" : 3
+    "Swift" : 2
     "Rust" : 2
     "Kotlin" : 2
 ```
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-12 19:00 CAT)
+## 📅 Latest Updates (2026-06-12 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,10 +203,10 @@ npm run test
 - [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4) _[Dev.to]_
 - [Your Vibe-Coded App Works. Is It Any Good?](https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co) _[Dev.to]_
 - [Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition](https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im) _[Dev.to]_
-- [WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.](https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc) _[Dev.to]_
 - [Celebrate June rituals with Solstice Bingo!](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [Why New Language Features Need to Target AI Agents, Not Developers](https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07) _[Dev.to]_
+- [WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.](https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc) _[Dev.to]_
 - [CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj) _[Dev.to]_
 - [Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts](https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na) _[Dev.to]_
 - [Aligning images to a baseline grid with modern CSS](https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [System Design - A Frontend Engineer's Deep Dive](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
 
-_Last automated update: Fri, 12 Jun 2026 19:14:14 CAT_
+_Last automated update: Fri, 12 Jun 2026 21:22:46 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Fri, 12 Jun 2026 19:14:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
+
+</details>
+
+### 2. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -235,25 +246,14 @@ Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
-
-<details>
-<summary>💡 Hint</summary>
-
-Function wrappers, @syntax, practical uses
-
-</details>
-
-### 3. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Mutability, performance, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 12 Jun 2026 17:14:14 GMT</b><br/>
+  <b>Last automated update: Fri, 12 Jun 2026 19:22:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
