@@ -16,21 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
-      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
-      "published_at": "2026-06-11T14:06:23Z",
-      "description": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "Your Vibe-Coded App Works. Is It Any Good?",
       "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
       "published_at": "2026-06-11T19:00:35Z",
@@ -58,6 +43,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
+      "published_at": "2026-06-11T14:06:23Z",
+      "description": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
+      "title": "Building Knowledge Graphs with Gemini",
+      "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
+      "published_at": "2026-06-12T17:37:01Z",
+      "description": "✨ Overview   In this exploration, we'll see how to turn raw, unstructured documents into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "knowledgegraph",
+        "dataextraction"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif",
+      "source": "Dev.to",
+      "user": "Laurent Picard"
     },
     {
       "title": "Why New Language Features Need to Target AI Agents, Not Developers",
@@ -105,6 +120,21 @@
       "user": "Simon Coudeville"
     },
     {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
       "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
       "published_at": "2026-06-12T02:23:18Z",
@@ -128,21 +158,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg",
       "source": "Dev.to",
       "user": "Samir Yahyazade"
-    },
-    {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -453,19 +468,6 @@
       "user": "Karl L. Hughes"
     },
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -610,21 +612,6 @@
       "user": "indigodaddy"
     },
     {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 825,
-      "user": "JimLiu"
-    },
-    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -636,8 +623,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 836,
       "user": "DietrichGebert"
+    },
+    {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 827,
+      "user": "JimLiu"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -651,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "XBuilderLAB"
     },
     {
@@ -711,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 410,
       "user": "Parcle-AI"
     },
     {
@@ -756,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219730980?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 36,
       "user": "duckbugio"
     }
   ],
@@ -897,19 +899,6 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1030,21 +1019,6 @@
       "user": "velmu"
     },
     {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 825,
-      "user": "JimLiu"
-    },
-    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -1056,8 +1030,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 836,
       "user": "DietrichGebert"
+    },
+    {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 827,
+      "user": "JimLiu"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -1071,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "XBuilderLAB"
     },
     {
@@ -1086,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "BuilderIO"
     },
     {
@@ -1313,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1358,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 410,
       "user": "Parcle-AI"
     }
   ],
@@ -1499,6 +1488,21 @@
       "user": "Simon Coudeville"
     },
     {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
       "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
       "published_at": "2026-06-11T21:13:40Z",
@@ -1527,21 +1531,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
       "source": "Dev.to",
       "user": "Harsha Attray"
-    },
-    {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1582,7 +1571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 827,
       "user": "JimLiu"
     }
   ],
@@ -2066,21 +2055,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 825,
-      "user": "JimLiu"
-    },
-    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -2092,8 +2066,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 836,
       "user": "DietrichGebert"
+    },
+    {
+      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "published_at": "2026-06-07T01:16:18Z",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
+      "source": "GitHub",
+      "stars": 827,
+      "user": "JimLiu"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -2107,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "XBuilderLAB"
     },
     {
@@ -2122,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "BuilderIO"
     },
     {
@@ -2167,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2212,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 410,
       "user": "Parcle-AI"
     },
     {
@@ -2257,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219730980?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 36,
       "user": "duckbugio"
     },
     {
@@ -2287,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 29,
+      "stars": 30,
       "user": "glockinhand"
     }
   ]
