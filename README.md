@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-11-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-12-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
-
 **Mobile**: 🟦 4 (3.8%)
+
+**Security**: 🟦 4 (3.8%)
 
 **Database**:  1 (1.0%)
 
@@ -60,21 +60,21 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 36.2 (36.2%)
-JavaScript      ██████████████████ 22.3 (22.3%)
-Java            ████████████████ 19.1 (19.1%)
-Python          ███████████████ 18.1 (18.1%)
+Go              ██████████████████████████████ 35.1 (35.1%)
+JavaScript      ████████████████████ 23.7 (23.7%)
+Java            █████████████████ 19.6 (19.6%)
+Python          ███████████████ 17.5 (17.5%)
 Swift           ██ 2.1 (2.1%)
-Kotlin          █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+Kotlin          █ 1.0 (1.0%)
+CSharp          █ 1.0 (1.0%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 34
-    "JavaScript" : 21
-    "Java" : 18
+    "JavaScript" : 23
+    "Java" : 19
     "Python" : 17
     "Swift" : 2
     "Kotlin" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gamedev](https://img.shields.io/badge/gamedev-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gamedev](https://img.shields.io/badge/gamedev-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-12 1:00 CAT)
+## 📅 Latest Updates (2026-06-12 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvr5f501mx06fgj0jqsde.png" width="200" alt="I'm so tired to code. Not even Vibe Coding... D:" />
+    <a href="https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frora6hlqa51eapfni58m.png" width="200" alt="System Design - A Frontend Engineer's Deep Dive" />
       <br/>
-      <b>I'm so tired to code. Not even Vibe Coding... D:</b>
+      <b>System Design - A Frontend Engineer's Deep Dive</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frora6hlqa51eapfni58m.png" width="200" alt="System Design - A Frontend Engineer's Deep Dive" />
+    <a href="https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvwctfuvjomnaftukqva8.png" width="200" alt="Why New Language Features Need to Target AI Agents, Not Developers" />
       <br/>
-      <b>System Design - A Frontend Engineer's Deep Dive</b>
+      <b>Why New Language Features Need to Target AI Agents...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,7 +199,6 @@ npm run test
 - [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8) _[Dev.to]_
 - [Your Vibe-Coded App Works. Is It Any Good?](https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co) _[Dev.to]_
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
-- [I'm so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p) _[Dev.to]_
 - [System Design - A Frontend Engineer's Deep Dive](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5) _[Dev.to]_
 - [Why New Language Features Need to Target AI Agents, Not Developers](https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg) _[Dev.to]_
 - [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
+- [Flutter Midsommer Madnesss](https://dev.to/gde/flutter-midsommer-madnesss-kkb) _[Dev.to]_
 
-_Last automated update: Fri, 12 Jun 2026 01:18:46 CAT_
+_Last automated update: Fri, 12 Jun 2026 03:43:57 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 12 Jun 2026 01:18:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 11 Jun 2026 23:18:46 GMT</b><br/>
+  <b>Last automated update: Fri, 12 Jun 2026 01:43:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
