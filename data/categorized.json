@@ -30,21 +30,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
-      "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
-      "published_at": "2026-06-12T02:42:21Z",
-      "description": "Resolving Friction   Last year when the very cool Google Antigravity (Agy) was first...",
-      "tags": [
-        "wsl",
-        "agenticai",
-        "browseragent",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
       "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
       "published_at": "2026-06-11T14:06:23Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif",
       "source": "Dev.to",
       "user": "Laurent Picard"
+    },
+    {
+      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
+      "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
+      "published_at": "2026-06-12T02:42:21Z",
+      "description": "Resolving Friction   Last year when the very cool Google Antigravity (Agy) was first...",
+      "tags": [
+        "wsl",
+        "agenticai",
+        "browseragent",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
@@ -291,21 +291,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -468,6 +453,19 @@
       "user": "Karl L. Hughes"
     },
     {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -623,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 989,
       "user": "DietrichGebert"
     },
     {
@@ -638,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 833,
       "user": "JimLiu"
     },
     {
@@ -653,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 280,
       "user": "XBuilderLAB"
     },
     {
@@ -668,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 220,
       "user": "alchaincyf"
     },
     {
@@ -683,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 849,
       "user": "GordenSun"
     },
     {
@@ -698,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "xiaohuailabs"
     },
     {
@@ -713,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 436,
       "user": "khrisat"
     },
     {
@@ -854,6 +852,21 @@
       "user": "Ayoola Solomon"
     },
     {
+      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
+      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck",
+      "published_at": "2026-06-10T08:41:06Z",
+      "description": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
+      "tags": [
+        "devchallenge",
+        "gamechallenge",
+        "gamedev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fauwuuxq0skek2rjtn9ao.gif",
+      "source": "Dev.to",
+      "user": "ujja"
+    },
+    {
       "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
       "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
       "published_at": "2026-06-10T07:04:58Z",
@@ -897,6 +910,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27ufuuw85mpxo30mvgao.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1030,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 989,
       "user": "DietrichGebert"
     },
     {
@@ -1045,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 833,
       "user": "JimLiu"
     },
     {
@@ -1060,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 280,
       "user": "XBuilderLAB"
     },
     {
@@ -1075,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 268,
       "user": "BuilderIO"
     },
     {
@@ -1090,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 220,
       "user": "alchaincyf"
     },
     {
@@ -1287,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 849,
       "user": "GordenSun"
     },
     {
@@ -1302,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 556,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1317,23 +1343,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "xiaohuailabs"
-    },
-    {
-      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
-      "published_at": "2026-06-07T15:45:23Z",
-      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "jwangkun"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -1347,8 +1358,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 436,
       "user": "khrisat"
+    },
+    {
+      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "published_at": "2026-06-07T15:45:23Z",
+      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
+      "source": "GitHub",
+      "stars": 428,
+      "user": "jwangkun"
     }
   ],
   "DevOps": [
@@ -1571,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 833,
       "user": "JimLiu"
     }
   ],
@@ -1770,21 +1796,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
       "title": "No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4",
       "url": "https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8",
       "published_at": "2026-06-10T02:39:08Z",
@@ -1841,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19590243?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 33,
       "user": "FanhuaCloud"
     }
   ],
@@ -1904,21 +1915,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
       "source": "Dev.to",
       "user": "Tonal Mathew"
-    },
-    {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
     },
     {
       "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
@@ -1995,21 +1991,6 @@
       "user": "shrey "
     },
     {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
       "title": "Show your team colors on GitHub | Slack | etc. for the World Cup ⚽️ 🏆",
       "url": "https://dev.to/leereilly/show-your-team-colors-on-github-slack-etc-for-the-world-cup-4a63",
       "published_at": "2026-06-11T06:03:58Z",
@@ -2066,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 989,
       "user": "DietrichGebert"
     },
     {
@@ -2081,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 833,
       "user": "JimLiu"
     },
     {
@@ -2096,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 280,
       "user": "XBuilderLAB"
     },
     {
@@ -2111,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 268,
       "user": "BuilderIO"
     },
     {
@@ -2126,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 220,
       "user": "alchaincyf"
     },
     {
@@ -2141,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 849,
       "user": "GordenSun"
     },
     {
@@ -2156,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 556,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2171,23 +2152,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "xiaohuailabs"
-    },
-    {
-      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
-      "published_at": "2026-06-07T15:45:23Z",
-      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "jwangkun"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -2201,8 +2167,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 436,
       "user": "khrisat"
+    },
+    {
+      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "published_at": "2026-06-07T15:45:23Z",
+      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
+      "source": "GitHub",
+      "stars": 428,
+      "user": "jwangkun"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2261,7 +2242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19590243?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 33,
       "user": "FanhuaCloud"
     },
     {
@@ -2276,7 +2257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 31,
+      "stars": 32,
       "user": "glockinhand"
     }
   ]
