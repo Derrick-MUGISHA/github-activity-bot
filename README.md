@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
 **WebDev**: 🟦🟦🟦 9 (8.6%)
 
@@ -44,7 +44,7 @@
 
 **Mobile**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦 4 (3.8%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.7 (32.7%)
-JavaScript      ██████████████████████ 24.0 (24.0%)
-Java            ███████████████████ 20.2 (20.2%)
-Python          ████████████████ 17.3 (17.3%)
+Go              ██████████████████████████████ 31.1 (31.1%)
+JavaScript      █████████████████████████ 25.5 (25.5%)
+Java            ████████████████████ 20.8 (20.8%)
+Python          ████████████████ 17.0 (17.0%)
 Swift           ██ 1.9 (1.9%)
 Rust            ██ 1.9 (1.9%)
 Kotlin          ██ 1.9 (1.9%)
@@ -72,9 +72,9 @@ Kotlin          ██ 1.9 (1.9%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 34
-    "JavaScript" : 25
-    "Java" : 21
+    "Go" : 33
+    "JavaScript" : 27
+    "Java" : 22
     "Python" : 18
     "Swift" : 2
     "Rust" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![gamedev](https://img.shields.io/badge/gamedev-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gamechallenge](https://img.shields.io/badge/gamechallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![gamedev](https://img.shields.io/badge/gamedev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gamechallenge](https://img.shields.io/badge/gamechallenge-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-13 2:00 CAT)
+## 📅 Latest Updates (2026-06-13 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,12 +201,12 @@ npm run test
 - [Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) _[Dev.to]_
 - [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4) _[Dev.to]_
 - [Your Vibe-Coded App Works. Is It Any Good?](https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co) _[Dev.to]_
-- [Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition](https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im) _[Dev.to]_
 - [Celebrate June rituals with Solstice Bingo!](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) _[Dev.to]_
 - [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8) _[Dev.to]_
 - [Building Knowledge Graphs with Gemini](https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.](https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc) _[Dev.to]_
+- [Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition](https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im) _[Dev.to]_
 - [CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj) _[Dev.to]_
 - [Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts](https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na) _[Dev.to]_
 - [Aligning images to a baseline grid with modern CSS](https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [System Design - A Frontend Engineer's Deep Dive](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5) _[Dev.to]_
 
-_Last automated update: Sat, 13 Jun 2026 02:17:32 CAT_
+_Last automated update: Sat, 13 Jun 2026 06:58:56 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 13 Jun 2026 02:17:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Iterative or recursive, three pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 13 Jun 2026 00:17:32 GMT</b><br/>
+  <b>Last automated update: Sat, 13 Jun 2026 04:58:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
