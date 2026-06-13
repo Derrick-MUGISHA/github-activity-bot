@@ -160,21 +160,6 @@
       "user": "ankush chadha"
     },
     {
-      "title": "[Hands-on Gemini 3.5 Live",
-      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
-      "published_at": "2026-06-12T06:09:59Z",
-      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
       "published_at": "2026-06-12T06:09:40Z",
@@ -186,6 +171,21 @@
         "softwaredevelopment"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
+      "published_at": "2026-06-12T06:09:59Z",
+      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -623,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 916,
       "user": "DietrichGebert"
     },
     {
@@ -657,19 +657,19 @@
       "user": "XBuilderLAB"
     },
     {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "published_at": "2026-06-10T01:01:42Z",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 209,
-      "user": "adamallcock"
+      "stars": 204,
+      "user": "alchaincyf"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -683,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "GordenSun"
     },
     {
@@ -698,23 +698,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "xiaohuailabs"
     },
     {
-      "title": "Parcle-AI/parcle-memory - GitHub Repository",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "published_at": "2026-06-06T02:15:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "published_at": "2026-06-09T18:11:45Z",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 410,
-      "user": "Parcle-AI"
+      "stars": 411,
+      "user": "khrisat"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 37,
+      "stars": 38,
       "user": "saiyam1814"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 916,
       "user": "DietrichGebert"
     },
     {
@@ -1075,23 +1075,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "BuilderIO"
     },
     {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "published_at": "2026-06-10T01:01:42Z",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 209,
-      "user": "adamallcock"
+      "stars": 204,
+      "user": "alchaincyf"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -1105,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 37,
+      "stars": 38,
       "user": "saiyam1814"
     }
   ],
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "GordenSun"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "xiaohuailabs"
     },
     {
@@ -1336,19 +1336,19 @@
       "user": "jwangkun"
     },
     {
-      "title": "Parcle-AI/parcle-memory - GitHub Repository",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "published_at": "2026-06-06T02:15:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "published_at": "2026-06-09T18:11:45Z",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 410,
-      "user": "Parcle-AI"
+      "stars": 411,
+      "user": "khrisat"
     }
   ],
   "DevOps": [
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 37,
+      "stars": 38,
       "user": "saiyam1814"
     }
   ],
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 916,
       "user": "DietrichGebert"
     },
     {
@@ -2111,23 +2111,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "BuilderIO"
     },
     {
-      "title": "adamallcock/codex-chatgpt-control - Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "published_at": "2026-06-06T21:09:56Z",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "published_at": "2026-06-10T01:01:42Z",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92055994?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 209,
-      "user": "adamallcock"
+      "stars": 204,
+      "user": "alchaincyf"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2141,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "GordenSun"
     },
     {
@@ -2171,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "xiaohuailabs"
     },
     {
@@ -2190,19 +2190,19 @@
       "user": "jwangkun"
     },
     {
-      "title": "Parcle-AI/parcle-memory - GitHub Repository",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "published_at": "2026-06-06T02:15:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "published_at": "2026-06-09T18:11:45Z",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290871470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 410,
-      "user": "Parcle-AI"
+      "stars": 411,
+      "user": "khrisat"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2231,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 37,
+      "stars": 38,
       "user": "saiyam1814"
     },
     {
@@ -2276,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 30,
+      "stars": 31,
       "user": "glockinhand"
     }
   ]

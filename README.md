@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-12-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-13-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-13 0:00 CAT)
+## 📅 Latest Updates (2026-06-13 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [System Design - A Frontend Engineer's Deep Dive](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5) _[Dev.to]_
 
-_Last automated update: Sat, 13 Jun 2026 00:47:17 CAT_
+_Last automated update: Sat, 13 Jun 2026 02:17:32 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Sat, 13 Jun 2026 00:47:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 2. React: Implement a custom hook for fetching data
-
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 3. SystemDesign: How would you design a rate limiter?
+### 1. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -254,6 +232,28 @@ useState, useEffect, loading states, error handling
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
+
+</details>
+
+### 2. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 12 Jun 2026 22:47:17 GMT</b><br/>
+  <b>Last automated update: Sat, 13 Jun 2026 00:17:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
