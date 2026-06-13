@@ -1,16 +1,16 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
     "AI": 54,
-    "JavaScript": 27,
+    "JavaScript": 26,
     "Python": 18,
     "DevOps": 6,
-    "WebDev": 9,
+    "WebDev": 8,
     "Mobile": 5,
     "Cloud": 12,
     "Database": 2,
@@ -20,14 +20,14 @@
   "by_language": {
     "Go": 33,
     "Swift": 2,
-    "JavaScript": 27,
+    "JavaScript": 26,
     "Python": 18,
-    "Java": 22,
+    "Java": 21,
     "Rust": 2,
     "Kotlin": 2
   },
   "by_date": {
-    "2026-06-11": 16,
+    "2026-06-11": 15,
     "2026-06-12": 13,
     "2026-06-10": 14,
     "2026-06-08": 10,
@@ -76,11 +76,11 @@
     "ai": 20,
     "github": 16,
     "open-source": 15,
-    "webdev": 12,
-    "javascript": 10,
+    "webdev": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "javascript": 9,
     "python": 8,
     "devchallenge": 7,
     "discuss": 6,
@@ -96,11 +96,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "31.1",
+    "Go": "31.7",
     "Swift": "1.9",
-    "JavaScript": "25.5",
-    "Python": "17.0",
-    "Java": "20.8",
+    "JavaScript": "25.0",
+    "Python": "17.3",
+    "Java": "20.2",
     "Rust": "1.9",
     "Kotlin": "1.9"
   }
