@@ -76,21 +76,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
-      "tags": [
-        "css",
-        "webdev",
-        "frontend",
-        "typography"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
-      "source": "Dev.to",
-      "user": "Simon Coudeville"
-    },
-    {
       "title": "Building Knowledge Graphs with Gemini",
       "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
       "published_at": "2026-06-12T17:37:01Z",
@@ -234,21 +219,6 @@
       "user": "Romin Irani"
     },
     {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -306,19 +276,19 @@
       "user": "Jean-Phi Baconnais"
     },
     {
-      "title": "No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4",
-      "url": "https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8",
-      "published_at": "2026-06-10T02:39:08Z",
-      "description": "With Google’s Gemma 4 12B, you can host a highly intelligent assistant that natively understands text...",
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
       "tags": [
-        "tutorial",
-        "ai",
-        "opensource",
-        "gemma"
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqsxcyhz5uf2s8d92x0ew.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
       "source": "Dev.to",
-      "user": "leslysandra"
+      "user": "Simon Coudeville"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -464,6 +434,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -621,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1106,
       "user": "DietrichGebert"
     },
     {
@@ -636,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 851,
       "user": "JimLiu"
     },
     {
@@ -651,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 331,
       "user": "alchaincyf"
     },
     {
@@ -666,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "XBuilderLAB"
     },
     {
@@ -681,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 871,
       "user": "GordenSun"
     },
     {
@@ -696,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "xiaohuailabs"
     },
     {
@@ -726,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "Sliverkiss"
     },
     {
@@ -762,21 +747,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Why I still teach Singleton even though modules make it redundant",
-      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
-      "published_at": "2026-06-12T12:31:21Z",
-      "description": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "python",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
-      "source": "Dev.to",
-      "user": "Dmitry Sheiko"
-    },
-    {
       "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
       "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
       "published_at": "2026-06-12T03:36:28Z",
@@ -792,19 +762,19 @@
       "user": "jsmanifest"
     },
     {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "title": "Why I still teach Singleton even though modules make it redundant",
+      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
+      "published_at": "2026-06-12T12:31:21Z",
+      "description": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
       "tags": [
-        "css",
         "webdev",
-        "frontend",
-        "typography"
+        "javascript",
+        "python",
+        "rust"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
-      "user": "Simon Coudeville"
+      "user": "Dmitry Sheiko"
     },
     {
       "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
@@ -822,6 +792,21 @@
       "user": "Tonal Mathew"
     },
     {
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "source": "Dev.to",
+      "user": "Simon Coudeville"
+    },
+    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
       "published_at": "2026-06-02T20:02:27Z",
@@ -835,6 +820,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
+    },
+    {
+      "title": "Frontend System Design: Designing a Collaborative Whiteboard",
+      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
+      "published_at": "2026-06-11T17:38:12Z",
+      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
+      "tags": [
+        "systemdesign",
+        "webdev",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
+      "source": "Dev.to",
+      "user": "Harsha Attray"
     },
     {
       "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
@@ -1041,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1106,
       "user": "DietrichGebert"
     },
     {
@@ -1056,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 851,
       "user": "JimLiu"
     },
     {
@@ -1071,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 331,
       "user": "alchaincyf"
     },
     {
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "XBuilderLAB"
     },
     {
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 280,
       "user": "BuilderIO"
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 871,
       "user": "GordenSun"
     },
     {
@@ -1313,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 566,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "xiaohuailabs"
     },
     {
@@ -1358,26 +1358,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "jwangkun"
     }
   ],
   "DevOps": [
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Gubernator visual schema.",
       "url": "https://dev.to/gde/gubernator-visual-schema-1dfc",
@@ -1499,6 +1484,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
+      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
+      "published_at": "2026-06-11T21:13:40Z",
+      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
+      "tags": [
+        "nextjs",
+        "react",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
+      "source": "Dev.to",
+      "user": "Tonal Mathew"
+    },
+    {
       "title": "Aligning images to a baseline grid with modern CSS",
       "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
       "published_at": "2026-06-11T20:11:12Z",
@@ -1514,19 +1514,19 @@
       "user": "Simon Coudeville"
     },
     {
-      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
-      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
-      "published_at": "2026-06-11T21:13:40Z",
-      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
+      "title": "Frontend System Design: Designing a Collaborative Whiteboard",
+      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
+      "published_at": "2026-06-11T17:38:12Z",
+      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
       "tags": [
-        "nextjs",
-        "react",
-        "security",
-        "webdev"
+        "systemdesign",
+        "webdev",
+        "frontend",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
       "source": "Dev.to",
-      "user": "Tonal Mathew"
+      "user": "Harsha Attray"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1567,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 851,
       "user": "JimLiu"
     }
   ],
@@ -1751,36 +1751,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4",
-      "url": "https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8",
-      "published_at": "2026-06-10T02:39:08Z",
-      "description": "With Google’s Gemma 4 12B, you can host a highly intelligent assistant that natively understands text...",
-      "tags": [
-        "tutorial",
-        "ai",
-        "opensource",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqsxcyhz5uf2s8d92x0ew.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1809,6 +1779,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "FanhuaCloud/go-sso - GitHub Repository",
@@ -1900,6 +1885,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2006,6 +2006,21 @@
       "user": "Cristhian Ferreira "
     },
     {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1106,
       "user": "DietrichGebert"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 851,
       "user": "JimLiu"
     },
     {
@@ -2047,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 331,
       "user": "alchaincyf"
     },
     {
@@ -2062,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "XBuilderLAB"
     },
     {
@@ -2077,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 280,
       "user": "BuilderIO"
     },
     {
@@ -2092,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 871,
       "user": "GordenSun"
     },
     {
@@ -2107,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 566,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2122,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "xiaohuailabs"
     },
     {
@@ -2152,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "jwangkun"
     },
     {
@@ -2167,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "Sliverkiss"
     },
     {
@@ -2186,6 +2201,21 @@
       "user": "saiyam1814"
     },
     {
+      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "url": "https://github.com/glockinhand/guns.lol-view-bot",
+      "published_at": "2026-06-10T14:39:07Z",
+      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "glockinhand"
+    },
+    {
       "title": "duckbugio/flock - Autonomous AI dev-team bot",
       "url": "https://github.com/duckbugio/flock",
       "published_at": "2026-06-08T15:48:15Z",
@@ -2199,21 +2229,6 @@
       "source": "GitHub",
       "stars": 36,
       "user": "duckbugio"
-    },
-    {
-      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "url": "https://github.com/glockinhand/guns.lol-view-bot",
-      "published_at": "2026-06-10T14:39:07Z",
-      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
-      "source": "GitHub",
-      "stars": 34,
-      "user": "glockinhand"
     },
     {
       "title": "FanhuaCloud/go-sso - GitHub Repository",
