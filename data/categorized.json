@@ -16,21 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
-      "published_at": "2026-06-12T03:36:28Z",
-      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
-      "tags": [
-        "typescript",
-        "ai",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
-      "source": "Dev.to",
-      "user": "jsmanifest"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -621,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1339,
       "user": "DietrichGebert"
     },
     {
@@ -636,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 890,
       "user": "JimLiu"
     },
     {
@@ -651,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 407,
       "user": "alchaincyf"
     },
     {
@@ -666,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "XBuilderLAB"
     },
     {
@@ -696,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 547,
       "user": "khrisat"
     },
     {
@@ -713,6 +698,21 @@
       "source": "GitHub",
       "stars": 491,
       "user": "xiaohuailabs"
+    },
+    {
+      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "published_at": "2026-06-11T15:10:51Z",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "joeseesun"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -761,21 +761,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
-      "published_at": "2026-06-12T03:36:28Z",
-      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
-      "tags": [
-        "typescript",
-        "ai",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
-      "source": "Dev.to",
-      "user": "jsmanifest"
-    },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
@@ -1056,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1339,
       "user": "DietrichGebert"
     },
     {
@@ -1071,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 890,
       "user": "JimLiu"
     },
     {
@@ -1086,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 407,
       "user": "alchaincyf"
     },
     {
@@ -1101,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "XBuilderLAB"
     },
     {
@@ -1116,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 288,
       "user": "BuilderIO"
     },
     {
@@ -1343,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 547,
       "user": "khrisat"
     },
     {
@@ -1362,19 +1347,19 @@
       "user": "xiaohuailabs"
     },
     {
-      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
-      "published_at": "2026-06-07T15:45:23Z",
-      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "published_at": "2026-06-11T15:10:51Z",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 442,
-      "user": "jwangkun"
+      "stars": 444,
+      "user": "joeseesun"
     }
   ],
   "DevOps": [
@@ -1597,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 890,
       "user": "JimLiu"
     }
   ],
@@ -1940,26 +1925,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 51,
       "user": "kernelstub"
     }
   ],
   "Tools": [
-    {
-      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
-      "published_at": "2026-06-12T03:36:28Z",
-      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
-      "tags": [
-        "typescript",
-        "ai",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
-      "source": "Dev.to",
-      "user": "jsmanifest"
-    },
     {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
@@ -2062,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1339,
       "user": "DietrichGebert"
     },
     {
@@ -2077,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 890,
       "user": "JimLiu"
     },
     {
@@ -2092,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 407,
       "user": "alchaincyf"
     },
     {
@@ -2107,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "XBuilderLAB"
     },
     {
@@ -2122,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 288,
       "user": "BuilderIO"
     },
     {
@@ -2167,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 547,
       "user": "khrisat"
     },
     {
@@ -2186,19 +2156,19 @@
       "user": "xiaohuailabs"
     },
     {
-      "title": "jwangkun/claude-for-financial-services-cn -  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
-      "published_at": "2026-06-07T15:45:23Z",
-      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "published_at": "2026-06-11T15:10:51Z",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 442,
-      "user": "jwangkun"
+      "stars": 444,
+      "user": "joeseesun"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2216,6 +2186,21 @@
       "user": "Sliverkiss"
     },
     {
+      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "url": "https://github.com/kernelstub/Ferrum",
+      "published_at": "2026-06-13T13:44:35Z",
+      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "kernelstub"
+    },
+    {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "url": "https://github.com/saiyam1814/kiac",
       "published_at": "2026-06-10T18:10:36Z",
@@ -2229,21 +2214,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "saiyam1814"
-    },
-    {
-      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "url": "https://github.com/kernelstub/Ferrum",
-      "published_at": "2026-06-13T13:44:35Z",
-      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 40,
-      "user": "kernelstub"
     },
     {
       "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",

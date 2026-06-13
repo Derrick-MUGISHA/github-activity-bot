@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-13-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.6%)
 
-**WebDev**: 🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦 9 (8.7%)
 
-**DevOps**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 6 (5.8%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 6 (5.8%)
 
 **Mobile**: 🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.4 (31.4%)
-JavaScript      █████████████████████████ 25.7 (25.7%)
-Java            ████████████████████ 21.0 (21.0%)
-Python          ████████████████ 17.1 (17.1%)
+Go              ██████████████████████████████ 32.7 (32.7%)
+JavaScript      ███████████████████████ 25.0 (25.0%)
+Java            ███████████████████ 20.2 (20.2%)
+Python          ████████████████ 17.3 (17.3%)
 Swift           ██ 1.9 (1.9%)
 Rust            ██ 1.9 (1.9%)
 Kotlin          █ 1.0 (1.0%)
@@ -72,9 +72,9 @@ Kotlin          █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 33
-    "JavaScript" : 27
-    "Java" : 22
+    "Go" : 34
+    "JavaScript" : 26
+    "Java" : 21
     "Python" : 18
     "Swift" : 2
     "Rust" : 2
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-12-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![gamedev](https://img.shields.io/badge/gamedev-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gamechallenge](https://img.shields.io/badge/gamechallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![gamedev](https://img.shields.io/badge/gamedev-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gamechallenge](https://img.shields.io/badge/gamechallenge-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-13 20:00 CAT)
+## 📅 Latest Updates (2026-06-13 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png" width="200" alt="Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts" />
+    <a href="https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png" width="200" alt="CSS – only a Nerdy Hobby?" />
       <br/>
-      <b>Parallel AI Coding with Git Worktrees: Run Multipl...</b>
+      <b>CSS – only a Nerdy Hobby?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,7 +200,6 @@ npm run test
 - [Virtual Coffee Needs Your Help](https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih) _[Dev.to]_
 - [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4) _[Dev.to]_
 - [Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) _[Dev.to]_
-- [Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts](https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na) _[Dev.to]_
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
 - [Building Knowledge Graphs with Gemini](https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2) _[Dev.to]_
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
+- [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Sat, 13 Jun 2026 20:58:25 CAT_
+_Last automated update: Sat, 13 Jun 2026 22:19:14 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Sat, 13 Jun 2026 20:58:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
-
-<details>
-<summary>💡 Hint</summary>
-
-Call stack, callback queue, microtask queue
-
-</details>
-
-### 3. React: What is the Virtual DOM and how does React use it?
+### 1. React: What is the Virtual DOM and how does React use it?
 
 **Difficulty**: Easy | **Topics**: rendering, performance
 
@@ -254,6 +232,28 @@ Call stack, callback queue, microtask queue
 <summary>💡 Hint</summary>
 
 Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+### 2. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
+
+</details>
+
+### 3. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 13 Jun 2026 18:58:25 GMT</b><br/>
+  <b>Last automated update: Sat, 13 Jun 2026 20:19:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
