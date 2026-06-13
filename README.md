@@ -36,13 +36,13 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **WebDev**: 🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 6 (5.7%)
 
 **Mobile**: 🟦 4 (3.8%)
 
@@ -125,22 +125,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-13 18:00 CAT)
+## 📅 Latest Updates (2026-06-13 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg" width="200" alt="Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship" />
-      <br/>
-      <b>Dev Opportunity Radar #3: Neo Scholars, a $2M AI C...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3zt7a35luwqwtv8lfsj.png" width="200" alt="Congrats to the Google I/O 2026 Writing Challenge Winners!" />
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcslacllcxnjb0e9qe6nr.png" width="200" alt="Virtual Coffee Needs Your Help" />
@@ -170,11 +159,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/ios-midsommer-madness-5h4">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32vmbwht9bm2ercy7zw6.png" width="200" alt="IOS Midsommer Madness" />
       <br/>
       <b>IOS Midsommer Madness</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg" width="200" alt="Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship" />
+      <br/>
+      <b>Dev Opportunity Radar #3: Neo Scholars, a $2M AI C...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,11 +195,11 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) _[Dev.to]_
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4k11) _[Dev.to]_
 - [Virtual Coffee Needs Your Help](https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih) _[Dev.to]_
 - [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4) _[Dev.to]_
+- [Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) _[Dev.to]_
 - [Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts](https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na) _[Dev.to]_
 - [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
 - [Building Knowledge Graphs with Gemini](https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2) _[Dev.to]_
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
 
-_Last automated update: Sat, 13 Jun 2026 18:04:18 CAT_
+_Last automated update: Sat, 13 Jun 2026 19:44:49 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 13 Jun 2026 18:04:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Execution timing, event loop phases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 13 Jun 2026 16:04:18 GMT</b><br/>
+  <b>Last automated update: Sat, 13 Jun 2026 17:44:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
