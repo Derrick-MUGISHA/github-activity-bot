@@ -16,20 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Your Vibe-Coded App Works. Is It Any Good?",
-      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
-      "published_at": "2026-06-11T19:00:35Z",
-      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "firstyearincode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
       "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
       "published_at": "2026-06-11T14:06:23Z",
@@ -90,21 +76,6 @@
       "user": "jsmanifest"
     },
     {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
-      "tags": [
-        "css",
-        "webdev",
-        "frontend",
-        "typography"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
-      "source": "Dev.to",
-      "user": "Simon Coudeville"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -118,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "source": "Dev.to",
+      "user": "Simon Coudeville"
     },
     {
       "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
@@ -143,6 +129,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg",
       "source": "Dev.to",
       "user": "Samir Yahyazade"
+    },
+    {
+      "title": "Your Vibe-Coded App Works. Is It Any Good?",
+      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
+      "published_at": "2026-06-11T19:00:35Z",
+      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "firstyearincode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 1047,
       "user": "DietrichGebert"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 844,
       "user": "JimLiu"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "XBuilderLAB"
     },
     {
@@ -666,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 258,
       "user": "alchaincyf"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 855,
       "user": "GordenSun"
     },
     {
@@ -696,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 487,
       "user": "xiaohuailabs"
     },
     {
@@ -711,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "khrisat"
     },
     {
@@ -726,7 +726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "Sliverkiss"
     },
     {
@@ -741,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "saiyam1814"
     },
     {
@@ -862,7 +862,7 @@
         "gamedev",
         "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fauwuuxq0skek2rjtn9ao.gif",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzglr8qqem7l036xdd9d.gif",
       "source": "Dev.to",
       "user": "ujja"
     },
@@ -1056,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 1047,
       "user": "DietrichGebert"
     },
     {
@@ -1071,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 844,
       "user": "JimLiu"
     },
     {
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "XBuilderLAB"
     },
     {
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 274,
       "user": "BuilderIO"
     },
     {
@@ -1116,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 258,
       "user": "alchaincyf"
     },
     {
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "saiyam1814"
     }
   ],
@@ -1313,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 855,
       "user": "GordenSun"
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 559,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 487,
       "user": "xiaohuailabs"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "khrisat"
     },
     {
@@ -1373,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 430,
       "user": "jwangkun"
     }
   ],
@@ -1463,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "saiyam1814"
     }
   ],
@@ -1499,21 +1499,6 @@
       "user": "a-dev"
     },
     {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
-      "tags": [
-        "css",
-        "webdev",
-        "frontend",
-        "typography"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
-      "source": "Dev.to",
-      "user": "Simon Coudeville"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -1527,6 +1512,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Aligning images to a baseline grid with modern CSS",
+      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
+      "published_at": "2026-06-11T20:11:12Z",
+      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "typography"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
+      "source": "Dev.to",
+      "user": "Simon Coudeville"
     },
     {
       "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
@@ -1597,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 844,
       "user": "JimLiu"
     }
   ],
@@ -1887,21 +1887,6 @@
   ],
   "Security": [
     {
-      "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
-      "url": "https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc",
-      "published_at": "2026-06-12T04:34:38Z",
-      "description": "I committed a new version of my plugin to SVN and got a message I hadn’t seen before: this version...",
-      "tags": [
-        "wordpress",
-        "security",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3bffmfdonj0e3y7gkriw.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
       "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
       "published_at": "2026-06-11T21:13:40Z",
@@ -1915,6 +1900,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
       "source": "Dev.to",
       "user": "Tonal Mathew"
+    },
+    {
+      "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
+      "url": "https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc",
+      "published_at": "2026-06-12T04:34:38Z",
+      "description": "I committed a new version of my plugin to SVN and got a message I hadn’t seen before: this version...",
+      "tags": [
+        "wordpress",
+        "security",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3bffmfdonj0e3y7gkriw.png",
+      "source": "Dev.to",
+      "user": "Rapls"
     },
     {
       "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 1047,
       "user": "DietrichGebert"
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 844,
       "user": "JimLiu"
     },
     {
@@ -2077,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "XBuilderLAB"
     },
     {
@@ -2092,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 274,
       "user": "BuilderIO"
     },
     {
@@ -2107,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 258,
       "user": "alchaincyf"
     },
     {
@@ -2122,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 855,
       "user": "GordenSun"
     },
     {
@@ -2137,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 559,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2152,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 487,
       "user": "xiaohuailabs"
     },
     {
@@ -2167,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "khrisat"
     },
     {
@@ -2182,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 430,
       "user": "jwangkun"
     },
     {
@@ -2197,7 +2197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "Sliverkiss"
     },
     {
@@ -2212,7 +2212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "saiyam1814"
     },
     {
@@ -2257,7 +2257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 33,
       "user": "glockinhand"
     }
   ]
