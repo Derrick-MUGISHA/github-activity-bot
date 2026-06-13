@@ -31,21 +31,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Building Knowledge Graphs with Gemini",
-      "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
-      "published_at": "2026-06-12T17:37:01Z",
-      "description": "✨ Overview   In this exploration, we'll see how to turn raw, unstructured documents into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "knowledgegraph",
-        "dataextraction"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif",
-      "source": "Dev.to",
-      "user": "Laurent Picard"
-    },
-    {
       "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
       "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
       "published_at": "2026-06-12T02:42:21Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
       "source": "Dev.to",
       "user": "Simon Coudeville"
+    },
+    {
+      "title": "Building Knowledge Graphs with Gemini",
+      "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
+      "published_at": "2026-06-12T17:37:01Z",
+      "description": "✨ Overview   In this exploration, we'll see how to turn raw, unstructured documents into...",
+      "tags": [
+        "ai",
+        "gemini",
+        "knowledgegraph",
+        "dataextraction"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif",
+      "source": "Dev.to",
+      "user": "Laurent Picard"
     },
     {
       "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1081,
       "user": "DietrichGebert"
     },
     {
@@ -636,23 +636,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 849,
       "user": "JimLiu"
-    },
-    {
-      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "url": "https://github.com/XBuilderLAB/cheat-on-money",
-      "published_at": "2026-06-08T13:30:36Z",
-      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "XBuilderLAB"
     },
     {
       "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
@@ -666,8 +651,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 296,
       "user": "alchaincyf"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "published_at": "2026-06-08T13:30:36Z",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "XBuilderLAB"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -681,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 863,
       "user": "GordenSun"
     },
     {
@@ -696,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "xiaohuailabs"
     },
     {
@@ -711,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "khrisat"
     },
     {
@@ -741,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "saiyam1814"
     },
     {
@@ -820,21 +820,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
       "source": "Dev.to",
       "user": "Tonal Mathew"
-    },
-    {
-      "title": "System Design - A Frontend Engineer's Deep Dive",
-      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
-      "published_at": "2026-06-11T17:38:12Z",
-      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
-      "tags": [
-        "systemdesign",
-        "webdev",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
-      "source": "Dev.to",
-      "user": "Harsha Attray"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -1056,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1081,
       "user": "DietrichGebert"
     },
     {
@@ -1071,8 +1056,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 849,
       "user": "JimLiu"
+    },
+    {
+      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "published_at": "2026-06-10T01:01:42Z",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "alchaincyf"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 289,
       "user": "XBuilderLAB"
     },
     {
@@ -1101,23 +1101,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "BuilderIO"
-    },
-    {
-      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "alchaincyf"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -1131,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "saiyam1814"
     }
   ],
@@ -1313,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 863,
       "user": "GordenSun"
     },
     {
@@ -1328,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 565,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1343,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "xiaohuailabs"
     },
     {
@@ -1358,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "khrisat"
     },
     {
@@ -1373,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "jwangkun"
     }
   ],
@@ -1463,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "saiyam1814"
     }
   ],
@@ -1544,21 +1529,6 @@
       "user": "Tonal Mathew"
     },
     {
-      "title": "System Design - A Frontend Engineer's Deep Dive",
-      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
-      "published_at": "2026-06-11T17:38:12Z",
-      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
-      "tags": [
-        "systemdesign",
-        "webdev",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
-      "source": "Dev.to",
-      "user": "Harsha Attray"
-    },
-    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1597,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 849,
       "user": "JimLiu"
     }
   ],
@@ -2047,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1081,
       "user": "DietrichGebert"
     },
     {
@@ -2062,8 +2032,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 849,
       "user": "JimLiu"
+    },
+    {
+      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "published_at": "2026-06-10T01:01:42Z",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "alchaincyf"
     },
     {
       "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
@@ -2077,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 289,
       "user": "XBuilderLAB"
     },
     {
@@ -2092,23 +2077,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "BuilderIO"
-    },
-    {
-      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "alchaincyf"
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -2122,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 863,
       "user": "GordenSun"
     },
     {
@@ -2137,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 565,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2152,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "xiaohuailabs"
     },
     {
@@ -2167,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "khrisat"
     },
     {
@@ -2182,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "jwangkun"
     },
     {
@@ -2212,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "saiyam1814"
     },
     {
@@ -2231,6 +2201,21 @@
       "user": "duckbugio"
     },
     {
+      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "url": "https://github.com/glockinhand/guns.lol-view-bot",
+      "published_at": "2026-06-10T14:39:07Z",
+      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
+      "source": "GitHub",
+      "stars": 34,
+      "user": "glockinhand"
+    },
+    {
       "title": "FanhuaCloud/go-sso - GitHub Repository",
       "url": "https://github.com/FanhuaCloud/go-sso",
       "published_at": "2026-06-08T13:06:34Z",
@@ -2244,21 +2229,6 @@
       "source": "GitHub",
       "stars": 33,
       "user": "FanhuaCloud"
-    },
-    {
-      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "url": "https://github.com/glockinhand/guns.lol-view-bot",
-      "published_at": "2026-06-10T14:39:07Z",
-      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "glockinhand"
     }
   ]
 }
