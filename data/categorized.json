@@ -16,36 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
-      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
-      "published_at": "2026-06-11T14:06:23Z",
-      "description": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
-      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
-      "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
-      "published_at": "2026-06-12T02:42:21Z",
-      "description": "Resolving Friction   Last year when the very cool Google Antigravity (Agy) was first...",
-      "tags": [
-        "wsl",
-        "agenticai",
-        "browseragent",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
       "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
       "published_at": "2026-06-12T03:36:28Z",
@@ -219,6 +189,21 @@
       "user": "Romin Irani"
     },
     {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
+      "published_at": "2026-06-04T18:19:03Z",
+      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -232,6 +217,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
       "source": "Dev.to",
       "user": "shrey "
+    },
+    {
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
+      "published_at": "2026-06-11T14:06:23Z",
+      "description": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
@@ -259,6 +259,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
+      "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
+      "published_at": "2026-06-12T02:42:21Z",
+      "description": "Resolving Friction   Last year when the very cool Google Antigravity (Agy) was first...",
+      "tags": [
+        "wsl",
+        "agenticai",
+        "browseragent",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
@@ -379,21 +394,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
-      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
-      "published_at": "2026-06-10T20:13:47Z",
-      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
-      "tags": [
-        "android",
-        "ai",
-        "firebase",
-        "buildwithai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
-      "source": "Dev.to",
-      "user": "Héctor Romero"
-    },
-    {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
       "published_at": "2026-06-03T21:02:16Z",
@@ -449,6 +449,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "It's Time We All Eat some more Cucumber!",
+      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
+      "published_at": "2026-06-08T09:22:09Z",
+      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
+      "tags": [
+        "ai",
+        "tdd",
+        "bdd",
+        "darkfactory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -606,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1152,
       "user": "DietrichGebert"
     },
     {
@@ -621,7 +636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 855,
       "user": "JimLiu"
     },
     {
@@ -636,7 +651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 367,
       "user": "alchaincyf"
     },
     {
@@ -651,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "XBuilderLAB"
     },
     {
@@ -666,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 876,
       "user": "GordenSun"
     },
     {
@@ -681,7 +696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "xiaohuailabs"
     },
     {
@@ -696,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 468,
       "user": "khrisat"
     },
     {
@@ -1041,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1152,
       "user": "DietrichGebert"
     },
     {
@@ -1056,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 855,
       "user": "JimLiu"
     },
     {
@@ -1071,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 367,
       "user": "alchaincyf"
     },
     {
@@ -1086,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "XBuilderLAB"
     },
     {
@@ -1101,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "BuilderIO"
     },
     {
@@ -1298,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 876,
       "user": "GordenSun"
     },
     {
@@ -1313,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 570,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1328,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "xiaohuailabs"
     },
     {
@@ -1343,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 468,
       "user": "khrisat"
     },
     {
@@ -1358,11 +1373,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 439,
       "user": "jwangkun"
     }
   ],
   "DevOps": [
+    {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
+      "published_at": "2026-06-04T18:19:03Z",
+      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Gubernator visual schema.",
       "url": "https://dev.to/gde/gubernator-visual-schema-1dfc",
@@ -1439,36 +1469,6 @@
   ],
   "WebDev": [
     {
-      "title": "Celebrate June rituals with Solstice Bingo!",
-      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
-      "published_at": "2026-06-11T11:25:14Z",
-      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it",
-      "url": "https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj",
-      "published_at": "2026-06-11T23:06:19Z",
-      "description": "I think you all know the overscroll rubber-banding effect: when you scroll past the end of a page, or...",
-      "tags": [
-        "css",
-        "webdev",
-        "design",
-        "ux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwddxeftce6j338vnmx8q.jpg",
-      "source": "Dev.to",
-      "user": "a-dev"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -1497,6 +1497,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
       "source": "Dev.to",
       "user": "Tonal Mathew"
+    },
+    {
+      "title": "Celebrate June rituals with Solstice Bingo!",
+      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
+      "published_at": "2026-06-11T11:25:14Z",
+      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
+      "tags": [
+        "devchallenge",
+        "gamechallenge",
+        "gamedev",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
+      "source": "Dev.to",
+      "user": "Klaudia Grzondziel"
+    },
+    {
+      "title": "CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it",
+      "url": "https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj",
+      "published_at": "2026-06-11T23:06:19Z",
+      "description": "I think you all know the overscroll rubber-banding effect: when you scroll past the end of a page, or...",
+      "tags": [
+        "css",
+        "webdev",
+        "design",
+        "ux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwddxeftce6j338vnmx8q.jpg",
+      "source": "Dev.to",
+      "user": "a-dev"
     },
     {
       "title": "Aligning images to a baseline grid with modern CSS",
@@ -1567,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 855,
       "user": "JimLiu"
     }
   ],
@@ -1628,21 +1658,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
       "source": "Dev.to",
       "user": "Amr Hesham"
-    },
-    {
-      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
-      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7",
-      "published_at": "2026-06-10T20:13:47Z",
-      "description": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
-      "tags": [
-        "android",
-        "ai",
-        "firebase",
-        "buildwithai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qme7ba5l2lcurne36y4.png",
-      "source": "Dev.to",
-      "user": "Héctor Romero"
     }
   ],
   "Cloud": [
@@ -1751,6 +1766,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
+      "published_at": "2026-06-04T18:19:03Z",
+      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1807,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19590243?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 32,
       "user": "FanhuaCloud"
     }
   ],
@@ -2032,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1152,
       "user": "DietrichGebert"
     },
     {
@@ -2047,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 855,
       "user": "JimLiu"
     },
     {
@@ -2062,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 367,
       "user": "alchaincyf"
     },
     {
@@ -2077,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "XBuilderLAB"
     },
     {
@@ -2092,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "BuilderIO"
     },
     {
@@ -2107,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 876,
       "user": "GordenSun"
     },
     {
@@ -2122,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 570,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2137,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "xiaohuailabs"
     },
     {
@@ -2152,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 468,
       "user": "khrisat"
     },
     {
@@ -2167,7 +2197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3615494?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 439,
       "user": "jwangkun"
     },
     {
@@ -2212,7 +2242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "glockinhand"
     },
     {
@@ -2242,7 +2272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19590243?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 32,
       "user": "FanhuaCloud"
     }
   ]
