@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-13-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-14-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (51.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
@@ -36,15 +36,15 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.6%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.5%)
 
-**WebDev**: 🟦🟦🟦 9 (8.7%)
+**WebDev**: 🟦🟦🟦 8 (7.7%)
 
 **DevOps**: 🟦🟦 6 (5.8%)
 
 **Security**: 🟦🟦 6 (5.8%)
 
-**Mobile**: 🟦 4 (3.8%)
+**Mobile**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.7 (32.7%)
-JavaScript      ███████████████████████ 25.0 (25.0%)
-Java            ███████████████████ 20.2 (20.2%)
-Python          ████████████████ 17.3 (17.3%)
+Go              ██████████████████████████████ 32.0 (32.0%)
+JavaScript      ████████████████████████ 25.2 (25.2%)
+Java            ███████████████████ 20.4 (20.4%)
+Python          ████████████████ 17.5 (17.5%)
 Swift           ██ 1.9 (1.9%)
 Rust            ██ 1.9 (1.9%)
 Kotlin          █ 1.0 (1.0%)
@@ -72,7 +72,7 @@ Kotlin          █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 34
+    "Go" : 33
     "JavaScript" : 26
     "Java" : 21
     "Python" : 18
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-14 0:00 CAT)
+## 📅 Latest Updates (2026-06-14 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
 - [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Sun, 14 Jun 2026 00:46:55 CAT_
+_Last automated update: Sun, 14 Jun 2026 02:02:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 14 Jun 2026 00:46:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 13 Jun 2026 22:46:55 GMT</b><br/>
+  <b>Last automated update: Sun, 14 Jun 2026 00:02:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
