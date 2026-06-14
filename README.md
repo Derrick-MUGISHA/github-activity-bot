@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.0 (32.0%)
-JavaScript      ███████████████████████ 24.3 (24.3%)
-Java            ███████████████████ 20.4 (20.4%)
-Python          ████████████████ 17.5 (17.5%)
+Go              ██████████████████████████████ 31.4 (31.4%)
+JavaScript      ████████████████████████ 24.8 (24.8%)
+Java            ████████████████████ 21.0 (21.0%)
+Python          ████████████████ 17.1 (17.1%)
 Rust            ██ 1.9 (1.9%)
 Swift           ██ 1.9 (1.9%)
 Kotlin          █ 1.0 (1.0%)
@@ -74,8 +74,8 @@ CSharp          █ 1.0 (1.0%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 33
-    "JavaScript" : 25
-    "Java" : 21
+    "JavaScript" : 26
+    "Java" : 22
     "Python" : 18
     "Rust" : 2
     "Swift" : 2
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-14 20:00 CAT)
+## 📅 Latest Updates (2026-06-14 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -173,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg" width="200" alt="The AI Addiction Nobody Is Talking About" />
+    <a href="https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcslacllcxnjb0e9qe6nr.png" width="200" alt="Virtual Coffee Needs Your Help" />
       <br/>
-      <b>The AI Addiction Nobody Is Talking About</b>
+      <b>Virtual Coffee Needs Your Help</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcslacllcxnjb0e9qe6nr.png" width="200" alt="Virtual Coffee Needs Your Help" />
+    <a href="https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg" width="200" alt="The AI Addiction Nobody Is Talking About" />
       <br/>
-      <b>Virtual Coffee Needs Your Help</b>
+      <b>The AI Addiction Nobody Is Talking About</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,8 +201,8 @@ npm run test
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4k11) _[Dev.to]_
 - [Building Knowledge Graphs with Gemini](https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
-- [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Virtual Coffee Needs Your Help](https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih) _[Dev.to]_
+- [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
 - [Connecting GCP Budget Alerts to AppSheet: A Step-by-Step Guide](https://dev.to/gde/connecting-gcp-budget-alerts-to-appsheet-a-step-by-step-guide-4pda) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
 - [Celebrate June rituals with Solstice Bingo!](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) _[Dev.to]_
 
-_Last automated update: Sun, 14 Jun 2026 20:09:29 CAT_
+_Last automated update: Sun, 14 Jun 2026 21:57:03 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 14 Jun 2026 20:09:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 14 Jun 2026 18:09:30 GMT</b><br/>
+  <b>Last automated update: Sun, 14 Jun 2026 19:57:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
