@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-14 18:00 CAT)
+## 📅 Latest Updates (2026-06-14 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
 - [Celebrate June rituals with Solstice Bingo!](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) _[Dev.to]_
 
-_Last automated update: Sun, 14 Jun 2026 18:53:56 CAT_
+_Last automated update: Sun, 14 Jun 2026 20:09:29 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 14 Jun 2026 18:53:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Execution timing, event loop phases
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 14 Jun 2026 16:53:56 GMT</b><br/>
+  <b>Last automated update: Sun, 14 Jun 2026 18:09:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
