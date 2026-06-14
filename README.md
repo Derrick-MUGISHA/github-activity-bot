@@ -38,9 +38,9 @@
 
 **Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**DevOps**: 🟦🟦🟦 7 (6.7%)
-
 **WebDev**: 🟦🟦🟦 7 (6.7%)
+
+**DevOps**: 🟦🟦 6 (5.7%)
 
 **Mobile**: 🟦 4 (3.8%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-15 0:00 CAT)
+## 📅 Latest Updates (2026-06-15 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
 - [Celebrate June rituals with Solstice Bingo!](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) _[Dev.to]_
 
-_Last automated update: Mon, 15 Jun 2026 00:35:25 CAT_
+_Last automated update: Mon, 15 Jun 2026 01:49:23 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 15 Jun 2026 00:35:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Execution timing, event loop phases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 14 Jun 2026 22:35:25 GMT</b><br/>
+  <b>Last automated update: Sun, 14 Jun 2026 23:49:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
