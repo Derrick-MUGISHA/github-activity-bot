@@ -56,20 +56,6 @@
       "user": "Samir Yahyazade"
     },
     {
-      "title": "Your Vibe-Coded App Works. Is It Any Good?",
-      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
-      "published_at": "2026-06-11T19:00:35Z",
-      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
-      "tags": [
-        "vibecoding",
-        "ai",
-        "firstyearincode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "I tried to make an AI agent answer more. It answered less.",
       "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a",
       "published_at": "2026-06-08T06:48:16Z",
@@ -85,21 +71,6 @@
       "user": "ankush chadha"
     },
     {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[Hands-on Gemini 3.5 Live",
       "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
       "published_at": "2026-06-12T06:09:59Z",
@@ -111,6 +82,21 @@
         "google"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -261,21 +247,6 @@
       "user": "Jean-Phi Baconnais"
     },
     {
-      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
-      "published_at": "2026-06-12T03:36:28Z",
-      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
-      "tags": [
-        "typescript",
-        "ai",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
-      "source": "Dev.to",
-      "user": "jsmanifest"
-    },
-    {
       "title": "Aligning images to a baseline grid with modern CSS",
       "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
       "published_at": "2026-06-11T20:11:12Z",
@@ -379,6 +350,20 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Your Vibe-Coded App Works. Is It Any Good?",
+      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
+      "published_at": "2026-06-11T19:00:35Z",
+      "description": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
+      "tags": [
+        "vibecoding",
+        "ai",
+        "firstyearincode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1pydiay0su04iuqhggh.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
       "published_at": "2026-06-03T21:02:16Z",
@@ -449,6 +434,33 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
       "source": "Dev.to",
       "user": "Sebastian Schürmann"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -606,7 +618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 2081,
       "user": "DietrichGebert"
     },
     {
@@ -621,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 482,
       "user": "alchaincyf"
     },
     {
@@ -636,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "XBuilderLAB"
     },
     {
@@ -651,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 722,
       "user": "omnigent-ai"
     },
     {
@@ -666,23 +678,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "khrisat"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "xiaohuailabs"
     },
     {
       "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
@@ -696,8 +693,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 501,
       "user": "joeseesun"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 495,
+      "user": "xiaohuailabs"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -726,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 46,
       "user": "saiyam1814"
     }
   ],
@@ -762,19 +774,19 @@
       "user": "Tonal Mathew"
     },
     {
-      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
-      "published_at": "2026-06-12T03:36:28Z",
-      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+      "published_at": "2026-06-10T07:04:58Z",
+      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
       "tags": [
-        "typescript",
-        "ai",
+        "nextjs",
+        "webdev",
         "javascript",
-        "webdev"
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
       "source": "Dev.to",
-      "user": "jsmanifest"
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Aligning images to a baseline grid with modern CSS",
@@ -790,21 +802,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
       "source": "Dev.to",
       "user": "Simon Coudeville"
-    },
-    {
-      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
-      "published_at": "2026-06-10T07:04:58Z",
-      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -835,21 +832,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
       "source": "Dev.to",
       "user": "Harsha Attray"
-    },
-    {
-      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
-      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck",
-      "published_at": "2026-06-10T08:41:06Z",
-      "description": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzglr8qqem7l036xdd9d.gif",
-      "source": "Dev.to",
-      "user": "ujja"
     },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
@@ -1026,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 2081,
       "user": "DietrichGebert"
     },
     {
@@ -1041,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 482,
       "user": "alchaincyf"
     },
     {
@@ -1056,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "XBuilderLAB"
     },
     {
@@ -1086,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 230,
       "user": "dimartarmizi"
     },
     {
@@ -1101,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 46,
       "user": "saiyam1814"
     }
   ],
@@ -1283,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 722,
       "user": "omnigent-ai"
     },
     {
@@ -1298,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1313,23 +1295,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "khrisat"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "xiaohuailabs"
     },
     {
       "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
@@ -1343,8 +1310,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 501,
       "user": "joeseesun"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "source": "GitHub",
+      "stars": 495,
+      "user": "xiaohuailabs"
     }
   ],
   "DevOps": [
@@ -1433,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 99,
       "user": "bjarneo"
     },
     {
@@ -1448,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 46,
       "user": "saiyam1814"
     }
   ],
@@ -1796,6 +1778,21 @@
       "user": "Omotayo Aina"
     },
     {
+      "title": "Azure Cloud Shell with Antigravity CLI",
+      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6",
+      "published_at": "2026-05-26T14:18:48Z",
+      "description": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
+      "tags": [
+        "cli",
+        "azurecloudshell",
+        "antigravitycli",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "dimartarmizi/OmniCloud - OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
       "url": "https://github.com/dimartarmizi/OmniCloud",
       "published_at": "2026-06-08T14:49:43Z",
@@ -1807,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 230,
       "user": "dimartarmizi"
     }
   ],
@@ -1910,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 88,
       "user": "kernelstub"
     }
   ],
@@ -1961,21 +1958,6 @@
       "user": "Lee Reilly"
     },
     {
-      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
-      "published_at": "2026-06-12T03:36:28Z",
-      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
-      "tags": [
-        "typescript",
-        "ai",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
-      "source": "Dev.to",
-      "user": "jsmanifest"
-    },
-    {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
       "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
       "published_at": "2026-06-06T01:41:40Z",
@@ -2021,6 +2003,33 @@
       "user": "Omotayo Aina"
     },
     {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -2032,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 2081,
       "user": "DietrichGebert"
     },
     {
@@ -2047,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 482,
       "user": "alchaincyf"
     },
     {
@@ -2062,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "XBuilderLAB"
     },
     {
@@ -2092,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 230,
       "user": "dimartarmizi"
     },
     {
@@ -2107,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 722,
       "user": "omnigent-ai"
     },
     {
@@ -2122,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2137,23 +2146,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "khrisat"
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "xiaohuailabs"
     },
     {
       "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
@@ -2167,23 +2161,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 501,
       "user": "joeseesun"
     },
     {
-      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "url": "https://github.com/kernelstub/Ferrum",
-      "published_at": "2026-06-13T13:44:35Z",
-      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "published_at": "2026-06-08T09:55:55Z",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 78,
-      "user": "kernelstub"
+      "stars": 495,
+      "user": "xiaohuailabs"
     },
     {
       "title": "bjarneo/kli - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
@@ -2197,8 +2191,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 99,
       "user": "bjarneo"
+    },
+    {
+      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "url": "https://github.com/kernelstub/Ferrum",
+      "published_at": "2026-06-13T13:44:35Z",
+      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "kernelstub"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2227,23 +2236,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 46,
       "user": "saiyam1814"
     },
     {
-      "title": "glockinhand/guns.lol-view-bot - ⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
-      "url": "https://github.com/glockinhand/guns.lol-view-bot",
-      "published_at": "2026-06-10T14:39:07Z",
-      "description": "⚡ Multi-threaded guns.lol viewbot with auto-captcha solver and proxy support. Written in Go.",
+      "title": "wtz44/mimo-free-api - GitHub Repository",
+      "url": "https://github.com/wtz44/mimo-free-api",
+      "published_at": "2026-06-10T16:49:41Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233427454?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/152063138?v=4",
       "source": "GitHub",
       "stars": 40,
-      "user": "glockinhand"
+      "user": "wtz44"
     }
   ]
 }
