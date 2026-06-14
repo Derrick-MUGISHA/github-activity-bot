@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-14-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
-**WebDev**: 🟦🟦🟦 8 (7.6%)
-
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**Mobile**: 🟦🟦 4 (3.8%)
+**Mobile**: 🟦 4 (3.8%)
 
-**Database**:  1 (1.0%)
+**Security**: 🟦 4 (3.8%)
+
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -60,13 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.7 (32.7%)
-JavaScript      ███████████████████████ 24.8 (24.8%)
-Java            ██████████████████ 19.8 (19.8%)
-Python          ████████████████ 17.8 (17.8%)
-Swift           ██ 2.0 (2.0%)
-Rust            ██ 2.0 (2.0%)
+Go              ██████████████████████████████ 32.0 (32.0%)
+JavaScript      ███████████████████████ 24.3 (24.3%)
+Java            ███████████████████ 20.4 (20.4%)
+Python          ████████████████ 17.5 (17.5%)
+Rust            ██ 1.9 (1.9%)
+Swift           ██ 1.9 (1.9%)
 Kotlin          █ 1.0 (1.0%)
+CSharp          █ 1.0 (1.0%)
 
 ```
 
@@ -74,18 +75,19 @@ Kotlin          █ 1.0 (1.0%)
 pie title Programming Languages Distribution
     "Go" : 33
     "JavaScript" : 25
-    "Java" : 20
+    "Java" : 21
     "Python" : 18
-    "Swift" : 2
     "Rust" : 2
+    "Swift" : 2
     "Kotlin" : 1
+    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gamedev](https://img.shields.io/badge/gamedev-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![mcps](https://img.shields.io/badge/mcps-4-blue) 
 
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-14 13:00 CAT)
+## 📅 Latest Updates (2026-06-14 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,15 +144,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/ios-midsommer-madness-5h4">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32vmbwht9bm2ercy7zw6.png" width="200" alt="IOS Midsommer Madness" />
-      <br/>
-      <b>IOS Midsommer Madness</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg" width="200" alt="Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship" />
       <br/>
@@ -159,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-4k11">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frn07qdy5pk2c0yvpnpi2.jpg" width="200" alt="What was your win this week?" />
@@ -170,20 +161,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png" width="200" alt="CSS – only a Nerdy Hobby?" />
-      <br/>
-      <b>CSS – only a Nerdy Hobby?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif" width="200" alt="Building Knowledge Graphs with Gemini" />
       <br/>
       <b>Building Knowledge Graphs with Gemini</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png" width="200" alt="Why I still teach Singleton even though modules make it redundant" />
+      <br/>
+      <b>Why I still teach Singleton even though modules ma...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg" width="200" alt="The AI Addiction Nobody Is Talking About" />
+      <br/>
+      <b>The AI Addiction Nobody Is Talking About</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,13 +198,10 @@ npm run test
 ### 📰 Top Headlines
 
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) _[Dev.to]_
-- [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4) _[Dev.to]_
 - [Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4k11) _[Dev.to]_
-- [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) _[Dev.to]_
 - [Building Knowledge Graphs with Gemini](https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
-- [Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive](https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
 - [Virtual Coffee Needs Your Help](https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih) _[Dev.to]_
@@ -215,8 +214,11 @@ npm run test
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg) _[Dev.to]_
 - [G4 Fractional VMs are now available on Google Cloud!](https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp) _[Dev.to]_
+- [Flutter Midsommer Madnesss](https://dev.to/gde/flutter-midsommer-madnesss-kkb) _[Dev.to]_
+- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog) _[Dev.to]_
+- [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
 
-_Last automated update: Sun, 14 Jun 2026 13:27:24 CAT_
+_Last automated update: Sun, 14 Jun 2026 15:13:44 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Sun, 14 Jun 2026 13:27:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 14 Jun 2026 11:27:24 GMT</b><br/>
+  <b>Last automated update: Sun, 14 Jun 2026 13:13:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
