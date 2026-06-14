@@ -606,23 +606,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1480,
       "user": "DietrichGebert"
-    },
-    {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 909,
-      "user": "JimLiu"
     },
     {
       "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
@@ -636,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 420,
       "user": "alchaincyf"
     },
     {
@@ -653,21 +638,6 @@
       "source": "GitHub",
       "stars": 297,
       "user": "XBuilderLAB"
-    },
-    {
-      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "published_at": "2026-06-07T16:20:13Z",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 885,
-      "user": "GordenSun"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -711,8 +681,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "joeseesun"
+    },
+    {
+      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "published_at": "2026-06-11T12:18:13Z",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
+      "source": "GitHub",
+      "stars": 429,
+      "user": "omnigent-ai"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -1041,23 +1026,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1480,
       "user": "DietrichGebert"
-    },
-    {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 909,
-      "user": "JimLiu"
     },
     {
       "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
@@ -1071,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 420,
       "user": "alchaincyf"
     },
     {
@@ -1103,6 +1073,21 @@
       "source": "GitHub",
       "stars": 290,
       "user": "BuilderIO"
+    },
+    {
+      "title": "dimartarmizi/OmniCloud - OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
+      "url": "https://github.com/dimartarmizi/OmniCloud",
+      "published_at": "2026-06-08T14:49:43Z",
+      "description": "OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "source": "GitHub",
+      "stars": 217,
+      "user": "dimartarmizi"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -1287,21 +1272,6 @@
       "user": "arathore"
     },
     {
-      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "published_at": "2026-06-07T16:20:13Z",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 885,
-      "user": "GordenSun"
-    },
-    {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "url": "https://github.com/Tencent-Hunyuan/UniRL",
       "published_at": "2026-06-08T12:29:36Z",
@@ -1313,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1358,8 +1328,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "joeseesun"
+    },
+    {
+      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "published_at": "2026-06-11T12:18:13Z",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
+      "source": "GitHub",
+      "stars": 429,
+      "user": "omnigent-ai"
     }
   ],
   "DevOps": [
@@ -1569,21 +1554,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 909,
-      "user": "JimLiu"
     }
   ],
   "Mobile": [
@@ -1809,6 +1779,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "dimartarmizi/OmniCloud - OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
+      "url": "https://github.com/dimartarmizi/OmniCloud",
+      "published_at": "2026-06-08T14:49:43Z",
+      "description": "OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
+      "source": "GitHub",
+      "stars": 217,
+      "user": "dimartarmizi"
     }
   ],
   "Database": [
@@ -1925,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 65,
       "user": "kernelstub"
     }
   ],
@@ -2032,23 +2017,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1480,
       "user": "DietrichGebert"
-    },
-    {
-      "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "published_at": "2026-06-07T01:16:18Z",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/648674?v=4",
-      "source": "GitHub",
-      "stars": 909,
-      "user": "JimLiu"
     },
     {
       "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
@@ -2062,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 420,
       "user": "alchaincyf"
     },
     {
@@ -2096,19 +2066,19 @@
       "user": "BuilderIO"
     },
     {
-      "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "published_at": "2026-06-07T16:20:13Z",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "title": "dimartarmizi/OmniCloud - OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
+      "url": "https://github.com/dimartarmizi/OmniCloud",
+      "published_at": "2026-06-08T14:49:43Z",
+      "description": "OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace. ",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 885,
-      "user": "GordenSun"
+      "stars": 217,
+      "user": "dimartarmizi"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -2122,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2167,8 +2137,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "joeseesun"
+    },
+    {
+      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "published_at": "2026-06-11T12:18:13Z",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
+      "source": "GitHub",
+      "stars": 429,
+      "user": "omnigent-ai"
+    },
+    {
+      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "url": "https://github.com/kernelstub/Ferrum",
+      "published_at": "2026-06-13T13:44:35Z",
+      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "kernelstub"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2184,21 +2184,6 @@
       "source": "GitHub",
       "stars": 63,
       "user": "Sliverkiss"
-    },
-    {
-      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "url": "https://github.com/kernelstub/Ferrum",
-      "published_at": "2026-06-13T13:44:35Z",
-      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "kernelstub"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
