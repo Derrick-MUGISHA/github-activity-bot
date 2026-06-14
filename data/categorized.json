@@ -46,21 +46,6 @@
       "user": "Laurent Picard"
     },
     {
-      "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
-      "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
-      "published_at": "2026-06-12T02:23:18Z",
-      "description": "A battle-tested relational design for airline-mile-style points that expire per grant, support exact cancellation, and satisfy accounting audits — plus real PostgreSQL benchmarks and a scalability analysis.",
-      "tags": [
-        "postgres",
-        "database",
-        "sql",
-        "systemdesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxli6937eqnfrppar586.png",
-      "source": "Dev.to",
-      "user": "Yuki Matsukura"
-    },
-    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -274,6 +259,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
       "source": "Dev.to",
       "user": "Jean-Phi Baconnais"
+    },
+    {
+      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+      "published_at": "2026-06-12T03:36:28Z",
+      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "tags": [
+        "typescript",
+        "ai",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "source": "Dev.to",
+      "user": "jsmanifest"
     },
     {
       "title": "Aligning images to a baseline grid with modern CSS",
@@ -606,7 +606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1673,
       "user": "DietrichGebert"
     },
     {
@@ -621,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 461,
       "user": "alchaincyf"
     },
     {
@@ -636,8 +636,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "published_at": "2026-06-11T12:18:13Z",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
+      "source": "GitHub",
+      "stars": 586,
+      "user": "omnigent-ai"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -651,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "khrisat"
     },
     {
@@ -666,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "xiaohuailabs"
     },
     {
@@ -681,23 +696,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 478,
       "user": "joeseesun"
-    },
-    {
-      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "published_at": "2026-06-11T12:18:13Z",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
-      "source": "GitHub",
-      "stars": 429,
-      "user": "omnigent-ai"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -711,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 65,
       "user": "Sliverkiss"
     },
     {
@@ -728,21 +728,6 @@
       "source": "GitHub",
       "stars": 43,
       "user": "saiyam1814"
-    },
-    {
-      "title": "duckbugio/flock - Autonomous AI dev-team bot",
-      "url": "https://github.com/duckbugio/flock",
-      "published_at": "2026-06-08T15:48:15Z",
-      "description": "Autonomous AI dev-team bot",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219730980?v=4",
-      "source": "GitHub",
-      "stars": 36,
-      "user": "duckbugio"
     }
   ],
   "JavaScript": [
@@ -777,6 +762,21 @@
       "user": "Tonal Mathew"
     },
     {
+      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+      "published_at": "2026-06-12T03:36:28Z",
+      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "tags": [
+        "typescript",
+        "ai",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "source": "Dev.to",
+      "user": "jsmanifest"
+    },
+    {
       "title": "Aligning images to a baseline grid with modern CSS",
       "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
       "published_at": "2026-06-11T20:11:12Z",
@@ -792,21 +792,6 @@
       "user": "Simon Coudeville"
     },
     {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
-      "published_at": "2026-06-02T20:02:27Z",
-      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "tags": [
-        "ai",
-        "llm",
-        "typescript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
-      "source": "Dev.to",
-      "user": "Ayoola Solomon"
-    },
-    {
       "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
       "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
       "published_at": "2026-06-10T07:04:58Z",
@@ -820,6 +805,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
+      "published_at": "2026-06-02T20:02:27Z",
+      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "tags": [
+        "ai",
+        "llm",
+        "typescript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
+      "source": "Dev.to",
+      "user": "Ayoola Solomon"
     },
     {
       "title": "Frontend System Design: Designing a Collaborative Whiteboard",
@@ -1026,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1673,
       "user": "DietrichGebert"
     },
     {
@@ -1041,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 461,
       "user": "alchaincyf"
     },
     {
@@ -1056,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "XBuilderLAB"
     },
     {
@@ -1071,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 292,
       "user": "BuilderIO"
     },
     {
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 225,
       "user": "dimartarmizi"
     },
     {
@@ -1272,6 +1272,21 @@
       "user": "arathore"
     },
     {
+      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "published_at": "2026-06-11T12:18:13Z",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
+      "source": "GitHub",
+      "stars": 586,
+      "user": "omnigent-ai"
+    },
+    {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "url": "https://github.com/Tencent-Hunyuan/UniRL",
       "published_at": "2026-06-08T12:29:36Z",
@@ -1283,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 582,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1298,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "khrisat"
     },
     {
@@ -1313,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "xiaohuailabs"
     },
     {
@@ -1328,23 +1343,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 478,
       "user": "joeseesun"
-    },
-    {
-      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "published_at": "2026-06-11T12:18:13Z",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
-      "source": "GitHub",
-      "stars": 429,
-      "user": "omnigent-ai"
     }
   ],
   "DevOps": [
@@ -1420,6 +1420,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "bjarneo/kli - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
+      "url": "https://github.com/bjarneo/kli",
+      "published_at": "2026-06-13T14:38:25Z",
+      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 67,
+      "user": "bjarneo"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -1792,26 +1807,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 225,
       "user": "dimartarmizi"
     }
   ],
   "Database": [
-    {
-      "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
-      "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
-      "published_at": "2026-06-12T02:23:18Z",
-      "description": "A battle-tested relational design for airline-mile-style points that expire per grant, support exact cancellation, and satisfy accounting audits — plus real PostgreSQL benchmarks and a scalability analysis.",
-      "tags": [
-        "postgres",
-        "database",
-        "sql",
-        "systemdesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxli6937eqnfrppar586.png",
-      "source": "Dev.to",
-      "user": "Yuki Matsukura"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1910,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 78,
       "user": "kernelstub"
     }
   ],
@@ -1959,6 +1959,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpqn38vm5zeh2ljrwb3q.png",
       "source": "Dev.to",
       "user": "Lee Reilly"
+    },
+    {
+      "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+      "url": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+      "published_at": "2026-06-12T03:36:28Z",
+      "description": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts   Most parallel...",
+      "tags": [
+        "typescript",
+        "ai",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
+      "source": "Dev.to",
+      "user": "jsmanifest"
     },
     {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
@@ -2017,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1673,
       "user": "DietrichGebert"
     },
     {
@@ -2032,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 461,
       "user": "alchaincyf"
     },
     {
@@ -2047,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 299,
       "user": "XBuilderLAB"
     },
     {
@@ -2062,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 292,
       "user": "BuilderIO"
     },
     {
@@ -2077,8 +2092,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 225,
       "user": "dimartarmizi"
+    },
+    {
+      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "published_at": "2026-06-11T12:18:13Z",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
+      "source": "GitHub",
+      "stars": 586,
+      "user": "omnigent-ai"
     },
     {
       "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
@@ -2092,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 582,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2107,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "khrisat"
     },
     {
@@ -2122,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "xiaohuailabs"
     },
     {
@@ -2137,23 +2167,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 478,
       "user": "joeseesun"
-    },
-    {
-      "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "published_at": "2026-06-11T12:18:13Z",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
-      "source": "GitHub",
-      "stars": 429,
-      "user": "omnigent-ai"
     },
     {
       "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
@@ -2167,8 +2182,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 78,
       "user": "kernelstub"
+    },
+    {
+      "title": "bjarneo/kli - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
+      "url": "https://github.com/bjarneo/kli",
+      "published_at": "2026-06-13T14:38:25Z",
+      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "source": "GitHub",
+      "stars": 67,
+      "user": "bjarneo"
     },
     {
       "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
@@ -2182,7 +2212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 65,
       "user": "Sliverkiss"
     },
     {
@@ -2214,21 +2244,6 @@
       "source": "GitHub",
       "stars": 40,
       "user": "glockinhand"
-    },
-    {
-      "title": "duckbugio/flock - Autonomous AI dev-team bot",
-      "url": "https://github.com/duckbugio/flock",
-      "published_at": "2026-06-08T15:48:15Z",
-      "description": "Autonomous AI dev-team bot",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219730980?v=4",
-      "source": "GitHub",
-      "stars": 36,
-      "user": "duckbugio"
     }
   ]
 }
