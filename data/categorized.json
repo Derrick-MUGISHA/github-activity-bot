@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Building Knowledge Graphs with Gemini",
       "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
       "published_at": "2026-06-12T17:37:01Z",
@@ -190,6 +175,21 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
       "published_at": "2026-06-05T14:58:17Z",
@@ -349,6 +349,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "published_at": "2026-06-11T04:08:23Z",
+      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "tags": [
+        "ai",
+        "security",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
       "published_at": "2026-06-03T21:02:16Z",
@@ -389,21 +404,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
-      "published_at": "2026-06-11T04:08:23Z",
-      "description": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "tags": [
-        "ai",
-        "security",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
     },
     {
       "title": "It's Time We All Eat some more Cucumber!",
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 4049,
+      "stars": 4890,
       "user": "DietrichGebert"
     },
     {
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "alchaincyf"
     },
     {
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "XBuilderLAB"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 938,
       "user": "omnigent-ai"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 575,
       "user": "khrisat"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 535,
       "user": "joeseesun"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "xiaohuailabs"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "Sliverkiss"
     },
     {
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 4049,
+      "stars": 4890,
       "user": "DietrichGebert"
     },
     {
@@ -1053,7 +1053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "alchaincyf"
     },
     {
@@ -1068,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "XBuilderLAB"
     },
     {
@@ -1083,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "BuilderIO"
     },
     {
@@ -1098,7 +1098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "dimartarmizi"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 938,
       "user": "omnigent-ai"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 595,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1325,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 575,
       "user": "khrisat"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 535,
       "user": "joeseesun"
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "xiaohuailabs"
     }
   ],
@@ -1445,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 158,
       "user": "bjarneo"
     },
     {
@@ -1763,21 +1763,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
       "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
       "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
       "published_at": "2026-06-11T04:08:23Z",
@@ -1791,6 +1776,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
+      "tags": [
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
+      "source": "Dev.to",
+      "user": "Cristhian Ferreira "
     },
     {
       "title": "Azure Cloud Shell with Antigravity CLI",
@@ -1819,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "dimartarmizi"
     }
   ],
@@ -1907,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 114,
       "user": "kernelstub"
     }
   ],
@@ -1958,21 +1958,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
       "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
       "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
       "published_at": "2026-06-11T04:08:23Z",
@@ -1986,6 +1971,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Febi9whq7s1wnvlne8bd8.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
+      "tags": [
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
+      "source": "Dev.to",
+      "user": "Cristhian Ferreira "
     },
     {
       "title": "Kaggle is making AI benchmark creation effortless",
@@ -2041,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 4049,
+      "stars": 4890,
       "user": "DietrichGebert"
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "alchaincyf"
     },
     {
@@ -2071,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "XBuilderLAB"
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "BuilderIO"
     },
     {
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "dimartarmizi"
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 938,
       "user": "omnigent-ai"
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 595,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2146,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 575,
       "user": "khrisat"
     },
     {
@@ -2161,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 535,
       "user": "joeseesun"
     },
     {
@@ -2176,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "xiaohuailabs"
     },
     {
@@ -2191,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 158,
       "user": "bjarneo"
     },
     {
@@ -2206,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 114,
       "user": "kernelstub"
     },
     {
@@ -2221,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "Sliverkiss"
     },
     {
@@ -2251,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152063138?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 41,
       "user": "wtz44"
     }
   ]
