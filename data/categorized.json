@@ -262,21 +262,6 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
-      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
-      "published_at": "2026-06-06T01:41:40Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "discuss",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
       "title": "Why New Language Features Need to Target AI Agents, Not Developers",
       "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
       "published_at": "2026-06-11T14:12:20Z",
@@ -332,6 +317,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
+      "published_at": "2026-06-06T01:41:40Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "discuss",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
       "title": "CSS – only a Nerdy Hobby?",
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 6118,
+      "stars": 6806,
       "user": "DietrichGebert"
     },
     {
@@ -663,7 +663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 520,
       "user": "alchaincyf"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1095,
       "user": "omnigent-ai"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 577,
       "user": "khrisat"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 553,
       "user": "joeseesun"
     },
     {
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 6118,
+      "stars": 6806,
       "user": "DietrichGebert"
     },
     {
@@ -1053,7 +1053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 520,
       "user": "alchaincyf"
     },
     {
@@ -1083,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "BuilderIO"
     },
     {
@@ -1098,8 +1098,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "dimartarmizi"
+    },
+    {
+      "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
+      "url": "https://github.com/tamnd/kage",
+      "published_at": "2026-06-14T11:21:55Z",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "tamnd"
     },
     {
       "title": "saiyam1814/kiac - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
@@ -1295,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1095,
       "user": "omnigent-ai"
     },
     {
@@ -1310,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 599,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1325,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 577,
       "user": "khrisat"
     },
     {
@@ -1340,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 553,
       "user": "joeseesun"
     },
     {
@@ -1445,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 192,
       "user": "bjarneo"
     },
     {
@@ -1479,21 +1494,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it",
-      "url": "https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj",
-      "published_at": "2026-06-11T23:06:19Z",
-      "description": "I think you all know the overscroll rubber-banding effect: when you scroll past the end of a page, or...",
-      "tags": [
-        "css",
-        "webdev",
-        "design",
-        "ux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwddxeftce6j338vnmx8q.jpg",
-      "source": "Dev.to",
-      "user": "a-dev"
     },
     {
       "title": "Aligning images to a baseline grid with modern CSS",
@@ -1554,6 +1554,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "CSS 'overscroll-behavior' rubber banding: the right color behind the page when you pull it",
+      "url": "https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj",
+      "published_at": "2026-06-11T23:06:19Z",
+      "description": "I think you all know the overscroll rubber-banding effect: when you scroll past the end of a page, or...",
+      "tags": [
+        "css",
+        "webdev",
+        "design",
+        "ux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwddxeftce6j338vnmx8q.jpg",
+      "source": "Dev.to",
+      "user": "a-dev"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1819,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "dimartarmizi"
     }
   ],
@@ -1907,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "kernelstub"
     }
   ],
@@ -2041,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 6118,
+      "stars": 6806,
       "user": "DietrichGebert"
     },
     {
@@ -2056,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 520,
       "user": "alchaincyf"
     },
     {
@@ -2086,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "BuilderIO"
     },
     {
@@ -2101,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124131559?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "dimartarmizi"
     },
     {
@@ -2116,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1095,
       "user": "omnigent-ai"
     },
     {
@@ -2131,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 599,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2146,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 577,
       "user": "khrisat"
     },
     {
@@ -2161,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 553,
       "user": "joeseesun"
     },
     {
@@ -2180,6 +2195,21 @@
       "user": "xiaohuailabs"
     },
     {
+      "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
+      "url": "https://github.com/tamnd/kage",
+      "published_at": "2026-06-14T11:21:55Z",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "tamnd"
+    },
+    {
       "title": "bjarneo/kli - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
       "url": "https://github.com/bjarneo/kli",
       "published_at": "2026-06-13T14:38:25Z",
@@ -2191,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 192,
       "user": "bjarneo"
     },
     {
@@ -2206,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "kernelstub"
     },
     {
@@ -2238,21 +2268,6 @@
       "source": "GitHub",
       "stars": 53,
       "user": "saiyam1814"
-    },
-    {
-      "title": "wtz44/mimo-free-api - GitHub Repository",
-      "url": "https://github.com/wtz44/mimo-free-api",
-      "published_at": "2026-06-10T16:49:41Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152063138?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "wtz44"
     }
   ]
 }
