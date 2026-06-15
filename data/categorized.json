@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "published_at": "2026-06-15T14:44:53Z",
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "buildinpublic"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
       "title": "Turning Gemma 4 into an Old Korean Translator",
       "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
       "published_at": "2026-06-15T06:13:07Z",
@@ -15,19 +30,19 @@
       "user": "bebechien"
     },
     {
-      "title": "Building a Chrome Extension to Make AI Use More Intentional",
-      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
-      "published_at": "2026-06-15T14:44:53Z",
-      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
       "tags": [
-        "ai",
-        "webdev",
-        "productivity",
-        "buildinpublic"
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
       "source": "Dev.to",
-      "user": "Julien Avezou"
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "[Gemini API] Gemini Batch API and Webhook API practical usage on restaurant survey",
@@ -58,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6ep4lfhrn1q2d5fj3u5.png",
       "source": "Dev.to",
       "user": "Yurii Serhiichuk"
-    },
-    {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "The AI Addiction Nobody Is Talking About",
@@ -665,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 15077,
+      "stars": 15818,
       "user": "DietrichGebert"
     },
     {
@@ -680,23 +680,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "alchaincyf"
     },
     {
-      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "url": "https://github.com/buynao/aipath",
-      "published_at": "2026-06-12T10:58:35Z",
-      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "title": "cobusgreyling/loop-engineering - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "published_at": "2026-06-09T06:28:20Z",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7868717?v=4",
       "source": "GitHub",
-      "stars": 257,
-      "user": "buynao"
+      "stars": 259,
+      "user": "cobusgreyling"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1840,
       "user": "omnigent-ai"
     },
     {
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 468,
       "user": "nolangz"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "gykim80"
     }
   ],
@@ -1040,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 15077,
+      "stars": 15818,
       "user": "DietrichGebert"
     },
     {
@@ -1055,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "alchaincyf"
     },
     {
@@ -1070,7 +1070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "royalbhati"
     },
     {
@@ -1085,23 +1085,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "BuilderIO"
     },
     {
-      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "url": "https://github.com/buynao/aipath",
-      "published_at": "2026-06-12T10:58:35Z",
-      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "title": "cobusgreyling/loop-engineering - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "published_at": "2026-06-09T06:28:20Z",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7868717?v=4",
       "source": "GitHub",
-      "stars": 257,
-      "user": "buynao"
+      "stars": 259,
+      "user": "cobusgreyling"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1115,7 +1115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1466,
+      "stars": 1501,
       "user": "tamnd"
     },
     {
@@ -1130,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "gykim80"
     }
   ],
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1840,
       "user": "omnigent-ai"
     },
     {
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 468,
       "user": "nolangz"
     },
     {
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 261,
       "user": "bjarneo"
     }
   ],
@@ -1568,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 468,
       "user": "nolangz"
     }
   ],
@@ -1777,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "royalbhati"
     }
   ],
@@ -1836,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "kernelstub"
     }
   ],
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 15077,
+      "stars": 15818,
       "user": "DietrichGebert"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "alchaincyf"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "royalbhati"
     },
     {
@@ -2045,23 +2045,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "BuilderIO"
     },
     {
-      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "url": "https://github.com/buynao/aipath",
-      "published_at": "2026-06-12T10:58:35Z",
-      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "title": "cobusgreyling/loop-engineering - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "published_at": "2026-06-09T06:28:20Z",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7868717?v=4",
       "source": "GitHub",
-      "stars": 257,
-      "user": "buynao"
+      "stars": 259,
+      "user": "cobusgreyling"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1840,
       "user": "omnigent-ai"
     },
     {
@@ -2120,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 468,
       "user": "nolangz"
     },
     {
@@ -2150,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1466,
+      "stars": 1501,
       "user": "tamnd"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 261,
       "user": "bjarneo"
     },
     {
@@ -2180,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "gykim80"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "kernelstub"
     },
     {
@@ -2210,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "tamnd"
     }
   ]
