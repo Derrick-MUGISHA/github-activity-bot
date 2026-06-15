@@ -130,21 +130,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
-      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
-      "published_at": "2026-06-11T14:06:23Z",
-      "description": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -158,6 +143,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
       "source": "Dev.to",
       "user": "shrey "
+    },
+    {
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
+      "published_at": "2026-06-11T14:06:23Z",
+      "description": "My daughter, who's 11, has been doing some vibe coding.   The other day she looked over my shoulder...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
     },
     {
       "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
@@ -648,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 7884,
+      "stars": 8706,
       "user": "DietrichGebert"
     },
     {
@@ -663,23 +663,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 527,
       "user": "alchaincyf"
-    },
-    {
-      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "url": "https://github.com/XBuilderLAB/cheat-on-money",
-      "published_at": "2026-06-08T13:30:36Z",
-      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "XBuilderLAB"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -693,23 +678,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1280,
       "user": "omnigent-ai"
-    },
-    {
-      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "url": "https://github.com/khrisat/text-humanizer",
-      "published_at": "2026-06-09T18:11:45Z",
-      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
-      "source": "GitHub",
-      "stars": 577,
-      "user": "khrisat"
     },
     {
       "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
@@ -723,38 +693,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "joeseesun"
     },
     {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "published_at": "2026-06-09T18:11:45Z",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 501,
-      "user": "xiaohuailabs"
+      "stars": 579,
+      "user": "khrisat"
     },
     {
-      "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
-      "url": "https://github.com/Sliverkiss/mimocode2api",
-      "published_at": "2026-06-11T00:55:11Z",
-      "description": "MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "title": "jmmy9609-design/gpt-pp - GitHub Repository",
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "published_at": "2026-06-09T11:05:36Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/292074598?v=4",
       "source": "GitHub",
-      "stars": 69,
-      "user": "Sliverkiss"
+      "stars": 396,
+      "user": "jmmy9609-design"
+    },
+    {
+      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "published_at": "2026-06-12T04:25:17Z",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "nolangz"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -768,8 +753,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 101,
       "user": "gykim80"
+    },
+    {
+      "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "url": "https://github.com/Sliverkiss/mimocode2api",
+      "published_at": "2026-06-11T00:55:11Z",
+      "description": "MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "Sliverkiss"
     }
   ],
   "JavaScript": [
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 7884,
+      "stars": 8706,
       "user": "DietrichGebert"
     },
     {
@@ -1053,23 +1053,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 527,
       "user": "alchaincyf"
-    },
-    {
-      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "url": "https://github.com/XBuilderLAB/cheat-on-money",
-      "published_at": "2026-06-08T13:30:36Z",
-      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "XBuilderLAB"
     },
     {
       "title": "BuilderIO/skills - Skills for coding agents",
@@ -1083,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 309,
       "user": "BuilderIO"
     },
     {
@@ -1098,8 +1083,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 284,
       "user": "royalbhati"
+    },
+    {
+      "title": "Leonxlnx/lumenshaders - LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "url": "https://github.com/Leonxlnx/lumenshaders",
+      "published_at": "2026-06-09T22:31:51Z",
+      "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 229,
+      "user": "Leonxlnx"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1113,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 737,
       "user": "tamnd"
     },
     {
@@ -1128,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 101,
       "user": "gykim80"
     }
   ],
@@ -1310,38 +1310,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1280,
       "user": "omnigent-ai"
-    },
-    {
-      "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-      "url": "https://github.com/Tencent-Hunyuan/UniRL",
-      "published_at": "2026-06-08T12:29:36Z",
-      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 602,
-      "user": "Tencent-Hunyuan"
-    },
-    {
-      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "url": "https://github.com/khrisat/text-humanizer",
-      "published_at": "2026-06-09T18:11:45Z",
-      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
-      "source": "GitHub",
-      "stars": 577,
-      "user": "khrisat"
     },
     {
       "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
@@ -1355,23 +1325,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "joeseesun"
     },
     {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "published_at": "2026-06-09T18:11:45Z",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 501,
-      "user": "xiaohuailabs"
+      "stars": 579,
+      "user": "khrisat"
+    },
+    {
+      "title": "jmmy9609-design/gpt-pp - GitHub Repository",
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "published_at": "2026-06-09T11:05:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292074598?v=4",
+      "source": "GitHub",
+      "stars": 396,
+      "user": "jmmy9609-design"
+    },
+    {
+      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "published_at": "2026-06-12T04:25:17Z",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "nolangz"
     }
   ],
   "DevOps": [
@@ -1460,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 226,
       "user": "bjarneo"
     }
   ],
@@ -1566,6 +1566,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "published_at": "2026-06-12T04:25:17Z",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "nolangz"
     }
   ],
   "Mobile": [
@@ -1642,21 +1657,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Connecting GCP Budget Alerts to AppSheet: A Step-by-Step Guide",
-      "url": "https://dev.to/gde/connecting-gcp-budget-alerts-to-appsheet-a-step-by-step-guide-4pda",
-      "published_at": "2026-06-12T13:57:22Z",
-      "description": "Have you ever woken up to a massive Google Cloud bill because a developer accidentally left a cluster...",
-      "tags": [
-        "googlecloud",
-        "appsheet",
-        "finops",
-        "cloudbilling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forzh3f8zqojz34mvey9f.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 284,
       "user": "royalbhati"
     }
   ],
@@ -1907,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 146,
       "user": "kernelstub"
     }
   ],
@@ -2041,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 7884,
+      "stars": 8706,
       "user": "DietrichGebert"
     },
     {
@@ -2056,23 +2056,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 527,
       "user": "alchaincyf"
-    },
-    {
-      "title": "XBuilderLAB/cheat-on-money - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "url": "https://github.com/XBuilderLAB/cheat-on-money",
-      "published_at": "2026-06-08T13:30:36Z",
-      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "XBuilderLAB"
     },
     {
       "title": "BuilderIO/skills - Skills for coding agents",
@@ -2086,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 309,
       "user": "BuilderIO"
     },
     {
@@ -2101,8 +2086,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 284,
       "user": "royalbhati"
+    },
+    {
+      "title": "Leonxlnx/lumenshaders - LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "url": "https://github.com/Leonxlnx/lumenshaders",
+      "published_at": "2026-06-09T22:31:51Z",
+      "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 229,
+      "user": "Leonxlnx"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -2116,38 +2116,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1280,
       "user": "omnigent-ai"
-    },
-    {
-      "title": "Tencent-Hunyuan/UniRL - UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-      "url": "https://github.com/Tencent-Hunyuan/UniRL",
-      "published_at": "2026-06-08T12:29:36Z",
-      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 602,
-      "user": "Tencent-Hunyuan"
-    },
-    {
-      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "url": "https://github.com/khrisat/text-humanizer",
-      "published_at": "2026-06-09T18:11:45Z",
-      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
-      "source": "GitHub",
-      "stars": 577,
-      "user": "khrisat"
     },
     {
       "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
@@ -2161,23 +2131,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "joeseesun"
     },
     {
-      "title": "xiaohuailabs/xiaohu-video-translate - 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "published_at": "2026-06-08T09:55:55Z",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "published_at": "2026-06-09T18:11:45Z",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129160475?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 501,
-      "user": "xiaohuailabs"
+      "stars": 579,
+      "user": "khrisat"
+    },
+    {
+      "title": "jmmy9609-design/gpt-pp - GitHub Repository",
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "published_at": "2026-06-09T11:05:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292074598?v=4",
+      "source": "GitHub",
+      "stars": 396,
+      "user": "jmmy9609-design"
+    },
+    {
+      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "published_at": "2026-06-12T04:25:17Z",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "nolangz"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -2191,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 737,
       "user": "tamnd"
     },
     {
@@ -2206,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 226,
       "user": "bjarneo"
     },
     {
@@ -2221,23 +2221,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 146,
       "user": "kernelstub"
-    },
-    {
-      "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
-      "url": "https://github.com/Sliverkiss/mimocode2api",
-      "published_at": "2026-06-11T00:55:11Z",
-      "description": "MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
-      "source": "GitHub",
-      "stars": 69,
-      "user": "Sliverkiss"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -2251,8 +2236,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 101,
       "user": "gykim80"
+    },
+    {
+      "title": "Sliverkiss/mimocode2api - MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "url": "https://github.com/Sliverkiss/mimocode2api",
+      "published_at": "2026-06-11T00:55:11Z",
+      "description": "MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70052878?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "Sliverkiss"
     }
   ]
 }
