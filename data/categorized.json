@@ -1,19 +1,78 @@
 {
   "AI": [
     {
-      "title": "Building Knowledge Graphs with Gemini",
-      "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
-      "published_at": "2026-06-12T17:37:01Z",
-      "description": "✨ Overview   In this exploration, we'll see how to turn raw, unstructured documents into...",
+      "title": "Turning Gemma 4 into an Old Korean Translator",
+      "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
+      "published_at": "2026-06-15T06:13:07Z",
+      "description": "There’s something uniquely beautiful about old books. The smell of weathered paper, the texture of...",
+      "tags": [
+        "finetuning",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Ftuning-gemma-4-into-an-old-korean-translator.png",
+      "source": "Dev.to",
+      "user": "bebechien"
+    },
+    {
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "published_at": "2026-06-15T14:44:53Z",
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
       "tags": [
         "ai",
-        "gemini",
-        "knowledgegraph",
-        "dataextraction"
+        "webdev",
+        "productivity",
+        "buildinpublic"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
       "source": "Dev.to",
-      "user": "Laurent Picard"
+      "user": "Julien Avezou"
+    },
+    {
+      "title": "Open Knowledge Format - portable digital map of your data as code",
+      "url": "https://dev.to/gde/open-knowledge-format-portable-digital-map-of-your-data-as-code-26n9",
+      "published_at": "2026-06-15T07:38:08Z",
+      "description": "Yesterday Google dropped an article describing an interesting idea - a portable format for knowledge...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "openknowledgeformat",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6ep4lfhrn1q2d5fj3u5.png",
+      "source": "Dev.to",
+      "user": "Yurii Serhiichuk"
+    },
+    {
+      "title": "[Gemini API] Gemini Batch API and Webhook API practical usage on restaurant survey",
+      "url": "https://dev.to/gde/gemini-api-hands-on-6im",
+      "published_at": "2026-06-15T04:09:16Z",
+      "description": "A Powerful Tool for Asynchronous Processing: Gemini Batch API &amp; Webhooks   When...",
+      "tags": [
+        "api",
+        "gemini",
+        "llm",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyfgncl2qh3n7f3xpmjo.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "The AI Addiction Nobody Is Talking About",
@@ -41,21 +100,6 @@
       "user": "ankush chadha"
     },
     {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[Hands-on Gemini 3.5 Live",
       "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
       "published_at": "2026-06-12T06:09:59Z",
@@ -71,19 +115,34 @@
       "user": "Evan Lin"
     },
     {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
-      "published_at": "2026-06-10T15:38:18Z",
-      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
       "tags": [
-        "gpu",
-        "googlecloud",
-        "nvidia",
-        "infrastructure"
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
       "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Orchestrating Google Workspace with Antigravity CLI: A High-Performance Agentic Framework",
+      "url": "https://dev.to/gde/orchestrating-google-workspace-with-antigravity-cli-a-high-performance-agentic-framework-270",
+      "published_at": "2026-06-15T02:43:36Z",
+      "description": "Abstract   This article explores the integration of Google Workspace with the Antigravity...",
+      "tags": [
+        "ai",
+        "gemini",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yyuvw44k1lwtfivmjlk.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -145,21 +204,6 @@
       "user": "shrey "
     },
     {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
       "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
       "published_at": "2026-06-11T14:06:23Z",
@@ -175,21 +219,6 @@
       "user": "Greg Baugues"
     },
     {
-      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
-      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm",
-      "published_at": "2026-06-08T02:27:01Z",
-      "description": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
-      "tags": [
-        "mcpserver",
-        "agenticai",
-        "googleantigravity",
-        "agentharness"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AiSthtg9iS5ziUr36QtHHBw.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
       "published_at": "2026-06-05T14:58:17Z",
@@ -200,6 +229,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Extending a MCP/A2A Currency Agent with AG-UI and Antigravity CLI",
+      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-ag-ui-and-antigravity-cli-4kd1",
+      "published_at": "2026-06-12T16:50:26Z",
+      "description": "Building an Agent with A2A, MCP, ADK, and AG-UI   This tutorial aims to extend and test a...",
+      "tags": [
+        "googleadk",
+        "mcps",
+        "antigravitycli",
+        "agui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p6i7371sn7blax7x2kk.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
@@ -262,19 +306,6 @@
       "user": "ModernCpp"
     },
     {
-      "title": "Go Packages and Modules explained",
-      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
-      "published_at": "2026-06-11T00:37:56Z",
-      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
-      "tags": [
-        "go",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
-      "source": "Dev.to",
-      "user": "Fer Rios"
-    },
-    {
       "title": "Your Vibe-Coded App Works. Is It Any Good?",
       "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co",
       "published_at": "2026-06-11T19:00:35Z",
@@ -319,6 +350,21 @@
       "user": "Ingo Steinke, web developer"
     },
     {
+      "title": "Coding a Robot’s Personality: HRI with the Open Duck Mini, Animations, Vibe Coding, and Gemini Live",
+      "url": "https://dev.to/googleai/coding-a-robots-personality-hri-with-the-open-duck-mini-animations-vibe-coding-and-gemini-live-1hh9",
+      "published_at": "2026-06-13T20:00:05Z",
+      "description": "I believe the next big leap in AI will be in the robotics space, taking the reasoning power of Large...",
+      "tags": [
+        "gemini",
+        "robotics",
+        "vibecoding",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsilttyly1fccosqy4eoq.jpg",
+      "source": "Dev.to",
+      "user": "Paul Ruiz"
+    },
+    {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
       "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
       "published_at": "2026-06-06T01:41:40Z",
@@ -332,6 +378,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
+      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
+      "published_at": "2026-06-12T17:18:59Z",
+      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
+      "tags": [
+        "ai",
+        "agents",
+        "machinelearning",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffk35sxrl5smm91fogks2.png",
+      "source": "Dev.to",
+      "user": "Self-Correcting Systems"
+    },
+    {
+      "title": "I Built a Web App That Finds the Fairest Meeting Spot for Any Group (and It's Free)",
+      "url": "https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j",
+      "published_at": "2026-06-14T03:07:56Z",
+      "description": "The Problem Nobody Talks About   Picture this: You're trying to find a place to meet up with...",
+      "tags": [
+        "webdev",
+        "googlemaps",
+        "chromeextension",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flmwcw7zzujoqck30g1mu.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "[I/O Extended Taipei] Building with Gemini APIs: From Calls to Autonomous Systems",
+      "url": "https://dev.to/gde/io-extended-taipei-building-cl0",
+      "published_at": "2026-06-14T07:12:11Z",
+      "description": "(Activity: Google I/O Extended 2026 Taipei / Presentation: SpeakerDeck)           Context: The...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhs22jga5dlbwf0pp9qys.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Extending a MCP/A2A Currency Agent with A2UI",
@@ -376,21 +467,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "It's Time We All Eat some more Cucumber!",
-      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic",
-      "published_at": "2026-06-08T09:22:09Z",
-      "description": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
-      "tags": [
-        "ai",
-        "tdd",
-        "bdd",
-        "darkfactory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb0vcb1pft6cpi8xynlc5.webp",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
-    },
-    {
       "title": "Kaggle is making AI benchmark creation effortless",
       "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
       "published_at": "2026-06-04T15:51:23Z",
@@ -431,51 +507,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
       "source": "Dev.to",
       "user": "jsmanifest"
-    },
-    {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
-      "tags": [
-        "css",
-        "webdev",
-        "frontend",
-        "typography"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
-      "source": "Dev.to",
-      "user": "Simon Coudeville"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
-      "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
-      "published_at": "2026-06-12T02:23:18Z",
-      "description": "A battle-tested relational design for airline-mile-style points that expire per grant, support exact cancellation, and satisfy accounting audits — plus real PostgreSQL benchmarks and a scalability analysis.",
-      "tags": [
-        "postgres",
-        "database",
-        "sql",
-        "systemdesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxli6937eqnfrppar586.png",
-      "source": "Dev.to",
-      "user": "Yuki Matsukura"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -633,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 10640,
+      "stars": 13527,
       "user": "DietrichGebert"
     },
     {
@@ -648,8 +679,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "alchaincyf"
+    },
+    {
+      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "url": "https://github.com/buynao/aipath",
+      "published_at": "2026-06-12T10:58:35Z",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "buynao"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -663,23 +709,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1608,
       "user": "omnigent-ai"
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "published_at": "2026-06-11T15:10:51Z",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 598,
-      "user": "joeseesun"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -693,8 +724,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 635,
       "user": "khrisat"
+    },
+    {
+      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "published_at": "2026-06-11T15:10:51Z",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "joeseesun"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -708,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 451,
       "user": "nolangz"
     },
     {
@@ -738,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 169,
       "user": "gykim80"
     }
   ],
@@ -845,66 +891,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fparallel-ai-agents-git-worktrees%2Fthumbnail.png",
       "source": "Dev.to",
       "user": "jsmanifest"
-    },
-    {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
-      "tags": [
-        "css",
-        "webdev",
-        "frontend",
-        "typography"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
-      "source": "Dev.to",
-      "user": "Simon Coudeville"
-    },
-    {
-      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
-      "published_at": "2026-06-10T07:04:58Z",
-      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
-      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
-      "published_at": "2026-06-11T21:13:40Z",
-      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
-      "tags": [
-        "nextjs",
-        "react",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
-      "source": "Dev.to",
-      "user": "Tonal Mathew"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1038,7 +1024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 10640,
+      "stars": 13527,
       "user": "DietrichGebert"
     },
     {
@@ -1053,23 +1039,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "alchaincyf"
-    },
-    {
-      "title": "BuilderIO/skills - Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "published_at": "2026-06-10T16:04:20Z",
-      "description": "Skills for coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
-      "source": "GitHub",
-      "stars": 313,
-      "user": "BuilderIO"
     },
     {
       "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
@@ -1083,23 +1054,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 334,
       "user": "royalbhati"
     },
     {
-      "title": "Leonxlnx/lumenshaders - LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
-      "url": "https://github.com/Leonxlnx/lumenshaders",
-      "published_at": "2026-06-09T22:31:51Z",
-      "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "title": "BuilderIO/skills - Skills for coding agents",
+      "url": "https://github.com/BuilderIO/skills",
+      "published_at": "2026-06-10T16:04:20Z",
+      "description": "Skills for coding agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 236,
-      "user": "Leonxlnx"
+      "stars": 321,
+      "user": "BuilderIO"
+    },
+    {
+      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "url": "https://github.com/buynao/aipath",
+      "published_at": "2026-06-12T10:58:35Z",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "buynao"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1113,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1108,
+      "stars": 1353,
       "user": "tamnd"
     },
     {
@@ -1128,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 169,
       "user": "gykim80"
     }
   ],
@@ -1177,19 +1163,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
       "source": "Dev.to",
       "user": "Amr Hesham"
-    },
-    {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
-      "source": "Dev.to",
-      "user": "Lucas Rafaldini"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1323,23 +1296,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1608,
       "user": "omnigent-ai"
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "published_at": "2026-06-11T15:10:51Z",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 598,
-      "user": "joeseesun"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -1353,8 +1311,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 635,
       "user": "khrisat"
+    },
+    {
+      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "published_at": "2026-06-11T15:10:51Z",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "joeseesun"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -1368,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 451,
       "user": "nolangz"
     },
     {
@@ -1419,19 +1392,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Go Packages and Modules explained",
-      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c",
-      "published_at": "2026-06-11T00:37:56Z",
-      "description": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
-      "tags": [
-        "go",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fof8y9fgcaxy5cvtdiwqp.jpeg",
-      "source": "Dev.to",
-      "user": "Fer Rios"
-    },
-    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1473,26 +1433,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 252,
       "user": "bjarneo"
     }
   ],
   "WebDev": [
-    {
-      "title": "Celebrate June rituals with Solstice Bingo!",
-      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
-      "published_at": "2026-06-11T11:25:14Z",
-      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
-    },
     {
       "title": "Frontend System Design: Designing a Collaborative Whiteboard",
       "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
@@ -1522,6 +1467,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Celebrate June rituals with Solstice Bingo!",
+      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
+      "published_at": "2026-06-11T11:25:14Z",
+      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
+      "tags": [
+        "devchallenge",
+        "gamechallenge",
+        "gamedev",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
+      "source": "Dev.to",
+      "user": "Klaudia Grzondziel"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1554,36 +1514,6 @@
       "user": "a-dev"
     },
     {
-      "title": "Aligning images to a baseline grid with modern CSS",
-      "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
-      "published_at": "2026-06-11T20:11:12Z",
-      "description": "Snapping images to a baseline grid used to require JavaScript. With container queries, advanced attr() and round(), it can now be done in pure CSS.",
-      "tags": [
-        "css",
-        "webdev",
-        "frontend",
-        "typography"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
-      "source": "Dev.to",
-      "user": "Simon Coudeville"
-    },
-    {
-      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
-      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
-      "published_at": "2026-06-11T21:13:40Z",
-      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
-      "tags": [
-        "nextjs",
-        "react",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
-      "source": "Dev.to",
-      "user": "Tonal Mathew"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1607,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 451,
       "user": "nolangz"
     }
   ],
@@ -1657,6 +1587,21 @@
   ],
   "Cloud": [
     {
+      "title": "Open Knowledge Format - portable digital map of your data as code",
+      "url": "https://dev.to/gde/open-knowledge-format-portable-digital-map-of-your-data-as-code-26n9",
+      "published_at": "2026-06-15T07:38:08Z",
+      "description": "Yesterday Google dropped an article describing an interesting idea - a portable format for knowledge...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "openknowledgeformat",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6ep4lfhrn1q2d5fj3u5.png",
+      "source": "Dev.to",
+      "user": "Yurii Serhiichuk"
+    },
+    {
       "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl",
       "published_at": "2026-06-11T14:11:07Z",
@@ -1687,21 +1632,6 @@
       "user": "xbill"
     },
     {
-      "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2",
-      "published_at": "2026-06-09T17:22:57Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "runcloud",
-        "googleantigravity",
-        "mcps",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr3wd3vh6jgedbjn8jt2s.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg",
       "published_at": "2026-06-10T01:05:21Z",
@@ -1715,21 +1645,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp",
-      "published_at": "2026-06-10T15:38:18Z",
-      "description": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
-      "tags": [
-        "gpu",
-        "googlecloud",
-        "nvidia",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzymvo6mr2eth7dbju7xi.png",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
@@ -1808,21 +1723,6 @@
   ],
   "Database": [
     {
-      "title": "Designing an Expiring-Points System on an RDBMS (with Benchmarks)",
-      "url": "https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1",
-      "published_at": "2026-06-12T02:23:18Z",
-      "description": "A battle-tested relational design for airline-mile-style points that expire per grant, support exact cancellation, and satisfy accounting audits — plus real PostgreSQL benchmarks and a scalability analysis.",
-      "tags": [
-        "postgres",
-        "database",
-        "sql",
-        "systemdesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxli6937eqnfrppar586.png",
-      "source": "Dev.to",
-      "user": "Yuki Matsukura"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1846,11 +1746,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 334,
       "user": "royalbhati"
     }
   ],
   "Security": [
+    {
+      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
+      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
+      "published_at": "2026-06-12T17:18:59Z",
+      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
+      "tags": [
+        "ai",
+        "agents",
+        "machinelearning",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffk35sxrl5smm91fogks2.png",
+      "source": "Dev.to",
+      "user": "Self-Correcting Systems"
+    },
     {
       "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
       "url": "https://dev.to/rapls/wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right-gfc",
@@ -1865,36 +1780,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3bffmfdonj0e3y7gkriw.png",
       "source": "Dev.to",
       "user": "Rapls"
-    },
-    {
-      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
-      "published_at": "2026-06-10T07:04:58Z",
-      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "Strict CSP Meets Prerendered HTML: A Next.js App Router Deep Dive",
-      "url": "https://dev.to/tonalmathew/strict-csp-meets-prerendered-html-a-nextjs-app-router-deep-dive-18b9",
-      "published_at": "2026-06-11T21:13:40Z",
-      "description": "What started as a simple security hardening task on a Next.js 16 marketing site turned into a lesson...",
-      "tags": [
-        "nextjs",
-        "react",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fum3pbhhb2l9cwj465rgi.png",
-      "source": "Dev.to",
-      "user": "Tonal Mathew"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1920,11 +1805,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "kernelstub"
     }
   ],
   "Tools": [
+    {
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "published_at": "2026-06-15T14:44:53Z",
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "buildinpublic"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
+      "title": "Open Knowledge Format - portable digital map of your data as code",
+      "url": "https://dev.to/gde/open-knowledge-format-portable-digital-map-of-your-data-as-code-26n9",
+      "published_at": "2026-06-15T07:38:08Z",
+      "description": "Yesterday Google dropped an article describing an interesting idea - a portable format for knowledge...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "openknowledgeformat",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6ep4lfhrn1q2d5fj3u5.png",
+      "source": "Dev.to",
+      "user": "Yurii Serhiichuk"
+    },
+    {
+      "title": "[Gemini API] Gemini Batch API and Webhook API practical usage on restaurant survey",
+      "url": "https://dev.to/gde/gemini-api-hands-on-6im",
+      "published_at": "2026-06-15T04:09:16Z",
+      "description": "A Powerful Tool for Asynchronous Processing: Gemini Batch API &amp; Webhooks   When...",
+      "tags": [
+        "api",
+        "gemini",
+        "llm",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyfgncl2qh3n7f3xpmjo.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
@@ -2028,19 +1958,6 @@
       "user": "jsmanifest"
     },
     {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn",
-      "published_at": "2026-06-01T16:22:31Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre1kkjbpc84qj65e918r.png",
-      "source": "Dev.to",
-      "user": "Lucas Rafaldini"
-    },
-    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -2052,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 10640,
+      "stars": 13527,
       "user": "DietrichGebert"
     },
     {
@@ -2067,23 +1984,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "alchaincyf"
-    },
-    {
-      "title": "BuilderIO/skills - Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "published_at": "2026-06-10T16:04:20Z",
-      "description": "Skills for coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
-      "source": "GitHub",
-      "stars": 313,
-      "user": "BuilderIO"
     },
     {
       "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
@@ -2097,23 +1999,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 334,
       "user": "royalbhati"
     },
     {
-      "title": "Leonxlnx/lumenshaders - LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
-      "url": "https://github.com/Leonxlnx/lumenshaders",
-      "published_at": "2026-06-09T22:31:51Z",
-      "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "title": "BuilderIO/skills - Skills for coding agents",
+      "url": "https://github.com/BuilderIO/skills",
+      "published_at": "2026-06-10T16:04:20Z",
+      "description": "Skills for coding agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 236,
-      "user": "Leonxlnx"
+      "stars": 321,
+      "user": "BuilderIO"
+    },
+    {
+      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "url": "https://github.com/buynao/aipath",
+      "published_at": "2026-06-12T10:58:35Z",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "buynao"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -2127,23 +2044,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1608,
       "user": "omnigent-ai"
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "published_at": "2026-06-11T15:10:51Z",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 598,
-      "user": "joeseesun"
     },
     {
       "title": "khrisat/text-humanizer - Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
@@ -2157,8 +2059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32206152?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 635,
       "user": "khrisat"
+    },
+    {
+      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "published_at": "2026-06-11T15:10:51Z",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "joeseesun"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -2172,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 451,
       "user": "nolangz"
     },
     {
@@ -2202,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1108,
+      "stars": 1353,
       "user": "tamnd"
     },
     {
@@ -2217,23 +2134,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 252,
       "user": "bjarneo"
-    },
-    {
-      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "url": "https://github.com/kernelstub/Ferrum",
-      "published_at": "2026-06-13T13:44:35Z",
-      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "kernelstub"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -2247,8 +2149,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 169,
       "user": "gykim80"
+    },
+    {
+      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "url": "https://github.com/kernelstub/Ferrum",
+      "published_at": "2026-06-13T13:44:35Z",
+      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "kernelstub"
     },
     {
       "title": "tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.",
@@ -2262,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 102,
       "user": "tamnd"
     }
   ]
