@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-14-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-15-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.6%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦🟦 8 (7.7%)
 
-**DevOps**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 6 (5.8%)
 
 **Mobile**: 🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.4 (31.4%)
-JavaScript      ████████████████████████ 24.8 (24.8%)
-Java            ████████████████████ 21.0 (21.0%)
-Python          ████████████████ 17.1 (17.1%)
+Go              ██████████████████████████████ 30.8 (30.8%)
+JavaScript      ████████████████████████ 25.0 (25.0%)
+Java            █████████████████████ 21.2 (21.2%)
+Python          █████████████████ 17.3 (17.3%)
 Rust            ██ 1.9 (1.9%)
 Swift           ██ 1.9 (1.9%)
 Kotlin          █ 1.0 (1.0%)
@@ -73,7 +73,7 @@ CSharp          █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 33
+    "Go" : 32
     "JavaScript" : 26
     "Java" : 22
     "Python" : 18
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![mcps](https://img.shields.io/badge/mcps-4-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-5-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![mcps](https://img.shields.io/badge/mcps-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-15 1:00 CAT)
+## 📅 Latest Updates (2026-06-15 5:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,7 +204,6 @@ npm run test
 - [Virtual Coffee Needs Your Help](https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
-- [Connecting GCP Budget Alerts to AppSheet: A Step-by-Step Guide](https://dev.to/gde/connecting-gcp-budget-alerts-to-appsheet-a-step-by-step-guide-4pda) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog) _[Dev.to]_
 - [Antigravity Managed Agents Tutorial: Ship Production AI Agents](https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0) _[Dev.to]_
 - [Celebrate June rituals with Solstice Bingo!](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) _[Dev.to]_
+- [Seamless scaling with VPA In-place Pod Resize on GKE](https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p) _[Dev.to]_
 
-_Last automated update: Mon, 15 Jun 2026 01:49:23 CAT_
+_Last automated update: Mon, 15 Jun 2026 05:52:42 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 15 Jun 2026 01:49:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 14 Jun 2026 23:49:23 GMT</b><br/>
+  <b>Last automated update: Mon, 15 Jun 2026 03:52:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
