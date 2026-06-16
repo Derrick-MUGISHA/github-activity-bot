@@ -174,21 +174,6 @@
       "user": "Romin Irani"
     },
     {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -680,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 17706,
+      "stars": 19652,
       "user": "DietrichGebert"
     },
     {
@@ -695,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 600,
       "user": "alchaincyf"
     },
     {
@@ -710,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "buynao"
     },
     {
@@ -725,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2034,
+      "stars": 2162,
       "user": "omnigent-ai"
     },
     {
@@ -740,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 625,
       "user": "joeseesun"
     },
     {
@@ -755,7 +740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 543,
       "user": "nolangz"
     },
     {
@@ -770,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 306,
       "user": "MiniMax-AI"
     },
     {
@@ -785,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 192,
       "user": "gykim80"
     }
   ],
@@ -907,6 +892,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
       "source": "Dev.to",
       "user": "Simon Coudeville"
+    },
+    {
+      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+      "published_at": "2026-06-10T07:04:58Z",
+      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1040,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 17706,
+      "stars": 19652,
       "user": "DietrichGebert"
     },
     {
@@ -1055,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 600,
       "user": "alchaincyf"
     },
     {
@@ -1070,7 +1070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 373,
       "user": "royalbhati"
     },
     {
@@ -1085,7 +1085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "BuilderIO"
     },
     {
@@ -1100,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "buynao"
     },
     {
@@ -1115,7 +1115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1594,
+      "stars": 1657,
       "user": "tamnd"
     },
     {
@@ -1130,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 192,
       "user": "gykim80"
     }
   ],
@@ -1312,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2034,
+      "stars": 2162,
       "user": "omnigent-ai"
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 625,
       "user": "joeseesun"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 543,
       "user": "nolangz"
     },
     {
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 306,
       "user": "MiniMax-AI"
     },
     {
@@ -1372,26 +1372,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 235,
       "user": "joeseesun"
     }
   ],
   "DevOps": [
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Gubernator visual schema.",
       "url": "https://dev.to/gde/gubernator-visual-schema-1dfc",
@@ -1449,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 276,
       "user": "bjarneo"
     }
   ],
@@ -1568,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 543,
       "user": "nolangz"
     }
   ],
@@ -1692,21 +1677,6 @@
       "user": "Yurii Serhiichuk"
     },
     {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p",
-      "published_at": "2026-06-04T18:19:03Z",
-      "description": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqzknnjyuuueceq6xotm.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1777,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 373,
       "user": "royalbhati"
     }
   ],
@@ -1813,6 +1783,21 @@
       "user": "Rapls"
     },
     {
+      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+      "published_at": "2026-06-10T07:04:58Z",
+      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1836,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 167,
       "user": "kernelstub"
     }
   ],
@@ -2000,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 17706,
+      "stars": 19652,
       "user": "DietrichGebert"
     },
     {
@@ -2015,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 600,
       "user": "alchaincyf"
     },
     {
@@ -2030,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 373,
       "user": "royalbhati"
     },
     {
@@ -2045,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 329,
       "user": "BuilderIO"
     },
     {
@@ -2060,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "buynao"
     },
     {
@@ -2075,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2034,
+      "stars": 2162,
       "user": "omnigent-ai"
     },
     {
@@ -2090,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 625,
       "user": "joeseesun"
     },
     {
@@ -2105,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 543,
       "user": "nolangz"
     },
     {
@@ -2120,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 306,
       "user": "MiniMax-AI"
     },
     {
@@ -2135,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 235,
       "user": "joeseesun"
     },
     {
@@ -2150,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1594,
+      "stars": 1657,
       "user": "tamnd"
     },
     {
@@ -2165,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 276,
       "user": "bjarneo"
     },
     {
@@ -2180,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 192,
       "user": "gykim80"
     },
     {
@@ -2195,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 167,
       "user": "kernelstub"
     },
     {
@@ -2210,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 126,
       "user": "tamnd"
     }
   ]
