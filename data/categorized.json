@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
+      "url": "https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d",
+      "published_at": "2026-06-16T14:41:02Z",
+      "description": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
+      "tags": [
+        "ai",
+        "coding",
+        "programming",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyh9079w4zipmpt4subq.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Building a Chrome Extension to Make AI Use More Intentional",
       "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
       "published_at": "2026-06-15T14:44:53Z",
@@ -28,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Ftuning-gemma-4-into-an-old-korean-translator.png",
       "source": "Dev.to",
       "user": "bebechien"
-    },
-    {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "The AI Addiction Nobody Is Talking About",
@@ -261,6 +261,21 @@
       "user": "Ayoola Solomon"
     },
     {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "Why New Language Features Need to Target AI Agents, Not Developers",
       "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07",
       "published_at": "2026-06-11T14:12:20Z",
@@ -291,19 +306,34 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
+      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
+      "published_at": "2026-06-12T17:18:59Z",
+      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
       "tags": [
         "ai",
-        "css",
-        "webdev",
-        "watercooler"
+        "agents",
+        "machinelearning",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffk35sxrl5smm91fogks2.png",
       "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
+      "user": "Self-Correcting Systems"
+    },
+    {
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Coding a Robot’s Personality: HRI with the Open Duck Mini, Animations, Vibe Coding, and Gemini Live",
@@ -334,21 +364,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
-      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
-      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
-      "published_at": "2026-06-12T17:18:59Z",
-      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
-      "tags": [
-        "ai",
-        "agents",
-        "machinelearning",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffk35sxrl5smm91fogks2.png",
-      "source": "Dev.to",
-      "user": "Self-Correcting Systems"
     },
     {
       "title": "[I/O Extended Taipei] Building with Gemini APIs: From Calls to Autonomous Systems",
@@ -423,21 +438,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
-      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
-      "published_at": "2026-06-11T14:06:23Z",
-      "description": "My daughter, who's 11, has been doing some vibe coding.   The other day she looked over my shoulder...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
-      "source": "Dev.to",
-      "user": "Greg Baugues"
-    },
-    {
       "title": "Kaggle is making AI benchmark creation effortless",
       "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
       "published_at": "2026-06-04T15:51:23Z",
@@ -480,6 +480,21 @@
       "user": "jsmanifest"
     },
     {
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
+      "published_at": "2026-06-11T14:06:23Z",
+      "description": "My daughter, who's 11, has been doing some vibe coding.   The other day she looked over my shoulder...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmrotmhsmggu9hjs1bona.png",
+      "source": "Dev.to",
+      "user": "Greg Baugues"
+    },
+    {
       "title": "Aligning images to a baseline grid with modern CSS",
       "url": "https://dev.to/simoncoudeville/aligning-images-to-a-baseline-grid-with-modern-css-5fi4",
       "published_at": "2026-06-11T20:11:12Z",
@@ -493,21 +508,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
       "source": "Dev.to",
       "user": "Simon Coudeville"
-    },
-    {
-      "title": "Building Knowledge Graphs with Gemini",
-      "url": "https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail",
-      "published_at": "2026-06-12T17:37:01Z",
-      "description": "✨ Overview   In this exploration, we'll see how to turn raw, unstructured documents into...",
-      "tags": [
-        "ai",
-        "gemini",
-        "knowledgegraph",
-        "dataextraction"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sm8iy8542gke39602rm.gif",
-      "source": "Dev.to",
-      "user": "Laurent Picard"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -665,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 19652,
+      "stars": 22010,
       "user": "DietrichGebert"
     },
     {
@@ -680,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 602,
       "user": "alchaincyf"
     },
     {
@@ -695,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 277,
       "user": "buynao"
     },
     {
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2162,
+      "stars": 2426,
       "user": "omnigent-ai"
     },
     {
@@ -725,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "joeseesun"
     },
     {
@@ -740,7 +740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 570,
       "user": "nolangz"
     },
     {
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 312,
       "user": "MiniMax-AI"
     },
     {
@@ -770,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "gykim80"
     }
   ],
@@ -892,21 +892,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9zylzagmdm78oxhqab6i.png",
       "source": "Dev.to",
       "user": "Simon Coudeville"
-    },
-    {
-      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
-      "published_at": "2026-06-10T07:04:58Z",
-      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1040,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 19652,
+      "stars": 22010,
       "user": "DietrichGebert"
     },
     {
@@ -1055,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 602,
       "user": "alchaincyf"
     },
     {
@@ -1070,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "royalbhati"
     },
     {
@@ -1085,7 +1070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 333,
       "user": "BuilderIO"
     },
     {
@@ -1100,7 +1085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 277,
       "user": "buynao"
     },
     {
@@ -1115,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1707,
       "user": "tamnd"
     },
     {
@@ -1130,7 +1115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "gykim80"
     }
   ],
@@ -1312,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2162,
+      "stars": 2426,
       "user": "omnigent-ai"
     },
     {
@@ -1327,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "joeseesun"
     },
     {
@@ -1342,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 570,
       "user": "nolangz"
     },
     {
@@ -1357,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 312,
       "user": "MiniMax-AI"
     },
     {
@@ -1372,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 245,
       "user": "joeseesun"
     }
   ],
@@ -1434,26 +1419,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "bjarneo"
     }
   ],
   "WebDev": [
-    {
-      "title": "Frontend System Design: Designing a Collaborative Whiteboard",
-      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
-      "published_at": "2026-06-11T17:38:12Z",
-      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
-      "tags": [
-        "systemdesign",
-        "webdev",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
-      "source": "Dev.to",
-      "user": "Harsha Attray"
-    },
     {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
@@ -1468,6 +1438,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Frontend System Design: Designing a Collaborative Whiteboard",
+      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
+      "published_at": "2026-06-11T17:38:12Z",
+      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
+      "tags": [
+        "systemdesign",
+        "webdev",
+        "frontend",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
+      "source": "Dev.to",
+      "user": "Harsha Attray"
     },
     {
       "title": "Celebrate June rituals with Solstice Bingo!",
@@ -1553,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 570,
       "user": "nolangz"
     }
   ],
@@ -1747,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "royalbhati"
     }
   ],
@@ -1783,21 +1768,6 @@
       "user": "Rapls"
     },
     {
-      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-      "url": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
-      "published_at": "2026-06-10T07:04:58Z",
-      "description": "A few months ago I was doing a final pre-release review on a client project before handing it...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxy5qgeglvwn24u6hvva7.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1821,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "kernelstub"
     }
   ],
@@ -1985,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 19652,
+      "stars": 22010,
       "user": "DietrichGebert"
     },
     {
@@ -2000,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 602,
       "user": "alchaincyf"
     },
     {
@@ -2015,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "royalbhati"
     },
     {
@@ -2030,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 333,
       "user": "BuilderIO"
     },
     {
@@ -2045,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 277,
       "user": "buynao"
     },
     {
@@ -2060,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2162,
+      "stars": 2426,
       "user": "omnigent-ai"
     },
     {
@@ -2075,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "joeseesun"
     },
     {
@@ -2090,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 570,
       "user": "nolangz"
     },
     {
@@ -2105,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 312,
       "user": "MiniMax-AI"
     },
     {
@@ -2120,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 245,
       "user": "joeseesun"
     },
     {
@@ -2135,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1707,
       "user": "tamnd"
     },
     {
@@ -2150,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "bjarneo"
     },
     {
@@ -2165,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "gykim80"
     },
     {
@@ -2180,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "kernelstub"
     },
     {
@@ -2195,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "tamnd"
     }
   ]
