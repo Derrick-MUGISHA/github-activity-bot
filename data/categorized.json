@@ -498,18 +498,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -665,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 23470,
+      "stars": 24158,
       "user": "DietrichGebert"
     },
     {
@@ -710,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2695,
       "user": "omnigent-ai"
     },
     {
@@ -740,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 590,
       "user": "nolangz"
     },
     {
@@ -1010,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 23470,
+      "stars": 24158,
       "user": "DietrichGebert"
     },
     {
@@ -1040,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 465,
       "user": "BuilderIO"
     },
     {
@@ -1055,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 382,
       "user": "royalbhati"
     },
     {
@@ -1085,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 1746,
       "user": "tamnd"
     },
     {
@@ -1282,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2695,
       "user": "omnigent-ai"
     },
     {
@@ -1312,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 590,
       "user": "nolangz"
     },
     {
@@ -1404,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "bjarneo"
     }
   ],
@@ -1508,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 590,
       "user": "nolangz"
     }
   ],
@@ -1632,6 +1620,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
+      "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
+      "published_at": "2026-06-16T06:07:42Z",
+      "description": "Exposing a web service to the public internet typically involves assigning a public IP address to the...",
+      "tags": [
+        "security",
+        "gcp",
+        "infrastructure",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwgca9hjtfwvyyq13z0u.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1675,21 +1678,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6",
-      "published_at": "2026-05-26T14:18:48Z",
-      "description": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "tags": [
-        "cli",
-        "azurecloudshell",
-        "antigravitycli",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -1717,11 +1705,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 382,
       "user": "royalbhati"
     }
   ],
   "Security": [
+    {
+      "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
+      "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
+      "published_at": "2026-06-16T06:07:42Z",
+      "description": "Exposing a web service to the public internet typically involves assigning a public IP address to the...",
+      "tags": [
+        "security",
+        "gcp",
+        "infrastructure",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwgca9hjtfwvyyq13z0u.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
     {
       "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
       "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
@@ -1761,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "kernelstub"
     }
   ],
@@ -1887,18 +1890,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
-      "published_at": "2026-06-04T15:51:23Z",
-      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
-      "source": "Dev.to",
-      "user": "Nicholas Kang (Nick)"
-    },
-    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -1910,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 23470,
+      "stars": 24158,
       "user": "DietrichGebert"
     },
     {
@@ -1940,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 465,
       "user": "BuilderIO"
     },
     {
@@ -1955,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 382,
       "user": "royalbhati"
     },
     {
@@ -1985,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2695,
       "user": "omnigent-ai"
     },
     {
@@ -2015,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 590,
       "user": "nolangz"
     },
     {
@@ -2060,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 1746,
       "user": "tamnd"
     },
     {
@@ -2075,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "bjarneo"
     },
     {
@@ -2105,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "kernelstub"
     },
     {
@@ -2120,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "tamnd"
     }
   ]
