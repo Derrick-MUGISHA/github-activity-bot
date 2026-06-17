@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-17 18:00 CAT)
+## 📅 Latest Updates (2026-06-17 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkibesjuk8f5kq6k62nyf.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg" width="200" alt="Ask a DEV Community Mod! 🚀" />
@@ -157,6 +148,15 @@ npm run test
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwvnm309sgkqslp1hhug.png" width="200" alt="How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV" />
       <br/>
       <b>How We Saved Big and Simplified Our Image Pipeline...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkibesjuk8f5kq6k62nyf.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,9 +197,9 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk) _[Dev.to]_
 - [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Welcome Thread - v380](https://dev.to/devteam/welcome-thread-v380-oi4) _[Dev.to]_
 - [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
 - [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Wed, 17 Jun 2026 18:02:37 CAT_
+_Last automated update: Wed, 17 Jun 2026 20:33:04 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Wed, 17 Jun 2026 18:02:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 2. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 2. React: What are hooks and why were they introduced?
 
 **Difficulty**: Medium | **Topics**: hooks, functional components
 
@@ -256,6 +245,17 @@ Lazy evaluation, pipeline, terminal operations
 <summary>💡 Hint</summary>
 
 State in functional components, reusable logic, cleaner code
+
+</details>
+
+### 3. Python: What are generators and when would you use them?
+
+**Difficulty**: Medium | **Topics**: iterators, memory
+
+<details>
+<summary>💡 Hint</summary>
+
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 17 Jun 2026 16:02:37 GMT</b><br/>
+  <b>Last automated update: Wed, 17 Jun 2026 18:33:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
