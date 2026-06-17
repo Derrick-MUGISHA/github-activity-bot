@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.3 (32.3%)
-JavaScript      ██████████████████████ 24.2 (24.2%)
-Java            ██████████████████ 19.2 (19.2%)
-Python          █████████████████ 18.2 (18.2%)
+Go              ██████████████████████████████ 33.0 (33.0%)
+JavaScript      ██████████████████████ 24.0 (24.0%)
+Java            █████████████████ 19.0 (19.0%)
+Python          ████████████████ 18.0 (18.0%)
 Rust            ██ 2.0 (2.0%)
 Swift           ██ 2.0 (2.0%)
 CSharp          █ 1.0 (1.0%)
@@ -73,7 +73,7 @@ Kotlin          █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 32
+    "Go" : 33
     "JavaScript" : 24
     "Java" : 19
     "Python" : 18
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![mcps](https://img.shields.io/badge/mcps-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![programming](https://img.shields.io/badge/programming-4-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![mcps](https://img.shields.io/badge/mcps-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-17 20:00 CAT)
+## 📅 Latest Updates (2026-06-17 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,10 +135,39 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkibesjuk8f5kq6k62nyf.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/welcome-thread-v380-oi4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbhd3ouhj8yoyifiq3bc.jpeg" width="200" alt="Welcome Thread - v380" />
+      <br/>
+      <b>Welcome Thread - v380</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg" width="200" alt="Ask a DEV Community Mod! 🚀" />
       <br/>
       <b>Ask a DEV Community Mod! 🚀</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkfa2pr085hpglqbgc7r.png" width="200" alt="Real-time IP capacity in Google Cloud subnets" />
+      <br/>
+      <b>Real-time IP capacity in Google Cloud subnets</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -153,39 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkibesjuk8f5kq6k62nyf.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/welcome-thread-v380-oi4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbhd3ouhj8yoyifiq3bc.jpeg" width="200" alt="Welcome Thread - v380" />
-      <br/>
-      <b>Welcome Thread - v380</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyh9079w4zipmpt4subq.png" width="200" alt="Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model" />
       <br/>
       <b>Why the Fable 5 Crisis Proves Your AI Context Laye...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F099thx0k9r5ry0o2y593.png" width="200" alt="12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI" />
-      <br/>
-      <b>12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MC...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,10 +197,11 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk) _[Dev.to]_
-- [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Welcome Thread - v380](https://dev.to/devteam/welcome-thread-v380-oi4) _[Dev.to]_
+- [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk) _[Dev.to]_
+- [Real-time IP capacity in Google Cloud subnets](https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j) _[Dev.to]_
+- [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
 - [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
 - [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [Understanding DNS](https://dev.to/gde/understanding-dns-2a3j) _[Dev.to]_
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
-- [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Wed, 17 Jun 2026 20:33:04 CAT_
+_Last automated update: Wed, 17 Jun 2026 22:55:12 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 17 Jun 2026 20:33:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 17 Jun 2026 18:33:04 GMT</b><br/>
+  <b>Last automated update: Wed, 17 Jun 2026 20:55:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
