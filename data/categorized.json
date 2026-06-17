@@ -131,21 +131,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Orchestrating Google Workspace with Antigravity CLI: A High-Performance Agentic Framework",
-      "url": "https://dev.to/gde/orchestrating-google-workspace-with-antigravity-cli-a-high-performance-agentic-framework-270",
-      "published_at": "2026-06-15T02:43:36Z",
-      "description": "Abstract   This article explores the integration of Google Workspace with the Antigravity...",
-      "tags": [
-        "ai",
-        "gemini",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yyuvw44k1lwtfivmjlk.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Migrate to Firebase Server Prompt Template in Angular using Dependency Injection",
       "url": "https://dev.to/railsstudent/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-3k95",
       "published_at": "2026-06-15T18:29:52Z",
@@ -188,21 +173,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
       "source": "Dev.to",
       "user": "Romin Irani"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
     },
     {
       "title": "Turning Gemma 4 into an Old Korean Translator",
@@ -608,7 +578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31062,
+      "stars": 31356,
       "user": "DietrichGebert"
     },
     {
@@ -623,7 +593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "buynao"
     },
     {
@@ -638,7 +608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 227,
       "user": "rebel0789"
     },
     {
@@ -653,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 3454,
+      "stars": 3471,
       "user": "omnigent-ai"
     },
     {
@@ -668,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nolangz"
     },
     {
@@ -698,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "MiniMax-AI"
     },
     {
@@ -953,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31062,
+      "stars": 31356,
       "user": "DietrichGebert"
     },
     {
@@ -983,7 +953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "buynao"
     },
     {
@@ -1013,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 227,
       "user": "rebel0789"
     },
     {
@@ -1028,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1855,
       "user": "tamnd"
     },
     {
@@ -1062,21 +1032,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
       "user": "Dmitry Sheiko"
-    },
-    {
-      "title": "Google Antigravity SDK: The developer guide",
-      "url": "https://dev.to/googleai/google-antigravity-sdk-the-developer-guide-4o8m",
-      "published_at": "2026-06-09T15:01:34Z",
-      "description": "The Google Antigravity SDK is a Python framework for building and running autonomous agents. It...",
-      "tags": [
-        "mcpserver",
-        "googlegemini",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2Aew_HgMaHiNf6tcYBBnH-jQ.png",
-      "source": "Dev.to",
-      "user": "Karl Weinmeister"
     },
     {
       "title": "Heterogeneous Pythonic language in your pocket",
@@ -1225,7 +1180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 3454,
+      "stars": 3471,
       "user": "omnigent-ai"
     },
     {
@@ -1240,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nolangz"
     },
     {
@@ -1270,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "MiniMax-AI"
     },
     {
@@ -1347,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "bjarneo"
     }
   ],
@@ -1451,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nolangz"
     }
   ],
@@ -1512,6 +1467,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkfa2pr085hpglqbgc7r.png",
       "source": "Dev.to",
       "user": "Zach S."
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n",
+      "published_at": "2026-06-17T15:04:24Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "antigravitycli",
+        "gemma4",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd06qn4latfoeuzc50ot9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying Gemma 12B to Azure with GPU",
+      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd",
+      "published_at": "2026-06-17T01:15:19Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "nvidiagpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
@@ -1732,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "kernelstub"
     }
   ],
@@ -1766,21 +1751,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
     },
     {
       "title": "Building a Chrome Extension to Make AI Use More Intentional",
@@ -1854,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31062,
+      "stars": 31356,
       "user": "DietrichGebert"
     },
     {
@@ -1884,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "buynao"
     },
     {
@@ -1914,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 227,
       "user": "rebel0789"
     },
     {
@@ -1929,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 3454,
+      "stars": 3471,
       "user": "omnigent-ai"
     },
     {
@@ -1944,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nolangz"
     },
     {
@@ -1974,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "MiniMax-AI"
     },
     {
@@ -2004,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1855,
       "user": "tamnd"
     },
     {
@@ -2019,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "bjarneo"
     },
     {
@@ -2049,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "kernelstub"
     },
     {
@@ -2064,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "tamnd"
     }
   ]
