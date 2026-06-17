@@ -1,15 +1,15 @@
 {
   "AI": [
     {
-      "title": "Ask a DEV Community Mod!",
+      "title": "Ask a DEV Community Mod! 🚀",
       "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
       "published_at": "2026-06-16T16:52:39Z",
       "description": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
       "tags": [
         "discuss",
         "community",
-        "help",
-        "publicinbox"
+        "publicinbox",
+        "mlh"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
@@ -366,21 +366,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
-      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
-      "published_at": "2026-06-12T17:18:59Z",
-      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
-      "tags": [
-        "ai",
-        "agents",
-        "machinelearning",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffk35sxrl5smm91fogks2.png",
-      "source": "Dev.to",
-      "user": "Self-Correcting Systems"
-    },
-    {
       "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
       "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
       "published_at": "2026-06-12T13:47:44Z",
@@ -394,6 +379,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Every Step Was Allowed. The Sequence Was the Attack. (AI Memory Judgment, CLAIM-30)",
+      "url": "https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc",
+      "published_at": "2026-06-12T17:18:59Z",
+      "description": "Earlier this week I published CLAIM-29: permission is not purpose. An instruction can be fully...",
+      "tags": [
+        "ai",
+        "agents",
+        "machinelearning",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffk35sxrl5smm91fogks2.png",
+      "source": "Dev.to",
+      "user": "Self-Correcting Systems"
     },
     {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
@@ -653,23 +653,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 24501,
+      "stars": 25401,
       "user": "DietrichGebert"
-    },
-    {
-      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 604,
-      "user": "alchaincyf"
     },
     {
       "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
@@ -683,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "buynao"
     },
     {
@@ -698,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2749,
+      "stars": 2831,
       "user": "omnigent-ai"
     },
     {
@@ -713,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 632,
       "user": "joeseesun"
     },
     {
@@ -728,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 602,
       "user": "nolangz"
     },
     {
@@ -743,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "MiniMax-AI"
     },
     {
@@ -758,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "gykim80"
     }
   ],
@@ -998,38 +983,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 24501,
+      "stars": 25401,
       "user": "DietrichGebert"
-    },
-    {
-      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 604,
-      "user": "alchaincyf"
-    },
-    {
-      "title": "BuilderIO/skills - Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "published_at": "2026-06-10T16:04:20Z",
-      "description": "Skills for coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
-      "source": "GitHub",
-      "stars": 484,
-      "user": "BuilderIO"
     },
     {
       "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
@@ -1043,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 393,
       "user": "royalbhati"
     },
     {
@@ -1058,8 +1013,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "buynao"
+    },
+    {
+      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "url": "https://github.com/rotejin/tomari-guruguru",
+      "published_at": "2026-06-14T01:32:29Z",
+      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
+      "source": "GitHub",
+      "stars": 255,
+      "user": "rotejin"
+    },
+    {
+      "title": "fcompc4/ecommerce-kushi - E-commerce roupa",
+      "url": "https://github.com/fcompc4/ecommerce-kushi",
+      "published_at": "2026-06-11T04:37:46Z",
+      "description": "E-commerce roupa",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28808204?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "fcompc4"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1073,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1751,
+      "stars": 1763,
       "user": "tamnd"
     },
     {
@@ -1088,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "gykim80"
     }
   ],
@@ -1270,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2749,
+      "stars": 2831,
       "user": "omnigent-ai"
     },
     {
@@ -1285,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 632,
       "user": "joeseesun"
     },
     {
@@ -1300,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 602,
       "user": "nolangz"
     },
     {
@@ -1315,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "MiniMax-AI"
     },
     {
@@ -1330,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "joeseesun"
     }
   ],
@@ -1392,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "bjarneo"
     }
   ],
@@ -1496,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 602,
       "user": "nolangz"
     }
   ],
@@ -1705,7 +1690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 393,
       "user": "royalbhati"
     }
   ],
@@ -1764,7 +1749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "kernelstub"
     }
   ],
@@ -1901,38 +1886,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 24501,
+      "stars": 25401,
       "user": "DietrichGebert"
-    },
-    {
-      "title": "alchaincyf/fanbox - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "published_at": "2026-06-10T01:01:42Z",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 604,
-      "user": "alchaincyf"
-    },
-    {
-      "title": "BuilderIO/skills - Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "published_at": "2026-06-10T16:04:20Z",
-      "description": "Skills for coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35700027?v=4",
-      "source": "GitHub",
-      "stars": 484,
-      "user": "BuilderIO"
     },
     {
       "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
@@ -1946,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 393,
       "user": "royalbhati"
     },
     {
@@ -1961,8 +1916,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "buynao"
+    },
+    {
+      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "url": "https://github.com/rotejin/tomari-guruguru",
+      "published_at": "2026-06-14T01:32:29Z",
+      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
+      "source": "GitHub",
+      "stars": 255,
+      "user": "rotejin"
+    },
+    {
+      "title": "fcompc4/ecommerce-kushi - E-commerce roupa",
+      "url": "https://github.com/fcompc4/ecommerce-kushi",
+      "published_at": "2026-06-11T04:37:46Z",
+      "description": "E-commerce roupa",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28808204?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "fcompc4"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2749,
+      "stars": 2831,
       "user": "omnigent-ai"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 632,
       "user": "joeseesun"
     },
     {
@@ -2006,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 602,
       "user": "nolangz"
     },
     {
@@ -2021,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "MiniMax-AI"
     },
     {
@@ -2036,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "joeseesun"
     },
     {
@@ -2051,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1751,
+      "stars": 1763,
       "user": "tamnd"
     },
     {
@@ -2066,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "bjarneo"
     },
     {
@@ -2081,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "gykim80"
     },
     {
@@ -2096,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "kernelstub"
     },
     {
