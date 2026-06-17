@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
-
 **Mobile**: 🟦 3 (2.9%)
+
+**Security**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,26 +60,26 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.0 (32.0%)
-JavaScript      ███████████████████████ 24.7 (24.7%)
-Java            ██████████████████ 19.6 (19.6%)
-Python          █████████████████ 18.6 (18.6%)
-Swift           ██ 2.1 (2.1%)
+Go              ██████████████████████████████ 32.3 (32.3%)
+JavaScript      ██████████████████████ 24.2 (24.2%)
+Java            ██████████████████ 19.2 (19.2%)
+Python          █████████████████ 18.2 (18.2%)
+Rust            ██ 2.0 (2.0%)
+Swift           ██ 2.0 (2.0%)
 CSharp          █ 1.0 (1.0%)
-Rust            █ 1.0 (1.0%)
 Kotlin          █ 1.0 (1.0%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 31
+    "Go" : 32
     "JavaScript" : 24
     "Java" : 19
     "Python" : 18
+    "Rust" : 2
     "Swift" : 2
     "CSharp" : 1
-    "Rust" : 1
     "Kotlin" : 1
 ```
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![mcps](https://img.shields.io/badge/mcps-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![go](https://img.shields.io/badge/go-5-blue) ![gamechallenge](https://img.shields.io/badge/gamechallenge-4-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![mcps](https://img.shields.io/badge/mcps-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![programming](https://img.shields.io/badge/programming-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-17 14:00 CAT)
+## 📅 Latest Updates (2026-06-17 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -164,19 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F880bc79853sohrrvwunf.jpeg" width="200" alt="Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow" />
+    <a href="https://dev.to/devteam/welcome-thread-v380-oi4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbhd3ouhj8yoyifiq3bc.jpeg" width="200" alt="Welcome Thread - v380" />
       <br/>
-      <b>Letters to Tomorrow: A June Solstice Game About th...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27j43x2fpej4lrtsuxnr.png" width="200" alt="Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI" />
-      <br/>
-      <b>Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and ...</b>
+      <b>Welcome Thread - v380</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -186,6 +177,15 @@ npm run test
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyh9079w4zipmpt4subq.png" width="200" alt="Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model" />
       <br/>
       <b>Why the Fable 5 Crisis Proves Your AI Context Laye...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F099thx0k9r5ry0o2y593.png" width="200" alt="12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI" />
+      <br/>
+      <b>12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MC...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,17 +200,17 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk) _[Dev.to]_
 - [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
-- [Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow](https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf) _[Dev.to]_
-- [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p) _[Dev.to]_
+- [Welcome Thread - v380](https://dev.to/devteam/welcome-thread-v380-oi4) _[Dev.to]_
 - [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
-- [Turning Gemma 4 into an Old Korean Translator](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop) _[Dev.to]_
-- [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
-- [Building a Chrome Extension to Make AI Use More Intentional](https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0) _[Dev.to]_
+- [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p) _[Dev.to]_
+- [Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
+- [Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow](https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf) _[Dev.to]_
+- [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
 - [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Wed, 17 Jun 2026 14:02:48 CAT_
+_Last automated update: Wed, 17 Jun 2026 18:02:37 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Wed, 17 Jun 2026 14:02:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Database: What is database normalization and denormalization?
+
+**Difficulty**: Medium | **Topics**: design, optimization
+
+<details>
+<summary>💡 Hint</summary>
+
+Normal forms, redundancy, performance trade-offs
+
+</details>
+
+### 2. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -237,25 +248,14 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: event loop, async
-
-<details>
-<summary>💡 Hint</summary>
-
-Execution timing, event loop phases
-
-</details>
-
-### 3. React: How would you optimize a React app's performance?
-
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 17 Jun 2026 12:02:48 GMT</b><br/>
+  <b>Last automated update: Wed, 17 Jun 2026 16:02:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
