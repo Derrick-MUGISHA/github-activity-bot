@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![mcps](https://img.shields.io/badge/mcps-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![go](https://img.shields.io/badge/go-5-blue) ![programming](https://img.shields.io/badge/programming-4-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![mcps](https://img.shields.io/badge/mcps-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![go](https://img.shields.io/badge/go-5-blue) ![gamechallenge](https://img.shields.io/badge/gamechallenge-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-17 9:00 CAT)
+## 📅 Latest Updates (2026-06-17 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -164,15 +164,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyh9079w4zipmpt4subq.png" width="200" alt="Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model" />
-      <br/>
-      <b>Why the Fable 5 Crisis Proves Your AI Context Laye...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F880bc79853sohrrvwunf.jpeg" width="200" alt="Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow" />
       <br/>
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyh9079w4zipmpt4subq.png" width="200" alt="Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model" />
+      <br/>
+      <b>Why the Fable 5 Crisis Proves Your AI Context Laye...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -200,9 +200,9 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk) _[Dev.to]_
 - [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
-- [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
 - [Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow](https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf) _[Dev.to]_
 - [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p) _[Dev.to]_
+- [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
 - [Turning Gemma 4 into an Old Korean Translator](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop) _[Dev.to]_
 - [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
 - [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Wed, 17 Jun 2026 09:22:13 CAT_
+_Last automated update: Wed, 17 Jun 2026 14:02:48 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 17 Jun 2026 09:22:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Execution timing, event loop phases
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 17 Jun 2026 07:22:13 GMT</b><br/>
+  <b>Last automated update: Wed, 17 Jun 2026 12:02:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
