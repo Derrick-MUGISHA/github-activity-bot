@@ -31,21 +31,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Building a Chrome Extension to Make AI Use More Intentional",
-      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
-      "published_at": "2026-06-15T14:44:53Z",
-      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
-      "tags": [
-        "ai",
-        "webdev",
-        "productivity",
-        "buildinpublic"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
       "title": "Turning Gemma 4 into an Old Korean Translator",
       "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
       "published_at": "2026-06-15T06:13:07Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "published_at": "2026-06-15T14:44:53Z",
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "buildinpublic"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
     },
     {
       "title": "The AI Addiction Nobody Is Talking About",
@@ -173,21 +173,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yyuvw44k1lwtfivmjlk.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "[Gemini API] Gemini Batch API and Webhook API practical usage on restaurant survey",
-      "url": "https://dev.to/gde/gemini-api-hands-on-6im",
-      "published_at": "2026-06-15T04:09:16Z",
-      "description": "A Powerful Tool for Asynchronous Processing: Gemini Batch API &amp; Webhooks   When...",
-      "tags": [
-        "api",
-        "gemini",
-        "llm",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyfgncl2qh3n7f3xpmjo.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Migrate to Firebase Server Prompt Template in Angular using Dependency Injection",
@@ -426,21 +411,6 @@
       "user": "Yurii Serhiichuk"
     },
     {
-      "title": "[I/O Extended Taipei] Building with Gemini APIs: From Calls to Autonomous Systems",
-      "url": "https://dev.to/gde/io-extended-taipei-building-cl0",
-      "published_at": "2026-06-14T07:12:11Z",
-      "description": "(Activity: Google I/O Extended 2026 Taipei / Presentation: SpeakerDeck)           Context: The...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhs22jga5dlbwf0pp9qys.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "I Built a Web App That Finds the Fairest Meeting Spot for Any Group (and It's Free)",
       "url": "https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j",
       "published_at": "2026-06-14T03:07:56Z",
@@ -496,6 +466,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -653,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 25401,
+      "stars": 27223,
       "user": "DietrichGebert"
     },
     {
@@ -668,8 +650,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 286,
       "user": "buynao"
+    },
+    {
+      "title": "taisly/agent - Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "url": "https://github.com/taisly/agent",
+      "published_at": "2026-06-11T04:33:30Z",
+      "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292659094?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "taisly"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -683,7 +680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2831,
+      "stars": 3043,
       "user": "omnigent-ai"
     },
     {
@@ -698,7 +695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 640,
       "user": "joeseesun"
     },
     {
@@ -713,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 635,
       "user": "nolangz"
     },
     {
@@ -728,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "MiniMax-AI"
     },
     {
@@ -743,7 +740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "gykim80"
     }
   ],
@@ -983,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 25401,
+      "stars": 27223,
       "user": "DietrichGebert"
     },
     {
@@ -998,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 409,
       "user": "royalbhati"
     },
     {
@@ -1013,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 286,
       "user": "buynao"
     },
     {
@@ -1028,23 +1025,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 260,
       "user": "rotejin"
     },
     {
-      "title": "fcompc4/ecommerce-kushi - E-commerce roupa",
-      "url": "https://github.com/fcompc4/ecommerce-kushi",
-      "published_at": "2026-06-11T04:37:46Z",
-      "description": "E-commerce roupa",
+      "title": "taisly/agent - Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "url": "https://github.com/taisly/agent",
+      "published_at": "2026-06-11T04:33:30Z",
+      "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28808204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/292659094?v=4",
       "source": "GitHub",
       "stars": 205,
-      "user": "fcompc4"
+      "user": "taisly"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1058,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1794,
       "user": "tamnd"
     },
     {
@@ -1073,7 +1070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "gykim80"
     }
   ],
@@ -1255,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2831,
+      "stars": 3043,
       "user": "omnigent-ai"
     },
     {
@@ -1270,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 640,
       "user": "joeseesun"
     },
     {
@@ -1285,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 635,
       "user": "nolangz"
     },
     {
@@ -1300,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "MiniMax-AI"
     },
     {
@@ -1315,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 263,
       "user": "joeseesun"
     }
   ],
@@ -1377,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 306,
       "user": "bjarneo"
     }
   ],
@@ -1481,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 635,
       "user": "nolangz"
     }
   ],
@@ -1663,6 +1660,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "Azure Cloud Shell with Antigravity CLI",
+      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6",
+      "published_at": "2026-05-26T14:18:48Z",
+      "description": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
+      "tags": [
+        "cli",
+        "azurecloudshell",
+        "antigravitycli",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1690,7 +1702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 409,
       "user": "royalbhati"
     }
   ],
@@ -1749,26 +1761,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 177,
       "user": "kernelstub"
     }
   ],
   "Tools": [
-    {
-      "title": "Building a Chrome Extension to Make AI Use More Intentional",
-      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
-      "published_at": "2026-06-15T14:44:53Z",
-      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
-      "tags": [
-        "ai",
-        "webdev",
-        "productivity",
-        "buildinpublic"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
     {
       "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
@@ -1785,6 +1782,21 @@
       "user": "Aryan Irani"
     },
     {
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "published_at": "2026-06-15T14:44:53Z",
+      "description": "After posting several articles about the impact of AI on developers and sharing resources to help...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "buildinpublic"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
+    },
+    {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
       "published_at": "2026-06-12T06:09:40Z",
@@ -1796,21 +1808,6 @@
         "softwaredevelopment"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "[Gemini API] Gemini Batch API and Webhook API practical usage on restaurant survey",
-      "url": "https://dev.to/gde/gemini-api-hands-on-6im",
-      "published_at": "2026-06-15T04:09:16Z",
-      "description": "A Powerful Tool for Asynchronous Processing: Gemini Batch API &amp; Webhooks   When...",
-      "tags": [
-        "api",
-        "gemini",
-        "llm",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyfgncl2qh3n7f3xpmjo.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -1875,6 +1872,18 @@
       "user": "Cristhian Ferreira "
     },
     {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n",
+      "published_at": "2026-06-04T15:51:23Z",
+      "description": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faob87r8exg7lnul2n4ey.png",
+      "source": "Dev.to",
+      "user": "Nicholas Kang (Nick)"
+    },
+    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -1886,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 25401,
+      "stars": 27223,
       "user": "DietrichGebert"
     },
     {
@@ -1901,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 409,
       "user": "royalbhati"
     },
     {
@@ -1916,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 286,
       "user": "buynao"
     },
     {
@@ -1931,23 +1940,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 260,
       "user": "rotejin"
     },
     {
-      "title": "fcompc4/ecommerce-kushi - E-commerce roupa",
-      "url": "https://github.com/fcompc4/ecommerce-kushi",
-      "published_at": "2026-06-11T04:37:46Z",
-      "description": "E-commerce roupa",
+      "title": "taisly/agent - Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "url": "https://github.com/taisly/agent",
+      "published_at": "2026-06-11T04:33:30Z",
+      "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28808204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/292659094?v=4",
       "source": "GitHub",
       "stars": 205,
-      "user": "fcompc4"
+      "user": "taisly"
     },
     {
       "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
@@ -1961,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
       "source": "GitHub",
-      "stars": 2831,
+      "stars": 3043,
       "user": "omnigent-ai"
     },
     {
@@ -1976,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 640,
       "user": "joeseesun"
     },
     {
@@ -1991,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 635,
       "user": "nolangz"
     },
     {
@@ -2006,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "MiniMax-AI"
     },
     {
@@ -2021,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 263,
       "user": "joeseesun"
     },
     {
@@ -2036,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1794,
       "user": "tamnd"
     },
     {
@@ -2051,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 306,
       "user": "bjarneo"
     },
     {
@@ -2066,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "gykim80"
     },
     {
@@ -2081,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 177,
       "user": "kernelstub"
     },
     {
@@ -2096,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "tamnd"
     }
   ]
