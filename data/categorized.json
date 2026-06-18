@@ -101,21 +101,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[Hands-on Gemini 3.5 Live",
       "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
       "published_at": "2026-06-12T06:09:59Z",
@@ -127,6 +112,21 @@
         "google"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -578,7 +578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31557,
+      "stars": 32643,
       "user": "DietrichGebert"
     },
     {
@@ -593,7 +593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "buynao"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 294,
       "user": "rebel0789"
     },
     {
@@ -623,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 730,
       "user": "nolangz"
     },
     {
@@ -638,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 285,
       "user": "dongshuyan"
     },
     {
@@ -653,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 248,
       "user": "majidmanzarpour"
     },
     {
@@ -668,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "gykim80"
     }
   ],
@@ -908,7 +908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31557,
+      "stars": 32643,
       "user": "DietrichGebert"
     },
     {
@@ -923,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 454,
       "user": "royalbhati"
     },
     {
@@ -938,23 +938,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "buynao"
-    },
-    {
-      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "url": "https://github.com/rotejin/tomari-guruguru",
-      "published_at": "2026-06-14T01:32:29Z",
-      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "rotejin"
     },
     {
       "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
@@ -968,8 +953,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 294,
       "user": "rebel0789"
+    },
+    {
+      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "url": "https://github.com/rotejin/tomari-guruguru",
+      "published_at": "2026-06-14T01:32:29Z",
+      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "rotejin"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -983,7 +983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 248,
       "user": "majidmanzarpour"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1858,
+      "stars": 1872,
       "user": "tamnd"
     },
     {
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "gykim80"
     }
   ],
@@ -1180,8 +1180,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 730,
       "user": "nolangz"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "dongshuyan"
     },
     {
       "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
@@ -1195,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "joeseesun"
     },
     {
@@ -1210,23 +1225,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 275,
       "user": "baskduf"
-    },
-    {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "dongshuyan"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1240,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 248,
       "user": "majidmanzarpour"
     }
   ],
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "bjarneo"
     }
   ],
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 730,
       "user": "nolangz"
     }
   ],
@@ -1514,21 +1514,6 @@
       "user": "xbill"
     },
     {
-      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
-      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2",
-      "published_at": "2026-06-17T04:11:30Z",
-      "description": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
-      "tags": [
-        "dns",
-        "dnssec",
-        "dnsabuse",
-        "trustinthecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frgjkvp9o7dv4584tmtpb.webp",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
-    },
-    {
       "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl",
       "published_at": "2026-06-11T14:11:07Z",
@@ -1542,6 +1527,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
+      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2",
+      "published_at": "2026-06-17T04:11:30Z",
+      "description": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
+      "tags": [
+        "dns",
+        "dnssec",
+        "dnsabuse",
+        "trustinthecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frgjkvp9o7dv4584tmtpb.webp",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
     },
     {
       "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1673,7 +1673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 454,
       "user": "royalbhati"
     }
   ],
@@ -1717,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "kernelstub"
     }
   ],
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31557,
+      "stars": 32643,
       "user": "DietrichGebert"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 454,
       "user": "royalbhati"
     },
     {
@@ -1854,23 +1854,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "buynao"
-    },
-    {
-      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "url": "https://github.com/rotejin/tomari-guruguru",
-      "published_at": "2026-06-14T01:32:29Z",
-      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "rotejin"
     },
     {
       "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
@@ -1884,8 +1869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 294,
       "user": "rebel0789"
+    },
+    {
+      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "url": "https://github.com/rotejin/tomari-guruguru",
+      "published_at": "2026-06-14T01:32:29Z",
+      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "rotejin"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -1899,8 +1899,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 730,
       "user": "nolangz"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "dongshuyan"
     },
     {
       "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
@@ -1914,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 279,
       "user": "joeseesun"
     },
     {
@@ -1929,23 +1944,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 275,
       "user": "baskduf"
-    },
-    {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "dongshuyan"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 248,
       "user": "majidmanzarpour"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1858,
+      "stars": 1872,
       "user": "tamnd"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "bjarneo"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "gykim80"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "kernelstub"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "tamnd"
     }
   ]
