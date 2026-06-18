@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.7 (30.7%)
-JavaScript      ██████████████████████████ 26.7 (26.7%)
-Java            ██████████████████ 18.8 (18.8%)
-Python          █████████████████ 17.8 (17.8%)
+Go              ██████████████████████████████ 30.0 (30.0%)
+JavaScript      ███████████████████████████ 27.0 (27.0%)
+Java            ███████████████████ 19.0 (19.0%)
+Python          ██████████████████ 18.0 (18.0%)
 Rust            ██ 2.0 (2.0%)
 Swift           ██ 2.0 (2.0%)
 CSharp          █ 1.0 (1.0%)
@@ -73,7 +73,7 @@ Kotlin          █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 31
+    "Go" : 30
     "JavaScript" : 27
     "Java" : 19
     "Python" : 18
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-5-blue) ![gemma4](https://img.shields.io/badge/gemma4-4-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-4-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![mcps](https://img.shields.io/badge/mcps-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![gemma](https://img.shields.io/badge/gemma-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-18 20:00 CAT)
+## 📅 Latest Updates (2026-06-18 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,19 +135,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png" width="200" alt="How to Read a webrtc-internals Dump, Section by Section" />
+    <a href="https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkzhq7ubwj6ql54brttec.png" width="200" alt="Congrats to the Gemma 4 Challenge Winners!" />
       <br/>
-      <b>How to Read a webrtc-internals Dump, Section by Se...</b>
+      <b>Congrats to the Gemma 4 Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwvnm309sgkqslp1hhug.png" width="200" alt="How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV" />
+    <a href="https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png" width="200" alt="How to Read a webrtc-internals Dump, Section by Section" />
       <br/>
-      <b>How We Saved Big and Simplified Our Image Pipeline...</b>
+      <b>How to Read a webrtc-internals Dump, Section by Se...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,8 +197,8 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) _[Dev.to]_
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
-- [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Welcome Thread - v380](https://dev.to/devteam/welcome-thread-v380-oi4) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
@@ -211,14 +211,14 @@ npm run test
 - [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd) _[Dev.to]_
 - [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p) _[Dev.to]_
 - [Generative UI with AI on React + React Native Universal App](https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj) _[Dev.to]_
+- [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow](https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf) _[Dev.to]_
 - [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
-- [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
 
-_Last automated update: Thu, 18 Jun 2026 20:36:58 CAT_
+_Last automated update: Thu, 18 Jun 2026 23:12:13 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 18 Jun 2026 20:36:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 18 Jun 2026 18:36:58 GMT</b><br/>
+  <b>Last automated update: Thu, 18 Jun 2026 21:12:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
