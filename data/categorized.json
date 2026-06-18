@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
+      "title": "Building an agentic PR reviewer with Antigravity SDK",
+      "url": "https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i",
+      "published_at": "2026-06-18T19:21:08Z",
+      "description": "As announced in this blog post on June 18, 2026, Gemini CLI and Gemini Code Assist IDE extensions...",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwp5h8386xx9n2acyy28s.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
       "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
       "published_at": "2026-06-17T18:59:52Z",
@@ -143,36 +173,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fodtswm0h0q0k2wyrvfsm.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "[Hands-on Gemini 3.5 Live",
-      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
-      "published_at": "2026-06-12T06:09:59Z",
-      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Migrate to Firebase Server Prompt Template in Angular using Dependency Injection",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 36265,
+      "stars": 36512,
       "user": "DietrichGebert"
     },
     {
@@ -629,6 +629,21 @@
       "user": "buynao"
     },
     {
+      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "published_at": "2026-06-16T15:43:27Z",
+      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "yolfinance"
+    },
+    {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "url": "https://github.com/nolangz/pixel2motion",
       "published_at": "2026-06-12T04:25:17Z",
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 794,
       "user": "nolangz"
     },
     {
@@ -954,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 36265,
+      "stars": 36512,
       "user": "DietrichGebert"
     },
     {
@@ -1003,19 +1018,19 @@
       "user": "rotejin"
     },
     {
-      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-      "published_at": "2026-06-13T10:40:30Z",
-      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "published_at": "2026-06-16T15:43:27Z",
+      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "zexuanw958-svg"
+      "stars": 137,
+      "user": "yolfinance"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1029,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1998,
+      "stars": 2002,
       "user": "tamnd"
     },
     {
@@ -1226,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 794,
       "user": "nolangz"
     },
     {
@@ -1241,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 474,
       "user": "fivetaku"
     },
     {
@@ -1256,8 +1271,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "baskduf"
+    },
+    {
+      "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+      "published_at": "2026-06-13T16:32:57Z",
+      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "joeseesun"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -1273,21 +1303,6 @@
       "source": "GitHub",
       "stars": 295,
       "user": "dongshuyan"
-    },
-    {
-      "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
-      "published_at": "2026-06-13T16:32:57Z",
-      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "joeseesun"
     }
   ],
   "DevOps": [
@@ -1381,21 +1396,6 @@
       "user": "velmu"
     },
     {
-      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-      "published_at": "2026-06-13T10:40:30Z",
-      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "zexuanw958-svg"
-    },
-    {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "url": "https://github.com/nolangz/pixel2motion",
       "published_at": "2026-06-12T04:25:17Z",
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 794,
       "user": "nolangz"
     }
   ],
@@ -1471,6 +1471,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
     {
       "title": "Real-time IP capacity in Google Cloud subnets",
       "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j",
@@ -1694,6 +1709,21 @@
   ],
   "Tools": [
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
       "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
       "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
       "published_at": "2026-06-17T22:26:14Z",
@@ -1722,21 +1752,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
-    },
-    {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "The agent that fixes bugs by running the code",
@@ -1825,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 36265,
+      "stars": 36512,
       "user": "DietrichGebert"
     },
     {
@@ -1874,19 +1889,19 @@
       "user": "rotejin"
     },
     {
-      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-      "published_at": "2026-06-13T10:40:30Z",
-      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "published_at": "2026-06-16T15:43:27Z",
+      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "zexuanw958-svg"
+      "stars": 137,
+      "user": "yolfinance"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -1900,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 794,
       "user": "nolangz"
     },
     {
@@ -1915,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 474,
       "user": "fivetaku"
     },
     {
@@ -1930,8 +1945,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "baskduf"
+    },
+    {
+      "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+      "published_at": "2026-06-13T16:32:57Z",
+      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "joeseesun"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -1949,21 +1979,6 @@
       "user": "dongshuyan"
     },
     {
-      "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
-      "published_at": "2026-06-13T16:32:57Z",
-      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "joeseesun"
-    },
-    {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
       "url": "https://github.com/tamnd/kage",
       "published_at": "2026-06-14T11:21:55Z",
@@ -1975,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1998,
+      "stars": 2002,
       "user": "tamnd"
     },
     {
