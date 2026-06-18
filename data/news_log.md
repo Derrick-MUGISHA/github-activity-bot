@@ -2016872,3 +2016872,827 @@ Interactive AI General Education Course — 30 Lessons, Zero Math
 
 ---
 
+
+
+## 📰 DevTech News — 2026-06-18 18:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (48 articles)
+
+#### 1. [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk)
+📅 Tue, 16 Jun 2026 16:52:39 GMT
+👤 By: FrancisTRᴅᴇᴠ (っ◔◡◔)っ | 📌 Source: Dev.to
+
+![Ask a DEV Community Mod! 🚀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg)
+
+Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...
+
+🏷️ Tags: `discuss`, `community`, `publicinbox`, `ama`
+
+---
+
+#### 2. [Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini](https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25)
+📅 Wed, 17 Jun 2026 18:59:52 GMT
+👤 By: Aditya Kumar | 📌 Source: Dev.to
+
+![Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdobwvjec7q86sha8sod.png)
+
+Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...
+
+🏷️ Tags: `ai`, `rag`, `buildingrag`
+
+---
+
+#### 3. [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
+📅 Wed, 17 Jun 2026 22:26:14 GMT
+👤 By: Joan Miquel Torres | 📌 Source: Dev.to
+
+![Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png)
+
+I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...
+
+🏷️ Tags: `opencode`, `ai`, `vim`, `productivity`
+
+---
+
+#### 4. [Generative UI with AI on React + React Native Universal App](https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj)
+📅 Thu, 18 Jun 2026 05:47:29 GMT
+👤 By: Neetigya Chahar | 📌 Source: Dev.to
+
+![Generative UI with AI on React + React Native Universal App](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png)
+
+Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...
+
+🏷️ Tags: `ai`, `react`, `reactnative`, `webdev`
+
+---
+
+#### 5. [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8)
+📅 Thu, 11 Jun 2026 22:49:00 GMT
+👤 By: Samir Yahyazade | 📌 Source: Dev.to
+
+![The AI Addiction Nobody Is Talking About](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg)
+
+There is a particular kind of restlessness spreading through the tech world right now. It is not...
+
+---
+
+#### 6. [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d)
+📅 Tue, 16 Jun 2026 14:41:02 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyh9079w4zipmpt4subq.png)
+
+Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...
+
+🏷️ Tags: `ai`, `coding`, `programming`, `opensource`
+
+---
+
+#### 7. [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400)
+📅 Tue, 16 Jun 2026 12:19:35 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png)
+
+If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...
+
+🏷️ Tags: `googleworkspace`, `workspacestudio`, `automation`, `productivity`
+
+---
+
+#### 8. [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a)
+📅 Mon, 08 Jun 2026 06:48:16 GMT
+👤 By: ankush chadha | 📌 Source: Dev.to
+
+![I tried to make an AI agent answer more. It answered less.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png)
+
+If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...
+
+🏷️ Tags: `ai`, `llm`, `eval`, `agents`
+
+---
+
+#### 9. [Understanding DNS](https://dev.to/gde/understanding-dns-2a3j)
+📅 Tue, 16 Jun 2026 02:28:20 GMT
+👤 By: Gbemisola Esho | 📌 Source: Dev.to
+
+![Understanding DNS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2vacv4wozms365fh4ml.png)
+
+Domain Name System(DNS) is often called the phone book of the internet, this is because like a phone...
+
+🏷️ Tags: `domainame`, `phonebook`, `domainnamesystem`, `internet`
+
+---
+
+#### 10. [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj)
+📅 Mon, 15 Jun 2026 18:31:32 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fodtswm0h0q0k2wyrvfsm.jpg)
+
+Migrate to Firebase Server Prompt Template in Angular using Dependency Injection   Firebase...
+
+🏷️ Tags: `angular`, `firebase`, `ai`, `web`
+
+---
+
+### 🏷️ JavaScript (27 articles)
+
+#### 1. [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
+📅 Thu, 18 Jun 2026 12:56:27 GMT
+👤 By: Tsahi Levent-Levi | 📌 Source: Dev.to
+
+![How to Read a webrtc-internals Dump, Section by Section](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png)
+
+When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...
+
+🏷️ Tags: `webrtc`, `javascript`, `webdev`
+
+---
+
+#### 2. [Generative UI with AI on React + React Native Universal App](https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj)
+📅 Thu, 18 Jun 2026 05:47:29 GMT
+👤 By: Neetigya Chahar | 📌 Source: Dev.to
+
+![Generative UI with AI on React + React Native Universal App](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png)
+
+Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...
+
+🏷️ Tags: `ai`, `react`, `reactnative`, `webdev`
+
+---
+
+#### 3. [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+📅 Fri, 12 Jun 2026 12:31:21 GMT
+👤 By: Dmitry Sheiko | 📌 Source: Dev.to
+
+![Why I still teach Singleton even though modules make it redundant](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png)
+
+Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...
+
+🏷️ Tags: `webdev`, `javascript`, `python`, `rust`
+
+---
+
+#### 4. [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj)
+📅 Mon, 15 Jun 2026 18:31:32 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fodtswm0h0q0k2wyrvfsm.jpg)
+
+Migrate to Firebase Server Prompt Template in Angular using Dependency Injection   Firebase...
+
+🏷️ Tags: `angular`, `firebase`, `ai`, `web`
+
+---
+
+#### 5. [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection](https://dev.to/railsstudent/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-3k95)
+📅 Mon, 15 Jun 2026 18:29:52 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Migrate to Firebase Server Prompt Template in Angular using Dependency Injection](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fea1vfma7x7108b1p85pb.jpg)
+
+Firebase released Server Prompt Templates to host prompt templates in its infrastructure. The...
+
+🏷️ Tags: `angular`, `firebase`, `ai`, `webdev`
+
+---
+
+#### 6. [Angular resources are not a good fit for Guards](https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j)
+📅 Wed, 17 Jun 2026 11:34:32 GMT
+👤 By: Gérôme Grignon | 📌 Source: Dev.to
+
+![Angular resources are not a good fit for Guards](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png)
+
+Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...
+
+🏷️ Tags: `angular`, `webdev`
+
+---
+
+#### 7. [Stop reaching for microservices. You are not Netflix](https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8)
+📅 Wed, 17 Jun 2026 12:24:01 GMT
+👤 By: Diogo Capela | 📌 Source: Dev.to
+
+![Stop reaching for microservices. You are not Netflix](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png)
+
+A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.
+
+🏷️ Tags: `productivity`, `microservices`, `community`, `development`
+
+---
+
+#### 8. [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555)
+📅 Tue, 02 Jun 2026 20:02:27 GMT
+👤 By: Ayoola Solomon | 📌 Source: Dev.to
+
+![Stop writing prompts to classify text: make evaluation declarative](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png)
+
+I've built the same thing more than once: a step that reads an inbound message — a lead form, a...
+
+🏷️ Tags: `ai`, `llm`, `typescript`, `softwareengineering`
+
+---
+
+#### 9. [Frontend System Design: Designing a Collaborative Whiteboard](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5)
+📅 Thu, 11 Jun 2026 17:38:12 GMT
+👤 By: Harsha Attray | 📌 Source: Dev.to
+
+![Frontend System Design: Designing a Collaborative Whiteboard](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png)
+
+A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.
+
+🏷️ Tags: `systemdesign`, `webdev`, `frontend`, `javascript`
+
+---
+
+#### 10. [Building a browser-only tool to turn QR codes into Lego bricks](https://dev.to/drazenbebic/building-a-browser-only-tool-to-turn-qr-codes-into-lego-bricks-1dc5)
+📅 Wed, 17 Jun 2026 09:16:30 GMT
+👤 By: Drazen Bebic | 📌 Source: Dev.to
+
+![Building a browser-only tool to turn QR codes into Lego bricks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl3z7vt4jh3y1n0yczrm.png)
+
+How I built a 100% client-side React app that converts data into optimized Lego QR code blueprints and exports BrickLink XMLs.
+
+🏷️ Tags: `webdev`, `react`, `typescript`, `showdev`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+📅 Fri, 12 Jun 2026 12:31:21 GMT
+👤 By: Dmitry Sheiko | 📌 Source: Dev.to
+
+![Why I still teach Singleton even though modules make it redundant](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png)
+
+Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...
+
+🏷️ Tags: `webdev`, `javascript`, `python`, `rust`
+
+---
+
+#### 2. [Google Antigravity SDK: The developer guide](https://dev.to/googleai/google-antigravity-sdk-the-developer-guide-4o8m)
+📅 Tue, 09 Jun 2026 15:01:34 GMT
+👤 By: Karl Weinmeister | 📌 Source: Dev.to
+
+![Google Antigravity SDK: The developer guide](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2Aew_HgMaHiNf6tcYBBnH-jQ.png)
+
+The Google Antigravity SDK is a Python framework for building and running autonomous agents. It...
+
+🏷️ Tags: `mcpserver`, `googlegemini`, `python`, `agents`
+
+---
+
+#### 3. [Heterogeneous Pythonic language in your pocket](https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7)
+📅 Thu, 11 Jun 2026 19:02:52 GMT
+👤 By: Amr Hesham | 📌 Source: Dev.to
+
+![Heterogeneous Pythonic language in your pocket](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg)
+
+Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...
+
+🏷️ Tags: `gpu`, `python`, `android`, `programming`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (3 articles)
+
+#### 1. [Gubernator visual schema.](https://dev.to/gde/gubernator-visual-schema-1dfc)
+📅 Tue, 09 Jun 2026 09:42:18 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Gubernator visual schema.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04v0grh5v6qutl6jamsw.png)
+
+Excited to share the latest feature built for Gubernator (gbnt): Visual Stack Topology &amp;...
+
+🏷️ Tags: `docker`, `gubernator`, `antigravity`, `agenticarchitect`
+
+---
+
+#### 2. [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l)
+📅 Mon, 01 Jun 2026 18:54:52 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Strategies for running AI workloads on GKE without committed quota](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png)
+
+Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [bjarneo/ku - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ](https://github.com/bjarneo/ku)
+📅 Sat, 13 Jun 2026 14:38:25 GMT
+👤 By: bjarneo | 📌 Source: GitHub
+
+![bjarneo/ku - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ](https://avatars.githubusercontent.com/u/1419214?v=4)
+
+A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. 
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 338
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [Frontend System Design: Designing a Collaborative Whiteboard](https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5)
+📅 Thu, 11 Jun 2026 17:38:12 GMT
+👤 By: Harsha Attray | 📌 Source: Dev.to
+
+![Frontend System Design: Designing a Collaborative Whiteboard](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png)
+
+A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.
+
+🏷️ Tags: `systemdesign`, `webdev`, `frontend`, `javascript`
+
+---
+
+#### 2. [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf)
+📅 Wed, 10 Jun 2026 11:11:50 GMT
+👤 By: Ingo Steinke, web developer | 📌 Source: Dev.to
+
+![CSS – only a Nerdy Hobby?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png)
+
+In times when people believe that "AI can code a website in 2 days" (see: how to leverage AI as a...
+
+🏷️ Tags: `ai`, `css`, `webdev`, `watercooler`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。](https://github.com/zexuanw958-svg/travel-plan-viz)
+📅 Sat, 13 Jun 2026 10:40:30 GMT
+👤 By: zexuanw958-svg | 📌 Source: GitHub
+
+![zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。](https://avatars.githubusercontent.com/u/266722546?v=4)
+
+Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 133
+
+---
+
+#### 5. [nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.](https://github.com/nolangz/pixel2motion)
+📅 Fri, 12 Jun 2026 04:25:17 GMT
+👤 By: nolangz | 📌 Source: GitHub
+
+![nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.](https://avatars.githubusercontent.com/u/64394910?v=4)
+
+AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 788
+
+---
+
+### 🏷️ Mobile (4 articles)
+
+#### 1. [Generative UI with AI on React + React Native Universal App](https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj)
+📅 Thu, 18 Jun 2026 05:47:29 GMT
+👤 By: Neetigya Chahar | 📌 Source: Dev.to
+
+![Generative UI with AI on React + React Native Universal App](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png)
+
+Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...
+
+🏷️ Tags: `ai`, `react`, `reactnative`, `webdev`
+
+---
+
+#### 2. [What I Learned Working on a Large-Scale Social Media iOS Application](https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace)
+📅 Tue, 16 Jun 2026 18:13:25 GMT
+👤 By: Michał Cichoń | 📌 Source: Dev.to
+
+![What I Learned Working on a Large-Scale Social Media iOS Application](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg)
+
+Lessons learned from building and maintaining a large-scale social media iOS application, including architecture, engineering practices, product development, and team collaboration.
+
+🏷️ Tags: `softwareengineering`, `architecture`, `productdevelopment`, `career`
+
+---
+
+#### 3. [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422)
+📅 Fri, 05 Jun 2026 14:58:17 GMT
+👤 By: Ingo Steinke, web developer | 📌 Source: Dev.to
+
+![Dystopian Civilization Scenarios](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png)
+
+Gaming, like AI, is far from what fascinates me most about technology and creative development....
+
+🏷️ Tags: `watercooler`
+
+---
+
+#### 4. [Heterogeneous Pythonic language in your pocket](https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7)
+📅 Thu, 11 Jun 2026 19:02:52 GMT
+👤 By: Amr Hesham | 📌 Source: Dev.to
+
+![Heterogeneous Pythonic language in your pocket](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg)
+
+Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...
+
+🏷️ Tags: `gpu`, `python`, `android`, `programming`
+
+---
+
+### 🏷️ Cloud (11 articles)
+
+#### 1. [Real-time IP capacity in Google Cloud subnets](https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j)
+📅 Wed, 17 Jun 2026 15:46:58 GMT
+👤 By: Zach S. | 📌 Source: Dev.to
+
+![Real-time IP capacity in Google Cloud subnets](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkfa2pr085hpglqbgc7r.png)
+
+When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...
+
+🏷️ Tags: `googlecloud`, `networking`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n)
+📅 Wed, 17 Jun 2026 15:04:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd06qn4latfoeuzc50ot9.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `antigravitycli`, `gemma4`, `mcps`, `tpu`
+
+---
+
+#### 3. [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd)
+📅 Wed, 17 Jun 2026 01:15:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying Gemma 12B to Azure with GPU](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...
+
+🏷️ Tags: `qat`, `gemma4`, `mcps`, `nvidiagpu`
+
+---
+
+#### 4. [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p)
+📅 Tue, 16 Jun 2026 13:00:16 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27j43x2fpej4lrtsuxnr.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to an AWS hosted GPU...
+
+🏷️ Tags: `aws`, `nvidial4`, `mcps`, `gemma`
+
+---
+
+#### 5. [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl)
+📅 Thu, 11 Jun 2026 14:11:07 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png)
+
+This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...
+
+🏷️ Tags: `antigravitycli`, `mcps`, `gemma4`, `googlecloudrun`
+
+---
+
+#### 6. [Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2)
+📅 Wed, 17 Jun 2026 04:11:30 GMT
+👤 By: Gbemisola Esho | 📌 Source: Dev.to
+
+![Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frgjkvp9o7dv4584tmtpb.webp)
+
+Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...
+
+🏷️ Tags: `dns`, `dnssec`, `dnsabuse`, `trustinthecloud`
+
+---
+
+#### 7. [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0)
+📅 Wed, 10 Jun 2026 17:37:21 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...
+
+🏷️ Tags: `nvidia`, `mcps`, `googlecloudrun`, `gemma`
+
+---
+
+#### 8. [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg)
+📅 Wed, 10 Jun 2026 01:05:21 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...
+
+🏷️ Tags: `mcps`, `nvidial4`, `gemma12b`, `googlecloudrun`
+
+---
+
+#### 9. [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog)
+📅 Tue, 09 Jun 2026 18:44:05 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg)
+
+Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...
+
+🏷️ Tags: `ai`, `claude`, `googlecloud`
+
+---
+
+#### 10. [Securely Exposing Internal GCP VMs using Cloudflare Tunnels](https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k)
+📅 Tue, 16 Jun 2026 06:07:42 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![Securely Exposing Internal GCP VMs using Cloudflare Tunnels](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwgca9hjtfwvyyq13z0u.png)
+
+Exposing a web service to the public internet typically involves assigning a public IP address to the...
+
+🏷️ Tags: `security`, `gcp`, `infrastructure`, `networking`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 2. [royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded](https://github.com/royalbhati/sqltoerdiagram)
+📅 Sun, 14 Jun 2026 04:12:26 GMT
+👤 By: royalbhati | 📌 Source: GitHub
+
+![royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded](https://avatars.githubusercontent.com/u/11679543?v=4)
+
+ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 466
+
+---
+
+### 🏷️ Security (3 articles)
+
+#### 1. [Securely Exposing Internal GCP VMs using Cloudflare Tunnels](https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k)
+📅 Tue, 16 Jun 2026 06:07:42 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![Securely Exposing Internal GCP VMs using Cloudflare Tunnels](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwgca9hjtfwvyyq13z0u.png)
+
+Exposing a web service to the public internet typically involves assigning a public IP address to the...
+
+🏷️ Tags: `security`, `gcp`, `infrastructure`, `networking`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 3. [kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.](https://github.com/kernelstub/Ferrum)
+📅 Sat, 13 Jun 2026 13:44:35 GMT
+👤 By: kernelstub | 📌 Source: GitHub
+
+![kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.](https://avatars.githubusercontent.com/u/246671938?v=4)
+
+Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 184
+
+---
+
+### 🏷️ Tools (23 articles)
+
+#### 1. [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
+📅 Wed, 17 Jun 2026 22:26:14 GMT
+👤 By: Joan Miquel Torres | 📌 Source: Dev.to
+
+![Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png)
+
+I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...
+
+🏷️ Tags: `opencode`, `ai`, `vim`, `productivity`
+
+---
+
+#### 2. [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400)
+📅 Tue, 16 Jun 2026 12:19:35 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png)
+
+If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...
+
+🏷️ Tags: `googleworkspace`, `workspacestudio`, `automation`, `productivity`
+
+---
+
+#### 3. [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7)
+📅 Fri, 12 Jun 2026 06:09:40 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png)
+
+Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...
+
+🏷️ Tags: `ai`, `gemini`, `productivity`, `softwaredevelopment`
+
+---
+
+#### 4. [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg)
+📅 Mon, 08 Jun 2026 09:13:08 GMT
+👤 By: shrey  | 📌 Source: Dev.to
+
+![The agent that fixes bugs by running the code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg)
+
+Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.
+
+🏷️ Tags: `ai`, `agents`, `debugging`, `productivity`
+
+---
+
+#### 5. [Stop reaching for microservices. You are not Netflix](https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8)
+📅 Wed, 17 Jun 2026 12:24:01 GMT
+👤 By: Diogo Capela | 📌 Source: Dev.to
+
+![Stop reaching for microservices. You are not Netflix](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png)
+
+A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.
+
+🏷️ Tags: `productivity`, `microservices`, `community`, `development`
+
+---
+
+#### 6. [Building a Chrome Extension to Make AI Use More Intentional](https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0)
+📅 Mon, 15 Jun 2026 14:44:53 GMT
+👤 By: Julien Avezou | 📌 Source: Dev.to
+
+![Building a Chrome Extension to Make AI Use More Intentional](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png)
+
+After posting several articles about the impact of AI on developers and sharing resources to help...
+
+🏷️ Tags: `ai`, `webdev`, `productivity`, `buildinpublic`
+
+---
+
+#### 7. [Building a browser-only tool to turn QR codes into Lego bricks](https://dev.to/drazenbebic/building-a-browser-only-tool-to-turn-qr-codes-into-lego-bricks-1dc5)
+📅 Wed, 17 Jun 2026 09:16:30 GMT
+👤 By: Drazen Bebic | 📌 Source: Dev.to
+
+![Building a browser-only tool to turn QR codes into Lego bricks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl3z7vt4jh3y1n0yczrm.png)
+
+How I built a 100% client-side React app that converts data into optimized Lego QR code blueprints and exports BrickLink XMLs.
+
+🏷️ Tags: `webdev`, `react`, `typescript`, `showdev`
+
+---
+
+#### 8. [Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!](https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge)
+📅 Sat, 06 Jun 2026 01:41:40 GMT
+👤 By: FrancisTRᴅᴇᴠ (っ◔◡◔)っ | 📌 Source: Dev.to
+
+![Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`, `discuss`, `showdev`
+
+---
+
+#### 9. [DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.](https://github.com/DietrichGebert/ponytail)
+📅 Fri, 12 Jun 2026 00:52:37 GMT
+👤 By: DietrichGebert | 📌 Source: GitHub
+
+![DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.](https://avatars.githubusercontent.com/u/137048761?v=4)
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 35,348
+
+---
+
+#### 10. [royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded](https://github.com/royalbhati/sqltoerdiagram)
+📅 Sun, 14 Jun 2026 04:12:26 GMT
+👤 By: royalbhati | 📌 Source: GitHub
+
+![royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded](https://avatars.githubusercontent.com/u/11679543?v=4)
+
+ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 466
+
+---
+
