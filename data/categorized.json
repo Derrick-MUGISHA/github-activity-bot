@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Ask a DEV Community Mod! 🚀",
-      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
-      "published_at": "2026-06-16T16:52:39Z",
-      "description": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
-      "tags": [
-        "discuss",
-        "community",
-        "publicinbox",
-        "ama"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
       "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
       "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
       "published_at": "2026-06-17T18:59:52Z",
@@ -43,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
       "source": "Dev.to",
       "user": "Joan Miquel Torres"
+    },
+    {
+      "title": "Ask a DEV Community Mod! 🚀",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
+      "published_at": "2026-06-16T16:52:39Z",
+      "description": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
+      "tags": [
+        "discuss",
+        "community",
+        "publicinbox",
+        "ama"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
       "title": "Generative UI with AI on React + React Native Universal App",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 35348,
+      "stars": 35842,
       "user": "DietrichGebert"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 790,
       "user": "nolangz"
     },
     {
@@ -954,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 35348,
+      "stars": 35842,
       "user": "DietrichGebert"
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "zexuanw958-svg"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1967,
+      "stars": 1979,
       "user": "tamnd"
     },
     {
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 790,
       "user": "nolangz"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "fivetaku"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "baskduf"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "joeseesun"
     }
   ],
@@ -1392,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "zexuanw958-svg"
     },
     {
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 790,
       "user": "nolangz"
     }
   ],
@@ -1840,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 35348,
+      "stars": 35842,
       "user": "DietrichGebert"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "zexuanw958-svg"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 790,
       "user": "nolangz"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "fivetaku"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "baskduf"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "joeseesun"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1967,
+      "stars": 1979,
       "user": "tamnd"
     },
     {
