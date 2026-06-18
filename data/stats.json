@@ -6,13 +6,13 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 48,
+    "AI": 49,
     "JavaScript": 27,
     "Python": 18,
     "DevOps": 3,
-    "WebDev": 5,
+    "WebDev": 4,
     "Mobile": 4,
-    "Cloud": 10,
+    "Cloud": 11,
     "Database": 2,
     "Security": 3,
     "Tools": 23
@@ -20,7 +20,7 @@
   "by_language": {
     "JavaScript": 27,
     "Java": 19,
-    "Go": 30,
+    "Go": 28,
     "CSharp": 1,
     "Python": 18,
     "Rust": 2,
@@ -28,10 +28,10 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-06-18": 3,
-    "2026-06-16": 12,
-    "2026-06-17": 11,
-    "2026-06-12": 10,
+    "2026-06-18": 6,
+    "2026-06-16": 13,
+    "2026-06-17": 10,
+    "2026-06-12": 8,
     "2026-06-11": 6,
     "2026-06-15": 7,
     "2026-06-10": 3,
@@ -74,7 +74,7 @@
     "2026-05-11": 1,
     "2025-05-07": 1,
     "2026-06-14": 7,
-    "2026-06-13": 4
+    "2026-06-13": 3
   },
   "top_tags": {
     "ai": 20,
@@ -86,25 +86,25 @@
     "Python": 10,
     "javascript": 8,
     "python": 8,
+    "discuss": 7,
     "mcps": 7,
-    "discuss": 6,
+    "devchallenge": 6,
     "productivity": 6,
-    "devchallenge": 5,
+    "programming": 5,
     "go": 5,
     "gemma": 4,
+    "agents": 4,
     "gemma4": 4,
-    "programming": 4,
-    "nvidia": 3,
-    "community": 3,
-    "googlecloud": 3
+    "antigravity": 3,
+    "nvidia": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.0",
-    "Java": "19.0",
-    "Go": "30.0",
+    "JavaScript": "27.6",
+    "Java": "19.4",
+    "Go": "28.6",
     "CSharp": "1.0",
-    "Python": "18.0",
+    "Python": "18.4",
     "Rust": "2.0",
     "Swift": "2.0",
     "Kotlin": "1.0"
