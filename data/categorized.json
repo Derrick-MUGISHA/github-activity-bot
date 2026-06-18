@@ -16,6 +16,50 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
+      "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
+      "published_at": "2026-06-17T18:59:52Z",
+      "description": "Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...",
+      "tags": [
+        "ai",
+        "rag",
+        "buildingrag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdobwvjec7q86sha8sod.png",
+      "source": "Dev.to",
+      "user": "Aditya Kumar"
+    },
+    {
+      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
+      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
+      "published_at": "2026-06-17T22:26:14Z",
+      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
+      "tags": [
+        "opencode",
+        "ai",
+        "vim",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
+      "source": "Dev.to",
+      "user": "Joan Miquel Torres"
+    },
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj",
+      "published_at": "2026-06-18T05:47:29Z",
+      "description": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "tags": [
+        "ai",
+        "react",
+        "reactnative",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png",
+      "source": "Dev.to",
+      "user": "Neetigya Chahar"
+    },
+    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -190,6 +234,36 @@
       "user": "shrey "
     },
     {
+      "title": "What I Learned Working on a Large-Scale Social Media iOS Application",
+      "url": "https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace",
+      "published_at": "2026-06-16T18:13:25Z",
+      "description": "Lessons learned from building and maintaining a large-scale social media iOS application, including architecture, engineering practices, product development, and team collaboration.",
+      "tags": [
+        "softwareengineering",
+        "architecture",
+        "productdevelopment",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
+      "source": "Dev.to",
+      "user": "Michał Cichoń"
+    },
+    {
+      "title": "The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella's Warning on AI",
+      "url": "https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel",
+      "published_at": "2026-06-16T21:52:22Z",
+      "description": "There is a comparison that the artificial intelligence industry had kept out of the public...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42kt5uh998p20werp0qn.png",
+      "source": "Dev.to",
+      "user": "Leo Lanese"
+    },
+    {
       "title": "Turning Gemma 4 into an Old Korean Translator",
       "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
       "published_at": "2026-06-15T06:13:07Z",
@@ -202,6 +276,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Ftuning-gemma-4-into-an-old-korean-translator.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
+      "url": "https://dev.to/ric03uec/two-qwen3-models-on-one-dgx-spark-the-residency-math-for-local-llm-coding-5bpj",
+      "published_at": "2026-06-16T20:23:10Z",
+      "description": "Two Qwen3 models on one DGX Spark for local LLM coding. The residency math, the gpu_memory_utilization trap, and what to verify first.",
+      "tags": [
+        "localllm",
+        "vllm",
+        "ai",
+        "nvidia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa9pvaimxjb6nxj67t6dq.jpg",
+      "source": "Dev.to",
+      "user": "Devashish"
     },
     {
       "title": "Dystopian Civilization Scenarios",
@@ -321,21 +410,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "CSS – only a Nerdy Hobby?",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "published_at": "2026-06-10T11:11:50Z",
-      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "tags": [
-        "ai",
-        "css",
-        "webdev",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
       "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
       "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
       "published_at": "2026-06-12T13:47:44Z",
@@ -351,6 +425,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "CSS – only a Nerdy Hobby?",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
+      "published_at": "2026-06-10T11:11:50Z",
+      "description": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "tags": [
+        "ai",
+        "css",
+        "webdev",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
       "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
       "published_at": "2026-06-06T01:41:40Z",
@@ -364,63 +453,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
-      "title": "I Built a Web App That Finds the Fairest Meeting Spot for Any Group (and It's Free)",
-      "url": "https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j",
-      "published_at": "2026-06-14T03:07:56Z",
-      "description": "The Problem Nobody Talks About   Picture this: You're trying to find a place to meet up with...",
-      "tags": [
-        "webdev",
-        "googlemaps",
-        "chromeextension",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flmwcw7zzujoqck30g1mu.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
-      "published_at": "2026-05-28T19:04:59Z",
-      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "tags": [
-        "ai",
-        "contentwriting",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
-      "source": "Dev.to",
-      "user": "Karl L. Hughes"
-    },
-    {
-      "title": "Extending a MCP/A2A Currency Agent with A2UI",
-      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3",
-      "published_at": "2026-06-03T21:02:16Z",
-      "description": "Building an Agent with A2A, MCP, ADK, and A2UI   This tutorial aims to extend and test a...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "a2ui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiaca63huscufpcvdlvg.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -578,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 34468,
+      "stars": 35348,
       "user": "DietrichGebert"
     },
     {
@@ -593,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "buynao"
     },
     {
@@ -608,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 788,
       "user": "nolangz"
     },
     {
@@ -623,23 +655,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 295,
       "user": "dongshuyan"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "majidmanzarpour"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -653,11 +670,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "gykim80"
     }
   ],
   "JavaScript": [
+    {
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
+      "published_at": "2026-06-18T12:56:27Z",
+      "description": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
+      "tags": [
+        "webrtc",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
+      "source": "Dev.to",
+      "user": "Tsahi Levent-Levi"
+    },
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj",
+      "published_at": "2026-06-18T05:47:29Z",
+      "description": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "tags": [
+        "ai",
+        "react",
+        "reactnative",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png",
+      "source": "Dev.to",
+      "user": "Neetigya Chahar"
+    },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
@@ -704,6 +750,34 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Angular resources are not a good fit for Guards",
+      "url": "https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j",
+      "published_at": "2026-06-17T11:34:32Z",
+      "description": "Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...",
+      "tags": [
+        "angular",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png",
+      "source": "Dev.to",
+      "user": "Gérôme Grignon"
+    },
+    {
+      "title": "Stop reaching for microservices. You are not Netflix",
+      "url": "https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8",
+      "published_at": "2026-06-17T12:24:01Z",
+      "description": "A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.",
+      "tags": [
+        "productivity",
+        "microservices",
+        "community",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
+      "source": "Dev.to",
+      "user": "Diogo Capela"
+    },
+    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
       "published_at": "2026-06-02T20:02:27Z",
@@ -734,32 +808,19 @@
       "user": "Harsha Attray"
     },
     {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o",
-      "published_at": "2026-06-08T09:09:29Z",
-      "description": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "title": "Building a browser-only tool to turn QR codes into Lego bricks",
+      "url": "https://dev.to/drazenbebic/building-a-browser-only-tool-to-turn-qr-codes-into-lego-bricks-1dc5",
+      "published_at": "2026-06-17T09:16:30Z",
+      "description": "How I built a 100% client-side React app that converts data into optimized Lego QR code blueprints and exports BrickLink XMLs.",
       "tags": [
         "webdev",
+        "react",
         "typescript",
-        "bash",
-        "programming"
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgcuztrn2q01f8kze8pu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl3z7vt4jh3y1n0yczrm.png",
       "source": "Dev.to",
-      "user": "Hadil Ben Abdallah"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
+      "user": "Drazen Bebic"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -893,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 34468,
+      "stars": 35348,
       "user": "DietrichGebert"
     },
     {
@@ -908,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "royalbhati"
     },
     {
@@ -923,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "buynao"
     },
     {
@@ -953,23 +1014,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "zexuanw958-svg"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "majidmanzarpour"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -983,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1967,
       "user": "tamnd"
     },
     {
@@ -998,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "gykim80"
     }
   ],
@@ -1180,8 +1226,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 788,
       "user": "nolangz"
+    },
+    {
+      "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "url": "https://github.com/fivetaku/fablize",
+      "published_at": "2026-06-14T05:49:06Z",
+      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
+      "source": "GitHub",
+      "stars": 470,
+      "user": "fivetaku"
     },
     {
       "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -1195,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "baskduf"
     },
     {
@@ -1210,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 295,
       "user": "dongshuyan"
     },
     {
@@ -1225,23 +1286,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 291,
       "user": "joeseesun"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "majidmanzarpour"
     }
   ],
   "DevOps": [
@@ -1276,21 +1322,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
       "title": "bjarneo/ku - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
       "url": "https://github.com/bjarneo/ku",
       "published_at": "2026-06-13T14:38:25Z",
@@ -1302,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "bjarneo"
     }
   ],
@@ -1338,36 +1369,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "Celebrate June rituals with Solstice Bingo!",
-      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
-      "published_at": "2026-06-11T11:25:14Z",
-      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1391,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "zexuanw958-svg"
     },
     {
@@ -1406,11 +1407,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 788,
       "user": "nolangz"
     }
   ],
   "Mobile": [
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj",
+      "published_at": "2026-06-18T05:47:29Z",
+      "description": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "tags": [
+        "ai",
+        "react",
+        "reactnative",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png",
+      "source": "Dev.to",
+      "user": "Neetigya Chahar"
+    },
+    {
+      "title": "What I Learned Working on a Large-Scale Social Media iOS Application",
+      "url": "https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace",
+      "published_at": "2026-06-16T18:13:25Z",
+      "description": "Lessons learned from building and maintaining a large-scale social media iOS application, including architecture, engineering practices, product development, and team collaboration.",
+      "tags": [
+        "softwareengineering",
+        "architecture",
+        "productdevelopment",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
+      "source": "Dev.to",
+      "user": "Michał Cichoń"
+    },
     {
       "title": "Dystopian Civilization Scenarios",
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
@@ -1437,21 +1468,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
       "source": "Dev.to",
       "user": "Amr Hesham"
-    },
-    {
-      "title": "IOS Midsommer Madness",
-      "url": "https://dev.to/gde/ios-midsommer-madness-5h4",
-      "published_at": "2026-06-12T12:43:27Z",
-      "description": "This is a submission for the June Solstice Game Jam  Your Iphone can now celebrate the Solstace! When...",
-      "tags": [
-        "antigravitycli",
-        "devchallenge",
-        "gamechallenge",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32vmbwht9bm2ercy7zw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Cloud": [
@@ -1616,21 +1632,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
     }
   ],
   "Database": [
@@ -1658,7 +1659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "royalbhati"
     }
   ],
@@ -1702,11 +1703,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "kernelstub"
     }
   ],
   "Tools": [
+    {
+      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
+      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
+      "published_at": "2026-06-17T22:26:14Z",
+      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
+      "tags": [
+        "opencode",
+        "ai",
+        "vim",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
+      "source": "Dev.to",
+      "user": "Joan Miquel Torres"
+    },
     {
       "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
@@ -1753,6 +1769,21 @@
       "user": "shrey "
     },
     {
+      "title": "Stop reaching for microservices. You are not Netflix",
+      "url": "https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8",
+      "published_at": "2026-06-17T12:24:01Z",
+      "description": "A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.",
+      "tags": [
+        "productivity",
+        "microservices",
+        "community",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
+      "source": "Dev.to",
+      "user": "Diogo Capela"
+    },
+    {
       "title": "Building a Chrome Extension to Make AI Use More Intentional",
       "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
       "published_at": "2026-06-15T14:44:53Z",
@@ -1766,6 +1797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmn4im76t1lgd9ttfath.png",
       "source": "Dev.to",
       "user": "Julien Avezou"
+    },
+    {
+      "title": "Building a browser-only tool to turn QR codes into Lego bricks",
+      "url": "https://dev.to/drazenbebic/building-a-browser-only-tool-to-turn-qr-codes-into-lego-bricks-1dc5",
+      "published_at": "2026-06-17T09:16:30Z",
+      "description": "How I built a 100% client-side React app that converts data into optimized Lego QR code blueprints and exports BrickLink XMLs.",
+      "tags": [
+        "webdev",
+        "react",
+        "typescript",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl3z7vt4jh3y1n0yczrm.png",
+      "source": "Dev.to",
+      "user": "Drazen Bebic"
     },
     {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
@@ -1783,21 +1829,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
-    },
-    {
       "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "published_at": "2026-06-12T00:52:37Z",
@@ -1809,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 34468,
+      "stars": 35348,
       "user": "DietrichGebert"
     },
     {
@@ -1824,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "royalbhati"
     },
     {
@@ -1839,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "buynao"
     },
     {
@@ -1869,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "zexuanw958-svg"
     },
     {
@@ -1884,8 +1915,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 788,
       "user": "nolangz"
+    },
+    {
+      "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "url": "https://github.com/fivetaku/fablize",
+      "published_at": "2026-06-14T05:49:06Z",
+      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
+      "source": "GitHub",
+      "stars": 470,
+      "user": "fivetaku"
     },
     {
       "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -1899,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "baskduf"
     },
     {
@@ -1914,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 295,
       "user": "dongshuyan"
     },
     {
@@ -1929,23 +1975,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 291,
       "user": "joeseesun"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "majidmanzarpour"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1959,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1967,
       "user": "tamnd"
     },
     {
@@ -1974,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 338,
       "user": "bjarneo"
     },
     {
@@ -1989,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "gykim80"
     },
     {
@@ -2004,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "kernelstub"
     },
     {
