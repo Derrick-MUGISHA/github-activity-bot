@@ -9,7 +9,7 @@
         "discuss",
         "community",
         "publicinbox",
-        "mlh"
+        "ama"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
@@ -578,7 +578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31356,
+      "stars": 31557,
       "user": "DietrichGebert"
     },
     {
@@ -593,7 +593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "buynao"
     },
     {
@@ -608,23 +608,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 236,
       "user": "rebel0789"
-    },
-    {
-      "title": "omnigent-ai/omnigent - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "published_at": "2026-06-11T12:18:13Z",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
-      "source": "GitHub",
-      "stars": 3471,
-      "user": "omnigent-ai"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -638,38 +623,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "nolangz"
     },
     {
-      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "published_at": "2026-06-11T15:10:51Z",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 646,
-      "user": "joeseesun"
+      "stars": 262,
+      "user": "dongshuyan"
     },
     {
-      "title": "MiniMax-AI/MSA - GitHub Repository",
-      "url": "https://github.com/MiniMax-AI/MSA",
-      "published_at": "2026-06-11T09:20:28Z",
-      "description": "Trending GitHub Repository",
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 324,
-      "user": "MiniMax-AI"
+      "stars": 236,
+      "user": "majidmanzarpour"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -683,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "gykim80"
     }
   ],
@@ -923,7 +908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31356,
+      "stars": 31557,
       "user": "DietrichGebert"
     },
     {
@@ -938,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 451,
       "user": "royalbhati"
     },
     {
@@ -953,7 +938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "buynao"
     },
     {
@@ -983,8 +968,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 236,
       "user": "rebel0789"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 236,
+      "user": "majidmanzarpour"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -998,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1858,
       "user": "tamnd"
     },
     {
@@ -1013,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "gykim80"
     }
   ],
@@ -1169,21 +1169,6 @@
       "user": "arathore"
     },
     {
-      "title": "omnigent-ai/omnigent - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "published_at": "2026-06-11T12:18:13Z",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
-      "source": "GitHub",
-      "stars": 3471,
-      "user": "omnigent-ai"
-    },
-    {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "url": "https://github.com/nolangz/pixel2motion",
       "published_at": "2026-06-12T04:25:17Z",
@@ -1195,38 +1180,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "nolangz"
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "published_at": "2026-06-11T15:10:51Z",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "joeseesun"
-    },
-    {
-      "title": "MiniMax-AI/MSA - GitHub Repository",
-      "url": "https://github.com/MiniMax-AI/MSA",
-      "published_at": "2026-06-11T09:20:28Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "MiniMax-AI"
     },
     {
       "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
@@ -1242,6 +1197,51 @@
       "source": "GitHub",
       "stars": 276,
       "user": "joeseesun"
+    },
+    {
+      "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "url": "https://github.com/baskduf/FableCodex",
+      "published_at": "2026-06-14T13:11:00Z",
+      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
+      "source": "GitHub",
+      "stars": 267,
+      "user": "baskduf"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 236,
+      "user": "majidmanzarpour"
     }
   ],
   "DevOps": [
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "bjarneo"
     }
   ],
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "nolangz"
     }
   ],
@@ -1673,7 +1673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 451,
       "user": "royalbhati"
     }
   ],
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "source": "GitHub",
-      "stars": 31356,
+      "stars": 31557,
       "user": "DietrichGebert"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 451,
       "user": "royalbhati"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "buynao"
     },
     {
@@ -1884,23 +1884,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 236,
       "user": "rebel0789"
-    },
-    {
-      "title": "omnigent-ai/omnigent - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "published_at": "2026-06-11T12:18:13Z",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292215228?v=4",
-      "source": "GitHub",
-      "stars": 3471,
-      "user": "omnigent-ai"
     },
     {
       "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
@@ -1914,38 +1899,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "nolangz"
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "published_at": "2026-06-11T15:10:51Z",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "joeseesun"
-    },
-    {
-      "title": "MiniMax-AI/MSA - GitHub Repository",
-      "url": "https://github.com/MiniMax-AI/MSA",
-      "published_at": "2026-06-11T09:20:28Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "MiniMax-AI"
     },
     {
       "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
@@ -1963,6 +1918,51 @@
       "user": "joeseesun"
     },
     {
+      "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "url": "https://github.com/baskduf/FableCodex",
+      "published_at": "2026-06-14T13:11:00Z",
+      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
+      "source": "GitHub",
+      "stars": 267,
+      "user": "baskduf"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 236,
+      "user": "majidmanzarpour"
+    },
+    {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
       "url": "https://github.com/tamnd/kage",
       "published_at": "2026-06-14T11:21:55Z",
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1858,
       "user": "tamnd"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 328,
       "user": "bjarneo"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "gykim80"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "tamnd"
     }
   ]
