@@ -175,21 +175,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "[Hands-on Gemini 3.5 Live",
-      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
-      "published_at": "2026-06-12T06:09:59Z",
-      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
       "published_at": "2026-06-12T06:09:40Z",
@@ -201,6 +186,21 @@
         "softwaredevelopment"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
+      "published_at": "2026-06-12T06:09:59Z",
+      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -425,21 +425,6 @@
       "user": "ModernCpp"
     },
     {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
-      "published_at": "2026-06-01T18:54:52Z",
-      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -453,6 +438,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
+      "published_at": "2026-06-01T18:54:52Z",
+      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 143,
       "user": "yolfinance"
     },
     {
@@ -625,8 +625,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 310,
       "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 298,
+      "user": "majidmanzarpour"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -640,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "gykim80"
     }
   ],
@@ -924,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "royalbhati"
     },
     {
@@ -939,23 +954,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "rotejin"
-    },
-    {
-      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "url": "https://github.com/yolfinance/yolfi-agent",
-      "published_at": "2026-06-16T15:43:27Z",
-      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "yolfinance"
     },
     {
       "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
@@ -969,8 +969,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 175,
       "user": "rpanigrahi222"
+    },
+    {
+      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "published_at": "2026-06-16T15:43:27Z",
+      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "yolfinance"
     },
     {
       "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
@@ -984,8 +999,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "zexuanw958-svg"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 298,
+      "user": "majidmanzarpour"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -999,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2022,
       "user": "tamnd"
     },
     {
@@ -1014,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "gykim80"
     }
   ],
@@ -1181,8 +1211,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 489,
       "user": "fivetaku"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 310,
+      "user": "dongshuyan"
     },
     {
       "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -1196,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 309,
       "user": "baskduf"
     },
     {
@@ -1211,38 +1256,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "joeseesun"
     },
     {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 296,
-      "user": "dongshuyan"
-    },
-    {
-      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "published_at": "2026-06-16T14:59:20Z",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "boogu-project"
+      "stars": 298,
+      "user": "majidmanzarpour"
     }
   ],
   "DevOps": [
@@ -1288,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "bjarneo"
     }
   ],
@@ -1347,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "zexuanw958-svg"
     }
   ],
@@ -1614,7 +1644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "royalbhati"
     }
   ],
@@ -1795,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "royalbhati"
     },
     {
@@ -1810,23 +1840,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "rotejin"
-    },
-    {
-      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "url": "https://github.com/yolfinance/yolfi-agent",
-      "published_at": "2026-06-16T15:43:27Z",
-      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "yolfinance"
     },
     {
       "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
@@ -1840,8 +1855,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 175,
       "user": "rpanigrahi222"
+    },
+    {
+      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "published_at": "2026-06-16T15:43:27Z",
+      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "yolfinance"
     },
     {
       "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
@@ -1855,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "zexuanw958-svg"
     },
     {
@@ -1870,8 +1900,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 489,
       "user": "fivetaku"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 310,
+      "user": "dongshuyan"
     },
     {
       "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -1885,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 309,
       "user": "baskduf"
     },
     {
@@ -1900,38 +1945,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "joeseesun"
     },
     {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 296,
-      "user": "dongshuyan"
-    },
-    {
-      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "published_at": "2026-06-16T14:59:20Z",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "boogu-project"
+      "stars": 298,
+      "user": "majidmanzarpour"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1945,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2022,
       "user": "tamnd"
     },
     {
@@ -1960,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "bjarneo"
     },
     {
@@ -1975,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "gykim80"
     },
     {
@@ -2005,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "tamnd"
     }
   ]
