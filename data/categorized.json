@@ -175,6 +175,36 @@
       "user": "Connie Leung"
     },
     {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
+      "published_at": "2026-06-12T06:09:59Z",
+      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Migrate to Firebase Server Prompt Template in Angular using Dependency Injection",
       "url": "https://dev.to/railsstudent/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-3k95",
       "published_at": "2026-06-15T18:29:52Z",
@@ -410,21 +440,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -438,21 +453,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
-      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
-      "published_at": "2026-06-06T01:41:40Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "discuss",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -599,36 +599,6 @@
       "user": "indigodaddy"
     },
     {
-      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-06-12T00:52:37Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
-      "source": "GitHub",
-      "stars": 36512,
-      "user": "DietrichGebert"
-    },
-    {
-      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "url": "https://github.com/buynao/aipath",
-      "published_at": "2026-06-12T10:58:35Z",
-      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
-      "source": "GitHub",
-      "stars": 319,
-      "user": "buynao"
-    },
-    {
       "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
       "url": "https://github.com/yolfinance/yolfi-agent",
       "published_at": "2026-06-16T15:43:27Z",
@@ -640,23 +610,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "yolfinance"
-    },
-    {
-      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "url": "https://github.com/nolangz/pixel2motion",
-      "published_at": "2026-06-12T04:25:17Z",
-      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
-      "source": "GitHub",
-      "stars": 794,
-      "user": "nolangz"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -670,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "dongshuyan"
     },
     {
@@ -685,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "gykim80"
     }
   ],
@@ -958,21 +913,6 @@
       "user": "velmu"
     },
     {
-      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-06-12T00:52:37Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
-      "source": "GitHub",
-      "stars": 36512,
-      "user": "DietrichGebert"
-    },
-    {
       "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
       "url": "https://github.com/royalbhati/sqltoerdiagram",
       "published_at": "2026-06-14T04:12:26Z",
@@ -984,23 +924,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "royalbhati"
-    },
-    {
-      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "url": "https://github.com/buynao/aipath",
-      "published_at": "2026-06-12T10:58:35Z",
-      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
-      "source": "GitHub",
-      "stars": 319,
-      "user": "buynao"
     },
     {
       "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
@@ -1014,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "rotejin"
     },
     {
@@ -1029,8 +954,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "yolfinance"
+    },
+    {
+      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "published_at": "2026-06-17T06:53:59Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "rpanigrahi222"
+    },
+    {
+      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
+      "published_at": "2026-06-13T10:40:30Z",
+      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "zexuanw958-svg"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1044,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2010,
       "user": "tamnd"
     },
     {
@@ -1059,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "gykim80"
     }
   ],
@@ -1078,21 +1033,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
       "user": "Dmitry Sheiko"
-    },
-    {
-      "title": "Google Antigravity SDK: The developer guide",
-      "url": "https://dev.to/googleai/google-antigravity-sdk-the-developer-guide-4o8m",
-      "published_at": "2026-06-09T15:01:34Z",
-      "description": "The Google Antigravity SDK is a Python framework for building and running autonomous agents. It...",
-      "tags": [
-        "mcpserver",
-        "googlegemini",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2Aew_HgMaHiNf6tcYBBnH-jQ.png",
-      "source": "Dev.to",
-      "user": "Karl Weinmeister"
     },
     {
       "title": "Heterogeneous Pythonic language in your pocket",
@@ -1230,21 +1170,6 @@
       "user": "arathore"
     },
     {
-      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "url": "https://github.com/nolangz/pixel2motion",
-      "published_at": "2026-06-12T04:25:17Z",
-      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
-      "source": "GitHub",
-      "stars": 794,
-      "user": "nolangz"
-    },
-    {
       "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
       "url": "https://github.com/fivetaku/fablize",
       "published_at": "2026-06-14T05:49:06Z",
@@ -1256,7 +1181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 479,
       "user": "fivetaku"
     },
     {
@@ -1271,7 +1196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "baskduf"
     },
     {
@@ -1286,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "joeseesun"
     },
     {
@@ -1301,8 +1226,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "dongshuyan"
+    },
+    {
+      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "published_at": "2026-06-16T14:59:20Z",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "boogu-project"
     }
   ],
   "DevOps": [
@@ -1396,19 +1336,19 @@
       "user": "velmu"
     },
     {
-      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "url": "https://github.com/nolangz/pixel2motion",
-      "published_at": "2026-06-12T04:25:17Z",
-      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
+      "published_at": "2026-06-13T10:40:30Z",
+      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 794,
-      "user": "nolangz"
+      "stars": 135,
+      "user": "zexuanw958-svg"
     }
   ],
   "Mobile": [
@@ -1590,6 +1530,21 @@
       "user": "xbill"
     },
     {
+      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg",
+      "published_at": "2026-06-10T01:05:21Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "tags": [
+        "mcps",
+        "nvidial4",
+        "gemma12b",
+        "googlecloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
       "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
       "published_at": "2026-06-09T18:44:05Z",
@@ -1659,7 +1614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "royalbhati"
     }
   ],
@@ -1703,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "kernelstub"
     }
   ],
@@ -1752,6 +1707,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "The agent that fixes bugs by running the code",
@@ -1814,36 +1784,6 @@
       "user": "Drazen Bebic"
     },
     {
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
-      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
-      "published_at": "2026-06-06T01:41:40Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "discuss",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
-      "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "published_at": "2026-06-12T00:52:37Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/137048761?v=4",
-      "source": "GitHub",
-      "stars": 36512,
-      "user": "DietrichGebert"
-    },
-    {
       "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
       "url": "https://github.com/royalbhati/sqltoerdiagram",
       "published_at": "2026-06-14T04:12:26Z",
@@ -1855,23 +1795,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "royalbhati"
-    },
-    {
-      "title": "buynao/aipath - Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "url": "https://github.com/buynao/aipath",
-      "published_at": "2026-06-12T10:58:35Z",
-      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11701966?v=4",
-      "source": "GitHub",
-      "stars": 319,
-      "user": "buynao"
     },
     {
       "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
@@ -1885,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "rotejin"
     },
     {
@@ -1900,23 +1825,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "yolfinance"
     },
     {
-      "title": "nolangz/pixel2motion - AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "url": "https://github.com/nolangz/pixel2motion",
-      "published_at": "2026-06-12T04:25:17Z",
-      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "published_at": "2026-06-17T06:53:59Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64394910?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 794,
-      "user": "nolangz"
+      "stars": 137,
+      "user": "rpanigrahi222"
+    },
+    {
+      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
+      "published_at": "2026-06-13T10:40:30Z",
+      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "zexuanw958-svg"
     },
     {
       "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
@@ -1930,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 479,
       "user": "fivetaku"
     },
     {
@@ -1945,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "baskduf"
     },
     {
@@ -1960,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "joeseesun"
     },
     {
@@ -1975,8 +1915,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "dongshuyan"
+    },
+    {
+      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "published_at": "2026-06-16T14:59:20Z",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "boogu-project"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1990,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2010,
       "user": "tamnd"
     },
     {
@@ -2020,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "gykim80"
     },
     {
@@ -2035,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "kernelstub"
     },
     {
