@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+      "published_at": "2026-06-19T10:09:03Z",
+      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
+    },
+    {
       "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
       "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
       "published_at": "2026-06-18T21:59:19Z",
@@ -16,6 +31,21 @@
       "user": "Aria Heller"
     },
     {
+      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
+      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb",
+      "published_at": "2026-06-19T00:18:39Z",
+      "description": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
+      "tags": [
+        "midsommar",
+        "devchallenge",
+        "gamechallenge",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building an agentic PR reviewer with Antigravity SDK",
       "url": "https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i",
       "published_at": "2026-06-18T19:21:08Z",
@@ -29,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwp5h8386xx9n2acyy28s.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
-      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
-      "published_at": "2026-06-17T22:26:14Z",
-      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
-      "tags": [
-        "opencode",
-        "ai",
-        "vim",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
-      "source": "Dev.to",
-      "user": "Joan Miquel Torres"
     },
     {
       "title": "Ask a DEV Community Mod! 🚀",
@@ -235,6 +250,21 @@
       "user": "Romin Irani"
     },
     {
+      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
+      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
+      "published_at": "2026-06-17T22:26:14Z",
+      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
+      "tags": [
+        "opencode",
+        "ai",
+        "vim",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
+      "source": "Dev.to",
+      "user": "Joan Miquel Torres"
+    },
+    {
       "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
       "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
       "published_at": "2026-06-17T18:59:52Z",
@@ -292,20 +322,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42kt5uh998p20werp0qn.png",
       "source": "Dev.to",
       "user": "Leo Lanese"
-    },
-    {
-      "title": "Turning Gemma 4 into an Old Korean Translator",
-      "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
-      "published_at": "2026-06-15T06:13:07Z",
-      "description": "There’s something uniquely beautiful about old books. The smell of weathered paper, the texture of...",
-      "tags": [
-        "finetuning",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Ftuning-gemma-4-into-an-old-korean-translator.png",
-      "source": "Dev.to",
-      "user": "bebechien"
     },
     {
       "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
@@ -610,7 +626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "yolfinance"
     },
     {
@@ -625,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 329,
       "user": "dongshuyan"
     },
     {
@@ -640,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 320,
       "user": "majidmanzarpour"
     },
     {
@@ -655,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "gykim80"
     }
   ],
@@ -733,19 +749,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fea1vfma7x7108b1p85pb.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Angular resources are not a good fit for Guards",
-      "url": "https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j",
-      "published_at": "2026-06-17T11:34:32Z",
-      "description": "Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...",
-      "tags": [
-        "angular",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png",
-      "source": "Dev.to",
-      "user": "Gérôme Grignon"
     },
     {
       "title": "Stop reaching for microservices. You are not Netflix",
@@ -939,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 474,
       "user": "royalbhati"
     },
     {
@@ -954,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "rotejin"
     },
     {
@@ -969,8 +972,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 194,
       "user": "rpanigrahi222"
+    },
+    {
+      "title": "oalanicolas/claude-design-premium - Claude Design starter kit for premium design systems",
+      "url": "https://github.com/oalanicolas/claude-design-premium",
+      "published_at": "2026-06-14T23:00:30Z",
+      "description": "Claude Design starter kit for premium design systems",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
+      "source": "GitHub",
+      "stars": 152,
+      "user": "oalanicolas"
     },
     {
       "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
@@ -984,23 +1002,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "yolfinance"
-    },
-    {
-      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-      "published_at": "2026-06-13T10:40:30Z",
-      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "zexuanw958-svg"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1014,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 320,
       "user": "majidmanzarpour"
     },
     {
@@ -1029,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2038,
+      "stars": 2049,
       "user": "tamnd"
     },
     {
@@ -1044,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "gykim80"
     }
   ],
@@ -1211,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "fivetaku"
     },
     {
@@ -1226,8 +1229,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 329,
       "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "majidmanzarpour"
     },
     {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
@@ -1241,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 317,
       "user": "boogu-project"
     },
     {
@@ -1256,23 +1274,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "baskduf"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "majidmanzarpour"
     }
   ],
   "DevOps": [
@@ -1318,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 347,
       "user": "bjarneo"
     }
   ],
@@ -1364,21 +1367,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-      "published_at": "2026-06-13T10:40:30Z",
-      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "zexuanw958-svg"
     }
   ],
   "Mobile": [
@@ -1644,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 474,
       "user": "royalbhati"
     }
   ],
@@ -1709,21 +1697,6 @@
       "user": "Aria Heller"
     },
     {
-      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
-      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
-      "published_at": "2026-06-17T22:26:14Z",
-      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
-      "tags": [
-        "opencode",
-        "ai",
-        "vim",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
-      "source": "Dev.to",
-      "user": "Joan Miquel Torres"
-    },
-    {
       "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
       "published_at": "2026-06-16T12:19:35Z",
@@ -1752,6 +1725,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
+      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
+      "published_at": "2026-06-17T22:26:14Z",
+      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
+      "tags": [
+        "opencode",
+        "ai",
+        "vim",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
+      "source": "Dev.to",
+      "user": "Joan Miquel Torres"
     },
     {
       "title": "The agent that fixes bugs by running the code",
@@ -1825,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 474,
       "user": "royalbhati"
     },
     {
@@ -1840,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "rotejin"
     },
     {
@@ -1855,8 +1843,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 194,
       "user": "rpanigrahi222"
+    },
+    {
+      "title": "oalanicolas/claude-design-premium - Claude Design starter kit for premium design systems",
+      "url": "https://github.com/oalanicolas/claude-design-premium",
+      "published_at": "2026-06-14T23:00:30Z",
+      "description": "Claude Design starter kit for premium design systems",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
+      "source": "GitHub",
+      "stars": 152,
+      "user": "oalanicolas"
     },
     {
       "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
@@ -1870,23 +1873,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "yolfinance"
-    },
-    {
-      "title": "zexuanw958-svg/travel-plan-viz - Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-      "published_at": "2026-06-13T10:40:30Z",
-      "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "zexuanw958-svg"
     },
     {
       "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
@@ -1900,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "fivetaku"
     },
     {
@@ -1915,8 +1903,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 329,
       "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "majidmanzarpour"
     },
     {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
@@ -1930,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 317,
       "user": "boogu-project"
     },
     {
@@ -1945,23 +1948,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "baskduf"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "majidmanzarpour"
     },
     {
       "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -1975,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2038,
+      "stars": 2049,
       "user": "tamnd"
     },
     {
@@ -1990,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 347,
       "user": "bjarneo"
     },
     {
@@ -2005,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "gykim80"
     },
     {
@@ -2035,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "tamnd"
     }
   ]
