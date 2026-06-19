@@ -31,20 +31,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
-      "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
-      "published_at": "2026-06-17T18:59:52Z",
-      "description": "Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...",
-      "tags": [
-        "ai",
-        "rag",
-        "buildingrag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdobwvjec7q86sha8sod.png",
-      "source": "Dev.to",
-      "user": "Aditya Kumar"
-    },
-    {
       "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
       "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
       "published_at": "2026-06-17T22:26:14Z",
@@ -175,21 +161,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[Hands-on Gemini 3.5 Live",
       "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
       "published_at": "2026-06-12T06:09:59Z",
@@ -201,6 +172,21 @@
         "google"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -247,6 +233,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
       "source": "Dev.to",
       "user": "Romin Irani"
+    },
+    {
+      "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
+      "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
+      "published_at": "2026-06-17T18:59:52Z",
+      "description": "Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...",
+      "tags": [
+        "ai",
+        "rag",
+        "buildingrag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdobwvjec7q86sha8sod.png",
+      "source": "Dev.to",
+      "user": "Aditya Kumar"
     },
     {
       "title": "The agent that fixes bugs by running the code",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 149,
       "user": "yolfinance"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 325,
       "user": "dongshuyan"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 309,
       "user": "majidmanzarpour"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "gykim80"
     }
   ],
@@ -939,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "royalbhati"
     },
     {
@@ -969,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 186,
       "user": "rpanigrahi222"
     },
     {
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 149,
       "user": "yolfinance"
     },
     {
@@ -999,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "zexuanw958-svg"
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 309,
       "user": "majidmanzarpour"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2022,
+      "stars": 2038,
       "user": "tamnd"
     },
     {
@@ -1044,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "gykim80"
     }
   ],
@@ -1211,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 495,
       "user": "fivetaku"
     },
     {
@@ -1226,8 +1226,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 325,
       "user": "dongshuyan"
+    },
+    {
+      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "published_at": "2026-06-16T14:59:20Z",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "boogu-project"
     },
     {
       "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -1241,23 +1256,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "baskduf"
-    },
-    {
-      "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
-      "published_at": "2026-06-13T16:32:57Z",
-      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "joeseesun"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 309,
       "user": "majidmanzarpour"
     }
   ],
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "bjarneo"
     }
   ],
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "zexuanw958-svg"
     }
   ],
@@ -1644,7 +1644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "royalbhati"
     }
   ],
@@ -1825,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "royalbhati"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 186,
       "user": "rpanigrahi222"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 149,
       "user": "yolfinance"
     },
     {
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266722546?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "zexuanw958-svg"
     },
     {
@@ -1900,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 495,
       "user": "fivetaku"
     },
     {
@@ -1915,8 +1915,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 325,
       "user": "dongshuyan"
+    },
+    {
+      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "published_at": "2026-06-16T14:59:20Z",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "boogu-project"
     },
     {
       "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -1930,23 +1945,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "baskduf"
-    },
-    {
-      "title": "joeseesun/qiaomu-novel-generator - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
-      "published_at": "2026-06-13T16:32:57Z",
-      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "joeseesun"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 309,
       "user": "majidmanzarpour"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2022,
+      "stars": 2038,
       "user": "tamnd"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "bjarneo"
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "gykim80"
     },
     {
