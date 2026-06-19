@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-19 21:00 CAT)
+## 📅 Latest Updates (2026-06-19 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 
-_Last automated update: Fri, 19 Jun 2026 21:13:21 CAT_
+_Last automated update: Fri, 19 Jun 2026 22:47:04 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 19 Jun 2026 21:13:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 19 Jun 2026 19:13:21 GMT</b><br/>
+  <b>Last automated update: Fri, 19 Jun 2026 20:47:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
