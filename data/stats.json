@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 48,
+    "AI": 47,
     "JavaScript": 27,
     "Python": 17,
     "DevOps": 3,
@@ -15,7 +15,7 @@
     "Cloud": 12,
     "Database": 2,
     "Security": 3,
-    "Tools": 23
+    "Tools": 22
   },
   "by_language": {
     "Go": 26,
@@ -29,14 +29,14 @@
   },
   "by_date": {
     "2026-06-18": 6,
-    "2026-06-19": 2,
+    "2026-06-19": 3,
     "2026-06-16": 14,
     "2026-06-17": 11,
     "2026-06-12": 6,
     "2026-06-11": 6,
     "2026-06-10": 4,
     "2026-06-08": 2,
-    "2026-06-15": 5,
+    "2026-06-15": 4,
     "2026-06-09": 3,
     "2026-06-05": 1,
     "2026-06-04": 1,
@@ -77,20 +77,20 @@
     "2026-06-13": 2
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
-    "webdev": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "webdev": 9,
     "mcps": 8,
     "javascript": 8,
-    "productivity": 7,
     "python": 7,
     "devchallenge": 6,
+    "discuss": 6,
+    "productivity": 6,
     "gemini": 5,
-    "discuss": 5,
     "programming": 5,
     "go": 5,
     "agents": 4,
