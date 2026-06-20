@@ -1,12 +1,12 @@
 {
-  "total": 103,
+  "total": 105,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 47,
+    "AI": 49,
     "JavaScript": 26,
     "Python": 17,
     "DevOps": 2,
@@ -28,8 +28,8 @@
     "CSharp": 1
   },
   "by_date": {
-    "2026-06-19": 3,
-    "2026-06-16": 14,
+    "2026-06-19": 4,
+    "2026-06-16": 15,
     "2026-06-18": 5,
     "2026-06-17": 11,
     "2026-06-12": 6,
@@ -86,10 +86,10 @@
     "Python": 10,
     "mcps": 8,
     "javascript": 8,
+    "webdev": 8,
+    "discuss": 7,
     "devchallenge": 7,
-    "webdev": 7,
     "python": 7,
-    "discuss": 6,
     "productivity": 6,
     "gemini": 5,
     "programming": 5,

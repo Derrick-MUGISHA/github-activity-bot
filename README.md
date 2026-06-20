@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-20-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 12 (11.7%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
 
 **WebDev**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 0:00 CAT)
+## 📅 Latest Updates (2026-06-21 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 00:35:11 CAT_
+_Last automated update: Sun, 21 Jun 2026 01:48:55 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 21 Jun 2026 00:35:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 20 Jun 2026 22:35:11 GMT</b><br/>
+  <b>Last automated update: Sat, 20 Jun 2026 23:48:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
