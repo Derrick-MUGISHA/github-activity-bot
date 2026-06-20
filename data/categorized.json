@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
       "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
       "published_at": "2026-06-19T10:09:03Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
     },
     {
       "title": "Generative UI with AI on React + React Native Universal App",
@@ -611,23 +611,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "yolfinance"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "majidmanzarpour"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -641,8 +626,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 369,
       "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 355,
+      "user": "majidmanzarpour"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -656,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 274,
       "user": "gykim80"
     }
   ],
@@ -916,21 +916,6 @@
       "user": "velmu"
     },
     {
-      "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "published_at": "2026-06-14T04:12:26Z",
-      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
-      "source": "GitHub",
-      "stars": 483,
-      "user": "royalbhati"
-    },
-    {
       "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
       "url": "https://github.com/rotejin/tomari-guruguru",
       "published_at": "2026-06-14T01:32:29Z",
@@ -942,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "rotejin"
     },
     {
@@ -957,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 215,
       "user": "rpanigrahi222"
     },
     {
@@ -972,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "oalanicolas"
     },
     {
@@ -987,8 +972,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "yolfinance"
+    },
+    {
+      "title": "Ar9av/gemini-nano-chrome - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+      "url": "https://github.com/Ar9av/gemini-nano-chrome",
+      "published_at": "2026-06-17T09:02:13Z",
+      "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29639685?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "Ar9av"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1002,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 355,
       "user": "majidmanzarpour"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2098,
+      "stars": 2107,
       "user": "tamnd"
     },
     {
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 274,
       "user": "gykim80"
     }
   ],
@@ -1199,23 +1199,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 510,
       "user": "fivetaku"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "majidmanzarpour"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -1229,8 +1214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 369,
       "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 355,
+      "user": "majidmanzarpour"
     },
     {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "baskduf"
     }
   ],
@@ -1400,21 +1400,6 @@
   ],
   "Cloud": [
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "Real-time IP capacity in Google Cloud subnets",
       "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j",
       "published_at": "2026-06-17T15:46:58Z",
@@ -1471,6 +1456,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27j43x2fpej4lrtsuxnr.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
     },
     {
       "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
@@ -1589,21 +1589,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "published_at": "2026-06-14T04:12:26Z",
-      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
-      "source": "GitHub",
-      "stars": 483,
-      "user": "royalbhati"
     }
   ],
   "Security": [
@@ -1742,21 +1727,6 @@
       "user": "Drazen Bebic"
     },
     {
-      "title": "royalbhati/sqltoerdiagram - ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "published_at": "2026-06-14T04:12:26Z",
-      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
-      "source": "GitHub",
-      "stars": 483,
-      "user": "royalbhati"
-    },
-    {
       "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
       "url": "https://github.com/rotejin/tomari-guruguru",
       "published_at": "2026-06-14T01:32:29Z",
@@ -1768,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "rotejin"
     },
     {
@@ -1783,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 215,
       "user": "rpanigrahi222"
     },
     {
@@ -1798,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "oalanicolas"
     },
     {
@@ -1813,8 +1783,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "yolfinance"
+    },
+    {
+      "title": "Ar9av/gemini-nano-chrome - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+      "url": "https://github.com/Ar9av/gemini-nano-chrome",
+      "published_at": "2026-06-17T09:02:13Z",
+      "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29639685?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "Ar9av"
     },
     {
       "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
@@ -1828,23 +1813,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 510,
       "user": "fivetaku"
-    },
-    {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "majidmanzarpour"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -1858,8 +1828,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 369,
       "user": "dongshuyan"
+    },
+    {
+      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "published_at": "2026-06-14T04:06:26Z",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 355,
+      "user": "majidmanzarpour"
     },
     {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
@@ -1888,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "baskduf"
     },
     {
@@ -1903,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2098,
+      "stars": 2107,
       "user": "tamnd"
     },
     {
@@ -1918,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 274,
       "user": "gykim80"
     },
     {
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "tamnd"
     },
     {
@@ -1963,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 52,
       "user": "praetorian-inc"
     }
   ]
