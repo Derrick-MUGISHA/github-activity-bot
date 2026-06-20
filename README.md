@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-20 17:00 CAT)
+## 📅 Latest Updates (2026-06-20 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 
-_Last automated update: Sat, 20 Jun 2026 17:13:09 CAT_
+_Last automated update: Sat, 20 Jun 2026 18:51:34 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Sat, 20 Jun 2026 17:13:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Python: Explain GIL and its implications for multithreading
+
+**Difficulty**: Hard | **Topics**: concurrency, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Global Interpreter Lock, multiprocessing alternatives
+
+</details>
+
+### 2. NodeJS: Implement rate limiting for an API
 
 **Difficulty**: Hard | **Topics**: security, middleware
 
@@ -237,25 +248,14 @@ Token bucket, sliding window, Redis
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Hash function, database design, caching, analytics
-
-</details>
-
-### 3. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 20 Jun 2026 15:13:09 GMT</b><br/>
+  <b>Last automated update: Sat, 20 Jun 2026 16:51:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
