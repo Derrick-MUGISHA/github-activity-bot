@@ -16,21 +16,6 @@
       "user": "Ertuğrul Demir"
     },
     {
-      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
-      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb",
-      "published_at": "2026-06-19T00:18:39Z",
-      "description": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
-      "tags": [
-        "midsommar",
-        "devchallenge",
-        "gamechallenge",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Ask a DEV Community Mod! 🚀",
       "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
       "published_at": "2026-06-16T16:52:39Z",
@@ -174,6 +159,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
+      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb",
+      "published_at": "2026-06-19T00:18:39Z",
+      "description": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
+      "tags": [
+        "midsommar",
+        "devchallenge",
+        "gamechallenge",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Migrate to Firebase Server Prompt Template in Angular using Dependency Injection",
@@ -611,23 +611,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 163,
       "user": "yolfinance"
-    },
-    {
-      "title": "LichAmnesia/awesome-ad-video-prompts - Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-      "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-      "published_at": "2026-06-16T04:36:14Z",
-      "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3425350?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "LichAmnesia"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -641,7 +626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 393,
       "user": "dongshuyan"
     },
     {
@@ -656,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 371,
       "user": "majidmanzarpour"
     },
     {
@@ -671,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "gykim80"
     }
   ],
@@ -972,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 179,
       "user": "oalanicolas"
     },
     {
@@ -987,23 +972,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 163,
       "user": "yolfinance"
     },
     {
-      "title": "LichAmnesia/awesome-ad-video-prompts - Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-      "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-      "published_at": "2026-06-16T04:36:14Z",
-      "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
+      "title": "Ar9av/gemini-nano-chrome - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+      "url": "https://github.com/Ar9av/gemini-nano-chrome",
+      "published_at": "2026-06-17T09:02:13Z",
+      "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3425350?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29639685?v=4",
       "source": "GitHub",
-      "stars": 138,
-      "user": "LichAmnesia"
+      "stars": 140,
+      "user": "Ar9av"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1017,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 371,
       "user": "majidmanzarpour"
     },
     {
@@ -1032,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2124,
+      "stars": 2132,
       "user": "tamnd"
     },
     {
@@ -1047,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "gykim80"
     }
   ],
@@ -1214,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "fivetaku"
     },
     {
@@ -1229,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 393,
       "user": "dongshuyan"
     },
     {
@@ -1244,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 371,
       "user": "majidmanzarpour"
     },
     {
@@ -1259,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "boogu-project"
     },
     {
@@ -1783,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 179,
       "user": "oalanicolas"
     },
     {
@@ -1798,23 +1783,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 163,
       "user": "yolfinance"
     },
     {
-      "title": "LichAmnesia/awesome-ad-video-prompts - Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-      "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-      "published_at": "2026-06-16T04:36:14Z",
-      "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
+      "title": "Ar9av/gemini-nano-chrome - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+      "url": "https://github.com/Ar9av/gemini-nano-chrome",
+      "published_at": "2026-06-17T09:02:13Z",
+      "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3425350?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29639685?v=4",
       "source": "GitHub",
-      "stars": 138,
-      "user": "LichAmnesia"
+      "stars": 140,
+      "user": "Ar9av"
     },
     {
       "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
@@ -1828,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "fivetaku"
     },
     {
@@ -1843,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 393,
       "user": "dongshuyan"
     },
     {
@@ -1858,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 371,
       "user": "majidmanzarpour"
     },
     {
@@ -1873,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "boogu-project"
     },
     {
@@ -1903,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2124,
+      "stars": 2132,
       "user": "tamnd"
     },
     {
@@ -1918,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "gykim80"
     },
     {

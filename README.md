@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-20 13:00 CAT)
+## 📅 Latest Updates (2026-06-20 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png" width="200" alt="Firebase Midsommer Madnesss with Antigravity CLI" />
+    <a href="https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png" width="200" alt="How to Read a webrtc-internals Dump, Section by Section" />
       <br/>
-      <b>Firebase Midsommer Madnesss with Antigravity CLI</b>
+      <b>How to Read a webrtc-internals Dump, Section by Se...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,7 +202,6 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [Congrats to the Hermes Agent Challenge Winners!](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
-- [Firebase Midsommer Madnesss with Antigravity CLI](https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb) _[Dev.to]_
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
 - [Ask a DEV Community Mod! 🚀](https://dev.to/francistrdev/ask-a-dev-community-mod-50hk) _[Dev.to]_
 - [Real-time IP capacity in Google Cloud subnets](https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
 - [Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2) _[Dev.to]_
+- [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
 
-_Last automated update: Sat, 20 Jun 2026 13:28:39 CAT_
+_Last automated update: Sat, 20 Jun 2026 15:06:13 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 20 Jun 2026 13:28:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 20 Jun 2026 11:28:39 GMT</b><br/>
+  <b>Last automated update: Sat, 20 Jun 2026 13:06:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
