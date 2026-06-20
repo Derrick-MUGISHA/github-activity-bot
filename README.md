@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-19-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-20-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -40,13 +40,13 @@
 
 **Mobile**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (2.9%)
-
 **WebDev**: 🟦 3 (2.9%)
 
-**Security**: 🟦 3 (2.9%)
+**DevOps**: 🟦 2 (1.9%)
 
 **Database**: 🟦 2 (1.9%)
+
+**Security**: 🟦 2 (1.9%)
 
 
 
@@ -60,14 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4 (28.4%)
-Go              █████████████████████████████ 27.4 (27.4%)
-Java            █████████████████████ 20.0 (20.0%)
-Python          ███████████████████ 17.9 (17.9%)
+JavaScript      ██████████████████████████████ 28.1 (28.1%)
+Go              █████████████████████████████ 27.1 (27.1%)
+Java            █████████████████████ 19.8 (19.8%)
+Python          ███████████████████ 17.7 (17.7%)
+CSharp          ██ 2.1 (2.1%)
 Rust            ██ 2.1 (2.1%)
 Swift           ██ 2.1 (2.1%)
-CSharp          █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+Kotlin          █ 1.0 (1.0%)
 
 ```
 
@@ -77,9 +77,9 @@ pie title Programming Languages Distribution
     "Go" : 26
     "Java" : 19
     "Python" : 17
+    "CSharp" : 2
     "Rust" : 2
     "Swift" : 2
-    "CSharp" : 1
     "Kotlin" : 1
 ```
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-20 1:00 CAT)
+## 📅 Latest Updates (2026-06-20 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png" width="200" alt="Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK" />
+    <a href="https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png" width="200" alt="I'm not a developer, but I built a calendar app to fix my most annoying work task" />
       <br/>
-      <b>Skills over System Prompts: Building an Anki Tutor...</b>
+      <b>I'm not a developer, but I built a calendar app to...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,10 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png" width="200" alt="I'm not a developer, but I built a calendar app to fix my most annoying work task" />
+    <a href="https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png" width="200" alt="Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK" />
       <br/>
-      <b>I'm not a developer, but I built a calendar app to...</b>
+      <b>Skills over System Prompts: Building an Anki Tutor...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 
 - [Congrats to the Hermes Agent Challenge Winners!](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0) _[Dev.to]_
 - [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) _[Dev.to]_
-- [Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f) _[Dev.to]_
 - [I'm not a developer, but I built a calendar app to fix my most annoying work task](https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4) _[Dev.to]_
+- [Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-246f) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d) _[Dev.to]_
 
-_Last automated update: Sat, 20 Jun 2026 01:13:29 CAT_
+_Last automated update: Sat, 20 Jun 2026 03:29:41 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 20 Jun 2026 01:13:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 19 Jun 2026 23:13:29 GMT</b><br/>
+  <b>Last automated update: Sat, 20 Jun 2026 01:29:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

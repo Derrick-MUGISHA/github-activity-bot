@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
-      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
-      "published_at": "2026-06-19T10:09:03Z",
-      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
       "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
       "published_at": "2026-06-18T21:59:19Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
       "source": "Dev.to",
       "user": "Aria Heller"
+    },
+    {
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+      "published_at": "2026-06-19T10:09:03Z",
+      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
     },
     {
       "title": "Firebase Midsommer Madnesss with Antigravity CLI",
@@ -611,23 +611,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "yolfinance"
-    },
-    {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "dongshuyan"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -641,8 +626,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 344,
       "user": "majidmanzarpour"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "dongshuyan"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -656,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "gykim80"
     }
   ],
@@ -927,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "royalbhati"
     },
     {
@@ -942,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 275,
       "user": "rotejin"
     },
     {
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "oalanicolas"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "yolfinance"
     },
     {
@@ -1002,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 344,
       "user": "majidmanzarpour"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2090,
+      "stars": 2098,
       "user": "tamnd"
     },
     {
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "gykim80"
     }
   ],
@@ -1199,23 +1199,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "fivetaku"
-    },
-    {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "dongshuyan"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1229,8 +1214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 344,
       "user": "majidmanzarpour"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "dongshuyan"
     },
     {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "baskduf"
     }
   ],
@@ -1293,21 +1293,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "bjarneo/ku - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
-      "url": "https://github.com/bjarneo/ku",
-      "published_at": "2026-06-13T14:38:25Z",
-      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 354,
-      "user": "bjarneo"
     }
   ],
   "WebDev": [
@@ -1617,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "royalbhati"
     }
   ],
@@ -1648,21 +1633,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "url": "https://github.com/kernelstub/Ferrum",
-      "published_at": "2026-06-13T13:44:35Z",
-      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "kernelstub"
     }
   ],
   "Tools": [
@@ -1783,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11679543?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "royalbhati"
     },
     {
@@ -1798,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 275,
       "user": "rotejin"
     },
     {
@@ -1828,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 172,
       "user": "oalanicolas"
     },
     {
@@ -1843,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "yolfinance"
     },
     {
@@ -1858,23 +1828,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "fivetaku"
-    },
-    {
-      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "url": "https://github.com/dongshuyan/compass-skills",
-      "published_at": "2026-06-15T06:28:04Z",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "dongshuyan"
     },
     {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
@@ -1888,8 +1843,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 344,
       "user": "majidmanzarpour"
+    },
+    {
+      "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "published_at": "2026-06-15T06:28:04Z",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "dongshuyan"
     },
     {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
@@ -1918,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "baskduf"
     },
     {
@@ -1933,23 +1903,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2090,
+      "stars": 2098,
       "user": "tamnd"
-    },
-    {
-      "title": "bjarneo/ku - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
-      "url": "https://github.com/bjarneo/ku",
-      "published_at": "2026-06-13T14:38:25Z",
-      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 354,
-      "user": "bjarneo"
     },
     {
       "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -1963,23 +1918,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "gykim80"
-    },
-    {
-      "title": "kernelstub/Ferrum - Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "url": "https://github.com/kernelstub/Ferrum",
-      "published_at": "2026-06-13T13:44:35Z",
-      "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "kernelstub"
     },
     {
       "title": "tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.",
@@ -1995,6 +1935,36 @@
       "source": "GitHub",
       "stars": 144,
       "user": "tamnd"
+    },
+    {
+      "title": "MateEke/picture-frame - A self-hosted digital picture frame for the Raspberry Pi: a single Go binary that serves an HD slideshow and a browser admin UI, running entirely on your own network.",
+      "url": "https://github.com/MateEke/picture-frame",
+      "published_at": "2026-06-14T23:29:54Z",
+      "description": "A self-hosted digital picture frame for the Raspberry Pi: a single Go binary that serves an HD slideshow and a browser admin UI, running entirely on your own network.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11072174?v=4",
+      "source": "GitHub",
+      "stars": 55,
+      "user": "MateEke"
+    },
+    {
+      "title": "praetorian-inc/wasmforge - WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
+      "url": "https://github.com/praetorian-inc/wasmforge",
+      "published_at": "2026-06-16T19:09:43Z",
+      "description": "WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "praetorian-inc"
     }
   ]
 }
