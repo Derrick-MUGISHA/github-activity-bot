@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-20 23:00 CAT)
+## 📅 Latest Updates (2026-06-21 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 
-_Last automated update: Sat, 20 Jun 2026 23:13:05 CAT_
+_Last automated update: Sun, 21 Jun 2026 00:35:11 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Sat, 20 Jun 2026 23:13:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+
+**Difficulty**: Easy | **Topics**: variables, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Scope, hoisting, and reassignment capabilities
+
+</details>
+
+### 2. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -237,25 +248,14 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: functions, timing
-
-<details>
-<summary>💡 Hint</summary>
-
-setTimeout, clearTimeout, wrapper function
-
-</details>
-
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
-
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 20 Jun 2026 21:13:05 GMT</b><br/>
+  <b>Last automated update: Sat, 20 Jun 2026 22:35:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
