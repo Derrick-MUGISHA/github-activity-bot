@@ -46,21 +46,6 @@
       "user": "Aria Heller"
     },
     {
-      "title": "Generative UI with AI on React + React Native Universal App",
-      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj",
-      "published_at": "2026-06-18T05:47:29Z",
-      "description": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
-      "tags": [
-        "ai",
-        "react",
-        "reactnative",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png",
-      "source": "Dev.to",
-      "user": "Neetigya Chahar"
-    },
-    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -456,6 +441,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
+      "published_at": "2026-06-06T01:41:40Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "discuss",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -600,6 +600,21 @@
       "user": "indigodaddy"
     },
     {
+      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "published_at": "2026-06-16T21:22:43Z",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
+      "source": "GitHub",
+      "stars": 504,
+      "user": "rebel0789"
+    },
+    {
       "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
       "url": "https://github.com/yolfinance/yolfi-agent",
       "published_at": "2026-06-16T15:43:27Z",
@@ -626,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "dongshuyan"
     },
     {
@@ -641,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "majidmanzarpour"
     },
     {
@@ -656,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 290,
       "user": "gykim80"
     }
   ],
@@ -674,21 +689,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
       "source": "Dev.to",
       "user": "Tsahi Levent-Levi"
-    },
-    {
-      "title": "Generative UI with AI on React + React Native Universal App",
-      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj",
-      "published_at": "2026-06-18T05:47:29Z",
-      "description": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
-      "tags": [
-        "ai",
-        "react",
-        "reactnative",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png",
-      "source": "Dev.to",
-      "user": "Neetigya Chahar"
     },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
@@ -916,6 +916,21 @@
       "user": "velmu"
     },
     {
+      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "published_at": "2026-06-16T21:22:43Z",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
+      "source": "GitHub",
+      "stars": 504,
+      "user": "rebel0789"
+    },
+    {
       "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
       "url": "https://github.com/rotejin/tomari-guruguru",
       "published_at": "2026-06-14T01:32:29Z",
@@ -927,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "rotejin"
     },
     {
@@ -942,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "rpanigrahi222"
     },
     {
@@ -957,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "oalanicolas"
     },
     {
@@ -976,21 +991,6 @@
       "user": "yolfinance"
     },
     {
-      "title": "Ar9av/gemini-nano-chrome - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
-      "url": "https://github.com/Ar9av/gemini-nano-chrome",
-      "published_at": "2026-06-17T09:02:13Z",
-      "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29639685?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "Ar9av"
-    },
-    {
       "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
       "url": "https://github.com/majidmanzarpour/threejs-game-skills",
       "published_at": "2026-06-14T04:06:26Z",
@@ -1002,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "majidmanzarpour"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2132,
+      "stars": 2141,
       "user": "tamnd"
     },
     {
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 290,
       "user": "gykim80"
     }
   ],
@@ -1199,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 524,
       "user": "fivetaku"
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "dongshuyan"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "majidmanzarpour"
     },
     {
@@ -1244,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 341,
       "user": "boogu-project"
     },
     {
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "baskduf"
     }
   ],
@@ -1340,21 +1340,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "Generative UI with AI on React + React Native Universal App",
-      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj",
-      "published_at": "2026-06-18T05:47:29Z",
-      "description": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
-      "tags": [
-        "ai",
-        "react",
-        "reactnative",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyv1oybh6cvx18a2dw4yl.png",
-      "source": "Dev.to",
-      "user": "Neetigya Chahar"
-    },
     {
       "title": "What I Learned Working on a Large-Scale Social Media iOS Application",
       "url": "https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace",
@@ -1727,6 +1712,36 @@
       "user": "Drazen Bebic"
     },
     {
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
+      "published_at": "2026-06-06T01:41:40Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "discuss",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "published_at": "2026-06-16T21:22:43Z",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
+      "source": "GitHub",
+      "stars": 504,
+      "user": "rebel0789"
+    },
+    {
       "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
       "url": "https://github.com/rotejin/tomari-guruguru",
       "published_at": "2026-06-14T01:32:29Z",
@@ -1738,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "rotejin"
     },
     {
@@ -1753,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "rpanigrahi222"
     },
     {
@@ -1768,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "oalanicolas"
     },
     {
@@ -1787,21 +1802,6 @@
       "user": "yolfinance"
     },
     {
-      "title": "Ar9av/gemini-nano-chrome - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
-      "url": "https://github.com/Ar9av/gemini-nano-chrome",
-      "published_at": "2026-06-17T09:02:13Z",
-      "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29639685?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "Ar9av"
-    },
-    {
       "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
       "url": "https://github.com/fivetaku/fablize",
       "published_at": "2026-06-14T05:49:06Z",
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 524,
       "user": "fivetaku"
     },
     {
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "dongshuyan"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "majidmanzarpour"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 341,
       "user": "boogu-project"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "baskduf"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
       "source": "GitHub",
-      "stars": 2132,
+      "stars": 2141,
       "user": "tamnd"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 290,
       "user": "gykim80"
     },
     {
