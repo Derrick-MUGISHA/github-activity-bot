@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-20 20:00 CAT)
+## 📅 Latest Updates (2026-06-20 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 
-_Last automated update: Sat, 20 Jun 2026 20:07:39 CAT_
+_Last automated update: Sat, 20 Jun 2026 21:55:10 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Sat, 20 Jun 2026 20:07:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Java: What is the difference between abstract class and interface?
+
+**Difficulty**: Easy | **Topics**: OOP, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 2. NodeJS: Implement rate limiting for an API
 
 **Difficulty**: Hard | **Topics**: security, middleware
 
@@ -237,25 +248,14 @@ Token bucket, sliding window, Redis
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
-
-</details>
-
-### 3. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 20 Jun 2026 18:07:39 GMT</b><br/>
+  <b>Last automated update: Sat, 20 Jun 2026 19:55:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
