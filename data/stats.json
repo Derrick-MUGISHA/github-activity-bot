@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -21,16 +21,16 @@
     "Go": 26,
     "JavaScript": 26,
     "Java": 19,
-    "CSharp": 2,
     "Python": 17,
     "Rust": 2,
     "Swift": 2,
-    "Kotlin": 1
+    "Kotlin": 1,
+    "CSharp": 1
   },
   "by_date": {
     "2026-06-18": 5,
     "2026-06-19": 3,
-    "2026-06-16": 16,
+    "2026-06-16": 15,
     "2026-06-17": 11,
     "2026-06-12": 6,
     "2026-06-11": 6,
@@ -85,9 +85,9 @@
     "Python": 10,
     "mcps": 8,
     "javascript": 8,
-    "webdev": 8,
     "devchallenge": 7,
     "discuss": 7,
+    "webdev": 7,
     "python": 7,
     "productivity": 6,
     "gemini": 5,
@@ -100,13 +100,13 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "27.4",
-    "JavaScript": "27.4",
-    "Java": "20.0",
-    "CSharp": "2.1",
-    "Python": "17.9",
+    "Go": "27.7",
+    "JavaScript": "27.7",
+    "Java": "20.2",
+    "Python": "18.1",
     "Rust": "2.1",
     "Swift": "2.1",
-    "Kotlin": "1.1"
+    "Kotlin": "1.1",
+    "CSharp": "1.1"
   }
 }
