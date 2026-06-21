@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
-
-**WebDev**: 🟦 3 (2.9%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
 **Mobile**: 🟦 3 (2.9%)
 
 **Security**: 🟦 3 (2.9%)
 
 **DevOps**: 🟦 2 (1.9%)
+
+**WebDev**: 🟦 2 (1.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.8 (27.8%)
-JavaScript      ████████████████████████████ 25.6 (25.6%)
-Java            ██████████████████████ 20.0 (20.0%)
-Python          ████████████████████ 18.9 (18.9%)
-Rust            ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
-CSharp          ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 28.4 (28.4%)
+JavaScript      ██████████████████████████ 25.0 (25.0%)
+Java            ████████████████████ 19.3 (19.3%)
+Python          ████████████████████ 19.3 (19.3%)
+Rust            ██ 2.3 (2.3%)
+Swift           ██ 2.3 (2.3%)
+CSharp          ██ 2.3 (2.3%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
@@ -74,8 +74,8 @@ Kotlin          █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 25
-    "JavaScript" : 23
-    "Java" : 18
+    "JavaScript" : 22
+    "Java" : 17
     "Python" : 17
     "Rust" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
 
 
 
@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 10:00 CAT)
+## 📅 Latest Updates (2026-06-21 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png" width="200" alt="Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK" />
-      <br/>
-      <b>Skills over System Prompts: Building an Anki Tutor...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F099thx0k9r5ry0o2y593.png" width="200" alt="12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI" />
@@ -161,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png" width="200" alt="How to Read a webrtc-internals Dump, Section by Section" />
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkfa2pr085hpglqbgc7r.png" width="200" alt="Real-time IP capacity in Google Cloud subnets" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png" width="200" alt="Deploying Gemma 12B to Azure with GPU" />
+      <br/>
+      <b>Deploying Gemma 12B to Azure with GPU</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -197,7 +197,6 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
 - [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) _[Dev.to]_
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [Understanding DNS](https://dev.to/gde/understanding-dns-2a3j) _[Dev.to]_
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-246f) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 10:17:30 CAT_
+_Last automated update: Sun, 21 Jun 2026 13:28:28 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 21 Jun 2026 10:17:30 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Execution timing, event loop phases
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Heap, stack, garbage collection
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Execution timing, event loop phases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 21 Jun 2026 08:17:30 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 11:28:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

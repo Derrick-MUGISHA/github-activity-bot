@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
-      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
-      "published_at": "2026-06-19T10:09:03Z",
-      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
       "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
       "published_at": "2026-06-18T21:59:19Z",
@@ -337,6 +322,21 @@
       "user": "Jean-Phi Baconnais"
     },
     {
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+      "published_at": "2026-06-19T10:09:03Z",
+      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
+    },
+    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
       "published_at": "2026-06-02T20:02:27Z",
@@ -440,6 +440,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwp5h8386xx9n2acyy28s.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -597,23 +612,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 591,
       "user": "rebel0789"
     },
     {
-      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "url": "https://github.com/yolfinance/yolfi-agent",
-      "published_at": "2026-06-16T15:43:27Z",
-      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 173,
-      "user": "yolfinance"
+      "stars": 179,
+      "user": "eooce"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -767,34 +782,17 @@
       "user": "Ayoola Solomon"
     },
     {
-      "title": "Frontend System Design: Designing a Collaborative Whiteboard",
-      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
-      "published_at": "2026-06-11T17:38:12Z",
-      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
+      "title": "Angular resources are not a good fit for Guards",
+      "url": "https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j",
+      "published_at": "2026-06-17T11:34:32Z",
+      "description": "Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...",
       "tags": [
-        "systemdesign",
-        "webdev",
-        "frontend",
-        "javascript"
+        "angular",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png",
       "source": "Dev.to",
-      "user": "Harsha Attray"
-    },
-    {
-      "title": "Building a browser-only tool to turn QR codes into Lego bricks",
-      "url": "https://dev.to/drazenbebic/building-a-browser-only-tool-to-turn-qr-codes-into-lego-bricks-1dc5",
-      "published_at": "2026-06-17T09:16:30Z",
-      "description": "How I built a 100% client-side React app that converts data into optimized Lego QR code blueprints and exports BrickLink XMLs.",
-      "tags": [
-        "webdev",
-        "react",
-        "typescript",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl3z7vt4jh3y1n0yczrm.png",
-      "source": "Dev.to",
-      "user": "Drazen Bebic"
+      "user": "Gérôme Grignon"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -917,21 +915,6 @@
       "user": "velmu"
     },
     {
-      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "url": "https://github.com/rebel0789/codexpro",
-      "published_at": "2026-06-16T21:22:43Z",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "rebel0789"
-    },
-    {
       "title": "zhongerxin/cowart - GitHub Repository",
       "url": "https://github.com/zhongerxin/cowart",
       "published_at": "2026-06-18T16:08:30Z",
@@ -943,8 +926,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 718,
       "user": "zhongerxin"
+    },
+    {
+      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "published_at": "2026-06-16T21:22:43Z",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
+      "source": "GitHub",
+      "stars": 591,
+      "user": "rebel0789"
     },
     {
       "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
@@ -958,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "rpanigrahi222"
     },
     {
@@ -973,23 +971,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 203,
       "user": "cloudflare"
     },
     {
-      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "url": "https://github.com/yolfinance/yolfi-agent",
-      "published_at": "2026-06-16T15:43:27Z",
-      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 173,
-      "user": "yolfinance"
+      "stars": 179,
+      "user": "eooce"
     }
   ],
   "Python": [
@@ -1170,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "boogu-project"
     },
     {
@@ -1189,6 +1187,21 @@
       "user": "leyten"
     },
     {
+      "title": "clent267/FUNCAPTCHAV3 - GitHub Repository",
+      "url": "https://github.com/clent267/FUNCAPTCHAV3",
+      "published_at": "2026-06-20T14:06:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138356434?v=4",
+      "source": "GitHub",
+      "stars": 237,
+      "user": "clent267"
+    },
+    {
       "title": "Tyxy-R/codex-referral-risk-research - GitHub Repository",
       "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
       "published_at": "2026-06-17T12:08:33Z",
@@ -1202,21 +1215,6 @@
       "source": "GitHub",
       "stars": 227,
       "user": "Tyxy-R"
-    },
-    {
-      "title": "aresyn/codex-control-plane-mcp - Durable MCP control plane for long-running Codex Desktop tasks",
-      "url": "https://github.com/aresyn/codex-control-plane-mcp",
-      "published_at": "2026-06-17T10:02:02Z",
-      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51988059?v=4",
-      "source": "GitHub",
-      "stars": 219,
-      "user": "aresyn"
     }
   ],
   "DevOps": [
@@ -1252,21 +1250,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Frontend System Design: Designing a Collaborative Whiteboard",
-      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5",
-      "published_at": "2026-06-11T17:38:12Z",
-      "description": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
-      "tags": [
-        "systemdesign",
-        "webdev",
-        "frontend",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvts0qk2dyobzbr92lxoh.png",
-      "source": "Dev.to",
-      "user": "Harsha Attray"
-    },
     {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
@@ -1515,8 +1498,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 203,
       "user": "cloudflare"
+    },
+    {
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "eooce"
     }
   ],
   "Database": [
@@ -1573,7 +1571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 203,
       "user": "cloudflare"
     }
   ],
@@ -1669,21 +1667,6 @@
       "user": "Diogo Capela"
     },
     {
-      "title": "Building a browser-only tool to turn QR codes into Lego bricks",
-      "url": "https://dev.to/drazenbebic/building-a-browser-only-tool-to-turn-qr-codes-into-lego-bricks-1dc5",
-      "published_at": "2026-06-17T09:16:30Z",
-      "description": "How I built a 100% client-side React app that converts data into optimized Lego QR code blueprints and exports BrickLink XMLs.",
-      "tags": [
-        "webdev",
-        "react",
-        "typescript",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl3z7vt4jh3y1n0yczrm.png",
-      "source": "Dev.to",
-      "user": "Drazen Bebic"
-    },
-    {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
       "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
       "published_at": "2026-06-06T01:41:40Z",
@@ -1699,21 +1682,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "url": "https://github.com/rebel0789/codexpro",
-      "published_at": "2026-06-16T21:22:43Z",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "rebel0789"
-    },
-    {
       "title": "zhongerxin/cowart - GitHub Repository",
       "url": "https://github.com/zhongerxin/cowart",
       "published_at": "2026-06-18T16:08:30Z",
@@ -1725,8 +1693,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 718,
       "user": "zhongerxin"
+    },
+    {
+      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "published_at": "2026-06-16T21:22:43Z",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
+      "source": "GitHub",
+      "stars": 591,
+      "user": "rebel0789"
     },
     {
       "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
@@ -1740,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "rpanigrahi222"
     },
     {
@@ -1755,23 +1738,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 203,
       "user": "cloudflare"
     },
     {
-      "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "url": "https://github.com/yolfinance/yolfi-agent",
-      "published_at": "2026-06-16T15:43:27Z",
-      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 173,
-      "user": "yolfinance"
+      "stars": 179,
+      "user": "eooce"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -1800,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "boogu-project"
     },
     {
@@ -1819,6 +1802,21 @@
       "user": "leyten"
     },
     {
+      "title": "clent267/FUNCAPTCHAV3 - GitHub Repository",
+      "url": "https://github.com/clent267/FUNCAPTCHAV3",
+      "published_at": "2026-06-20T14:06:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138356434?v=4",
+      "source": "GitHub",
+      "stars": 237,
+      "user": "clent267"
+    },
+    {
       "title": "Tyxy-R/codex-referral-risk-research - GitHub Repository",
       "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
       "published_at": "2026-06-17T12:08:33Z",
@@ -1834,21 +1832,6 @@
       "user": "Tyxy-R"
     },
     {
-      "title": "aresyn/codex-control-plane-mcp - Durable MCP control plane for long-running Codex Desktop tasks",
-      "url": "https://github.com/aresyn/codex-control-plane-mcp",
-      "published_at": "2026-06-17T10:02:02Z",
-      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51988059?v=4",
-      "source": "GitHub",
-      "stars": 219,
-      "user": "aresyn"
-    },
-    {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
       "url": "https://github.com/overflowy/make-look-scanned",
       "published_at": "2026-06-20T17:39:59Z",
@@ -1860,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 191,
       "user": "overflowy"
     },
     {
@@ -1890,14 +1873,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 66,
       "user": "praetorian-inc"
     },
     {
-      "title": "alvinunreal/lazyskills - Mission control for agent skills. ⭐ Star for a chance to win stickers.",
+      "title": "alvinunreal/lazyskills - Mission control for agent skills",
       "url": "https://github.com/alvinunreal/lazyskills",
       "published_at": "2026-06-19T06:20:40Z",
-      "description": "Mission control for agent skills. ⭐ Star for a chance to win stickers.",
+      "description": "Mission control for agent skills",
       "tags": [
         "go",
         "github",
@@ -1905,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "alvinunreal"
     },
     {
