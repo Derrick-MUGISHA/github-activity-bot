@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 20:00 CAT)
+## 📅 Latest Updates (2026-06-21 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 20:49:27 CAT_
+_Last automated update: Sun, 21 Jun 2026 22:22:02 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 21 Jun 2026 20:49:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 21 Jun 2026 18:49:27 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 20:22:02 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
