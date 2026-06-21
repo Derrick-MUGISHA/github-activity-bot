@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 13:00 CAT)
+## 📅 Latest Updates (2026-06-21 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-246f) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 13:28:28 CAT_
+_Last automated update: Sun, 21 Jun 2026 15:22:37 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 21 Jun 2026 13:28:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 21 Jun 2026 11:28:28 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 13:22:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
