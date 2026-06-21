@@ -161,20 +161,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
-      "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
       "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
       "published_at": "2026-06-09T12:16:25Z",
@@ -611,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 559,
       "user": "rebel0789"
     },
     {
@@ -626,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "yolfinance"
     },
     {
@@ -645,34 +631,19 @@
       "user": "dongshuyan"
     },
     {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "title": "leyten/shard - Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "url": "https://github.com/leyten/shard",
+      "published_at": "2026-06-15T21:31:07Z",
+      "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86632281?v=4",
       "source": "GitHub",
-      "stars": 379,
-      "user": "majidmanzarpour"
-    },
-    {
-      "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "url": "https://github.com/gykim80/perfectpixel-studio",
-      "published_at": "2026-06-14T04:23:45Z",
-      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
-      "source": "GitHub",
-      "stars": 301,
-      "user": "gykim80"
+      "stars": 266,
+      "user": "leyten"
     },
     {
       "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
@@ -686,8 +657,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 73,
       "user": "zyn26"
+    },
+    {
+      "title": "npci/drunix - Drunix is a custom-built private blockchain framework designed to deliver high scalability and optimized performance. Developed by re-engineering Hyperledger Fabric, Drunix introduces significant architectural changes that enable horizontal scaling—a capability that traditional Hyperledger Fabric lacks.",
+      "url": "https://github.com/npci/drunix",
+      "published_at": "2026-06-15T17:03:13Z",
+      "description": "Drunix is a custom-built private blockchain framework designed to deliver high scalability and optimized performance. Developed by re-engineering Hyperledger Fabric, Drunix introduces significant architectural changes that enable horizontal scaling—a capability that traditional Hyperledger Fabric lacks.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142973479?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "npci"
     }
   ],
   "JavaScript": [
@@ -942,23 +928,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 559,
       "user": "rebel0789"
     },
     {
-      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "url": "https://github.com/rotejin/tomari-guruguru",
-      "published_at": "2026-06-14T01:32:29Z",
-      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "title": "zhongerxin/cowart - GitHub Repository",
+      "url": "https://github.com/zhongerxin/cowart",
+      "published_at": "2026-06-18T16:08:30Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 287,
-      "user": "rotejin"
+      "stars": 289,
+      "user": "zhongerxin"
     },
     {
       "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
@@ -972,23 +958,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "rpanigrahi222"
-    },
-    {
-      "title": "oalanicolas/claude-design-premium - Claude Design starter kit for premium design systems",
-      "url": "https://github.com/oalanicolas/claude-design-premium",
-      "published_at": "2026-06-14T23:00:30Z",
-      "description": "Claude Design starter kit for premium design systems",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "oalanicolas"
     },
     {
       "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
@@ -1002,53 +973,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "yolfinance"
     },
     {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "published_at": "2026-06-18T14:08:44Z",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 379,
-      "user": "majidmanzarpour"
-    },
-    {
-      "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
-      "url": "https://github.com/tamnd/kage",
-      "published_at": "2026-06-14T11:21:55Z",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
-      "source": "GitHub",
-      "stars": 2163,
-      "user": "tamnd"
-    },
-    {
-      "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "url": "https://github.com/gykim80/perfectpixel-studio",
-      "published_at": "2026-06-14T04:23:45Z",
-      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
-      "source": "GitHub",
-      "stars": 301,
-      "user": "gykim80"
+      "stars": 161,
+      "user": "cloudflare"
     }
   ],
   "Python": [
@@ -1203,21 +1144,6 @@
       "user": "arathore"
     },
     {
-      "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
-      "url": "https://github.com/fivetaku/fablize",
-      "published_at": "2026-06-14T05:49:06Z",
-      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
-      "source": "GitHub",
-      "stars": 532,
-      "user": "fivetaku"
-    },
-    {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
       "url": "https://github.com/dongshuyan/compass-skills",
       "published_at": "2026-06-15T06:28:04Z",
@@ -1233,21 +1159,6 @@
       "user": "dongshuyan"
     },
     {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "majidmanzarpour"
-    },
-    {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
       "url": "https://github.com/boogu-project/Boogu-Image",
       "published_at": "2026-06-16T14:59:20Z",
@@ -1259,23 +1170,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "boogu-project"
     },
     {
-      "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-      "url": "https://github.com/baskduf/FableCodex",
-      "published_at": "2026-06-14T13:11:00Z",
-      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "title": "leyten/shard - Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "url": "https://github.com/leyten/shard",
+      "published_at": "2026-06-15T21:31:07Z",
+      "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86632281?v=4",
       "source": "GitHub",
-      "stars": 324,
-      "user": "baskduf"
+      "stars": 266,
+      "user": "leyten"
+    },
+    {
+      "title": "Tyxy-R/codex-referral-risk-research - GitHub Repository",
+      "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
+      "published_at": "2026-06-17T12:08:33Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/116926526?v=4",
+      "source": "GitHub",
+      "stars": 227,
+      "user": "Tyxy-R"
+    },
+    {
+      "title": "aresyn/codex-control-plane-mcp - Durable MCP control plane for long-running Codex Desktop tasks",
+      "url": "https://github.com/aresyn/codex-control-plane-mcp",
+      "published_at": "2026-06-17T10:02:02Z",
+      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51988059?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "aresyn"
     }
   ],
   "DevOps": [
@@ -1533,20 +1474,6 @@
       "user": "xbill"
     },
     {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog",
-      "published_at": "2026-06-09T18:44:05Z",
-      "description": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbico5qc1opbayx8cc3x.jpg",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
       "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
       "published_at": "2026-06-16T06:07:42Z",
@@ -1575,6 +1502,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "published_at": "2026-06-18T14:08:44Z",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "cloudflare"
     }
   ],
   "Database": [
@@ -1618,6 +1560,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "published_at": "2026-06-18T14:08:44Z",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "cloudflare"
     }
   ],
   "Tools": [
@@ -1753,23 +1710,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 559,
       "user": "rebel0789"
     },
     {
-      "title": "rotejin/tomari-guruguru - 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "url": "https://github.com/rotejin/tomari-guruguru",
-      "published_at": "2026-06-14T01:32:29Z",
-      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "title": "zhongerxin/cowart - GitHub Repository",
+      "url": "https://github.com/zhongerxin/cowart",
+      "published_at": "2026-06-18T16:08:30Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128216944?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 287,
-      "user": "rotejin"
+      "stars": 289,
+      "user": "zhongerxin"
     },
     {
       "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
@@ -1783,23 +1740,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 232,
       "user": "rpanigrahi222"
-    },
-    {
-      "title": "oalanicolas/claude-design-premium - Claude Design starter kit for premium design systems",
-      "url": "https://github.com/oalanicolas/claude-design-premium",
-      "published_at": "2026-06-14T23:00:30Z",
-      "description": "Claude Design starter kit for premium design systems",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/895889?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "oalanicolas"
     },
     {
       "title": "yolfinance/yolfi-agent - Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
@@ -1813,23 +1755,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285802295?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "yolfinance"
     },
     {
-      "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
-      "url": "https://github.com/fivetaku/fablize",
-      "published_at": "2026-06-14T05:49:06Z",
-      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "published_at": "2026-06-18T14:08:44Z",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65525458?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 532,
-      "user": "fivetaku"
+      "stars": 161,
+      "user": "cloudflare"
     },
     {
       "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -1847,21 +1789,6 @@
       "user": "dongshuyan"
     },
     {
-      "title": "majidmanzarpour/threejs-game-skills - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "published_at": "2026-06-14T04:06:26Z",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "majidmanzarpour"
-    },
-    {
       "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
       "url": "https://github.com/boogu-project/Boogu-Image",
       "published_at": "2026-06-16T14:59:20Z",
@@ -1873,68 +1800,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "boogu-project"
     },
     {
-      "title": "baskduf/FableCodex - 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-      "url": "https://github.com/baskduf/FableCodex",
-      "published_at": "2026-06-14T13:11:00Z",
-      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "title": "leyten/shard - Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "url": "https://github.com/leyten/shard",
+      "published_at": "2026-06-15T21:31:07Z",
+      "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20144414?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86632281?v=4",
       "source": "GitHub",
-      "stars": 324,
-      "user": "baskduf"
+      "stars": 266,
+      "user": "leyten"
     },
     {
-      "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
-      "url": "https://github.com/tamnd/kage",
-      "published_at": "2026-06-14T11:21:55Z",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "title": "Tyxy-R/codex-referral-risk-research - GitHub Repository",
+      "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
+      "published_at": "2026-06-17T12:08:33Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/116926526?v=4",
       "source": "GitHub",
-      "stars": 2163,
-      "user": "tamnd"
+      "stars": 227,
+      "user": "Tyxy-R"
     },
     {
-      "title": "gykim80/perfectpixel-studio - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "url": "https://github.com/gykim80/perfectpixel-studio",
-      "published_at": "2026-06-14T04:23:45Z",
-      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "title": "aresyn/codex-control-plane-mcp - Durable MCP control plane for long-running Codex Desktop tasks",
+      "url": "https://github.com/aresyn/codex-control-plane-mcp",
+      "published_at": "2026-06-17T10:02:02Z",
+      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48663150?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/51988059?v=4",
       "source": "GitHub",
-      "stars": 301,
-      "user": "gykim80"
-    },
-    {
-      "title": "tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.",
-      "url": "https://github.com/tamnd/ascii-gif",
-      "published_at": "2026-06-14T13:19:11Z",
-      "description": "Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1218621?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "tamnd"
+      "stars": 218,
+      "user": "aresyn"
     },
     {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
@@ -1948,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 124,
       "user": "overflowy"
     },
     {
@@ -1963,8 +1875,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 73,
       "user": "zyn26"
+    },
+    {
+      "title": "praetorian-inc/wasmforge - WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
+      "url": "https://github.com/praetorian-inc/wasmforge",
+      "published_at": "2026-06-16T19:09:43Z",
+      "description": "WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "praetorian-inc"
+    },
+    {
+      "title": "alvinunreal/lazyskills - Mission control for agent skills. ⭐ Star for a chance to win stickers.",
+      "url": "https://github.com/alvinunreal/lazyskills",
+      "published_at": "2026-06-19T06:20:40Z",
+      "description": "Mission control for agent skills. ⭐ Star for a chance to win stickers.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "alvinunreal"
+    },
+    {
+      "title": "npci/drunix - Drunix is a custom-built private blockchain framework designed to deliver high scalability and optimized performance. Developed by re-engineering Hyperledger Fabric, Drunix introduces significant architectural changes that enable horizontal scaling—a capability that traditional Hyperledger Fabric lacks.",
+      "url": "https://github.com/npci/drunix",
+      "published_at": "2026-06-15T17:03:13Z",
+      "description": "Drunix is a custom-built private blockchain framework designed to deliver high scalability and optimized performance. Developed by re-engineering Hyperledger Fabric, Drunix introduces significant architectural changes that enable horizontal scaling—a capability that traditional Hyperledger Fabric lacks.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142973479?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "npci"
     }
   ]
 }
