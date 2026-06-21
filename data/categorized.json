@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -86,21 +71,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "[Hands-on Gemini 3.5 Live",
-      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
-      "published_at": "2026-06-12T06:09:59Z",
-      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
       "published_at": "2026-06-12T06:09:40Z",
@@ -112,6 +82,21 @@
         "softwaredevelopment"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
+      "published_at": "2026-06-12T06:09:59Z",
+      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -305,6 +290,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
     },
     {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "rebel0789"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "eooce"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 415,
       "user": "dongshuyan"
     },
     {
@@ -926,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1116,
       "user": "zhongerxin"
     },
     {
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "rebel0789"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "rpanigrahi222"
     },
     {
@@ -971,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 228,
       "user": "cloudflare"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "eooce"
     }
   ],
@@ -1153,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 415,
       "user": "dongshuyan"
     },
     {
@@ -1168,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "boogu-project"
     },
     {
@@ -1382,21 +1382,6 @@
       "user": "xbill"
     },
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl",
       "published_at": "2026-06-11T14:11:07Z",
@@ -1472,6 +1457,21 @@
       "user": "Alexander Tyutin"
     },
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -1498,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 228,
       "user": "cloudflare"
     },
     {
@@ -1513,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "eooce"
     }
   ],
@@ -1571,26 +1571,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 228,
       "user": "cloudflare"
     }
   ],
   "Tools": [
-    {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
     {
       "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
@@ -1667,6 +1652,21 @@
       "user": "Diogo Capela"
     },
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
       "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
       "published_at": "2026-06-06T01:41:40Z",
@@ -1693,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1116,
       "user": "zhongerxin"
     },
     {
@@ -1708,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "rebel0789"
     },
     {
@@ -1723,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "rpanigrahi222"
     },
     {
@@ -1738,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 228,
       "user": "cloudflare"
     },
     {
@@ -1753,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "eooce"
     },
     {
@@ -1768,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17682201?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 415,
       "user": "dongshuyan"
     },
     {
@@ -1783,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "boogu-project"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "overflowy"
     },
     {

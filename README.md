@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 23:00 CAT)
+## 📅 Latest Updates (2026-06-22 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,7 +203,6 @@ npm run test
 - [Real-time IP capacity in Google Cloud subnets](https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n) _[Dev.to]_
 - [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd) _[Dev.to]_
-- [I'm not a developer, but I built a calendar app to fix my most annoying work task](https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
@@ -215,10 +214,11 @@ npm run test
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
 - [Understanding DNS](https://dev.to/gde/understanding-dns-2a3j) _[Dev.to]_
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
-- [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
+- [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
+- [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 23:51:51 CAT_
+_Last automated update: Mon, 22 Jun 2026 01:08:47 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Sun, 21 Jun 2026 23:51:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 2. Java: What are Java Streams and how do they work?
+### 1. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -248,7 +237,7 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 2. Python: Explain decorators in Python with an example
 
 **Difficulty**: Medium | **Topics**: functions, metaprogramming
 
@@ -256,6 +245,17 @@ Lazy evaluation, pipeline, terminal operations
 <summary>💡 Hint</summary>
 
 Function wrappers, @syntax, practical uses
+
+</details>
+
+### 3. React: What are hooks and why were they introduced?
+
+**Difficulty**: Medium | **Topics**: hooks, functional components
+
+<details>
+<summary>💡 Hint</summary>
+
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 21 Jun 2026 21:51:51 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 23:08:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
