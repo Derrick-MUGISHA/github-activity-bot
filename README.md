@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-20-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-21-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -42,9 +42,9 @@
 
 **Mobile**: 🟦 3 (2.9%)
 
-**DevOps**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (2.9%)
 
-**Security**: 🟦 2 (1.9%)
+**DevOps**: 🟦 2 (1.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,34 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.7 (27.7%)
-JavaScript      ██████████████████████████████ 27.7 (27.7%)
-Java            ██████████████████████ 20.2 (20.2%)
-Python          ████████████████████ 18.1 (18.1%)
-Rust            ██ 2.1 (2.1%)
-Swift           ██ 2.1 (2.1%)
+Go              ██████████████████████████████ 27.8 (27.8%)
+JavaScript      ████████████████████████████ 25.6 (25.6%)
+Java            ██████████████████████ 20.0 (20.0%)
+Python          ████████████████████ 18.9 (18.9%)
+Rust            ██ 2.2 (2.2%)
+Swift           ██ 2.2 (2.2%)
+CSharp          ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "JavaScript" : 26
-    "Java" : 19
+    "Go" : 25
+    "JavaScript" : 23
+    "Java" : 18
     "Python" : 17
     "Rust" : 2
     "Swift" : 2
+    "CSharp" : 2
     "Kotlin" : 1
-    "CSharp" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 1:00 CAT)
+## 📅 Latest Updates (2026-06-21 5:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -143,26 +143,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkibesjuk8f5kq6k62nyf.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fysuxwstlk80xqo5p41c3.png" width="200" alt="Congrats to the Hermes Agent Challenge Winners!" />
-      <br/>
-      <b>Congrats to the Hermes Agent Challenge Winners!</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F099thx0k9r5ry0o2y593.png" width="200" alt="12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI" />
@@ -181,11 +161,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png" width="200" alt="How to Read a webrtc-internals Dump, Section by Section" />
       <br/>
       <b>How to Read a webrtc-internals Dump, Section by Se...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkfa2pr085hpglqbgc7r.png" width="200" alt="Real-time IP capacity in Google Cloud subnets" />
+      <br/>
+      <b>Real-time IP capacity in Google Cloud subnets</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd06qn4latfoeuzc50ot9.png" width="200" alt="Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI" />
+      <br/>
+      <b>Debugging Deployments with Gemma 12B, TPU v6e-1, M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,6 @@ npm run test
 ### 📰 Top Headlines
 
 - [Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) _[Dev.to]_
-- [Congrats to the Hermes Agent Challenge Winners!](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0) _[Dev.to]_
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
 - [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) _[Dev.to]_
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
@@ -213,12 +211,14 @@ npm run test
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
 - [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl) _[Dev.to]_
 - [Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2) _[Dev.to]_
+- [Congrats to the Hermes Agent Challenge Winners!](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0) _[Dev.to]_
 - [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 - [I tried to make an AI agent answer more. It answered less.](https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a) _[Dev.to]_
 - [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0) _[Dev.to]_
+- [Understanding DNS](https://dev.to/gde/understanding-dns-2a3j) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 01:48:55 CAT_
+_Last automated update: Sun, 21 Jun 2026 05:44:03 CAT_
 
 
 
@@ -226,18 +226,7 @@ _Last automated update: Sun, 21 Jun 2026 01:48:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 2. React: Implement a custom hook for fetching data
+### 1. React: Implement a custom hook for fetching data
 
 **Difficulty**: Medium | **Topics**: hooks, async
 
@@ -248,14 +237,25 @@ useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Hash function, database design, caching, analytics
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 20 Jun 2026 23:48:55 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 03:44:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
