@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 22:00 CAT)
+## 📅 Latest Updates (2026-06-21 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 - [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 22:22:02 CAT_
+_Last automated update: Sun, 21 Jun 2026 23:51:51 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 21 Jun 2026 22:22:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 21 Jun 2026 20:22:02 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 21:51:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
