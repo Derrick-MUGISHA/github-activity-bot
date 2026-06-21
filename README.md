@@ -36,15 +36,15 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
+
+**WebDev**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
 **Security**: 🟦 3 (2.9%)
 
 **DevOps**: 🟦 2 (1.9%)
-
-**WebDev**: 🟦 2 (1.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.4 (28.4%)
-JavaScript      ██████████████████████████ 25.0 (25.0%)
-Java            ████████████████████ 19.3 (19.3%)
-Python          ████████████████████ 19.3 (19.3%)
-Rust            ██ 2.3 (2.3%)
-Swift           ██ 2.3 (2.3%)
-CSharp          ██ 2.3 (2.3%)
+Go              ██████████████████████████████ 29.2 (29.2%)
+JavaScript      █████████████████████████ 24.7 (24.7%)
+Java            ████████████████████ 19.1 (19.1%)
+Python          ████████████████████ 19.1 (19.1%)
+Rust            ██ 2.2 (2.2%)
+Swift           ██ 2.2 (2.2%)
+CSharp          ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 26
     "JavaScript" : 22
     "Java" : 17
     "Python" : 17
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![mcps](https://img.shields.io/badge/mcps-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-21 15:00 CAT)
+## 📅 Latest Updates (2026-06-21 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,7 +203,6 @@ npm run test
 - [Real-time IP capacity in Google Cloud subnets](https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n) _[Dev.to]_
 - [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd) _[Dev.to]_
-- [Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI](https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p) _[Dev.to]_
 - [I'm not a developer, but I built a calendar app to fix my most annoying work task](https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4) _[Dev.to]_
 - [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m) _[Dev.to]_
 - [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Understanding DNS](https://dev.to/gde/understanding-dns-2a3j) _[Dev.to]_
 - [Migrate to Firebase Server Prompt Template in Angular using Dependency Injection [GDE]](https://dev.to/gde/migrate-to-firebase-server-prompt-template-in-angular-using-dependency-injection-gde-4mj) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-246f) _[Dev.to]_
+- [[Hands-on Gemini 3.5 Live](https://dev.to/gde/hands-on-gemini-35-live-3dh6) _[Dev.to]_
 
-_Last automated update: Sun, 21 Jun 2026 15:22:37 CAT_
+_Last automated update: Sun, 21 Jun 2026 17:23:50 CAT_
 
 
 
@@ -237,25 +237,25 @@ Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 21 Jun 2026 13:22:37 GMT</b><br/>
+  <b>Last automated update: Sun, 21 Jun 2026 15:23:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
