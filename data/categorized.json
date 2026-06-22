@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
+      "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664",
+      "published_at": "2026-06-22T14:21:14Z",
+      "description": "Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....",
+      "tags": [
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsqbcmxecvemvn32uvu8i.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -175,6 +188,21 @@
       "user": "Aditya Kumar"
     },
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -203,21 +231,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
       "source": "Dev.to",
       "user": "Michał Cichoń"
-    },
-    {
-      "title": "The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella's Warning on AI",
-      "url": "https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel",
-      "published_at": "2026-06-16T21:52:22Z",
-      "description": "There is a comparison that the artificial intelligence industry had kept out of the public...",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42kt5uh998p20werp0qn.png",
-      "source": "Dev.to",
-      "user": "Leo Lanese"
     },
     {
       "title": "Ask a DEV Community Mod! 🚀",
@@ -260,21 +273,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
     },
     {
       "title": "Extending a MCP/A2A Currency Agent with AG-UI and Antigravity CLI",
@@ -335,6 +333,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
       "source": "Dev.to",
       "user": "Jean-Phi Baconnais"
+    },
+    {
+      "title": "Serverless Gemma 12B on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-on-azure-container-apps-4i75",
+      "published_at": "2026-06-19T02:00:12Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "antigravitycli",
+        "aca",
+        "mcps",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcu1i40criqu0xiaif4cz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -425,36 +438,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
-      "title": "Building an agentic PR reviewer with Antigravity SDK",
-      "url": "https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i",
-      "published_at": "2026-06-18T19:21:08Z",
-      "description": "As announced in this blog post on June 18, 2026, Gemini CLI and Gemini Code Assist IDE extensions...",
-      "tags": [
-        "antigravity",
-        "gemini",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwp5h8386xx9n2acyy28s.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -612,23 +595,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 704,
       "user": "rebel0789"
     },
     {
-      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "url": "https://github.com/raiyanyahya/recall",
-      "published_at": "2026-06-19T20:36:41Z",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 243,
-      "user": "raiyanyahya"
+      "stars": 287,
+      "user": "eooce"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -642,8 +625,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 331,
       "user": "baidu"
+    },
+    {
+      "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "published_at": "2026-06-19T13:24:44Z",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "sums001"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "raiyanyahya"
     },
     {
       "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
@@ -672,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 69,
       "user": "alvinunreal"
     }
   ],
@@ -765,19 +778,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
-    },
-    {
-      "title": "Angular resources are not a good fit for Guards",
-      "url": "https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j",
-      "published_at": "2026-06-17T11:34:32Z",
-      "description": "Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...",
-      "tags": [
-        "angular",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png",
-      "source": "Dev.to",
-      "user": "Gérôme Grignon"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -911,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1923,
       "user": "zhongerxin"
     },
     {
@@ -926,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 704,
       "user": "rebel0789"
     },
     {
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 501,
       "user": "kanavtwtgg"
     },
     {
@@ -956,23 +956,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 327,
       "user": "cloudflare"
     },
     {
-      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "published_at": "2026-06-17T06:53:59Z",
-      "description": "Trending GitHub Repository",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 278,
-      "user": "rpanigrahi222"
+      "stars": 287,
+      "user": "eooce"
     }
   ],
   "Python": [
@@ -1138,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 624,
       "user": "lyra81604"
     },
     {
@@ -1153,38 +1153,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 455,
       "user": "boogu-project"
-    },
-    {
-      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "url": "https://github.com/raiyanyahya/recall",
-      "published_at": "2026-06-19T20:36:41Z",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 243,
-      "user": "raiyanyahya"
-    },
-    {
-      "title": "clent267/FUNCAPTCHAV3 - GitHub Repository",
-      "url": "https://github.com/clent267/FUNCAPTCHAV3",
-      "published_at": "2026-06-20T14:06:37Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138356434?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "clent267"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -1198,8 +1168,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 331,
       "user": "baidu"
+    },
+    {
+      "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "published_at": "2026-06-19T13:24:44Z",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "sums001"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "raiyanyahya"
     }
   ],
   "DevOps": [
@@ -1236,6 +1236,21 @@
   ],
   "WebDev": [
     {
+      "title": "Link or Button, that is the question.",
+      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13",
+      "published_at": "2026-06-22T12:41:07Z",
+      "description": "What is a Link?            Definition   A link is an interactive element that redirects the...",
+      "tags": [
+        "a11y",
+        "webdev",
+        "frontend",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwtb803ttdg0uwxotepv.jpeg",
+      "source": "Dev.to",
+      "user": "Mica"
+    },
+    {
       "title": "CSS – only a Nerdy Hobby?",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
       "published_at": "2026-06-10T11:11:50Z",
@@ -1249,21 +1264,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4w0e0bgyoxdkgrby9hm6.png",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Celebrate June rituals with Solstice Bingo!",
-      "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6",
-      "published_at": "2026-06-11T11:25:14Z",
-      "description": "This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrorf3zcb4pnzi5fra67.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1323,6 +1323,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
+      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0",
+      "published_at": "2026-06-21T14:34:08Z",
+      "description": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
+      "tags": [
+        "antigravity",
+        "mcps",
+        "speculativedecoding",
+        "qat"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Real-time IP capacity in Google Cloud subnets",
       "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j",
@@ -1427,6 +1442,21 @@
       "user": "xbill"
     },
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
       "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
       "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
       "published_at": "2026-06-16T06:07:42Z",
@@ -1442,19 +1472,19 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "title": "Serverless Gemma 12B on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-on-azure-container-apps-4i75",
+      "published_at": "2026-06-19T02:00:12Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
       "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
+        "antigravitycli",
+        "aca",
+        "mcps",
+        "azure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcu1i40criqu0xiaif4cz.png",
       "source": "Dev.to",
-      "user": "Aria Heller"
+      "user": "xbill"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1472,6 +1502,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Chatting with your Data: Conversational Analytics in BigQuery",
+      "url": "https://dev.to/gde/chatting-with-your-data-conversational-analytics-in-bigquery-5545",
+      "published_at": "2026-06-20T07:45:01Z",
+      "description": "For the last decade, the workflow for Business Intelligence hasn't changed much: A business...",
+      "tags": [
+        "googlecloud",
+        "bigquery",
+        "dataagents",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff231drezrgqrw04odazz.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
       "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "published_at": "2026-06-18T14:08:44Z",
@@ -1483,8 +1528,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 327,
       "user": "cloudflare"
+    },
+    {
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "source": "GitHub",
+      "stars": 287,
+      "user": "eooce"
     }
   ],
   "Database": [
@@ -1541,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 327,
       "user": "cloudflare"
     }
   ],
@@ -1592,6 +1652,21 @@
       "user": "Joan Miquel Torres"
     },
     {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "published_at": "2026-06-18T21:59:19Z",
+      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
+      "source": "Dev.to",
+      "user": "Aria Heller"
+    },
+    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -1622,21 +1697,6 @@
       "user": "Diogo Capela"
     },
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
       "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
       "published_at": "2026-06-06T01:41:40Z",
@@ -1663,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1923,
       "user": "zhongerxin"
     },
     {
@@ -1678,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 704,
       "user": "rebel0789"
     },
     {
@@ -1693,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 501,
       "user": "kanavtwtgg"
     },
     {
@@ -1708,23 +1768,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 327,
       "user": "cloudflare"
     },
     {
-      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "published_at": "2026-06-17T06:53:59Z",
-      "description": "Trending GitHub Repository",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 278,
-      "user": "rpanigrahi222"
+      "stars": 287,
+      "user": "eooce"
     },
     {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
@@ -1738,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 624,
       "user": "lyra81604"
     },
     {
@@ -1753,38 +1813,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 455,
       "user": "boogu-project"
-    },
-    {
-      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "url": "https://github.com/raiyanyahya/recall",
-      "published_at": "2026-06-19T20:36:41Z",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 243,
-      "user": "raiyanyahya"
-    },
-    {
-      "title": "clent267/FUNCAPTCHAV3 - GitHub Repository",
-      "url": "https://github.com/clent267/FUNCAPTCHAV3",
-      "published_at": "2026-06-20T14:06:37Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138356434?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "clent267"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -1798,8 +1828,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 331,
       "user": "baidu"
+    },
+    {
+      "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "published_at": "2026-06-19T13:24:44Z",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "sums001"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "raiyanyahya"
     },
     {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
@@ -1813,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 309,
       "user": "overflowy"
     },
     {
@@ -1832,6 +1892,21 @@
       "user": "zyn26"
     },
     {
+      "title": "alvinunreal/lazyskills - A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
+      "url": "https://github.com/alvinunreal/lazyskills",
+      "published_at": "2026-06-19T06:20:40Z",
+      "description": "A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "alvinunreal"
+    },
+    {
       "title": "praetorian-inc/wasmforge - WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
       "url": "https://github.com/praetorian-inc/wasmforge",
       "published_at": "2026-06-16T19:09:43Z",
@@ -1847,21 +1922,6 @@
       "user": "praetorian-inc"
     },
     {
-      "title": "alvinunreal/lazyskills - A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
-      "url": "https://github.com/alvinunreal/lazyskills",
-      "published_at": "2026-06-19T06:20:40Z",
-      "description": "A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
-      "source": "GitHub",
-      "stars": 62,
-      "user": "alvinunreal"
-    },
-    {
       "title": "ZHChen2000/qzone-history - QQ空间历史数据恢复工具：Qzone-History",
       "url": "https://github.com/ZHChen2000/qzone-history",
       "published_at": "2026-06-20T15:50:36Z",
@@ -1873,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104050742?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "ZHChen2000"
     }
   ]
