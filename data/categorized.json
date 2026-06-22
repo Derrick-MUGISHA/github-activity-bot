@@ -14,6 +14,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
+      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
+      "published_at": "2026-06-22T00:41:17Z",
+      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -425,21 +440,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
-      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
-      "published_at": "2026-06-06T01:41:40Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "discuss",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -595,23 +595,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "rebel0789"
-    },
-    {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "eooce"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -625,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 363,
       "user": "baidu"
     },
     {
@@ -640,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 330,
       "user": "sums001"
     },
     {
@@ -655,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 307,
       "user": "raiyanyahya"
     },
     {
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 72,
       "user": "alvinunreal"
     }
   ],
@@ -911,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1923,
+      "stars": 1936,
       "user": "zhongerxin"
     },
     {
@@ -926,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "rebel0789"
     },
     {
@@ -941,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 525,
       "user": "kanavtwtgg"
     },
     {
@@ -956,26 +941,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 343,
       "user": "cloudflare"
     },
     {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "published_at": "2026-06-17T06:53:59Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 287,
-      "user": "eooce"
+      "stars": 299,
+      "user": "rpanigrahi222"
     }
   ],
   "Python": [
+    {
+      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
+      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
+      "published_at": "2026-06-22T00:41:17Z",
+      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
@@ -1138,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 637,
       "user": "lyra81604"
     },
     {
@@ -1153,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "boogu-project"
     },
     {
@@ -1168,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 363,
       "user": "baidu"
     },
     {
@@ -1183,7 +1183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 330,
       "user": "sums001"
     },
     {
@@ -1198,7 +1198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 307,
       "user": "raiyanyahya"
     }
   ],
@@ -1323,6 +1323,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn",
+      "published_at": "2026-06-22T02:44:39Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "gemma4",
+        "mcps",
+        "antigravity",
+        "blackwell"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
       "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0",
@@ -1528,23 +1543,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 343,
       "user": "cloudflare"
-    },
-    {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "eooce"
     }
   ],
   "Database": [
@@ -1601,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 343,
       "user": "cloudflare"
     }
   ],
@@ -1697,21 +1697,6 @@
       "user": "Diogo Capela"
     },
     {
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
-      "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
-      "published_at": "2026-06-06T01:41:40Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "discuss",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9atpi40hgnp2o2obwlnu.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
       "title": "zhongerxin/Cowart - GitHub Repository",
       "url": "https://github.com/zhongerxin/Cowart",
       "published_at": "2026-06-18T16:08:30Z",
@@ -1723,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1923,
+      "stars": 1936,
       "user": "zhongerxin"
     },
     {
@@ -1738,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "rebel0789"
     },
     {
@@ -1753,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 525,
       "user": "kanavtwtgg"
     },
     {
@@ -1768,23 +1753,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 343,
       "user": "cloudflare"
     },
     {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "published_at": "2026-06-17T06:53:59Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 287,
-      "user": "eooce"
+      "stars": 299,
+      "user": "rpanigrahi222"
     },
     {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
@@ -1798,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 637,
       "user": "lyra81604"
     },
     {
@@ -1813,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "boogu-project"
     },
     {
@@ -1828,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 363,
       "user": "baidu"
     },
     {
@@ -1843,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 330,
       "user": "sums001"
     },
     {
@@ -1858,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 307,
       "user": "raiyanyahya"
     },
     {
@@ -1873,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 313,
       "user": "overflowy"
     },
     {
@@ -1903,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 72,
       "user": "alvinunreal"
     },
     {
@@ -1918,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "praetorian-inc"
     },
     {
