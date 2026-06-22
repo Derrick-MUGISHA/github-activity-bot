@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-22 22:00 CAT)
+## 📅 Latest Updates (2026-06-23 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 
-_Last automated update: Mon, 22 Jun 2026 22:40:48 CAT_
+_Last automated update: Tue, 23 Jun 2026 00:25:11 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 22 Jun 2026 22:40:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 22 Jun 2026 20:40:48 GMT</b><br/>
+  <b>Last automated update: Mon, 22 Jun 2026 22:25:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
