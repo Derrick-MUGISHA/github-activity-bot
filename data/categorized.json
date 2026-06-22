@@ -220,21 +220,6 @@
       "user": "Leo Lanese"
     },
     {
-      "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
-      "url": "https://dev.to/ric03uec/two-qwen3-models-on-one-dgx-spark-the-residency-math-for-local-llm-coding-5bpj",
-      "published_at": "2026-06-16T20:23:10Z",
-      "description": "Two Qwen3 models on one DGX Spark for local LLM coding. The residency math, the gpu_memory_utilization trap, and what to verify first.",
-      "tags": [
-        "localllm",
-        "vllm",
-        "ai",
-        "nvidia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa9pvaimxjb6nxj67t6dq.jpg",
-      "source": "Dev.to",
-      "user": "Devashish"
-    },
-    {
       "title": "Ask a DEV Community Mod! 🚀",
       "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
       "published_at": "2026-06-16T16:52:39Z",
@@ -248,6 +233,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
+      "url": "https://dev.to/ric03uec/two-qwen3-models-on-one-dgx-spark-the-residency-math-for-local-llm-coding-5bpj",
+      "published_at": "2026-06-16T20:23:10Z",
+      "description": "Two Qwen3 models on one DGX Spark for local LLM coding. The residency math, the gpu_memory_utilization trap, and what to verify first.",
+      "tags": [
+        "localllm",
+        "vllm",
+        "ai",
+        "nvidia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa9pvaimxjb6nxj67t6dq.jpg",
+      "source": "Dev.to",
+      "user": "Devashish"
     },
     {
       "title": "Dystopian Civilization Scenarios",
@@ -307,21 +307,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
-      "published_at": "2026-06-04T19:38:50Z",
-      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "google",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
-      "source": "Dev.to",
-      "user": "Jean-Phi Baconnais"
-    },
-    {
       "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
       "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
       "published_at": "2026-06-19T10:09:03Z",
@@ -335,6 +320,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
       "source": "Dev.to",
       "user": "Ertuğrul Demir"
+    },
+    {
+      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
+      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
+      "published_at": "2026-06-04T19:38:50Z",
+      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "google",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
+      "source": "Dev.to",
+      "user": "Jean-Phi Baconnais"
     },
     {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
@@ -612,23 +612,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 686,
       "user": "rebel0789"
     },
     {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "eooce"
+      "stars": 243,
+      "user": "raiyanyahya"
+    },
+    {
+      "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "published_at": "2026-06-18T08:40:15Z",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
+      "source": "GitHub",
+      "stars": 232,
+      "user": "baidu"
     },
     {
       "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
@@ -642,8 +657,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "zyn26"
+    },
+    {
+      "title": "alvinunreal/lazyskills - A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
+      "url": "https://github.com/alvinunreal/lazyskills",
+      "published_at": "2026-06-19T06:20:40Z",
+      "description": "A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
+      "source": "GitHub",
+      "stars": 62,
+      "user": "alvinunreal"
     }
   ],
   "JavaScript": [
@@ -881,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1560,
+      "stars": 1783,
       "user": "zhongerxin"
     },
     {
@@ -896,23 +926,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 686,
       "user": "rebel0789"
     },
     {
-      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "published_at": "2026-06-17T06:53:59Z",
+      "title": "kanavtwtgg/birds.cafe - GitHub Repository",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "published_at": "2026-06-21T13:57:28Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "rpanigrahi222"
+      "stars": 311,
+      "user": "kanavtwtgg"
     },
     {
       "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -926,23 +956,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 289,
       "user": "cloudflare"
     },
     {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "published_at": "2026-06-17T06:53:59Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "eooce"
+      "stars": 278,
+      "user": "rpanigrahi222"
     }
   ],
   "Python": [
@@ -1097,21 +1127,6 @@
       "user": "arathore"
     },
     {
-      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "published_at": "2026-06-16T14:59:20Z",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
-      "source": "GitHub",
-      "stars": 414,
-      "user": "boogu-project"
-    },
-    {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "url": "https://github.com/lyra81604/zhengxi-views",
       "published_at": "2026-06-20T04:27:07Z",
@@ -1123,8 +1138,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 514,
       "user": "lyra81604"
+    },
+    {
+      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "published_at": "2026-06-16T14:59:20Z",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "boogu-project"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 243,
+      "user": "raiyanyahya"
     },
     {
       "title": "clent267/FUNCAPTCHAV3 - GitHub Repository",
@@ -1142,34 +1187,19 @@
       "user": "clent267"
     },
     {
-      "title": "Tyxy-R/codex-referral-risk-research - GitHub Repository",
-      "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
-      "published_at": "2026-06-17T12:08:33Z",
-      "description": "Trending GitHub Repository",
+      "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "published_at": "2026-06-18T08:40:15Z",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116926526?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 229,
-      "user": "Tyxy-R"
-    },
-    {
-      "title": "aresyn/codex-control-plane-mcp - Durable MCP control plane for long-running Codex Desktop tasks",
-      "url": "https://github.com/aresyn/codex-control-plane-mcp",
-      "published_at": "2026-06-17T10:02:02Z",
-      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51988059?v=4",
-      "source": "GitHub",
-      "stars": 221,
-      "user": "aresyn"
+      "stars": 232,
+      "user": "baidu"
     }
   ],
   "DevOps": [
@@ -1453,23 +1483,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 289,
       "user": "cloudflare"
-    },
-    {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
-      "source": "GitHub",
-      "stars": 247,
-      "user": "eooce"
     }
   ],
   "Database": [
@@ -1526,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 289,
       "user": "cloudflare"
     }
   ],
@@ -1648,7 +1663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1560,
+      "stars": 1783,
       "user": "zhongerxin"
     },
     {
@@ -1663,23 +1678,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 686,
       "user": "rebel0789"
     },
     {
-      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "published_at": "2026-06-17T06:53:59Z",
+      "title": "kanavtwtgg/birds.cafe - GitHub Repository",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "published_at": "2026-06-21T13:57:28Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "rpanigrahi222"
+      "stars": 311,
+      "user": "kanavtwtgg"
     },
     {
       "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -1693,38 +1708,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 289,
       "user": "cloudflare"
     },
     {
-      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "published_at": "2026-06-19T19:24:47Z",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "published_at": "2026-06-17T06:53:59Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "eooce"
-    },
-    {
-      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "published_at": "2026-06-16T14:59:20Z",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
-      "source": "GitHub",
-      "stars": 414,
-      "user": "boogu-project"
+      "stars": 278,
+      "user": "rpanigrahi222"
     },
     {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
@@ -1738,8 +1738,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 514,
       "user": "lyra81604"
+    },
+    {
+      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "published_at": "2026-06-16T14:59:20Z",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "boogu-project"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 243,
+      "user": "raiyanyahya"
     },
     {
       "title": "clent267/FUNCAPTCHAV3 - GitHub Repository",
@@ -1757,34 +1787,19 @@
       "user": "clent267"
     },
     {
-      "title": "Tyxy-R/codex-referral-risk-research - GitHub Repository",
-      "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
-      "published_at": "2026-06-17T12:08:33Z",
-      "description": "Trending GitHub Repository",
+      "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "published_at": "2026-06-18T08:40:15Z",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116926526?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 229,
-      "user": "Tyxy-R"
-    },
-    {
-      "title": "aresyn/codex-control-plane-mcp - Durable MCP control plane for long-running Codex Desktop tasks",
-      "url": "https://github.com/aresyn/codex-control-plane-mcp",
-      "published_at": "2026-06-17T10:02:02Z",
-      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51988059?v=4",
-      "source": "GitHub",
-      "stars": 221,
-      "user": "aresyn"
+      "stars": 232,
+      "user": "baidu"
     },
     {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
@@ -1798,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 292,
       "user": "overflowy"
     },
     {
@@ -1813,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "zyn26"
     },
     {
@@ -1828,14 +1843,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "praetorian-inc"
     },
     {
-      "title": "alvinunreal/lazyskills - Mission control for agent skills",
+      "title": "alvinunreal/lazyskills - A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
       "url": "https://github.com/alvinunreal/lazyskills",
       "published_at": "2026-06-19T06:20:40Z",
-      "description": "Mission control for agent skills",
+      "description": "A beautiful terminal UI for discovering, installing, and managing AI agent skills.",
       "tags": [
         "go",
         "github",
@@ -1843,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "alvinunreal"
     },
     {
