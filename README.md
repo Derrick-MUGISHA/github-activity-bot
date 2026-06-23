@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-23-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (43.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (23.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 14 (14.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦 13 (13.0%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 5 (5.0%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦🟦 4 (4.0%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 3 (3.0%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (2.0%)
 
 **DevOps**:  1 (1.0%)
 
@@ -54,29 +54,29 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 15 articles
+- **GitHub**: 10 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.3 (28.3%)
-JavaScript      ███████████████████████████ 25.0 (25.0%)
-Java            ██████████████████████ 20.7 (20.7%)
-Python          █████████████████████ 19.6 (19.6%)
-Rust            ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
-Ruby            █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+Go              ██████████████████████████████ 29.1 (29.1%)
+JavaScript      ████████████████████████████ 26.7 (26.7%)
+Java            ███████████████████████ 22.1 (22.1%)
+Python          ████████████████ 15.1 (15.1%)
+Rust            ██ 2.3 (2.3%)
+Swift           ██ 2.3 (2.3%)
+Ruby            █ 1.2 (1.2%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
+    "Go" : 25
     "JavaScript" : 23
     "Java" : 19
-    "Python" : 18
+    "Python" : 13
     "Rust" : 2
     "Swift" : 2
     "Ruby" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-14-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
+![ai](https://img.shields.io/badge/ai-14-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![github](https://img.shields.io/badge/github-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-23 22:00 CAT)
+## 📅 Latest Updates (2026-06-23 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n) _[Dev.to]_
 
-_Last automated update: Tue, 23 Jun 2026 22:23:36 CAT_
+_Last automated update: Tue, 23 Jun 2026 23:55:15 CAT_
 
 
 
@@ -226,7 +226,29 @@ _Last automated update: Tue, 23 Jun 2026 22:23:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+
+**Difficulty**: Medium | **Topics**: event loop, async
+
+<details>
+<summary>💡 Hint</summary>
+
+Execution timing, event loop phases
+
+</details>
+
+### 2. SystemDesign: Design a URL shortening service like bit.ly
+
+**Difficulty**: Medium | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Hash function, database design, caching, analytics
+
+</details>
+
+### 3. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -234,28 +256,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Request/response cycle, next(), chain of functions
-
-</details>
-
-### 2. JavaScript: Explain event delegation and why it's useful
-
-**Difficulty**: Medium | **Topics**: events, DOM
-
-<details>
-<summary>💡 Hint</summary>
-
-Event bubbling, single listener for multiple elements
-
-</details>
-
-### 3. Database: What is the difference between SQL and NoSQL databases?
-
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 23 Jun 2026 20:23:36 GMT</b><br/>
+  <b>Last automated update: Tue, 23 Jun 2026 21:55:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
