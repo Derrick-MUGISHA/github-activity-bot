@@ -1,6 +1,51 @@
 {
   "AI": [
     {
+      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
+      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
+      "published_at": "2026-06-22T22:47:18Z",
+      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
+      "tags": [
+        "wordpress",
+        "security",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
+      "source": "Dev.to",
+      "user": "Rapls"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
       "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664",
       "published_at": "2026-06-22T14:21:14Z",
@@ -395,21 +440,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-      "published_at": "2026-06-12T13:47:44Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -565,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 316,
       "user": "eooce"
     },
     {
@@ -580,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 1828,
+      "stars": 2557,
       "user": "baidu"
     },
     {
@@ -595,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 485,
       "user": "sums001"
     },
     {
@@ -610,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 399,
       "user": "yo-WASSUP"
     },
     {
@@ -625,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 374,
       "user": "raiyanyahya"
     },
     {
@@ -703,19 +733,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
-    },
-    {
-      "title": "Angular resources are not a good fit for Guards",
-      "url": "https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j",
-      "published_at": "2026-06-17T11:34:32Z",
-      "description": "Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...",
-      "tags": [
-        "angular",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png",
-      "source": "Dev.to",
-      "user": "Gérôme Grignon"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -849,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2278,
+      "stars": 2318,
       "user": "zhongerxin"
     },
     {
@@ -864,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 682,
       "user": "kanavtwtgg"
     },
     {
@@ -879,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 454,
       "user": "cloudflare"
     },
     {
@@ -894,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 334,
       "user": "rpanigrahi222"
     },
     {
@@ -909,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 316,
       "user": "eooce"
     }
   ],
@@ -1091,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 1828,
+      "stars": 2557,
       "user": "baidu"
     },
     {
@@ -1106,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 897,
       "user": "lyra81604"
     },
     {
@@ -1121,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 485,
       "user": "sums001"
     },
     {
@@ -1136,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 399,
       "user": "yo-WASSUP"
     },
     {
@@ -1151,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 374,
       "user": "raiyanyahya"
     }
   ],
@@ -1277,6 +1294,36 @@
   ],
   "Cloud": [
     {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
+      "published_at": "2026-06-23T03:39:55Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "speculativedecoding",
+        "antigravitycli",
+        "qat",
+        "blackwell6000"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn",
       "published_at": "2026-06-22T02:44:39Z",
@@ -1305,19 +1352,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Real-time IP capacity in Google Cloud subnets",
-      "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j",
-      "published_at": "2026-06-17T15:46:58Z",
-      "description": "When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...",
-      "tags": [
-        "googlecloud",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkfa2pr085hpglqbgc7r.png",
-      "source": "Dev.to",
-      "user": "Zach S."
     },
     {
       "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
@@ -1481,7 +1515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 454,
       "user": "cloudflare"
     },
     {
@@ -1496,7 +1530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 316,
       "user": "eooce"
     }
   ],
@@ -1515,6 +1549,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
+      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
+      "published_at": "2026-06-22T22:47:18Z",
+      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
+      "tags": [
+        "wordpress",
+        "security",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
+      "source": "Dev.to",
+      "user": "Rapls"
+    },
     {
       "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
       "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
@@ -1554,11 +1603,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 454,
       "user": "cloudflare"
     }
   ],
   "Tools": [
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
+    },
     {
       "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
@@ -1661,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2278,
+      "stars": 2318,
       "user": "zhongerxin"
     },
     {
@@ -1676,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 682,
       "user": "kanavtwtgg"
     },
     {
@@ -1691,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 454,
       "user": "cloudflare"
     },
     {
@@ -1706,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 334,
       "user": "rpanigrahi222"
     },
     {
@@ -1721,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 316,
       "user": "eooce"
     },
     {
@@ -1736,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 1828,
+      "stars": 2557,
       "user": "baidu"
     },
     {
@@ -1751,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 897,
       "user": "lyra81604"
     },
     {
@@ -1766,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 485,
       "user": "sums001"
     },
     {
@@ -1781,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 399,
       "user": "yo-WASSUP"
     },
     {
@@ -1796,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 374,
       "user": "raiyanyahya"
     },
     {
@@ -1811,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 370,
       "user": "overflowy"
     },
     {
@@ -1841,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "alvinunreal"
     },
     {
