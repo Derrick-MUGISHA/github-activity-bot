@@ -54,21 +54,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a",
-      "published_at": "2026-06-08T06:48:16Z",
-      "description": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "tags": [
-        "ai",
-        "llm",
-        "eval",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fby0a7dhe1gs96tr2cwhk.png",
-      "source": "Dev.to",
-      "user": "ankush chadha"
-    },
-    {
       "title": "Understanding DNS",
       "url": "https://dev.to/gde/understanding-dns-2a3j",
       "published_at": "2026-06-16T02:28:20Z",
@@ -410,6 +395,21 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+      "published_at": "2026-06-12T13:47:44Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq8wqw3rfbdmqvue9x3r.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -565,7 +565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 308,
       "user": "eooce"
     },
     {
@@ -580,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 1300,
       "user": "baidu"
     },
     {
@@ -595,23 +595,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 425,
       "user": "sums001"
-    },
-    {
-      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "url": "https://github.com/raiyanyahya/recall",
-      "published_at": "2026-06-19T20:36:41Z",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "raiyanyahya"
     },
     {
       "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
@@ -625,8 +610,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 373,
       "user": "yo-WASSUP"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "raiyanyahya"
     },
     {
       "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "alvinunreal"
     }
   ],
@@ -718,6 +718,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
+    },
+    {
+      "title": "Angular resources are not a good fit for Guards",
+      "url": "https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j",
+      "published_at": "2026-06-17T11:34:32Z",
+      "description": "Angular 22 released a stable version of the Resource API, providing a complete API to query an API,...",
+      "tags": [
+        "angular",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv6jxcj6fgailc9xsln4.png",
+      "source": "Dev.to",
+      "user": "Gérôme Grignon"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -851,7 +864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2134,
+      "stars": 2218,
       "user": "zhongerxin"
     },
     {
@@ -866,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 636,
       "user": "kanavtwtgg"
     },
     {
@@ -881,7 +894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "cloudflare"
     },
     {
@@ -896,7 +909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 325,
       "user": "rpanigrahi222"
     },
     {
@@ -911,7 +924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 308,
       "user": "eooce"
     }
   ],
@@ -1093,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 1300,
       "user": "baidu"
     },
     {
@@ -1108,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 797,
       "user": "lyra81604"
     },
     {
@@ -1123,23 +1136,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 425,
       "user": "sums001"
-    },
-    {
-      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "url": "https://github.com/raiyanyahya/recall",
-      "published_at": "2026-06-19T20:36:41Z",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "raiyanyahya"
     },
     {
       "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
@@ -1153,8 +1151,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 373,
       "user": "yo-WASSUP"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "raiyanyahya"
     }
   ],
   "DevOps": [
@@ -1483,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "cloudflare"
     },
     {
@@ -1498,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 308,
       "user": "eooce"
     }
   ],
@@ -1556,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "cloudflare"
     }
   ],
@@ -1663,7 +1676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2134,
+      "stars": 2218,
       "user": "zhongerxin"
     },
     {
@@ -1678,7 +1691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 636,
       "user": "kanavtwtgg"
     },
     {
@@ -1693,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "cloudflare"
     },
     {
@@ -1708,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 325,
       "user": "rpanigrahi222"
     },
     {
@@ -1723,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 308,
       "user": "eooce"
     },
     {
@@ -1738,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 1300,
       "user": "baidu"
     },
     {
@@ -1753,7 +1766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 797,
       "user": "lyra81604"
     },
     {
@@ -1768,23 +1781,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 425,
       "user": "sums001"
-    },
-    {
-      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "url": "https://github.com/raiyanyahya/recall",
-      "published_at": "2026-06-19T20:36:41Z",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "raiyanyahya"
     },
     {
       "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
@@ -1798,8 +1796,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 373,
       "user": "yo-WASSUP"
+    },
+    {
+      "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "url": "https://github.com/raiyanyahya/recall",
+      "published_at": "2026-06-19T20:36:41Z",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "raiyanyahya"
     },
     {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
@@ -1813,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 358,
       "user": "overflowy"
     },
     {
@@ -1843,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "alvinunreal"
     },
     {
@@ -1873,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "edaywalid"
     }
   ]
