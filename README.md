@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-95-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-23-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (45.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (22.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.9%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 14 (14.7%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (4.2%)
 
-**WebDev**: 🟦 3 (2.9%)
+**Mobile**: 🟦 3 (3.2%)
 
-**Mobile**: 🟦 3 (2.9%)
+**WebDev**: 🟦 2 (2.1%)
 
-**DevOps**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (2.1%)
 
-**Database**:  1 (1.0%)
+**DevOps**:  1 (1.1%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 50 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,24 +60,26 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.4 (31.4%)
-JavaScript      █████████████████████ 22.1 (22.1%)
-Python          ████████████████████ 20.9 (20.9%)
-Java            ███████████████████ 19.8 (19.8%)
-Rust            ██ 2.3 (2.3%)
-Swift           ██ 2.3 (2.3%)
+Go              ██████████████████████████████ 28.9 (28.9%)
+JavaScript      ███████████████████████ 21.7 (21.7%)
+Python          ███████████████████████ 21.7 (21.7%)
+Java            █████████████████████ 20.5 (20.5%)
+Rust            ██ 2.4 (2.4%)
+Swift           ██ 2.4 (2.4%)
+Ruby            █ 1.2 (1.2%)
 Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 27
-    "JavaScript" : 19
+    "Go" : 24
+    "JavaScript" : 18
     "Python" : 18
     "Java" : 17
     "Rust" : 2
     "Swift" : 2
+    "Ruby" : 1
     "Kotlin" : 1
 ```
 
@@ -85,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
+![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-11-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![antigravity](https://img.shields.io/badge/antigravity-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-23 18:00 CAT)
+## 📅 Latest Updates (2026-06-23 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +218,7 @@ npm run test
 - [Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2) _[Dev.to]_
 - [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) _[Dev.to]_
 
-_Last automated update: Tue, 23 Jun 2026 18:11:04 CAT_
+_Last automated update: Tue, 23 Jun 2026 20:13:48 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Tue, 23 Jun 2026 18:11:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 23 Jun 2026 16:11:04 GMT</b><br/>
+  <b>Last automated update: Tue, 23 Jun 2026 18:13:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
