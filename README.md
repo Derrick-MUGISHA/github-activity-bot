@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-22-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-23-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -60,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.2 (30.2%)
-JavaScript      ██████████████████████ 22.1 (22.1%)
-Python          █████████████████████ 20.9 (20.9%)
-Java            ████████████████████ 19.8 (19.8%)
+Go              ██████████████████████████████ 31.0 (31.0%)
+JavaScript      █████████████████████ 21.8 (21.8%)
+Python          ████████████████████ 20.7 (20.7%)
+Java            ███████████████████ 19.5 (19.5%)
 Rust            ██ 2.3 (2.3%)
 Swift           ██ 2.3 (2.3%)
-Kotlin          █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
+Kotlin          █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
+    "Go" : 27
     "JavaScript" : 19
     "Python" : 18
     "Java" : 17
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemma4](https://img.shields.io/badge/gemma4-5-blue) ![antigravity](https://img.shields.io/badge/antigravity-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![gemma4](https://img.shields.io/badge/gemma4-5-blue) ![antigravity](https://img.shields.io/badge/antigravity-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-23 1:00 CAT)
+## 📅 Latest Updates (2026-06-23 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400) _[Dev.to]_
 - [Mastering Self-Hosted Convex: A Complete Deployment Guide](https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5) _[Dev.to]_
 
-_Last automated update: Tue, 23 Jun 2026 01:49:14 CAT_
+_Last automated update: Tue, 23 Jun 2026 04:51:29 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 23 Jun 2026 01:49:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 22 Jun 2026 23:49:14 GMT</b><br/>
+  <b>Last automated update: Tue, 23 Jun 2026 02:51:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

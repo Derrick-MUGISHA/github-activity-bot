@@ -173,21 +173,6 @@
       "user": "Aditya Kumar"
     },
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -203,21 +188,6 @@
       "user": "shrey "
     },
     {
-      "title": "What I Learned Working on a Large-Scale Social Media iOS Application",
-      "url": "https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace",
-      "published_at": "2026-06-16T18:13:25Z",
-      "description": "Lessons learned from building and maintaining a large-scale social media iOS application, including architecture, engineering practices, product development, and team collaboration.",
-      "tags": [
-        "softwareengineering",
-        "architecture",
-        "productdevelopment",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
-      "source": "Dev.to",
-      "user": "Michał Cichoń"
-    },
-    {
       "title": "Ask a DEV Community Mod! 🚀",
       "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
       "published_at": "2026-06-16T16:52:39Z",
@@ -231,6 +201,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "What I Learned Working on a Large-Scale Social Media iOS Application",
+      "url": "https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace",
+      "published_at": "2026-06-16T18:13:25Z",
+      "description": "Lessons learned from building and maintaining a large-scale social media iOS application, including architecture, engineering practices, product development, and team collaboration.",
+      "tags": [
+        "softwareengineering",
+        "architecture",
+        "productdevelopment",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
+      "source": "Dev.to",
+      "user": "Michał Cichoń"
     },
     {
       "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
@@ -569,19 +554,19 @@
       "user": "indigodaddy"
     },
     {
-      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "url": "https://github.com/rebel0789/codexpro",
-      "published_at": "2026-06-16T21:22:43Z",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 711,
-      "user": "rebel0789"
+      "stars": 295,
+      "user": "eooce"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -595,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 559,
       "user": "baidu"
     },
     {
@@ -610,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 375,
       "user": "sums001"
     },
     {
@@ -625,8 +610,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 328,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "yo-WASSUP"
     },
     {
       "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 195,
       "user": "zyn26"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 78,
       "user": "alvinunreal"
     }
   ],
@@ -851,23 +851,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1949,
+      "stars": 2030,
       "user": "zhongerxin"
-    },
-    {
-      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "url": "https://github.com/rebel0789/codexpro",
-      "published_at": "2026-06-16T21:22:43Z",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
-      "source": "GitHub",
-      "stars": 711,
-      "user": "rebel0789"
     },
     {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 556,
       "user": "kanavtwtgg"
     },
     {
@@ -896,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 378,
       "user": "cloudflare"
     },
     {
@@ -911,8 +896,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "rpanigrahi222"
+    },
+    {
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "eooce"
     }
   ],
   "Python": [
@@ -1093,23 +1093,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 691,
       "user": "lyra81604"
-    },
-    {
-      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "published_at": "2026-06-16T14:59:20Z",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
-      "source": "GitHub",
-      "stars": 460,
-      "user": "boogu-project"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -1123,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 559,
       "user": "baidu"
     },
     {
@@ -1138,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 375,
       "user": "sums001"
     },
     {
@@ -1153,8 +1138,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 328,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "yo-WASSUP"
     }
   ],
   "DevOps": [
@@ -1412,21 +1412,6 @@
       "user": "xbill"
     },
     {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
-    },
-    {
       "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
       "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
       "published_at": "2026-06-16T06:07:42Z",
@@ -1498,8 +1483,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 378,
       "user": "cloudflare"
+    },
+    {
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "eooce"
     }
   ],
   "Database": [
@@ -1556,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 378,
       "user": "cloudflare"
     }
   ],
@@ -1605,21 +1605,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
       "source": "Dev.to",
       "user": "Joan Miquel Torres"
-    },
-    {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
-      "published_at": "2026-06-18T21:59:19Z",
-      "description": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7egmohs3i50h4k68jiz0.png",
-      "source": "Dev.to",
-      "user": "Aria Heller"
     },
     {
       "title": "The agent that fixes bugs by running the code",
@@ -1678,23 +1663,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1949,
+      "stars": 2030,
       "user": "zhongerxin"
-    },
-    {
-      "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "url": "https://github.com/rebel0789/codexpro",
-      "published_at": "2026-06-16T21:22:43Z",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126284057?v=4",
-      "source": "GitHub",
-      "stars": 711,
-      "user": "rebel0789"
     },
     {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
@@ -1708,7 +1678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 556,
       "user": "kanavtwtgg"
     },
     {
@@ -1723,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 378,
       "user": "cloudflare"
     },
     {
@@ -1738,8 +1708,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "rpanigrahi222"
+    },
+    {
+      "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "published_at": "2026-06-19T19:24:47Z",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "eooce"
     },
     {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
@@ -1753,23 +1738,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 691,
       "user": "lyra81604"
-    },
-    {
-      "title": "boogu-project/Boogu-Image - Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "published_at": "2026-06-16T14:59:20Z",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243518726?v=4",
-      "source": "GitHub",
-      "stars": 460,
-      "user": "boogu-project"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -1783,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 559,
       "user": "baidu"
     },
     {
@@ -1798,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 375,
       "user": "sums001"
     },
     {
@@ -1813,8 +1783,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 328,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "yo-WASSUP"
     },
     {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
@@ -1828,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 335,
       "user": "overflowy"
     },
     {
@@ -1843,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 195,
       "user": "zyn26"
     },
     {
@@ -1858,23 +1843,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 78,
       "user": "alvinunreal"
-    },
-    {
-      "title": "praetorian-inc/wasmforge - WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
-      "url": "https://github.com/praetorian-inc/wasmforge",
-      "published_at": "2026-06-16T19:09:43Z",
-      "description": "WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with polymorphic output.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8173787?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "praetorian-inc"
     },
     {
       "title": "ZHChen2000/qzone-history - QQ空间历史数据恢复工具：Qzone-History",
@@ -1890,6 +1860,21 @@
       "source": "GitHub",
       "stars": 52,
       "user": "ZHChen2000"
+    },
+    {
+      "title": "edaywalid/whook - Self-hostable webhook gateway: durably capture, inspect, retry, and replay inbound webhooks. Single Go binary.",
+      "url": "https://github.com/edaywalid/whook",
+      "published_at": "2026-06-19T20:51:42Z",
+      "description": "Self-hostable webhook gateway: durably capture, inspect, retry, and replay inbound webhooks. Single Go binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "edaywalid"
     }
   ]
 }
