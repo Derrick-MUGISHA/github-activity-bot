@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
+      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
+      "published_at": "2026-06-23T17:09:18Z",
+      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
+      "title": "Building a Custom Status Line for Claude Code",
+      "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822",
+      "published_at": "2026-06-23T13:20:37Z",
+      "description": "I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...",
+      "tags": [
+        "ai",
+        "productivity",
+        "tutorial",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png",
+      "source": "Dev.to",
+      "user": "Nicholas Drone"
+    },
+    {
       "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
       "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
       "published_at": "2026-06-22T22:47:18Z",
@@ -57,6 +87,31 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsqbcmxecvemvn32uvu8i.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
+      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce",
+      "published_at": "2026-06-23T05:04:55Z",
+      "description": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsn6gx1nmzp3msf8wtnxi.png",
+      "source": "Dev.to",
+      "user": "Samir"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
     },
     {
       "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
@@ -305,21 +360,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
-      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
-      "published_at": "2026-06-19T10:09:03Z",
-      "description": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1iuqbf35ts225oksqp.png",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
       "published_at": "2026-06-04T19:38:50Z",
@@ -363,6 +403,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcu1i40criqu0xiaif4cz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
+      "published_at": "2026-06-02T20:02:27Z",
+      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "tags": [
+        "ai",
+        "llm",
+        "typescript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
+      "source": "Dev.to",
+      "user": "Ayoola Solomon"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -520,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "eooce"
     },
     {
@@ -535,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 2898,
+      "stars": 3118,
       "user": "baidu"
     },
     {
@@ -550,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 511,
       "user": "sums001"
     },
     {
@@ -565,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "yo-WASSUP"
     },
     {
@@ -580,26 +635,71 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 388,
       "user": "raiyanyahya"
     },
     {
-      "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
-      "url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api",
-      "published_at": "2026-06-19T17:33:34Z",
-      "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
+      "title": "7anX/AgentScan - AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
+      "url": "https://github.com/7anX/AgentScan",
+      "published_at": "2026-06-17T04:37:14Z",
+      "description": "AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173973775?v=4",
       "source": "GitHub",
-      "stars": 193,
-      "user": "zyn26"
+      "stars": 32,
+      "user": "7anX"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
+      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
+      "published_at": "2026-06-22T19:54:26Z",
+      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
+      "tags": [
+        "html",
+        "css",
+        "javascript",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
+      "source": "Dev.to",
+      "user": "Helitha Rupasinghe"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
+    },
     {
       "title": "How to Read a webrtc-internals Dump, Section by Section",
       "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
@@ -613,6 +713,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
       "source": "Dev.to",
       "user": "Tsahi Levent-Levi"
+    },
+    {
+      "title": "Why we rejected the export-and-fork model for visual UI editing",
+      "url": "https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g",
+      "published_at": "2026-06-22T13:16:56Z",
+      "description": "~10 min read · Engineering     There are roughly three honest ways a visual editing tool can relate...",
+      "tags": [
+        "ast",
+        "react",
+        "scd",
+        "mui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frdil9989ztme4s0oy93n.png",
+      "source": "Dev.to",
+      "user": "Jack Lee"
     },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
@@ -643,6 +758,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
       "source": "Dev.to",
       "user": "Diogo Capela"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
+      "published_at": "2026-06-02T20:02:27Z",
+      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "tags": [
+        "ai",
+        "llm",
+        "typescript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
+      "source": "Dev.to",
+      "user": "Ayoola Solomon"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -776,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2335,
+      "stars": 2342,
       "user": "zhongerxin"
     },
     {
@@ -791,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 708,
       "user": "kanavtwtgg"
     },
     {
@@ -806,7 +936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 476,
       "user": "cloudflare"
     },
     {
@@ -821,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "rpanigrahi222"
     },
     {
@@ -836,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "eooce"
     }
   ],
@@ -1018,7 +1148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 2898,
+      "stars": 3118,
       "user": "baidu"
     },
     {
@@ -1033,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 906,
       "user": "lyra81604"
     },
     {
@@ -1048,7 +1178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 511,
       "user": "sums001"
     },
     {
@@ -1063,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "yo-WASSUP"
     },
     {
@@ -1078,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 388,
       "user": "raiyanyahya"
     }
   ],
@@ -1101,6 +1231,21 @@
   ],
   "WebDev": [
     {
+      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
+      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
+      "published_at": "2026-06-22T19:54:26Z",
+      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
+      "tags": [
+        "html",
+        "css",
+        "javascript",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
+      "source": "Dev.to",
+      "user": "Helitha Rupasinghe"
+    },
+    {
       "title": "Link or Button, that is the question.",
       "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13",
       "published_at": "2026-06-22T12:41:07Z",
@@ -1114,6 +1259,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwtb803ttdg0uwxotepv.jpeg",
       "source": "Dev.to",
       "user": "Mica"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1365,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 476,
       "user": "cloudflare"
     },
     {
@@ -1380,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "eooce"
     }
   ],
@@ -1414,6 +1574,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
+      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
+      "published_at": "2026-06-23T17:09:18Z",
+      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
     {
       "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
       "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
@@ -1468,11 +1643,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 476,
       "user": "cloudflare"
     }
   ],
   "Tools": [
+    {
+      "title": "Building a Custom Status Line for Claude Code",
+      "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822",
+      "published_at": "2026-06-23T13:20:37Z",
+      "description": "I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...",
+      "tags": [
+        "ai",
+        "productivity",
+        "tutorial",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png",
+      "source": "Dev.to",
+      "user": "Nicholas Drone"
+    },
     {
       "title": "I Am Fired Up Again",
       "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
@@ -1487,6 +1677,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
       "source": "Dev.to",
       "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
+    },
+    {
+      "title": "Why we rejected the export-and-fork model for visual UI editing",
+      "url": "https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g",
+      "published_at": "2026-06-22T13:16:56Z",
+      "description": "~10 min read · Engineering     There are roughly three honest ways a visual editing tool can relate...",
+      "tags": [
+        "ast",
+        "react",
+        "scd",
+        "mui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frdil9989ztme4s0oy93n.png",
+      "source": "Dev.to",
+      "user": "Jack Lee"
+    },
+    {
+      "title": "Kakoune spoiled me",
+      "url": "https://dev.to/gonzooo/kakoune-spoiled-me-oh7",
+      "published_at": "2026-06-22T10:56:49Z",
+      "description": "A post about why I fell in love with Kakoune, the best editor and development tool I know of",
+      "tags": [
+        "kakoune",
+        "odin",
+        "odinlang"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6loh1hzaqie9xx3qotf.png",
+      "source": "Dev.to",
+      "user": "Rickard Andersson"
     },
     {
       "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
@@ -1575,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2335,
+      "stars": 2342,
       "user": "zhongerxin"
     },
     {
@@ -1590,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 708,
       "user": "kanavtwtgg"
     },
     {
@@ -1605,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 476,
       "user": "cloudflare"
     },
     {
@@ -1620,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "rpanigrahi222"
     },
     {
@@ -1635,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "eooce"
     },
     {
@@ -1650,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 2898,
+      "stars": 3118,
       "user": "baidu"
     },
     {
@@ -1665,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 906,
       "user": "lyra81604"
     },
     {
@@ -1680,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 511,
       "user": "sums001"
     },
     {
@@ -1695,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "yo-WASSUP"
     },
     {
@@ -1710,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 388,
       "user": "raiyanyahya"
     },
     {
@@ -1725,23 +1959,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "overflowy"
-    },
-    {
-      "title": "zyn26/minimax-m3-desktop-app-free-api - minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
-      "url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api",
-      "published_at": "2026-06-19T17:33:34Z",
-      "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95493060?v=4",
-      "source": "GitHub",
-      "stars": 193,
-      "user": "zyn26"
     },
     {
       "title": "alvinunreal/lazyskills - Blazing-fast mission control for agent skills.",
@@ -1755,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "alvinunreal"
     },
     {
@@ -1787,6 +2006,21 @@
       "source": "GitHub",
       "stars": 40,
       "user": "edaywalid"
+    },
+    {
+      "title": "7anX/AgentScan - AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
+      "url": "https://github.com/7anX/AgentScan",
+      "published_at": "2026-06-17T04:37:14Z",
+      "description": "AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/173973775?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "7anX"
     }
   ]
 }
