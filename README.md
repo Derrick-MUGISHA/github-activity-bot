@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-14-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
+![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-14-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-24 2:00 CAT)
+## 📅 Latest Updates (2026-06-24 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,30 +144,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0r3afsmzw1ymknk2dau2.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png" width="200" alt="AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me." />
       <br/>
       <b>AI found 300 WordPress plugin zero-days in 72 hour...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/jenueldev/i-am-fired-up-again-377i">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png" width="200" alt="I Am Fired Up Again" />
-      <br/>
-      <b>I Am Fired Up Again</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -181,11 +161,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png" width="200" alt="Building a Custom Status Line for Claude Code" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0r3afsmzw1ymknk2dau2.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Building a Custom Status Line for Claude Code</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png" width="200" alt="Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps" />
+      <br/>
+      <b>Serverless Gemma 12B with NVIDIA A100 on Azure Con...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxsed8c8qzu65ommykp4m.png" width="200" alt="What it takes to build docs worth reading" />
+      <br/>
+      <b>What it takes to build docs worth reading</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,17 +198,16 @@ npm run test
 ### 📰 Top Headlines
 
 - [How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8) _[Dev.to]_
 - [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na) _[Dev.to]_
-- [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
 - [Debian Packages](https://dev.to/karuppiah7890/debian-packages-51gj) _[Dev.to]_
-- [Building a Custom Status Line for Claude Code](https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8) _[Dev.to]_
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 - [What it takes to build docs worth reading](https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
 - [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm) _[Dev.to]_
-- [Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!](https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664) _[Dev.to]_
+- [Building a Custom Status Line for Claude Code](https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822) _[Dev.to]_
+- [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
 - [Link or Button, that is the question.](https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13) _[Dev.to]_
 - [A year of building with AI and the thing that scared me most wasn't the hallucinations](https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce) _[Dev.to]_
 - [MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…](https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n) _[Dev.to]_
+- [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd) _[Dev.to]_
 
-_Last automated update: Wed, 24 Jun 2026 02:10:41 CAT_
+_Last automated update: Wed, 24 Jun 2026 06:34:52 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Wed, 24 Jun 2026 02:10:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
-
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 2. DataStructures: Implement a function to reverse a linked list
 
 **Difficulty**: Medium | **Topics**: linked lists, pointers
 
@@ -256,6 +245,17 @@ Scope, hoisting, and reassignment capabilities
 <summary>💡 Hint</summary>
 
 Iterative or recursive, three pointers
+
+</details>
+
+### 3. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 24 Jun 2026 00:10:41 GMT</b><br/>
+  <b>Last automated update: Wed, 24 Jun 2026 04:34:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
