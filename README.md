@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-23-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-24-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -32,7 +32,7 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.3 (28.3%)
-JavaScript      ███████████████████████████ 25.0 (25.0%)
-Java            ██████████████████████ 20.7 (20.7%)
-Python          █████████████████████ 19.6 (19.6%)
-Rust            ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 28.4 (28.4%)
+JavaScript      ███████████████████████████ 25.3 (25.3%)
+Java            ██████████████████████ 21.1 (21.1%)
+Python          ████████████████████ 18.9 (18.9%)
+Rust            ██ 2.1 (2.1%)
+Swift           ██ 2.1 (2.1%)
 Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
@@ -73,9 +73,9 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "JavaScript" : 23
-    "Java" : 19
+    "Go" : 27
+    "JavaScript" : 24
+    "Java" : 20
     "Python" : 18
     "Rust" : 2
     "Swift" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-14-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
+![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-14-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-24 1:00 CAT)
+## 📅 Latest Updates (2026-06-24 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -173,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png" width="200" alt="12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI" />
+    <a href="https://dev.to/karuppiah7890/debian-packages-51gj">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21lxyr9ed5khec5ap6xy.png" width="200" alt="Debian Packages" />
       <br/>
-      <b>12B Gemma 4 Deployment with NVIDIA Blackwell 6000,...</b>
+      <b>Debian Packages</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/karuppiah7890/debian-packages-51gj">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21lxyr9ed5khec5ap6xy.png" width="200" alt="Debian Packages" />
+    <a href="https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png" width="200" alt="Building a Custom Status Line for Claude Code" />
       <br/>
-      <b>Debian Packages</b>
+      <b>Building a Custom Status Line for Claude Code</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,11 +201,11 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8) _[Dev.to]_
 - [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na) _[Dev.to]_
 - [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
-- [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [Debian Packages](https://dev.to/karuppiah7890/debian-packages-51gj) _[Dev.to]_
 - [Building a Custom Status Line for Claude Code](https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822) _[Dev.to]_
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 - [What it takes to build docs worth reading](https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290) _[Dev.to]_
+- [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
 - [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm) _[Dev.to]_
 - [Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!](https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
 - [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n) _[Dev.to]_
 
-_Last automated update: Wed, 24 Jun 2026 01:05:36 CAT_
+_Last automated update: Wed, 24 Jun 2026 02:10:41 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 24 Jun 2026 01:05:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 23 Jun 2026 23:05:36 GMT</b><br/>
+  <b>Last automated update: Wed, 24 Jun 2026 00:10:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

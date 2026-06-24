@@ -575,8 +575,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "eooce"
+    },
+    {
+      "title": "goehou/tabbit-toy - 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "published_at": "2026-06-23T03:37:12Z",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
+      "source": "GitHub",
+      "stars": 186,
+      "user": "goehou"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -590,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 3388,
+      "stars": 3494,
       "user": "baidu"
     },
     {
@@ -605,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 521,
       "user": "sums001"
     },
     {
@@ -620,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 412,
       "user": "raiyanyahya"
     },
     {
@@ -635,23 +650,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "yo-WASSUP"
-    },
-    {
-      "title": "7anX/AgentScan - AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
-      "url": "https://github.com/7anX/AgentScan",
-      "published_at": "2026-06-17T04:37:14Z",
-      "description": "AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173973775?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "7anX"
     }
   ],
   "JavaScript": [
@@ -906,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2346,
+      "stars": 2352,
       "user": "zhongerxin"
     },
     {
@@ -921,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 715,
       "user": "kanavtwtgg"
     },
     {
@@ -936,23 +936,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "cloudflare"
-    },
-    {
-      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "published_at": "2026-06-17T06:53:59Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
-      "source": "GitHub",
-      "stars": 343,
-      "user": "rpanigrahi222"
     },
     {
       "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
@@ -966,8 +951,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "eooce"
+    },
+    {
+      "title": "goehou/tabbit-toy - 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "published_at": "2026-06-23T03:37:12Z",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
+      "source": "GitHub",
+      "stars": 186,
+      "user": "goehou"
+    },
+    {
+      "title": "dinosn/leaklens - Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
+      "url": "https://github.com/dinosn/leaklens",
+      "published_at": "2026-06-20T11:20:08Z",
+      "description": "Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3851678?v=4",
+      "source": "GitHub",
+      "stars": 30,
+      "user": "dinosn"
     }
   ],
   "Python": [
@@ -1148,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 3388,
+      "stars": 3494,
       "user": "baidu"
     },
     {
@@ -1163,7 +1178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 913,
       "user": "lyra81604"
     },
     {
@@ -1178,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 521,
       "user": "sums001"
     },
     {
@@ -1193,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 412,
       "user": "raiyanyahya"
     },
     {
@@ -1208,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "yo-WASSUP"
     }
   ],
@@ -1334,21 +1349,6 @@
   ],
   "Cloud": [
     {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
-      "published_at": "2026-06-23T03:39:55Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "speculativedecoding",
-        "antigravitycli",
-        "qat",
-        "blackwell6000"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
       "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
       "published_at": "2026-06-22T17:13:03Z",
@@ -1360,6 +1360,21 @@
         "azurecontainerapps"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
+      "published_at": "2026-06-23T03:39:55Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "speculativedecoding",
+        "antigravitycli",
+        "qat",
+        "blackwell6000"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1525,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "cloudflare"
     },
     {
@@ -1540,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "eooce"
     }
   ],
@@ -1643,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "cloudflare"
     }
   ],
@@ -1809,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2346,
+      "stars": 2352,
       "user": "zhongerxin"
     },
     {
@@ -1824,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 715,
       "user": "kanavtwtgg"
     },
     {
@@ -1839,23 +1854,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "cloudflare"
-    },
-    {
-      "title": "rpanigrahi222/intruth-factcheck - GitHub Repository",
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "published_at": "2026-06-17T06:53:59Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173690125?v=4",
-      "source": "GitHub",
-      "stars": 343,
-      "user": "rpanigrahi222"
     },
     {
       "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
@@ -1869,8 +1869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "eooce"
+    },
+    {
+      "title": "goehou/tabbit-toy - 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "published_at": "2026-06-23T03:37:12Z",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
+      "source": "GitHub",
+      "stars": 186,
+      "user": "goehou"
     },
     {
       "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
@@ -1884,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 3388,
+      "stars": 3494,
       "user": "baidu"
     },
     {
@@ -1899,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 913,
       "user": "lyra81604"
     },
     {
@@ -1914,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 521,
       "user": "sums001"
     },
     {
@@ -1929,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 412,
       "user": "raiyanyahya"
     },
     {
@@ -1944,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "yo-WASSUP"
     },
     {
@@ -1959,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "overflowy"
+    },
+    {
+      "title": "ZHChen2000/qzone-history - QQ空间历史数据恢复工具：Qzone-History",
+      "url": "https://github.com/ZHChen2000/qzone-history",
+      "published_at": "2026-06-20T15:50:36Z",
+      "description": "QQ空间历史数据恢复工具：Qzone-History",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104050742?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "ZHChen2000"
     },
     {
       "title": "alvinunreal/lazyskills - Blazing-fast mission control for agent skills.",
@@ -1978,21 +2008,6 @@
       "user": "alvinunreal"
     },
     {
-      "title": "ZHChen2000/qzone-history - QQ空间历史数据恢复工具：Qzone-History",
-      "url": "https://github.com/ZHChen2000/qzone-history",
-      "published_at": "2026-06-20T15:50:36Z",
-      "description": "QQ空间历史数据恢复工具：Qzone-History",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104050742?v=4",
-      "source": "GitHub",
-      "stars": 74,
-      "user": "ZHChen2000"
-    },
-    {
       "title": "edaywalid/whook - Self-hostable webhook gateway: durably capture, inspect, retry, and replay inbound webhooks. Single Go binary.",
       "url": "https://github.com/edaywalid/whook",
       "published_at": "2026-06-19T20:51:42Z",
@@ -2008,19 +2023,19 @@
       "user": "edaywalid"
     },
     {
-      "title": "7anX/AgentScan - AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
-      "url": "https://github.com/7anX/AgentScan",
-      "published_at": "2026-06-17T04:37:14Z",
-      "description": "AI protocol scanner — discover exposed MCP servers, A2A Agent Cards, and open LLM APIs in one command. 一条命令盘点 MCP、A2A Agent Card 和 LLM 开放接口暴露面。",
+      "title": "dinosn/leaklens - Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
+      "url": "https://github.com/dinosn/leaklens",
+      "published_at": "2026-06-20T11:20:08Z",
+      "description": "Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173973775?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3851678?v=4",
       "source": "GitHub",
-      "stars": 33,
-      "user": "7anX"
+      "stars": 30,
+      "user": "dinosn"
     }
   ]
 }
