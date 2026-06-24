@@ -405,21 +405,6 @@
       "user": "xbill"
     },
     {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
-      "published_at": "2026-06-02T20:02:27Z",
-      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "tags": [
-        "ai",
-        "llm",
-        "typescript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
-      "source": "Dev.to",
-      "user": "Ayoola Solomon"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -575,7 +560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "eooce"
     },
     {
@@ -590,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 266,
       "user": "goehou"
     },
     {
@@ -605,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5468,
+      "stars": 5837,
       "user": "baidu"
     },
     {
@@ -620,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 622,
       "user": "sums001"
     },
     {
@@ -635,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 468,
       "user": "yo-WASSUP"
     },
     {
@@ -650,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "raiyanyahya"
     }
   ],
@@ -758,21 +743,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
       "source": "Dev.to",
       "user": "Diogo Capela"
-    },
-    {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
-      "published_at": "2026-06-02T20:02:27Z",
-      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "tags": [
-        "ai",
-        "llm",
-        "typescript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
-      "source": "Dev.to",
-      "user": "Ayoola Solomon"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -906,7 +876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2594,
+      "stars": 2617,
       "user": "zhongerxin"
     },
     {
@@ -921,7 +891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 754,
       "user": "kanavtwtgg"
     },
     {
@@ -936,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 632,
       "user": "cloudflare"
     },
     {
@@ -951,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "eooce"
     },
     {
@@ -966,23 +936,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 266,
       "user": "goehou"
-    },
-    {
-      "title": "dinosn/leaklens - Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
-      "url": "https://github.com/dinosn/leaklens",
-      "published_at": "2026-06-20T11:20:08Z",
-      "description": "Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3851678?v=4",
-      "source": "GitHub",
-      "stars": 30,
-      "user": "dinosn"
     }
   ],
   "Python": [
@@ -1163,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5468,
+      "stars": 5837,
       "user": "baidu"
     },
     {
@@ -1178,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 982,
       "user": "lyra81604"
     },
     {
@@ -1193,7 +1148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 622,
       "user": "sums001"
     },
     {
@@ -1208,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 468,
       "user": "yo-WASSUP"
     },
     {
@@ -1223,7 +1178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "raiyanyahya"
     }
   ],
@@ -1540,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 632,
       "user": "cloudflare"
     },
     {
@@ -1555,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "eooce"
     }
   ],
@@ -1658,7 +1613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 632,
       "user": "cloudflare"
     }
   ],
@@ -1824,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2594,
+      "stars": 2617,
       "user": "zhongerxin"
     },
     {
@@ -1839,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 754,
       "user": "kanavtwtgg"
     },
     {
@@ -1854,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 632,
       "user": "cloudflare"
     },
     {
@@ -1869,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "eooce"
     },
     {
@@ -1884,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 266,
       "user": "goehou"
     },
     {
@@ -1899,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5468,
+      "stars": 5837,
       "user": "baidu"
     },
     {
@@ -1914,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 982,
       "user": "lyra81604"
     },
     {
@@ -1929,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 622,
       "user": "sums001"
     },
     {
@@ -1944,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 468,
       "user": "yo-WASSUP"
     },
     {
@@ -1959,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "raiyanyahya"
     },
     {
@@ -1974,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "overflowy"
     },
     {
@@ -2004,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "alvinunreal"
     },
     {
@@ -2019,23 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "edaywalid"
     },
     {
-      "title": "dinosn/leaklens - Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
-      "url": "https://github.com/dinosn/leaklens",
-      "published_at": "2026-06-20T11:20:08Z",
-      "description": "Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
+      "title": "JotaDev66/WaCalls - GitHub Repository",
+      "url": "https://github.com/JotaDev66/WaCalls",
+      "published_at": "2026-06-24T05:33:17Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3851678?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 30,
-      "user": "dinosn"
+      "stars": 32,
+      "user": "JotaDev66"
     }
   ]
 }
