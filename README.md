@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-24 23:00 CAT)
+## 📅 Latest Updates (2026-06-25 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 - [Building an AI Homelab](https://dev.to/lordmathis/building-an-ai-homelab-330o) _[Dev.to]_
 
-_Last automated update: Wed, 24 Jun 2026 23:44:14 CAT_
+_Last automated update: Thu, 25 Jun 2026 00:53:37 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 24 Jun 2026 23:44:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 24 Jun 2026 21:44:14 GMT</b><br/>
+  <b>Last automated update: Wed, 24 Jun 2026 22:53:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
