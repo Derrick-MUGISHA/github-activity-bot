@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-24 20:00 CAT)
+## 📅 Latest Updates (2026-06-24 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Debian Packages](https://dev.to/karuppiah7890/debian-packages-51gj) _[Dev.to]_
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 
-_Last automated update: Wed, 24 Jun 2026 20:06:09 CAT_
+_Last automated update: Wed, 24 Jun 2026 22:05:51 CAT_
 
 
 
@@ -233,25 +233,25 @@ with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Iterative or recursive, three pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 24 Jun 2026 18:06:09 GMT</b><br/>
+  <b>Last automated update: Wed, 24 Jun 2026 20:05:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
