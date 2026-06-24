@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-24-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -30,23 +30,23 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦🟦 6 (5.7%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**WebDev**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
-**DevOps**:  1 (1.0%)
+**Mobile**:  1 (1.0%)
 
 
 
@@ -60,34 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.3 (29.3%)
-JavaScript      ████████████████████████ 23.9 (23.9%)
-Java            █████████████████████ 20.7 (20.7%)
-Python          ████████████████████ 19.6 (19.6%)
-Rust            ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
-Ruby            █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+Go              ██████████████████████████████ 28.6 (28.6%)
+JavaScript      ███████████████████████████ 25.3 (25.3%)
+Java            ███████████████████████ 22.0 (22.0%)
+Python          ████████████████████ 18.7 (18.7%)
+Rust            █████ 4.4 (4.4%)
+Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 27
-    "JavaScript" : 22
-    "Java" : 19
-    "Python" : 18
-    "Rust" : 2
-    "Swift" : 2
-    "Ruby" : 1
-    "Kotlin" : 1
+    "Go" : 26
+    "JavaScript" : 23
+    "Java" : 20
+    "Python" : 17
+    "Rust" : 4
+    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![ai](https://img.shields.io/badge/ai-13-blue) ![mcps](https://img.shields.io/badge/mcps-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -127,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-24 18:00 CAT)
+## 📅 Latest Updates (2026-06-24 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,6 +140,35 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff8%2FPong.png%3F_%3D20230712151920" width="200" alt="Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train" />
+      <br/>
+      <b>Cognitive Pong: An Open Source Arena Where AI Agen...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png" width="200" alt="Function Names in JS Can't Contain Spaces, Right?" />
+      <br/>
+      <b>Function Names in JS Can't Contain Spaces, Right?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi71t5truyb52yaqtylkz.png" width="200" alt="Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale" />
+      <br/>
+      <b>Did you want more Claude on Cloud? ☁️ Let's talk a...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg" width="200" alt="How My AI Agent Hacked Its Own Permissions (And What It Taught Me)" />
       <br/>
@@ -153,39 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxsed8c8qzu65ommykp4m.png" width="200" alt="What it takes to build docs worth reading" />
+    <a href="https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hvnsf295h7jpx4026x2.png" width="200" alt="Extending a Rust MCP/A2A Currency Agent with A2UI" />
       <br/>
-      <b>What it takes to build docs worth reading</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png" width="200" alt="12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI" />
-      <br/>
-      <b>12B Gemma 4 Deployment with NVIDIA Blackwell 6000,...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png" width="200" alt="12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI" />
-      <br/>
-      <b>12B Gemma 4 Deployment with NVIDIA Blackwell 6000,...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png" width="200" alt="Building a Custom Status Line for Claude Code" />
-      <br/>
-      <b>Building a Custom Status Line for Claude Code</b>
+      <b>Extending a Rust MCP/A2A Currency Agent with A2UI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +194,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Welcome Thread - v381](https://dev.to/devteam/welcome-thread-v381-3ko4) _[Dev.to]_
+- [Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train](https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp) _[Dev.to]_
+- [Function Names in JS Can't Contain Spaces, Right?](https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7) _[Dev.to]_
+- [Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale](https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh) _[Dev.to]_
 - [How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm) _[Dev.to]_
+- [Extending a Rust MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc) _[Dev.to]_
 - [What it takes to build docs worth reading](https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
 - [Building a Custom Status Line for Claude Code](https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822) _[Dev.to]_
+- [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) _[Dev.to]_
+- [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8) _[Dev.to]_
+- [Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query](https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og) _[Dev.to]_
+- [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2) _[Dev.to]_
+- [🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes](https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc) _[Dev.to]_
+- [gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn) _[Dev.to]_
 - [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
 - [Debian Packages](https://dev.to/karuppiah7890/debian-packages-51gj) _[Dev.to]_
-- [Link or Button, that is the question.](https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13) _[Dev.to]_
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
-- [A year of building with AI and the thing that scared me most wasn't the hallucinations](https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce) _[Dev.to]_
-- [MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…](https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0) _[Dev.to]_
-- [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm) _[Dev.to]_
-- [Multi-Tenancy Is the Real Agent Platform Problem](https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2) _[Dev.to]_
-- [12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8) _[Dev.to]_
-- [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na) _[Dev.to]_
-- [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) _[Dev.to]_
-- [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n) _[Dev.to]_
-- [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd) _[Dev.to]_
 
-_Last automated update: Wed, 24 Jun 2026 18:00:48 CAT_
+_Last automated update: Wed, 24 Jun 2026 20:06:09 CAT_
 
 
 
@@ -226,36 +222,36 @@ _Last automated update: Wed, 24 Jun 2026 18:00:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -289,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 24 Jun 2026 16:00:48 GMT</b><br/>
+  <b>Last automated update: Wed, 24 Jun 2026 18:06:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
