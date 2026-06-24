@@ -2057400,3 +2057400,785 @@ A few years ago, I watched a three-person team spend three months migrating a wo
 
 ---
 
+
+
+## 📰 DevTech News — 2026-06-24 10:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (47 articles)
+
+#### 1. [How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm)
+📅 Tue, 23 Jun 2026 17:09:18 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg)
+
+Have you ever tried to build an automation that works so well it bypasses the very rules you set for...
+
+🏷️ Tags: `ai`, `security`, `agents`, `automation`
+
+---
+
+#### 2. [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4)
+📅 Mon, 22 Jun 2026 17:13:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...
+
+🏷️ Tags: `qat`, `gemma4`, `mcps`, `azurecontainerapps`
+
+---
+
+#### 3. [Building a Custom Status Line for Claude Code](https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822)
+📅 Tue, 23 Jun 2026 13:20:37 GMT
+👤 By: Nicholas Drone | 📌 Source: Dev.to
+
+![Building a Custom Status Line for Claude Code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png)
+
+I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...
+
+🏷️ Tags: `ai`, `productivity`, `tutorial`, `claude`
+
+---
+
+#### 4. [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i)
+📅 Tue, 23 Jun 2026 13:29:11 GMT
+👤 By: Jenuel Oras Ganawed | 📌 Source: Dev.to
+
+![I Am Fired Up Again](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png)
+
+A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.
+
+🏷️ Tags: `career`, `motivation`, `productivity`, `life`
+
+---
+
+#### 5. [A year of building with AI and the thing that scared me most wasn't the hallucinations](https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce)
+📅 Tue, 23 Jun 2026 05:04:55 GMT
+👤 By: Samir | 📌 Source: Dev.to
+
+![A year of building with AI and the thing that scared me most wasn't the hallucinations](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsn6gx1nmzp3msf8wtnxi.png)
+
+A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...
+
+---
+
+#### 6. [Multi-Tenancy Is the Real Agent Platform Problem](https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2)
+📅 Tue, 23 Jun 2026 12:33:46 GMT
+👤 By: Ahmad Ra'fat | 📌 Source: Dev.to
+
+![Multi-Tenancy Is the Real Agent Platform Problem](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png)
+
+Overview    Read on Hashnode   What I have seen when building agent platforms is that most...
+
+🏷️ Tags: `ai`, `agents`, `multiplatform`, `architecture`
+
+---
+
+#### 7. [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na)
+📅 Mon, 22 Jun 2026 22:47:18 GMT
+👤 By: Rapls | 📌 Source: Dev.to
+
+![AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png)
+
+Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...
+
+🏷️ Tags: `wordpress`, `security`, `webdev`, `ai`
+
+---
+
+#### 8. [Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!](https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664)
+📅 Mon, 22 Jun 2026 14:21:14 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsqbcmxecvemvn32uvu8i.png)
+
+Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....
+
+🏷️ Tags: `ai`, `discuss`
+
+---
+
+#### 9. [[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings](https://dev.to/gde/gemini-api-hands-on-59dc)
+📅 Mon, 22 Jun 2026 00:41:17 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png)
+
+The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...
+
+🏷️ Tags: `ai`, `api`, `gemini`, `python`
+
+---
+
+#### 10. [The AI Addiction Nobody Is Talking About](https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8)
+📅 Thu, 11 Jun 2026 22:49:00 GMT
+👤 By: Samir Yahyazade | 📌 Source: Dev.to
+
+![The AI Addiction Nobody Is Talking About](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg)
+
+There is a particular kind of restlessness spreading through the tech world right now. It is not...
+
+---
+
+### 🏷️ JavaScript (24 articles)
+
+#### 1. [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm)
+📅 Mon, 22 Jun 2026 19:54:26 GMT
+👤 By: Helitha Rupasinghe | 📌 Source: Dev.to
+
+![Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png)
+
+In this post, I will show you how you can create a Google Chrome extension that instantly summarises...
+
+🏷️ Tags: `html`, `css`, `javascript`, `beginners`
+
+---
+
+#### 2. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 3. [Multi-Tenancy Is the Real Agent Platform Problem](https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2)
+📅 Tue, 23 Jun 2026 12:33:46 GMT
+👤 By: Ahmad Ra'fat | 📌 Source: Dev.to
+
+![Multi-Tenancy Is the Real Agent Platform Problem](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png)
+
+Overview    Read on Hashnode   What I have seen when building agent platforms is that most...
+
+🏷️ Tags: `ai`, `agents`, `multiplatform`, `architecture`
+
+---
+
+#### 4. [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
+📅 Thu, 18 Jun 2026 12:56:27 GMT
+👤 By: Tsahi Levent-Levi | 📌 Source: Dev.to
+
+![How to Read a webrtc-internals Dump, Section by Section](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png)
+
+When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...
+
+🏷️ Tags: `webrtc`, `javascript`, `webdev`
+
+---
+
+#### 5. [Why we rejected the export-and-fork model for visual UI editing](https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g)
+📅 Mon, 22 Jun 2026 13:16:56 GMT
+👤 By: Jack Lee | 📌 Source: Dev.to
+
+![Why we rejected the export-and-fork model for visual UI editing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frdil9989ztme4s0oy93n.png)
+
+~10 min read · Engineering     There are roughly three honest ways a visual editing tool can relate...
+
+🏷️ Tags: `ast`, `react`, `scd`, `mui`
+
+---
+
+#### 6. [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+📅 Fri, 12 Jun 2026 12:31:21 GMT
+👤 By: Dmitry Sheiko | 📌 Source: Dev.to
+
+![Why I still teach Singleton even though modules make it redundant](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png)
+
+Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...
+
+🏷️ Tags: `webdev`, `javascript`, `python`, `rust`
+
+---
+
+#### 7. [Stop reaching for microservices. You are not Netflix](https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8)
+📅 Wed, 17 Jun 2026 12:24:01 GMT
+👤 By: Diogo Capela | 📌 Source: Dev.to
+
+![Stop reaching for microservices. You are not Netflix](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png)
+
+A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.
+
+🏷️ Tags: `productivity`, `microservices`, `community`, `development`
+
+---
+
+#### 8. [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555)
+📅 Tue, 02 Jun 2026 20:02:27 GMT
+👤 By: Ayoola Solomon | 📌 Source: Dev.to
+
+![Stop writing prompts to classify text: make evaluation declarative](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png)
+
+I've built the same thing more than once: a step that reads an inbound message — a lead form, a...
+
+🏷️ Tags: `ai`, `llm`, `typescript`, `softwareengineering`
+
+---
+
+#### 9. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings](https://dev.to/gde/gemini-api-hands-on-59dc)
+📅 Mon, 22 Jun 2026 00:41:17 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png)
+
+The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...
+
+🏷️ Tags: `ai`, `api`, `gemini`, `python`
+
+---
+
+#### 2. [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+📅 Fri, 12 Jun 2026 12:31:21 GMT
+👤 By: Dmitry Sheiko | 📌 Source: Dev.to
+
+![Why I still teach Singleton even though modules make it redundant](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png)
+
+Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...
+
+🏷️ Tags: `webdev`, `javascript`, `python`, `rust`
+
+---
+
+#### 3. [Heterogeneous Pythonic language in your pocket](https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7)
+📅 Thu, 11 Jun 2026 19:02:52 GMT
+👤 By: Amr Hesham | 📌 Source: Dev.to
+
+![Heterogeneous Pythonic language in your pocket](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg)
+
+Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...
+
+🏷️ Tags: `gpu`, `python`, `android`, `programming`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (1 articles)
+
+#### 1. [Gubernator visual schema.](https://dev.to/gde/gubernator-visual-schema-1dfc)
+📅 Tue, 09 Jun 2026 09:42:18 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Gubernator visual schema.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04v0grh5v6qutl6jamsw.png)
+
+Excited to share the latest feature built for Gubernator (gbnt): Visual Stack Topology &amp;...
+
+🏷️ Tags: `docker`, `gubernator`, `antigravity`, `agenticarchitect`
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm)
+📅 Mon, 22 Jun 2026 19:54:26 GMT
+👤 By: Helitha Rupasinghe | 📌 Source: Dev.to
+
+![Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png)
+
+In this post, I will show you how you can create a Google Chrome extension that instantly summarises...
+
+🏷️ Tags: `html`, `css`, `javascript`, `beginners`
+
+---
+
+#### 2. [Link or Button, that is the question.](https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13)
+📅 Mon, 22 Jun 2026 12:41:07 GMT
+👤 By: Mica | 📌 Source: Dev.to
+
+![Link or Button, that is the question.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwtb803ttdg0uwxotepv.jpeg)
+
+What is a Link?            Definition   A link is an interactive element that redirects the...
+
+🏷️ Tags: `a11y`, `webdev`, `frontend`, `html`
+
+---
+
+#### 3. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [What I Learned Working on a Large-Scale Social Media iOS Application](https://dev.to/michal_cichon/what-i-learned-working-on-a-large-scale-social-media-ios-application-2ace)
+📅 Tue, 16 Jun 2026 18:13:25 GMT
+👤 By: Michał Cichoń | 📌 Source: Dev.to
+
+![What I Learned Working on a Large-Scale Social Media iOS Application](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg)
+
+Lessons learned from building and maintaining a large-scale social media iOS application, including architecture, engineering practices, product development, and team collaboration.
+
+🏷️ Tags: `softwareengineering`, `architecture`, `productdevelopment`, `career`
+
+---
+
+#### 2. [Dystopian Civilization Scenarios](https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422)
+📅 Fri, 05 Jun 2026 14:58:17 GMT
+👤 By: Ingo Steinke, web developer | 📌 Source: Dev.to
+
+![Dystopian Civilization Scenarios](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png)
+
+Gaming, like AI, is far from what fascinates me most about technology and creative development....
+
+🏷️ Tags: `watercooler`
+
+---
+
+#### 3. [Heterogeneous Pythonic language in your pocket](https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7)
+📅 Thu, 11 Jun 2026 19:02:52 GMT
+👤 By: Amr Hesham | 📌 Source: Dev.to
+
+![Heterogeneous Pythonic language in your pocket](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg)
+
+Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...
+
+🏷️ Tags: `gpu`, `python`, `android`, `programming`
+
+---
+
+### 🏷️ Cloud (14 articles)
+
+#### 1. [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4)
+📅 Mon, 22 Jun 2026 17:13:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...
+
+🏷️ Tags: `qat`, `gemma4`, `mcps`, `azurecontainerapps`
+
+---
+
+#### 2. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6)
+📅 Tue, 23 Jun 2026 03:39:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `speculativedecoding`, `antigravitycli`, `qat`, `blackwell6000`
+
+---
+
+#### 3. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn)
+📅 Mon, 22 Jun 2026 02:44:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `gemma4`, `mcps`, `antigravity`, `blackwell`
+
+---
+
+#### 4. [MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…](https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0)
+📅 Sun, 21 Jun 2026 14:34:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png)
+
+MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...
+
+🏷️ Tags: `antigravity`, `mcps`, `speculativedecoding`, `qat`
+
+---
+
+#### 5. [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n)
+📅 Wed, 17 Jun 2026 15:04:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd06qn4latfoeuzc50ot9.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `antigravitycli`, `gemma4`, `mcps`, `tpu`
+
+---
+
+#### 6. [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd)
+📅 Wed, 17 Jun 2026 01:15:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying Gemma 12B to Azure with GPU](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...
+
+🏷️ Tags: `qat`, `gemma4`, `mcps`, `nvidiagpu`
+
+---
+
+#### 7. [Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl)
+📅 Thu, 11 Jun 2026 14:11:07 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png)
+
+This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...
+
+🏷️ Tags: `antigravitycli`, `mcps`, `gemma4`, `googlecloudrun`
+
+---
+
+#### 8. [Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2)
+📅 Wed, 17 Jun 2026 04:11:30 GMT
+👤 By: Gbemisola Esho | 📌 Source: Dev.to
+
+![Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frgjkvp9o7dv4584tmtpb.webp)
+
+Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...
+
+🏷️ Tags: `dns`, `dnssec`, `dnsabuse`, `trustinthecloud`
+
+---
+
+#### 9. [Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0)
+📅 Wed, 10 Jun 2026 17:37:21 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...
+
+🏷️ Tags: `nvidia`, `mcps`, `googlecloudrun`, `gemma`
+
+---
+
+#### 10. [Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg)
+📅 Wed, 10 Jun 2026 01:05:21 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...
+
+🏷️ Tags: `mcps`, `nvidial4`, `gemma12b`, `googlecloudrun`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Diagnosing a slow Rails page, layer by layer](https://dev.to/danewu/diagnosing-a-slow-rails-page-layer-by-layer-3abo)
+📅 Sun, 21 Jun 2026 11:09:13 GMT
+👤 By: Dane Wu | 📌 Source: Dev.to
+
+![Diagnosing a slow Rails page, layer by layer](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wyw0cxq60roawqgjxn.png)
+
+"This page feels slow" is a vague bug report. Before changing any code, it helps to have a fixed way...
+
+🏷️ Tags: `rails`, `performance`, `postgres`, `database`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (5 articles)
+
+#### 1. [How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm)
+📅 Tue, 23 Jun 2026 17:09:18 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg)
+
+Have you ever tried to build an automation that works so well it bypasses the very rules you set for...
+
+🏷️ Tags: `ai`, `security`, `agents`, `automation`
+
+---
+
+#### 2. [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na)
+📅 Mon, 22 Jun 2026 22:47:18 GMT
+👤 By: Rapls | 📌 Source: Dev.to
+
+![AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png)
+
+Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...
+
+🏷️ Tags: `wordpress`, `security`, `webdev`, `ai`
+
+---
+
+#### 3. [Securely Exposing Internal GCP VMs using Cloudflare Tunnels](https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k)
+📅 Tue, 16 Jun 2026 06:07:42 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![Securely Exposing Internal GCP VMs using Cloudflare Tunnels](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwgca9hjtfwvyyq13z0u.png)
+
+Exposing a web service to the public internet typically involves assigning a public IP address to the...
+
+🏷️ Tags: `security`, `gcp`, `infrastructure`, `networking`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 5. [cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://github.com/cloudflare/security-audit-skill)
+📅 Thu, 18 Jun 2026 14:08:44 GMT
+👤 By: cloudflare | 📌 Source: GitHub
+
+![cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://avatars.githubusercontent.com/u/314135?v=4)
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 546
+
+---
+
+### 🏷️ Tools (25 articles)
+
+#### 1. [Building a Custom Status Line for Claude Code](https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822)
+📅 Tue, 23 Jun 2026 13:20:37 GMT
+👤 By: Nicholas Drone | 📌 Source: Dev.to
+
+![Building a Custom Status Line for Claude Code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png)
+
+I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...
+
+🏷️ Tags: `ai`, `productivity`, `tutorial`, `claude`
+
+---
+
+#### 2. [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i)
+📅 Tue, 23 Jun 2026 13:29:11 GMT
+👤 By: Jenuel Oras Ganawed | 📌 Source: Dev.to
+
+![I Am Fired Up Again](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png)
+
+A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.
+
+🏷️ Tags: `career`, `motivation`, `productivity`, `life`
+
+---
+
+#### 3. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 4. [Why we rejected the export-and-fork model for visual UI editing](https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g)
+📅 Mon, 22 Jun 2026 13:16:56 GMT
+👤 By: Jack Lee | 📌 Source: Dev.to
+
+![Why we rejected the export-and-fork model for visual UI editing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frdil9989ztme4s0oy93n.png)
+
+~10 min read · Engineering     There are roughly three honest ways a visual editing tool can relate...
+
+🏷️ Tags: `ast`, `react`, `scd`, `mui`
+
+---
+
+#### 5. [Kakoune spoiled me](https://dev.to/gonzooo/kakoune-spoiled-me-oh7)
+📅 Mon, 22 Jun 2026 10:56:49 GMT
+👤 By: Rickard Andersson | 📌 Source: Dev.to
+
+![Kakoune spoiled me](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6loh1hzaqie9xx3qotf.png)
+
+A post about why I fell in love with Kakoune, the best editor and development tool I know of
+
+🏷️ Tags: `kakoune`, `odin`, `odinlang`
+
+---
+
+#### 6. [Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400)
+📅 Tue, 16 Jun 2026 12:19:35 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![Google Workspace Studio Tutorial: The New 'Notify by Email' Action](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png)
+
+If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...
+
+🏷️ Tags: `googleworkspace`, `workspacestudio`, `automation`, `productivity`
+
+---
+
+#### 7. [[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7)
+📅 Fri, 12 Jun 2026 06:09:40 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png)
+
+Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...
+
+🏷️ Tags: `ai`, `gemini`, `productivity`, `softwaredevelopment`
+
+---
+
+#### 8. [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
+📅 Wed, 17 Jun 2026 22:26:14 GMT
+👤 By: Joan Miquel Torres | 📌 Source: Dev.to
+
+![Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png)
+
+I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...
+
+🏷️ Tags: `opencode`, `ai`, `vim`, `productivity`
+
+---
+
+#### 9. [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg)
+📅 Mon, 08 Jun 2026 09:13:08 GMT
+👤 By: shrey  | 📌 Source: Dev.to
+
+![The agent that fixes bugs by running the code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg)
+
+Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.
+
+🏷️ Tags: `ai`, `agents`, `debugging`, `productivity`
+
+---
+
+#### 10. [Stop reaching for microservices. You are not Netflix](https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8)
+📅 Wed, 17 Jun 2026 12:24:01 GMT
+👤 By: Diogo Capela | 📌 Source: Dev.to
+
+![Stop reaching for microservices. You are not Netflix](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png)
+
+A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.
+
+🏷️ Tags: `productivity`, `microservices`, `community`, `development`
+
+---
+
