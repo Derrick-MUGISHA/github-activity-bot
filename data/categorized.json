@@ -560,7 +560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     },
     {
@@ -575,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "goehou"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 6179,
+      "stars": 6259,
       "user": "baidu"
     },
     {
@@ -605,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 650,
       "user": "sums001"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "raiyanyahya"
     }
   ],
@@ -890,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2633,
+      "stars": 2635,
       "user": "zhongerxin"
     },
     {
@@ -905,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 763,
       "user": "kanavtwtgg"
     },
     {
@@ -920,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 678,
       "user": "cloudflare"
     },
     {
@@ -935,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     },
     {
@@ -950,7 +950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "goehou"
     }
   ],
@@ -1117,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 6179,
+      "stars": 6259,
       "user": "baidu"
     },
     {
@@ -1147,7 +1147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 650,
       "user": "sums001"
     },
     {
@@ -1177,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "raiyanyahya"
     }
   ],
@@ -1213,21 +1213,6 @@
       "user": "bredmond1019"
     },
     {
-      "title": "🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes",
-      "url": "https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc",
-      "published_at": "2026-06-23T15:21:30Z",
-      "description": "One-Click Self-Hosted Talos Omni Deployment with Automatic TLS Trust Configuration   After...",
-      "tags": [
-        "tutorial",
-        "homelab",
-        "kubernetes",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbg1e6p7tjg2zgfvpp3vs.png",
-      "source": "Dev.to",
-      "user": "Jesus Gilbert"
-    },
-    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1241,6 +1226,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
       "source": "Dev.to",
       "user": "Keme Kenneth"
+    },
+    {
+      "title": "🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes",
+      "url": "https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc",
+      "published_at": "2026-06-23T15:21:30Z",
+      "description": "One-Click Self-Hosted Talos Omni Deployment with Automatic TLS Trust Configuration   After...",
+      "tags": [
+        "tutorial",
+        "homelab",
+        "kubernetes",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbg1e6p7tjg2zgfvpp3vs.png",
+      "source": "Dev.to",
+      "user": "Jesus Gilbert"
     }
   ],
   "WebDev": [
@@ -1527,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 678,
       "user": "cloudflare"
     },
     {
@@ -1542,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     }
   ],
@@ -1660,7 +1660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 678,
       "user": "cloudflare"
     }
   ],
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2633,
+      "stars": 2635,
       "user": "zhongerxin"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 763,
       "user": "kanavtwtgg"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 678,
       "user": "cloudflare"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "goehou"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 6179,
+      "stars": 6259,
       "user": "baidu"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 650,
       "user": "sums001"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "raiyanyahya"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 402,
       "user": "overflowy"
     },
     {
@@ -2068,6 +2068,21 @@
       "user": "alvinunreal"
     },
     {
+      "title": "JotaDev66/WaCalls - GitHub Repository",
+      "url": "https://github.com/JotaDev66/WaCalls",
+      "published_at": "2026-06-24T05:33:17Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "JotaDev66"
+    },
+    {
       "title": "edaywalid/whook - Self-hostable webhook gateway: durably capture, inspect, retry, and replay inbound webhooks. Single Go binary.",
       "url": "https://github.com/edaywalid/whook",
       "published_at": "2026-06-19T20:51:42Z",
@@ -2081,21 +2096,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "edaywalid"
-    },
-    {
-      "title": "JotaDev66/WaCalls - GitHub Repository",
-      "url": "https://github.com/JotaDev66/WaCalls",
-      "published_at": "2026-06-24T05:33:17Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
-      "source": "GitHub",
-      "stars": 39,
-      "user": "JotaDev66"
     }
   ]
 }
