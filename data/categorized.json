@@ -16,21 +16,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
-      "published_at": "2026-06-22T22:47:18Z",
-      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "tags": [
-        "wordpress",
-        "security",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
       "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
       "published_at": "2026-06-22T17:13:03Z",
@@ -99,6 +84,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
+      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
+      "published_at": "2026-06-22T22:47:18Z",
+      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
+      "tags": [
+        "wordpress",
+        "security",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
+      "source": "Dev.to",
+      "user": "Rapls"
     },
     {
       "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
@@ -575,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 336,
       "user": "eooce"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 238,
       "user": "goehou"
     },
     {
@@ -605,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 4168,
+      "stars": 4723,
       "user": "baidu"
     },
     {
@@ -620,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 582,
       "user": "sums001"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 445,
       "user": "yo-WASSUP"
     },
     {
@@ -650,7 +650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 433,
       "user": "raiyanyahya"
     }
   ],
@@ -906,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2429,
+      "stars": 2518,
       "user": "zhongerxin"
     },
     {
@@ -921,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 732,
       "user": "kanavtwtgg"
     },
     {
@@ -936,7 +936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 546,
       "user": "cloudflare"
     },
     {
@@ -951,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 336,
       "user": "eooce"
     },
     {
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 238,
       "user": "goehou"
     },
     {
@@ -1163,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 4168,
+      "stars": 4723,
       "user": "baidu"
     },
     {
@@ -1178,7 +1178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 947,
       "user": "lyra81604"
     },
     {
@@ -1193,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 582,
       "user": "sums001"
     },
     {
@@ -1208,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 445,
       "user": "yo-WASSUP"
     },
     {
@@ -1223,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 433,
       "user": "raiyanyahya"
     }
   ],
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 546,
       "user": "cloudflare"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 336,
       "user": "eooce"
     }
   ],
@@ -1658,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 546,
       "user": "cloudflare"
     }
   ],
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2429,
+      "stars": 2518,
       "user": "zhongerxin"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 732,
       "user": "kanavtwtgg"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 546,
       "user": "cloudflare"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 336,
       "user": "eooce"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 238,
       "user": "goehou"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 4168,
+      "stars": 4723,
       "user": "baidu"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 947,
       "user": "lyra81604"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 582,
       "user": "sums001"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 445,
       "user": "yo-WASSUP"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 433,
       "user": "raiyanyahya"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 388,
       "user": "overflowy"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "alvinunreal"
     },
     {
