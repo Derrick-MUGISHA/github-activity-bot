@@ -1,6 +1,49 @@
 {
   "AI": [
     {
+      "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
+      "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
+      "published_at": "2026-06-24T15:10:00Z",
+      "description": "An open source experiment exploring whether structured competition between AI agents can produce better reasoning, training data, and eventually better models.",
+      "tags": [
+        "ai",
+        "opensource",
+        "machinelearningloops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff8%2FPong.png%3F_%3D20230712151920",
+      "source": "Dev.to",
+      "user": "Bradley Morgan Clonan"
+    },
+    {
+      "title": "Function Names in JS Can't Contain Spaces, Right?",
+      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
+      "published_at": "2026-06-24T11:28:13Z",
+      "description": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png",
+      "source": "Dev.to",
+      "user": "Jon Randy 🎖️"
+    },
+    {
+      "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
+      "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh",
+      "published_at": "2026-06-24T15:25:19Z",
+      "description": "Did you want more Claude on Cloud? Well, look no further. We have something for you happening today...",
+      "tags": [
+        "eventsinyourcity",
+        "ai",
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi71t5truyb52yaqtylkz.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
       "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
       "published_at": "2026-06-23T17:09:18Z",
@@ -16,6 +59,21 @@
       "user": "Alexander Tyutin"
     },
     {
+      "title": "Extending a Rust MCP/A2A Currency Agent with A2UI",
+      "url": "https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc",
+      "published_at": "2026-06-24T01:34:55Z",
+      "description": "Building an Agent with Rust,A2A, MCP, and A2UI   This tutorial aims to extend and test a...",
+      "tags": [
+        "rust",
+        "antigravitycli",
+        "mcps",
+        "a2ui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hvnsf295h7jpx4026x2.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building a Custom Status Line for Claude Code",
       "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822",
       "published_at": "2026-06-23T13:20:37Z",
@@ -29,6 +87,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png",
       "source": "Dev.to",
       "user": "Nicholas Drone"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query",
+      "url": "https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og",
+      "published_at": "2026-06-23T17:56:20Z",
+      "description": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per...",
+      "tags": [
+        "ai",
+        "rag",
+        "architecture",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3wp798fyxkmhkkpova5.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Diego"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "I Am Fired Up Again",
@@ -59,6 +162,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building an AI Homelab",
+      "url": "https://dev.to/lordmathis/building-an-ai-homelab-330o",
+      "published_at": "2026-06-24T12:57:46Z",
+      "description": "A breakdown of my local AI homelab running local LLMs with custom tooling",
+      "tags": [
+        "ai",
+        "agents",
+        "homelab"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcdb9vdt3ecguwmz1wwnc.png",
+      "source": "Dev.to",
+      "user": "Matúš Námešný"
     },
     {
       "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
@@ -101,6 +218,21 @@
       "user": "Rapls"
     },
     {
+      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
+      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
+      "published_at": "2026-06-23T22:47:06Z",
+      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
+      "tags": [
+        "githubactions",
+        "gitlabci",
+        "cloudsecurity",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
+      "source": "Dev.to",
+      "user": "Keme Kenneth"
+    },
+    {
       "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
       "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664",
       "published_at": "2026-06-22T14:21:14Z",
@@ -122,21 +254,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg",
       "source": "Dev.to",
       "user": "Samir Yahyazade"
-    },
-    {
-      "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
-      "published_at": "2026-06-16T12:19:35Z",
-      "description": "If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "automation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Understanding DNS",
@@ -286,123 +403,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
-      "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
-      "url": "https://dev.to/ric03uec/two-qwen3-models-on-one-dgx-spark-the-residency-math-for-local-llm-coding-5bpj",
-      "published_at": "2026-06-16T20:23:10Z",
-      "description": "Two Qwen3 models on one DGX Spark for local LLM coding. The residency math, the gpu_memory_utilization trap, and what to verify first.",
-      "tags": [
-        "localllm",
-        "vllm",
-        "ai",
-        "nvidia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa9pvaimxjb6nxj67t6dq.jpg",
-      "source": "Dev.to",
-      "user": "Devashish"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
-      "published_at": "2026-06-05T14:58:17Z",
-      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "tags": [
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Extending a MCP/A2A Currency Agent with AG-UI and Antigravity CLI",
-      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-ag-ui-and-antigravity-cli-4kd1",
-      "published_at": "2026-06-12T16:50:26Z",
-      "description": "Building an Agent with A2A, MCP, ADK, and AG-UI   This tutorial aims to extend and test a...",
-      "tags": [
-        "googleadk",
-        "mcps",
-        "antigravitycli",
-        "agui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0p6i7371sn7blax7x2kk.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
-      "url": "https://dev.to/gde/resolving-wsl-friction-with-google-antigravity-the-agy-20-and-agy-ide-edition-59im",
-      "published_at": "2026-06-12T02:42:21Z",
-      "description": "Resolving Friction   Last year when the very cool Google Antigravity (Agy) was first...",
-      "tags": [
-        "wsl",
-        "agenticai",
-        "browseragent",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F640%2F1%2AF-PWBcg9QGAc2-XYF9IZcQ.gif",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh",
-      "published_at": "2026-06-04T19:38:50Z",
-      "description": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "google",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6k120xe7hdbby01dif0.jpg",
-      "source": "Dev.to",
-      "user": "Jean-Phi Baconnais"
-    },
-    {
-      "title": "Diagnosing a slow Rails page, layer by layer",
-      "url": "https://dev.to/danewu/diagnosing-a-slow-rails-page-layer-by-layer-3abo",
-      "published_at": "2026-06-21T11:09:13Z",
-      "description": "\"This page feels slow\" is a vague bug report. Before changing any code, it helps to have a fixed way...",
-      "tags": [
-        "rails",
-        "performance",
-        "postgres",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wyw0cxq60roawqgjxn.png",
-      "source": "Dev.to",
-      "user": "Dane Wu"
-    },
-    {
-      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
-      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
-      "published_at": "2026-06-22T00:41:17Z",
-      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Serverless Gemma 12B on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-on-azure-container-apps-4i75",
-      "published_at": "2026-06-19T02:00:12Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "antigravitycli",
-        "aca",
-        "mcps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcu1i40criqu0xiaif4cz.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -560,7 +560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 346,
       "user": "eooce"
     },
     {
@@ -575,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "goehou"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5837,
+      "stars": 6051,
       "user": "baidu"
     },
     {
@@ -605,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 631,
       "user": "sums001"
     },
     {
@@ -620,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "yo-WASSUP"
     },
     {
@@ -635,11 +635,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 453,
       "user": "raiyanyahya"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Function Names in JS Can't Contain Spaces, Right?",
+      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
+      "published_at": "2026-06-24T11:28:13Z",
+      "description": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png",
+      "source": "Dev.to",
+      "user": "Jon Randy 🎖️"
+    },
     {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
@@ -876,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2617,
+      "stars": 2633,
       "user": "zhongerxin"
     },
     {
@@ -891,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 757,
       "user": "kanavtwtgg"
     },
     {
@@ -906,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 652,
       "user": "cloudflare"
     },
     {
@@ -921,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 346,
       "user": "eooce"
     },
     {
@@ -936,11 +950,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "goehou"
     }
   ],
   "Python": [
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
+    },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
@@ -955,36 +984,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
       "user": "Dmitry Sheiko"
-    },
-    {
-      "title": "Heterogeneous Pythonic language in your pocket",
-      "url": "https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7",
-      "published_at": "2026-06-11T19:02:52Z",
-      "description": "Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...",
-      "tags": [
-        "gpu",
-        "python",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
-      "source": "Dev.to",
-      "user": "Amr Hesham"
-    },
-    {
-      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
-      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
-      "published_at": "2026-06-22T00:41:17Z",
-      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1118,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5837,
+      "stars": 6051,
       "user": "baidu"
     },
     {
@@ -1133,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 987,
       "user": "lyra81604"
     },
     {
@@ -1148,7 +1147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 631,
       "user": "sums001"
     },
     {
@@ -1163,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "yo-WASSUP"
     },
     {
@@ -1178,43 +1177,73 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 453,
       "user": "raiyanyahya"
     }
   ],
   "DevOps": [
     {
-      "title": "Gubernator visual schema.",
-      "url": "https://dev.to/gde/gubernator-visual-schema-1dfc",
-      "published_at": "2026-06-09T09:42:18Z",
-      "description": "Excited to share the latest feature built for Gubernator (gbnt): Visual Stack Topology &amp;...",
+      "title": "cuenv: one typed file for your whole project",
+      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
+      "published_at": "2026-06-23T14:45:27Z",
+      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
       "tags": [
-        "docker",
-        "gubernator",
-        "antigravity",
-        "agenticarchitect"
+        "automation",
+        "cicd",
+        "devops",
+        "tooling"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04v0grh5v6qutl6jamsw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
       "source": "Dev.to",
-      "user": "Mario Ezquerro"
+      "user": "Peter Jausovec"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
+    },
+    {
+      "title": "🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes",
+      "url": "https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc",
+      "published_at": "2026-06-23T15:21:30Z",
+      "description": "One-Click Self-Hosted Talos Omni Deployment with Automatic TLS Trust Configuration   After...",
+      "tags": [
+        "tutorial",
+        "homelab",
+        "kubernetes",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbg1e6p7tjg2zgfvpp3vs.png",
+      "source": "Dev.to",
+      "user": "Jesus Gilbert"
+    },
+    {
+      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
+      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
+      "published_at": "2026-06-23T22:47:06Z",
+      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
+      "tags": [
+        "githubactions",
+        "gitlabci",
+        "cloudsecurity",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
+      "source": "Dev.to",
+      "user": "Keme Kenneth"
     }
   ],
   "WebDev": [
-    {
-      "title": "Link or Button, that is the question.",
-      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13",
-      "published_at": "2026-06-22T12:41:07Z",
-      "description": "What is a Link?            Definition   A link is an interactive element that redirects the...",
-      "tags": [
-        "a11y",
-        "webdev",
-        "frontend",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwtb803ttdg0uwxotepv.jpeg",
-      "source": "Dev.to",
-      "user": "Mica"
-    },
     {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
@@ -1273,36 +1302,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
       "source": "Dev.to",
       "user": "Michał Cichoń"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
-      "published_at": "2026-06-05T14:58:17Z",
-      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "tags": [
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
-      "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
-    },
-    {
-      "title": "Heterogeneous Pythonic language in your pocket",
-      "url": "https://dev.to/amrdeveloper/heterogeneous-pythonic-language-in-your-pocket-2af7",
-      "published_at": "2026-06-11T19:02:52Z",
-      "description": "Hello everyone 👋, I am Amr Hesham, and I am very passionate about Compilers, Languages, and building...",
-      "tags": [
-        "gpu",
-        "python",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
-      "source": "Dev.to",
-      "user": "Amr Hesham"
     }
   ],
   "Cloud": [
+    {
+      "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
+      "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh",
+      "published_at": "2026-06-24T15:25:19Z",
+      "description": "Did you want more Claude on Cloud? Well, look no further. We have something for you happening today...",
+      "tags": [
+        "eventsinyourcity",
+        "ai",
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi71t5truyb52yaqtylkz.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
@@ -1332,6 +1349,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
@@ -1392,6 +1424,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
+      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
+      "published_at": "2026-06-23T22:47:06Z",
+      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
+      "tags": [
+        "githubactions",
+        "gitlabci",
+        "cloudsecurity",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
+      "source": "Dev.to",
+      "user": "Keme Kenneth"
     },
     {
       "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
@@ -1469,21 +1516,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "Serverless Gemma 12B on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-on-azure-container-apps-4i75",
-      "published_at": "2026-06-19T02:00:12Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "antigravitycli",
-        "aca",
-        "mcps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcu1i40criqu0xiaif4cz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "published_at": "2026-06-18T14:08:44Z",
@@ -1495,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 652,
       "user": "cloudflare"
     },
     {
@@ -1510,25 +1542,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 346,
       "user": "eooce"
     }
   ],
   "Database": [
     {
-      "title": "Diagnosing a slow Rails page, layer by layer",
-      "url": "https://dev.to/danewu/diagnosing-a-slow-rails-page-layer-by-layer-3abo",
-      "published_at": "2026-06-21T11:09:13Z",
-      "description": "\"This page feels slow\" is a vague bug report. Before changing any code, it helps to have a fixed way...",
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
       "tags": [
-        "rails",
-        "performance",
-        "postgres",
-        "database"
+        "python",
+        "ai",
+        "azure",
+        "nosql"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wyw0cxq60roawqgjxn.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
-      "user": "Dane Wu"
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1575,6 +1607,21 @@
       "user": "Rapls"
     },
     {
+      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
+      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
+      "published_at": "2026-06-23T22:47:06Z",
+      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
+      "tags": [
+        "githubactions",
+        "gitlabci",
+        "cloudsecurity",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
+      "source": "Dev.to",
+      "user": "Keme Kenneth"
+    },
+    {
       "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
       "url": "https://dev.to/gdg/securely-exposing-internal-gcp-vms-using-cloudflare-tunnels-1p7k",
       "published_at": "2026-06-16T06:07:42Z",
@@ -1613,7 +1660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 652,
       "user": "cloudflare"
     }
   ],
@@ -1634,6 +1681,36 @@
       "user": "Nicholas Drone"
     },
     {
+      "title": "cuenv: one typed file for your whole project",
+      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
+      "published_at": "2026-06-23T14:45:27Z",
+      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
+      "tags": [
+        "automation",
+        "cicd",
+        "devops",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
+      "source": "Dev.to",
+      "user": "Peter Jausovec"
+    },
+    {
+      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
+      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
+      "published_at": "2026-06-23T14:46:09Z",
+      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
+      "tags": [
+        "programming",
+        "go",
+        "opensource",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
+      "source": "Dev.to",
+      "user": "Inhere"
+    },
+    {
       "title": "I Am Fired Up Again",
       "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
       "published_at": "2026-06-23T13:29:11Z",
@@ -1649,6 +1726,20 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "Building an AI Homelab",
+      "url": "https://dev.to/lordmathis/building-an-ai-homelab-330o",
+      "published_at": "2026-06-24T12:57:46Z",
+      "description": "A breakdown of my local AI homelab running local LLMs with custom tooling",
+      "tags": [
+        "ai",
+        "agents",
+        "homelab"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcdb9vdt3ecguwmz1wwnc.png",
+      "source": "Dev.to",
+      "user": "Matúš Námešný"
+    },
+    {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
       "published_at": "2026-06-23T13:53:17Z",
@@ -1662,6 +1753,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
+      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
+      "published_at": "2026-06-23T22:47:06Z",
+      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
+      "tags": [
+        "githubactions",
+        "gitlabci",
+        "cloudsecurity",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
+      "source": "Dev.to",
+      "user": "Keme Kenneth"
+    },
+    {
+      "title": "From GET/POST to Full REST: My Recent PacketSender HTTP Verbs PR",
+      "url": "https://dev.to/professortom/from-getpost-to-full-rest-my-recent-packetsender-http-verbs-pr-481g",
+      "published_at": "2026-06-24T00:19:14Z",
+      "description": "PacketSender is an Open Source, low-level networking tool that, until a few days ago, only supported...",
+      "tags": [
+        "cpp",
+        "networking",
+        "http"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cwreknpvnyjm94jmgqr.png",
+      "source": "Dev.to",
+      "user": "Tomas Gallucci"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -1691,21 +1811,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6loh1hzaqie9xx3qotf.png",
       "source": "Dev.to",
       "user": "Rickard Andersson"
-    },
-    {
-      "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400",
-      "published_at": "2026-06-16T12:19:35Z",
-      "description": "If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "automation",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1fs7e1zxdqt6gwkjgx.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
@@ -1779,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2617,
+      "stars": 2633,
       "user": "zhongerxin"
     },
     {
@@ -1794,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 757,
       "user": "kanavtwtgg"
     },
     {
@@ -1809,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 652,
       "user": "cloudflare"
     },
     {
@@ -1824,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 346,
       "user": "eooce"
     },
     {
@@ -1839,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "goehou"
     },
     {
@@ -1854,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5837,
+      "stars": 6051,
       "user": "baidu"
     },
     {
@@ -1869,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 987,
       "user": "lyra81604"
     },
     {
@@ -1884,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 631,
       "user": "sums001"
     },
     {
@@ -1899,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "yo-WASSUP"
     },
     {
@@ -1914,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 453,
       "user": "raiyanyahya"
     },
     {
@@ -1929,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 400,
       "user": "overflowy"
     },
     {
@@ -1959,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "alvinunreal"
     },
     {
@@ -1989,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 36,
       "user": "JotaDev66"
     }
   ]
