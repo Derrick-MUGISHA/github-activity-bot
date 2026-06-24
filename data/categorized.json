@@ -16,21 +16,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
-      "published_at": "2026-06-22T17:13:03Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "qat",
-        "gemma4",
-        "mcps",
-        "azurecontainerapps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Custom Status Line for Claude Code",
       "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822",
       "published_at": "2026-06-23T13:20:37Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
       "source": "Dev.to",
       "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
@@ -112,21 +112,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsqbcmxecvemvn32uvu8i.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
-      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
-      "published_at": "2026-06-22T00:41:17Z",
-      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "The AI Addiction Nobody Is Talking About",
@@ -390,6 +375,21 @@
       "user": "Dane Wu"
     },
     {
+      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
+      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
+      "published_at": "2026-06-22T00:41:17Z",
+      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Serverless Gemma 12B on Azure Container Apps",
       "url": "https://dev.to/gde/serverless-gemma-12b-on-azure-container-apps-4i75",
       "published_at": "2026-06-19T02:00:12Z",
@@ -575,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "eooce"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "goehou"
     },
     {
@@ -605,7 +605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5151,
+      "stars": 5468,
       "user": "baidu"
     },
     {
@@ -620,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 607,
       "user": "sums001"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 460,
       "user": "yo-WASSUP"
     },
     {
@@ -650,26 +650,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "raiyanyahya"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
-      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
-      "published_at": "2026-06-22T19:54:26Z",
-      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
-      "tags": [
-        "html",
-        "css",
-        "javascript",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
-      "source": "Dev.to",
-      "user": "Helitha Rupasinghe"
-    },
     {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
@@ -713,6 +698,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
       "source": "Dev.to",
       "user": "Tsahi Levent-Levi"
+    },
+    {
+      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
+      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
+      "published_at": "2026-06-22T19:54:26Z",
+      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
+      "tags": [
+        "html",
+        "css",
+        "javascript",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
+      "source": "Dev.to",
+      "user": "Helitha Rupasinghe"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -906,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2560,
+      "stars": 2594,
       "user": "zhongerxin"
     },
     {
@@ -921,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 749,
       "user": "kanavtwtgg"
     },
     {
@@ -936,7 +936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 606,
       "user": "cloudflare"
     },
     {
@@ -951,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "eooce"
     },
     {
@@ -966,7 +966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "goehou"
     },
     {
@@ -986,21 +986,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
-      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
-      "published_at": "2026-06-22T00:41:17Z",
-      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
@@ -1030,6 +1015,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowpfm5ndeeceaslmz4jv.jpg",
       "source": "Dev.to",
       "user": "Amr Hesham"
+    },
+    {
+      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
+      "url": "https://dev.to/gde/gemini-api-hands-on-59dc",
+      "published_at": "2026-06-22T00:41:17Z",
+      "description": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbjjl8qvwghok1wcofsec.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1163,7 +1163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5151,
+      "stars": 5468,
       "user": "baidu"
     },
     {
@@ -1178,7 +1178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 972,
       "user": "lyra81604"
     },
     {
@@ -1193,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 607,
       "user": "sums001"
     },
     {
@@ -1208,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 460,
       "user": "yo-WASSUP"
     },
     {
@@ -1223,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "raiyanyahya"
     }
   ],
@@ -1245,21 +1245,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
-      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
-      "published_at": "2026-06-22T19:54:26Z",
-      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
-      "tags": [
-        "html",
-        "css",
-        "javascript",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
-      "source": "Dev.to",
-      "user": "Helitha Rupasinghe"
-    },
     {
       "title": "Link or Button, that is the question.",
       "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13",
@@ -1289,6 +1274,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
+      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
+      "published_at": "2026-06-22T19:54:26Z",
+      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
+      "tags": [
+        "html",
+        "css",
+        "javascript",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
+      "source": "Dev.to",
+      "user": "Helitha Rupasinghe"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1349,21 +1349,6 @@
   ],
   "Cloud": [
     {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
-      "published_at": "2026-06-22T17:13:03Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "qat",
-        "gemma4",
-        "mcps",
-        "azurecontainerapps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
       "published_at": "2026-06-23T03:39:55Z",
@@ -1390,6 +1375,21 @@
         "blackwell"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 606,
       "user": "cloudflare"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "eooce"
     }
   ],
@@ -1658,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 606,
       "user": "cloudflare"
     }
   ],
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2560,
+      "stars": 2594,
       "user": "zhongerxin"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 749,
       "user": "kanavtwtgg"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 606,
       "user": "cloudflare"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "eooce"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "goehou"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
       "source": "GitHub",
-      "stars": 5151,
+      "stars": 5468,
       "user": "baidu"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 972,
       "user": "lyra81604"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 607,
       "user": "sums001"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 460,
       "user": "yo-WASSUP"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "raiyanyahya"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 396,
       "user": "overflowy"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "alvinunreal"
     },
     {
