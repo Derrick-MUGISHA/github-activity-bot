@@ -263,21 +263,6 @@
       "user": "Samir"
     },
     {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
-    },
-    {
       "title": "Why stop gaming saved my tokens: Building my own local AI Lab",
       "url": "https://dev.to/wizsebastian/why-stop-gaming-saved-my-tokens-building-my-own-local-ai-lab-4i06",
       "published_at": "2026-06-25T03:29:02Z",
@@ -664,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "sums001"
     },
     {
@@ -679,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "raiyanyahya"
     },
     {
@@ -757,21 +742,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
-    },
-    {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -995,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Yu9191"
     },
     {
@@ -1192,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1033,
       "user": "lyra81604"
     },
     {
@@ -1207,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "sums001"
     },
     {
@@ -1222,7 +1192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "raiyanyahya"
     },
     {
@@ -1252,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 472,
       "user": "QwenLM"
     }
   ],
@@ -1663,6 +1633,20 @@
   ],
   "Tools": [
     {
+      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
+      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766",
+      "published_at": "2026-06-25T18:52:00Z",
+      "description": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -1942,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Yu9191"
     },
     {
@@ -1972,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1033,
       "user": "lyra81604"
     },
     {
@@ -1987,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "sums001"
     },
     {
@@ -2002,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "raiyanyahya"
     },
     {
@@ -2032,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 472,
       "user": "QwenLM"
     },
     {
@@ -2047,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "overflowy"
     },
     {
@@ -2107,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "edaywalid"
     }
   ]
