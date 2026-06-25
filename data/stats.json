@@ -18,10 +18,10 @@
     "Tools": 29
   },
   "by_language": {
-    "JavaScript": 23,
-    "Java": 20,
     "Go": 26,
     "Rust": 4,
+    "JavaScript": 23,
+    "Java": 20,
     "Python": 17,
     "Swift": 2
   },
@@ -75,8 +75,8 @@
     "ai": 16,
     "github": 15,
     "open-source": 15,
-    "javascript": 10,
     "mcps": 10,
+    "javascript": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -84,8 +84,8 @@
     "gemma4": 6,
     "productivity": 6,
     "go": 6,
-    "webdev": 5,
     "qat": 5,
+    "webdev": 5,
     "discuss": 5,
     "opensource": 4,
     "agents": 4,
@@ -95,10 +95,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.0",
-    "Java": "21.7",
     "Go": "28.3",
     "Rust": "4.3",
+    "JavaScript": "25.0",
+    "Java": "21.7",
     "Python": "18.5",
     "Swift": "2.2"
   }

@@ -15,20 +15,6 @@
       "user": "Bradley Morgan Clonan"
     },
     {
-      "title": "Function Names in JS Can't Contain Spaces, Right?",
-      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
-      "published_at": "2026-06-24T11:28:13Z",
-      "description": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png",
-      "source": "Dev.to",
-      "user": "Jon Randy 🎖️"
-    },
-    {
       "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
       "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh",
       "published_at": "2026-06-24T15:25:19Z",
@@ -87,6 +73,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png",
       "source": "Dev.to",
       "user": "Nicholas Drone"
+    },
+    {
+      "title": "Function Names in JS Can't Contain Spaces, Right?",
+      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
+      "published_at": "2026-06-24T11:28:13Z",
+      "description": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png",
+      "source": "Dev.to",
+      "user": "Jon Randy 🎖️"
     },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
@@ -203,21 +203,6 @@
       "user": "Ahmad Ra'fat"
     },
     {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
-      "published_at": "2026-06-22T22:47:18Z",
-      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "tags": [
-        "wordpress",
-        "security",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -329,6 +314,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
       "source": "Dev.to",
       "user": "Romin Irani"
+    },
+    {
+      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
+      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
+      "published_at": "2026-06-22T22:47:18Z",
+      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
+      "tags": [
+        "wordpress",
+        "security",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
+      "source": "Dev.to",
+      "user": "Rapls"
     },
     {
       "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
@@ -560,7 +560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 352,
       "user": "eooce"
     },
     {
@@ -575,7 +575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 278,
       "user": "goehou"
     },
     {
@@ -590,23 +590,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 681,
       "user": "sums001"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 476,
-      "user": "yo-WASSUP"
     },
     {
       "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
@@ -620,8 +605,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "yo-WASSUP"
     }
   ],
   "JavaScript": [
@@ -875,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 772,
       "user": "kanavtwtgg"
     },
     {
@@ -890,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 352,
       "user": "eooce"
     },
     {
@@ -905,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 278,
       "user": "goehou"
     },
     {
@@ -920,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 219,
       "user": "Yu9191"
     },
     {
@@ -935,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 177,
       "user": "FFF686868"
     }
   ],
@@ -1102,7 +1102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 997,
       "user": "lyra81604"
     },
     {
@@ -1117,23 +1117,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 681,
       "user": "sums001"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 476,
-      "user": "yo-WASSUP"
     },
     {
       "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
@@ -1147,8 +1132,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "yo-WASSUP"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -1162,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 341,
       "user": "QwenLM"
     }
   ],
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 177,
       "user": "FFF686868"
     }
   ],
@@ -1527,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 352,
       "user": "eooce"
     }
   ],
@@ -1577,21 +1577,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
-      "published_at": "2026-06-22T22:47:18Z",
-      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "tags": [
-        "wordpress",
-        "security",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1605,6 +1590,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
       "source": "Dev.to",
       "user": "Keme Kenneth"
+    },
+    {
+      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
+      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
+      "published_at": "2026-06-22T22:47:18Z",
+      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
+      "tags": [
+        "wordpress",
+        "security",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
+      "source": "Dev.to",
+      "user": "Rapls"
     },
     {
       "title": "Securely Exposing Internal GCP VMs using Cloudflare Tunnels",
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 772,
       "user": "kanavtwtgg"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 352,
       "user": "eooce"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 278,
       "user": "goehou"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 219,
       "user": "Yu9191"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 177,
       "user": "FFF686868"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 997,
       "user": "lyra81604"
     },
     {
@@ -1944,23 +1944,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 681,
       "user": "sums001"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 476,
-      "user": "yo-WASSUP"
     },
     {
       "title": "raiyanyahya/recall - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
@@ -1974,8 +1959,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "yo-WASSUP"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 341,
       "user": "QwenLM"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 405,
       "user": "overflowy"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104050742?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 105,
       "user": "ZHChen2000"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "alvinunreal"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 49,
       "user": "JotaDev66"
     },
     {
