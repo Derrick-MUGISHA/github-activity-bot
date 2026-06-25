@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-24-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-25-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Security**: 🟦🟦🟦 6 (5.7%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
 **WebDev**: 🟦 3 (2.9%)
 
-**Database**: 🟦 2 (1.9%)
+**Mobile**: 🟦 2 (1.9%)
 
-**Mobile**:  1 (1.0%)
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.6 (28.6%)
-JavaScript      ███████████████████████████ 25.3 (25.3%)
-Java            ███████████████████████ 22.0 (22.0%)
-Python          ████████████████████ 18.7 (18.7%)
-Rust            █████ 4.4 (4.4%)
-Swift           █ 1.1 (1.1%)
+Go              ██████████████████████████████ 28.3 (28.3%)
+JavaScript      ███████████████████████████ 25.0 (25.0%)
+Java            ███████████████████████ 21.7 (21.7%)
+Python          ████████████████████ 18.5 (18.5%)
+Rust            █████ 4.3 (4.3%)
+Swift           ██ 2.2 (2.2%)
 
 ```
 
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "Java" : 20
     "Python" : 17
     "Rust" : 4
-    "Swift" : 1
+    "Swift" : 2
 ```
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-25 0:00 CAT)
+## 📅 Latest Updates (2026-06-25 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 - [Building an AI Homelab](https://dev.to/lordmathis/building-an-ai-homelab-330o) _[Dev.to]_
 
-_Last automated update: Thu, 25 Jun 2026 00:53:37 CAT_
+_Last automated update: Thu, 25 Jun 2026 02:06:45 CAT_
 
 
 
@@ -222,14 +222,14 @@ _Last automated update: Thu, 25 Jun 2026 00:53:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -244,14 +244,14 @@ try/catch, .catch(), error middleware
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 24 Jun 2026 22:53:37 GMT</b><br/>
+  <b>Last automated update: Thu, 25 Jun 2026 00:06:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

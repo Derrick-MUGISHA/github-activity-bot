@@ -560,7 +560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     },
     {
@@ -579,21 +579,6 @@
       "user": "goehou"
     },
     {
-      "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "published_at": "2026-06-18T08:40:15Z",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
-      "source": "GitHub",
-      "stars": 6303,
-      "user": "baidu"
-    },
-    {
       "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "url": "https://github.com/sums001/Windows-Copilot-API",
       "published_at": "2026-06-19T13:24:44Z",
@@ -605,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 659,
       "user": "sums001"
     },
     {
@@ -635,7 +620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 472,
       "user": "raiyanyahya"
     }
   ],
@@ -879,21 +864,6 @@
       "user": "velmu"
     },
     {
-      "title": "zhongerxin/Cowart - GitHub Repository",
-      "url": "https://github.com/zhongerxin/Cowart",
-      "published_at": "2026-06-18T16:08:30Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
-      "source": "GitHub",
-      "stars": 2637,
-      "user": "zhongerxin"
-    },
-    {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
       "url": "https://github.com/kanavtwtgg/birds.cafe",
       "published_at": "2026-06-21T13:57:28Z",
@@ -909,21 +879,6 @@
       "user": "kanavtwtgg"
     },
     {
-      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "published_at": "2026-06-18T14:08:44Z",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
-      "source": "GitHub",
-      "stars": 691,
-      "user": "cloudflare"
-    },
-    {
       "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "url": "https://github.com/eooce/transfer-api",
       "published_at": "2026-06-19T19:24:47Z",
@@ -935,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     },
     {
@@ -952,6 +907,36 @@
       "source": "GitHub",
       "stars": 270,
       "user": "goehou"
+    },
+    {
+      "title": "Yu9191/wloc - Apple WLOC Location Spoofer",
+      "url": "https://github.com/Yu9191/wloc",
+      "published_at": "2026-06-24T06:15:30Z",
+      "description": "Apple WLOC Location Spoofer",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
+      "source": "GitHub",
+      "stars": 171,
+      "user": "Yu9191"
+    },
+    {
+      "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
+      "published_at": "2026-06-20T18:47:23Z",
+      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "FFF686868"
     }
   ],
   "Python": [
@@ -1106,21 +1091,6 @@
       "user": "arathore"
     },
     {
-      "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "published_at": "2026-06-18T08:40:15Z",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
-      "source": "GitHub",
-      "stars": 6303,
-      "user": "baidu"
-    },
-    {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "url": "https://github.com/lyra81604/zhengxi-views",
       "published_at": "2026-06-20T04:27:07Z",
@@ -1147,7 +1117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 659,
       "user": "sums001"
     },
     {
@@ -1177,8 +1147,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 472,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "published_at": "2026-06-22T13:48:37Z",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "QwenLM"
     }
   ],
   "DevOps": [
@@ -1302,6 +1287,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqkftxg26dmvpiehnek.jpg",
       "source": "Dev.to",
       "user": "Michał Cichoń"
+    },
+    {
+      "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
+      "published_at": "2026-06-20T18:47:23Z",
+      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "FFF686868"
     }
   ],
   "Cloud": [
@@ -1516,21 +1516,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "published_at": "2026-06-18T14:08:44Z",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
-      "source": "GitHub",
-      "stars": 691,
-      "user": "cloudflare"
-    },
-    {
       "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "url": "https://github.com/eooce/transfer-api",
       "published_at": "2026-06-19T19:24:47Z",
@@ -1542,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     }
   ],
@@ -1647,21 +1632,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "published_at": "2026-06-18T14:08:44Z",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
-      "source": "GitHub",
-      "stars": 691,
-      "user": "cloudflare"
     }
   ],
   "Tools": [
@@ -1873,21 +1843,6 @@
       "user": "Diogo Capela"
     },
     {
-      "title": "zhongerxin/Cowart - GitHub Repository",
-      "url": "https://github.com/zhongerxin/Cowart",
-      "published_at": "2026-06-18T16:08:30Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
-      "source": "GitHub",
-      "stars": 2637,
-      "user": "zhongerxin"
-    },
-    {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
       "url": "https://github.com/kanavtwtgg/birds.cafe",
       "published_at": "2026-06-21T13:57:28Z",
@@ -1903,21 +1858,6 @@
       "user": "kanavtwtgg"
     },
     {
-      "title": "cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "published_at": "2026-06-18T14:08:44Z",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314135?v=4",
-      "source": "GitHub",
-      "stars": 691,
-      "user": "cloudflare"
-    },
-    {
       "title": "eooce/transfer-api - Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
       "url": "https://github.com/eooce/transfer-api",
       "published_at": "2026-06-19T19:24:47Z",
@@ -1929,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "eooce"
     },
     {
@@ -1948,19 +1888,34 @@
       "user": "goehou"
     },
     {
-      "title": "baidu/Unlimited-OCR - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "published_at": "2026-06-18T08:40:15Z",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "title": "Yu9191/wloc - Apple WLOC Location Spoofer",
+      "url": "https://github.com/Yu9191/wloc",
+      "published_at": "2026-06-24T06:15:30Z",
+      "description": "Apple WLOC Location Spoofer",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13245940?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 6303,
-      "user": "baidu"
+      "stars": 171,
+      "user": "Yu9191"
+    },
+    {
+      "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
+      "published_at": "2026-06-20T18:47:23Z",
+      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "FFF686868"
     },
     {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
@@ -1989,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 659,
       "user": "sums001"
     },
     {
@@ -2019,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 472,
       "user": "raiyanyahya"
+    },
+    {
+      "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "published_at": "2026-06-22T13:48:37Z",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "QwenLM"
     },
     {
       "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
@@ -2079,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "JotaDev66"
     },
     {
@@ -2094,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 43,
       "user": "edaywalid"
     }
   ]
