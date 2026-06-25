@@ -1,6 +1,51 @@
 {
   "AI": [
     {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
+      "title": "Lite-Harness SDK",
+      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
+      "published_at": "2026-06-25T12:37:20Z",
+      "description": "Unified API to swap AI coding harnesses like Claude Code and Codex",
+      "tags": [
+        "ai",
+        "litellm",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
+      "source": "Dev.to",
+      "user": "jeann"
+    },
+    {
+      "title": "The agent-first approach to building products",
+      "url": "https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj",
+      "published_at": "2026-06-25T11:50:30Z",
+      "description": "If my agent can't use your platform, you're irrelevant -- Every customer in 2026   The agent-first...",
+      "tags": [
+        "ai",
+        "webdev",
+        "agents",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5dpedjhfkcz55clldsjn.png",
+      "source": "Dev.to",
+      "user": "adam klein"
+    },
+    {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
       "published_at": "2026-06-24T15:10:00Z",
@@ -30,19 +75,34 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
-      "published_at": "2026-06-23T17:09:18Z",
-      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "title": "_action: Declarative Event Handlers in an Attribute",
+      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+      "published_at": "2026-06-25T04:08:28Z",
+      "description": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
+      "tags": [
+        "progressiveenhancement",
+        "webcomponents",
+        "html",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
+      "source": "Dev.to",
+      "user": "Jon Nyman"
+    },
+    {
+      "title": "The Rise of Agentic Engineering — Part 1: The Prompt Engineering Era",
+      "url": "https://dev.to/raminjafary/the-rise-of-agentic-engineering-part-1-the-prompt-engineering-era-4cb4",
+      "published_at": "2026-06-25T06:47:53Z",
+      "description": "The Prompt Engineering Era   Part 1 of a chronological survey of how the craft around large...",
       "tags": [
         "ai",
-        "security",
+        "llm",
         "agents",
-        "automation"
+        "softwareengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnrejul7uha477r1u9bn.png",
       "source": "Dev.to",
-      "user": "Alexander Tyutin"
+      "user": "Ramin Jafary"
     },
     {
       "title": "Building a Custom Status Line for Claude Code",
@@ -58,6 +118,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png",
       "source": "Dev.to",
       "user": "Nicholas Drone"
+    },
+    {
+      "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
+      "url": "https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii",
+      "published_at": "2026-06-24T16:41:10Z",
+      "description": "A Practical AI Council Workflow for Software Architecture and Delivery               One AI...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
+      "source": "Dev.to",
+      "user": "Jenning Ho"
+    },
+    {
+      "title": "How to Get Your First Tool Online",
+      "url": "https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k",
+      "published_at": "2026-06-24T20:58:21Z",
+      "description": "TL;DR - A finished app that only runs on one laptop is a private demo. Getting it online means...",
+      "tags": [
+        "webdev",
+        "ai",
+        "vibecoding",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ptlosqwxlbmttce6sx9.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Function Names in JS Can't Contain Spaces, Right?",
@@ -102,21 +192,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hvnsf295h7jpx4026x2.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query",
-      "url": "https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og",
-      "published_at": "2026-06-23T17:56:20Z",
-      "description": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per...",
-      "tags": [
-        "ai",
-        "rag",
-        "architecture",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3wp798fyxkmhkkpova5.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
     },
     {
       "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
@@ -201,21 +276,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
-    },
-    {
-      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
-      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
-      "published_at": "2026-06-23T22:47:06Z",
-      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
-      "tags": [
-        "githubactions",
-        "gitlabci",
-        "cloudsecurity",
-        "devsecops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
-      "source": "Dev.to",
-      "user": "Keme Kenneth"
     },
     {
       "title": "The AI Addiction Nobody Is Talking About",
@@ -559,7 +619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 362,
       "user": "eooce"
     },
     {
@@ -574,7 +634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "goehou"
     },
     {
@@ -589,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "sums001"
     },
     {
@@ -604,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "raiyanyahya"
     },
     {
@@ -619,11 +679,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 513,
       "user": "yo-WASSUP"
     }
   ],
   "JavaScript": [
+    {
+      "title": "The Security Bug Every Node.js Developer Ships to Production",
+      "url": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
+      "published_at": "2026-06-25T09:51:15Z",
+      "description": "Last year I was doing a code review for a startup. Everything looked fine on the surface, clean code,...",
+      "tags": [
+        "security",
+        "node",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
+      "source": "Dev.to",
+      "user": "Lolo"
+    },
+    {
+      "title": "_action: Declarative Event Handlers in an Attribute",
+      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+      "published_at": "2026-06-25T04:08:28Z",
+      "description": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
+      "tags": [
+        "progressiveenhancement",
+        "webcomponents",
+        "html",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
+      "source": "Dev.to",
+      "user": "Jon Nyman"
+    },
     {
       "title": "Function Names in JS Can't Contain Spaces, Right?",
       "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
@@ -667,20 +757,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
-    },
-    {
-      "title": "How to Read a webrtc-internals Dump, Section by Section",
-      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
-      "published_at": "2026-06-18T12:56:27Z",
-      "description": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
-      "tags": [
-        "webrtc",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
-      "source": "Dev.to",
-      "user": "Tsahi Levent-Levi"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -859,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 787,
       "user": "kanavtwtgg"
     },
     {
@@ -874,7 +950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 362,
       "user": "eooce"
     },
     {
@@ -889,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "goehou"
     },
     {
@@ -904,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 261,
       "user": "Yu9191"
     },
     {
@@ -919,11 +995,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "FFF686868"
     }
   ],
   "Python": [
+    {
+      "title": "Lite-Harness SDK",
+      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
+      "published_at": "2026-06-25T12:37:20Z",
+      "description": "Unified API to swap AI coding harnesses like Claude Code and Codex",
+      "tags": [
+        "ai",
+        "litellm",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
+      "source": "Dev.to",
+      "user": "jeann"
+    },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
@@ -1086,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1029,
       "user": "lyra81604"
     },
     {
@@ -1101,7 +1192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "sums001"
     },
     {
@@ -1116,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "raiyanyahya"
     },
     {
@@ -1131,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 513,
       "user": "yo-WASSUP"
     },
     {
@@ -1146,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 450,
       "user": "QwenLM"
     }
   ],
@@ -1182,21 +1273,6 @@
       "user": "bredmond1019"
     },
     {
-      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
-      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
-      "published_at": "2026-06-23T22:47:06Z",
-      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
-      "tags": [
-        "githubactions",
-        "gitlabci",
-        "cloudsecurity",
-        "devsecops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
-      "source": "Dev.to",
-      "user": "Keme Kenneth"
-    },
-    {
       "title": "🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes",
       "url": "https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc",
       "published_at": "2026-06-23T15:21:30Z",
@@ -1213,6 +1289,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "_action: Declarative Event Handlers in an Attribute",
+      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+      "published_at": "2026-06-25T04:08:28Z",
+      "description": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
+      "tags": [
+        "progressiveenhancement",
+        "webcomponents",
+        "html",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
+      "source": "Dev.to",
+      "user": "Jon Nyman"
+    },
     {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
@@ -1281,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "FFF686868"
     }
   ],
@@ -1377,51 +1468,6 @@
       "user": "xbill"
     },
     {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n",
-      "published_at": "2026-06-17T15:04:24Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "antigravitycli",
-        "gemma4",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd06qn4latfoeuzc50ot9.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying Gemma 12B to Azure with GPU",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd",
-      "published_at": "2026-06-17T01:15:19Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
-      "tags": [
-        "qat",
-        "gemma4",
-        "mcps",
-        "nvidiagpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
-      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
-      "published_at": "2026-06-23T22:47:06Z",
-      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
-      "tags": [
-        "githubactions",
-        "gitlabci",
-        "cloudsecurity",
-        "devsecops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
-      "source": "Dev.to",
-      "user": "Keme Kenneth"
-    },
-    {
       "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl",
       "published_at": "2026-06-11T14:11:07Z",
@@ -1508,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 362,
       "user": "eooce"
     }
   ],
@@ -1543,34 +1589,19 @@
   ],
   "Security": [
     {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
-      "published_at": "2026-06-23T17:09:18Z",
-      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "title": "The Security Bug Every Node.js Developer Ships to Production",
+      "url": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
+      "published_at": "2026-06-25T09:51:15Z",
+      "description": "Last year I was doing a code review for a startup. Everything looked fine on the surface, clean code,...",
       "tags": [
-        "ai",
         "security",
-        "agents",
-        "automation"
+        "node",
+        "javascript",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
       "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
-      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
-      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
-      "published_at": "2026-06-23T22:47:06Z",
-      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
-      "tags": [
-        "githubactions",
-        "gitlabci",
-        "cloudsecurity",
-        "devsecops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
-      "source": "Dev.to",
-      "user": "Keme Kenneth"
+      "user": "Lolo"
     },
     {
       "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
@@ -1617,6 +1648,21 @@
   ],
   "Tools": [
     {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
       "title": "Building a Custom Status Line for Claude Code",
       "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822",
       "published_at": "2026-06-23T13:20:37Z",
@@ -1630,6 +1676,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3uwgyh6qi0q5lp9kxz7w.png",
       "source": "Dev.to",
       "user": "Nicholas Drone"
+    },
+    {
+      "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
+      "url": "https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii",
+      "published_at": "2026-06-24T16:41:10Z",
+      "description": "A Practical AI Council Workflow for Software Architecture and Delivery               One AI...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
+      "source": "Dev.to",
+      "user": "Jenning Ho"
+    },
+    {
+      "title": "How to Get Your First Tool Online",
+      "url": "https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k",
+      "published_at": "2026-06-24T20:58:21Z",
+      "description": "TL;DR - A finished app that only runs on one laptop is a private demo. Getting it online means...",
+      "tags": [
+        "webdev",
+        "ai",
+        "vibecoding",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ptlosqwxlbmttce6sx9.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "cuenv: one typed file for your whole project",
@@ -1704,35 +1780,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
-    },
-    {
-      "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
-      "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
-      "published_at": "2026-06-23T22:47:06Z",
-      "description": "Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...",
-      "tags": [
-        "githubactions",
-        "gitlabci",
-        "cloudsecurity",
-        "devsecops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
-      "source": "Dev.to",
-      "user": "Keme Kenneth"
-    },
-    {
-      "title": "From GET/POST to Full REST: My Recent PacketSender HTTP Verbs PR",
-      "url": "https://dev.to/professortom/from-getpost-to-full-rest-my-recent-packetsender-http-verbs-pr-481g",
-      "published_at": "2026-06-24T00:19:14Z",
-      "description": "PacketSender is an Open Source, low-level networking tool that, until a few days ago, only supported...",
-      "tags": [
-        "cpp",
-        "networking",
-        "http"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cwreknpvnyjm94jmgqr.png",
-      "source": "Dev.to",
-      "user": "Tomas Gallucci"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -1820,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 787,
       "user": "kanavtwtgg"
     },
     {
@@ -1835,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 362,
       "user": "eooce"
     },
     {
@@ -1850,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "goehou"
     },
     {
@@ -1865,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 261,
       "user": "Yu9191"
     },
     {
@@ -1880,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "FFF686868"
     },
     {
@@ -1895,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1029,
       "user": "lyra81604"
     },
     {
@@ -1910,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "sums001"
     },
     {
@@ -1925,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "raiyanyahya"
     },
     {
@@ -1940,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 513,
       "user": "yo-WASSUP"
     },
     {
@@ -1955,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 450,
       "user": "QwenLM"
     },
     {
@@ -2015,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 57,
       "user": "JotaDev66"
     },
     {
