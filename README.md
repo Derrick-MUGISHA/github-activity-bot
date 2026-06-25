@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-26 0:00 CAT)
+## 📅 Latest Updates (2026-06-26 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -131,19 +131,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png" width="200" alt="Winner Announcement Delayed for the Github "Finish-Up-A-Thon" Challenge" />
+    <a href="https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png" width="200" alt="Not Enough SMEs or Customers to Make Your Evals? Make Some!" />
       <br/>
-      <b>Winner Announcement Delayed for the Github "Finish...</b>
+      <b>Not Enough SMEs or Customers to Make Your Evals? M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png" width="200" alt="Not Enough SMEs or Customers to Make Your Evals? Make Some!" />
+    <a href="https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png" width="200" alt="Winner Announcement Delayed for the Github "Finish-Up-A-Thon" Challenge" />
       <br/>
-      <b>Not Enough SMEs or Customers to Make Your Evals? M...</b>
+      <b>Winner Announcement Delayed for the Github "Finish...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,8 +193,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Winner Announcement Delayed for the Github "Finish-Up-A-Thon" Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766) _[Dev.to]_
 - [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc) _[Dev.to]_
+- [Winner Announcement Delayed for the Github "Finish-Up-A-Thon" Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766) _[Dev.to]_
 - [Lite-Harness SDK](https://dev.to/jeancarlosn/lite-harness-sdk-3f28) _[Dev.to]_
 - [The agent-first approach to building products](https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj) _[Dev.to]_
 - [Why I Built nvim-starter — a Neovim Config Beginners Can Actually Understand](https://dev.to/mvzundert/why-i-built-nvim-starter-a-neovim-config-beginners-can-actually-understand-19a5) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k) _[Dev.to]_
 - [Extending a Rust MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc) _[Dev.to]_
 
-_Last automated update: Fri, 26 Jun 2026 00:06:17 CAT_
+_Last automated update: Fri, 26 Jun 2026 01:43:52 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 26 Jun 2026 00:06:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 25 Jun 2026 22:06:18 GMT</b><br/>
+  <b>Last automated update: Thu, 25 Jun 2026 23:43:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
