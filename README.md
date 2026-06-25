@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-25 6:00 CAT)
+## 📅 Latest Updates (2026-06-25 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 - [Building an AI Homelab](https://dev.to/lordmathis/building-an-ai-homelab-330o) _[Dev.to]_
 
-_Last automated update: Thu, 25 Jun 2026 06:32:42 CAT_
+_Last automated update: Thu, 25 Jun 2026 10:03:00 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Thu, 25 Jun 2026 06:32:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 25 Jun 2026 04:32:42 GMT</b><br/>
+  <b>Last automated update: Thu, 25 Jun 2026 08:03:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
