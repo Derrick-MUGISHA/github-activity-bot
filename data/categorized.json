@@ -45,21 +45,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "Extending a Rust MCP/A2A Currency Agent with A2UI",
-      "url": "https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc",
-      "published_at": "2026-06-24T01:34:55Z",
-      "description": "Building an Agent with Rust,A2A, MCP, and A2UI   This tutorial aims to extend and test a...",
-      "tags": [
-        "rust",
-        "antigravitycli",
-        "mcps",
-        "a2ui"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hvnsf295h7jpx4026x2.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Custom Status Line for Claude Code",
       "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822",
       "published_at": "2026-06-23T13:20:37Z",
@@ -102,6 +87,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Extending a Rust MCP/A2A Currency Agent with A2UI",
+      "url": "https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc",
+      "published_at": "2026-06-24T01:34:55Z",
+      "description": "Building an Agent with Rust,A2A, MCP, and A2UI   This tutorial aims to extend and test a...",
+      "tags": [
+        "rust",
+        "antigravitycli",
+        "mcps",
+        "a2ui"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hvnsf295h7jpx4026x2.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query",
@@ -218,19 +218,6 @@
       "user": "Keme Kenneth"
     },
     {
-      "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
-      "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664",
-      "published_at": "2026-06-22T14:21:14Z",
-      "description": "Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....",
-      "tags": [
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsqbcmxecvemvn32uvu8i.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -331,21 +318,6 @@
       "user": "Rapls"
     },
     {
-      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
-      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
-      "published_at": "2026-06-17T22:26:14Z",
-      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
-      "tags": [
-        "opencode",
-        "ai",
-        "vim",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
-      "source": "Dev.to",
-      "user": "Joan Miquel Torres"
-    },
-    {
       "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
       "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
       "published_at": "2026-06-17T18:59:52Z",
@@ -403,6 +375,33 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2jhemhm5h7duh04p0l3.jpg",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Two Qwen3 Models on One DGX Spark: The Residency Math for Local LLM Coding",
+      "url": "https://dev.to/ric03uec/two-qwen3-models-on-one-dgx-spark-the-residency-math-for-local-llm-coding-5bpj",
+      "published_at": "2026-06-16T20:23:10Z",
+      "description": "Two Qwen3 models on one DGX Spark for local LLM coding. The residency math, the gpu_memory_utilization trap, and what to verify first.",
+      "tags": [
+        "localllm",
+        "vllm",
+        "ai",
+        "nvidia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa9pvaimxjb6nxj67t6dq.jpg",
+      "source": "Dev.to",
+      "user": "Devashish"
+    },
+    {
+      "title": "Dystopian Civilization Scenarios",
+      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
+      "published_at": "2026-06-05T14:58:17Z",
+      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
+      "tags": [
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -560,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "eooce"
     },
     {
@@ -575,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 298,
       "user": "goehou"
     },
     {
@@ -590,7 +589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 719,
       "user": "sums001"
     },
     {
@@ -605,7 +604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 516,
       "user": "raiyanyahya"
     },
     {
@@ -620,7 +619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "yo-WASSUP"
     }
   ],
@@ -682,21 +681,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
       "source": "Dev.to",
       "user": "Tsahi Levent-Levi"
-    },
-    {
-      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
-      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
-      "published_at": "2026-06-22T19:54:26Z",
-      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
-      "tags": [
-        "html",
-        "css",
-        "javascript",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
-      "source": "Dev.to",
-      "user": "Helitha Rupasinghe"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -890,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "eooce"
     },
     {
@@ -905,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 298,
       "user": "goehou"
     },
     {
@@ -920,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 253,
       "user": "Yu9191"
     },
     {
@@ -935,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "FFF686868"
     }
   ],
@@ -1102,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1024,
       "user": "lyra81604"
     },
     {
@@ -1117,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 719,
       "user": "sums001"
     },
     {
@@ -1132,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 516,
       "user": "raiyanyahya"
     },
     {
@@ -1147,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "yo-WASSUP"
     },
     {
@@ -1162,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 423,
       "user": "QwenLM"
     }
   ],
@@ -1245,21 +1229,6 @@
       "user": "Gil Barbara"
     },
     {
-      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
-      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
-      "published_at": "2026-06-22T19:54:26Z",
-      "description": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
-      "tags": [
-        "html",
-        "css",
-        "javascript",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj3xk6zy06ejtkmx4axjl.png",
-      "source": "Dev.to",
-      "user": "Helitha Rupasinghe"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1289,6 +1258,18 @@
       "user": "Michał Cichoń"
     },
     {
+      "title": "Dystopian Civilization Scenarios",
+      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422",
+      "published_at": "2026-06-05T14:58:17Z",
+      "description": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
+      "tags": [
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq50t2a6juy61o1m8awdo.png",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
+    },
+    {
       "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
       "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
       "published_at": "2026-06-20T18:47:23Z",
@@ -1300,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "FFF686868"
     }
   ],
@@ -1527,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "eooce"
     }
   ],
@@ -1798,21 +1779,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
-      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj",
-      "published_at": "2026-06-17T22:26:14Z",
-      "description": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
-      "tags": [
-        "opencode",
-        "ai",
-        "vim",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5g6r4hgq06senla9dzi.png",
-      "source": "Dev.to",
-      "user": "Joan Miquel Torres"
-    },
-    {
       "title": "The agent that fixes bugs by running the code",
       "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
       "published_at": "2026-06-08T09:13:08Z",
@@ -1869,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142894633?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "eooce"
     },
     {
@@ -1884,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 298,
       "user": "goehou"
     },
     {
@@ -1899,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 253,
       "user": "Yu9191"
     },
     {
@@ -1914,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "FFF686868"
     },
     {
@@ -1929,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1024,
       "user": "lyra81604"
     },
     {
@@ -1944,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44167398?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 719,
       "user": "sums001"
     },
     {
@@ -1959,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 516,
       "user": "raiyanyahya"
     },
     {
@@ -1974,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "yo-WASSUP"
     },
     {
@@ -1989,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 423,
       "user": "QwenLM"
     },
     {
@@ -2004,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "overflowy"
     },
     {
@@ -2034,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "alvinunreal"
     },
     {
@@ -2049,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 52,
       "user": "JotaDev66"
     },
     {
@@ -2064,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "edaywalid"
     }
   ]

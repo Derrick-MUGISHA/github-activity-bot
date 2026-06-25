@@ -30,9 +30,9 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -42,9 +42,9 @@
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦 3 (2.9%)
+**Mobile**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (1.9%)
+**WebDev**: 🟦 2 (1.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,30 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.3 (28.3%)
-JavaScript      ███████████████████████████ 25.0 (25.0%)
-Java            ███████████████████████ 21.7 (21.7%)
-Python          ████████████████████ 18.5 (18.5%)
-Rust            █████ 4.3 (4.3%)
-Swift           ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 27.8 (27.8%)
+JavaScript      ██████████████████████████ 24.4 (24.4%)
+Java            ███████████████████████ 21.1 (21.1%)
+Python          ████████████████████ 18.9 (18.9%)
+Rust            █████ 4.4 (4.4%)
+Swift           ████ 3.3 (3.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "JavaScript" : 23
-    "Java" : 20
+    "Go" : 25
+    "JavaScript" : 22
+    "Java" : 19
     "Python" : 17
     "Rust" : 4
-    "Swift" : 2
+    "Swift" : 3
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![opensource](https://img.shields.io/badge/opensource-4-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-25 13:00 CAT)
+## 📅 Latest Updates (2026-06-25 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -160,15 +160,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hvnsf295h7jpx4026x2.png" width="200" alt="Extending a Rust MCP/A2A Currency Agent with A2UI" />
-      <br/>
-      <b>Extending a Rust MCP/A2A Currency Agent with A2UI</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxsed8c8qzu65ommykp4m.png" width="200" alt="What it takes to build docs worth reading" />
       <br/>
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png" width="200" alt="12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI" />
+      <br/>
+      <b>12B Gemma 4 Deployment with NVIDIA Blackwell 6000,...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -196,7 +196,6 @@ npm run test
 - [Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train](https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp) _[Dev.to]_
 - [Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale](https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh) _[Dev.to]_
 - [How My AI Agent Hacked Its Own Permissions (And What It Taught Me)](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm) _[Dev.to]_
-- [Extending a Rust MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc) _[Dev.to]_
 - [What it takes to build docs worth reading](https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
@@ -205,6 +204,7 @@ npm run test
 - [Function Names in JS Can't Contain Spaces, Right?](https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7) _[Dev.to]_
 - [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) _[Dev.to]_
 - [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k) _[Dev.to]_
+- [Extending a Rust MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8) _[Dev.to]_
 - [Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query](https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og) _[Dev.to]_
 - [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4) _[Dev.to]_
 - [Building an AI Homelab](https://dev.to/lordmathis/building-an-ai-homelab-330o) _[Dev.to]_
 
-_Last automated update: Thu, 25 Jun 2026 13:07:30 CAT_
+_Last automated update: Thu, 25 Jun 2026 15:25:43 CAT_
 
 
 
@@ -222,29 +222,7 @@ _Last automated update: Thu, 25 Jun 2026 13:07:30 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
-
-**Difficulty**: Hard | **Topics**: arrays, binary search
-
-<details>
-<summary>💡 Hint</summary>
-
-Binary search, partition, time complexity O(log(min(m,n)))
-
-</details>
-
-### 2. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Fan-out, caching, ranking, real-time updates
-
-</details>
-
-### 3. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -252,6 +230,28 @@ Fan-out, caching, ranking, real-time updates
 <summary>💡 Hint</summary>
 
 Event bubbling, single listener for multiple elements
+
+</details>
+
+### 2. Java: What is the difference between abstract class and interface?
+
+**Difficulty**: Easy | **Topics**: OOP, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 3. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 25 Jun 2026 11:07:30 GMT</b><br/>
+  <b>Last automated update: Thu, 25 Jun 2026 13:25:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
