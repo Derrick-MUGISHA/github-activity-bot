@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
       "published_at": "2026-06-24T15:10:00Z",
@@ -58,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnrejul7uha477r1u9bn.png",
       "source": "Dev.to",
       "user": "Ramin Jafary"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
     },
     {
       "title": "Lite-Harness SDK",
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 542,
       "user": "yo-WASSUP"
     },
     {
@@ -652,14 +652,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 290,
       "user": "krea-ai"
     },
     {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "nova452"
     }
   ],
@@ -922,7 +922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 783,
       "user": "kanavtwtgg"
     },
     {
@@ -937,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 399,
       "user": "Yu9191"
     },
     {
@@ -967,7 +967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "byJoey"
     },
     {
@@ -982,8 +982,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "FFF686868"
+    },
+    {
+      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "published_at": "2026-06-23T12:17:48Z",
+      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "nova452"
     },
     {
       "title": "dinosn/leaklens - Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
@@ -1179,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1053,
       "user": "lyra81604"
     },
     {
@@ -1194,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 544,
       "user": "QwenLM"
     },
     {
@@ -1209,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 542,
       "user": "yo-WASSUP"
     },
     {
@@ -1224,14 +1239,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 290,
       "user": "krea-ai"
     },
     {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -1239,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "nova452"
     }
   ],
@@ -1362,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "FFF686868"
     }
   ],
@@ -1668,6 +1683,20 @@
   ],
   "Tools": [
     {
+      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
+      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766",
+      "published_at": "2026-06-25T18:52:00Z",
+      "description": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -1681,20 +1710,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
-    },
-    {
-      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
-      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766",
-      "published_at": "2026-06-25T18:52:00Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Building a Custom Status Line for Claude Code",
@@ -1930,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 783,
       "user": "kanavtwtgg"
     },
     {
@@ -1945,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 399,
       "user": "Yu9191"
     },
     {
@@ -1975,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "byJoey"
     },
     {
@@ -1990,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "FFF686868"
     },
     {
@@ -2005,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1053,
       "user": "lyra81604"
     },
     {
@@ -2020,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 544,
       "user": "QwenLM"
     },
     {
@@ -2035,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 542,
       "user": "yo-WASSUP"
     },
     {
@@ -2050,14 +2065,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 290,
       "user": "krea-ai"
     },
     {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -2065,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "nova452"
     },
     {
@@ -2125,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/865763?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 40,
       "user": "smallnest"
     },
     {
