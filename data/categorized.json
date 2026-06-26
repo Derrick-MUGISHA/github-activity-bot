@@ -45,21 +45,6 @@
       "user": "Ramin Jafary"
     },
     {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
       "title": "Lite-Harness SDK",
       "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
       "published_at": "2026-06-25T12:37:20Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
       "source": "Dev.to",
       "user": "jeann"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
     },
     {
       "title": "The agent-first approach to building products",
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 544,
       "user": "yo-WASSUP"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 299,
       "user": "krea-ai"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "nova452"
     }
   ],
@@ -686,21 +686,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
       "source": "Dev.to",
       "user": "Jon Nyman"
-    },
-    {
-      "title": "The Security Bug Every Node.js Developer Ships to Production",
-      "url": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
-      "published_at": "2026-06-25T09:51:15Z",
-      "description": "Last year I was doing a code review for a startup. Everything looked fine on the surface, clean code,...",
-      "tags": [
-        "security",
-        "node",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
-      "source": "Dev.to",
-      "user": "Lolo"
     },
     {
       "title": "I stopped generating color scales and started shaping them",
@@ -747,6 +732,21 @@
       "user": "Tsahi Levent-Levi"
     },
     {
+      "title": "The Security Bug Every Node.js Developer Ships to Production",
+      "url": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
+      "published_at": "2026-06-25T09:51:15Z",
+      "description": "Last year I was doing a code review for a startup. Everything looked fine on the surface, clean code,...",
+      "tags": [
+        "security",
+        "node",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
+      "source": "Dev.to",
+      "user": "Lolo"
+    },
+    {
       "title": "Function Names in JS Can't Contain Spaces, Right?",
       "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
       "published_at": "2026-06-24T11:28:13Z",
@@ -789,6 +789,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
       "user": "Dmitry Sheiko"
+    },
+    {
+      "title": "Stop reaching for microservices. You are not Netflix",
+      "url": "https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8",
+      "published_at": "2026-06-17T12:24:01Z",
+      "description": "A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.",
+      "tags": [
+        "productivity",
+        "microservices",
+        "community",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
+      "source": "Dev.to",
+      "user": "Diogo Capela"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -937,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 414,
       "user": "Yu9191"
     },
     {
@@ -967,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "byJoey"
     },
     {
@@ -982,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "FFF686868"
     },
     {
@@ -997,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "nova452"
     },
     {
@@ -1194,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1055,
       "user": "lyra81604"
     },
     {
@@ -1209,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 549,
       "user": "QwenLM"
     },
     {
@@ -1224,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 544,
       "user": "yo-WASSUP"
     },
     {
@@ -1239,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 299,
       "user": "krea-ai"
     },
     {
@@ -1254,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "nova452"
     }
   ],
@@ -1377,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "FFF686868"
     }
   ],
@@ -1934,6 +1949,21 @@
       "user": "shrey "
     },
     {
+      "title": "Stop reaching for microservices. You are not Netflix",
+      "url": "https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8",
+      "published_at": "2026-06-17T12:24:01Z",
+      "description": "A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.",
+      "tags": [
+        "productivity",
+        "microservices",
+        "community",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
+      "source": "Dev.to",
+      "user": "Diogo Capela"
+    },
+    {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
       "url": "https://github.com/kanavtwtgg/birds.cafe",
       "published_at": "2026-06-21T13:57:28Z",
@@ -1960,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 414,
       "user": "Yu9191"
     },
     {
@@ -1990,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "byJoey"
     },
     {
@@ -2005,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "FFF686868"
     },
     {
@@ -2020,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1055,
       "user": "lyra81604"
     },
     {
@@ -2035,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 549,
       "user": "QwenLM"
     },
     {
@@ -2050,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 544,
       "user": "yo-WASSUP"
     },
     {
@@ -2065,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 299,
       "user": "krea-ai"
     },
     {
@@ -2080,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "nova452"
     },
     {
@@ -2095,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "overflowy"
     },
     {
@@ -2125,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 66,
       "user": "JotaDev66"
     },
     {
