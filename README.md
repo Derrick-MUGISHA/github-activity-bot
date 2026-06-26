@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-25-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-26-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (30.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.6%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.9%)
 
-**DevOps**: 🟦 3 (2.9%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
 **WebDev**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 3 (2.9%)
-
 **Database**: 🟦 2 (1.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,30 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 24.7 (24.7%)
-Go              ██████████████████████████████ 24.7 (24.7%)
-Java            ███████████████████████████ 22.5 (22.5%)
-Python          █████████████████████████ 20.2 (20.2%)
-Rust            █████ 4.5 (4.5%)
-Swift           ████ 3.4 (3.4%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Go              ██████████████████████████████ 25.8 (25.8%)
+Java            ████████████████████████████ 23.7 (23.7%)
+Python          ███████████████████████ 19.4 (19.4%)
+Rust            █████ 4.3 (4.3%)
+Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
-    "Go" : 22
-    "Java" : 20
+    "JavaScript" : 24
+    "Go" : 24
+    "Java" : 22
     "Python" : 18
     "Rust" : 4
-    "Swift" : 3
+    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![mcps](https://img.shields.io/badge/mcps-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-4-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![gemma4](https://img.shields.io/badge/gemma4-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-26 1:00 CAT)
+## 📅 Latest Updates (2026-06-26 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k) _[Dev.to]_
 - [Extending a Rust MCP/A2A Currency Agent with A2UI](https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc) _[Dev.to]_
 
-_Last automated update: Fri, 26 Jun 2026 01:43:52 CAT_
+_Last automated update: Fri, 26 Jun 2026 03:52:47 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 26 Jun 2026 01:43:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 25 Jun 2026 23:43:52 GMT</b><br/>
+  <b>Last automated update: Fri, 26 Jun 2026 01:52:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
