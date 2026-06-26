@@ -16,21 +16,6 @@
       "user": "Kate Pond"
     },
     {
-      "title": "Lite-Harness SDK",
-      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
-      "published_at": "2026-06-25T12:37:20Z",
-      "description": "Unified API to swap AI coding harnesses like Claude Code and Codex",
-      "tags": [
-        "ai",
-        "litellm",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
-      "source": "Dev.to",
-      "user": "jeann"
-    },
-    {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
       "published_at": "2026-06-24T15:10:00Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnrejul7uha477r1u9bn.png",
       "source": "Dev.to",
       "user": "Ramin Jafary"
+    },
+    {
+      "title": "Lite-Harness SDK",
+      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
+      "published_at": "2026-06-25T12:37:20Z",
+      "description": "Unified API to swap AI coding harnesses like Claude Code and Codex",
+      "tags": [
+        "ai",
+        "litellm",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
+      "source": "Dev.to",
+      "user": "jeann"
     },
     {
       "title": "The agent-first approach to building products",
@@ -333,21 +333,6 @@
       "user": "Samir Yahyazade"
     },
     {
-      "title": "Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber",
-      "url": "https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3",
-      "published_at": "2026-06-21T20:40:36Z",
-      "description": "My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fx-tahosin.github.io%2FSolstice-Runner%2Fcover_image.jpg",
-      "source": "Dev.to",
-      "user": "S M Tahosin"
-    },
-    {
       "title": "Understanding DNS",
       "url": "https://dev.to/gde/understanding-dns-2a3j",
       "published_at": "2026-06-16T02:28:20Z",
@@ -465,6 +450,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdobwvjec7q86sha8sod.png",
       "source": "Dev.to",
       "user": "Aditya Kumar"
+    },
+    {
+      "title": "The agent that fixes bugs by running the code",
+      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
+      "published_at": "2026-06-08T09:13:08Z",
+      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
+      "tags": [
+        "ai",
+        "agents",
+        "debugging",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
+      "source": "Dev.to",
+      "user": "shrey "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -622,7 +622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "goehou"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 534,
       "user": "yo-WASSUP"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 284,
       "user": "krea-ai"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "nova452"
     }
   ],
@@ -789,21 +789,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
       "user": "Dmitry Sheiko"
-    },
-    {
-      "title": "Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber",
-      "url": "https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3",
-      "published_at": "2026-06-21T20:40:36Z",
-      "description": "My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.",
-      "tags": [
-        "devchallenge",
-        "gamechallenge",
-        "gamedev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fx-tahosin.github.io%2FSolstice-Runner%2Fcover_image.jpg",
-      "source": "Dev.to",
-      "user": "S M Tahosin"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -937,7 +922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 784,
       "user": "kanavtwtgg"
     },
     {
@@ -952,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 387,
       "user": "Yu9191"
     },
     {
@@ -967,8 +952,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "goehou"
+    },
+    {
+      "title": "byJoey/cfnew-deployer - GitHub Repository",
+      "url": "https://github.com/byJoey/cfnew-deployer",
+      "published_at": "2026-06-22T11:13:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "byJoey"
     },
     {
       "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
@@ -984,21 +984,6 @@
       "source": "GitHub",
       "stars": 188,
       "user": "FFF686868"
-    },
-    {
-      "title": "byJoey/cfnew-deployer - GitHub Repository",
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "published_at": "2026-06-22T11:13:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 176,
-      "user": "byJoey"
     },
     {
       "title": "dinosn/leaklens - Web-aware secrets scanner for code, Git history, URLs, and JavaScript-heavy applications, with crawling and JS intelligence built in.",
@@ -1194,23 +1179,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1052,
       "user": "lyra81604"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "yo-WASSUP"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -1224,8 +1194,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 535,
       "user": "QwenLM"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 534,
+      "user": "yo-WASSUP"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -1239,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 284,
       "user": "krea-ai"
     },
     {
@@ -1254,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "nova452"
     }
   ],
@@ -1919,6 +1904,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "The agent that fixes bugs by running the code",
+      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
+      "published_at": "2026-06-08T09:13:08Z",
+      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
+      "tags": [
+        "ai",
+        "agents",
+        "debugging",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
+      "source": "Dev.to",
+      "user": "shrey "
+    },
+    {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
       "url": "https://github.com/kanavtwtgg/birds.cafe",
       "published_at": "2026-06-21T13:57:28Z",
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 784,
       "user": "kanavtwtgg"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 387,
       "user": "Yu9191"
     },
     {
@@ -1960,8 +1960,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "goehou"
+    },
+    {
+      "title": "byJoey/cfnew-deployer - GitHub Repository",
+      "url": "https://github.com/byJoey/cfnew-deployer",
+      "published_at": "2026-06-22T11:13:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "byJoey"
     },
     {
       "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
@@ -1979,21 +1994,6 @@
       "user": "FFF686868"
     },
     {
-      "title": "byJoey/cfnew-deployer - GitHub Repository",
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "published_at": "2026-06-22T11:13:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 176,
-      "user": "byJoey"
-    },
-    {
       "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "url": "https://github.com/lyra81604/zhengxi-views",
       "published_at": "2026-06-20T04:27:07Z",
@@ -2005,23 +2005,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1052,
       "user": "lyra81604"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "yo-WASSUP"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -2035,8 +2020,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 535,
       "user": "QwenLM"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "published_at": "2026-06-20T10:16:22Z",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "source": "GitHub",
+      "stars": 534,
+      "user": "yo-WASSUP"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -2050,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 284,
       "user": "krea-ai"
     },
     {
@@ -2065,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 250,
       "user": "nova452"
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "overflowy"
     },
     {
@@ -2125,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/865763?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 38,
       "user": "smallnest"
     },
     {
