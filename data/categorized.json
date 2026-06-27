@@ -338,6 +338,21 @@
       "user": "Ahmad Ra'fat"
     },
     {
+      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
+      "published_at": "2026-06-25T19:35:36Z",
+      "description": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
+      "tags": [
+        "ai",
+        "claude",
+        "cli",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png",
+      "source": "Dev.to",
+      "user": "Karthick"
+    },
+    {
       "title": "How I built mechanical enforcement for AI coding agents — and why prompts aren't enough",
       "url": "https://dev.to/juandelossantos/how-i-built-mechanical-enforcement-for-ai-coding-agents-and-why-prompts-arent-enough-13bg",
       "published_at": "2026-06-25T17:30:44Z",
@@ -481,6 +496,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
       "source": "Dev.to",
       "user": "Alexander Tyutin"
+    },
+    {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -638,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 360,
       "user": "goehou"
     },
     {
@@ -653,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 1013,
       "user": "deepseek-ai"
     },
     {
@@ -683,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 311,
       "user": "Pluviobyte"
     },
     {
@@ -732,21 +762,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
       "source": "Dev.to",
       "user": "Martin Stark"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
-      "published_at": "2026-06-23T13:53:17Z",
-      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "css",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
-      "source": "Dev.to",
-      "user": "Gil Barbara"
     },
     {
       "title": "Multi-Tenancy Is the Real Agent Platform Problem",
@@ -969,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 617,
       "user": "Yu9191"
     },
     {
@@ -984,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 360,
       "user": "goehou"
     },
     {
@@ -999,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 352,
       "user": "playPlumtown"
     },
     {
@@ -1014,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "byJoey"
     }
   ],
@@ -1211,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 1013,
       "user": "deepseek-ai"
     },
     {
@@ -1226,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 708,
       "user": "bikini"
     },
     {
@@ -1241,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "QwenLM"
     },
     {
@@ -1271,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 311,
       "user": "Pluviobyte"
     }
   ],
@@ -1397,21 +1412,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
       "source": "Dev.to",
       "user": "Jon Nyman"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
-      "published_at": "2026-06-23T13:53:17Z",
-      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "css",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
-      "source": "Dev.to",
-      "user": "Gil Barbara"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1863,19 +1863,19 @@
       "user": "Matúš Námešný"
     },
     {
-      "title": "I stopped generating color scales and started shaping them",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
-      "published_at": "2026-06-23T13:53:17Z",
-      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
+      "published_at": "2026-06-25T19:35:36Z",
+      "description": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
       "tags": [
-        "javascript",
-        "webdev",
-        "css",
+        "ai",
+        "claude",
+        "cli",
         "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png",
       "source": "Dev.to",
-      "user": "Gil Barbara"
+      "user": "Karthick"
     },
     {
       "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
@@ -1995,6 +1995,21 @@
       "user": "Nguyen Hai Truong"
     },
     {
+      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
+      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
+      "published_at": "2026-06-12T06:09:40Z",
+      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
       "url": "https://github.com/kanavtwtgg/birds.cafe",
       "published_at": "2026-06-21T13:57:28Z",
@@ -2021,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 617,
       "user": "Yu9191"
     },
     {
@@ -2036,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 360,
       "user": "goehou"
     },
     {
@@ -2051,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 352,
       "user": "playPlumtown"
     },
     {
@@ -2066,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "byJoey"
     },
     {
@@ -2081,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 1013,
       "user": "deepseek-ai"
     },
     {
@@ -2096,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 708,
       "user": "bikini"
     },
     {
@@ -2111,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "QwenLM"
     },
     {
@@ -2141,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 311,
       "user": "Pluviobyte"
     },
     {
@@ -2156,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 198,
       "user": "ivorpad"
     },
     {
@@ -2171,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "JotaDev66"
     },
     {
@@ -2216,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 41,
       "user": "bandoracer"
     }
   ]

@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-27-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦 3 (2.9%)
+**WebDev**: 🟦 2 (1.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,19 +58,19 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.4 (26.4%)
-JavaScript      █████████████████████████████ 25.3 (25.3%)
-Java            ██████████████████████████ 23.1 (23.1%)
-Python          ████████████████████████ 20.9 (20.9%)
+Go              ██████████████████████████████ 27.8 (27.8%)
+JavaScript      ██████████████████████████ 24.4 (24.4%)
+Java            ████████████████████████ 22.2 (22.2%)
+Python          ███████████████████████ 21.1 (21.1%)
 Rust            █████ 4.4 (4.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 24
-    "JavaScript" : 23
-    "Java" : 21
+    "Go" : 25
+    "JavaScript" : 22
+    "Java" : 20
     "Python" : 19
     "Rust" : 4
 ```
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-27 17:00 CAT)
+## 📅 Latest Updates (2026-06-27 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) _[Dev.to]_
 - [A Developer's Guide to Agent Hooks in Antigravity CLI](https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no) _[Dev.to]_
 
-_Last automated update: Sat, 27 Jun 2026 17:47:58 CAT_
+_Last automated update: Sat, 27 Jun 2026 19:05:40 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sat, 27 Jun 2026 17:47:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 27 Jun 2026 15:47:58 GMT</b><br/>
+  <b>Last automated update: Sat, 27 Jun 2026 17:05:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
