@@ -1,6 +1,51 @@
 {
   "AI": [
     {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "tags": [
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
+    },
+    {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+      "published_at": "2026-06-26T16:50:58Z",
+      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "tags": [
+        "ai",
+        "devops",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
       "published_at": "2026-06-24T15:10:00Z",
@@ -30,6 +75,20 @@
       "user": "Jon Nyman"
     },
     {
+      "title": "I built a CLI to break my highlights out of Apple Books",
+      "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn",
+      "published_at": "2026-06-26T08:11:51Z",
+      "description": "A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your reading notes.",
+      "tags": [
+        "showdev",
+        "opensource",
+        "macos"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkqiodnqdvclmi7iyygm4.png",
+      "source": "Dev.to",
+      "user": "Andrey Korchak"
+    },
+    {
       "title": "The Rise of Agentic Engineering — Part 1: The Prompt Engineering Era",
       "url": "https://dev.to/raminjafary/the-rise-of-agentic-engineering-part-1-the-prompt-engineering-era-4cb4",
       "published_at": "2026-06-25T06:47:53Z",
@@ -43,6 +102,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnrejul7uha477r1u9bn.png",
       "source": "Dev.to",
       "user": "Ramin Jafary"
+    },
+    {
+      "title": "Tactical vs. Strategic Agentic AI Development — A Playbook for Developers",
+      "url": "https://dev.to/gde/tactical-vs-strategic-agentic-ai-development-a-playbook-for-developers-1654",
+      "published_at": "2026-06-26T05:41:10Z",
+      "description": "The Strategic Engineer: Why Writing Code Is No Longer Your Most Valuable Skill           ...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn3vu1x6ioxwysc6po3n9.png",
+      "source": "Dev.to",
+      "user": "Adewumi Saheed Adewale"
+    },
+    {
+      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
+      "published_at": "2026-06-25T19:35:36Z",
+      "description": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
+      "tags": [
+        "ai",
+        "claude",
+        "cli",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png",
+      "source": "Dev.to",
+      "user": "Karthick"
     },
     {
       "title": "Lite-Harness SDK",
@@ -135,6 +224,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
+      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
+      "published_at": "2026-06-26T07:03:01Z",
+      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "howto"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -178,6 +282,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
       "source": "Dev.to",
       "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "Minimalist EKS: The Easy Way",
+      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
+      "published_at": "2026-06-26T19:56:54Z",
+      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
+      "source": "Dev.to",
+      "user": "Joaquin Menchaca"
     },
     {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
@@ -232,6 +351,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "How I built mechanical enforcement for AI coding agents — and why prompts aren't enough",
+      "url": "https://dev.to/juandelossantos/how-i-built-mechanical-enforcement-for-ai-coding-agents-and-why-prompts-arent-enough-13bg",
+      "published_at": "2026-06-25T17:30:44Z",
+      "description": "I spent months watching AI coding agents produce impressive demos that couldn't survive...",
+      "tags": [
+        "opensource",
+        "ai",
+        "productivity",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fic6jvkagbyk11y3km89k.png",
+      "source": "Dev.to",
+      "user": "David Emilio Sierra Puentes"
     },
     {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
@@ -318,6 +452,21 @@
       "user": "Samir Yahyazade"
     },
     {
+      "title": "Why stop gaming saved my tokens: Building my own local AI Lab",
+      "url": "https://dev.to/wizsebastian/why-stop-gaming-saved-my-tokens-building-my-own-local-ai-lab-4i06",
+      "published_at": "2026-06-25T03:29:02Z",
+      "description": "About a year ago, I turned my gaming PC into a local AI Lab. And yes, the most important word in that...",
+      "tags": [
+        "ai",
+        "opensource",
+        "productivity",
+        "gpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3s0mu2fp8sfdnlf9tuht.png",
+      "source": "Dev.to",
+      "user": "WizSebastian"
+    },
+    {
       "title": "Understanding DNS",
       "url": "https://dev.to/gde/understanding-dns-2a3j",
       "published_at": "2026-06-16T02:28:20Z",
@@ -333,123 +482,19 @@
       "user": "Gbemisola Esho"
     },
     {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "title": "gke-scout, your AI On-Call SRE for Google Kubernetes Engine",
+      "url": "https://dev.to/gde/gke-scout-your-ai-on-call-sre-for-google-kubernetes-engine-3oco",
+      "published_at": "2026-06-25T08:41:24Z",
+      "description": "I built gke-scout, a CLI tool that acts as an AI on-call SRE for GKE. Point it at a broken workload,...",
       "tags": [
-        "ai",
+        "agenticarchitect",
+        "gde",
         "gemini",
-        "productivity",
-        "softwaredevelopment"
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "[Hands-on Gemini 3.5 Live",
-      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
-      "published_at": "2026-06-12T06:09:59Z",
-      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
-      "published_at": "2026-06-23T17:09:18Z",
-      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
-      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
-      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb",
-      "published_at": "2026-06-19T00:18:39Z",
-      "description": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
-      "tags": [
-        "midsommar",
-        "devchallenge",
-        "gamechallenge",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
-      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
-      "published_at": "2026-06-09T12:16:25Z",
-      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
-      "tags": [
-        "agentsasanapi",
-        "managedagent",
-        "gemini",
-        "managedagentsapi"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
-    },
-    {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
-      "published_at": "2026-06-22T22:47:18Z",
-      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "tags": [
-        "wordpress",
-        "security",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
-      "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
-      "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25",
-      "published_at": "2026-06-17T18:59:52Z",
-      "description": "Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...",
-      "tags": [
-        "ai",
-        "rag",
-        "buildingrag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdobwvjec7q86sha8sod.png",
-      "source": "Dev.to",
-      "user": "Aditya Kumar"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
+      "user": "Nguyen Hai Truong"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -607,23 +652,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "goehou"
     },
     {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
+      "title": "Johell1NS/browser-search - A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "published_at": "2026-06-22T13:43:13Z",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78345296?v=4",
       "source": "GitHub",
-      "stars": 548,
-      "user": "yo-WASSUP"
+      "stars": 178,
+      "user": "Johell1NS"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -654,9 +699,69 @@
       "source": "GitHub",
       "stars": 263,
       "user": "nova452"
+    },
+    {
+      "title": "trotsky1997/OpenFugu - Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "published_at": "2026-06-22T11:37:21Z",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30512160?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "trotsky1997"
+    },
+    {
+      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "url": "https://github.com/aidansteele/microvm-fun",
+      "published_at": "2026-06-24T11:28:06Z",
+      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "aidansteele"
+    },
+    {
+      "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "url": "https://github.com/lxcshine/nexusbox",
+      "published_at": "2026-06-24T06:58:39Z",
+      "description": "Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
+      "source": "GitHub",
+      "stars": 29,
+      "user": "lxcshine"
     }
   ],
   "JavaScript": [
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
+    },
     {
       "title": "_action: Declarative Event Handlers in an Attribute",
       "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
@@ -774,21 +879,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png",
       "source": "Dev.to",
       "user": "Dmitry Sheiko"
-    },
-    {
-      "title": "Stop reaching for microservices. You are not Netflix",
-      "url": "https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8",
-      "published_at": "2026-06-17T12:24:01Z",
-      "description": "A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.",
-      "tags": [
-        "productivity",
-        "microservices",
-        "community",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
-      "source": "Dev.to",
-      "user": "Diogo Capela"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -937,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 450,
       "user": "Yu9191"
     },
     {
@@ -952,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "goehou"
     },
     {
@@ -967,23 +1057,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "byJoey"
     },
     {
-      "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
-      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
-      "published_at": "2026-06-20T18:47:23Z",
-      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "title": "Johell1NS/browser-search - A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "published_at": "2026-06-22T13:43:13Z",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78345296?v=4",
       "source": "GitHub",
-      "stars": 195,
-      "user": "FFF686868"
+      "stars": 178,
+      "user": "Johell1NS"
     },
     {
       "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
@@ -1002,6 +1092,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "tags": [
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
+    },
     {
       "title": "Lite-Harness SDK",
       "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
@@ -1168,21 +1273,6 @@
       "user": "arathore"
     },
     {
-      "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "url": "https://github.com/lyra81604/zhengxi-views",
-      "published_at": "2026-06-20T04:27:07Z",
-      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
-      "source": "GitHub",
-      "stars": 1059,
-      "user": "lyra81604"
-    },
-    {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
       "url": "https://github.com/QwenLM/Qwen-AgentWorld",
       "published_at": "2026-06-22T13:48:37Z",
@@ -1194,23 +1284,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "QwenLM"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 548,
-      "user": "yo-WASSUP"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -1241,9 +1316,54 @@
       "source": "GitHub",
       "stars": 263,
       "user": "nova452"
+    },
+    {
+      "title": "trotsky1997/OpenFugu - Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "published_at": "2026-06-22T11:37:21Z",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30512160?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "trotsky1997"
+    },
+    {
+      "title": "dama-cyber/Casting-Workflow - GitHub Repository",
+      "url": "https://github.com/dama-cyber/Casting-Workflow",
+      "published_at": "2026-06-23T08:26:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/197873270?v=4",
+      "source": "GitHub",
+      "stars": 215,
+      "user": "dama-cyber"
     }
   ],
   "DevOps": [
+    {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+      "published_at": "2026-06-26T16:50:58Z",
+      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "tags": [
+        "ai",
+        "devops",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
     {
       "title": "cuenv: one typed file for your whole project",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
@@ -1275,6 +1395,21 @@
       "user": "bredmond1019"
     },
     {
+      "title": "Minimalist EKS: The Easy Way",
+      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
+      "published_at": "2026-06-26T19:56:54Z",
+      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
+      "source": "Dev.to",
+      "user": "Joaquin Menchaca"
+    },
+    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1303,6 +1438,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbg1e6p7tjg2zgfvpp3vs.png",
       "source": "Dev.to",
       "user": "Jesus Gilbert"
+    },
+    {
+      "title": "gke-scout, your AI On-Call SRE for Google Kubernetes Engine",
+      "url": "https://dev.to/gde/gke-scout-your-ai-on-call-sre-for-google-kubernetes-engine-3oco",
+      "published_at": "2026-06-25T08:41:24Z",
+      "description": "I built gke-scout, a CLI tool that acts as an AI on-call SRE for GKE. Point it at a broken workload,...",
+      "tags": [
+        "agenticarchitect",
+        "gde",
+        "gemini",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
+      "source": "Dev.to",
+      "user": "Nguyen Hai Truong"
+    },
+    {
+      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "url": "https://github.com/aidansteele/microvm-fun",
+      "published_at": "2026-06-24T11:28:06Z",
+      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "aidansteele"
     }
   ],
   "WebDev": [
@@ -1349,24 +1514,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
-      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
-      "published_at": "2026-06-20T18:47:23Z",
-      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
-      "source": "GitHub",
-      "stars": 195,
-      "user": "FFF686868"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
+    {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+      "published_at": "2026-06-26T16:50:58Z",
+      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "tags": [
+        "ai",
+        "devops",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
@@ -1411,6 +1575,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Minimalist EKS: The Easy Way",
+      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
+      "published_at": "2026-06-26T19:56:54Z",
+      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
+      "source": "Dev.to",
+      "user": "Joaquin Menchaca"
     },
     {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
@@ -1548,19 +1727,19 @@
       "user": "xbill"
     },
     {
-      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg",
-      "published_at": "2026-06-10T01:05:21Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "url": "https://github.com/aidansteele/microvm-fun",
+      "published_at": "2026-06-24T11:28:06Z",
+      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
       "tags": [
-        "mcps",
-        "nvidial4",
-        "gemma12b",
-        "googlecloudrun"
+        "go",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
+      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "aidansteele"
     }
   ],
   "Database": [
@@ -1624,36 +1803,6 @@
       "user": "Keme Kenneth"
     },
     {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
-      "published_at": "2026-06-23T17:09:18Z",
-      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na",
-      "published_at": "2026-06-22T22:47:18Z",
-      "description": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "tags": [
-        "wordpress",
-        "security",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2e0bx67zxfi77ncygmdm.png",
-      "source": "Dev.to",
-      "user": "Rapls"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1668,18 +1817,34 @@
   ],
   "Tools": [
     {
-      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
-      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766",
-      "published_at": "2026-06-25T18:52:00Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot"
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
       "source": "Dev.to",
-      "user": "dev.to staff"
+      "user": "Lizzie Siegle"
+    },
+    {
+      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
+      "published_at": "2026-06-25T19:35:36Z",
+      "description": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
+      "tags": [
+        "ai",
+        "claude",
+        "cli",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png",
+      "source": "Dev.to",
+      "user": "Karthick"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -1816,6 +1981,35 @@
       "user": "Gil Barbara"
     },
     {
+      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
+      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766",
+      "published_at": "2026-06-25T18:52:00Z",
+      "description": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
+      "title": "How I built mechanical enforcement for AI coding agents — and why prompts aren't enough",
+      "url": "https://dev.to/juandelossantos/how-i-built-mechanical-enforcement-for-ai-coding-agents-and-why-prompts-arent-enough-13bg",
+      "published_at": "2026-06-25T17:30:44Z",
+      "description": "I spent months watching AI coding agents produce impressive demos that couldn't survive...",
+      "tags": [
+        "opensource",
+        "ai",
+        "productivity",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fic6jvkagbyk11y3km89k.png",
+      "source": "Dev.to",
+      "user": "David Emilio Sierra Puentes"
+    },
+    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1874,49 +2068,34 @@
       "user": "Rickard Andersson"
     },
     {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
+      "title": "Why stop gaming saved my tokens: Building my own local AI Lab",
+      "url": "https://dev.to/wizsebastian/why-stop-gaming-saved-my-tokens-building-my-own-local-ai-lab-4i06",
+      "published_at": "2026-06-25T03:29:02Z",
+      "description": "About a year ago, I turned my gaming PC into a local AI Lab. And yes, the most important word in that...",
       "tags": [
         "ai",
+        "opensource",
+        "productivity",
+        "gpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3s0mu2fp8sfdnlf9tuht.png",
+      "source": "Dev.to",
+      "user": "WizSebastian"
+    },
+    {
+      "title": "gke-scout, your AI On-Call SRE for Google Kubernetes Engine",
+      "url": "https://dev.to/gde/gke-scout-your-ai-on-call-sre-for-google-kubernetes-engine-3oco",
+      "published_at": "2026-06-25T08:41:24Z",
+      "description": "I built gke-scout, a CLI tool that acts as an AI on-call SRE for GKE. Point it at a broken workload,...",
+      "tags": [
+        "agenticarchitect",
+        "gde",
         "gemini",
-        "productivity",
-        "softwaredevelopment"
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg",
-      "published_at": "2026-06-08T09:13:08Z",
-      "description": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that turns confident guesses into actual fixes.",
-      "tags": [
-        "ai",
-        "agents",
-        "debugging",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd68fb2f-aa7c-47f5-81db-9e9bb1f51256_1456x816.jpeg",
-      "source": "Dev.to",
-      "user": "shrey "
-    },
-    {
-      "title": "Stop reaching for microservices. You are not Netflix",
-      "url": "https://dev.to/diogocapela/stop-reaching-for-microservices-you-are-not-netflix-1af8",
-      "published_at": "2026-06-17T12:24:01Z",
-      "description": "A few years ago, I watched a three-person team spend three months migrating a working Node.js monolith into several microservices. They had around 400 monthly active users. By the end of it, deployments took longer, debugging had become an archaeological dig across log aggregators, and shipping a feature that used to take an afternoon now took a week of cross-service coordination.",
-      "tags": [
-        "productivity",
-        "microservices",
-        "community",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag8p6ho3gfodgxhln9xw.png",
-      "source": "Dev.to",
-      "user": "Diogo Capela"
+      "user": "Nguyen Hai Truong"
     },
     {
       "title": "kanavtwtgg/birds.cafe - GitHub Repository",
@@ -1945,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 450,
       "user": "Yu9191"
     },
     {
@@ -1960,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "goehou"
     },
     {
@@ -1975,38 +2154,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "byJoey"
     },
     {
-      "title": "FFF686868/proxypin-wloc-spoofer - ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
-      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
-      "published_at": "2026-06-20T18:47:23Z",
-      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "title": "Johell1NS/browser-search - A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "published_at": "2026-06-22T13:43:13Z",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294673181?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78345296?v=4",
       "source": "GitHub",
-      "stars": 195,
-      "user": "FFF686868"
-    },
-    {
-      "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "url": "https://github.com/lyra81604/zhengxi-views",
-      "published_at": "2026-06-20T04:27:07Z",
-      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235843849?v=4",
-      "source": "GitHub",
-      "stars": 1059,
-      "user": "lyra81604"
+      "stars": 178,
+      "user": "Johell1NS"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -2020,23 +2184,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "QwenLM"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "published_at": "2026-06-20T10:16:22Z",
-      "description": "🏸  AI Badminton Hawk-Eye System",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52742733?v=4",
-      "source": "GitHub",
-      "stars": 548,
-      "user": "yo-WASSUP"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -2069,34 +2218,34 @@
       "user": "nova452"
     },
     {
-      "title": "overflowy/make-look-scanned - Makes PDFs look scanned (CLI or in the browser via WASM)",
-      "url": "https://github.com/overflowy/make-look-scanned",
-      "published_at": "2026-06-20T17:39:59Z",
-      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "title": "trotsky1997/OpenFugu - Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "published_at": "2026-06-22T11:37:21Z",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98480250?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30512160?v=4",
       "source": "GitHub",
-      "stars": 424,
-      "user": "overflowy"
+      "stars": 251,
+      "user": "trotsky1997"
     },
     {
-      "title": "ZHChen2000/qzone-history - QQ空间历史数据恢复工具：Qzone-History",
-      "url": "https://github.com/ZHChen2000/qzone-history",
-      "published_at": "2026-06-20T15:50:36Z",
-      "description": "QQ空间历史数据恢复工具：Qzone-History",
+      "title": "dama-cyber/Casting-Workflow - GitHub Repository",
+      "url": "https://github.com/dama-cyber/Casting-Workflow",
+      "published_at": "2026-06-23T08:26:29Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104050742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/197873270?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "ZHChen2000"
+      "stars": 215,
+      "user": "dama-cyber"
     },
     {
       "title": "JotaDev66/WaCalls - GitHub Repository",
@@ -2110,7 +2259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "JotaDev66"
     },
     {
@@ -2125,7 +2274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 74,
       "user": "ivorpad"
     },
     {
@@ -2142,6 +2291,36 @@
       "source": "GitHub",
       "stars": 41,
       "user": "smallnest"
+    },
+    {
+      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "url": "https://github.com/aidansteele/microvm-fun",
+      "published_at": "2026-06-24T11:28:06Z",
+      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "aidansteele"
+    },
+    {
+      "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "url": "https://github.com/lxcshine/nexusbox",
+      "published_at": "2026-06-24T06:58:39Z",
+      "description": "Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
+      "source": "GitHub",
+      "stars": 29,
+      "user": "lxcshine"
     }
   ]
 }
