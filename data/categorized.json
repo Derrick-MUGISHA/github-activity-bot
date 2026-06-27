@@ -194,21 +194,6 @@
       "user": "Jenning Ho"
     },
     {
-      "title": "How to Get Your First Tool Online",
-      "url": "https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k",
-      "published_at": "2026-06-24T20:58:21Z",
-      "description": "TL;DR - A finished app that only runs on one laptop is a private demo. Getting it online means...",
-      "tags": [
-        "webdev",
-        "ai",
-        "vibecoding",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ptlosqwxlbmttce6sx9.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
       "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
       "published_at": "2026-06-26T07:03:01Z",
@@ -668,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "goehou"
     },
     {
@@ -683,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1083,
       "user": "deepseek-ai"
     },
     {
@@ -698,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "krea-ai"
     },
     {
@@ -713,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "Pluviobyte"
     },
     {
@@ -762,6 +747,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
       "source": "Dev.to",
       "user": "Martin Stark"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
     },
     {
       "title": "Multi-Tenancy Is the Real Agent Platform Problem",
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 621,
       "user": "Yu9191"
     },
     {
@@ -999,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "goehou"
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "playPlumtown"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "byJoey"
     }
   ],
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1083,
       "user": "deepseek-ai"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 794,
       "user": "bikini"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 587,
       "user": "QwenLM"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "krea-ai"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "Pluviobyte"
     }
   ],
@@ -1412,6 +1412,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
       "source": "Dev.to",
       "user": "Jon Nyman"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1789,21 +1804,6 @@
       "user": "Jenning Ho"
     },
     {
-      "title": "How to Get Your First Tool Online",
-      "url": "https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k",
-      "published_at": "2026-06-24T20:58:21Z",
-      "description": "TL;DR - A finished app that only runs on one laptop is a private demo. Getting it online means...",
-      "tags": [
-        "webdev",
-        "ai",
-        "vibecoding",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ptlosqwxlbmttce6sx9.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "cuenv: one typed file for your whole project",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
       "published_at": "2026-06-23T14:45:27Z",
@@ -1861,6 +1861,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcdb9vdt3ecguwmz1wwnc.png",
       "source": "Dev.to",
       "user": "Matúš Námešný"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
     },
     {
       "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
@@ -2036,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 621,
       "user": "Yu9191"
     },
     {
@@ -2051,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "goehou"
     },
     {
@@ -2066,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "playPlumtown"
     },
     {
@@ -2081,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "byJoey"
     },
     {
@@ -2096,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1083,
       "user": "deepseek-ai"
     },
     {
@@ -2111,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 794,
       "user": "bikini"
     },
     {
@@ -2126,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 587,
       "user": "QwenLM"
     },
     {
@@ -2141,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "krea-ai"
     },
     {
@@ -2156,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "Pluviobyte"
     },
     {
@@ -2171,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 203,
       "user": "ivorpad"
     },
     {
