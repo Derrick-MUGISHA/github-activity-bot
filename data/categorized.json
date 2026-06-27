@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
-      "published_at": "2026-06-26T17:18:04Z",
-      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
-      "tags": [
-        "ai",
-        "playwright",
-        "githubactions",
-        "browserautomation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
-      "source": "Dev.to",
-      "user": "Lizzie Siegle"
-    },
-    {
       "title": "A Guide to AI Cold Starts on Cloud Run",
       "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
       "published_at": "2026-06-26T16:50:58Z",
@@ -87,6 +72,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkqiodnqdvclmi7iyygm4.png",
       "source": "Dev.to",
       "user": "Andrey Korchak"
+    },
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "tags": [
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
     },
     {
       "title": "The Rise of Agentic Engineering — Part 1: The Prompt Engineering Era",
@@ -498,6 +498,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
+      "published_at": "2026-06-12T06:09:59Z",
+      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -668,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1216,
       "user": "deepseek-ai"
     },
     {
@@ -984,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "Yu9191"
     },
     {
@@ -1226,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1216,
       "user": "deepseek-ai"
     },
     {
@@ -1241,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1051,
       "user": "bikini"
     },
     {
@@ -1256,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "QwenLM"
     },
     {
@@ -1893,20 +1908,6 @@
       "user": "Karthick"
     },
     {
-      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
-      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766",
-      "published_at": "2026-06-25T18:52:00Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvonreoollxnk2u7wh6e.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "How I built mechanical enforcement for AI coding agents — and why prompts aren't enough",
       "url": "https://dev.to/juandelossantos/how-i-built-mechanical-enforcement-for-ai-coding-agents-and-why-prompts-arent-enough-13bg",
       "published_at": "2026-06-25T17:30:44Z",
@@ -2051,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 628,
       "user": "Yu9191"
     },
     {
@@ -2111,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1216,
       "user": "deepseek-ai"
     },
     {
@@ -2126,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1051,
       "user": "bikini"
     },
     {
@@ -2141,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "QwenLM"
     },
     {
@@ -2186,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 211,
       "user": "ivorpad"
     },
     {
@@ -2231,7 +2232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 43,
       "user": "bandoracer"
     },
     {
