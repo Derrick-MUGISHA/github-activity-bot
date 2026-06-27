@@ -652,8 +652,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 347,
       "user": "goehou"
+    },
+    {
+      "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "published_at": "2026-06-26T12:36:05Z",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 391,
+      "user": "deepseek-ai"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -667,7 +682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "krea-ai"
     },
     {
@@ -686,21 +701,6 @@
       "user": "nova452"
     },
     {
-      "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "published_at": "2026-06-26T05:50:51Z",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "Pluviobyte"
-    },
-    {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
       "url": "https://github.com/lxcshine/nexusbox",
       "published_at": "2026-06-24T06:58:39Z",
@@ -712,23 +712,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 42,
       "user": "lxcshine"
-    },
-    {
-      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "url": "https://github.com/aidansteele/microvm-fun",
-      "published_at": "2026-06-24T11:28:06Z",
-      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "aidansteele"
     }
   ],
   "JavaScript": [
@@ -1012,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 555,
       "user": "Yu9191"
     },
     {
@@ -1027,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 347,
       "user": "goehou"
     },
     {
@@ -1042,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 229,
       "user": "byJoey"
     },
     {
@@ -1057,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 203,
       "user": "abundantbeing"
     },
     {
@@ -1269,23 +1254,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 578,
       "user": "QwenLM"
     },
     {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
+      "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "published_at": "2026-06-26T12:36:05Z",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 311,
-      "user": "krea-ai"
+      "stars": 391,
+      "user": "deepseek-ai"
     },
     {
       "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
@@ -1299,8 +1284,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 375,
       "user": "bikini"
+    },
+    {
+      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "published_at": "2026-06-22T21:41:41Z",
+      "description": "Official inference code for Krea 2",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "krea-ai"
     },
     {
       "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
@@ -1316,21 +1316,6 @@
       "source": "GitHub",
       "stars": 273,
       "user": "nova452"
-    },
-    {
-      "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "published_at": "2026-06-26T05:50:51Z",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "Pluviobyte"
     }
   ],
   "DevOps": [
@@ -1438,21 +1423,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
       "source": "Dev.to",
       "user": "Nguyen Hai Truong"
-    },
-    {
-      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "url": "https://github.com/aidansteele/microvm-fun",
-      "published_at": "2026-06-24T11:28:06Z",
-      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "aidansteele"
     }
   ],
   "WebDev": [
@@ -1710,21 +1680,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "url": "https://github.com/aidansteele/microvm-fun",
-      "published_at": "2026-06-24T11:28:06Z",
-      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "aidansteele"
     }
   ],
   "Database": [
@@ -2109,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 555,
       "user": "Yu9191"
     },
     {
@@ -2124,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 347,
       "user": "goehou"
     },
     {
@@ -2139,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 229,
       "user": "byJoey"
     },
     {
@@ -2154,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 203,
       "user": "abundantbeing"
     },
     {
@@ -2169,23 +2124,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 578,
       "user": "QwenLM"
     },
     {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
+      "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "published_at": "2026-06-26T12:36:05Z",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 311,
-      "user": "krea-ai"
+      "stars": 391,
+      "user": "deepseek-ai"
     },
     {
       "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
@@ -2199,8 +2154,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 375,
       "user": "bikini"
+    },
+    {
+      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "published_at": "2026-06-22T21:41:41Z",
+      "description": "Official inference code for Krea 2",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "krea-ai"
     },
     {
       "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
@@ -2218,21 +2188,6 @@
       "user": "nova452"
     },
     {
-      "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "published_at": "2026-06-26T05:50:51Z",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "Pluviobyte"
-    },
-    {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
       "url": "https://github.com/ivorpad/mercadona-cli",
       "published_at": "2026-06-26T06:22:39Z",
@@ -2244,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 117,
       "user": "ivorpad"
     },
     {
@@ -2263,6 +2218,21 @@
       "user": "JotaDev66"
     },
     {
+      "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "url": "https://github.com/lxcshine/nexusbox",
+      "published_at": "2026-06-24T06:58:39Z",
+      "description": "Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "lxcshine"
+    },
+    {
       "title": "smallnest/seq - A generic library in Golang with generic method feature",
       "url": "https://github.com/smallnest/seq",
       "published_at": "2026-06-24T07:32:38Z",
@@ -2278,34 +2248,19 @@
       "user": "smallnest"
     },
     {
-      "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
-      "url": "https://github.com/lxcshine/nexusbox",
-      "published_at": "2026-06-24T06:58:39Z",
-      "description": "Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "title": "bandoracer/librarry - Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
+      "url": "https://github.com/bandoracer/librarry",
+      "published_at": "2026-06-25T19:33:30Z",
+      "description": "Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
       "source": "GitHub",
-      "stars": 38,
-      "user": "lxcshine"
-    },
-    {
-      "title": "aidansteele/microvm-fun - A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "url": "https://github.com/aidansteele/microvm-fun",
-      "published_at": "2026-06-24T11:28:06Z",
-      "description": "A sample repo showing Kubernetes running on a fleet of AWS Lambda MicroVMs, and the ability to SSH into MicroVMs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/369053?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "aidansteele"
+      "stars": 36,
+      "user": "bandoracer"
     }
   ]
 }
