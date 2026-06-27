@@ -119,21 +119,6 @@
       "user": "Adewumi Saheed Adewale"
     },
     {
-      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
-      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
-      "published_at": "2026-06-25T19:35:36Z",
-      "description": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
-      "tags": [
-        "ai",
-        "claude",
-        "cli",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png",
-      "source": "Dev.to",
-      "user": "Karthick"
-    },
-    {
       "title": "Lite-Harness SDK",
       "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
       "published_at": "2026-06-25T12:37:20Z",
@@ -653,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 357,
       "user": "goehou"
     },
     {
@@ -668,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 802,
       "user": "deepseek-ai"
     },
     {
@@ -683,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "krea-ai"
     },
     {
@@ -698,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "Pluviobyte"
     },
     {
@@ -713,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 57,
       "user": "lxcshine"
     }
   ],
@@ -984,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 596,
       "user": "Yu9191"
     },
     {
@@ -999,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 357,
       "user": "goehou"
     },
     {
@@ -1014,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 325,
       "user": "playPlumtown"
     },
     {
@@ -1029,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "byJoey"
     }
   ],
@@ -1226,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 802,
       "user": "deepseek-ai"
     },
     {
@@ -1241,14 +1226,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 583,
       "user": "QwenLM"
     },
     {
-      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "url": "https://github.com/bikini/exploitarium",
       "published_at": "2026-06-23T05:14:11Z",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "tags": [
         "python",
         "github",
@@ -1256,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 519,
       "user": "bikini"
     },
     {
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "krea-ai"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "Pluviobyte"
     }
   ],
@@ -1759,21 +1744,6 @@
       "user": "Lizzie Siegle"
     },
     {
-      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
-      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
-      "published_at": "2026-06-25T19:35:36Z",
-      "description": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
-      "tags": [
-        "ai",
-        "claude",
-        "cli",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png",
-      "source": "Dev.to",
-      "user": "Karthick"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -2051,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 596,
       "user": "Yu9191"
     },
     {
@@ -2066,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 357,
       "user": "goehou"
     },
     {
@@ -2081,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 325,
       "user": "playPlumtown"
     },
     {
@@ -2096,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "byJoey"
     },
     {
@@ -2111,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 802,
       "user": "deepseek-ai"
     },
     {
@@ -2126,14 +2096,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 583,
       "user": "QwenLM"
     },
     {
-      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "url": "https://github.com/bikini/exploitarium",
       "published_at": "2026-06-23T05:14:11Z",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "tags": [
         "python",
         "github",
@@ -2141,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 519,
       "user": "bikini"
     },
     {
@@ -2156,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "krea-ai"
     },
     {
@@ -2171,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "Pluviobyte"
     },
     {
@@ -2186,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 174,
       "user": "ivorpad"
     },
     {
@@ -2201,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 89,
       "user": "JotaDev66"
     },
     {
@@ -2216,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 57,
       "user": "lxcshine"
     },
     {
