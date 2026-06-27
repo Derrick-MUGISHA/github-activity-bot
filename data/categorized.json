@@ -652,23 +652,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 339,
       "user": "goehou"
-    },
-    {
-      "title": "Johell1NS/browser-search - A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "url": "https://github.com/Johell1NS/browser-search",
-      "published_at": "2026-06-22T13:43:13Z",
-      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78345296?v=4",
-      "source": "GitHub",
-      "stars": 179,
-      "user": "Johell1NS"
     },
     {
       "title": "krea-ai/krea-2 - Official inference code for Krea 2",
@@ -682,7 +667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 311,
       "user": "krea-ai"
     },
     {
@@ -697,23 +682,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "nova452"
-    },
-    {
-      "title": "trotsky1997/OpenFugu - Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "url": "https://github.com/trotsky1997/OpenFugu",
-      "published_at": "2026-06-22T11:37:21Z",
-      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30512160?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "trotsky1997"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -727,7 +697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 256,
       "user": "Pluviobyte"
     },
     {
@@ -742,7 +712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 38,
       "user": "lxcshine"
     },
     {
@@ -1042,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 521,
       "user": "Yu9191"
     },
     {
@@ -1057,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 339,
       "user": "goehou"
     },
     {
@@ -1072,23 +1042,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "byJoey"
     },
     {
-      "title": "Johell1NS/browser-search - A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "url": "https://github.com/Johell1NS/browser-search",
-      "published_at": "2026-06-22T13:43:13Z",
-      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "published_at": "2026-06-24T02:20:56Z",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78345296?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 179,
-      "user": "Johell1NS"
+      "stars": 192,
+      "user": "abundantbeing"
     },
     {
       "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
@@ -1102,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "nova452"
     }
   ],
@@ -1299,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "QwenLM"
     },
     {
@@ -1314,8 +1284,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 311,
       "user": "krea-ai"
+    },
+    {
+      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "url": "https://github.com/bikini/exploitarium",
+      "published_at": "2026-06-23T05:14:11Z",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
+      "source": "GitHub",
+      "stars": 308,
+      "user": "bikini"
     },
     {
       "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
@@ -1329,23 +1314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "nova452"
-    },
-    {
-      "title": "trotsky1997/OpenFugu - Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "url": "https://github.com/trotsky1997/OpenFugu",
-      "published_at": "2026-06-22T11:37:21Z",
-      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30512160?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "trotsky1997"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -1359,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 256,
       "user": "Pluviobyte"
     }
   ],
@@ -2139,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 521,
       "user": "Yu9191"
     },
     {
@@ -2154,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 339,
       "user": "goehou"
     },
     {
@@ -2169,23 +2139,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "byJoey"
     },
     {
-      "title": "Johell1NS/browser-search - A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "url": "https://github.com/Johell1NS/browser-search",
-      "published_at": "2026-06-22T13:43:13Z",
-      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "published_at": "2026-06-24T02:20:56Z",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78345296?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 179,
-      "user": "Johell1NS"
+      "stars": 192,
+      "user": "abundantbeing"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -2199,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "QwenLM"
     },
     {
@@ -2214,8 +2184,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 311,
       "user": "krea-ai"
+    },
+    {
+      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "url": "https://github.com/bikini/exploitarium",
+      "published_at": "2026-06-23T05:14:11Z",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
+      "source": "GitHub",
+      "stars": 308,
+      "user": "bikini"
     },
     {
       "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
@@ -2229,23 +2214,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "nova452"
-    },
-    {
-      "title": "trotsky1997/OpenFugu - Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "url": "https://github.com/trotsky1997/OpenFugu",
-      "published_at": "2026-06-22T11:37:21Z",
-      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30512160?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "trotsky1997"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -2259,23 +2229,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 256,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "JotaDev66/WaCalls - GitHub Repository",
-      "url": "https://github.com/JotaDev66/WaCalls",
-      "published_at": "2026-06-24T05:33:17Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
-      "source": "GitHub",
-      "stars": 85,
-      "user": "JotaDev66"
     },
     {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
@@ -2289,8 +2244,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 92,
       "user": "ivorpad"
+    },
+    {
+      "title": "JotaDev66/WaCalls - GitHub Repository",
+      "url": "https://github.com/JotaDev66/WaCalls",
+      "published_at": "2026-06-24T05:33:17Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "JotaDev66"
     },
     {
       "title": "smallnest/seq - A generic library in Golang with generic method feature",
@@ -2319,7 +2289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 38,
       "user": "lxcshine"
     },
     {
