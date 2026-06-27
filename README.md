@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-27 20:00 CAT)
+## 📅 Latest Updates (2026-06-27 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [A Developer's Guide to Agent Hooks in Antigravity CLI](https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no) _[Dev.to]_
 - [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k) _[Dev.to]_
 
-_Last automated update: Sat, 27 Jun 2026 20:17:45 CAT_
+_Last automated update: Sat, 27 Jun 2026 21:51:27 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sat, 27 Jun 2026 20:17:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 27 Jun 2026 18:17:45 GMT</b><br/>
+  <b>Last automated update: Sat, 27 Jun 2026 19:51:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
