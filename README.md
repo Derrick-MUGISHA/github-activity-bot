@@ -32,7 +32,7 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -40,9 +40,9 @@
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
-**WebDev**: 🟦 3 (2.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦 3 (2.9%)
+**WebDev**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -58,19 +58,19 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.3 (26.3%)
-Go              ██████████████████████████████ 26.3 (26.3%)
-Java            ██████████████████████████ 23.2 (23.2%)
-Python          ███████████████████████ 20.0 (20.0%)
-Rust            █████ 4.2 (4.2%)
+Go              ██████████████████████████████ 26.9 (26.9%)
+JavaScript      █████████████████████████████ 25.8 (25.8%)
+Java            █████████████████████████ 22.6 (22.6%)
+Python          ███████████████████████ 20.4 (20.4%)
+Rust            █████ 4.3 (4.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
     "Go" : 25
-    "Java" : 22
+    "JavaScript" : 24
+    "Java" : 21
     "Python" : 19
     "Rust" : 4
 ```
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-27 11:00 CAT)
+## 📅 Latest Updates (2026-06-27 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [How to Get Your First Tool Online](https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k) _[Dev.to]_
 - [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) _[Dev.to]_
 
-_Last automated update: Sat, 27 Jun 2026 11:49:59 CAT_
+_Last automated update: Sat, 27 Jun 2026 13:24:44 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sat, 27 Jun 2026 11:49:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 27 Jun 2026 09:49:59 GMT</b><br/>
+  <b>Last automated update: Sat, 27 Jun 2026 11:24:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

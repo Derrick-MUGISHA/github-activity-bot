@@ -383,20 +383,6 @@
       "user": "Keme Kenneth"
     },
     {
-      "title": "Function Names in JS Can't Contain Spaces, Right?",
-      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
-      "published_at": "2026-06-24T11:28:13Z",
-      "description": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png",
-      "source": "Dev.to",
-      "user": "Jon Randy 🎖️"
-    },
-    {
       "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
       "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh",
       "published_at": "2026-06-24T15:25:19Z",
@@ -495,6 +481,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
       "source": "Dev.to",
       "user": "Nguyen Hai Truong"
+    },
+    {
+      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
+      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
+      "published_at": "2026-06-23T17:09:18Z",
+      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -652,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "goehou"
     },
     {
@@ -667,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 548,
       "user": "deepseek-ai"
     },
     {
@@ -682,14 +683,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 315,
       "user": "krea-ai"
     },
     {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "title": "nova452/ComfyUI-Conditioning-Rebalance - Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -697,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "nova452"
     },
     {
@@ -712,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 48,
       "user": "lxcshine"
     }
   ],
@@ -805,20 +806,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
       "source": "Dev.to",
       "user": "Lolo"
-    },
-    {
-      "title": "Function Names in JS Can't Contain Spaces, Right?",
-      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7",
-      "published_at": "2026-06-24T11:28:13Z",
-      "description": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4l5iy2k6vkarrzh0f3ac.png",
-      "source": "Dev.to",
-      "user": "Jon Randy 🎖️"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -997,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 570,
       "user": "Yu9191"
     },
     {
@@ -1012,8 +999,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "goehou"
+    },
+    {
+      "title": "playPlumtown/Plumtown - The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "url": "https://github.com/playPlumtown/Plumtown",
+      "published_at": "2026-06-26T22:59:46Z",
+      "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "playPlumtown"
     },
     {
       "title": "byJoey/cfnew-deployer - GitHub Repository",
@@ -1027,29 +1029,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "byJoey"
     },
     {
-      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "published_at": "2026-06-24T02:20:56Z",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "abundantbeing"
-    },
-    {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "title": "nova452/ComfyUI-Conditioning-Rebalance - Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -1057,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "nova452"
     }
   ],
@@ -1254,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 582,
       "user": "QwenLM"
     },
     {
@@ -1269,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 548,
       "user": "deepseek-ai"
     },
     {
@@ -1284,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 417,
       "user": "bikini"
     },
     {
@@ -1299,14 +1286,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 315,
       "user": "krea-ai"
     },
     {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "title": "nova452/ComfyUI-Conditioning-Rebalance - Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -1314,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "nova452"
     }
   ],
@@ -1743,6 +1730,21 @@
       "user": "Keme Kenneth"
     },
     {
+      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
+      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
+      "published_at": "2026-06-23T17:09:18Z",
+      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2064,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 570,
       "user": "Yu9191"
     },
     {
@@ -2079,8 +2081,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "goehou"
+    },
+    {
+      "title": "playPlumtown/Plumtown - The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "url": "https://github.com/playPlumtown/Plumtown",
+      "published_at": "2026-06-26T22:59:46Z",
+      "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "playPlumtown"
     },
     {
       "title": "byJoey/cfnew-deployer - GitHub Repository",
@@ -2094,23 +2111,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "byJoey"
-    },
-    {
-      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "published_at": "2026-06-24T02:20:56Z",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "abundantbeing"
     },
     {
       "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
@@ -2124,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 582,
       "user": "QwenLM"
     },
     {
@@ -2139,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 548,
       "user": "deepseek-ai"
     },
     {
@@ -2154,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 417,
       "user": "bikini"
     },
     {
@@ -2169,14 +2171,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 315,
       "user": "krea-ai"
     },
     {
-      "title": "nova452/ComfyUI-ConditioningKrea2Rebalance - Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "title": "nova452/ComfyUI-Conditioning-Rebalance - Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
       "published_at": "2026-06-23T12:17:48Z",
-      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
       "tags": [
         "python",
         "github",
@@ -2184,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115337195?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "nova452"
     },
     {
@@ -2199,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 140,
       "user": "ivorpad"
     },
     {
@@ -2229,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 48,
       "user": "lxcshine"
     },
     {
@@ -2259,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "bandoracer"
     }
   ]
