@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-27-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.5%)
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,17 +58,17 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.2 (27.2%)
-JavaScript      ████████████████████████████ 25.0 (25.0%)
-Java            █████████████████████████ 22.8 (22.8%)
-Python          ███████████████████████ 20.7 (20.7%)
-Rust            █████ 4.3 (4.3%)
+Go              ██████████████████████████████ 26.4 (26.4%)
+JavaScript      █████████████████████████████ 25.3 (25.3%)
+Java            ██████████████████████████ 23.1 (23.1%)
+Python          ████████████████████████ 20.9 (20.9%)
+Rust            █████ 4.4 (4.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 24
     "JavaScript" : 23
     "Java" : 21
     "Python" : 19
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-27 14:00 CAT)
+## 📅 Latest Updates (2026-06-27 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,7 +201,6 @@ npm run test
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
 - [Tactical vs. Strategic Agentic AI Development — A Playbook for Developers](https://dev.to/gde/tactical-vs-strategic-agentic-ai-development-a-playbook-for-developers-1654) _[Dev.to]_
-- [AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf) _[Dev.to]_
 - [Lite-Harness SDK](https://dev.to/jeancarlosn/lite-harness-sdk-3f28) _[Dev.to]_
 - [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc) _[Dev.to]_
 - [The agent-first approach to building products](https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj) _[Dev.to]_
@@ -209,8 +208,9 @@ npm run test
 - [How I Use AI Councils to Solve Ambiguous Engineering Problems](https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii) _[Dev.to]_
 - [How to Get Your First Tool Online](https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k) _[Dev.to]_
 - [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) _[Dev.to]_
+- [A Developer's Guide to Agent Hooks in Antigravity CLI](https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no) _[Dev.to]_
 
-_Last automated update: Sat, 27 Jun 2026 14:50:45 CAT_
+_Last automated update: Sat, 27 Jun 2026 16:26:15 CAT_
 
 
 
@@ -218,7 +218,29 @@ _Last automated update: Sat, 27 Jun 2026 14:50:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. React: How would you optimize a React app's performance?
+
+**Difficulty**: Hard | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+React.memo, useMemo, useCallback, code splitting, lazy loading
+
+</details>
+
+### 2. Database: Design a database schema for a social media platform
+
+**Difficulty**: Hard | **Topics**: design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Users, posts, relationships, indexes, partitioning
+
+</details>
+
+### 3. React: What is the Virtual DOM and how does React use it?
 
 **Difficulty**: Easy | **Topics**: rendering, performance
 
@@ -226,28 +248,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Diffing algorithm, reconciliation, efficiency
-
-</details>
-
-### 2. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
-
-</details>
-
-### 3. Java: Explain the Java memory model
-
-**Difficulty**: Hard | **Topics**: memory, JVM
-
-<details>
-<summary>💡 Hint</summary>
-
-Heap, stack, garbage collection
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 27 Jun 2026 12:50:45 GMT</b><br/>
+  <b>Last automated update: Sat, 27 Jun 2026 14:26:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
