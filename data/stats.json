@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 51,
     "JavaScript": 23,
     "Python": 19,
     "DevOps": 7,
@@ -15,7 +15,7 @@
     "Cloud": 14,
     "Database": 2,
     "Security": 4,
-    "Tools": 33
+    "Tools": 32
   },
   "by_language": {
     "Go": 26,
@@ -28,7 +28,7 @@
     "2026-06-26": 12,
     "2026-06-24": 10,
     "2026-06-25": 13,
-    "2026-06-23": 17,
+    "2026-06-23": 16,
     "2026-06-22": 7,
     "2026-06-21": 2,
     "2026-06-16": 2,
@@ -69,7 +69,7 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 23,
+    "ai": 22,
     "github": 15,
     "open-source": 15,
     "javascript": 10,
@@ -82,13 +82,13 @@
     "agents": 7,
     "gemma4": 6,
     "webdev": 6,
-    "productivity": 6,
     "go": 6,
     "qat": 5,
+    "productivity": 5,
     "devops": 4,
     "antigravitycli": 4,
     "antigravity": 4,
-    "tutorial": 4
+    "gemini": 4
   },
   "trending_topics": [],
   "language_percentages": {
