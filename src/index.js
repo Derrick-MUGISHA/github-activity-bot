@@ -196,6 +196,10 @@ function categorizeArticles(articles) {
     console.log(`Saved ${Object.keys(categorized).length} categories`);
     console.log(`Total articles in log: ${uniqueArticles.length}`);
 
+    // synchronisation on whatsapp
+    
+    await syncWhatsapp(categorized, stats, interviewQuestions);
+
   } catch (err) {
     console.error("Error in main execution:", err);
     process.exit(1);
