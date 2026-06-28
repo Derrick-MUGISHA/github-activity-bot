@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
-      "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
-      "published_at": "2026-06-24T15:10:00Z",
-      "description": "An open source experiment exploring whether structured competition between AI agents can produce better reasoning, training data, and eventually better models.",
-      "tags": [
-        "ai",
-        "opensource",
-        "machinelearningloops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff8%2FPong.png%3F_%3D20230712151920",
-      "source": "Dev.to",
-      "user": "Bradley Morgan Clonan"
-    },
-    {
       "title": "_action: Declarative Event Handlers in an Attribute",
       "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
       "published_at": "2026-06-25T04:08:28Z",
@@ -57,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
       "source": "Dev.to",
       "user": "Lizzie Siegle"
-    },
-    {
-      "title": "The Rise of Agentic Engineering — Part 1: The Prompt Engineering Era",
-      "url": "https://dev.to/raminjafary/the-rise-of-agentic-engineering-part-1-the-prompt-engineering-era-4cb4",
-      "published_at": "2026-06-25T06:47:53Z",
-      "description": "The Prompt Engineering Era   Part 1 of a chronological survey of how the craft around large...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnrejul7uha477r1u9bn.png",
-      "source": "Dev.to",
-      "user": "Ramin Jafary"
     },
     {
       "title": "Tactical vs. Strategic Agentic AI Development — A Playbook for Developers",
@@ -668,7 +639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "goehou"
     },
     {
@@ -683,7 +654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1758,
       "user": "deepseek-ai"
     },
     {
@@ -698,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Pluviobyte"
     },
     {
@@ -713,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 349,
       "user": "krea-ai"
     },
     {
@@ -728,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 107,
       "user": "kentjuno"
     },
     {
@@ -984,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 869,
+      "stars": 913,
       "user": "Yu9191"
     },
     {
@@ -999,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "goehou"
     },
     {
@@ -1029,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 265,
       "user": "byJoey"
     },
     {
@@ -1044,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "abundantbeing"
     }
   ],
@@ -1241,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1758,
       "user": "deepseek-ai"
     },
     {
@@ -1256,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1524,
+      "stars": 1596,
       "user": "bikini"
     },
     {
@@ -1271,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "QwenLM"
     },
     {
@@ -1286,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Pluviobyte"
     },
     {
@@ -1301,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 349,
       "user": "krea-ai"
     }
   ],
@@ -2007,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 869,
+      "stars": 913,
       "user": "Yu9191"
     },
     {
@@ -2022,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "goehou"
     },
     {
@@ -2052,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 265,
       "user": "byJoey"
     },
     {
@@ -2067,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "abundantbeing"
     },
     {
@@ -2082,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1758,
       "user": "deepseek-ai"
     },
     {
@@ -2097,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1524,
+      "stars": 1596,
       "user": "bikini"
     },
     {
@@ -2112,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "QwenLM"
     },
     {
@@ -2127,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Pluviobyte"
     },
     {
@@ -2142,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 349,
       "user": "krea-ai"
     },
     {
@@ -2157,23 +2128,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "ivorpad"
-    },
-    {
-      "title": "JotaDev66/WaCalls - GitHub Repository",
-      "url": "https://github.com/JotaDev66/WaCalls",
-      "published_at": "2026-06-24T05:33:17Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "JotaDev66"
     },
     {
       "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
@@ -2187,8 +2143,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 107,
       "user": "kentjuno"
+    },
+    {
+      "title": "JotaDev66/WaCalls - GitHub Repository",
+      "url": "https://github.com/JotaDev66/WaCalls",
+      "published_at": "2026-06-24T05:33:17Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "JotaDev66"
     },
     {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
