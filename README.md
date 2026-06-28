@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-28-orange)
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (31.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.6%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
-**DevOps**: 🟦🟦 6 (5.8%)
-
-**Security**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦🟦 7 (6.7%)
 
 **WebDev**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
+**Security**: 🟦 2 (1.9%)
+
 
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,19 +58,19 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.2 (27.2%)
-JavaScript      ████████████████████████████ 25.0 (25.0%)
-Java            █████████████████████████ 22.8 (22.8%)
-Python          ███████████████████████ 20.7 (20.7%)
-Rust            █████ 4.3 (4.3%)
+Go              ██████████████████████████████ 30.9 (30.9%)
+JavaScript      ███████████████████████ 23.4 (23.4%)
+Java            █████████████████████ 21.3 (21.3%)
+Python          ████████████████████ 20.2 (20.2%)
+Rust            ████ 4.3 (4.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
-    "JavaScript" : 23
-    "Java" : 21
+    "Go" : 29
+    "JavaScript" : 22
+    "Java" : 20
     "Python" : 19
     "Rust" : 4
 ```
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![mcps](https://img.shields.io/badge/mcps-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-28 8:00 CAT)
+## 📅 Latest Updates (2026-06-28 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn) _[Dev.to]_
 - [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
 
-_Last automated update: Sun, 28 Jun 2026 08:01:54 CAT_
+_Last automated update: Sun, 28 Jun 2026 11:31:57 CAT_
 
 
 
@@ -218,29 +218,18 @@ _Last automated update: Sun, 28 Jun 2026 08:01:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 2. React: What is the Virtual DOM and how does React use it?
-
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 2. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -248,6 +237,17 @@ Diffing algorithm, reconciliation, efficiency
 <summary>💡 Hint</summary>
 
 Event bubbling, single listener for multiple elements
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 28 Jun 2026 06:01:54 GMT</b><br/>
+  <b>Last automated update: Sun, 28 Jun 2026 09:31:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -338,6 +338,21 @@
       "user": "Keme Kenneth"
     },
     {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+      "published_at": "2026-06-26T16:50:58Z",
+      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "tags": [
+        "ai",
+        "devops",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
       "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh",
       "published_at": "2026-06-24T15:25:19Z",
@@ -438,21 +453,6 @@
       "user": "Nguyen Hai Truong"
     },
     {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
-      "published_at": "2026-06-23T17:09:18Z",
-      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
       "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
       "published_at": "2026-06-12T06:09:40Z",
@@ -481,6 +481,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
+      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb",
+      "published_at": "2026-06-19T00:18:39Z",
+      "description": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
+      "tags": [
+        "midsommar",
+        "devchallenge",
+        "gamechallenge",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
+      "published_at": "2026-06-09T12:16:25Z",
+      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "tags": [
+        "agentsasanapi",
+        "managedagent",
+        "gemini",
+        "managedagentsapi"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -638,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "goehou"
     },
     {
@@ -653,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1692,
       "user": "deepseek-ai"
     },
     {
@@ -668,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 352,
       "user": "Pluviobyte"
     },
     {
@@ -683,8 +713,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 346,
       "user": "krea-ai"
+    },
+    {
+      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "url": "https://github.com/kentjuno/ainovel-cli",
+      "published_at": "2026-06-25T15:28:12Z",
+      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "kentjuno"
     },
     {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
@@ -700,21 +745,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "lxcshine"
-    },
-    {
-      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "url": "https://github.com/kentjuno/ainovel-cli",
-      "published_at": "2026-06-25T15:28:12Z",
-      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "kentjuno"
     }
   ],
   "JavaScript": [
@@ -791,21 +821,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
       "source": "Dev.to",
       "user": "Tsahi Levent-Levi"
-    },
-    {
-      "title": "The Security Bug Every Node.js Developer Ships to Production",
-      "url": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
-      "published_at": "2026-06-25T09:51:15Z",
-      "description": "Last year I was doing a code review for a startup. Everything looked fine on the surface, clean code,...",
-      "tags": [
-        "security",
-        "node",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
-      "source": "Dev.to",
-      "user": "Lolo"
     },
     {
       "title": "Why we rejected the export-and-fork model for visual UI editing",
@@ -969,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 869,
       "user": "Yu9191"
     },
     {
@@ -984,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "goehou"
     },
     {
@@ -1003,21 +1018,6 @@
       "user": "playPlumtown"
     },
     {
-      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "published_at": "2026-06-24T02:20:56Z",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "abundantbeing"
-    },
-    {
       "title": "byJoey/cfnew-deployer - GitHub Repository",
       "url": "https://github.com/byJoey/cfnew-deployer",
       "published_at": "2026-06-22T11:13:55Z",
@@ -1029,8 +1029,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 263,
       "user": "byJoey"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "published_at": "2026-06-24T02:20:56Z",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "abundantbeing"
     }
   ],
   "Python": [
@@ -1226,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1692,
       "user": "deepseek-ai"
     },
     {
@@ -1241,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1524,
       "user": "bikini"
     },
     {
@@ -1256,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 605,
       "user": "QwenLM"
     },
     {
@@ -1271,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 352,
       "user": "Pluviobyte"
     },
     {
@@ -1286,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 346,
       "user": "krea-ai"
     }
   ],
@@ -1350,6 +1365,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
       "source": "Dev.to",
       "user": "Keme Kenneth"
+    },
+    {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+      "published_at": "2026-06-26T16:50:58Z",
+      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "tags": [
+        "ai",
+        "devops",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes",
@@ -1564,6 +1594,21 @@
       "user": "Keme Kenneth"
     },
     {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+      "published_at": "2026-06-26T16:50:58Z",
+      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "tags": [
+        "ai",
+        "devops",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
       "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh",
       "published_at": "2026-06-24T15:25:19Z",
@@ -1622,6 +1667,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg",
+      "published_at": "2026-06-10T01:05:21Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "tags": [
+        "mcps",
+        "nvidial4",
+        "gemma12b",
+        "googlecloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1655,21 +1715,6 @@
   ],
   "Security": [
     {
-      "title": "The Security Bug Every Node.js Developer Ships to Production",
-      "url": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
-      "published_at": "2026-06-25T09:51:15Z",
-      "description": "Last year I was doing a code review for a startup. Everything looked fine on the surface, clean code,...",
-      "tags": [
-        "security",
-        "node",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iszmilrguq6ga6i7vlh.png",
-      "source": "Dev.to",
-      "user": "Lolo"
-    },
-    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1683,21 +1728,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png",
       "source": "Dev.to",
       "user": "Keme Kenneth"
-    },
-    {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm",
-      "published_at": "2026-06-23T17:09:18Z",
-      "description": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiv7ds46nm5ufvh3tdcp.jpg",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1977,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 869,
       "user": "Yu9191"
     },
     {
@@ -1992,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "goehou"
     },
     {
@@ -2011,21 +2041,6 @@
       "user": "playPlumtown"
     },
     {
-      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "published_at": "2026-06-24T02:20:56Z",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "abundantbeing"
-    },
-    {
       "title": "byJoey/cfnew-deployer - GitHub Repository",
       "url": "https://github.com/byJoey/cfnew-deployer",
       "published_at": "2026-06-22T11:13:55Z",
@@ -2037,8 +2052,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 263,
       "user": "byJoey"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "published_at": "2026-06-24T02:20:56Z",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "abundantbeing"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2052,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1692,
       "user": "deepseek-ai"
     },
     {
@@ -2067,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1524,
       "user": "bikini"
     },
     {
@@ -2082,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 605,
       "user": "QwenLM"
     },
     {
@@ -2097,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 352,
       "user": "Pluviobyte"
     },
     {
@@ -2112,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 346,
       "user": "krea-ai"
     },
     {
@@ -2127,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 219,
       "user": "ivorpad"
     },
     {
@@ -2144,6 +2174,21 @@
       "source": "GitHub",
       "stars": 93,
       "user": "JotaDev66"
+    },
+    {
+      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "url": "https://github.com/kentjuno/ainovel-cli",
+      "published_at": "2026-06-25T15:28:12Z",
+      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "kentjuno"
     },
     {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
@@ -2174,21 +2219,6 @@
       "source": "GitHub",
       "stars": 45,
       "user": "bandoracer"
-    },
-    {
-      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "url": "https://github.com/kentjuno/ainovel-cli",
-      "published_at": "2026-06-25T15:28:12Z",
-      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "kentjuno"
     }
   ]
 }
