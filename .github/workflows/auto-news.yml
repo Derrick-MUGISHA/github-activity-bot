@@ -2,7 +2,7 @@ name: Enhanced Auto News Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -33,10 +33,13 @@ jobs:
       - name: Install Dependencies
         run: npm ci --prefer-offline --no-audit
 
-      - name: Fetch and Update News
+      - name: Fetch, Update News & Sync WhatsApp
         run: npm start
         env:
           NODE_ENV: production
+          WHATSAPP_PHONE_NUMBER_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
+          WHATSAPP_ACCESS_TOKEN: ${{ secrets.WHATSAPP_ACCESS_TOKEN }}
+          WHATSAPP_RECIPIENT_NUMBER: ${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}
 
       - name: Generate Summary
         run: |
@@ -46,14 +49,13 @@ jobs:
           if [ -f "data/stats.json" ]; then
             TOTAL=$(jq -r '.total' data/stats.json)
             echo "- **Total Articles**: $TOTAL" >> $GITHUB_STEP_SUMMARY
-            
             echo "- **Categories**: $(jq -r '.by_category | length' data/stats.json)" >> $GITHUB_STEP_SUMMARY
             echo "- **Sources**: $(jq -r '.by_source | length' data/stats.json)" >> $GITHUB_STEP_SUMMARY
             echo "- **Languages**: $(jq -r '.by_language | length' data/stats.json)" >> $GITHUB_STEP_SUMMARY
           fi
           
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "News updated successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "News updated & WhatsApp synced!" >> $GITHUB_STEP_SUMMARY
 
       - name: Commit and Push Changes
         run: |
@@ -71,15 +73,13 @@ jobs:
             TOTAL_ARTICLES=$(jq -r '.total // 0' data/stats.json 2>/dev/null || echo "0")
             CATEGORIES=$(jq -r '.by_category | length // 0' data/stats.json 2>/dev/null || echo "0")
             
-            git commit -m "🤖 Auto update: $TOTAL_ARTICLES articles across $CATEGORIES categories | CAT: $(TZ='Africa/Kigali' date +'%Y-%m-%d %H:%M') | UTC: $(date -u +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto update: $TOTAL_ARTICLES articles across $CATEGORIES categories | CAT: $(TZ='Africa/Kigali' date +'%Y-%m-%d %H:%M') | UTC: $(date -u +'%Y-%m-%d %H:%M')"
             git push
             echo "Changes pushed successfully"
           fi
 
       - name: Cleanup old logs (keep last 30 days)
         run: |
-          # Optional: Add logic to trim news_log.md if it gets too large
-          # This helps keep the repository size manageable
           if [ -f "data/news_log.md" ]; then
             FILE_SIZE=$(wc -c < "data/news_log.md")
             if [ $FILE_SIZE -gt 5000000 ]; then
