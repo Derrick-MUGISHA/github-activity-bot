@@ -4,6 +4,7 @@ import { formatNews } from "./formatNews.js";
 import { updateReadme } from "./updateReadme.js";
 import { generateStats } from "./stats.js";
 import { fetchInterviewQuestions } from "./interviewQuestions.js";
+import { syncWhatsapp } from "./syncWhatsapp.js";
 
 const SOURCES = {
   devto: "https://dev.to/api/articles",
