@@ -638,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "goehou"
     },
     {
@@ -653,23 +653,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1543,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
-      "source": "GitHub",
-      "stars": 330,
-      "user": "krea-ai"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -683,8 +668,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 344,
       "user": "Pluviobyte"
+    },
+    {
+      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "published_at": "2026-06-22T21:41:41Z",
+      "description": "Official inference code for Krea 2",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "krea-ai"
     },
     {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
@@ -700,6 +700,21 @@
       "source": "GitHub",
       "stars": 57,
       "user": "lxcshine"
+    },
+    {
+      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "url": "https://github.com/kentjuno/ainovel-cli",
+      "published_at": "2026-06-25T15:28:12Z",
+      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "kentjuno"
     }
   ],
   "JavaScript": [
@@ -954,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 703,
       "user": "Yu9191"
     },
     {
@@ -969,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "goehou"
     },
     {
@@ -984,23 +999,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 355,
       "user": "playPlumtown"
-    },
-    {
-      "title": "byJoey/cfnew-deployer - GitHub Repository",
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "published_at": "2026-06-22T11:13:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "byJoey"
     },
     {
       "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
@@ -1014,8 +1014,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 256,
       "user": "abundantbeing"
+    },
+    {
+      "title": "byJoey/cfnew-deployer - GitHub Repository",
+      "url": "https://github.com/byJoey/cfnew-deployer",
+      "published_at": "2026-06-22T11:13:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 256,
+      "user": "byJoey"
     }
   ],
   "Python": [
@@ -1211,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1543,
       "user": "deepseek-ai"
     },
     {
@@ -1226,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1371,
       "user": "bikini"
     },
     {
@@ -1241,23 +1256,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 599,
       "user": "QwenLM"
-    },
-    {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
-      "source": "GitHub",
-      "stars": 330,
-      "user": "krea-ai"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -1271,8 +1271,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 344,
       "user": "Pluviobyte"
+    },
+    {
+      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "published_at": "2026-06-22T21:41:41Z",
+      "description": "Official inference code for Krea 2",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "krea-ai"
     }
   ],
   "DevOps": [
@@ -1962,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 703,
       "user": "Yu9191"
     },
     {
@@ -1977,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "goehou"
     },
     {
@@ -1992,23 +2007,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 355,
       "user": "playPlumtown"
-    },
-    {
-      "title": "byJoey/cfnew-deployer - GitHub Repository",
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "published_at": "2026-06-22T11:13:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "byJoey"
     },
     {
       "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
@@ -2022,8 +2022,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 256,
       "user": "abundantbeing"
+    },
+    {
+      "title": "byJoey/cfnew-deployer - GitHub Repository",
+      "url": "https://github.com/byJoey/cfnew-deployer",
+      "published_at": "2026-06-22T11:13:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 256,
+      "user": "byJoey"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2037,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1543,
       "user": "deepseek-ai"
     },
     {
@@ -2052,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1371,
       "user": "bikini"
     },
     {
@@ -2067,23 +2082,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 599,
       "user": "QwenLM"
-    },
-    {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
-      "source": "GitHub",
-      "stars": 330,
-      "user": "krea-ai"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -2097,8 +2097,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 344,
       "user": "Pluviobyte"
+    },
+    {
+      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "published_at": "2026-06-22T21:41:41Z",
+      "description": "Official inference code for Krea 2",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "krea-ai"
     },
     {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
@@ -2157,23 +2172,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "bandoracer"
     },
     {
-      "title": "smallnest/seq - A generic library in Golang with generic method feature",
-      "url": "https://github.com/smallnest/seq",
-      "published_at": "2026-06-24T07:32:38Z",
-      "description": "A generic library in Golang with generic method feature",
+      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "url": "https://github.com/kentjuno/ainovel-cli",
+      "published_at": "2026-06-25T15:28:12Z",
+      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/865763?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 42,
-      "user": "smallnest"
+      "stars": 45,
+      "user": "kentjuno"
     }
   ]
 }
