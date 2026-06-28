@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "A Guide to AI Cold Starts on Cloud Run",
-      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
-      "published_at": "2026-06-26T16:50:58Z",
-      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
-      "tags": [
-        "ai",
-        "devops",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp",
       "published_at": "2026-06-24T15:10:00Z",
@@ -43,21 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
       "source": "Dev.to",
       "user": "Jon Nyman"
-    },
-    {
-      "title": "A Free Screenshot Editor That Never Uploads Your Image",
-      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
-      "published_at": "2026-06-26T11:34:04Z",
-      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
-      "tags": [
-        "typescript",
-        "editor",
-        "canvas",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
-      "source": "Dev.to",
-      "user": "Martin Stark"
     },
     {
       "title": "I built a CLI to break my highlights out of Apple Books",
@@ -306,6 +276,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
     },
     {
       "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
@@ -653,7 +638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "goehou"
     },
     {
@@ -668,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1336,
       "user": "deepseek-ai"
     },
     {
@@ -683,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "krea-ai"
     },
     {
@@ -698,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 329,
       "user": "Pluviobyte"
     },
     {
@@ -734,21 +719,6 @@
       "user": "Jon Nyman"
     },
     {
-      "title": "A Free Screenshot Editor That Never Uploads Your Image",
-      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
-      "published_at": "2026-06-26T11:34:04Z",
-      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
-      "tags": [
-        "typescript",
-        "editor",
-        "canvas",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
-      "source": "Dev.to",
-      "user": "Martin Stark"
-    },
-    {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
       "published_at": "2026-06-23T13:53:17Z",
@@ -777,6 +747,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
     },
     {
       "title": "How to Read a webrtc-internals Dump, Section by Section",
@@ -958,21 +943,6 @@
       "user": "velmu"
     },
     {
-      "title": "kanavtwtgg/birds.cafe - GitHub Repository",
-      "url": "https://github.com/kanavtwtgg/birds.cafe",
-      "published_at": "2026-06-21T13:57:28Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
-      "source": "GitHub",
-      "stars": 736,
-      "user": "kanavtwtgg"
-    },
-    {
       "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "url": "https://github.com/Yu9191/wloc",
       "published_at": "2026-06-24T06:15:30Z",
@@ -984,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 641,
       "user": "Yu9191"
     },
     {
@@ -999,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "goehou"
     },
     {
@@ -1014,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "playPlumtown"
     },
     {
@@ -1029,8 +999,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "byJoey"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "published_at": "2026-06-24T02:20:56Z",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
+      "source": "GitHub",
+      "stars": 248,
+      "user": "abundantbeing"
     }
   ],
   "Python": [
@@ -1226,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1336,
       "user": "deepseek-ai"
     },
     {
@@ -1241,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1206,
       "user": "bikini"
     },
     {
@@ -1256,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "QwenLM"
     },
     {
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "krea-ai"
     },
     {
@@ -1286,26 +1271,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 329,
       "user": "Pluviobyte"
     }
   ],
   "DevOps": [
-    {
-      "title": "A Guide to AI Cold Starts on Cloud Run",
-      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
-      "published_at": "2026-06-26T16:50:58Z",
-      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
-      "tags": [
-        "ai",
-        "devops",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "cuenv: one typed file for your whole project",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
@@ -1443,21 +1413,6 @@
   ],
   "Mobile": [],
   "Cloud": [
-    {
-      "title": "A Guide to AI Cold Starts on Cloud Run",
-      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
-      "published_at": "2026-06-26T16:50:58Z",
-      "description": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
-      "tags": [
-        "ai",
-        "devops",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
@@ -1996,21 +1951,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "kanavtwtgg/birds.cafe - GitHub Repository",
-      "url": "https://github.com/kanavtwtgg/birds.cafe",
-      "published_at": "2026-06-21T13:57:28Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271289593?v=4",
-      "source": "GitHub",
-      "stars": 736,
-      "user": "kanavtwtgg"
-    },
-    {
       "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "url": "https://github.com/Yu9191/wloc",
       "published_at": "2026-06-24T06:15:30Z",
@@ -2022,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 641,
       "user": "Yu9191"
     },
     {
@@ -2037,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "goehou"
     },
     {
@@ -2052,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "playPlumtown"
     },
     {
@@ -2067,8 +2007,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "byJoey"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "published_at": "2026-06-24T02:20:56Z",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
+      "source": "GitHub",
+      "stars": 248,
+      "user": "abundantbeing"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2082,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1336,
       "user": "deepseek-ai"
     },
     {
@@ -2097,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1206,
       "user": "bikini"
     },
     {
@@ -2112,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "QwenLM"
     },
     {
@@ -2127,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "krea-ai"
     },
     {
@@ -2142,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 329,
       "user": "Pluviobyte"
     },
     {
@@ -2157,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "ivorpad"
     },
     {
@@ -2202,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "bandoracer"
     },
     {
