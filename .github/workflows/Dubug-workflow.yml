@@ -1,5 +1,9 @@
 name: Auto News Bot (Debug)
 
+concurrency:
+  group: auto-news-bot
+  cancel-in-progress: false
+
 on:
   workflow_dispatch: 
 
@@ -11,7 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -52,27 +58,30 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Derrick-MUGISHA"
-          git config --global user.email "derrickmugisha169@gmail.com"
-          
-          # Show what files exist
-          echo "Files to add:"
-          ls -la README.md 2>/dev/null || echo "README.md not found"
-          ls -la data/news_log.md 2>/dev/null || echo "data/news_log.md not found"
-          
-          # Add files
-          git add README.md data/news_log.md 2>/dev/null || echo "Warning: Some files couldn't be added"
-          
-          # Show staged changes
-          echo "Staged changes:"
-          git diff --staged --stat
-          
-          # Commit only if there are changes
-          if git diff --staged --quiet; then
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Add all generated files
+          git add README.md data/news_log.md 2>/dev/null || true
+
+          # Check if there are changes
+          if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
-          else
-            echo "Committing changes..."
-            git commit -m "Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
-            echo "Changes pushed successfully"
           fi
+
+          git commit -m "🤖 Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          for i in {1..5}; do
+            git pull --rebase origin main
+
+            if git push origin main; then
+              echo "Changes pushed successfully"
+              exit 0
+            fi
+
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+
+          echo "Push failed after 5 retries"
+          exit 1
