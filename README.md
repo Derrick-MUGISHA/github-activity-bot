@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-28 13:00 CAT)
+## 📅 Latest Updates (2026-06-28 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [Debian Packages](https://dev.to/karuppiah7890/debian-packages-51gj) _[Dev.to]_
 - [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph) _[Dev.to]_
 
-_Last automated update: Sun, 28 Jun 2026 13:24:32 CAT_
+_Last automated update: Sun, 28 Jun 2026 14:53:12 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sun, 28 Jun 2026 13:24:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 28 Jun 2026 11:24:32 GMT</b><br/>
+  <b>Last automated update: Sun, 28 Jun 2026 12:53:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
