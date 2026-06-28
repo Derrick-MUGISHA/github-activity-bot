@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.5%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (31.1%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.4%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 13 (12.6%)
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-28 3:00 CAT)
+## 📅 Latest Updates (2026-06-28 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn) _[Dev.to]_
 - [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
 
-_Last automated update: Sun, 28 Jun 2026 03:32:46 CAT_
+_Last automated update: Sun, 28 Jun 2026 08:01:54 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sun, 28 Jun 2026 03:32:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 28 Jun 2026 01:32:46 GMT</b><br/>
+  <b>Last automated update: Sun, 28 Jun 2026 06:01:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
