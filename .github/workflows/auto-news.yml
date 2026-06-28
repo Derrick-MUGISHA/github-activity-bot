@@ -1,5 +1,9 @@
 name: Enhanced Auto News Bot
 
+concurrency:
+  group: auto-news-bot
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: '*/10 * * * *'
@@ -14,7 +18,9 @@ jobs:
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -60,23 +66,37 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Derrick-MUGISHA"
-          git config --global user.email "derrickmugisha169@gmail.com"
-          
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           # Add all generated files
           git add README.md data/*.md data/*.json 2>/dev/null || true
-          
+
           # Check if there are changes
-          if git diff --staged --quiet; then
+          if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            # Get stats for commit message
-            TOTAL_ARTICLES=$(jq -r '.total // 0' data/stats.json 2>/dev/null || echo "0")
-            CATEGORIES=$(jq -r '.by_category | length // 0' data/stats.json 2>/dev/null || echo "0")
-            
-            git commit -m "Auto update: $TOTAL_ARTICLES articles across $CATEGORIES categories | CAT: $(TZ='Africa/Kigali' date +'%Y-%m-%d %H:%M') | UTC: $(date -u +'%Y-%m-%d %H:%M')"
-            git push
-            echo "Changes pushed successfully"
+            exit 0
           fi
+
+          # Get stats for commit message
+          TOTAL_ARTICLES=$(jq -r '.total // 0' data/stats.json 2>/dev/null || echo "0")
+          CATEGORIES=$(jq -r '.by_category | length // 0' data/stats.json 2>/dev/null || echo "0")
+
+          git commit -m "🤖 Auto update: $TOTAL_ARTICLES articles across $CATEGORIES categories | CAT: $(TZ='Africa/Kigali' date +'%Y-%m-%d %H:%M') | UTC: $(date -u +'%Y-%m-%d %H:%M')"
+
+          for i in {1..5}; do
+            git pull --rebase origin main
+
+            if git push origin main; then
+              echo "Changes pushed successfully"
+              exit 0
+            fi
+
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+
+          echo "Push failed after 5 retries"
+          exit 1
 
       - name: Cleanup old logs (keep last 30 days)
         run: |
