@@ -68,6 +68,19 @@ jobs:
           git config --global user.name "Derrick-MUGISHA"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # Truncate news_log.md before staging — GitHub hard limit is 100 MB.
+          # Keep the last 3000 lines (~3-5 MB) so recent history is preserved.
+          if [ -f "data/news_log.md" ]; then
+            FILE_SIZE=$(wc -c < "data/news_log.md")
+            echo "news_log.md size: ${FILE_SIZE} bytes"
+            if [ "$FILE_SIZE" -gt 10000000 ]; then
+              echo "Truncating news_log.md to last 3000 lines..."
+              tail -n 3000 data/news_log.md > data/news_log_tmp.md
+              mv data/news_log_tmp.md data/news_log.md
+              echo "Truncated. New size: $(wc -c < data/news_log.md) bytes"
+            fi
+          fi
+
           # Add all generated files
           git add README.md data/*.md data/*.json 2>/dev/null || true
 
@@ -97,12 +110,3 @@ jobs:
 
           echo "Push failed after 5 retries"
           exit 1
-
-      - name: Cleanup old logs (keep last 30 days)
-        run: |
-          if [ -f "data/news_log.md" ]; then
-            FILE_SIZE=$(wc -c < "data/news_log.md")
-            if [ $FILE_SIZE -gt 5000000 ]; then
-              echo "Log file is large ($FILE_SIZE bytes), consider archiving"
-            fi
-          fi
