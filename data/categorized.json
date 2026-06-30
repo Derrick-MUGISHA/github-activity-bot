@@ -1,78 +1,222 @@
 {
   "AI": [
     {
-      "title": "_action: Declarative Event Handlers in an Attribute",
-      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
-      "published_at": "2026-06-25T04:08:28Z",
-      "description": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
-      "tags": [
-        "progressiveenhancement",
-        "webcomponents",
-        "html",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
-      "source": "Dev.to",
-      "user": "Jon Nyman"
-    },
-    {
-      "title": "I built a CLI to break my highlights out of Apple Books",
-      "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn",
-      "published_at": "2026-06-26T08:11:51Z",
-      "description": "A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your reading notes.",
-      "tags": [
-        "showdev",
-        "opensource",
-        "macos"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkqiodnqdvclmi7iyygm4.png",
-      "source": "Dev.to",
-      "user": "Andrey Korchak"
-    },
-    {
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
-      "published_at": "2026-06-26T17:18:04Z",
-      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "tags": [
         "ai",
-        "playwright",
-        "githubactions",
-        "browserautomation"
+        "llm",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
-      "user": "Lizzie Siegle"
+      "user": "Sylwia Laskowska"
     },
     {
-      "title": "Tactical vs. Strategic Agentic AI Development — A Playbook for Developers",
-      "url": "https://dev.to/gde/tactical-vs-strategic-agentic-ai-development-a-playbook-for-developers-1654",
-      "published_at": "2026-06-26T05:41:10Z",
-      "description": "The Strategic Engineer: Why Writing Code Is No Longer Your Most Valuable Skill           ...",
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "published_at": "2026-06-29T20:00:00Z",
+      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
       "tags": [
-        "agents",
+        "aie",
+        "gamedev",
         "ai",
-        "architecture",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
+      "published_at": "2026-06-29T16:04:30Z",
+      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
         "softwareengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn3vu1x6ioxwysc6po3n9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
       "source": "Dev.to",
-      "user": "Adewumi Saheed Adewale"
+      "user": "swyx"
     },
     {
-      "title": "Lite-Harness SDK",
-      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
-      "published_at": "2026-06-25T12:37:20Z",
-      "description": "Unified API to swap AI coding harnesses like Claude Code and Codex",
+      "title": "What Actually Happens When You Call an LLM API",
+      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
+      "published_at": "2026-06-29T08:07:46Z",
+      "description": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
       "tags": [
         "ai",
-        "litellm",
-        "python",
-        "agents"
+        "webdev",
+        "beginners",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
       "source": "Dev.to",
-      "user": "jeann"
+      "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "published_at": "2026-06-29T11:50:14Z",
+      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "tags": [
+        "ai",
+        "rag",
+        "mcp",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "My commit message said \"You've hit your session limit\"",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "published_at": "2026-06-29T15:15:49Z",
+      "description": "How I ended up running a local LLM to generate my git commit messages",
+      "tags": [
+        "genai",
+        "ollama",
+        "learning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
+      "source": "Dev.to",
+      "user": "Shyamala"
+    },
+    {
+      "title": "You’re not really that far behind.",
+      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
+      "published_at": "2026-06-29T16:06:48Z",
+      "description": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
+      "tags": [
+        "aie",
+        "ai",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58c9s66c0had7b5k24ym.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
+    },
+    {
+      "title": "Coding Agents Play Favorites With Your Dependencies",
+      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
+      "published_at": "2026-06-29T16:05:43Z",
+      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "tags": [
+        "agents",
+        "aie",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
+      "source": "Dev.to",
+      "user": "Adam DuVander"
+    },
+    {
+      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
+      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
+      "published_at": "2026-06-29T16:06:30Z",
+      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
+      "tags": [
+        "aie",
+        "ai",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "The AI Engineer World’s Fair Spreads Globally",
+      "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h",
+      "published_at": "2026-06-29T16:05:03Z",
+      "description": "It has been less than three years since Shawn \"swyx\" Wang coined the term AI engineer in an open...",
+      "tags": [
+        "ai",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4e400hnnpsuuj39fylo3.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "For AI coding, the kids are alright",
+      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
+      "published_at": "2026-06-29T16:06:12Z",
+      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
+      "tags": [
+        "aie",
+        "beginners",
+        "softwaredevelopment",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "What to Expect at the AI Engineer World’s Fair 2026",
+      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g",
+      "published_at": "2026-06-29T16:05:26Z",
+      "description": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
+      "tags": [
+        "ai",
+        "aie",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fue6odvwtfzza3hg4o8kz.jpg",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -118,6 +262,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
       "source": "Dev.to",
       "user": "Jenning Ho"
+    },
+    {
+      "title": "Exploring Sandboxing for AI-Generated Google Apps Script",
+      "url": "https://dev.to/gde/exploring-sandboxing-for-ai-generated-google-apps-script-5hco",
+      "published_at": "2026-06-29T05:55:38Z",
+      "description": "Abstract   Executing autonomous AI agent payloads in Google Workspace via the Apps Script...",
+      "tags": [
+        "ai",
+        "security",
+        "antigravity",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ep4ihlpdwry4nouh1u9.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
@@ -210,20 +369,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building an AI Homelab",
-      "url": "https://dev.to/lordmathis/building-an-ai-homelab-330o",
-      "published_at": "2026-06-24T12:57:46Z",
-      "description": "A breakdown of my local AI homelab running local LLMs with custom tooling",
-      "tags": [
-        "ai",
-        "agents",
-        "homelab"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcdb9vdt3ecguwmz1wwnc.png",
-      "source": "Dev.to",
-      "user": "Matúš Námešný"
-    },
-    {
       "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
       "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce",
       "published_at": "2026-06-23T05:04:55Z",
@@ -247,6 +392,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "tags": [
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
     },
     {
       "title": "A Free Screenshot Editor That Never Uploads Your Image",
@@ -339,21 +499,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query",
-      "url": "https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og",
-      "published_at": "2026-06-23T17:56:20Z",
-      "description": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per...",
-      "tags": [
-        "ai",
-        "rag",
-        "architecture",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3wp798fyxkmhkkpova5.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
-    },
-    {
       "title": "Extending a Rust MCP/A2A Currency Agent with A2UI",
       "url": "https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc",
       "published_at": "2026-06-24T01:34:55Z",
@@ -369,6 +514,21 @@
       "user": "xbill"
     },
     {
+      "title": "Engineering a Brainrot art installation on an Orange Pi Zero 🍊",
+      "url": "https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk",
+      "published_at": "2026-06-27T20:49:31Z",
+      "description": "How I built a gamified, infinite-scroll video installation for the TIAT \"Slop Epistemologies\"...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwxkdotzyjfmm6gpz7z8q.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
       "title": "The AI Addiction Nobody Is Talking About",
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8",
       "published_at": "2026-06-11T22:49:00Z",
@@ -377,111 +537,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt8uc946fgzwxmdos0fs.jpeg",
       "source": "Dev.to",
       "user": "Samir Yahyazade"
-    },
-    {
-      "title": "Why stop gaming saved my tokens: Building my own local AI Lab",
-      "url": "https://dev.to/wizsebastian/why-stop-gaming-saved-my-tokens-building-my-own-local-ai-lab-4i06",
-      "published_at": "2026-06-25T03:29:02Z",
-      "description": "About a year ago, I turned my gaming PC into a local AI Lab. And yes, the most important word in that...",
-      "tags": [
-        "ai",
-        "opensource",
-        "productivity",
-        "gpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3s0mu2fp8sfdnlf9tuht.png",
-      "source": "Dev.to",
-      "user": "WizSebastian"
-    },
-    {
-      "title": "Understanding DNS",
-      "url": "https://dev.to/gde/understanding-dns-2a3j",
-      "published_at": "2026-06-16T02:28:20Z",
-      "description": "Domain Name System(DNS) is often called the phone book of the internet, this is because like a phone...",
-      "tags": [
-        "domainame",
-        "phonebook",
-        "domainnamesystem",
-        "internet"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2vacv4wozms365fh4ml.png",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
-    },
-    {
-      "title": "gke-scout, your AI On-Call SRE for Google Kubernetes Engine",
-      "url": "https://dev.to/gde/gke-scout-your-ai-on-call-sre-for-google-kubernetes-engine-3oco",
-      "published_at": "2026-06-25T08:41:24Z",
-      "description": "I built gke-scout, a CLI tool that acts as an AI on-call SRE for GKE. Point it at a broken workload,...",
-      "tags": [
-        "agenticarchitect",
-        "gde",
-        "gemini",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
-      "source": "Dev.to",
-      "user": "Nguyen Hai Truong"
-    },
-    {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "[Hands-on Gemini 3.5 Live",
-      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6",
-      "published_at": "2026-06-12T06:09:59Z",
-      "description": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fewamt5fjcv46wheked0s.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
-      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb",
-      "published_at": "2026-06-19T00:18:39Z",
-      "description": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
-      "tags": [
-        "midsommar",
-        "devchallenge",
-        "gamechallenge",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F960omswhpyiw1senu99b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
-      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0",
-      "published_at": "2026-06-09T12:16:25Z",
-      "description": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
-      "tags": [
-        "agentsasanapi",
-        "managedagent",
-        "gemini",
-        "managedagentsapi"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg32zdl6q3n75pgw3sxh5.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -628,19 +683,34 @@
       "user": "indigodaddy"
     },
     {
-      "title": "goehou/tabbit-toy - 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "url": "https://github.com/goehou/tabbit-toy",
-      "published_at": "2026-06-23T03:37:12Z",
-      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
+      "url": "https://github.com/blknoiz0632/CandyDrop",
+      "published_at": "2026-06-26T22:59:46Z",
+      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 374,
-      "user": "goehou"
+      "stars": 359,
+      "user": "blknoiz0632"
+    },
+    {
+      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "published_at": "2026-06-24T19:15:25Z",
+      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "benlamiro"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -654,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1794,
+      "stars": 4447,
       "user": "deepseek-ai"
     },
     {
@@ -669,23 +739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 468,
       "user": "Pluviobyte"
     },
     {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
+      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "published_at": "2026-06-28T22:56:13Z",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
       "source": "GitHub",
-      "stars": 350,
-      "user": "krea-ai"
+      "stars": 320,
+      "user": "offchainthoughts"
     },
     {
       "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
@@ -699,8 +769,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 197,
       "user": "kentjuno"
+    },
+    {
+      "title": "raiyanyahya/llmaker - Self-host the modern LLM stack.",
+      "url": "https://github.com/raiyanyahya/llmaker",
+      "published_at": "2026-06-24T07:12:44Z",
+      "description": "Self-host the modern LLM stack.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "raiyanyahya"
     },
     {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
@@ -719,21 +804,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "_action: Declarative Event Handlers in an Attribute",
-      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
-      "published_at": "2026-06-25T04:08:28Z",
-      "description": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
-      "tags": [
-        "progressiveenhancement",
-        "webcomponents",
-        "html",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
-      "source": "Dev.to",
-      "user": "Jon Nyman"
-    },
     {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
@@ -807,6 +877,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frdil9989ztme4s0oy93n.png",
       "source": "Dev.to",
       "user": "Jack Lee"
+    },
+    {
+      "title": "Engineering a Brainrot art installation on an Orange Pi Zero 🍊",
+      "url": "https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk",
+      "published_at": "2026-06-27T20:49:31Z",
+      "description": "How I built a gamified, infinite-scroll video installation for the TIAT \"Slop Epistemologies\"...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwxkdotzyjfmm6gpz7z8q.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
@@ -955,29 +1040,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 1686,
       "user": "Yu9191"
     },
     {
-      "title": "goehou/tabbit-toy - 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "url": "https://github.com/goehou/tabbit-toy",
-      "published_at": "2026-06-23T03:37:12Z",
-      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "title": "downclash/clash - GitHub Repository",
+      "url": "https://github.com/downclash/clash",
+      "published_at": "2026-06-27T04:54:21Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 374,
-      "user": "goehou"
+      "stars": 370,
+      "user": "downclash"
     },
     {
-      "title": "playPlumtown/Plumtown - The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
-      "url": "https://github.com/playPlumtown/Plumtown",
+      "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
+      "url": "https://github.com/blknoiz0632/CandyDrop",
       "published_at": "2026-06-26T22:59:46Z",
-      "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
       "tags": [
         "javascript",
         "github",
@@ -985,8 +1070,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 357,
-      "user": "playPlumtown"
+      "stars": 359,
+      "user": "blknoiz0632"
     },
     {
       "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
@@ -1000,56 +1085,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 319,
       "user": "abundantbeing"
     },
     {
-      "title": "byJoey/cfnew-deployer - GitHub Repository",
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "published_at": "2026-06-22T11:13:55Z",
-      "description": "Trending GitHub Repository",
+      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "published_at": "2026-06-24T19:15:25Z",
+      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "byJoey"
+      "stars": 155,
+      "user": "benlamiro"
     }
   ],
   "Python": [
-    {
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
-      "published_at": "2026-06-26T17:18:04Z",
-      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
-      "tags": [
-        "ai",
-        "playwright",
-        "githubactions",
-        "browserautomation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
-      "source": "Dev.to",
-      "user": "Lizzie Siegle"
-    },
-    {
-      "title": "Lite-Harness SDK",
-      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
-      "published_at": "2026-06-25T12:37:20Z",
-      "description": "Unified API to swap AI coding harnesses like Claude Code and Codex",
-      "tags": [
-        "ai",
-        "litellm",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv8lh8bex8wpk3bs09xp.png",
-      "source": "Dev.to",
-      "user": "jeann"
-    },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
@@ -1064,6 +1119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "tags": [
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
     },
     {
       "title": "Why I still teach Singleton even though modules make it redundant",
@@ -1212,38 +1282,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1794,
+      "stars": 4447,
       "user": "deepseek-ai"
     },
     {
-      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-      "url": "https://github.com/bikini/exploitarium",
-      "published_at": "2026-06-23T05:14:11Z",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "published_at": "2026-06-28T10:24:42Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1651,
-      "user": "bikini"
-    },
-    {
-      "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-      "published_at": "2026-06-22T13:48:37Z",
-      "description": "Qwen-AgentWorld: Language World Models for General Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
-      "source": "GitHub",
-      "stars": 610,
-      "user": "QwenLM"
+      "stars": 623,
+      "user": "yynxxxxx"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -1257,26 +1312,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 468,
       "user": "Pluviobyte"
     },
     {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
+      "title": "cclank/lanshu-animated-architecture-diagram - Premium hand-drawn animated architecture diagram Codex skill",
+      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+      "published_at": "2026-06-26T09:29:51Z",
+      "description": "Premium hand-drawn animated architecture diagram Codex skill",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 350,
-      "user": "krea-ai"
+      "stars": 363,
+      "user": "cclank"
+    },
+    {
+      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "published_at": "2026-06-28T22:56:13Z",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "offchainthoughts"
     }
   ],
   "DevOps": [
+    {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
+      "published_at": "2026-06-29T16:12:25Z",
+      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
     {
       "title": "cuenv: one typed file for your whole project",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
@@ -1366,38 +1451,23 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbg1e6p7tjg2zgfvpp3vs.png",
       "source": "Dev.to",
       "user": "Jesus Gilbert"
-    },
-    {
-      "title": "gke-scout, your AI On-Call SRE for Google Kubernetes Engine",
-      "url": "https://dev.to/gde/gke-scout-your-ai-on-call-sre-for-google-kubernetes-engine-3oco",
-      "published_at": "2026-06-25T08:41:24Z",
-      "description": "I built gke-scout, a CLI tool that acts as an AI on-call SRE for GKE. Point it at a broken workload,...",
-      "tags": [
-        "agenticarchitect",
-        "gde",
-        "gemini",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
-      "source": "Dev.to",
-      "user": "Nguyen Hai Truong"
     }
   ],
   "WebDev": [
     {
-      "title": "_action: Declarative Event Handlers in an Attribute",
-      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
-      "published_at": "2026-06-25T04:08:28Z",
-      "description": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
       "tags": [
-        "progressiveenhancement",
-        "webcomponents",
-        "html",
-        "javascript"
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
       "source": "Dev.to",
-      "user": "Jon Nyman"
+      "user": "Jakub Andrzejewski"
     },
     {
       "title": "I stopped generating color scales and started shaping them",
@@ -1458,6 +1528,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
+      "published_at": "2026-06-29T16:12:25Z",
+      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
@@ -1608,51 +1693,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjm724b3eduy3w5acasr.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
-      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2",
-      "published_at": "2026-06-17T04:11:30Z",
-      "description": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
-      "tags": [
-        "dns",
-        "dnssec",
-        "dnsabuse",
-        "trustinthecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frgjkvp9o7dv4584tmtpb.webp",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
-    },
-    {
-      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0",
-      "published_at": "2026-06-10T17:37:21Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
-      "tags": [
-        "nvidia",
-        "mcps",
-        "googlecloudrun",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg8jumgklo5uduenrphoz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg",
-      "published_at": "2026-06-10T01:05:21Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
-      "tags": [
-        "mcps",
-        "nvidial4",
-        "gemma12b",
-        "googlecloudrun"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb8upvzndx9jeymxxoaw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -1686,6 +1726,21 @@
   ],
   "Security": [
     {
+      "title": "Exploring Sandboxing for AI-Generated Google Apps Script",
+      "url": "https://dev.to/gde/exploring-sandboxing-for-ai-generated-google-apps-script-5hco",
+      "published_at": "2026-06-29T05:55:38Z",
+      "description": "Abstract   Executing autonomous AI agent payloads in Google Workspace via the Apps Script...",
+      "tags": [
+        "ai",
+        "security",
+        "antigravity",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ep4ihlpdwry4nouh1u9.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1711,23 +1766,97 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "published_at": "2026-06-24T19:15:25Z",
+      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "benlamiro"
     }
   ],
   "Tools": [
     {
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
-      "published_at": "2026-06-26T17:18:04Z",
-      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
       "tags": [
         "ai",
-        "playwright",
-        "githubactions",
-        "browserautomation"
+        "aie",
+        "productivity",
+        "leadership"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
-      "user": "Lizzie Siegle"
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "My commit message said \"You've hit your session limit\"",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "published_at": "2026-06-29T15:15:49Z",
+      "description": "How I ended up running a local LLM to generate my git commit messages",
+      "tags": [
+        "genai",
+        "ollama",
+        "learning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
+      "source": "Dev.to",
+      "user": "Shyamala"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
+    },
+    {
+      "title": "Coding Agents Play Favorites With Your Dependencies",
+      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
+      "published_at": "2026-06-29T16:05:43Z",
+      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "tags": [
+        "agents",
+        "aie",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
+      "source": "Dev.to",
+      "user": "Adam DuVander"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -1758,6 +1887,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
       "source": "Dev.to",
       "user": "Jenning Ho"
+    },
+    {
+      "title": "Automating Accounts Payable with Workspace Studio",
+      "url": "https://dev.to/gde/automating-accounts-payable-with-workspace-studio-33hh",
+      "published_at": "2026-06-29T07:53:33Z",
+      "description": "Dealing with vendor invoices usually means someone is sitting there manually opening PDFs and typing...",
+      "tags": [
+        "gemini",
+        "productivity",
+        "showdev",
+        "workspacestudio"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dmdopmovnnkyoiep75n.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "cuenv: one typed file for your whole project",
@@ -1805,20 +1949,6 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
-      "title": "Building an AI Homelab",
-      "url": "https://dev.to/lordmathis/building-an-ai-homelab-330o",
-      "published_at": "2026-06-24T12:57:46Z",
-      "description": "A breakdown of my local AI homelab running local LLMs with custom tooling",
-      "tags": [
-        "ai",
-        "agents",
-        "homelab"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcdb9vdt3ecguwmz1wwnc.png",
-      "source": "Dev.to",
-      "user": "Matúš Námešný"
-    },
-    {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
       "published_at": "2026-06-23T13:53:17Z",
@@ -1832,6 +1962,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "published_at": "2026-06-26T17:18:04Z",
+      "description": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "tags": [
+        "ai",
+        "playwright",
+        "githubactions",
+        "browserautomation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
     },
     {
       "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
@@ -1922,51 +2067,6 @@
       "user": "Rickard Andersson"
     },
     {
-      "title": "Why stop gaming saved my tokens: Building my own local AI Lab",
-      "url": "https://dev.to/wizsebastian/why-stop-gaming-saved-my-tokens-building-my-own-local-ai-lab-4i06",
-      "published_at": "2026-06-25T03:29:02Z",
-      "description": "About a year ago, I turned my gaming PC into a local AI Lab. And yes, the most important word in that...",
-      "tags": [
-        "ai",
-        "opensource",
-        "productivity",
-        "gpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3s0mu2fp8sfdnlf9tuht.png",
-      "source": "Dev.to",
-      "user": "WizSebastian"
-    },
-    {
-      "title": "gke-scout, your AI On-Call SRE for Google Kubernetes Engine",
-      "url": "https://dev.to/gde/gke-scout-your-ai-on-call-sre-for-google-kubernetes-engine-3oco",
-      "published_at": "2026-06-25T08:41:24Z",
-      "description": "I built gke-scout, a CLI tool that acts as an AI on-call SRE for GKE. Point it at a broken workload,...",
-      "tags": [
-        "agenticarchitect",
-        "gde",
-        "gemini",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnvz7cahx7bb6xqifbj8o.png",
-      "source": "Dev.to",
-      "user": "Nguyen Hai Truong"
-    },
-    {
-      "title": "[AI Practice] Building blazing-Fast AI Mac OS App with Antigravity CLI",
-      "url": "https://dev.to/gde/ai-practice-blazing-fast-ai-co-29l7",
-      "published_at": "2026-06-12T06:09:40Z",
-      "description": "Foreword: A Developer's New Collaboration Model     Imagine this scenario: you are...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c46l59dnusxpmnao70k.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "url": "https://github.com/Yu9191/wloc",
       "published_at": "2026-06-24T06:15:30Z",
@@ -1978,29 +2078,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 1686,
       "user": "Yu9191"
     },
     {
-      "title": "goehou/tabbit-toy - 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "url": "https://github.com/goehou/tabbit-toy",
-      "published_at": "2026-06-23T03:37:12Z",
-      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "title": "downclash/clash - GitHub Repository",
+      "url": "https://github.com/downclash/clash",
+      "published_at": "2026-06-27T04:54:21Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126329294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 374,
-      "user": "goehou"
+      "stars": 370,
+      "user": "downclash"
     },
     {
-      "title": "playPlumtown/Plumtown - The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
-      "url": "https://github.com/playPlumtown/Plumtown",
+      "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
+      "url": "https://github.com/blknoiz0632/CandyDrop",
       "published_at": "2026-06-26T22:59:46Z",
-      "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
       "tags": [
         "javascript",
         "github",
@@ -2008,8 +2108,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 357,
-      "user": "playPlumtown"
+      "stars": 359,
+      "user": "blknoiz0632"
     },
     {
       "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
@@ -2023,23 +2123,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 319,
       "user": "abundantbeing"
     },
     {
-      "title": "byJoey/cfnew-deployer - GitHub Repository",
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "published_at": "2026-06-22T11:13:55Z",
-      "description": "Trending GitHub Repository",
+      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "published_at": "2026-06-24T19:15:25Z",
+      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "byJoey"
+      "stars": 155,
+      "user": "benlamiro"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2053,38 +2153,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1794,
+      "stars": 4447,
       "user": "deepseek-ai"
     },
     {
-      "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-      "url": "https://github.com/bikini/exploitarium",
-      "published_at": "2026-06-23T05:14:11Z",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "published_at": "2026-06-28T10:24:42Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63224111?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1651,
-      "user": "bikini"
-    },
-    {
-      "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-      "published_at": "2026-06-22T13:48:37Z",
-      "description": "Qwen-AgentWorld: Language World Models for General Agents",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
-      "source": "GitHub",
-      "stars": 610,
-      "user": "QwenLM"
+      "stars": 623,
+      "user": "yynxxxxx"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -2098,23 +2183,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 468,
       "user": "Pluviobyte"
     },
     {
-      "title": "krea-ai/krea-2 - Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "published_at": "2026-06-22T21:41:41Z",
-      "description": "Official inference code for Krea 2",
+      "title": "cclank/lanshu-animated-architecture-diagram - Premium hand-drawn animated architecture diagram Codex skill",
+      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+      "published_at": "2026-06-26T09:29:51Z",
+      "description": "Premium hand-drawn animated architecture diagram Codex skill",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108735617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 350,
-      "user": "krea-ai"
+      "stars": 363,
+      "user": "cclank"
+    },
+    {
+      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "published_at": "2026-06-28T22:56:13Z",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "offchainthoughts"
     },
     {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
@@ -2128,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 260,
       "user": "ivorpad"
     },
     {
@@ -2143,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 197,
       "user": "kentjuno"
     },
     {
@@ -2158,8 +2258,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 103,
       "user": "JotaDev66"
+    },
+    {
+      "title": "raiyanyahya/llmaker - Self-host the modern LLM stack.",
+      "url": "https://github.com/raiyanyahya/llmaker",
+      "published_at": "2026-06-24T07:12:44Z",
+      "description": "Self-host the modern LLM stack.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "raiyanyahya"
     },
     {
       "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
@@ -2175,21 +2290,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "lxcshine"
-    },
-    {
-      "title": "bandoracer/librarry - Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
-      "url": "https://github.com/bandoracer/librarry",
-      "published_at": "2026-06-25T19:33:30Z",
-      "description": "Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "bandoracer"
     }
   ]
 }
