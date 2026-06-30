@@ -45,18 +45,19 @@
       "user": "swyx"
     },
     {
-      "title": "This Is Software’s iPhone Moment",
-      "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
-      "published_at": "2026-06-30T14:17:40Z",
-      "description": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "published_at": "2026-06-30T07:22:16Z",
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
       "tags": [
         "ai",
-        "aie",
-        "devrel"
+        "webdev",
+        "security",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
-      "user": "Swift"
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "The Future Of AI Is Local And Open",
@@ -73,19 +74,18 @@
       "user": "Paige Bailey"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "title": "This Is Software’s iPhone Moment",
+      "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
+      "published_at": "2026-06-30T14:17:40Z",
+      "description": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
       "tags": [
         "ai",
-        "webdev",
-        "security",
-        "discuss"
+        "aie",
+        "devrel"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Swift"
     },
     {
       "title": "AI Engineer Meets AI Engineer",
@@ -140,20 +140,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Developers Urged To Reach Out And Touch Someone",
-      "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
-      "published_at": "2026-06-30T14:34:26Z",
-      "description": "Monday’s final presentation was perhaps the most unusual one of the day in that it focused more on...",
-      "tags": [
-        "aie",
-        "ai",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -215,18 +201,19 @@
       "user": "Carlos Barbero"
     },
     {
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
-      "published_at": "2026-06-29T16:05:43Z",
-      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "published_at": "2026-06-30T22:10:45Z",
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
       "tags": [
-        "agents",
         "aie",
-        "tooling"
+        "ai",
+        "gamedev",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
-      "user": "Adam DuVander"
+      "user": "Jess Lee"
     },
     {
       "title": "The Model Does Not Need Memory. The Situation Does.",
@@ -313,6 +300,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Developers Urged To Reach Out And Touch Someone",
+      "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
+      "published_at": "2026-06-30T14:34:26Z",
+      "description": "Monday’s final presentation was perhaps the most unusual one of the day in that it focused more on...",
+      "tags": [
+        "aie",
+        "ai",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -785,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5201,
+      "stars": 5235,
       "user": "deepseek-ai"
     },
     {
@@ -1086,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1912,
+      "stars": 1927,
       "user": "Yu9191"
     },
     {
@@ -1131,7 +1132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "abundantbeing"
     },
     {
@@ -1328,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5201,
+      "stars": 5235,
       "user": "deepseek-ai"
     },
     {
@@ -1343,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "yynxxxxx"
     },
     {
@@ -1358,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 589,
       "user": "TianhangZhuzth"
     },
     {
@@ -1771,20 +1772,6 @@
       "user": "Shyamala"
     },
     {
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
-      "published_at": "2026-06-29T16:05:43Z",
-      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
-      "tags": [
-        "agents",
-        "aie",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
-      "source": "Dev.to",
-      "user": "Adam DuVander"
-    },
-    {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
       "published_at": "2026-06-29T16:05:56Z",
@@ -1959,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1912,
+      "stars": 1927,
       "user": "Yu9191"
     },
     {
@@ -2004,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "abundantbeing"
     },
     {
@@ -2034,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5201,
+      "stars": 5235,
       "user": "deepseek-ai"
     },
     {
@@ -2049,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "yynxxxxx"
     },
     {
@@ -2064,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 589,
       "user": "TianhangZhuzth"
     },
     {
@@ -2139,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "JotaDev66"
     },
     {
