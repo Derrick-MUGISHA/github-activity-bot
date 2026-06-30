@@ -15,7 +15,7 @@
     "Cloud": 11,
     "Database": 2,
     "Security": 3,
-    "Tools": 28
+    "Tools": 27
   },
   "by_language": {
     "Python": 18,
@@ -25,8 +25,8 @@
     "Rust": 3
   },
   "by_date": {
-    "2026-06-29": 14,
-    "2026-06-30": 19,
+    "2026-06-29": 13,
+    "2026-06-30": 20,
     "2026-06-23": 7,
     "2026-06-26": 9,
     "2026-06-22": 3,
@@ -72,7 +72,7 @@
     "2026-06-28": 1
   },
   "top_tags": {
-    "ai": 33,
+    "ai": 34,
     "aie": 20,
     "github": 15,
     "open-source": 15,
@@ -86,12 +86,12 @@
     "gemma4": 5,
     "go": 5,
     "discuss": 4,
-    "agents": 4,
     "opensource": 4,
     "qat": 4,
+    "gemini": 3,
     "llm": 3,
     "gemma": 3,
-    "networking": 3
+    "agents": 3
   },
   "trending_topics": [],
   "language_percentages": {
