@@ -16,6 +16,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "Welcome to AI Engineer World’s Fair 2026",
       "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
       "published_at": "2026-06-29T16:04:30Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
       "source": "Dev.to",
       "user": "swyx"
-    },
-    {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "This Is Software’s iPhone Moment",
@@ -101,6 +101,19 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "published_at": "2026-06-30T16:02:55Z",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "The Log Is the Agent",
       "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
       "published_at": "2026-06-30T15:01:43Z",
@@ -113,33 +126,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
       "source": "Dev.to",
       "user": "Ishaan Sehgal"
-    },
-    {
-      "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
-      "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
-      "published_at": "2026-06-30T14:52:38Z",
-      "description": "After a marathon 48 hours of coding, the winners of the AI Engineer World's Fair Hackathon have been...",
-      "tags": [
-        "aie",
-        "hackathon",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
     },
     {
       "title": "The Evolution & Role of Context Engineering in AI Today",
@@ -284,6 +270,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y0qj7vx9schdoduagw7.png",
       "source": "Dev.to",
       "user": "Gemini Team"
+    },
+    {
+      "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
+      "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
+      "published_at": "2026-06-30T14:52:38Z",
+      "description": "After a marathon 48 hours of coding, the winners of the AI Engineer World's Fair Hackathon have been...",
+      "tags": [
+        "aie",
+        "hackathon",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Scientists On AI: It’s Still Experimental",
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5163,
+      "stars": 5201,
       "user": "deepseek-ai"
     },
     {
@@ -830,7 +830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "raiyanyahya"
     },
     {
@@ -845,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "0xMassi"
     }
   ],
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1901,
+      "stars": 1912,
       "user": "Yu9191"
     },
     {
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "abundantbeing"
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5163,
+      "stars": 5201,
       "user": "deepseek-ai"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 763,
       "user": "yynxxxxx"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 585,
       "user": "TianhangZhuzth"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1901,
+      "stars": 1912,
       "user": "Yu9191"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "abundantbeing"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5163,
+      "stars": 5201,
       "user": "deepseek-ai"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 763,
       "user": "yynxxxxx"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 585,
       "user": "TianhangZhuzth"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "ivorpad"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "JotaDev66"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "raiyanyahya"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "0xMassi"
     }
   ]
