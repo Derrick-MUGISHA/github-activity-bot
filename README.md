@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-28-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-30-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (31.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.6%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
-**DevOps**: 🟦🟦🟦 7 (6.8%)
+**DevOps**: 🟦🟦 7 (6.7%)
+
+**Security**: 🟦 4 (3.8%)
 
 **WebDev**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
-**Security**: 🟦 2 (1.9%)
-
 
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,28 +58,28 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.9 (30.9%)
-JavaScript      ███████████████████████ 23.4 (23.4%)
-Java            █████████████████████ 21.3 (21.3%)
-Python          ████████████████████ 20.2 (20.2%)
-Rust            ████ 4.3 (4.3%)
+Go              ██████████████████████████████ 26.1 (26.1%)
+JavaScript      █████████████████████████████ 25.0 (25.0%)
+Java            ██████████████████████████ 22.7 (22.7%)
+Python          ████████████████████████ 20.5 (20.5%)
+Rust            ███████ 5.7 (5.7%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
+    "Go" : 23
     "JavaScript" : 22
     "Java" : 20
-    "Python" : 19
-    "Rust" : 4
+    "Python" : 18
+    "Rust" : 5
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![mcps](https://img.shields.io/badge/mcps-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![qat](https://img.shields.io/badge/qat-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![aie](https://img.shields.io/badge/aie-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemma4](https://img.shields.io/badge/gemma4-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-28 14:00 CAT)
+## 📅 Latest Updates (2026-06-30 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -127,28 +127,28 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-4na1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwjgi9i7y5tno03sd040f.jpg" width="200" alt="What was your win this week!?" />
+    <a href="https://dev.to/sylwia-lask/whats-next-for-ai-219i">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png" width="200" alt="What's Next for AI?" />
       <br/>
-      <b>What was your win this week!?</b>
+      <b>What's Next for AI?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98fcp2hdbrfhcxtm3sel.png" width="200" alt="_action: Declarative Event Handlers in an Attribute" />
+    <a href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png" width="200" alt="Need a break? Play today's game from The Daily Context." />
       <br/>
-      <b>_action: Declarative Event Handlers in an Attribut...</b>
+      <b>Need a break? Play today's game from The Daily Con...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkqiodnqdvclmi7iyygm4.png" width="200" alt="I built a CLI to break my highlights out of Apple Books" />
+    <a href="https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png" width="200" alt="Welcome to AI Engineer World’s Fair 2026" />
       <br/>
-      <b>I built a CLI to break my highlights out of Apple ...</b>
+      <b>Welcome to AI Engineer World’s Fair 2026</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -156,28 +156,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png" width="200" alt="Never forget to enter the Stern Grove lottery again!" />
+    <a href="https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg" width="200" alt="What Actually Happens When You Call an LLM API" />
       <br/>
-      <b>Never forget to enter the Stern Grove lottery agai...</b>
+      <b>What Actually Happens When You Call an LLM API</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mvzundert/why-i-built-nvim-starter-a-neovim-config-beginners-can-actually-understand-19a5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fga6roijuxxjmce026ttg.png" width="200" alt="Why I Built nvim-starter — a Neovim Config Beginners Can Actually Understand" />
+    <a href="https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png" width="200" alt="The Model Does Not Need Memory. The Situation Does." />
       <br/>
-      <b>Why I Built nvim-starter — a Neovim Config Beginne...</b>
+      <b>The Model Does Not Need Memory. The Situation Does...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png" width="200" alt="12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI" />
+    <a href="https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png" width="200" alt="Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks" />
       <br/>
-      <b>12B Gemma 4 Deployment with NVIDIA Blackwell 6000,...</b>
+      <b>Pragmatism in an Age of Infinite Code and Unavoida...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -189,28 +189,28 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) _[Dev.to]_
+- [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
+- [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
+- [What Actually Happens When You Call an LLM API](https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6) _[Dev.to]_
+- [The Model Does Not Need Memory. The Situation Does.](https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g) _[Dev.to]_
+- [Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd) _[Dev.to]_
+- [My commit message said "You've hit your session limit"](https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn) _[Dev.to]_
+- [You’re not really that far behind.](https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d) _[Dev.to]_
+- [After a long journey, I've reached a deep burnout](https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b) _[Dev.to]_
+- [Coding Agents Play Favorites With Your Dependencies](https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6) _[Dev.to]_
+- [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) _[Dev.to]_
+- [The AI Engineer World’s Fair Spreads Globally](https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h) _[Dev.to]_
+- [Midsommer Madness with WASM and Rust](https://dev.to/gde/midsommer-madness-with-wasm-and-rust-2ko3) _[Dev.to]_
+- [For AI coding, the kids are alright](https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1) _[Dev.to]_
-- [_action: Declarative Event Handlers in an Attribute](https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35) _[Dev.to]_
-- [I built a CLI to break my highlights out of Apple Books](https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn) _[Dev.to]_
-- [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5) _[Dev.to]_
-- [Why I Built nvim-starter — a Neovim Config Beginners Can Actually Understand](https://dev.to/mvzundert/why-i-built-nvim-starter-a-neovim-config-beginners-can-actually-understand-19a5) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-46a8) _[Dev.to]_
+- [What to Expect at the AI Engineer World’s Fair 2026](https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g) _[Dev.to]_
+- [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
-- [Tactical vs. Strategic Agentic AI Development — A Playbook for Developers](https://dev.to/gde/tactical-vs-strategic-agentic-ai-development-a-playbook-for-developers-1654) _[Dev.to]_
-- [Lite-Harness SDK](https://dev.to/jeancarlosn/lite-harness-sdk-3f28) _[Dev.to]_
-- [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc) _[Dev.to]_
-- [The agent-first approach to building products](https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj) _[Dev.to]_
-- [How I Use AI Councils to Solve Ambiguous Engineering Problems](https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii) _[Dev.to]_
-- [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) _[Dev.to]_
-- [A Developer's Guide to Agent Hooks in Antigravity CLI](https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no) _[Dev.to]_
-- [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k) _[Dev.to]_
-- [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2) _[Dev.to]_
-- [gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn) _[Dev.to]_
-- [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i) _[Dev.to]_
-- [Debian Packages](https://dev.to/karuppiah7890/debian-packages-51gj) _[Dev.to]_
-- [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph) _[Dev.to]_
 
-_Last automated update: Sun, 28 Jun 2026 14:53:12 CAT_
+_Last automated update: Tue, 30 Jun 2026 10:17:16 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sun, 28 Jun 2026 14:53:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 28 Jun 2026 12:53:12 GMT</b><br/>
+  <b>Last automated update: Tue, 30 Jun 2026 08:17:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
