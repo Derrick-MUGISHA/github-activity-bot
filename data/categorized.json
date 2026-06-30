@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
       "published_at": "2026-06-29T20:00:00Z",
@@ -43,6 +29,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
       "source": "Dev.to",
       "user": "swyx"
+    },
+    {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "What Actually Happens When You Call an LLM API",
@@ -90,21 +90,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
-      "published_at": "2026-06-29T15:15:49Z",
-      "description": "How I ended up running a local LLM to generate my git commit messages",
-      "tags": [
-        "genai",
-        "ollama",
-        "learning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
-      "source": "Dev.to",
-      "user": "Shyamala"
-    },
-    {
       "title": "You’re not really that far behind.",
       "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
       "published_at": "2026-06-29T16:06:48Z",
@@ -119,19 +104,19 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "title": "My commit message said \"You've hit your session limit\"",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "published_at": "2026-06-29T15:15:49Z",
+      "description": "How I ended up running a local LLM to generate my git commit messages",
       "tags": [
-        "discuss",
-        "ai",
+        "genai",
+        "ollama",
         "learning",
-        "productivity"
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
       "source": "Dev.to",
-      "user": "EmberNoGlow"
+      "user": "Shyamala"
     },
     {
       "title": "Coding Agents Play Favorites With Your Dependencies",
@@ -204,21 +189,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-      "published_at": "2026-06-29T05:22:27Z",
-      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
-      "tags": [
-        "performance",
-        "webperf",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
-      "source": "Dev.to",
-      "user": "Jakub Andrzejewski"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -247,6 +217,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5dpedjhfkcz55clldsjn.png",
       "source": "Dev.to",
       "user": "adam klein"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
     },
     {
       "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
@@ -377,6 +362,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsn6gx1nmzp3msf8wtnxi.png",
       "source": "Dev.to",
       "user": "Samir"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
     },
     {
       "title": "Multi-Tenancy Is the Real Agent Platform Problem",
@@ -698,21 +698,6 @@
       "user": "blknoiz0632"
     },
     {
-      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "url": "https://github.com/benlamiro/ShipGenAI",
-      "published_at": "2026-06-24T19:15:25Z",
-      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "benlamiro"
-    },
-    {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "published_at": "2026-06-26T12:36:05Z",
@@ -724,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4479,
+      "stars": 4728,
       "user": "deepseek-ai"
     },
     {
@@ -739,23 +724,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 475,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "published_at": "2026-06-28T22:56:13Z",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
-      "source": "GitHub",
-      "stars": 320,
-      "user": "offchainthoughts"
     },
     {
       "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
@@ -769,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 201,
       "user": "kentjuno"
     },
     {
@@ -784,23 +754,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "raiyanyahya"
     },
     {
-      "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
-      "url": "https://github.com/lxcshine/nexusbox",
-      "published_at": "2026-06-24T06:58:39Z",
-      "description": "Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
+      "url": "https://github.com/0xMassi/pocketdev",
+      "published_at": "2026-06-29T14:03:44Z",
+      "description": "One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 57,
-      "user": "lxcshine"
+      "stars": 59,
+      "user": "0xMassi"
     }
   ],
   "JavaScript": [
@@ -1040,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1770,
       "user": "Yu9191"
     },
     {
@@ -1055,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "downclash"
     },
     {
@@ -1089,19 +1059,19 @@
       "user": "abundantbeing"
     },
     {
-      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "url": "https://github.com/benlamiro/ShipGenAI",
-      "published_at": "2026-06-24T19:15:25Z",
-      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
+      "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+      "published_at": "2026-06-27T15:00:12Z",
+      "description": "UPI redeem only extension",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "benlamiro"
+      "stars": 160,
+      "user": "kui123456789"
     }
   ],
   "Python": [
@@ -1282,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4479,
+      "stars": 4728,
       "user": "deepseek-ai"
     },
     {
@@ -1297,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 657,
       "user": "yynxxxxx"
     },
     {
@@ -1312,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 475,
       "user": "Pluviobyte"
     },
     {
@@ -1327,23 +1297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "cclank"
     },
     {
-      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "published_at": "2026-06-28T22:56:13Z",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 320,
-      "user": "offchainthoughts"
+      "stars": 344,
+      "user": "TianhangZhuzth"
     }
   ],
   "DevOps": [
@@ -1455,21 +1425,6 @@
   ],
   "WebDev": [
     {
-      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-      "published_at": "2026-06-29T05:22:27Z",
-      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
-      "tags": [
-        "performance",
-        "webperf",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
-      "source": "Dev.to",
-      "user": "Jakub Andrzejewski"
-    },
-    {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
       "published_at": "2026-06-23T13:53:17Z",
@@ -1483,6 +1438,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1766,21 +1736,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "url": "https://github.com/benlamiro/ShipGenAI",
-      "published_at": "2026-06-24T19:15:25Z",
-      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "benlamiro"
     }
   ],
   "Tools": [
@@ -1815,21 +1770,6 @@
       "user": "Shyamala"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
-    },
-    {
       "title": "Coding Agents Play Favorites With Your Dependencies",
       "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
       "published_at": "2026-06-29T16:05:43Z",
@@ -1842,21 +1782,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
       "source": "Dev.to",
       "user": "Adam DuVander"
-    },
-    {
-      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-      "published_at": "2026-06-29T05:22:27Z",
-      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
-      "tags": [
-        "performance",
-        "webperf",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
-      "source": "Dev.to",
-      "user": "Jakub Andrzejewski"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -1872,6 +1797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
     },
     {
       "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
@@ -1962,6 +1902,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
     },
     {
       "title": "Never forget to enter the Stern Grove lottery again!",
@@ -2078,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1770,
       "user": "Yu9191"
     },
     {
@@ -2093,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "downclash"
     },
     {
@@ -2127,19 +2082,19 @@
       "user": "abundantbeing"
     },
     {
-      "title": "benlamiro/ShipGenAI - 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "url": "https://github.com/benlamiro/ShipGenAI",
-      "published_at": "2026-06-24T19:15:25Z",
-      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
+      "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+      "published_at": "2026-06-27T15:00:12Z",
+      "description": "UPI redeem only extension",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/296576426?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "benlamiro"
+      "stars": 160,
+      "user": "kui123456789"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2153,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4479,
+      "stars": 4728,
       "user": "deepseek-ai"
     },
     {
@@ -2168,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 657,
       "user": "yynxxxxx"
     },
     {
@@ -2183,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 475,
       "user": "Pluviobyte"
     },
     {
@@ -2198,23 +2153,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "cclank"
     },
     {
-      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "published_at": "2026-06-28T22:56:13Z",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 320,
-      "user": "offchainthoughts"
+      "stars": 344,
+      "user": "TianhangZhuzth"
     },
     {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
@@ -2228,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 265,
       "user": "ivorpad"
     },
     {
@@ -2243,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 201,
       "user": "kentjuno"
     },
     {
@@ -2273,23 +2228,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "raiyanyahya"
     },
     {
-      "title": "lxcshine/nexusbox - Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
-      "url": "https://github.com/lxcshine/nexusbox",
-      "published_at": "2026-06-24T06:58:39Z",
-      "description": "Secure sandbox for AI Agents — execute shell, file, code, and browser commands in isolation via MCP.",
+      "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
+      "url": "https://github.com/0xMassi/pocketdev",
+      "published_at": "2026-06-29T14:03:44Z",
+      "description": "One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 57,
-      "user": "lxcshine"
+      "stars": 59,
+      "user": "0xMassi"
     }
   ]
 }
