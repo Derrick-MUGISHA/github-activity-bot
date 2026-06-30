@@ -45,21 +45,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
-      "tags": [
-        "ai",
-        "webdev",
-        "security",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "This Is Software’s iPhone Moment",
       "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
       "published_at": "2026-06-30T14:17:40Z",
@@ -88,6 +73,21 @@
       "user": "Paige Bailey"
     },
     {
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "published_at": "2026-06-30T07:22:16Z",
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "tags": [
+        "ai",
+        "webdev",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
       "title": "AI Engineer Meets AI Engineer",
       "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
       "published_at": "2026-06-30T15:21:36Z",
@@ -99,6 +99,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "published_at": "2026-06-30T15:01:43Z",
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
+      "source": "Dev.to",
+      "user": "Ishaan Sehgal"
     },
     {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
@@ -115,19 +129,17 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "published_at": "2026-06-30T16:02:55Z",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
       "tags": [
-        "ai",
         "aie",
-        "productivity",
-        "leadership"
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Ryan Swift"
     },
     {
       "title": "The Evolution & Role of Context Engineering in AI Today",
@@ -144,19 +156,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Developers Urged To Reach Out And Touch Someone",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
       "published_at": "2026-06-30T14:34:26Z",
@@ -171,7 +170,7 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Gemma, the Epstein Files, and sandboxing cause a stir at the World's Fair",
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
       "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
       "published_at": "2026-06-30T14:37:29Z",
       "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
@@ -181,21 +180,7 @@
         "database",
         "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdvrceabdrk9rm3y6q9ms.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Scientists On AI: It’s Still Experimental",
-      "url": "https://dev.to/dailycontext/scientists-on-ai-its-still-experimental-5gm3",
-      "published_at": "2026-06-30T14:39:00Z",
-      "description": "As the AI Engineer World's Fair Expo kicked off, a group of scientists gathered for an informal...",
-      "tags": [
-        "aie",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Figw5cqu6v9rjc9u9ftkf.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -215,20 +200,6 @@
       "user": "Shyamala"
     },
     {
-      "title": "You’re not really that far behind.",
-      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
-      "published_at": "2026-06-29T16:06:48Z",
-      "description": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
-      "tags": [
-        "aie",
-        "ai",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58c9s66c0had7b5k24ym.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
       "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47",
       "published_at": "2026-06-30T15:08:52Z",
@@ -241,33 +212,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5cg95iics9f523h1g0z4.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "The Log Is the Agent",
-      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
-      "published_at": "2026-06-30T15:01:43Z",
-      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
-      "source": "Dev.to",
-      "user": "Ishaan Sehgal"
-    },
-    {
-      "title": "AI Drone Swarm Shines Out Over San Francisco",
-      "url": "https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg",
-      "published_at": "2026-06-30T15:15:34Z",
-      "description": "San Franciscans and attendees at the AI Engineer World's Fair saw a shining swarm of drones flying...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
@@ -314,6 +258,19 @@
       "user": "marcosomma"
     },
     {
+      "title": "AI Drone Swarm Shines Out Over San Francisco",
+      "url": "https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg",
+      "published_at": "2026-06-30T15:15:34Z",
+      "description": "San Franciscans and attendees at the AI Engineer World's Fair saw a shining swarm of drones flying...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
       "published_at": "2026-06-30T15:54:14Z",
@@ -329,6 +286,20 @@
       "user": "Gemini Team"
     },
     {
+      "title": "Scientists On AI: It’s Still Experimental",
+      "url": "https://dev.to/dailycontext/scientists-on-ai-its-still-experimental-5gm3",
+      "published_at": "2026-06-30T14:39:00Z",
+      "description": "As the AI Engineer World's Fair Expo kicked off, a group of scientists gathered for an informal...",
+      "tags": [
+        "aie",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Figw5cqu6v9rjc9u9ftkf.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "What Actually Happens When You Call an LLM API",
       "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
       "published_at": "2026-06-29T08:07:46Z",
@@ -342,6 +313,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "You’re not really that far behind.",
+      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
+      "published_at": "2026-06-29T16:06:48Z",
+      "description": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
+      "tags": [
+        "aie",
+        "ai",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58c9s66c0had7b5k24ym.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -770,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 341,
       "user": "blknoiz0632"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5085,
+      "stars": 5163,
       "user": "deepseek-ai"
     },
     {
@@ -845,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "0xMassi"
     }
   ],
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1884,
+      "stars": 1901,
       "user": "Yu9191"
     },
     {
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 350,
       "user": "downclash"
     },
     {
@@ -1116,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 341,
       "user": "blknoiz0632"
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5085,
+      "stars": 5163,
       "user": "deepseek-ai"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 761,
       "user": "yynxxxxx"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 579,
       "user": "TianhangZhuzth"
     },
     {
@@ -1683,7 +1683,7 @@
   ],
   "Database": [
     {
-      "title": "Gemma, the Epstein Files, and sandboxing cause a stir at the World's Fair",
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
       "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
       "published_at": "2026-06-30T14:37:29Z",
       "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
@@ -1693,7 +1693,7 @@
         "database",
         "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdvrceabdrk9rm3y6q9ms.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -1756,21 +1756,6 @@
   ],
   "Tools": [
     {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "tags": [
-        "ai",
-        "aie",
-        "productivity",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "My commit message said \"You've hit your session limit\"",
       "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
       "published_at": "2026-06-29T15:15:49Z",
@@ -1798,6 +1783,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
       "source": "Dev.to",
       "user": "Adam DuVander"
+    },
+    {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I Am Fired Up Again",
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1884,
+      "stars": 1901,
       "user": "Yu9191"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 350,
       "user": "downclash"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 341,
       "user": "blknoiz0632"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5085,
+      "stars": 5163,
       "user": "deepseek-ai"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 761,
       "user": "yynxxxxx"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 579,
       "user": "TianhangZhuzth"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "JotaDev66"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "0xMassi"
     }
   ]
