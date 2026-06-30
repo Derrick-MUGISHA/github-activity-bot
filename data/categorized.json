@@ -45,21 +45,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "What Actually Happens When You Call an LLM API",
-      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
-      "published_at": "2026-06-29T08:07:46Z",
-      "description": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
-      "tags": [
-        "ai",
-        "webdev",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "The Model Does Not Need Memory. The Situation Does.",
       "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
       "published_at": "2026-06-29T11:50:14Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "What Actually Happens When You Call an LLM API",
+      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
+      "published_at": "2026-06-29T08:07:46Z",
+      "description": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
+      "tags": [
+        "ai",
+        "webdev",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -133,6 +133,21 @@
       "user": "Adam DuVander"
     },
     {
+      "title": "For AI coding, the kids are alright",
+      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
+      "published_at": "2026-06-29T16:06:12Z",
+      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
+      "tags": [
+        "aie",
+        "beginners",
+        "softwaredevelopment",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
       "published_at": "2026-06-29T16:06:30Z",
@@ -160,21 +175,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "For AI coding, the kids are alright",
-      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
-      "published_at": "2026-06-29T16:06:12Z",
-      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
-      "tags": [
-        "aie",
-        "beginners",
-        "softwaredevelopment",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "What to Expect at the AI Engineer World’s Fair 2026",
       "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g",
       "published_at": "2026-06-29T16:05:26Z",
@@ -187,6 +187,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fue6odvwtfzza3hg4o8kz.jpg",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -217,21 +232,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5dpedjhfkcz55clldsjn.png",
       "source": "Dev.to",
       "user": "adam klein"
-    },
-    {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
     },
     {
       "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4728,
+      "stars": 4847,
       "user": "deepseek-ai"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "Pluviobyte"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 83,
       "user": "raiyanyahya"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 65,
       "user": "0xMassi"
     }
   ],
@@ -1010,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1770,
+      "stars": 1803,
       "user": "Yu9191"
     },
     {
@@ -1055,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "abundantbeing"
     },
     {
@@ -1252,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4728,
+      "stars": 4847,
       "user": "deepseek-ai"
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 682,
       "user": "yynxxxxx"
     },
     {
@@ -1282,23 +1282,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "cclank/lanshu-animated-architecture-diagram - Premium hand-drawn animated architecture diagram Codex skill",
-      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
-      "published_at": "2026-06-26T09:29:51Z",
-      "description": "Premium hand-drawn animated architecture diagram Codex skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 367,
-      "user": "cclank"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
@@ -1312,8 +1297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 442,
       "user": "TianhangZhuzth"
+    },
+    {
+      "title": "cclank/lanshu-animated-architecture-diagram - Premium hand-drawn animated architecture diagram Codex skill",
+      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+      "published_at": "2026-06-26T09:29:51Z",
+      "description": "Premium hand-drawn animated architecture diagram Codex skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 376,
+      "user": "cclank"
     }
   ],
   "DevOps": [
@@ -1784,21 +1784,6 @@
       "user": "Adam DuVander"
     },
     {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
       "published_at": "2026-06-28T09:04:04Z",
@@ -1812,6 +1797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
       "source": "Dev.to",
       "user": "EmberNoGlow"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
     },
     {
       "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
@@ -2033,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1770,
+      "stars": 1803,
       "user": "Yu9191"
     },
     {
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "abundantbeing"
     },
     {
@@ -2108,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4728,
+      "stars": 4847,
       "user": "deepseek-ai"
     },
     {
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 682,
       "user": "yynxxxxx"
     },
     {
@@ -2138,23 +2138,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "cclank/lanshu-animated-architecture-diagram - Premium hand-drawn animated architecture diagram Codex skill",
-      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
-      "published_at": "2026-06-26T09:29:51Z",
-      "description": "Premium hand-drawn animated architecture diagram Codex skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 367,
-      "user": "cclank"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
@@ -2168,8 +2153,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 442,
       "user": "TianhangZhuzth"
+    },
+    {
+      "title": "cclank/lanshu-animated-architecture-diagram - Premium hand-drawn animated architecture diagram Codex skill",
+      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+      "published_at": "2026-06-26T09:29:51Z",
+      "description": "Premium hand-drawn animated architecture diagram Codex skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 376,
+      "user": "cclank"
     },
     {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
@@ -2183,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "ivorpad"
     },
     {
@@ -2213,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "JotaDev66"
     },
     {
@@ -2228,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 83,
       "user": "raiyanyahya"
     },
     {
@@ -2243,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 65,
       "user": "0xMassi"
     }
   ]

@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-30 13:00 CAT)
+## 📅 Latest Updates (2026-06-30 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -156,19 +156,19 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg" width="200" alt="What Actually Happens When You Call an LLM API" />
+    <a href="https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png" width="200" alt="The Model Does Not Need Memory. The Situation Does." />
       <br/>
-      <b>What Actually Happens When You Call an LLM API</b>
+      <b>The Model Does Not Need Memory. The Situation Does...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png" width="200" alt="The Model Does Not Need Memory. The Situation Does." />
+    <a href="https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg" width="200" alt="What Actually Happens When You Call an LLM API" />
       <br/>
-      <b>The Model Does Not Need Memory. The Situation Does...</b>
+      <b>What Actually Happens When You Call an LLM API</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -192,25 +192,25 @@ npm run test
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
 - [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
 - [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) _[Dev.to]_
-- [What Actually Happens When You Call an LLM API](https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6) _[Dev.to]_
 - [The Model Does Not Need Memory. The Situation Does.](https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g) _[Dev.to]_
+- [What Actually Happens When You Call an LLM API](https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6) _[Dev.to]_
 - [Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd) _[Dev.to]_
 - [You’re not really that far behind.](https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d) _[Dev.to]_
 - [My commit message said "You've hit your session limit"](https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn) _[Dev.to]_
 - [Coding Agents Play Favorites With Your Dependencies](https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6) _[Dev.to]_
-- [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) _[Dev.to]_
-- [The AI Engineer World’s Fair Spreads Globally](https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h) _[Dev.to]_
 - [Midsommer Madness with WASM and Rust](https://dev.to/gde/midsommer-madness-with-wasm-and-rust-2ko3) _[Dev.to]_
 - [For AI coding, the kids are alright](https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1) _[Dev.to]_
+- [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-46a8) _[Dev.to]_
+- [The AI Engineer World’s Fair Spreads Globally](https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h) _[Dev.to]_
 - [What to Expect at the AI Engineer World’s Fair 2026](https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) _[Dev.to]_
 - [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) _[Dev.to]_
+- [After a long journey, I've reached a deep burnout](https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b) _[Dev.to]_
 - [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc) _[Dev.to]_
-- [The agent-first approach to building products](https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj) _[Dev.to]_
 
-_Last automated update: Tue, 30 Jun 2026 13:36:40 CAT_
+_Last automated update: Tue, 30 Jun 2026 15:34:03 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Tue, 30 Jun 2026 13:36:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 30 Jun 2026 11:36:40 GMT</b><br/>
+  <b>Last automated update: Tue, 30 Jun 2026 13:34:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
