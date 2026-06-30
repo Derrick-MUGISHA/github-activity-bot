@@ -6094,3 +6094,759 @@ I spent months watching AI coding agents produce impressive demos that couldn't 
 
 ---
 
+
+
+## 📰 DevTech News — 2026-06-30 20:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (61 articles)
+
+#### 1. [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli)
+📅 Mon, 29 Jun 2026 20:00:00 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Need a break? Play today's game from The Daily Context.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png)
+
+We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...
+
+🏷️ Tags: `aie`, `gamedev`, `ai`, `gemini`
+
+---
+
+#### 2. [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09)
+📅 Mon, 29 Jun 2026 16:04:30 GMT
+👤 By: swyx | 📌 Source: Dev.to
+
+![Welcome to AI Engineer World’s Fair 2026](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png)
+
+Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...
+
+🏷️ Tags: `aie`, `ai`, `techtalks`, `softwareengineering`
+
+---
+
+#### 3. [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i)
+📅 Mon, 29 Jun 2026 07:18:48 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![What's Next for AI?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png)
+
+I have been writing about AI for quite a while now, but this is probably the first time I genuinely...
+
+🏷️ Tags: `ai`, `llm`, `webdev`
+
+---
+
+#### 4. [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+📅 Tue, 30 Jun 2026 07:22:16 GMT
+👤 By: Daniel Nwaneri | 📌 Source: Dev.to
+
+![Someone Else Pays for Your AI Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg)
+
+you probably didn't think about this when you signed up.  you entered your card details, verified...
+
+🏷️ Tags: `ai`, `webdev`, `security`, `discuss`
+
+---
+
+#### 5. [This Is Software’s iPhone Moment](https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d)
+📅 Tue, 30 Jun 2026 14:17:40 GMT
+👤 By: Swift | 📌 Source: Dev.to
+
+![This Is Software’s iPhone Moment](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg)
+
+In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...
+
+🏷️ Tags: `ai`, `aie`, `devrel`
+
+---
+
+#### 6. [The Future Of AI Is Local And Open](https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c)
+📅 Tue, 30 Jun 2026 14:47:06 GMT
+👤 By: Paige Bailey | 📌 Source: Dev.to
+
+![The Future Of AI Is Local And Open](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png)
+
+There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...
+
+🏷️ Tags: `aie`, `gemma`, `ai`
+
+---
+
+#### 7. [AI Engineer Meets AI Engineer](https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj)
+📅 Tue, 30 Jun 2026 15:21:36 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![AI Engineer Meets AI Engineer](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg)
+
+I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...
+
+🏷️ Tags: `aie`, `ai`
+
+---
+
+#### 8. [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl)
+📅 Tue, 30 Jun 2026 14:52:38 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Hackathon Winners Scoop $35,000 In Cash And Credits](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg)
+
+After a marathon 48 hours of coding, the winners of the AI Engineer World's Fair Hackathon have been...
+
+🏷️ Tags: `aie`, `hackathon`, `ai`
+
+---
+
+#### 9. [Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd)
+📅 Mon, 29 Jun 2026 16:05:56 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png)
+
+Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....
+
+🏷️ Tags: `ai`, `aie`, `productivity`, `leadership`
+
+---
+
+#### 10. [The Evolution & Role of Context Engineering in AI Today](https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f)
+📅 Tue, 30 Jun 2026 15:33:14 GMT
+👤 By: Kara Silverman | 📌 Source: Dev.to
+
+![The Evolution & Role of Context Engineering in AI Today](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg)
+
+I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...
+
+🏷️ Tags: `aie`, `ai`, `agents`
+
+---
+
+### 🏷️ JavaScript (22 articles)
+
+#### 1. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 2. [Multi-Tenancy Is the Real Agent Platform Problem](https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2)
+📅 Tue, 23 Jun 2026 12:33:46 GMT
+👤 By: Ahmad Ra'fat | 📌 Source: Dev.to
+
+![Multi-Tenancy Is the Real Agent Platform Problem](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png)
+
+Overview    Read on Hashnode   What I have seen when building agent platforms is that most...
+
+🏷️ Tags: `ai`, `agents`, `multiplatform`, `architecture`
+
+---
+
+#### 3. [A Free Screenshot Editor That Never Uploads Your Image](https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb)
+📅 Fri, 26 Jun 2026 11:34:04 GMT
+👤 By: Martin Stark | 📌 Source: Dev.to
+
+![A Free Screenshot Editor That Never Uploads Your Image](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png)
+
+A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.
+
+🏷️ Tags: `typescript`, `editor`, `canvas`, `images`
+
+---
+
+#### 4. [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
+📅 Thu, 18 Jun 2026 12:56:27 GMT
+👤 By: Tsahi Levent-Levi | 📌 Source: Dev.to
+
+![How to Read a webrtc-internals Dump, Section by Section](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png)
+
+When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...
+
+🏷️ Tags: `webrtc`, `javascript`, `webdev`
+
+---
+
+#### 5. [Why we rejected the export-and-fork model for visual UI editing](https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g)
+📅 Mon, 22 Jun 2026 13:16:56 GMT
+👤 By: Jack Lee | 📌 Source: Dev.to
+
+![Why we rejected the export-and-fork model for visual UI editing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frdil9989ztme4s0oy93n.png)
+
+~10 min read · Engineering     There are roughly three honest ways a visual editing tool can relate...
+
+🏷️ Tags: `ast`, `react`, `scd`, `mui`
+
+---
+
+#### 6. [Engineering a Brainrot art installation on an Orange Pi Zero 🍊](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk)
+📅 Sat, 27 Jun 2026 20:49:31 GMT
+👤 By: Paige Bailey | 📌 Source: Dev.to
+
+![Engineering a Brainrot art installation on an Orange Pi Zero 🍊](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwxkdotzyjfmm6gpz7z8q.png)
+
+How I built a gamified, infinite-scroll video installation for the TIAT "Slop Epistemologies"...
+
+🏷️ Tags: `ai`, `webdev`, `programming`, `javascript`
+
+---
+
+#### 7. [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+📅 Fri, 12 Jun 2026 12:31:21 GMT
+👤 By: Dmitry Sheiko | 📌 Source: Dev.to
+
+![Why I still teach Singleton even though modules make it redundant](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png)
+
+Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...
+
+🏷️ Tags: `webdev`, `javascript`, `python`, `rust`
+
+---
+
+#### 8. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0)
+📅 Tue, 30 Jun 2026 15:10:30 GMT
+👤 By: Carlos Barbero | 📌 Source: Dev.to
+
+![Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png)
+
+How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.
+
+🏷️ Tags: `kubernetes`, `googlecloud`, `ai`, `antigrafity`
+
+---
+
+#### 2. [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5)
+📅 Fri, 26 Jun 2026 17:18:04 GMT
+👤 By: Lizzie Siegle | 📌 Source: Dev.to
+
+![Never forget to enter the Stern Grove lottery again!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png)
+
+Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!
+
+🏷️ Tags: `ai`, `playwright`, `githubactions`, `browserautomation`
+
+---
+
+#### 3. [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+📅 Fri, 12 Jun 2026 12:31:21 GMT
+👤 By: Dmitry Sheiko | 📌 Source: Dev.to
+
+![Why I still teach Singleton even though modules make it redundant](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u3u5guf3ivvqg7u4q4s.png)
+
+Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...
+
+🏷️ Tags: `webdev`, `javascript`, `python`, `rust`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0)
+📅 Tue, 30 Jun 2026 15:10:30 GMT
+👤 By: Carlos Barbero | 📌 Source: Dev.to
+
+![Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png)
+
+How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.
+
+🏷️ Tags: `kubernetes`, `googlecloud`, `ai`, `antigrafity`
+
+---
+
+#### 2. [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph)
+📅 Fri, 26 Jun 2026 19:56:54 GMT
+👤 By: Joaquin Menchaca | 📌 Source: Dev.to
+
+![Minimalist EKS: The Easy Way](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png)
+
+Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...
+
+🏷️ Tags: `kubernetes`, `aws`, `devops`, `beginners`
+
+---
+
+#### 3. [Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc)
+📅 Tue, 23 Jun 2026 22:47:06 GMT
+👤 By: Keme Kenneth | 📌 Source: Dev.to
+
+![Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png)
+
+Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...
+
+🏷️ Tags: `githubactions`, `gitlabci`, `cloudsecurity`, `devsecops`
+
+---
+
+#### 4. [A Guide to AI Cold Starts on Cloud Run](https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d)
+📅 Fri, 26 Jun 2026 16:50:58 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![A Guide to AI Cold Starts on Cloud Run](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg)
+
+I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...
+
+🏷️ Tags: `ai`, `devops`, `googlecloud`, `machinelearning`
+
+---
+
+#### 5. [🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes](https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc)
+📅 Tue, 23 Jun 2026 15:21:30 GMT
+👤 By: Jesus Gilbert | 📌 Source: Dev.to
+
+![🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbg1e6p7tjg2zgfvpp3vs.png)
+
+One-Click Self-Hosted Talos Omni Deployment with Automatic TLS Trust Configuration   After...
+
+🏷️ Tags: `tutorial`, `homelab`, `kubernetes`, `linux`
+
+---
+
+### 🏷️ WebDev (3 articles)
+
+#### 1. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 2. [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e)
+📅 Mon, 29 Jun 2026 05:22:27 GMT
+👤 By: Jakub Andrzejewski | 📌 Source: Dev.to
+
+![Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png)
+
+Performance optimization has always been one of the hardest parts of web development. You run...
+
+🏷️ Tags: `performance`, `webperf`, `ai`, `tutorial`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Cloud (11 articles)
+
+#### 1. [Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0)
+📅 Tue, 30 Jun 2026 15:10:30 GMT
+👤 By: Carlos Barbero | 📌 Source: Dev.to
+
+![Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png)
+
+How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.
+
+🏷️ Tags: `kubernetes`, `googlecloud`, `ai`, `antigrafity`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6)
+📅 Tue, 30 Jun 2026 01:18:13 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `mcps`, `gemma`, `tpu`, `benchmark`
+
+---
+
+#### 3. [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph)
+📅 Fri, 26 Jun 2026 19:56:54 GMT
+👤 By: Joaquin Menchaca | 📌 Source: Dev.to
+
+![Minimalist EKS: The Easy Way](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png)
+
+Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...
+
+🏷️ Tags: `kubernetes`, `aws`, `devops`, `beginners`
+
+---
+
+#### 4. [Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4)
+📅 Mon, 22 Jun 2026 17:13:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...
+
+🏷️ Tags: `qat`, `gemma4`, `mcps`, `azurecontainerapps`
+
+---
+
+#### 5. [MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…](https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0)
+📅 Sun, 21 Jun 2026 14:34:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png)
+
+MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...
+
+🏷️ Tags: `antigravity`, `mcps`, `speculativedecoding`, `qat`
+
+---
+
+#### 6. [Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n)
+📅 Wed, 17 Jun 2026 15:04:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd06qn4latfoeuzc50ot9.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `antigravitycli`, `gemma4`, `mcps`, `tpu`
+
+---
+
+#### 7. [Deploying Gemma 12B to Azure with GPU](https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd)
+📅 Wed, 17 Jun 2026 01:15:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying Gemma 12B to Azure with GPU](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms8gsbl2gfv5bsvw5ttp.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...
+
+🏷️ Tags: `qat`, `gemma4`, `mcps`, `nvidiagpu`
+
+---
+
+#### 8. [Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc)
+📅 Tue, 23 Jun 2026 22:47:06 GMT
+👤 By: Keme Kenneth | 📌 Source: Dev.to
+
+![Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png)
+
+Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...
+
+🏷️ Tags: `githubactions`, `gitlabci`, `cloudsecurity`, `devsecops`
+
+---
+
+#### 9. [A Guide to AI Cold Starts on Cloud Run](https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d)
+📅 Fri, 26 Jun 2026 16:50:58 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![A Guide to AI Cold Starts on Cloud Run](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyawc2by94ohe0ixqaa7.jpg)
+
+I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...
+
+🏷️ Tags: `ai`, `devops`, `googlecloud`, `machinelearning`
+
+---
+
+#### 10. [Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale](https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh)
+📅 Wed, 24 Jun 2026 15:25:19 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi71t5truyb52yaqtylkz.png)
+
+Did you want more Claude on Cloud? Well, look no further. We have something for you happening today...
+
+🏷️ Tags: `eventsinyourcity`, `ai`, `claude`, `googlecloud`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Gemma, the Epstein Files, and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p)
+📅 Tue, 30 Jun 2026 14:37:29 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Gemma, the Epstein Files, and sandboxing cause a stir at the World's Fair](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdvrceabdrk9rm3y6q9ms.jpg)
+
+As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...
+
+🏷️ Tags: `aie`, `ai`, `database`, `gemma`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (3 articles)
+
+#### 1. [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+📅 Tue, 30 Jun 2026 07:22:16 GMT
+👤 By: Daniel Nwaneri | 📌 Source: Dev.to
+
+![Someone Else Pays for Your AI Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg)
+
+you probably didn't think about this when you signed up.  you entered your card details, verified...
+
+🏷️ Tags: `ai`, `webdev`, `security`, `discuss`
+
+---
+
+#### 2. [Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc)
+📅 Tue, 23 Jun 2026 22:47:06 GMT
+👤 By: Keme Kenneth | 📌 Source: Dev.to
+
+![Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png)
+
+Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...
+
+🏷️ Tags: `githubactions`, `gitlabci`, `cloudsecurity`, `devsecops`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (28 articles)
+
+#### 1. [Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd)
+📅 Mon, 29 Jun 2026 16:05:56 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png)
+
+Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....
+
+🏷️ Tags: `ai`, `aie`, `productivity`, `leadership`
+
+---
+
+#### 2. [My commit message said "You've hit your session limit"](https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn)
+📅 Mon, 29 Jun 2026 15:15:49 GMT
+👤 By: Shyamala | 📌 Source: Dev.to
+
+![My commit message said "You've hit your session limit"](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg)
+
+How I ended up running a local LLM to generate my git commit messages
+
+🏷️ Tags: `genai`, `ollama`, `learning`, `llm`
+
+---
+
+#### 3. [Coding Agents Play Favorites With Your Dependencies](https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6)
+📅 Mon, 29 Jun 2026 16:05:43 GMT
+👤 By: Adam DuVander | 📌 Source: Dev.to
+
+![Coding Agents Play Favorites With Your Dependencies](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png)
+
+Deep into a coding session, you realize you want beta testers to try some new functionality first....
+
+🏷️ Tags: `agents`, `aie`, `tooling`
+
+---
+
+#### 4. [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i)
+📅 Tue, 23 Jun 2026 13:29:11 GMT
+👤 By: Jenuel Oras Ganawed | 📌 Source: Dev.to
+
+![I Am Fired Up Again](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png)
+
+A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.
+
+🏷️ Tags: `career`, `motivation`, `productivity`, `life`
+
+---
+
+#### 5. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 6. [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e)
+📅 Mon, 29 Jun 2026 05:22:27 GMT
+👤 By: Jakub Andrzejewski | 📌 Source: Dev.to
+
+![Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png)
+
+Performance optimization has always been one of the hardest parts of web development. You run...
+
+🏷️ Tags: `performance`, `webperf`, `ai`, `tutorial`
+
+---
+
+#### 7. [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5)
+📅 Fri, 26 Jun 2026 17:18:04 GMT
+👤 By: Lizzie Siegle | 📌 Source: Dev.to
+
+![Never forget to enter the Stern Grove lottery again!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23vm7y2u2ylkehi5xax9.png)
+
+Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!
+
+🏷️ Tags: `ai`, `playwright`, `githubactions`, `browserautomation`
+
+---
+
+#### 8. [AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf)
+📅 Thu, 25 Jun 2026 19:35:36 GMT
+👤 By: Karthick | 📌 Source: Dev.to
+
+![AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fph8nl79vzi52tdzob4uj.png)
+
+Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...
+
+🏷️ Tags: `ai`, `claude`, `cli`, `opensource`
+
+---
+
+#### 9. [How I built mechanical enforcement for AI coding agents — and why prompts aren't enough](https://dev.to/juandelossantos/how-i-built-mechanical-enforcement-for-ai-coding-agents-and-why-prompts-arent-enough-13bg)
+📅 Thu, 25 Jun 2026 17:30:44 GMT
+👤 By: David Emilio Sierra Puentes | 📌 Source: Dev.to
+
+![How I built mechanical enforcement for AI coding agents — and why prompts aren't enough](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fic6jvkagbyk11y3km89k.png)
+
+I spent months watching AI coding agents produce impressive demos that couldn't survive...
+
+🏷️ Tags: `opensource`, `ai`, `productivity`, `tooling`
+
+---
+
+#### 10. [Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc)
+📅 Tue, 23 Jun 2026 22:47:06 GMT
+👤 By: Keme Kenneth | 📌 Source: Dev.to
+
+![Still Storing AWS Access Keys in CI/CD? There’s a safer way.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpszorm11cn63z3q9dbca.png)
+
+Does your GitHub Actions or GitLab CI pipeline contains these secrets: AWS_ACCESS_KEY_ID or...
+
+🏷️ Tags: `githubactions`, `gitlabci`, `cloudsecurity`, `devsecops`
+
+---
+
