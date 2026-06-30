@@ -60,20 +60,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
-      "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
-      "published_at": "2026-06-30T14:52:38Z",
-      "description": "After a marathon 48 hours of coding, the winners of the AI Engineer World's Fair Hackathon have been...",
-      "tags": [
-        "aie",
-        "hackathon",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "This Is Software’s iPhone Moment",
       "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
       "published_at": "2026-06-30T14:17:40Z",
@@ -86,6 +72,47 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
       "source": "Dev.to",
       "user": "Swift"
+    },
+    {
+      "title": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "published_at": "2026-06-30T14:47:06Z",
+      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
+      "tags": [
+        "aie",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
+      "title": "AI Engineer Meets AI Engineer",
+      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "published_at": "2026-06-30T15:21:36Z",
+      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
+      "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
+      "published_at": "2026-06-30T14:52:38Z",
+      "description": "After a marathon 48 hours of coding, the winners of the AI Engineer World's Fair Hackathon have been...",
+      "tags": [
+        "aie",
+        "hackathon",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -103,18 +130,45 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "The Future Of AI Is Local And Open",
-      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
-      "published_at": "2026-06-30T14:47:06Z",
-      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
+      "title": "The Evolution & Role of Context Engineering in AI Today",
+      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
+      "published_at": "2026-06-30T15:33:14Z",
+      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...",
       "tags": [
         "aie",
-        "gemma",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "published_at": "2026-06-30T16:02:55Z",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "tags": [
+        "aie",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
       "source": "Dev.to",
-      "user": "Paige Bailey"
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Developers Urged To Reach Out And Touch Someone",
+      "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
+      "published_at": "2026-06-30T14:34:26Z",
+      "description": "Monday’s final presentation was perhaps the most unusual one of the day in that it focused more on...",
+      "tags": [
+        "aie",
+        "ai",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Gemma, the Epstein Files, and sandboxing cause a stir at the World's Fair",
@@ -132,45 +186,18 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Developers Urged To Reach Out And Touch Someone",
-      "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
-      "published_at": "2026-06-30T14:34:26Z",
-      "description": "Monday’s final presentation was perhaps the most unusual one of the day in that it focused more on...",
+      "title": "Scientists On AI: It’s Still Experimental",
+      "url": "https://dev.to/dailycontext/scientists-on-ai-its-still-experimental-5gm3",
+      "published_at": "2026-06-30T14:39:00Z",
+      "description": "As the AI Engineer World's Fair Expo kicked off, a group of scientists gathered for an informal...",
       "tags": [
         "aie",
         "ai",
-        "networking"
+        "coding"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Figw5cqu6v9rjc9u9ftkf.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "AI Engineer Meets AI Engineer",
-      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
-      "published_at": "2026-06-30T15:21:36Z",
-      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "You’re not really that far behind.",
-      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
-      "published_at": "2026-06-29T16:06:48Z",
-      "description": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
-      "tags": [
-        "aie",
-        "ai",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58c9s66c0had7b5k24ym.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
     },
     {
       "title": "My commit message said \"You've hit your session limit\"",
@@ -188,60 +215,32 @@
       "user": "Shyamala"
     },
     {
-      "title": "Scientists On AI: It’s Still Experimental",
-      "url": "https://dev.to/dailycontext/scientists-on-ai-its-still-experimental-5gm3",
-      "published_at": "2026-06-30T14:39:00Z",
-      "description": "As the AI Engineer World's Fair Expo kicked off, a group of scientists gathered for an informal...",
+      "title": "You’re not really that far behind.",
+      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
+      "published_at": "2026-06-29T16:06:48Z",
+      "description": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
       "tags": [
         "aie",
         "ai",
-        "coding"
+        "learning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Figw5cqu6v9rjc9u9ftkf.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58c9s66c0had7b5k24ym.jpg",
       "source": "Dev.to",
       "user": "Ryan Swift"
     },
     {
-      "title": "The Evolution & Role of Context Engineering in AI Today",
-      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
-      "published_at": "2026-06-30T15:33:14Z",
-      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...",
+      "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
+      "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47",
+      "published_at": "2026-06-30T15:08:52Z",
+      "description": "On Sunday night, the sold-out 2026 AI Engineer World's Fair kicked off its orientation at Moscone...",
       "tags": [
         "aie",
         "ai",
-        "agents"
+        "networking"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5cg95iics9f523h1g0z4.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
-      "published_at": "2026-06-30T15:54:14Z",
-      "description": "Twenty years ago, translation at Google began as one of our pioneering machine learning experiments...",
-      "tags": [
-        "ai",
-        "google",
-        "gemini",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y0qj7vx9schdoduagw7.png",
-      "source": "Dev.to",
-      "user": "Gemini Team"
     },
     {
       "title": "The Log Is the Agent",
@@ -271,18 +270,19 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
-      "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47",
-      "published_at": "2026-06-30T15:08:52Z",
-      "description": "On Sunday night, the sold-out 2026 AI Engineer World's Fair kicked off its orientation at Moscone...",
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
       "tags": [
-        "aie",
+        "kubernetes",
+        "googlecloud",
         "ai",
-        "networking"
+        "antigrafity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5cg95iics9f523h1g0z4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
       "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "Carlos Barbero"
     },
     {
       "title": "Coding Agents Play Favorites With Your Dependencies",
@@ -314,6 +314,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
+      "published_at": "2026-06-30T15:54:14Z",
+      "description": "Twenty years ago, translation at Google began as one of our pioneering machine learning experiments...",
+      "tags": [
+        "ai",
+        "google",
+        "gemini",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y0qj7vx9schdoduagw7.png",
+      "source": "Dev.to",
+      "user": "Gemini Team"
+    },
+    {
       "title": "What Actually Happens When You Call an LLM API",
       "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
       "published_at": "2026-06-29T08:07:46Z",
@@ -327,21 +342,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "For AI coding, the kids are alright",
-      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
-      "published_at": "2026-06-29T16:06:12Z",
-      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
-      "tags": [
-        "aie",
-        "beginners",
-        "softwaredevelopment",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -383,21 +383,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fue6odvwtfzza3hg4o8kz.jpg",
       "source": "Dev.to",
       "user": "Rachael Berkey"
-    },
-    {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
     },
     {
       "title": "I Am Fired Up Again",
@@ -785,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 356,
       "user": "blknoiz0632"
     },
     {
@@ -800,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5085,
       "user": "deepseek-ai"
     },
     {
@@ -830,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "kentjuno"
     },
     {
@@ -845,7 +830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "raiyanyahya"
     },
     {
@@ -860,7 +845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 77,
       "user": "0xMassi"
     }
   ],
@@ -1101,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1857,
+      "stars": 1884,
       "user": "Yu9191"
     },
     {
@@ -1116,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 367,
       "user": "downclash"
     },
     {
@@ -1131,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 356,
       "user": "blknoiz0632"
     },
     {
@@ -1166,6 +1151,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
     {
       "title": "Never forget to enter the Stern Grove lottery again!",
       "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5085,
       "user": "deepseek-ai"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 752,
       "user": "yynxxxxx"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 559,
       "user": "TianhangZhuzth"
     },
     {
@@ -1388,11 +1388,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "cclank"
     }
   ],
   "DevOps": [
+    {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
     {
       "title": "Minimalist EKS: The Easy Way",
       "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
@@ -1501,17 +1516,32 @@
   "Mobile": [],
   "Cloud": [
     {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
-      "published_at": "2026-06-23T03:39:55Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
       "tags": [
-        "speculativedecoding",
-        "antigravitycli",
-        "qat",
-        "blackwell6000"
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1770,21 +1800,6 @@
       "user": "Adam DuVander"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
-    },
-    {
       "title": "I Am Fired Up Again",
       "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
       "published_at": "2026-06-23T13:29:11Z",
@@ -1944,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
       "source": "GitHub",
-      "stars": 1857,
+      "stars": 1884,
       "user": "Yu9191"
     },
     {
@@ -1959,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 367,
       "user": "downclash"
     },
     {
@@ -1974,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 356,
       "user": "blknoiz0632"
     },
     {
@@ -2019,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5085,
       "user": "deepseek-ai"
     },
     {
@@ -2034,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 752,
       "user": "yynxxxxx"
     },
     {
@@ -2049,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 559,
       "user": "TianhangZhuzth"
     },
     {
@@ -2079,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "cclank"
     },
     {
@@ -2094,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 276,
       "user": "ivorpad"
     },
     {
@@ -2109,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "kentjuno"
     },
     {
@@ -2124,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "JotaDev66"
     },
     {
@@ -2139,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "raiyanyahya"
     },
     {
@@ -2154,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 77,
       "user": "0xMassi"
     }
   ]
