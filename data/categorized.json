@@ -30,21 +30,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
-      "published_at": "2026-06-29T16:04:30Z",
-      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
-      "source": "Dev.to",
-      "user": "swyx"
-    },
-    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -142,6 +127,21 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "published_at": "2026-06-30T22:10:45Z",
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
+      "tags": [
+        "aie",
+        "ai",
+        "gamedev",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
       "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
       "published_at": "2026-06-30T14:37:29Z",
@@ -172,6 +172,21 @@
       "user": "Shyamala"
     },
     {
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
+      "published_at": "2026-06-29T16:04:30Z",
+      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
+      "source": "Dev.to",
+      "user": "swyx"
+    },
+    {
       "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
       "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47",
       "published_at": "2026-06-30T15:08:52Z",
@@ -199,21 +214,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
-    },
-    {
-      "title": "Play today’s game from Issue #2 of The Daily Context!",
-      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
-      "published_at": "2026-06-30T22:10:45Z",
-      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
-      "tags": [
-        "aie",
-        "ai",
-        "gamedev",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "The Model Does Not Need Memory. The Situation Does.",
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5235,
+      "stars": 5300,
       "user": "deepseek-ai"
     },
     {
@@ -801,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "Pluviobyte"
     },
     {
@@ -816,23 +816,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "kentjuno"
-    },
-    {
-      "title": "raiyanyahya/llmaker - Self-host the modern LLM stack.",
-      "url": "https://github.com/raiyanyahya/llmaker",
-      "published_at": "2026-06-24T07:12:44Z",
-      "description": "Self-host the modern LLM stack.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 86,
-      "user": "raiyanyahya"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -1076,21 +1061,6 @@
       "user": "velmu"
     },
     {
-      "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "url": "https://github.com/Yu9191/wloc",
-      "published_at": "2026-06-24T06:15:30Z",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
-      "source": "GitHub",
-      "stars": 1927,
-      "user": "Yu9191"
-    },
-    {
       "title": "downclash/clash - GitHub Repository",
       "url": "https://github.com/downclash/clash",
       "published_at": "2026-06-27T04:54:21Z",
@@ -1121,21 +1091,6 @@
       "user": "blknoiz0632"
     },
     {
-      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "published_at": "2026-06-24T02:20:56Z",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "abundantbeing"
-    },
-    {
       "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
       "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
       "published_at": "2026-06-27T15:00:12Z",
@@ -1147,8 +1102,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 178,
       "user": "kui123456789"
+    },
+    {
+      "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
+      "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
+      "published_at": "2026-06-29T13:43:25Z",
+      "description": "A local Windows dashboard for Claude Code and Codex usage limits.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "frankchiu-dev"
+    },
+    {
+      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
+      "url": "https://github.com/simonmakzon/GitDeepSearch",
+      "published_at": "2026-06-27T14:07:25Z",
+      "description": "GitDeepSearch - Deep search repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "simonmakzon"
     }
   ],
   "Python": [
@@ -1329,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5235,
+      "stars": 5300,
       "user": "deepseek-ai"
     },
     {
@@ -1344,14 +1329,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 811,
       "user": "yynxxxxx"
     },
     {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "tags": [
         "python",
         "github",
@@ -1359,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 599,
       "user": "TianhangZhuzth"
     },
     {
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "Pluviobyte"
     },
     {
@@ -1389,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 388,
       "user": "cclank"
     }
   ],
@@ -1935,21 +1920,6 @@
       "user": "Rickard Andersson"
     },
     {
-      "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "url": "https://github.com/Yu9191/wloc",
-      "published_at": "2026-06-24T06:15:30Z",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
-      "source": "GitHub",
-      "stars": 1927,
-      "user": "Yu9191"
-    },
-    {
       "title": "downclash/clash - GitHub Repository",
       "url": "https://github.com/downclash/clash",
       "published_at": "2026-06-27T04:54:21Z",
@@ -1980,21 +1950,6 @@
       "user": "blknoiz0632"
     },
     {
-      "title": "abundantbeing/hermes-browser-extension - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "published_at": "2026-06-24T02:20:56Z",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222723615?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "abundantbeing"
-    },
-    {
       "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
       "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
       "published_at": "2026-06-27T15:00:12Z",
@@ -2006,8 +1961,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 178,
       "user": "kui123456789"
+    },
+    {
+      "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
+      "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
+      "published_at": "2026-06-29T13:43:25Z",
+      "description": "A local Windows dashboard for Claude Code and Codex usage limits.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "frankchiu-dev"
+    },
+    {
+      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
+      "url": "https://github.com/simonmakzon/GitDeepSearch",
+      "published_at": "2026-06-27T14:07:25Z",
+      "description": "GitDeepSearch - Deep search repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "simonmakzon"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2021,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5235,
+      "stars": 5300,
       "user": "deepseek-ai"
     },
     {
@@ -2036,14 +2021,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 811,
       "user": "yynxxxxx"
     },
     {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "tags": [
         "python",
         "github",
@@ -2051,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 599,
       "user": "TianhangZhuzth"
     },
     {
@@ -2066,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "Pluviobyte"
     },
     {
@@ -2081,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 388,
       "user": "cclank"
     },
     {
@@ -2096,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "ivorpad"
     },
     {
@@ -2111,38 +2096,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "kentjuno"
     },
     {
-      "title": "JotaDev66/WaCalls - GitHub Repository",
-      "url": "https://github.com/JotaDev66/WaCalls",
-      "published_at": "2026-06-24T05:33:17Z",
-      "description": "Trending GitHub Repository",
+      "title": "maaslalani/fast - Internet speed test in your terminal",
+      "url": "https://github.com/maaslalani/fast",
+      "published_at": "2026-06-28T03:07:02Z",
+      "description": "Internet speed test in your terminal",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/145607960?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 121,
-      "user": "JotaDev66"
-    },
-    {
-      "title": "raiyanyahya/llmaker - Self-host the modern LLM stack.",
-      "url": "https://github.com/raiyanyahya/llmaker",
-      "published_at": "2026-06-24T07:12:44Z",
-      "description": "Self-host the modern LLM stack.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23720340?v=4",
-      "source": "GitHub",
-      "stars": 86,
-      "user": "raiyanyahya"
+      "stars": 82,
+      "user": "maaslalani"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -2158,6 +2128,21 @@
       "source": "GitHub",
       "stars": 81,
       "user": "0xMassi"
+    },
+    {
+      "title": "bandoracer/librarry - Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
+      "url": "https://github.com/bandoracer/librarry",
+      "published_at": "2026-06-25T19:33:30Z",
+      "description": "Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "bandoracer"
     }
   ]
 }
