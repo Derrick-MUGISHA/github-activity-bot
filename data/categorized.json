@@ -75,21 +75,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "It’s Time To Put Humans Back In The Software",
-      "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
-      "published_at": "2026-07-01T13:19:01Z",
-      "description": "Software engineers have become overreliant on models to build applications, and it’s time to put...",
-      "tags": [
-        "aie",
-        "software",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhv25b9gz7njlxz1tylan.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
       "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
       "published_at": "2026-06-30T22:10:45Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "It’s Time To Put Humans Back In The Software",
+      "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
+      "published_at": "2026-07-01T13:19:01Z",
+      "description": "Software engineers have become overreliant on models to build applications, and it’s time to put...",
+      "tags": [
+        "aie",
+        "software",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhv25b9gz7njlxz1tylan.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -134,20 +134,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "DevRel in the Age of AI Is A Search for Meaning",
-      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
-      "published_at": "2026-07-01T13:22:46Z",
-      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
-      "tags": [
-        "aie",
-        "ai",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
-      "source": "Dev.to",
-      "user": "Sam Bhagwat"
-    },
-    {
       "title": "Optimizing for Agents with llms.txt",
       "url": "https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0",
       "published_at": "2026-07-01T14:14:25Z",
@@ -161,6 +147,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
+      "published_at": "2026-07-01T13:22:46Z",
+      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
+      "tags": [
+        "aie",
+        "ai",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
+      "source": "Dev.to",
+      "user": "Sam Bhagwat"
     },
     {
       "title": "Welcome to AI Engineer World’s Fair 2026",
@@ -816,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 622,
       "user": "mekos2772"
     },
     {
@@ -846,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5741,
+      "stars": 5742,
       "user": "deepseek-ai"
     },
     {
@@ -1028,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 622,
       "user": "mekos2772"
     },
     {
@@ -1255,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5741,
+      "stars": 5742,
       "user": "deepseek-ai"
     },
     {
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1006,
       "user": "yynxxxxx"
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "aquace"
     },
     {
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 622,
       "user": "mekos2772"
     }
   ],
@@ -1661,7 +1661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "aquace"
     }
   ],
@@ -1797,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 622,
       "user": "mekos2772"
     },
     {
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5741,
+      "stars": 5742,
       "user": "deepseek-ai"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1006,
       "user": "yynxxxxx"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "aquace"
     },
     {
