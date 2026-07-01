@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 67 (63.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 62 (59.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**Python**: 🟦🟦🟦🟦🟦 17 (16.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**JavaScript**: 🟦🟦🟦🟦 15 (14.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
-**Security**: 🟦🟦 6 (5.7%)
+**Security**: 🟦🟦🟦 8 (7.6%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦 3 (2.9%)
+**WebDev**: 🟦 3 (2.9%)
 
-**WebDev**:  1 (1.0%)
+**Database**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 25.4 (25.4%)
+JavaScript      ██████████████████████████████ 25.9 (25.9%)
+Java            ███████████████████████████ 23.5 (23.5%)
 Go              ██████████████████████████ 22.4 (22.4%)
-JavaScript      ██████████████████████████ 22.4 (22.4%)
-Java            ██████████████████████████ 22.4 (22.4%)
-Rust            ███████ 6.0 (6.0%)
-Swift           ██ 1.5 (1.5%)
+Python          █████████████████████████ 21.2 (21.2%)
+Rust            ███████ 5.9 (5.9%)
+Swift           █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Python" : 17
-    "Go" : 15
-    "JavaScript" : 15
-    "Java" : 15
-    "Rust" : 4
+    "JavaScript" : 22
+    "Java" : 20
+    "Go" : 19
+    "Python" : 18
+    "Rust" : 5
     "Swift" : 1
 ```
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-45-blue) ![aie](https://img.shields.io/badge/aie-35-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![security](https://img.shields.io/badge/security-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) 
+![ai](https://img.shields.io/badge/ai-34-blue) ![aie](https://img.shields.io/badge/aie-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![mcps](https://img.shields.io/badge/mcps-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![security](https://img.shields.io/badge/security-5-blue) ![gemma4](https://img.shields.io/badge/gemma4-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-01 18:00 CAT)
+## 📅 Latest Updates (2026-07-01 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,6 +140,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/dailycontext/from-harness-engineering-to-evals-4212">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png" width="200" alt="From Harness Engineering to Evals: What’s Trending at AI Engineer" />
+      <br/>
+      <b>From Harness Engineering to Evals: What’s Trending...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/sylwia-lask/whats-next-for-ai-219i">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png" width="200" alt="What's Next for AI?" />
       <br/>
@@ -148,17 +157,17 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png" width="200" alt="The Future Of AI Is Local And Open" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8joia8pwriy03d4hul3c.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>The Future Of AI Is Local And Open</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg" width="200" alt="Someone Else Pays for Your AI Access" />
@@ -169,19 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg" width="200" alt="Visitors get some serious puppy love" />
+    <a href="https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhv25b9gz7njlxz1tylan.png" width="200" alt="It’s Time To Put Humans Back In The Software" />
       <br/>
-      <b>Visitors get some serious puppy love</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8joia8pwriy03d4hul3c.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>It’s Time To Put Humans Back In The Software</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,27 +194,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
+- [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
 - [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) _[Dev.to]_
-- [The Future Of AI Is Local And Open](https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c) _[Dev.to]_
-- [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149) _[Dev.to]_
-- [Visitors get some serious puppy love](https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk) _[Dev.to]_
+- [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149) _[Dev.to]_
 - [It’s Time To Put Humans Back In The Software](https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh) _[Dev.to]_
 - [AI Engineer Meets AI Engineer](https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj) _[Dev.to]_
 - [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
-- [From Harness Engineering to Evals:](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
-- [Token Town](https://dev.to/dailycontext/token-town-1c45) _[Dev.to]_
-- [Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj) _[Dev.to]_
 - [The Log Is the Agent](https://dev.to/dailycontext/the-log-is-the-agent-5096) _[Dev.to]_
-- [Fable is Back, Baby.](https://dev.to/dailycontext/fable-is-back-baby-2o5n) _[Dev.to]_
+- [Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj) _[Dev.to]_
+- [Token Town](https://dev.to/dailycontext/token-town-1c45) _[Dev.to]_
 - [The Agentic, Ironclad Onion](https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9) _[Dev.to]_
 - [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
 - [Optimizing for Agents with llms.txt](https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0) _[Dev.to]_
 - [Computer Use Is Still The Best Demo In AI. That’s A Problem.](https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep) _[Dev.to]_
+- [AI is going loopy, but in a good way](https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi) _[Dev.to]_
+- [DevRel in the Age of AI Is A Search for Meaning](https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91) _[Dev.to]_
+- [AI Isn't Ready to Build Complex Software](https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho) _[Dev.to]_
 
-_Last automated update: Wed, 01 Jul 2026 18:09:03 CAT_
+_Last automated update: Wed, 01 Jul 2026 20:23:07 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 01 Jul 2026 18:09:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Jul 2026 16:09:03 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Jul 2026 18:23:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
