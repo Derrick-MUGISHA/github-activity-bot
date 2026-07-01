@@ -16,21 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
-      "tags": [
-        "ai",
-        "webdev",
-        "security",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "What's Next for AI?",
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
       "published_at": "2026-06-29T07:18:48Z",
@@ -45,21 +30,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Play today’s game from Issue #2 of The Daily Context!",
-      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
-      "published_at": "2026-06-30T22:10:45Z",
-      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
-      "tags": [
-        "aie",
-        "ai",
-        "gamedev",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Future Of AI Is Local And Open",
       "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
       "published_at": "2026-06-30T14:47:06Z",
@@ -72,6 +42,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "published_at": "2026-06-30T07:22:16Z",
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "tags": [
+        "ai",
+        "webdev",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "AI Engineer Meets AI Engineer",
@@ -130,6 +115,35 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "The Agentic, Ironclad Onion",
+      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
+      "published_at": "2026-07-01T13:20:55Z",
+      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
+      "tags": [
+        "aie",
+        "security",
+        "promptengineering",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Trust but verify when using AI for fixing security flaws",
+      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
+      "published_at": "2026-07-01T13:20:20Z",
+      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
+      "tags": [
+        "aie",
+        "ai",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "The Log Is the Agent",
       "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
       "published_at": "2026-06-30T15:01:43Z",
@@ -144,19 +158,63 @@
       "user": "Ishaan Sehgal"
     },
     {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "published_at": "2026-06-30T22:10:45Z",
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
       "tags": [
-        "kubernetes",
-        "googlecloud",
+        "aie",
         "ai",
-        "antigrafity"
+        "gamedev",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
-      "user": "Carlos Barbero"
+      "user": "Jess Lee"
+    },
+    {
+      "title": "It’s Time To Put Humans Back In The Software Factories",
+      "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
+      "published_at": "2026-07-01T13:19:01Z",
+      "description": "Software engineers have become overreliant on models to build applications, and it’s time to put...",
+      "tags": [
+        "aie",
+        "software",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhv25b9gz7njlxz1tylan.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "AI Isn't Ready to Build Complex Software",
+      "url": "https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho",
+      "published_at": "2026-07-01T13:19:40Z",
+      "description": "In an industry currently swept up in the hype of AI coding agents, Micah Wilde, principal engineer at...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai",
+        "computerscience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fplp6gyiwscx26glco768.jpeg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
+      "published_at": "2026-07-01T13:22:46Z",
+      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
+      "tags": [
+        "aie",
+        "ai",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
+      "source": "Dev.to",
+      "user": "Sam Bhagwat"
     },
     {
       "title": "The Evolution & Role of Context Engineering in AI Today",
@@ -171,21 +229,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
-      "published_at": "2026-06-29T11:50:14Z",
-      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
-      "tags": [
-        "ai",
-        "rag",
-        "mcp",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
@@ -231,6 +274,21 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
+    {
       "title": "Developers Urged To Reach Out And Touch Someone",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
       "published_at": "2026-06-30T14:34:26Z",
@@ -258,6 +316,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
     },
     {
       "title": "This Is Software’s iPhone Moment",
@@ -314,61 +387,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
       "source": "Dev.to",
       "user": "Shyamala"
-    },
-    {
-      "title": "You’re not really that far behind.",
-      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
-      "published_at": "2026-06-29T16:06:48Z",
-      "description": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
-      "tags": [
-        "aie",
-        "ai",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58c9s66c0had7b5k24ym.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "published_at": "2026-06-29T16:06:30Z",
-      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "tags": [
-        "aie",
-        "ai",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "The AI Engineer World’s Fair Spreads Globally",
-      "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h",
-      "published_at": "2026-06-29T16:05:03Z",
-      "description": "It has been less than three years since Shawn \"swyx\" Wang coined the term AI engineer in an open...",
-      "tags": [
-        "ai",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4e400hnnpsuuj39fylo3.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "What to Expect at the AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g",
-      "published_at": "2026-06-29T16:05:26Z",
-      "description": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
-      "tags": [
-        "ai",
-        "aie",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fue6odvwtfzza3hg4o8kz.jpg",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
     },
     {
       "title": "I Am Fired Up Again",
@@ -745,6 +763,21 @@
       "user": "indigodaddy"
     },
     {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 377,
+      "user": "mekos2772"
+    },
+    {
       "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
       "url": "https://github.com/blknoiz0632/CandyDrop",
       "published_at": "2026-06-26T22:59:46Z",
@@ -760,21 +793,6 @@
       "user": "blknoiz0632"
     },
     {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "mekos2772"
-    },
-    {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "published_at": "2026-06-26T12:36:05Z",
@@ -786,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5658,
+      "stars": 5690,
       "user": "deepseek-ai"
     },
     {
@@ -801,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Pluviobyte"
     },
     {
@@ -1061,6 +1079,21 @@
       "user": "velmu"
     },
     {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 377,
+      "user": "mekos2772"
+    },
+    {
       "title": "downclash/clash - GitHub Repository",
       "url": "https://github.com/downclash/clash",
       "published_at": "2026-06-27T04:54:21Z",
@@ -1104,21 +1137,6 @@
       "source": "GitHub",
       "stars": 231,
       "user": "kui123456789"
-    },
-    {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "mekos2772"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -1314,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5658,
+      "stars": 5690,
       "user": "deepseek-ai"
     },
     {
@@ -1329,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 953,
       "user": "yynxxxxx"
     },
     {
@@ -1344,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 682,
       "user": "TianhangZhuzth"
     },
     {
@@ -1359,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Pluviobyte"
     },
     {
@@ -1374,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "cclank"
     }
   ],
@@ -1512,11 +1530,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 377,
       "user": "mekos2772"
     }
   ],
   "Cloud": [
+    {
+      "title": "Trust but verify when using AI for fixing security flaws",
+      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
+      "published_at": "2026-07-01T13:20:20Z",
+      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
+      "tags": [
+        "aie",
+        "ai",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
     {
       "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
       "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
@@ -1546,21 +1578,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh",
-      "url": "https://dev.to/gde/multi-region-resilience-on-gke-combining-multi-cluster-gateways-with-istio-ambient-mesh-3h44",
-      "published_at": "2026-06-30T13:03:46Z",
-      "description": "In the current landscape of hyper-distributed systems, resilience is no longer an infrastructure...",
-      "tags": [
-        "gcp",
-        "gke",
-        "istio",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6avid51v39dvawupz6qg.png",
-      "source": "Dev.to",
-      "user": "Miguel Moreno"
     },
     {
       "title": "Minimalist EKS: The Easy Way",
@@ -1744,6 +1761,35 @@
       "user": "Daniel Nwaneri"
     },
     {
+      "title": "The Agentic, Ironclad Onion",
+      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
+      "published_at": "2026-07-01T13:20:55Z",
+      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
+      "tags": [
+        "aie",
+        "security",
+        "promptengineering",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Trust but verify when using AI for fixing security flaws",
+      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
+      "published_at": "2026-07-01T13:20:20Z",
+      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
+      "tags": [
+        "aie",
+        "ai",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Still Storing AWS Access Keys in CI/CD? There’s a safer way.",
       "url": "https://dev.to/aws-builders/still-storing-aws-access-keys-in-cicd-theres-a-safer-way-35pc",
       "published_at": "2026-06-23T22:47:06Z",
@@ -1786,6 +1832,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
     },
     {
       "title": "My commit message said \"You've hit your session limit\"",
@@ -1951,6 +2012,21 @@
       "user": "Rickard Andersson"
     },
     {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 377,
+      "user": "mekos2772"
+    },
+    {
       "title": "downclash/clash - GitHub Repository",
       "url": "https://github.com/downclash/clash",
       "published_at": "2026-06-27T04:54:21Z",
@@ -1996,21 +2072,6 @@
       "user": "kui123456789"
     },
     {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "mekos2772"
-    },
-    {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
       "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
       "published_at": "2026-06-29T13:43:25Z",
@@ -2037,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5658,
+      "stars": 5690,
       "user": "deepseek-ai"
     },
     {
@@ -2052,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 953,
       "user": "yynxxxxx"
     },
     {
@@ -2067,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 682,
       "user": "TianhangZhuzth"
     },
     {
@@ -2082,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Pluviobyte"
     },
     {
@@ -2097,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "cclank"
     },
     {
@@ -2112,7 +2173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "ivorpad"
     },
     {
@@ -2131,21 +2192,6 @@
       "user": "kentjuno"
     },
     {
-      "title": "maaslalani/fast - Internet speed test in your terminal",
-      "url": "https://github.com/maaslalani/fast",
-      "published_at": "2026-06-28T03:07:02Z",
-      "description": "Internet speed test in your terminal",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "maaslalani"
-    },
-    {
       "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
       "url": "https://github.com/kdsuomi/cc-simplerouter",
       "published_at": "2026-06-29T02:22:12Z",
@@ -2157,8 +2203,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 176,
       "user": "kdsuomi"
+    },
+    {
+      "title": "maaslalani/fast - Internet speed test in your terminal",
+      "url": "https://github.com/maaslalani/fast",
+      "published_at": "2026-06-28T03:07:02Z",
+      "description": "Internet speed test in your terminal",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "maaslalani"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
