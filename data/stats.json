@@ -6,12 +6,12 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 62,
+    "AI": 61,
     "JavaScript": 22,
     "Python": 18,
     "DevOps": 5,
     "WebDev": 3,
-    "Mobile": 1,
+    "Mobile": 2,
     "Cloud": 11,
     "Database": 2,
     "Security": 8,
@@ -19,16 +19,17 @@
   },
   "by_language": {
     "Rust": 5,
-    "Go": 19,
+    "Go": 20,
+    "Java": 21,
+    "Kotlin": 1,
     "Python": 18,
     "JavaScript": 22,
-    "Java": 20,
     "Swift": 1
   },
   "by_date": {
     "2026-06-29": 7,
-    "2026-07-01": 15,
-    "2026-06-30": 14,
+    "2026-07-01": 18,
+    "2026-06-30": 11,
     "2026-06-23": 7,
     "2026-06-26": 8,
     "2026-06-22": 3,
@@ -74,8 +75,8 @@
     "2026-06-28": 3
   },
   "top_tags": {
-    "ai": 34,
-    "aie": 25,
+    "ai": 33,
+    "aie": 23,
     "github": 15,
     "open-source": 15,
     "agents": 10,
@@ -83,25 +84,26 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
-    "mcps": 7,
-    "webdev": 6,
+    "mcps": 8,
+    "webdev": 7,
     "python": 6,
     "security": 5,
     "gemma4": 5,
     "go": 5,
+    "antigravitycli": 4,
     "opensource": 4,
     "qat": 4,
-    "productivity": 3,
-    "machinelearning": 3,
-    "claude": 3
+    "beginners": 3,
+    "machinelearning": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Rust": "5.9",
-    "Go": "22.4",
-    "Python": "21.2",
-    "JavaScript": "25.9",
-    "Java": "23.5",
-    "Swift": "1.2"
+    "Rust": "5.7",
+    "Go": "22.7",
+    "Java": "23.9",
+    "Kotlin": "1.1",
+    "Python": "20.5",
+    "JavaScript": "25.0",
+    "Swift": "1.1"
   }
 }
