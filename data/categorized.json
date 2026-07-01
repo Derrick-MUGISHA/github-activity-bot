@@ -60,6 +60,21 @@
       "user": "Daniel Nwaneri"
     },
     {
+      "title": "The Agentic, Ironclad Onion",
+      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
+      "published_at": "2026-07-01T13:20:55Z",
+      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
+      "tags": [
+        "aie",
+        "security",
+        "promptengineering",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
       "title": "It’s Time To Put Humans Back In The Software",
       "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
       "published_at": "2026-07-01T13:19:01Z",
@@ -73,19 +88,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhv25b9gz7njlxz1tylan.png",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "AI Engineer Meets AI Engineer",
-      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
-      "published_at": "2026-06-30T15:21:36Z",
-      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
@@ -118,34 +120,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "The Log Is the Agent",
-      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
-      "published_at": "2026-06-30T15:01:43Z",
-      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
-      "source": "Dev.to",
-      "user": "Ishaan Sehgal"
-    },
-    {
-      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
-      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
-      "published_at": "2026-07-01T13:51:51Z",
-      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
-      "tags": [
-        "aie",
-        "productivity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Token Town",
       "url": "https://dev.to/dailycontext/token-town-1c45",
       "published_at": "2026-07-01T13:44:58Z",
@@ -160,19 +134,18 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "The Agentic, Ironclad Onion",
-      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
-      "published_at": "2026-07-01T13:20:55Z",
-      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
+      "published_at": "2026-07-01T13:22:46Z",
+      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
       "tags": [
         "aie",
-        "security",
-        "promptengineering",
-        "agents"
+        "ai",
+        "devrel"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
       "source": "Dev.to",
-      "user": "Ryan Palo"
+      "user": "Sam Bhagwat"
     },
     {
       "title": "Welcome to AI Engineer World’s Fair 2026",
@@ -247,20 +220,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "DevRel in the Age of AI Is A Search for Meaning",
-      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
-      "published_at": "2026-07-01T13:22:46Z",
-      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
-      "tags": [
-        "aie",
-        "ai",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
-      "source": "Dev.to",
-      "user": "Sam Bhagwat"
-    },
-    {
       "title": "AI Isn't Ready to Build Complex Software",
       "url": "https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho",
       "published_at": "2026-07-01T13:19:40Z",
@@ -303,6 +262,21 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
+      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
+      "published_at": "2026-07-01T18:32:34Z",
+      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "tags": [
+        "ai",
+        "android",
+        "vibecoding",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Visitors get some serious puppy love",
       "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
       "published_at": "2026-07-01T13:47:36Z",
@@ -341,6 +315,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
+      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
+      "published_at": "2026-07-01T13:51:51Z",
+      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
+      "tags": [
+        "aie",
+        "productivity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
@@ -785,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "mekos2772"
     },
     {
@@ -815,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5725,
+      "stars": 5734,
       "user": "deepseek-ai"
     },
     {
@@ -1101,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "mekos2772"
     },
     {
@@ -1161,7 +1149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "frankchiu-dev"
     }
   ],
@@ -1343,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5725,
+      "stars": 5734,
       "user": "deepseek-ai"
     },
     {
@@ -1358,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1002,
       "user": "yynxxxxx"
     },
     {
@@ -1373,8 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "TianhangZhuzth"
+    },
+    {
+      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
+      "published_at": "2026-06-28T07:13:52Z",
+      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
+      "source": "GitHub",
+      "stars": 512,
+      "user": "aquace"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -1390,21 +1393,6 @@
       "source": "GitHub",
       "stars": 492,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
-      "published_at": "2026-06-28T07:13:52Z",
-      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
-      "source": "GitHub",
-      "stars": 442,
-      "user": "aquace"
     }
   ],
   "DevOps": [
@@ -1530,6 +1518,21 @@
   ],
   "Mobile": [
     {
+      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
+      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
+      "published_at": "2026-07-01T18:32:34Z",
+      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "tags": [
+        "ai",
+        "android",
+        "vibecoding",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1541,7 +1544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "mekos2772"
     }
   ],
@@ -1854,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 512,
       "user": "aquace"
     }
   ],
@@ -2033,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 584,
       "user": "mekos2772"
     },
     {
@@ -2093,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "frankchiu-dev"
     },
     {
@@ -2108,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5725,
+      "stars": 5734,
       "user": "deepseek-ai"
     },
     {
@@ -2123,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1002,
       "user": "yynxxxxx"
     },
     {
@@ -2138,8 +2141,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "TianhangZhuzth"
+    },
+    {
+      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
+      "published_at": "2026-06-28T07:13:52Z",
+      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
+      "source": "GitHub",
+      "stars": 512,
+      "user": "aquace"
     },
     {
       "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
@@ -2155,21 +2173,6 @@
       "source": "GitHub",
       "stars": 492,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
-      "published_at": "2026-06-28T07:13:52Z",
-      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
-      "source": "GitHub",
-      "stars": 442,
-      "user": "aquace"
     },
     {
       "title": "ivorpad/mercadona-cli - GitHub Repository",
@@ -2213,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "maaslalani"
     },
     {
@@ -2228,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "kdsuomi"
     },
     {
