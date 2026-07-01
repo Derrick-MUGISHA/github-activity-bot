@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 64 (61.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Python**: 🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦 8 (7.6%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
+**Security**: 🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
-
-**WebDev**: 🟦 3 (2.9%)
+**DevOps**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 2 (1.9%)
 
 **Database**: 🟦 2 (1.9%)
+
+**WebDev**:  1 (1.0%)
 
 
 
@@ -60,23 +60,23 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.0 (25.0%)
-Java            █████████████████████████████ 23.9 (23.9%)
-Go              ███████████████████████████ 22.7 (22.7%)
-Python          █████████████████████████ 20.5 (20.5%)
-Rust            ███████ 5.7 (5.7%)
-Kotlin          █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
+Go              ██████████████████████████████ 23.9 (23.9%)
+Python          ██████████████████████████████ 23.9 (23.9%)
+Java            ████████████████████████████ 22.5 (22.5%)
+JavaScript      ██████████████████████████ 21.1 (21.1%)
+Rust            ███████ 5.6 (5.6%)
+Kotlin          ██ 1.4 (1.4%)
+Swift           ██ 1.4 (1.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
-    "Java" : 21
-    "Go" : 20
-    "Python" : 18
-    "Rust" : 5
+    "Go" : 17
+    "Python" : 17
+    "Java" : 16
+    "JavaScript" : 15
+    "Rust" : 4
     "Kotlin" : 1
     "Swift" : 1
 ```
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-33-blue) ![aie](https://img.shields.io/badge/aie-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![mcps](https://img.shields.io/badge/mcps-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![security](https://img.shields.io/badge/security-5-blue) ![gemma4](https://img.shields.io/badge/gemma4-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-43-blue) ![aie](https://img.shields.io/badge/aie-33-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![security](https://img.shields.io/badge/security-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-01 22:00 CAT)
+## 📅 Latest Updates (2026-07-02 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,10 +133,10 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png" width="200" alt="Need a break? Play today's game from The Daily Context." />
+    <a href="https://dev.to/javz/my-first-year-at-dev-recap-3na2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png" width="200" alt="My First Year at DEV Recap" />
       <br/>
-      <b>Need a break? Play today's game from The Daily Con...</b>
+      <b>My First Year at DEV Recap</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png" width="200" alt="The Agentic, Ironclad Onion" />
+    <a href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png" width="200" alt="Need a break? Play today's game from The Daily Context." />
       <br/>
-      <b>The Agentic, Ironclad Onion</b>
+      <b>Need a break? Play today's game from The Daily Con...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,28 +195,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
+- [My First Year at DEV Recap](https://dev.to/javz/my-first-year-at-dev-recap-3na2) _[Dev.to]_
 - [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
 - [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) _[Dev.to]_
 - [I Tried to Escape LeetCode for 2 Years (But Here We Are)](https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99) _[Dev.to]_
 - [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149) _[Dev.to]_
+- [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
 - [The Agentic, Ironclad Onion](https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9) _[Dev.to]_
 - [It’s Time To Put Humans Back In The Software](https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh) _[Dev.to]_
 - [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
 - [Token Town](https://dev.to/dailycontext/token-town-1c45) _[Dev.to]_
 - [DevRel in the Age of AI Is A Search for Meaning](https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91) _[Dev.to]_
+- [Optimizing for Agents with llms.txt](https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0) _[Dev.to]_
 - [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
-- [Optimizing for Agents with llms.txt](https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0) _[Dev.to]_
 - [Computer Use Is Still The Best Demo In AI. That’s A Problem.](https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep) _[Dev.to]_
 - [AI is going loopy, but in a good way](https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi) _[Dev.to]_
 - [AI Isn't Ready to Build Complex Software](https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho) _[Dev.to]_
 - [The Vertical Turn](https://dev.to/dailycontext/the-vertical-turn-1pcm) _[Dev.to]_
 - [The Evolution & Role of Context Engineering in AI Today](https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f) _[Dev.to]_
-- [I built a native Android app in an afternoon, and I've never written a line of Kotlin](https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6) _[Dev.to]_
 
-_Last automated update: Wed, 01 Jul 2026 22:26:32 CAT_
+_Last automated update: Thu, 02 Jul 2026 00:04:06 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 01 Jul 2026 22:26:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Jul 2026 20:26:32 GMT</b><br/>
+  <b>Last automated update: Wed, 01 Jul 2026 22:04:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
