@@ -16,20 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -45,17 +31,18 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "tags": [
-        "aie",
-        "ai"
+        "ai",
+        "llm",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
-      "user": "Ryan Swift"
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
@@ -115,21 +102,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
-      "published_at": "2026-06-29T15:15:49Z",
-      "description": "How I ended up running a local LLM to generate my git commit messages",
-      "tags": [
-        "genai",
-        "ollama",
-        "learning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
-      "source": "Dev.to",
-      "user": "Shyamala"
-    },
-    {
       "title": "Welcome to AI Engineer World’s Fair 2026",
       "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
       "published_at": "2026-06-29T16:04:30Z",
@@ -143,6 +115,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
       "source": "Dev.to",
       "user": "swyx"
+    },
+    {
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "published_at": "2026-06-30T16:02:55Z",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "The Log Is the Agent",
@@ -203,19 +188,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "AI Drone Swarm Shines Out Over San Francisco",
-      "url": "https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg",
-      "published_at": "2026-06-30T15:15:34Z",
-      "description": "San Franciscans and attendees at the AI Engineer World's Fair saw a shining swarm of drones flying...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
       "published_at": "2026-06-30T15:54:14Z",
@@ -259,21 +231,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "What Actually Happens When You Call an LLM API",
-      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
-      "published_at": "2026-06-29T08:07:46Z",
-      "description": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
-      "tags": [
-        "ai",
-        "webdev",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Developers Urged To Reach Out And Touch Someone",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
       "published_at": "2026-06-30T14:34:26Z",
@@ -286,20 +243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "This Is Software’s iPhone Moment",
-      "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
-      "published_at": "2026-06-30T14:17:40Z",
-      "description": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
-      "tags": [
-        "ai",
-        "aie",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
-      "source": "Dev.to",
-      "user": "Swift"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -317,6 +260,33 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "This Is Software’s iPhone Moment",
+      "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
+      "published_at": "2026-06-30T14:17:40Z",
+      "description": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
+      "tags": [
+        "ai",
+        "aie",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
+      "source": "Dev.to",
+      "user": "Swift"
+    },
+    {
+      "title": "AI Drone Swarm Shines Out Over San Francisco",
+      "url": "https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg",
+      "published_at": "2026-06-30T15:15:34Z",
+      "description": "San Franciscans and attendees at the AI Engineer World's Fair saw a shining swarm of drones flying...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
       "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47",
       "published_at": "2026-06-30T15:08:52Z",
@@ -329,6 +299,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5cg95iics9f523h1g0z4.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "My commit message said \"You've hit your session limit\"",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "published_at": "2026-06-29T15:15:49Z",
+      "description": "How I ended up running a local LLM to generate my git commit messages",
+      "tags": [
+        "genai",
+        "ollama",
+        "learning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
+      "source": "Dev.to",
+      "user": "Shyamala"
     },
     {
       "title": "You’re not really that far behind.",
@@ -771,8 +756,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 334,
       "user": "blknoiz0632"
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "mekos2772"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5460,
+      "stars": 5658,
       "user": "deepseek-ai"
     },
     {
@@ -801,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 489,
       "user": "Pluviobyte"
     },
     {
@@ -816,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 213,
       "user": "kentjuno"
     },
     {
@@ -831,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 85,
       "user": "0xMassi"
     }
   ],
@@ -1072,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 343,
       "user": "downclash"
     },
     {
@@ -1087,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 334,
       "user": "blknoiz0632"
     },
     {
@@ -1102,8 +1102,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 231,
       "user": "kui123456789"
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "mekos2772"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -1117,23 +1132,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "frankchiu-dev"
-    },
-    {
-      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
-      "url": "https://github.com/simonmakzon/GitDeepSearch",
-      "published_at": "2026-06-27T14:07:25Z",
-      "description": "GitDeepSearch - Deep search repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
-      "source": "GitHub",
-      "stars": 137,
-      "user": "simonmakzon"
     }
   ],
   "Python": [
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5460,
+      "stars": 5658,
       "user": "deepseek-ai"
     },
     {
@@ -1329,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 891,
+      "stars": 930,
       "user": "yynxxxxx"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 670,
       "user": "TianhangZhuzth"
     },
     {
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 489,
       "user": "Pluviobyte"
     },
     {
@@ -1374,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "cclank"
     }
   ],
@@ -1499,7 +1499,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "mekos2772"
+    }
+  ],
   "Cloud": [
     {
       "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
@@ -1530,6 +1546,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh",
+      "url": "https://dev.to/gde/multi-region-resilience-on-gke-combining-multi-cluster-gateways-with-istio-ambient-mesh-3h44",
+      "published_at": "2026-06-30T13:03:46Z",
+      "description": "In the current landscape of hyper-distributed systems, resilience is no longer an infrastructure...",
+      "tags": [
+        "gcp",
+        "gke",
+        "istio",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6avid51v39dvawupz6qg.png",
+      "source": "Dev.to",
+      "user": "Miguel Moreno"
     },
     {
       "title": "Minimalist EKS: The Easy Way",
@@ -1742,21 +1773,6 @@
   ],
   "Tools": [
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
-      "published_at": "2026-06-29T15:15:49Z",
-      "description": "How I ended up running a local LLM to generate my git commit messages",
-      "tags": [
-        "genai",
-        "ollama",
-        "learning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
-      "source": "Dev.to",
-      "user": "Shyamala"
-    },
-    {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
       "published_at": "2026-06-29T16:05:56Z",
@@ -1770,6 +1786,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "My commit message said \"You've hit your session limit\"",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "published_at": "2026-06-29T15:15:49Z",
+      "description": "How I ended up running a local LLM to generate my git commit messages",
+      "tags": [
+        "genai",
+        "ollama",
+        "learning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
+      "source": "Dev.to",
+      "user": "Shyamala"
     },
     {
       "title": "I Am Fired Up Again",
@@ -1931,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 343,
       "user": "downclash"
     },
     {
@@ -1946,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 334,
       "user": "blknoiz0632"
     },
     {
@@ -1961,8 +1992,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 231,
       "user": "kui123456789"
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "published_at": "2026-06-30T11:20:30Z",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "mekos2772"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -1976,23 +2022,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "frankchiu-dev"
-    },
-    {
-      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
-      "url": "https://github.com/simonmakzon/GitDeepSearch",
-      "published_at": "2026-06-27T14:07:25Z",
-      "description": "GitDeepSearch - Deep search repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
-      "source": "GitHub",
-      "stars": 137,
-      "user": "simonmakzon"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -2006,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5460,
+      "stars": 5658,
       "user": "deepseek-ai"
     },
     {
@@ -2021,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 891,
+      "stars": 930,
       "user": "yynxxxxx"
     },
     {
@@ -2036,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 670,
       "user": "TianhangZhuzth"
     },
     {
@@ -2051,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 489,
       "user": "Pluviobyte"
     },
     {
@@ -2066,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "cclank"
     },
     {
@@ -2081,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "ivorpad"
     },
     {
@@ -2096,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 213,
       "user": "kentjuno"
     },
     {
@@ -2111,8 +2142,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 145,
       "user": "maaslalani"
+    },
+    {
+      "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
+      "url": "https://github.com/kdsuomi/cc-simplerouter",
+      "published_at": "2026-06-29T02:22:12Z",
+      "description": "Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "kdsuomi"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -2126,23 +2172,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 85,
       "user": "0xMassi"
-    },
-    {
-      "title": "bandoracer/librarry - Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
-      "url": "https://github.com/bandoracer/librarry",
-      "published_at": "2026-06-25T19:33:30Z",
-      "description": "Self-hosted ebook and audiobook manager with resilient metadata and media-stack integrations",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20446518?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "bandoracer"
     }
   ]
 }
