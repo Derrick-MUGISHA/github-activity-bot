@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
       "published_at": "2026-07-01T14:34:35Z",
@@ -30,19 +16,18 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "tags": [
         "ai",
-        "webdev",
-        "security",
-        "discuss"
+        "llm",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -247,21 +232,6 @@
       "user": "Carlos Barbero"
     },
     {
-      "title": "AI is going loopy, but in a good way",
-      "url": "https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi",
-      "published_at": "2026-07-01T13:38:05Z",
-      "description": "As you’d expect, the opening keynote of the AI Engineer World’s Fair was kicked off by one of its...",
-      "tags": [
-        "aie",
-        "ai",
-        "security",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Developers Urged To Reach Out And Touch Someone",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
       "published_at": "2026-06-30T14:34:26Z",
@@ -274,6 +244,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "published_at": "2026-06-30T07:22:16Z",
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "tags": [
+        "ai",
+        "webdev",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "After a long journey, I've reached a deep burnout",
@@ -304,6 +289,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fplp6gyiwscx26glco768.jpeg",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "AI is going loopy, but in a good way",
+      "url": "https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi",
+      "published_at": "2026-07-01T13:38:05Z",
+      "description": "As you’d expect, the opening keynote of the AI Engineer World’s Fair was kicked off by one of its...",
+      "tags": [
+        "aie",
+        "ai",
+        "security",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Visitors get some serious puppy love",
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 944,
       "user": "mekos2772"
     },
     {
@@ -847,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 159,
       "user": "MageByte-Zero"
     },
     {
@@ -862,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5816,
+      "stars": 5832,
       "user": "deepseek-ai"
     },
     {
@@ -892,7 +892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "0xMassi"
     }
   ],
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 944,
       "user": "mekos2772"
     },
     {
@@ -1059,8 +1059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 314,
       "user": "kui123456789"
+    },
+    {
+      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "url": "https://github.com/MageByte-Zero/spec-superflow",
+      "published_at": "2026-06-26T05:13:03Z",
+      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "MageByte-Zero"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -1076,21 +1091,6 @@
       "source": "GitHub",
       "stars": 154,
       "user": "frankchiu-dev"
-    },
-    {
-      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "url": "https://github.com/MageByte-Zero/spec-superflow",
-      "published_at": "2026-06-26T05:13:03Z",
-      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "MageByte-Zero"
     }
   ],
   "Python": [
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5816,
+      "stars": 5832,
       "user": "deepseek-ai"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1075,
       "user": "yynxxxxx"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 734,
       "user": "TianhangZhuzth"
     },
     {
@@ -1439,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 944,
       "user": "mekos2772"
     }
   ],
@@ -1625,6 +1625,20 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Trust but verify when using AI for fixing security flaws",
+      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
+      "published_at": "2026-07-01T13:20:20Z",
+      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
+      "tags": [
+        "aie",
+        "ai",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -1638,20 +1652,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "Trust but verify when using AI for fixing security flaws",
-      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
-      "published_at": "2026-07-01T13:20:20Z",
-      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
-      "tags": [
-        "aie",
-        "ai",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "AI is going loopy, but in a good way",
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 944,
       "user": "mekos2772"
     },
     {
@@ -1858,8 +1858,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 314,
       "user": "kui123456789"
+    },
+    {
+      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "url": "https://github.com/MageByte-Zero/spec-superflow",
+      "published_at": "2026-06-26T05:13:03Z",
+      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "MageByte-Zero"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -1877,21 +1892,6 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "url": "https://github.com/MageByte-Zero/spec-superflow",
-      "published_at": "2026-06-26T05:13:03Z",
-      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "MageByte-Zero"
-    },
-    {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "published_at": "2026-06-26T12:36:05Z",
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5816,
+      "stars": 5832,
       "user": "deepseek-ai"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1075,
       "user": "yynxxxxx"
     },
     {
@@ -1933,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 734,
       "user": "TianhangZhuzth"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 217,
       "user": "maaslalani"
     },
     {
@@ -2012,6 +2012,21 @@
       "user": "kdsuomi"
     },
     {
+      "title": "Sophomoresty/mediago - Download videos from 90+ Chinese educational platforms. Single binary, yt-dlp style.",
+      "url": "https://github.com/Sophomoresty/mediago",
+      "published_at": "2026-06-26T05:33:14Z",
+      "description": "Download videos from 90+ Chinese educational platforms. Single binary, yt-dlp style.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "Sophomoresty"
+    },
+    {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
       "url": "https://github.com/0xMassi/pocketdev",
       "published_at": "2026-06-29T14:03:44Z",
@@ -2023,23 +2038,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "0xMassi"
-    },
-    {
-      "title": "iniwex5/vohive - GitHub Repository",
-      "url": "https://github.com/iniwex5/vohive",
-      "published_at": "2026-06-30T19:52:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "iniwex5"
     }
   ]
 }
