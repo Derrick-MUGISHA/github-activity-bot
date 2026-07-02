@@ -19986,3 +19986,687 @@ UPI redeem only extension
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-02 17:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (69 articles)
+
+#### 1. [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212)
+📅 Wed, 01 Jul 2026 14:34:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![From Harness Engineering to Evals: What’s Trending at AI Engineer](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png)
+
+I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...
+
+🏷️ Tags: `aie`, `ai`, `agents`, `security`
+
+---
+
+#### 2. [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i)
+📅 Mon, 29 Jun 2026 07:18:48 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![What's Next for AI?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png)
+
+I have been writing about AI for quite a while now, but this is probably the first time I genuinely...
+
+🏷️ Tags: `ai`, `llm`, `webdev`
+
+---
+
+#### 3. [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli)
+📅 Mon, 29 Jun 2026 20:00:00 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Need a break? Play today's game from The Daily Context.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png)
+
+We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...
+
+🏷️ Tags: `aie`, `gamedev`, `ai`, `gemini`
+
+---
+
+#### 4. [Letting the DEV Community Weigh in on the Topics of AIE](https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l)
+📅 Thu, 02 Jul 2026 15:24:12 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Letting the DEV Community Weigh in on the Topics of AIE](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png)
+
+I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...
+
+🏷️ Tags: `aie`, `ai`, `discuss`
+
+---
+
+#### 5. [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)
+📅 Thu, 02 Jul 2026 15:00:21 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png)
+
+As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...
+
+🏷️ Tags: `aie`, `agents`, `mcp`, `devops`
+
+---
+
+#### 6. [Google VP of Technology says he’s given up on coding](https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c)
+📅 Thu, 02 Jul 2026 14:48:23 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Google VP of Technology says he’s given up on coding](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqvnpqn4hie7s1qk1wb7d.jpg)
+
+In his keynote on Wednesday, Benoit Schillings, vice president of Technology at Google DeepMind and...
+
+🏷️ Tags: `aie`, `ai`, `gemini`, `claude`
+
+---
+
+#### 7. [Without Structure](https://dev.to/dailycontext/without-structure-22d1)
+📅 Thu, 02 Jul 2026 15:18:45 GMT
+👤 By: Ryan Palo | 📌 Source: Dev.to
+
+![Without Structure](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpkno6nx1x2e5xfq8wh3.png)
+
+“Without structure, AI makes code worse.” - Tereza Tížková  AI is a supercharger, not a magic wand....
+
+🏷️ Tags: `aie`, `agents`, `ai`
+
+---
+
+#### 8. [How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse](https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh)
+📅 Thu, 02 Jul 2026 15:34:59 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6dbj9wqgfjhwlcxld01.png)
+
+By Hiral Shah, Senior Director, Product Management, Docusign  A major recurring theme among the...
+
+🏷️ Tags: `aie`, `ai`, `agents`, `nvidia`
+
+---
+
+#### 9. [Is Forward Deployed Engineering Killing DevRel?](https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833)
+📅 Thu, 02 Jul 2026 13:52:16 GMT
+👤 By: Swift | 📌 Source: Dev.to
+
+![Is Forward Deployed Engineering Killing DevRel?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkasz27h5m8ahp7bo4s8.jpg)
+
+When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...
+
+🏷️ Tags: `aie`, `devrel`, `ai`
+
+---
+
+#### 10. [Fable Is Set Free - There’s A Brand New Claude In Town](https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9)
+📅 Thu, 02 Jul 2026 14:18:20 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Fable Is Set Free - There’s A Brand New Claude In Town](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg)
+
+As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...
+
+🏷️ Tags: `aie`, `claude`, `ai`
+
+---
+
+### 🏷️ JavaScript (15 articles)
+
+#### 1. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (16 articles)
+
+#### 1. [Nano Banana 2 Lite with MCP, and Antigravity CLI](https://dev.to/gde/nano-banana-2-lite-with-mcp-and-antigravity-cli-5bkd)
+📅 Tue, 30 Jun 2026 18:00:07 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Nano Banana 2 Lite with MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjs3jjha42xyocp5i5lc8.png)
+
+This article covers the MCP setup and configuration for using Google Nano Banana 2 Lite and...
+
+🏷️ Tags: `apiinteraction`, `mcpserver`, `nanobanana`, `python`
+
+---
+
+#### 2. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (1 articles)
+
+#### 1. [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)
+📅 Thu, 02 Jul 2026 15:00:21 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png)
+
+As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...
+
+🏷️ Tags: `aie`, `agents`, `mcp`, `devops`
+
+---
+
+### 🏷️ WebDev (1 articles)
+
+#### 1. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (2 articles)
+
+#### 1. [I built a native Android app in an afternoon, and I've never written a line of Kotlin](https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6)
+📅 Wed, 01 Jul 2026 18:32:34 GMT
+👤 By: Tilde A. Thurium | 📌 Source: Dev.to
+
+![I built a native Android app in an afternoon, and I've never written a line of Kotlin](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png)
+
+I’ve always thought building a mobile app required climbing a massive learning curve just to get a...
+
+🏷️ Tags: `ai`, `android`, `vibecoding`, `mobile`
+
+---
+
+#### 2. [mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.](https://github.com/mekos2772/ios-location-spoofer)
+📅 Tue, 30 Jun 2026 11:20:30 GMT
+👤 By: mekos2772 | 📌 Source: GitHub
+
+![mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.](https://avatars.githubusercontent.com/u/119464194?v=4)
+
+Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,031
+
+---
+
+### 🏷️ Cloud (4 articles)
+
+#### 1. [Trust but verify when using AI for fixing security flaws](https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8)
+📅 Wed, 01 Jul 2026 13:20:20 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Trust but verify when using AI for fixing security flaws](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg)
+
+AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...
+
+🏷️ Tags: `aie`, `ai`, `security`
+
+---
+
+#### 2. [Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh](https://dev.to/gde/multi-region-resilience-on-gke-combining-multi-cluster-gateways-with-istio-ambient-mesh-3h44)
+📅 Tue, 30 Jun 2026 13:03:46 GMT
+👤 By: Miguel Moreno | 📌 Source: Dev.to
+
+![Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6avid51v39dvawupz6qg.png)
+
+In the current landscape of hyper-distributed systems, resilience is no longer an infrastructure...
+
+🏷️ Tags: `gcp`, `gke`, `istio`, `architecture`
+
+---
+
+#### 3. [The Connected Agent: Scaling Antigravity 2.0 with Google Cloud Data Services and Model Context Protocol](https://dev.to/gde/the-connected-agent-scaling-antigravity-20-with-google-cloud-data-services-and-model-context-bk0)
+📅 Wed, 01 Jul 2026 01:58:30 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![The Connected Agent: Scaling Antigravity 2.0 with Google Cloud Data Services and Model Context Protocol](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fygv8xlm8hbiay1wmz1c5.png)
+
+Artificial Intelligence is rapidly evolving from chatbots to autonomous agents capable of...
+
+🏷️ Tags: `ai`, `cloud`, `antigravity`, `mcp`
+
+---
+
+#### 4. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6)
+📅 Tue, 23 Jun 2026 03:39:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `speculativedecoding`, `antigravitycli`, `qat`, `blackwell6000`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p)
+📅 Tue, 30 Jun 2026 14:37:29 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Gemma and sandboxing cause a stir at the World's Fair](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg)
+
+As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...
+
+🏷️ Tags: `aie`, `ai`, `database`, `gemma`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (7 articles)
+
+#### 1. [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212)
+📅 Wed, 01 Jul 2026 14:34:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![From Harness Engineering to Evals: What’s Trending at AI Engineer](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png)
+
+I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...
+
+🏷️ Tags: `aie`, `ai`, `agents`, `security`
+
+---
+
+#### 2. [Trust but verify when using AI for fixing security flaws](https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8)
+📅 Wed, 01 Jul 2026 13:20:20 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Trust but verify when using AI for fixing security flaws](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg)
+
+AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...
+
+🏷️ Tags: `aie`, `ai`, `security`
+
+---
+
+#### 3. [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+📅 Tue, 30 Jun 2026 07:22:16 GMT
+👤 By: Daniel Nwaneri | 📌 Source: Dev.to
+
+![Someone Else Pays for Your AI Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg)
+
+you probably didn't think about this when you signed up.  you entered your card details, verified...
+
+🏷️ Tags: `ai`, `webdev`, `security`, `discuss`
+
+---
+
+#### 4. [AI is going loopy, but in a good way](https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi)
+📅 Wed, 01 Jul 2026 13:38:05 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![AI is going loopy, but in a good way](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg)
+
+As you’d expect, the opening keynote of the AI Engineer World’s Fair was kicked off by one of its...
+
+🏷️ Tags: `aie`, `ai`, `security`, `machinelearning`
+
+---
+
+#### 5. [The Agentic, Ironclad Onion](https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9)
+📅 Wed, 01 Jul 2026 13:20:55 GMT
+👤 By: Ryan Palo | 📌 Source: Dev.to
+
+![The Agentic, Ironclad Onion](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png)
+
+As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...
+
+🏷️ Tags: `aie`, `security`, `promptengineering`, `agents`
+
+---
+
+#### 6. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 7. [aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept](https://github.com/aquace/CVE-2026-41940-PoC)
+📅 Sun, 28 Jun 2026 07:13:52 GMT
+👤 By: aquace | 📌 Source: GitHub
+
+![aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept](https://avatars.githubusercontent.com/u/32766565?v=4)
+
+CVE-2026-41940 authentication bypass vulnerability proof-of-concept
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 571
+
+---
+
+### 🏷️ Tools (19 articles)
+
+#### 1. [My First Year at DEV Recap](https://dev.to/javz/my-first-year-at-dev-recap-3na2)
+📅 Wed, 01 Jul 2026 13:46:22 GMT
+👤 By: Julien Avezou | 📌 Source: Dev.to
+
+![My First Year at DEV Recap](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png)
+
+I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...
+
+🏷️ Tags: `community`, `learning`, `productivity`, `writing`
+
+---
+
+#### 2. [Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj)
+📅 Wed, 01 Jul 2026 13:51:51 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg)
+
+The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...
+
+🏷️ Tags: `aie`, `productivity`, `ai`
+
+---
+
+#### 3. [When Claude starts hallucinating, kill the session](https://dev.to/alextongme/when-claude-starts-hallucinating-kill-the-session-1ejf)
+📅 Wed, 01 Jul 2026 13:00:00 GMT
+👤 By: Alex Tong | 📌 Source: Dev.to
+
+![When Claude starts hallucinating, kill the session](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Falextong.me%2Fnotes%2Fdirty-spongebob-context%2F1775660408211.jpeg)
+
+Most people don't realize they're 30 minutes into arguing with an AI that stopped listening 20 minutes ago. The fix: throw the session away.
+
+🏷️ Tags: `ai`, `webdev`, `programming`, `productivity`
+
+---
+
+#### 4. [My commit message said "You've hit your session limit"](https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn)
+📅 Mon, 29 Jun 2026 15:15:49 GMT
+👤 By: Shyamala | 📌 Source: Dev.to
+
+![My commit message said "You've hit your session limit"](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg)
+
+How I ended up running a local LLM to generate my git commit messages
+
+🏷️ Tags: `genai`, `ollama`, `learning`, `llm`
+
+---
+
+#### 5. [mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.](https://github.com/mekos2772/ios-location-spoofer)
+📅 Tue, 30 Jun 2026 11:20:30 GMT
+👤 By: mekos2772 | 📌 Source: GitHub
+
+![mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.](https://avatars.githubusercontent.com/u/119464194?v=4)
+
+Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,031
+
+---
+
+#### 6. [downclash/clash - GitHub Repository](https://github.com/downclash/clash)
+📅 Sat, 27 Jun 2026 04:54:21 GMT
+👤 By: downclash | 📌 Source: GitHub
+
+![downclash/clash - GitHub Repository](https://avatars.githubusercontent.com/u/164441173?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 344
+
+---
+
+#### 7. [kui123456789/cdk-redeem-only-extension - UPI redeem only extension](https://github.com/kui123456789/cdk-redeem-only-extension)
+📅 Sat, 27 Jun 2026 15:00:12 GMT
+👤 By: kui123456789 | 📌 Source: GitHub
+
+![kui123456789/cdk-redeem-only-extension - UPI redeem only extension](https://avatars.githubusercontent.com/u/170342099?v=4)
+
+UPI redeem only extension
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 314
+
+---
+
+#### 8. [MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。](https://github.com/MageByte-Zero/spec-superflow)
+📅 Fri, 26 Jun 2026 05:13:03 GMT
+👤 By: MageByte-Zero | 📌 Source: GitHub
+
+![MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。](https://avatars.githubusercontent.com/u/11827533?v=4)
+
+连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 162
+
+---
+
+#### 9. [frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.](https://github.com/frankchiu-dev/claude-codex-usage-dashboard)
+📅 Mon, 29 Jun 2026 13:43:25 GMT
+👤 By: frankchiu-dev | 📌 Source: GitHub
+
+![frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.](https://avatars.githubusercontent.com/u/297559850?v=4)
+
+A local Windows dashboard for Claude Code and Codex usage limits.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 154
+
+---
+
+#### 10. [deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms](https://github.com/deepseek-ai/DeepSpec)
+📅 Fri, 26 Jun 2026 12:36:05 GMT
+👤 By: deepseek-ai | 📌 Source: GitHub
+
+![deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms](https://avatars.githubusercontent.com/u/148330874?v=4)
+
+DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 5,846
+
+---
+
