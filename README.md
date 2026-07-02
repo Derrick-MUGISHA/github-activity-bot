@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-07-01-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-07-02-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 64 (61.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 62 (59.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-02 1:00 CAT)
+## 📅 Latest Updates (2026-07-02 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,8 +201,8 @@ npm run test
 - [I Tried to Escape LeetCode for 2 Years (But Here We Are)](https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99) _[Dev.to]_
 - [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149) _[Dev.to]_
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
-- [The Agentic, Ironclad Onion](https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9) _[Dev.to]_
 - [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf) _[Dev.to]_
+- [The Agentic, Ironclad Onion](https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9) _[Dev.to]_
 - [It’s Time To Put Humans Back In The Software](https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
 - [Token Town](https://dev.to/dailycontext/token-town-1c45) _[Dev.to]_
@@ -210,13 +210,13 @@ npm run test
 - [DevRel in the Age of AI Is A Search for Meaning](https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91) _[Dev.to]_
 - [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
-- [Computer Use Is Still The Best Demo In AI. That’s A Problem.](https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep) _[Dev.to]_
 - [AI is going loopy, but in a good way](https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi) _[Dev.to]_
 - [AI Isn't Ready to Build Complex Software](https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho) _[Dev.to]_
-- [The Vertical Turn](https://dev.to/dailycontext/the-vertical-turn-1pcm) _[Dev.to]_
+- [Computer Use Is Still The Best Demo In AI. That’s A Problem.](https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep) _[Dev.to]_
 - [The Evolution & Role of Context Engineering in AI Today](https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f) _[Dev.to]_
+- [The Vertical Turn](https://dev.to/dailycontext/the-vertical-turn-1pcm) _[Dev.to]_
 
-_Last automated update: Thu, 02 Jul 2026 01:31:51 CAT_
+_Last automated update: Thu, 02 Jul 2026 03:41:56 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 02 Jul 2026 01:31:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 01 Jul 2026 23:31:51 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Jul 2026 01:41:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
