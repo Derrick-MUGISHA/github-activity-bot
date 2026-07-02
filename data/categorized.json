@@ -60,21 +60,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Agentic, Ironclad Onion",
-      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
-      "published_at": "2026-07-01T13:20:55Z",
-      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
-      "tags": [
-        "aie",
-        "security",
-        "promptengineering",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
       "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
       "published_at": "2026-06-30T22:10:45Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Agentic, Ironclad Onion",
+      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
+      "published_at": "2026-07-01T13:20:55Z",
+      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
+      "tags": [
+        "aie",
+        "security",
+        "promptengineering",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "It’s Time To Put Humans Back In The Software",
@@ -191,20 +191,6 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
-      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
-      "published_at": "2026-07-01T13:56:06Z",
-      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "AI is going loopy, but in a good way",
       "url": "https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi",
       "published_at": "2026-07-01T13:38:05Z",
@@ -235,17 +221,18 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "The Vertical Turn",
-      "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
-      "published_at": "2026-07-01T14:41:07Z",
-      "description": "Look at tomorrow's track list and count the rooms that have absolutely nothing to do with...",
+      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
+      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
+      "published_at": "2026-07-01T13:56:06Z",
+      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
       "tags": [
         "aie",
-        "ai"
+        "ai",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
       "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "Ryan Swift"
     },
     {
       "title": "The Evolution & Role of Context Engineering in AI Today",
@@ -258,6 +245,19 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "The Vertical Turn",
+      "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
+      "published_at": "2026-07-01T14:41:07Z",
+      "description": "Look at tomorrow's track list and count the rooms that have absolutely nothing to do with...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
     },
@@ -472,20 +472,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "The Log Is the Agent",
-      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
-      "published_at": "2026-06-30T15:01:43Z",
-      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
-      "source": "Dev.to",
-      "user": "Ishaan Sehgal"
-    },
-    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
       "published_at": "2026-06-30T15:54:14Z",
@@ -499,6 +485,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y0qj7vx9schdoduagw7.png",
       "source": "Dev.to",
       "user": "Gemini Team"
+    },
+    {
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "published_at": "2026-06-30T15:01:43Z",
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
+      "source": "Dev.to",
+      "user": "Ishaan Sehgal"
     },
     {
       "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
@@ -816,23 +816,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 670,
       "user": "mekos2772"
-    },
-    {
-      "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "url": "https://github.com/blknoiz0632/CandyDrop",
-      "published_at": "2026-06-26T22:59:46Z",
-      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "blknoiz0632"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -846,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5742,
+      "stars": 5750,
       "user": "deepseek-ai"
     },
     {
@@ -863,21 +848,6 @@
       "source": "GitHub",
       "stars": 492,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "url": "https://github.com/kentjuno/ainovel-cli",
-      "published_at": "2026-06-25T15:28:12Z",
-      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "kentjuno"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -1028,7 +998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 670,
       "user": "mekos2772"
     },
     {
@@ -1047,21 +1017,6 @@
       "user": "downclash"
     },
     {
-      "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "url": "https://github.com/blknoiz0632/CandyDrop",
-      "published_at": "2026-06-26T22:59:46Z",
-      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "blknoiz0632"
-    },
-    {
       "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
       "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
       "published_at": "2026-06-27T15:00:12Z",
@@ -1073,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 247,
       "user": "kui123456789"
     },
     {
@@ -1090,6 +1045,21 @@
       "source": "GitHub",
       "stars": 153,
       "user": "frankchiu-dev"
+    },
+    {
+      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
+      "url": "https://github.com/simonmakzon/GitDeepSearch",
+      "published_at": "2026-06-27T14:07:25Z",
+      "description": "GitDeepSearch - Deep search repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "simonmakzon"
     }
   ],
   "Python": [
@@ -1255,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5742,
+      "stars": 5750,
       "user": "deepseek-ai"
     },
     {
@@ -1270,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1013,
       "user": "yynxxxxx"
     },
     {
@@ -1285,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "TianhangZhuzth"
     },
     {
@@ -1408,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 670,
       "user": "mekos2772"
     }
   ],
@@ -1797,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 670,
       "user": "mekos2772"
     },
     {
@@ -1816,21 +1786,6 @@
       "user": "downclash"
     },
     {
-      "title": "blknoiz0632/CandyDrop - Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "url": "https://github.com/blknoiz0632/CandyDrop",
-      "published_at": "2026-06-26T22:59:46Z",
-      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6333631?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "blknoiz0632"
-    },
-    {
       "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
       "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
       "published_at": "2026-06-27T15:00:12Z",
@@ -1842,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 247,
       "user": "kui123456789"
     },
     {
@@ -1861,6 +1816,21 @@
       "user": "frankchiu-dev"
     },
     {
+      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
+      "url": "https://github.com/simonmakzon/GitDeepSearch",
+      "published_at": "2026-06-27T14:07:25Z",
+      "description": "GitDeepSearch - Deep search repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "simonmakzon"
+    },
+    {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "published_at": "2026-06-26T12:36:05Z",
@@ -1872,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5742,
+      "stars": 5750,
       "user": "deepseek-ai"
     },
     {
@@ -1887,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1013,
       "user": "yynxxxxx"
     },
     {
@@ -1902,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "TianhangZhuzth"
     },
     {
@@ -1951,21 +1921,6 @@
       "user": "ivorpad"
     },
     {
-      "title": "kentjuno/ainovel-cli - CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "url": "https://github.com/kentjuno/ainovel-cli",
-      "published_at": "2026-06-25T15:28:12Z",
-      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2578731?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "kentjuno"
-    },
-    {
       "title": "maaslalani/fast - Internet speed test in your terminal",
       "url": "https://github.com/maaslalani/fast",
       "published_at": "2026-06-28T03:07:02Z",
@@ -1977,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 199,
       "user": "maaslalani"
     },
     {
@@ -2009,6 +1964,21 @@
       "source": "GitHub",
       "stars": 87,
       "user": "0xMassi"
+    },
+    {
+      "title": "iniwex5/vohive - GitHub Repository",
+      "url": "https://github.com/iniwex5/vohive",
+      "published_at": "2026-06-30T19:52:34Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "iniwex5"
     }
   ]
 }
