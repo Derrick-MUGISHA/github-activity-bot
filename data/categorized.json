@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
       "published_at": "2026-07-01T14:34:35Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "Someone Else Pays for Your AI Access",
@@ -56,21 +56,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Play today’s game from Issue #2 of The Daily Context!",
-      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
-      "published_at": "2026-06-30T22:10:45Z",
-      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
-      "tags": [
-        "aie",
-        "ai",
-        "gamedev",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -118,35 +103,6 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
-      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
-      "published_at": "2026-07-01T13:56:06Z",
-      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
-      "title": "The Agentic, Ironclad Onion",
-      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
-      "published_at": "2026-07-01T13:20:55Z",
-      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
-      "tags": [
-        "aie",
-        "security",
-        "promptengineering",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "It’s Time To Put Humans Back In The Software",
       "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
       "published_at": "2026-07-01T13:19:01Z",
@@ -162,21 +118,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
-      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
-      "published_at": "2026-07-01T18:32:34Z",
-      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
-      "tags": [
-        "ai",
-        "android",
-        "vibecoding",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Trust but verify when using AI for fixing security flaws",
       "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
       "published_at": "2026-07-01T13:20:20Z",
@@ -189,20 +130,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "Fable is Back, Baby.",
-      "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
-      "published_at": "2026-07-01T14:53:47Z",
-      "description": "Fable is back. The Commerce Department announced yesterday it has lifted the export controls it...",
-      "tags": [
-        "aie",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
@@ -260,6 +187,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
       "source": "Dev.to",
       "user": "Sam Bhagwat"
+    },
+    {
+      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
+      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
+      "published_at": "2026-07-01T18:32:34Z",
+      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "tags": [
+        "ai",
+        "android",
+        "vibecoding",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
@@ -334,19 +276,19 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
       "tags": [
+        "discuss",
         "ai",
-        "aie",
-        "productivity",
-        "leadership"
+        "learning",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "EmberNoGlow"
     },
     {
       "title": "AI Isn't Ready to Build Complex Software",
@@ -376,6 +318,34 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
+      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
+      "published_at": "2026-07-01T13:56:06Z",
+      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Fable is Back, Baby.",
+      "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
+      "published_at": "2026-07-01T14:53:47Z",
+      "description": "Fable is back. The Commerce Department announced yesterday it has lifted the export controls it...",
+      "tags": [
+        "aie",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "The Vertical Turn",
       "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
       "published_at": "2026-07-01T14:41:07Z",
@@ -389,19 +359,32 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "title": "The Agentic, Ironclad Onion",
+      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
+      "published_at": "2026-07-01T13:20:55Z",
+      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
       "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
+        "aie",
+        "security",
+        "promptengineering",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
       "source": "Dev.to",
-      "user": "EmberNoGlow"
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "AI Engineer Meets AI Engineer",
+      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "published_at": "2026-06-30T15:21:36Z",
+      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "This Is Software’s iPhone Moment",
@@ -418,30 +401,19 @@
       "user": "Swift"
     },
     {
-      "title": "AI Engineer Meets AI Engineer",
-      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
-      "published_at": "2026-06-30T15:21:36Z",
-      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "published_at": "2026-06-30T22:10:45Z",
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
       "tags": [
         "aie",
-        "ai"
+        "ai",
+        "gamedev",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "AI Drone Swarm Shines Out Over San Francisco",
-      "url": "https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg",
-      "published_at": "2026-06-30T15:15:34Z",
-      "description": "San Franciscans and attendees at the AI Engineer World's Fair saw a shining swarm of drones flying...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
+      "user": "Jess Lee"
     },
     {
       "title": "The Log Is the Agent",
@@ -456,6 +428,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
       "source": "Dev.to",
       "user": "Ishaan Sehgal"
+    },
+    {
+      "title": "AI Drone Swarm Shines Out Over San Francisco",
+      "url": "https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg",
+      "published_at": "2026-06-30T15:15:34Z",
+      "description": "San Franciscans and attendees at the AI Engineer World's Fair saw a shining swarm of drones flying...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
@@ -632,21 +617,6 @@
       "user": "adam klein"
     },
     {
-      "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
-      "url": "https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii",
-      "published_at": "2026-06-24T16:41:10Z",
-      "description": "A Practical AI Council Workflow for Software Architecture and Delivery               One AI...",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
-      "source": "Dev.to",
-      "user": "Jenning Ho"
-    },
-    {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
       "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
       "published_at": "2026-06-26T07:03:01Z",
@@ -675,6 +645,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
+    },
+    {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 894,
       "user": "mekos2772"
     },
     {
@@ -847,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 153,
       "user": "MageByte-Zero"
     },
     {
@@ -862,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5791,
+      "stars": 5816,
       "user": "deepseek-ai"
     },
     {
@@ -877,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "Pluviobyte"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 894,
       "user": "mekos2772"
     },
     {
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 291,
       "user": "kui123456789"
     },
     {
@@ -1074,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "frankchiu-dev"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 153,
       "user": "MageByte-Zero"
     }
   ],
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5791,
+      "stars": 5816,
       "user": "deepseek-ai"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1066,
       "user": "yynxxxxx"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 731,
       "user": "TianhangZhuzth"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "Pluviobyte"
     }
   ],
@@ -1380,6 +1380,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
       "source": "Dev.to",
       "user": "Peter Jausovec"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     }
   ],
   "WebDev": [
@@ -1424,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 894,
       "user": "mekos2772"
     }
   ],
@@ -1625,21 +1640,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "The Agentic, Ironclad Onion",
-      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
-      "published_at": "2026-07-01T13:20:55Z",
-      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
-      "tags": [
-        "aie",
-        "security",
-        "promptengineering",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Trust but verify when using AI for fixing security flaws",
       "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
       "published_at": "2026-07-01T13:20:20Z",
@@ -1667,6 +1667,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "The Agentic, Ironclad Onion",
+      "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
+      "published_at": "2026-07-01T13:20:55Z",
+      "description": "As AI agents work under increasingly less human supervision, the need for a trustworthy, secure work...",
+      "tags": [
+        "aie",
+        "security",
+        "promptengineering",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvpjvgzlpi3ddizx8dm7l.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1727,21 +1742,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "tags": [
-        "ai",
-        "aie",
-        "productivity",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
       "published_at": "2026-06-28T09:04:04Z",
@@ -1787,21 +1787,6 @@
       "user": "Kate Pond"
     },
     {
-      "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
-      "url": "https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii",
-      "published_at": "2026-06-24T16:41:10Z",
-      "description": "A Practical AI Council Workflow for Software Architecture and Delivery               One AI...",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
-      "source": "Dev.to",
-      "user": "Jenning Ho"
-    },
-    {
       "title": "cuenv: one typed file for your whole project",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
       "published_at": "2026-06-23T14:45:27Z",
@@ -1817,6 +1802,21 @@
       "user": "Peter Jausovec"
     },
     {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 894,
       "user": "mekos2772"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 291,
       "user": "kui123456789"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "frankchiu-dev"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 153,
       "user": "MageByte-Zero"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5791,
+      "stars": 5816,
       "user": "deepseek-ai"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1066,
       "user": "yynxxxxx"
     },
     {
@@ -1933,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 731,
       "user": "TianhangZhuzth"
     },
     {
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "Pluviobyte"
     },
     {
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "ivorpad"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "maaslalani"
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "iniwex5"
     }
   ]
