@@ -75,6 +75,63 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
+      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
+      "published_at": "2026-06-30T14:37:29Z",
+      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
+      "tags": [
+        "aie",
+        "ai",
+        "database",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
+      "published_at": "2026-06-29T16:04:30Z",
+      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
+      "source": "Dev.to",
+      "user": "swyx"
+    },
+    {
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "published_at": "2026-06-30T16:02:55Z",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
+      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
+      "published_at": "2026-07-01T13:56:06Z",
+      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "The Agentic, Ironclad Onion",
       "url": "https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9",
       "published_at": "2026-07-01T13:20:55Z",
@@ -105,19 +162,61 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
-      "published_at": "2026-06-30T14:37:29Z",
-      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
+      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
+      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
+      "published_at": "2026-07-01T18:32:34Z",
+      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "tags": [
+        "ai",
+        "android",
+        "vibecoding",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Trust but verify when using AI for fixing security flaws",
+      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
+      "published_at": "2026-07-01T13:20:20Z",
+      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
       "tags": [
         "aie",
         "ai",
-        "database",
-        "gemma"
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Fable is Back, Baby.",
+      "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
+      "published_at": "2026-07-01T14:53:47Z",
+      "description": "Fable is back. The Commerce Department announced yesterday it has lifted the export controls it...",
+      "tags": [
+        "aie",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
+      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
+      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
+      "published_at": "2026-07-01T13:51:51Z",
+      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
+      "tags": [
+        "aie",
+        "productivity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Token Town",
@@ -163,174 +262,6 @@
       "user": "Sam Bhagwat"
     },
     {
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
-      "published_at": "2026-06-29T16:04:30Z",
-      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
-      "source": "Dev.to",
-      "user": "swyx"
-    },
-    {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
-      "title": "AI is going loopy, but in a good way",
-      "url": "https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi",
-      "published_at": "2026-07-01T13:38:05Z",
-      "description": "As you’d expect, the opening keynote of the AI Engineer World’s Fair was kicked off by one of its...",
-      "tags": [
-        "aie",
-        "ai",
-        "security",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "AI Isn't Ready to Build Complex Software",
-      "url": "https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho",
-      "published_at": "2026-07-01T13:19:40Z",
-      "description": "In an industry currently swept up in the hype of AI coding agents, Micah Wylde, principal engineer at...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai",
-        "computerscience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fplp6gyiwscx26glco768.jpeg",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
-      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
-      "published_at": "2026-07-01T13:56:06Z",
-      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
-      "title": "The Evolution & Role of Context Engineering in AI Today",
-      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
-      "published_at": "2026-06-30T15:33:14Z",
-      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "The Vertical Turn",
-      "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
-      "published_at": "2026-07-01T14:41:07Z",
-      "description": "Look at tomorrow's track list and count the rooms that have absolutely nothing to do with...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
-      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
-      "published_at": "2026-07-01T18:32:34Z",
-      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
-      "tags": [
-        "ai",
-        "android",
-        "vibecoding",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Visitors get some serious puppy love",
-      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
-      "published_at": "2026-07-01T13:47:36Z",
-      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
-      "tags": [
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Trust but verify when using AI for fixing security flaws",
-      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
-      "published_at": "2026-07-01T13:20:20Z",
-      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
-      "tags": [
-        "aie",
-        "ai",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Fable is Back, Baby.",
-      "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
-      "published_at": "2026-07-01T14:53:47Z",
-      "description": "Fable is back. The Commerce Department announced yesterday it has lifted the export controls it...",
-      "tags": [
-        "aie",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
-      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
-      "published_at": "2026-07-01T13:51:51Z",
-      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
-      "tags": [
-        "aie",
-        "productivity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
       "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
       "published_at": "2026-06-30T14:52:38Z",
@@ -341,20 +272,6 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Scientists On AI: It’s Still Experimental",
-      "url": "https://dev.to/dailycontext/scientists-on-ai-its-still-experimental-5gm3",
-      "published_at": "2026-06-30T14:39:00Z",
-      "description": "As the AI Engineer World's Fair Expo kicked off, a group of scientists gathered for an informal...",
-      "tags": [
-        "aie",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Figw5cqu6v9rjc9u9ftkf.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -388,6 +305,21 @@
       "user": "Carlos Barbero"
     },
     {
+      "title": "AI is going loopy, but in a good way",
+      "url": "https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi",
+      "published_at": "2026-07-01T13:38:05Z",
+      "description": "As you’d expect, the opening keynote of the AI Engineer World’s Fair was kicked off by one of its...",
+      "tags": [
+        "aie",
+        "ai",
+        "security",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Developers Urged To Reach Out And Touch Someone",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
       "published_at": "2026-06-30T14:34:26Z",
@@ -415,6 +347,46 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "AI Isn't Ready to Build Complex Software",
+      "url": "https://dev.to/dailycontext/ai-isnt-ready-to-build-complex-software-3jho",
+      "published_at": "2026-07-01T13:19:40Z",
+      "description": "In an industry currently swept up in the hype of AI coding agents, Micah Wylde, principal engineer at...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai",
+        "computerscience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fplp6gyiwscx26glco768.jpeg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "Visitors get some serious puppy love",
+      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
+      "published_at": "2026-07-01T13:47:36Z",
+      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
+      "tags": [
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "The Vertical Turn",
+      "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
+      "published_at": "2026-07-01T14:41:07Z",
+      "description": "Look at tomorrow's track list and count the rooms that have absolutely nothing to do with...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "After a long journey, I've reached a deep burnout",
@@ -472,6 +444,20 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "published_at": "2026-06-30T15:01:43Z",
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
+      "source": "Dev.to",
+      "user": "Ishaan Sehgal"
+    },
+    {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
       "published_at": "2026-06-30T15:54:14Z",
@@ -485,20 +471,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y0qj7vx9schdoduagw7.png",
       "source": "Dev.to",
       "user": "Gemini Team"
-    },
-    {
-      "title": "The Log Is the Agent",
-      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
-      "published_at": "2026-06-30T15:01:43Z",
-      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
-      "source": "Dev.to",
-      "user": "Ishaan Sehgal"
     },
     {
       "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
@@ -601,6 +573,20 @@
       "user": "Daniel Nwaneri"
     },
     {
+      "title": "The Evolution & Role of Context Engineering in AI Today",
+      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
+      "published_at": "2026-06-30T15:33:14Z",
+      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
       "title": "The Connected Agent: Scaling Antigravity 2.0 with Google Cloud Data Services and Model Context Protocol",
       "url": "https://dev.to/gde/the-connected-agent-scaling-antigravity-20-with-google-cloud-data-services-and-model-context-bk0",
       "published_at": "2026-07-01T01:58:30Z",
@@ -659,6 +645,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9sygrlcc88nfn1vek4yr.png",
       "source": "Dev.to",
       "user": "Jenning Ho"
+    },
+    {
+      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
+      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
+      "published_at": "2026-06-26T07:03:01Z",
+      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "howto"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -816,8 +832,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 817,
       "user": "mekos2772"
+    },
+    {
+      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "url": "https://github.com/MageByte-Zero/spec-superflow",
+      "published_at": "2026-06-26T05:13:03Z",
+      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
+      "source": "GitHub",
+      "stars": 148,
+      "user": "MageByte-Zero"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -831,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5750,
+      "stars": 5791,
       "user": "deepseek-ai"
     },
     {
@@ -846,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "Pluviobyte"
     },
     {
@@ -998,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 817,
       "user": "mekos2772"
     },
     {
@@ -1028,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 273,
       "user": "kui123456789"
     },
     {
@@ -1047,19 +1078,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
-      "url": "https://github.com/simonmakzon/GitDeepSearch",
-      "published_at": "2026-06-27T14:07:25Z",
-      "description": "GitDeepSearch - Deep search repository",
+      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "url": "https://github.com/MageByte-Zero/spec-superflow",
+      "published_at": "2026-06-26T05:13:03Z",
+      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "simonmakzon"
+      "stars": 148,
+      "user": "MageByte-Zero"
     }
   ],
   "Python": [
@@ -1092,6 +1123,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjs3jjha42xyocp5i5lc8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1225,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5750,
+      "stars": 5791,
       "user": "deepseek-ai"
     },
     {
@@ -1240,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1043,
       "user": "yynxxxxx"
     },
     {
@@ -1255,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 727,
       "user": "TianhangZhuzth"
     },
     {
@@ -1285,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "Pluviobyte"
     }
   ],
@@ -1378,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 817,
       "user": "mekos2772"
     }
   ],
@@ -1411,21 +1457,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
-      "published_at": "2026-06-30T01:18:13Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "gemma",
-        "tpu",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh",
@@ -1501,6 +1532,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     }
   ],
   "Database": [
@@ -1518,6 +1564,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1579,6 +1640,20 @@
       "user": "Ryan Palo"
     },
     {
+      "title": "Trust but verify when using AI for fixing security flaws",
+      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
+      "published_at": "2026-07-01T13:20:20Z",
+      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
+      "tags": [
+        "aie",
+        "ai",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "AI is going loopy, but in a good way",
       "url": "https://dev.to/dailycontext/ai-is-going-loopy-but-in-a-good-way-3mi",
       "published_at": "2026-07-01T13:38:05Z",
@@ -1590,20 +1665,6 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4eua4ipyobh5qfbb8fyx.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Trust but verify when using AI for fixing security flaws",
-      "url": "https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8",
-      "published_at": "2026-07-01T13:20:20Z",
-      "description": "AI might seem like a magic bullet for fixing security issues, but it's not that simple, warned Eugene...",
-      "tags": [
-        "aie",
-        "ai",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -1767,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 817,
       "user": "mekos2772"
     },
     {
@@ -1797,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 273,
       "user": "kui123456789"
     },
     {
@@ -1816,19 +1877,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
-      "url": "https://github.com/simonmakzon/GitDeepSearch",
-      "published_at": "2026-06-27T14:07:25Z",
-      "description": "GitDeepSearch - Deep search repository",
+      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+      "url": "https://github.com/MageByte-Zero/spec-superflow",
+      "published_at": "2026-06-26T05:13:03Z",
+      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "simonmakzon"
+      "stars": 148,
+      "user": "MageByte-Zero"
     },
     {
       "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
@@ -1842,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5750,
+      "stars": 5791,
       "user": "deepseek-ai"
     },
     {
@@ -1857,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1043,
       "user": "yynxxxxx"
     },
     {
@@ -1872,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 727,
       "user": "TianhangZhuzth"
     },
     {
@@ -1902,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "Pluviobyte"
     },
     {
@@ -1917,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "ivorpad"
     },
     {
@@ -1932,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 207,
       "user": "maaslalani"
     },
     {
@@ -1977,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 77,
       "user": "iniwex5"
     }
   ]
