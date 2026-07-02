@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "published_at": "2026-07-02T15:24:12Z",
+      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
+      "tags": [
+        "aie",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
       "published_at": "2026-07-01T14:34:35Z",
@@ -28,20 +42,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
-      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
-      "published_at": "2026-07-02T15:24:12Z",
-      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
-      "tags": [
-        "aie",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "18 Hot Takes On Where AI is Headed Next",
@@ -299,20 +299,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "The Future Of AI Is Local And Open",
-      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
-      "published_at": "2026-06-30T14:47:06Z",
-      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
-      "tags": [
-        "aie",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
     },
     {
       "title": "Developers Urged To Reach Out And Touch Someone",
@@ -675,6 +661,20 @@
       "user": "Carlos Barbero"
     },
     {
+      "title": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "published_at": "2026-06-30T14:47:06Z",
+      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
+      "tags": [
+        "aie",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
       "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
       "published_at": "2026-06-26T07:03:01Z",
@@ -875,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1074,
       "user": "mekos2772"
     },
     {
@@ -905,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5865,
+      "stars": 5870,
       "user": "deepseek-ai"
     },
     {
@@ -1072,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1074,
       "user": "mekos2772"
     },
     {
@@ -1299,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5865,
+      "stars": 5870,
       "user": "deepseek-ai"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1103,
       "user": "yynxxxxx"
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1074,
       "user": "mekos2772"
     }
   ],
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1074,
       "user": "mekos2772"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5865,
+      "stars": 5870,
       "user": "deepseek-ai"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1103,
       "user": "yynxxxxx"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "Sophomoresty"
     },
     {
