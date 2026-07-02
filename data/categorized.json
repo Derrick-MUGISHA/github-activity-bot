@@ -217,21 +217,6 @@
       "user": "Paige Bailey"
     },
     {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
-    {
       "title": "Developers Urged To Reach Out And Touch Someone",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943",
       "published_at": "2026-06-30T14:34:26Z",
@@ -259,21 +244,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
     },
     {
       "title": "AI Isn't Ready to Build Complex Software",
@@ -387,20 +357,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "This Is Software’s iPhone Moment",
-      "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
-      "published_at": "2026-06-30T14:17:40Z",
-      "description": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
-      "tags": [
-        "ai",
-        "aie",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
       "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
       "published_at": "2026-06-30T22:10:45Z",
@@ -414,6 +370,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "This Is Software’s iPhone Moment",
+      "url": "https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d",
+      "published_at": "2026-06-30T14:17:40Z",
+      "description": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
+      "tags": [
+        "ai",
+        "aie",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl58mwwuynpgc6d5suv3d.jpg",
+      "source": "Dev.to",
+      "user": "Swift"
     },
     {
       "title": "The Log Is the Agent",
@@ -617,6 +587,21 @@
       "user": "adam klein"
     },
     {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
+    {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
       "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
       "published_at": "2026-06-26T07:03:01Z",
@@ -647,21 +632,6 @@
       "user": "Abhishek Gupta"
     },
     {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
-    },
-    {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
       "published_at": "2026-06-29T16:05:56Z",
@@ -675,6 +645,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -832,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 982,
       "user": "mekos2772"
     },
     {
@@ -847,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "MageByte-Zero"
     },
     {
@@ -862,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5832,
+      "stars": 5839,
       "user": "deepseek-ai"
     },
     {
@@ -877,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "Pluviobyte"
     },
     {
@@ -1029,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 982,
       "user": "mekos2772"
     },
     {
@@ -1044,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "downclash"
     },
     {
@@ -1074,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "MageByte-Zero"
     },
     {
@@ -1095,21 +1080,6 @@
   ],
   "Python": [
     {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
-    {
       "title": "Nano Banana 2 Lite with MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/nano-banana-2-lite-with-mcp-and-antigravity-cli-5bkd",
       "published_at": "2026-06-30T18:00:07Z",
@@ -1123,6 +1093,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjs3jjha42xyocp5i5lc8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
     },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5832,
+      "stars": 5839,
       "user": "deepseek-ai"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1082,
       "user": "yynxxxxx"
     },
     {
@@ -1301,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 741,
       "user": "TianhangZhuzth"
     },
     {
@@ -1331,26 +1316,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "Pluviobyte"
     }
   ],
   "DevOps": [
-    {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
     {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
       "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
@@ -1365,6 +1335,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
     },
     {
       "title": "cuenv: one typed file for your whole project",
@@ -1439,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 982,
       "user": "mekos2772"
     }
   ],
@@ -1457,21 +1442,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3a1yha2m9g40peygmhd.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
     },
     {
       "title": "Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh",
@@ -1549,6 +1519,21 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "published_at": "2026-06-30T15:10:30Z",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "tags": [
+        "kubernetes",
+        "googlecloud",
+        "ai",
+        "antigrafity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
+    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -1562,6 +1547,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1742,21 +1742,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
-    },
-    {
       "title": "My commit message said \"You've hit your session limit\"",
       "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
       "published_at": "2026-06-29T15:15:49Z",
@@ -1828,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 982,
       "user": "mekos2772"
     },
     {
@@ -1843,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "downclash"
     },
     {
@@ -1873,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "MageByte-Zero"
     },
     {
@@ -1903,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5832,
+      "stars": 5839,
       "user": "deepseek-ai"
     },
     {
@@ -1918,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1082,
       "user": "yynxxxxx"
     },
     {
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 741,
       "user": "TianhangZhuzth"
     },
     {
@@ -1963,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "Pluviobyte"
     },
     {
@@ -1993,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "maaslalani"
     },
     {
@@ -2023,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 124,
       "user": "Sophomoresty"
     },
     {
