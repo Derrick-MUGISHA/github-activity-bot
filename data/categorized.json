@@ -88,20 +88,6 @@
       "user": "John McBride"
     },
     {
-      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
-      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9",
-      "published_at": "2026-07-02T14:18:20Z",
-      "description": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
-      "tags": [
-        "aie",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
       "published_at": "2026-07-02T15:00:21Z",
@@ -285,6 +271,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpkno6nx1x2e5xfq8wh3.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
+      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9",
+      "published_at": "2026-07-02T14:18:20Z",
+      "description": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
+      "tags": [
+        "aie",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
@@ -875,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1069,
       "user": "mekos2772"
     },
     {
@@ -905,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5859,
+      "stars": 5865,
       "user": "deepseek-ai"
     },
     {
@@ -1072,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1069,
       "user": "mekos2772"
     },
     {
@@ -1299,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5859,
+      "stars": 5865,
       "user": "deepseek-ai"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1102,
       "user": "yynxxxxx"
     },
     {
@@ -1329,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 750,
       "user": "TianhangZhuzth"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "aquace"
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1069,
       "user": "mekos2772"
     }
   ],
@@ -1662,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "aquace"
     }
   ],
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1069,
       "user": "mekos2772"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5859,
+      "stars": 5865,
       "user": "deepseek-ai"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1102,
       "user": "yynxxxxx"
     },
     {
@@ -1874,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 750,
       "user": "TianhangZhuzth"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "aquace"
     },
     {
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "maaslalani"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "Sophomoresty"
     },
     {
