@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 64 (61.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -40,7 +40,7 @@
 
 **Security**: 🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦 3 (2.9%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -61,8 +61,8 @@
 
 ```
 Python          ██████████████████████████████ 25.4 (25.4%)
-Java            ███████████████████████████ 22.5 (22.5%)
 Go              ███████████████████████████ 22.5 (22.5%)
+Java            ███████████████████████████ 22.5 (22.5%)
 JavaScript      █████████████████████████ 21.1 (21.1%)
 Rust            ███████ 5.6 (5.6%)
 Kotlin          ██ 1.4 (1.4%)
@@ -73,8 +73,8 @@ Swift           ██ 1.4 (1.4%)
 ```mermaid
 pie title Programming Languages Distribution
     "Python" : 18
-    "Java" : 16
     "Go" : 16
+    "Java" : 16
     "JavaScript" : 15
     "Rust" : 4
     "Kotlin" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-44-blue) ![aie](https://img.shields.io/badge/aie-32-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![security](https://img.shields.io/badge/security-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-44-blue) ![aie](https://img.shields.io/badge/aie-32-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![security](https://img.shields.io/badge/security-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-02 7:00 CAT)
+## 📅 Latest Updates (2026-07-02 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,15 +142,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/from-harness-engineering-to-evals-4212">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png" width="200" alt="From Harness Engineering to Evals: What’s Trending at AI Engineer" />
-      <br/>
-      <b>From Harness Engineering to Evals: What’s Trending...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/sylwia-lask/whats-next-for-ai-219i">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png" width="200" alt="What's Next for AI?" />
       <br/>
@@ -159,17 +150,17 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs48vgia9beeye14cufmj.png" width="200" alt="I Tried to Escape LeetCode for 2 Years (But Here We Are)" />
+    <a href="https://dev.to/dailycontext/from-harness-engineering-to-evals-4212">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png" width="200" alt="From Harness Engineering to Evals: What’s Trending at AI Engineer" />
       <br/>
-      <b>I Tried to Escape LeetCode for 2 Years (But Here W...</b>
+      <b>From Harness Engineering to Evals: What’s Trending...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg" width="200" alt="Someone Else Pays for Your AI Access" />
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs48vgia9beeye14cufmj.png" width="200" alt="I Tried to Escape LeetCode for 2 Years (But Here We Are)" />
+      <br/>
+      <b>I Tried to Escape LeetCode for 2 Years (But Here W...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -196,27 +196,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [My First Year at DEV Recap](https://dev.to/javz/my-first-year-at-dev-recap-3na2) _[Dev.to]_
-- [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
 - [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) _[Dev.to]_
-- [I Tried to Escape LeetCode for 2 Years (But Here We Are)](https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99) _[Dev.to]_
+- [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
 - [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149) _[Dev.to]_
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
-- [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf) _[Dev.to]_
+- [I Tried to Escape LeetCode for 2 Years (But Here We Are)](https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
 - [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
-- [Computer Use Is Still The Best Demo In AI. That’s A Problem.](https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep) _[Dev.to]_
-- [The Agentic, Ironclad Onion](https://dev.to/dailycontext/the-agentic-ironclad-onion-2na9) _[Dev.to]_
 - [It’s Time To Put Humans Back In The Software](https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh) _[Dev.to]_
-- [I built a native Android app in an afternoon, and I've never written a line of Kotlin](https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6) _[Dev.to]_
 - [Trust but verify when using AI for fixing security flaws](https://dev.to/dailycontext/trust-but-verify-when-using-ai-for-fixing-security-flaws-43n8) _[Dev.to]_
-- [Fable is Back, Baby.](https://dev.to/dailycontext/fable-is-back-baby-2o5n) _[Dev.to]_
 - [Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj) _[Dev.to]_
 - [Token Town](https://dev.to/dailycontext/token-town-1c45) _[Dev.to]_
 - [Google Omni Flash Preview with MCP and Antigravity CLI](https://dev.to/gde/google-omni-flash-preview-with-mcp-and-antigravity-cli-24oi) _[Dev.to]_
 - [Optimizing for Agents with llms.txt](https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0) _[Dev.to]_
+- [DevRel in the Age of AI Is A Search for Meaning](https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91) _[Dev.to]_
+- [I built a native Android app in an afternoon, and I've never written a line of Kotlin](https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6) _[Dev.to]_
+- [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl) _[Dev.to]_
+- [The Future Of AI Is Local And Open](https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c) _[Dev.to]_
+- [Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)](https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0) _[Dev.to]_
 
-_Last automated update: Thu, 02 Jul 2026 07:48:46 CAT_
+_Last automated update: Thu, 02 Jul 2026 10:46:53 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Thu, 02 Jul 2026 07:48:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 2. Database: What is database normalization and denormalization?
+### 1. Database: What is database normalization and denormalization?
 
 **Difficulty**: Medium | **Topics**: design, optimization
 
@@ -246,14 +235,25 @@ Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Mutability, performance, use cases
+
+</details>
+
+### 3. Python: Explain decorators in Python with an example
+
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
+
+<details>
+<summary>💡 Hint</summary>
+
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Jul 2026 05:48:46 GMT</b><br/>
+  <b>Last automated update: Thu, 02 Jul 2026 08:46:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
