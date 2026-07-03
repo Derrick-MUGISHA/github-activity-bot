@@ -6,10 +6,10 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 63,
+    "AI": 62,
     "JavaScript": 15,
     "Python": 16,
-    "DevOps": 4,
+    "DevOps": 3,
     "WebDev": 1,
     "Mobile": 2,
     "Cloud": 6,
@@ -18,20 +18,20 @@
     "Tools": 22
   },
   "by_language": {
-    "Go": 17,
-    "Rust": 2,
-    "Kotlin": 1,
+    "Go": 18,
     "Python": 16,
+    "Rust": 3,
+    "Kotlin": 1,
     "JavaScript": 15,
     "Java": 15,
     "Swift": 1
   },
   "by_date": {
-    "2026-07-02": 15,
+    "2026-07-02": 19,
+    "2026-07-03": 8,
     "2026-06-29": 11,
-    "2026-07-03": 7,
-    "2026-06-30": 17,
-    "2026-07-01": 12,
+    "2026-06-30": 14,
+    "2026-07-01": 10,
     "2026-06-28": 6,
     "2026-06-23": 1,
     "2026-06-22": 1,
@@ -69,35 +69,35 @@
     "2026-06-27": 3
   },
   "top_tags": {
-    "ai": 43,
-    "aie": 36,
+    "ai": 41,
+    "aie": 35,
     "github": 15,
     "open-source": 15,
-    "agents": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "agents": 9,
     "discuss": 6,
     "gemini": 6,
+    "python": 6,
     "webdev": 5,
     "javascript": 5,
-    "python": 5,
     "go": 5,
     "techtalks": 4,
-    "software": 3,
-    "networking": 3,
     "productivity": 3,
     "opensource": 3,
-    "llm": 3
+    "networking": 3,
+    "llm": 3,
+    "antigravity": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "25.4",
-    "Rust": "3.0",
-    "Kotlin": "1.5",
-    "Python": "23.9",
-    "JavaScript": "22.4",
-    "Java": "22.4",
-    "Swift": "1.5"
+    "Go": "26.1",
+    "Python": "23.2",
+    "Rust": "4.3",
+    "Kotlin": "1.4",
+    "JavaScript": "21.7",
+    "Java": "21.7",
+    "Swift": "1.4"
   }
 }
