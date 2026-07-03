@@ -30,6 +30,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
+      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
+      "published_at": "2026-07-03T14:38:37Z",
+      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
+      "tags": [
+        "aie",
+        "ai",
+        "agentskills",
+        "satire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
       "published_at": "2026-06-29T20:00:00Z",
@@ -58,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png",
       "source": "Dev.to",
       "user": "dev.to staff"
-    },
-    {
-      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
-      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
-      "published_at": "2026-07-03T14:38:37Z",
-      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
-      "tags": [
-        "aie",
-        "ai",
-        "agentskills",
-        "satire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "Choosing the Right Tooling Layer for Your Agent",
@@ -215,6 +215,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21i4cw%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
       "source": "Dev.to",
       "user": "Richard MacManus"
+    },
+    {
+      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+      "published_at": "2026-07-02T19:14:36Z",
+      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
+      "tags": [
+        "webassembly",
+        "midsommer",
+        "azurecontainerapps",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Without Structure",
@@ -376,6 +391,20 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
+      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9",
+      "published_at": "2026-07-02T14:18:20Z",
+      "description": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
+      "tags": [
+        "aie",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "How to Count Gemini Tokens Locally",
       "url": "https://dev.to/googlecloud/how-to-count-gemini-tokens-locally-3cal",
       "published_at": "2026-07-02T13:50:42Z",
@@ -418,19 +447,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "AI Engineer Meets AI Engineer",
-      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
-      "published_at": "2026-06-30T15:21:36Z",
-      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "AI Drone Swarm Shines Out Over San Francisco",
@@ -531,19 +547,31 @@
       "user": "swyx"
     },
     {
-      "title": "It’s Time To Put Humans Back In The Software",
-      "url": "https://dev.to/dailycontext/its-time-to-put-humans-back-in-the-software-factories-3cjh",
-      "published_at": "2026-07-01T13:19:01Z",
-      "description": "Software engineers have become overreliant on models to build applications, and it’s time to put...",
+      "title": "Is Forward Deployed Engineering Killing DevRel?",
+      "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833",
+      "published_at": "2026-07-02T13:52:16Z",
+      "description": "When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...",
       "tags": [
         "aie",
-        "software",
-        "ai",
-        "agents"
+        "devrel",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhv25b9gz7njlxz1tylan.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkasz27h5m8ahp7bo4s8.jpg",
       "source": "Dev.to",
-      "user": "Iain Thomson"
+      "user": "Swift"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
+      "published_at": "2026-07-02T14:10:36Z",
+      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
     },
     {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
@@ -561,20 +589,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Token Town",
-      "url": "https://dev.to/dailycontext/token-town-1c45",
-      "published_at": "2026-07-01T13:44:58Z",
-      "description": "Many of the sessions from Tuesday, especially on the main stage, revolved around the idea of software...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn4f2u45l8w9gjy4emc9w.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Optimizing for Agents with llms.txt",
       "url": "https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0",
       "published_at": "2026-07-01T14:14:25Z",
@@ -588,20 +602,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
-    },
-    {
-      "title": "DevRel in the Age of AI Is A Search for Meaning",
-      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
-      "published_at": "2026-07-01T13:22:46Z",
-      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
-      "tags": [
-        "aie",
-        "ai",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
-      "source": "Dev.to",
-      "user": "Sam Bhagwat"
     },
     {
       "title": "When Claude starts hallucinating, kill the session",
@@ -661,21 +661,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5dpedjhfkcz55clldsjn.png",
       "source": "Dev.to",
       "user": "adam klein"
-    },
-    {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
     },
     {
       "title": "The Future Of AI Is Local And Open",
@@ -847,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1239,
       "user": "mekos2772"
     },
     {
@@ -862,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 489,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1014,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1239,
       "user": "mekos2772"
     },
     {
@@ -1074,25 +1059,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "simonmakzon"
     }
   ],
   "Python": [
     {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
+      "published_at": "2026-07-03T02:55:09Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
       "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
+        "gemma4",
+        "python",
+        "tpu",
+        "mcps"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
       "source": "Dev.to",
-      "user": "Carlos Barbero"
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1226,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1276,
+      "stars": 1281,
       "user": "yynxxxxx"
     },
     {
@@ -1271,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 489,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "Jia-Ethan"
     }
   ],
@@ -1335,21 +1320,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
     }
   ],
   "WebDev": [
@@ -1394,25 +1364,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1239,
       "user": "mekos2772"
     }
   ],
   "Cloud": [
     {
-      "title": "Multi-Region Resilience on GKE: Combining Multi-Cluster Gateways with Istio Ambient Mesh",
-      "url": "https://dev.to/gde/multi-region-resilience-on-gke-combining-multi-cluster-gateways-with-istio-ambient-mesh-3h44",
-      "published_at": "2026-06-30T13:03:46Z",
-      "description": "In the current landscape of hyper-distributed systems, resilience is no longer an infrastructure...",
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
+      "published_at": "2026-07-03T02:55:09Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
       "tags": [
-        "gcp",
-        "gke",
-        "istio",
-        "architecture"
+        "gemma4",
+        "python",
+        "tpu",
+        "mcps"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6avid51v39dvawupz6qg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
       "source": "Dev.to",
-      "user": "Miguel Moreno"
+      "user": "xbill"
+    },
+    {
+      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+      "published_at": "2026-07-02T19:14:36Z",
+      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
+      "tags": [
+        "webassembly",
+        "midsommer",
+        "azurecontainerapps",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Autonomous Workspace Orchestration with Antigravity 2.0",
@@ -1473,21 +1458,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
-      "published_at": "2026-06-30T15:10:30Z",
-      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
-      "tags": [
-        "kubernetes",
-        "googlecloud",
-        "ai",
-        "antigrafity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
     }
   ],
   "Database": [
@@ -1694,7 +1664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1239,
       "user": "mekos2772"
     },
     {
@@ -1754,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "simonmakzon"
     },
     {
@@ -1769,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1276,
+      "stars": 1281,
       "user": "yynxxxxx"
     },
     {
@@ -1814,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 489,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1829,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "Jia-Ethan"
     },
     {
@@ -1844,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "maaslalani"
     },
     {
@@ -1904,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292542?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "kinncj"
     }
   ]
