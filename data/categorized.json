@@ -30,18 +30,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Let Us Be Free",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "published_at": "2026-07-02T15:55:55Z",
-      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "published_at": "2026-06-29T20:00:00Z",
+      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
       "tags": [
         "aie",
+        "gamedev",
         "ai",
-        "opensource"
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
-      "user": "John McBride"
+      "user": "Jess Lee"
     },
     {
       "title": "18 Hot Takes On Where AI is Headed Next",
@@ -59,19 +60,19 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
+      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
+      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
+      "published_at": "2026-07-03T14:38:37Z",
+      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
       "tags": [
         "aie",
-        "gamedev",
         "ai",
-        "gemini"
+        "agentskills",
+        "satire"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Ryan Palo"
     },
     {
       "title": "Choosing the Right Tooling Layer for Your Agent",
@@ -88,6 +89,21 @@
       "user": "Ryan Palo"
     },
     {
+      "title": "A Third Brain for your Second Brain",
+      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
+      "published_at": "2026-07-03T15:02:56Z",
+      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "memory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -99,6 +115,20 @@
         "networking"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "published_at": "2026-07-03T15:07:40Z",
+      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -129,6 +159,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
       "source": "Dev.to",
       "user": "Ryan Swift"
+    },
+    {
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "published_at": "2026-07-02T15:55:55Z",
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "tags": [
+        "aie",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "source": "Dev.to",
+      "user": "John McBride"
     },
     {
       "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
@@ -173,20 +217,6 @@
       "user": "Richard MacManus"
     },
     {
-      "title": "Is Forward Deployed Engineering Killing DevRel?",
-      "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833",
-      "published_at": "2026-07-02T13:52:16Z",
-      "description": "When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...",
-      "tags": [
-        "aie",
-        "devrel",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkasz27h5m8ahp7bo4s8.jpg",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
       "title": "Without Structure",
       "url": "https://dev.to/dailycontext/without-structure-22d1",
       "published_at": "2026-07-02T15:18:45Z",
@@ -215,17 +245,19 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
-      "published_at": "2026-07-02T14:10:36Z",
-      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
+      "title": "When AI Creates A Closed Source World",
+      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
+      "published_at": "2026-07-02T16:22:12Z",
+      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
       "tags": [
-        "aie",
-        "ai"
+        "ai",
+        "programming",
+        "opensource",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxag76yxaasfwotit82h.png",
       "source": "Dev.to",
-      "user": "Richard MacManus"
+      "user": "Andrei Merlescu"
     },
     {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
@@ -254,21 +286,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "When AI Creates A Closed Source World",
-      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
-      "published_at": "2026-07-02T16:22:12Z",
-      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxag76yxaasfwotit82h.png",
-      "source": "Dev.to",
-      "user": "Andrei Merlescu"
     },
     {
       "title": "Someone Else Pays for Your AI Access",
@@ -344,21 +361,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Beyond Context",
-      "url": "https://dev.to/dailycontext/beyond-context-4b0g",
-      "published_at": "2026-07-02T14:02:11Z",
-      "description": "The models are getting better. As you may have seen on multiple graphs presented here at the World's...",
-      "tags": [
-        "aie",
-        "ai",
-        "development",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Google VP of Technology says he’s given up on coding",
       "url": "https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c",
       "published_at": "2026-07-02T14:48:23Z",
@@ -370,20 +372,6 @@
         "claude"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqvnpqn4hie7s1qk1wb7d.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
-      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9",
-      "published_at": "2026-07-02T14:18:20Z",
-      "description": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
-      "tags": [
-        "aie",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -859,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1237,
       "user": "mekos2772"
     },
     {
@@ -874,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 479,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -889,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "0xMassi"
     }
   ],
@@ -1026,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1237,
       "user": "mekos2772"
     },
     {
@@ -1045,21 +1033,6 @@
       "user": "kui123456789"
     },
     {
-      "title": "downclash/clash - GitHub Repository",
-      "url": "https://github.com/downclash/clash",
-      "published_at": "2026-06-27T04:54:21Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "downclash"
-    },
-    {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
       "url": "https://github.com/xt4d/GameBlocks",
       "published_at": "2026-07-01T16:38:56Z",
@@ -1071,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 177,
       "user": "xt4d"
     },
     {
@@ -1086,8 +1059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "frankchiu-dev"
+    },
+    {
+      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
+      "url": "https://github.com/simonmakzon/GitDeepSearch",
+      "published_at": "2026-06-27T14:07:25Z",
+      "description": "GitDeepSearch - Deep search repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "simonmakzon"
     }
   ],
   "Python": [
@@ -1238,23 +1226,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1276,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 761,
-      "user": "TianhangZhuzth"
     },
     {
       "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
@@ -1272,6 +1245,21 @@
       "user": "aquace"
     },
     {
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
+      "source": "GitHub",
+      "stars": 518,
+      "user": "TianhangZhuzth"
+    },
+    {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "published_at": "2026-06-30T10:55:02Z",
@@ -1283,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 479,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1298,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "Jia-Ethan"
     }
   ],
@@ -1406,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1237,
       "user": "mekos2772"
     }
   ],
@@ -1706,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1237,
       "user": "mekos2772"
     },
     {
@@ -1725,21 +1713,6 @@
       "user": "kui123456789"
     },
     {
-      "title": "downclash/clash - GitHub Repository",
-      "url": "https://github.com/downclash/clash",
-      "published_at": "2026-06-27T04:54:21Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164441173?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "downclash"
-    },
-    {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
       "url": "https://github.com/xt4d/GameBlocks",
       "published_at": "2026-07-01T16:38:56Z",
@@ -1751,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 177,
       "user": "xt4d"
     },
     {
@@ -1766,8 +1739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "frankchiu-dev"
+    },
+    {
+      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
+      "url": "https://github.com/simonmakzon/GitDeepSearch",
+      "published_at": "2026-06-27T14:07:25Z",
+      "description": "GitDeepSearch - Deep search repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "simonmakzon"
     },
     {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
@@ -1781,23 +1769,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1276,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 761,
-      "user": "TianhangZhuzth"
     },
     {
       "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
@@ -1815,6 +1788,21 @@
       "user": "aquace"
     },
     {
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
+      "source": "GitHub",
+      "stars": 518,
+      "user": "TianhangZhuzth"
+    },
+    {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "published_at": "2026-06-30T10:55:02Z",
@@ -1826,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 479,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1841,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "Jia-Ethan"
     },
     {
@@ -1856,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "maaslalani"
     },
     {
@@ -1871,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 111,
       "user": "kdsuomi"
     },
     {
@@ -1886,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "0xMassi"
     },
     {

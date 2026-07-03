@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 64,
+    "AI": 63,
     "JavaScript": 15,
     "Python": 16,
     "DevOps": 4,
@@ -27,9 +27,9 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-07-02": 19,
+    "2026-07-02": 15,
     "2026-06-29": 11,
-    "2026-07-03": 3,
+    "2026-07-03": 7,
     "2026-06-30": 17,
     "2026-07-01": 12,
     "2026-06-28": 6,
@@ -69,26 +69,26 @@
     "2026-06-27": 3
   },
   "top_tags": {
-    "ai": 44,
-    "aie": 37,
+    "ai": 43,
+    "aie": 36,
     "github": 15,
     "open-source": 15,
     "agents": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "discuss": 6,
     "gemini": 6,
-    "discuss": 5,
     "webdev": 5,
     "javascript": 5,
     "python": 5,
     "go": 5,
-    "opensource": 3,
+    "techtalks": 4,
     "software": 3,
     "networking": 3,
     "productivity": 3,
-    "llm": 3,
-    "antigravity": 3
+    "opensource": 3,
+    "llm": 3
   },
   "trending_topics": [],
   "language_percentages": {
