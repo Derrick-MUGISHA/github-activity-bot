@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-07-03-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 64 (61.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 65 (61.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦 17 (16.3%)
+**Python**: 🟦🟦🟦🟦🟦 17 (16.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦 15 (14.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Cloud**: 🟦🟦 6 (5.8%)
+**Cloud**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-45-blue) ![aie](https://img.shields.io/badge/aie-35-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![software](https://img.shields.io/badge/software-3-blue) 
+![ai](https://img.shields.io/badge/ai-46-blue) ![aie](https://img.shields.io/badge/aie-36-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![software](https://img.shields.io/badge/software-3-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-03 9:00 CAT)
+## 📅 Latest Updates (2026-07-03 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,17 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png" width="200" alt="Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!" />
-      <br/>
-      <b>Congrats to the GitHub Finish-Up-A-Thon Challenge ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png" width="200" alt="18 Hot Takes On Where AI is Headed Next" />
       <br/>
@@ -170,11 +159,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png" width="200" alt="Need a break? Play today's game from The Daily Context." />
       <br/>
       <b>Need a break? Play today's game from The Daily Con...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png" width="200" alt="Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!" />
+      <br/>
+      <b>Congrats to the GitHub Finish-Up-A-Thon Challenge ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,11 +197,10 @@ npm run test
 
 - [Letting the DEV Community Weigh in on the Topics of AIE](https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l) _[Dev.to]_
 - [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico) _[Dev.to]_
-- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [18 Hot Takes On Where AI is Headed Next](https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9) _[Dev.to]_
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
+- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
-- [Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
 - [Warp CEO Zach Lloyd on why software factories are the next phase of coding](https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6) _[Dev.to]_
 - [My First Year at DEV Recap](https://dev.to/javz/my-first-year-at-dev-recap-3na2) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk) _[Dev.to]_
 - [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl) _[Dev.to]_
+- [Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943) _[Dev.to]_
 
-_Last automated update: Fri, 03 Jul 2026 09:50:43 CAT_
+_Last automated update: Fri, 03 Jul 2026 12:29:20 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 03 Jul 2026 09:50:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Jul 2026 07:50:43 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Jul 2026 10:29:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
