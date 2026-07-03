@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-04 0:00 CAT)
+## 📅 Latest Updates (2026-07-04 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png" width="200" alt="Choosing the Right Tooling Layer for Your Agent" />
+    <a href="https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png" width="200" alt="A Third Brain for your Second Brain" />
       <br/>
-      <b>Choosing the Right Tooling Layer for Your Agent</b>
+      <b>A Third Brain for your Second Brain</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png" width="200" alt="Protect Yourself, Mesh Yourself" />
+    <a href="https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png" width="200" alt="Choosing the Right Tooling Layer for Your Agent" />
       <br/>
-      <b>Protect Yourself, Mesh Yourself</b>
+      <b>Choosing the Right Tooling Layer for Your Agent</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,9 +199,9 @@ npm run test
 - [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [The Conspiracy Big Software Engineering Doesn't Want You to Know](https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299) _[Dev.to]_
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
+- [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4) _[Dev.to]_
 - [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2) _[Dev.to]_
 - [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) _[Dev.to]_
-- [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4) _[Dev.to]_
 - [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p) _[Dev.to]_
 - [The biggest World’s Fair yet powers down for the moment](https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Without Structure](https://dev.to/dailycontext/without-structure-22d1) _[Dev.to]_
 - [These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d) _[Dev.to]_
 
-_Last automated update: Sat, 04 Jul 2026 00:06:25 CAT_
+_Last automated update: Sat, 04 Jul 2026 01:24:34 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 04 Jul 2026 00:06:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Jul 2026 22:06:25 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Jul 2026 23:24:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
