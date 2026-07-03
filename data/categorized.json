@@ -172,20 +172,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
-      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9",
-      "published_at": "2026-07-02T14:18:20Z",
-      "description": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
-      "tags": [
-        "aie",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "These Founders Skipped Graduation To Be Here",
       "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d",
       "published_at": "2026-07-02T14:55:58Z",
@@ -359,6 +345,20 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
+      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9",
+      "published_at": "2026-07-02T14:18:20Z",
+      "description": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
+      "tags": [
+        "aie",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fng3dt4t7dxc4r99iqwfr.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
       "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
       "published_at": "2026-07-01T18:32:34Z",
@@ -497,21 +497,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
       "source": "Dev.to",
       "user": "swyx"
-    },
-    {
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
-      "published_at": "2026-06-29T11:50:14Z",
-      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
-      "tags": [
-        "ai",
-        "rag",
-        "mcp",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "It’s Time To Put Humans Back In The Software",
@@ -875,7 +860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1222,
       "user": "mekos2772"
     },
     {
@@ -890,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 418,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -905,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "0xMassi"
     }
   ],
@@ -1042,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1222,
       "user": "mekos2772"
     },
     {
@@ -1087,7 +1072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "xt4d"
     },
     {
@@ -1102,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "frankchiu-dev"
     }
   ],
@@ -1269,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1176,
       "user": "yynxxxxx"
     },
     {
@@ -1284,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 759,
       "user": "TianhangZhuzth"
     },
     {
@@ -1303,6 +1288,21 @@
       "user": "aquace"
     },
     {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
+      "source": "GitHub",
+      "stars": 418,
+      "user": "HUANGCHIHHUNGLeo"
+    },
+    {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "published_at": "2026-06-28T04:38:07Z",
@@ -1316,21 +1316,6 @@
       "source": "GitHub",
       "stars": 406,
       "user": "Jia-Ethan"
-    },
-    {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "HUANGCHIHHUNGLeo"
     }
   ],
   "DevOps": [
@@ -1452,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1222,
       "user": "mekos2772"
     }
   ],
@@ -1546,6 +1531,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1768,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1222,
       "user": "mekos2772"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "xt4d"
     },
     {
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "frankchiu-dev"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1176,
       "user": "yynxxxxx"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 759,
       "user": "TianhangZhuzth"
     },
     {
@@ -1877,6 +1877,21 @@
       "user": "aquace"
     },
     {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
+      "source": "GitHub",
+      "stars": 418,
+      "user": "HUANGCHIHHUNGLeo"
+    },
+    {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "published_at": "2026-06-28T04:38:07Z",
@@ -1892,21 +1907,6 @@
       "user": "Jia-Ethan"
     },
     {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "HUANGCHIHHUNGLeo"
-    },
-    {
       "title": "maaslalani/fast - Internet speed test in your terminal",
       "url": "https://github.com/maaslalani/fast",
       "published_at": "2026-06-28T03:07:02Z",
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "maaslalani"
     },
     {
@@ -1933,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 182,
       "user": "kdsuomi"
     },
     {
@@ -1948,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "0xMassi"
     },
     {
