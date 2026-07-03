@@ -15,6 +15,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Let Us Be Free",
       "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
       "published_at": "2026-07-02T15:55:55Z",
@@ -59,19 +74,33 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
       "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
+        "aie",
+        "ai",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "The biggest World’s Fair yet powers down for the moment",
+      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
+      "published_at": "2026-07-03T14:45:31Z",
+      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -199,21 +228,6 @@
       "user": "Richard MacManus"
     },
     {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "published_at": "2026-07-01T14:34:35Z",
-      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
       "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
       "published_at": "2026-06-30T14:52:38Z",
@@ -240,6 +254,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5arcdbcpvq4ybazeanuz.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "When AI Creates A Closed Source World",
+      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
+      "published_at": "2026-07-02T16:22:12Z",
+      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
+      "tags": [
+        "ai",
+        "programming",
+        "opensource",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxag76yxaasfwotit82h.png",
+      "source": "Dev.to",
+      "user": "Andrei Merlescu"
     },
     {
       "title": "Someone Else Pays for Your AI Access",
@@ -300,21 +329,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Beyond Context",
-      "url": "https://dev.to/dailycontext/beyond-context-4b0g",
-      "published_at": "2026-07-02T14:02:11Z",
-      "description": "The models are getting better. As you may have seen on multiple graphs presented here at the World's...",
-      "tags": [
-        "aie",
-        "ai",
-        "development",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
       "published_at": "2026-07-02T15:00:21Z",
@@ -328,6 +342,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Beyond Context",
+      "url": "https://dev.to/dailycontext/beyond-context-4b0g",
+      "published_at": "2026-07-02T14:02:11Z",
+      "description": "The models are getting better. As you may have seen on multiple graphs presented here at the World's...",
+      "tags": [
+        "aie",
+        "ai",
+        "development",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Google VP of Technology says he’s given up on coding",
@@ -359,19 +388,34 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
-      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
-      "published_at": "2026-07-01T18:32:34Z",
-      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "title": "How to Count Gemini Tokens Locally",
+      "url": "https://dev.to/googlecloud/how-to-count-gemini-tokens-locally-3cal",
+      "published_at": "2026-07-02T13:50:42Z",
+      "description": "✨ Overview   This article explores how Gemini tokenizes data and demonstrates how to count...",
       "tags": [
         "ai",
-        "android",
-        "vibecoding",
-        "mobile"
+        "gemini",
+        "token",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvhuja1no31ncyx68qmqd.png",
       "source": "Dev.to",
-      "user": "Tilde A. Thurium"
+      "user": "Laurent Picard"
+    },
+    {
+      "title": "Omni Flash Preview with Kiro",
+      "url": "https://dev.to/gde/omni-flash-preview-with-kiro-19ka",
+      "published_at": "2026-07-02T13:17:45Z",
+      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "tags": [
+        "gemini",
+        "llm",
+        "mcp",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feaezhzi2o46r26fkzkl5.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "What's Next for AI?",
@@ -514,6 +558,21 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "published_at": "2026-07-01T14:34:35Z",
+      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Token Town",
       "url": "https://dev.to/dailycontext/token-town-1c45",
       "published_at": "2026-07-01T13:44:58Z",
@@ -643,66 +702,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
-    },
-    {
-      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
-      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
-      "published_at": "2026-06-26T07:03:01Z",
-      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "howto"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "tags": [
-        "ai",
-        "aie",
-        "productivity",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -860,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1235,
       "user": "mekos2772"
     },
     {
@@ -875,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 459,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1027,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1235,
       "user": "mekos2772"
     },
     {
@@ -1042,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "kui123456789"
     },
     {
@@ -1072,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "xt4d"
     },
     {
@@ -1087,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "frankchiu-dev"
     }
   ],
@@ -1106,21 +1105,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1254,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1271,
       "user": "yynxxxxx"
     },
     {
@@ -1269,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 761,
       "user": "TianhangZhuzth"
     },
     {
@@ -1299,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 459,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1314,11 +1298,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "Jia-Ethan"
     }
   ],
   "DevOps": [
+    {
+      "title": "Protect Yourself, Mesh Yourself",
+      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
+      "published_at": "2026-07-03T13:45:00Z",
+      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
+      "tags": [
+        "tutorial",
+        "productivity",
+        "opensource",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
+      "source": "Dev.to",
+      "user": "Elliott"
+    },
     {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
@@ -1363,36 +1362,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
-    },
-    {
-      "title": "cuenv: one typed file for your whole project",
-      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
-      "published_at": "2026-06-23T14:45:27Z",
-      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
-      "tags": [
-        "automation",
-        "cicd",
-        "devops",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
-      "source": "Dev.to",
-      "user": "Peter Jausovec"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     }
   ],
   "WebDev": [
@@ -1411,19 +1380,19 @@
   ],
   "Mobile": [
     {
-      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
-      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
-      "published_at": "2026-07-01T18:32:34Z",
-      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "title": "Ambient vs Immersive XR: The Debate?",
+      "url": "https://dev.to/gde/ambient-vs-immersive-xr-the-debate-3bh6",
+      "published_at": "2026-07-02T15:00:00Z",
+      "description": "Noble Ackerson and I met at the Google Glass Foundry Hackathon in NYC 13 years ago, and we hit it off...",
       "tags": [
-        "ai",
-        "android",
-        "vibecoding",
-        "mobile"
+        "voicefirst",
+        "androidxr",
+        "googleglass",
+        "mixedreality"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0t3puiw8wxl5pe6cxqar.png",
       "source": "Dev.to",
-      "user": "Tilde A. Thurium"
+      "user": "Allen Firstenberg"
     },
     {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
@@ -1437,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1235,
       "user": "mekos2772"
     }
   ],
@@ -1456,6 +1425,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6avid51v39dvawupz6qg.png",
       "source": "Dev.to",
       "user": "Miguel Moreno"
+    },
+    {
+      "title": "Autonomous Workspace Orchestration with Antigravity 2.0",
+      "url": "https://dev.to/gde/autonomous-workspace-orchestration-with-antigravity-20-adj",
+      "published_at": "2026-07-02T12:41:19Z",
+      "description": "Even the most advanced enterprise systems are tethered to a costly paradox: manual bottlenecks that...",
+      "tags": [
+        "antigravity",
+        "workplace",
+        "googlecloud",
+        "autonomous"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tp5lpytkbywbgrgqm2.png",
+      "source": "Dev.to",
+      "user": "Vo Tu Duc"
     },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
@@ -1516,36 +1500,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhel3zzto6db9hxx4zp3h.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
-      "published_at": "2026-06-30T01:18:13Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "gemma",
-        "tpu",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -1565,21 +1519,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1594,21 +1533,6 @@
   ],
   "Security": [
     {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "published_at": "2026-07-01T14:34:35Z",
-      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -1622,6 +1546,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "published_at": "2026-07-01T14:34:35Z",
+      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1666,6 +1605,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "Protect Yourself, Mesh Yourself",
+      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
+      "published_at": "2026-07-03T13:45:00Z",
+      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
+      "tags": [
+        "tutorial",
+        "productivity",
+        "opensource",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
+      "source": "Dev.to",
+      "user": "Elliott"
     },
     {
       "title": "My First Year at DEV Recap",
@@ -1727,36 +1695,6 @@
       "user": "Kate Pond"
     },
     {
-      "title": "cuenv: one typed file for your whole project",
-      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
-      "published_at": "2026-06-23T14:45:27Z",
-      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
-      "tags": [
-        "automation",
-        "cicd",
-        "devops",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
-      "source": "Dev.to",
-      "user": "Peter Jausovec"
-    },
-    {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "tags": [
-        "ai",
-        "aie",
-        "productivity",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1768,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1235,
       "user": "mekos2772"
     },
     {
@@ -1783,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "kui123456789"
     },
     {
@@ -1813,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "xt4d"
     },
     {
@@ -1828,7 +1766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "frankchiu-dev"
     },
     {
@@ -1843,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1271,
       "user": "yynxxxxx"
     },
     {
@@ -1858,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 761,
       "user": "TianhangZhuzth"
     },
     {
@@ -1888,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 459,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1903,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "Jia-Ethan"
     },
     {
@@ -1918,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "maaslalani"
     },
     {
@@ -1933,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "kdsuomi"
     },
     {
@@ -1963,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 62,
       "user": "aurora-develop"
     },
     {
