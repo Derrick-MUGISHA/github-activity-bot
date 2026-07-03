@@ -89,6 +89,20 @@
       "user": "Ryan Palo"
     },
     {
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "published_at": "2026-07-03T15:07:40Z",
+      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -100,20 +114,6 @@
         "networking"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Is looping ready to roll? Experts split on the future of coding",
-      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
-      "published_at": "2026-07-03T15:07:40Z",
-      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -832,8 +832,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "published_at": "2026-06-27T10:25:09Z",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "kerlenton"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -849,21 +864,6 @@
       "source": "GitHub",
       "stars": 92,
       "user": "0xMassi"
-    },
-    {
-      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "published_at": "2026-06-27T10:25:09Z",
-      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
-      "source": "GitHub",
-      "stars": 89,
-      "user": "kerlenton"
     }
   ],
   "JavaScript": [
@@ -1014,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "kui123456789"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1679,7 +1679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "kui123456789"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "maaslalani"
     },
     {
@@ -1829,8 +1829,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "kdsuomi"
+    },
+    {
+      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "published_at": "2026-06-27T10:25:09Z",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "kerlenton"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -1846,21 +1861,6 @@
       "source": "GitHub",
       "stars": 92,
       "user": "0xMassi"
-    },
-    {
-      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "published_at": "2026-06-27T10:25:09Z",
-      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
-      "source": "GitHub",
-      "stars": 89,
-      "user": "kerlenton"
     },
     {
       "title": "aurora-develop/grok2api - GitHub Repository",
