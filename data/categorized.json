@@ -29,6 +29,20 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "published_at": "2026-07-02T15:55:55Z",
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "tags": [
+        "aie",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "source": "Dev.to",
+      "user": "John McBride"
+    },
+    {
       "title": "18 Hot Takes On Where AI is Headed Next",
       "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
       "published_at": "2026-07-02T15:53:07Z",
@@ -72,20 +86,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Let Us Be Free",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "published_at": "2026-07-02T15:55:55Z",
-      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
-      "tags": [
-        "aie",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
-      "source": "Dev.to",
-      "user": "John McBride"
     },
     {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
@@ -875,53 +875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1102,
       "user": "mekos2772"
     },
     {
-      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "url": "https://github.com/MageByte-Zero/spec-superflow",
-      "published_at": "2026-06-26T05:13:03Z",
-      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "MageByte-Zero"
-    },
-    {
-      "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "url": "https://github.com/deepseek-ai/DeepSpec",
-      "published_at": "2026-06-26T12:36:05Z",
-      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "published_at": "2026-06-28T22:56:13Z",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
       "source": "GitHub",
-      "stars": 5870,
-      "user": "deepseek-ai"
-    },
-    {
-      "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "published_at": "2026-06-26T05:50:51Z",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
-      "source": "GitHub",
-      "stars": 496,
-      "user": "Pluviobyte"
+      "stars": 332,
+      "user": "offchainthoughts"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -1072,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1102,
       "user": "mekos2772"
     },
     {
@@ -1106,21 +1076,6 @@
       "user": "kui123456789"
     },
     {
-      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "url": "https://github.com/MageByte-Zero/spec-superflow",
-      "published_at": "2026-06-26T05:13:03Z",
-      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "MageByte-Zero"
-    },
-    {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
       "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
       "published_at": "2026-06-29T13:43:25Z",
@@ -1134,6 +1089,21 @@
       "source": "GitHub",
       "stars": 154,
       "user": "frankchiu-dev"
+    },
+    {
+      "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "url": "https://github.com/xt4d/GameBlocks",
+      "published_at": "2026-07-01T16:38:56Z",
+      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "xt4d"
     }
   ],
   "Python": [
@@ -1288,21 +1258,6 @@
       "user": "arathore"
     },
     {
-      "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "url": "https://github.com/deepseek-ai/DeepSpec",
-      "published_at": "2026-06-26T12:36:05Z",
-      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 5870,
-      "user": "deepseek-ai"
-    },
-    {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "published_at": "2026-06-28T10:24:42Z",
@@ -1314,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1106,
       "user": "yynxxxxx"
     },
     {
@@ -1348,19 +1303,34 @@
       "user": "aquace"
     },
     {
-      "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "published_at": "2026-06-26T05:50:51Z",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith",
+      "published_at": "2026-06-28T04:38:07Z",
+      "description": "Codex CLI instruction-file installer for local configuration",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 496,
-      "user": "Pluviobyte"
+      "stars": 399,
+      "user": "Jia-Ethan"
+    },
+    {
+      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "published_at": "2026-06-28T22:56:13Z",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "offchainthoughts"
     }
   ],
   "DevOps": [
@@ -1467,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1102,
       "user": "mekos2772"
     }
   ],
@@ -1769,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1102,
       "user": "mekos2772"
     },
     {
@@ -1803,21 +1773,6 @@
       "user": "kui123456789"
     },
     {
-      "title": "MageByte-Zero/spec-superflow - 连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "url": "https://github.com/MageByte-Zero/spec-superflow",
-      "published_at": "2026-06-26T05:13:03Z",
-      "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11827533?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "MageByte-Zero"
-    },
-    {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
       "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
       "published_at": "2026-06-29T13:43:25Z",
@@ -1833,19 +1788,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "url": "https://github.com/deepseek-ai/DeepSpec",
-      "published_at": "2026-06-26T12:36:05Z",
-      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "url": "https://github.com/xt4d/GameBlocks",
+      "published_at": "2026-07-01T16:38:56Z",
+      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 5870,
-      "user": "deepseek-ai"
+      "stars": 153,
+      "user": "xt4d"
     },
     {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
@@ -1859,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1106,
       "user": "yynxxxxx"
     },
     {
@@ -1893,34 +1848,34 @@
       "user": "aquace"
     },
     {
-      "title": "Pluviobyte/video-production-skills - Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "published_at": "2026-06-26T05:50:51Z",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith",
+      "published_at": "2026-06-28T04:38:07Z",
+      "description": "Codex CLI instruction-file installer for local configuration",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 496,
-      "user": "Pluviobyte"
+      "stars": 399,
+      "user": "Jia-Ethan"
     },
     {
-      "title": "ivorpad/mercadona-cli - GitHub Repository",
-      "url": "https://github.com/ivorpad/mercadona-cli",
-      "published_at": "2026-06-26T06:22:39Z",
-      "description": "Trending GitHub Repository",
+      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "published_at": "2026-06-28T22:56:13Z",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
       "source": "GitHub",
-      "stars": 292,
-      "user": "ivorpad"
+      "stars": 332,
+      "user": "offchainthoughts"
     },
     {
       "title": "maaslalani/fast - Internet speed test in your terminal",
@@ -1934,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "maaslalani"
     },
     {
@@ -1953,21 +1908,6 @@
       "user": "kdsuomi"
     },
     {
-      "title": "Sophomoresty/mediago - Download videos from 90+ Chinese educational platforms. Single binary, yt-dlp style.",
-      "url": "https://github.com/Sophomoresty/mediago",
-      "published_at": "2026-06-26T05:33:14Z",
-      "description": "Download videos from 90+ Chinese educational platforms. Single binary, yt-dlp style.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "Sophomoresty"
-    },
-    {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
       "url": "https://github.com/0xMassi/pocketdev",
       "published_at": "2026-06-29T14:03:44Z",
@@ -1981,6 +1921,36 @@
       "source": "GitHub",
       "stars": 90,
       "user": "0xMassi"
+    },
+    {
+      "title": "iniwex5/vohive - GitHub Repository",
+      "url": "https://github.com/iniwex5/vohive",
+      "published_at": "2026-06-30T19:52:34Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "iniwex5"
+    },
+    {
+      "title": "aurora-develop/grok2api - GitHub Repository",
+      "url": "https://github.com/aurora-develop/grok2api",
+      "published_at": "2026-06-28T04:07:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "aurora-develop"
     }
   ]
 }
