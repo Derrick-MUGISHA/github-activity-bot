@@ -245,21 +245,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "When AI Creates A Closed Source World",
-      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
-      "published_at": "2026-07-02T16:22:12Z",
-      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxag76yxaasfwotit82h.png",
-      "source": "Dev.to",
-      "user": "Andrei Merlescu"
-    },
-    {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
       "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
       "published_at": "2026-06-30T14:52:38Z",
@@ -604,19 +589,19 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "When Claude starts hallucinating, kill the session",
-      "url": "https://dev.to/alextongme/when-claude-starts-hallucinating-kill-the-session-1ejf",
-      "published_at": "2026-07-01T13:00:00Z",
-      "description": "Most people don't realize they're 30 minutes into arguing with an AI that stopped listening 20 minutes ago. The fix: throw the session away.",
+      "title": "When AI Creates A Closed Source World",
+      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
+      "published_at": "2026-07-02T16:22:12Z",
+      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
       "tags": [
         "ai",
-        "webdev",
         "programming",
-        "productivity"
+        "opensource",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Falextong.me%2Fnotes%2Fdirty-spongebob-context%2F1775660408211.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxag76yxaasfwotit82h.png",
       "source": "Dev.to",
-      "user": "Alex Tong"
+      "user": "Andrei Merlescu"
     },
     {
       "title": "Coding Agents Play Favorites With Your Dependencies",
@@ -832,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1244,
       "user": "mekos2772"
     },
     {
@@ -847,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 503,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -877,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 89,
       "user": "kerlenton"
     }
   ],
@@ -1014,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1244,
       "user": "mekos2772"
     },
     {
@@ -1044,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "xt4d"
     },
     {
@@ -1226,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1285,
       "user": "yynxxxxx"
     },
     {
@@ -1241,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "TianhangZhuzth"
     },
     {
@@ -1256,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 503,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1335,6 +1320,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "cuenv: one typed file for your whole project",
+      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
+      "published_at": "2026-06-23T14:45:27Z",
+      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
+      "tags": [
+        "automation",
+        "cicd",
+        "devops",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
+      "source": "Dev.to",
+      "user": "Peter Jausovec"
     }
   ],
   "WebDev": [
@@ -1379,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1244,
       "user": "mekos2772"
     }
   ],
@@ -1609,21 +1609,6 @@
       "user": "Julien Avezou"
     },
     {
-      "title": "When Claude starts hallucinating, kill the session",
-      "url": "https://dev.to/alextongme/when-claude-starts-hallucinating-kill-the-session-1ejf",
-      "published_at": "2026-07-01T13:00:00Z",
-      "description": "Most people don't realize they're 30 minutes into arguing with an AI that stopped listening 20 minutes ago. The fix: throw the session away.",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Falextong.me%2Fnotes%2Fdirty-spongebob-context%2F1775660408211.jpeg",
-      "source": "Dev.to",
-      "user": "Alex Tong"
-    },
-    {
       "title": "Coding Agents Play Favorites With Your Dependencies",
       "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
       "published_at": "2026-06-29T16:05:43Z",
@@ -1653,6 +1638,21 @@
       "user": "Kate Pond"
     },
     {
+      "title": "cuenv: one typed file for your whole project",
+      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
+      "published_at": "2026-06-23T14:45:27Z",
+      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
+      "tags": [
+        "automation",
+        "cicd",
+        "devops",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
+      "source": "Dev.to",
+      "user": "Peter Jausovec"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1664,7 +1664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1244,
       "user": "mekos2772"
     },
     {
@@ -1694,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "xt4d"
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1285,
       "user": "yynxxxxx"
     },
     {
@@ -1754,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "TianhangZhuzth"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 503,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "maaslalani"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 89,
       "user": "kerlenton"
     },
     {
