@@ -60,20 +60,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "A Third Brain for your Second Brain",
       "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
       "published_at": "2026-07-03T15:02:56Z",
@@ -85,6 +71,20 @@
         "memory"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
     },
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1246,
       "user": "mekos2772"
     },
     {
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -847,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 122,
       "user": "kerlenton"
     },
     {
@@ -999,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1246,
       "user": "mekos2772"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1379,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1246,
       "user": "mekos2772"
     }
   ],
@@ -1664,7 +1664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1246,
       "user": "mekos2772"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1818,6 +1818,21 @@
       "user": "maaslalani"
     },
     {
+      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "published_at": "2026-06-27T10:25:09Z",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
+      "source": "GitHub",
+      "stars": 122,
+      "user": "kerlenton"
+    },
+    {
       "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
       "url": "https://github.com/kdsuomi/cc-simplerouter",
       "published_at": "2026-06-29T02:22:12Z",
@@ -1831,21 +1846,6 @@
       "source": "GitHub",
       "stars": 112,
       "user": "kdsuomi"
-    },
-    {
-      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "published_at": "2026-06-27T10:25:09Z",
-      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "kerlenton"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
