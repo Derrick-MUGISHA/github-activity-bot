@@ -15,20 +15,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Let Us Be Free",
       "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
       "published_at": "2026-07-02T15:55:55Z",
@@ -88,36 +74,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
-      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
-      "published_at": "2026-07-02T15:00:21Z",
-      "description": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
-      "tags": [
-        "aie",
-        "agents",
-        "mcp",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Google VP of Technology says he’s given up on coding",
-      "url": "https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c",
-      "published_at": "2026-07-02T14:48:23Z",
-      "description": "In his keynote on Wednesday, Benoit Schillings, vice president of Technology at Google DeepMind and...",
-      "tags": [
-        "aie",
-        "ai",
-        "gemini",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqvnpqn4hie7s1qk1wb7d.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
       "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
       "published_at": "2026-06-30T14:37:29Z",
@@ -131,19 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
-      "published_at": "2026-07-02T14:10:36Z",
-      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
     },
     {
       "title": "Welcome to AI Engineer World’s Fair 2026",
@@ -230,21 +173,6 @@
       "user": "Swift"
     },
     {
-      "title": "How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse",
-      "url": "https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh",
-      "published_at": "2026-07-02T15:34:59Z",
-      "description": "By Hiral Shah, Senior Director, Product Management, Docusign  A major recurring theme among the...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "nvidia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6dbj9wqgfjhwlcxld01.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Without Structure",
       "url": "https://dev.to/dailycontext/without-structure-22d1",
       "published_at": "2026-07-02T15:18:45Z",
@@ -285,6 +213,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdczn91hn73n6jhccpbr1.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
+      "published_at": "2026-07-02T14:10:36Z",
+      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
     },
     {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
@@ -373,6 +314,21 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse",
+      "url": "https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh",
+      "published_at": "2026-07-02T15:34:59Z",
+      "description": "By Hiral Shah, Senior Director, Product Management, Docusign  A major recurring theme among the...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents",
+        "nvidia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6dbj9wqgfjhwlcxld01.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Beyond Context",
       "url": "https://dev.to/dailycontext/beyond-context-4b0g",
       "published_at": "2026-07-02T14:02:11Z",
@@ -386,6 +342,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
+      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
+      "published_at": "2026-07-02T15:00:21Z",
+      "description": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
+      "tags": [
+        "aie",
+        "agents",
+        "mcp",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Google VP of Technology says he’s given up on coding",
+      "url": "https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c",
+      "published_at": "2026-07-02T14:48:23Z",
+      "description": "In his keynote on Wednesday, Benoit Schillings, vice president of Technology at Google DeepMind and...",
+      "tags": [
+        "aie",
+        "ai",
+        "gemini",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqvnpqn4hie7s1qk1wb7d.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
@@ -875,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1178,
       "user": "mekos2772"
     },
     {
@@ -1042,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1178,
       "user": "mekos2772"
     },
     {
@@ -1057,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 373,
       "user": "kui123456789"
     },
     {
@@ -1087,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "xt4d"
     },
     {
@@ -1269,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1157,
       "user": "yynxxxxx"
     },
     {
@@ -1284,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 757,
       "user": "TianhangZhuzth"
     },
     {
@@ -1314,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "Jia-Ethan"
     },
     {
@@ -1437,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1178,
       "user": "mekos2772"
     }
   ],
@@ -1739,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1178,
       "user": "mekos2772"
     },
     {
@@ -1754,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 373,
       "user": "kui123456789"
     },
     {
@@ -1784,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "xt4d"
     },
     {
@@ -1814,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1157,
       "user": "yynxxxxx"
     },
     {
@@ -1829,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 757,
       "user": "TianhangZhuzth"
     },
     {
@@ -1859,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "Jia-Ethan"
     },
     {
@@ -1889,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 240,
       "user": "maaslalani"
     },
     {
@@ -1934,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 89,
       "user": "iniwex5"
     },
     {
