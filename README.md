@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-07-02-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-07-03-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 67 (63.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 65 (61.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Python**: 🟦🟦🟦🟦🟦 17 (16.2%)
 
-**JavaScript**: 🟦🟦🟦🟦 15 (14.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
 **Cloud**: 🟦🟦 6 (5.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 25.4 (25.4%)
-Java            ████████████████████████████ 23.9 (23.9%)
-Go              ██████████████████████████ 22.4 (22.4%)
-JavaScript      ██████████████████████████ 22.4 (22.4%)
-Rust            ████ 3.0 (3.0%)
+Python          ██████████████████████████████ 25.8 (25.8%)
+Java            ████████████████████████████ 24.2 (24.2%)
+JavaScript      ██████████████████████████ 22.7 (22.7%)
+Go              █████████████████████████ 21.2 (21.2%)
+Rust            ███ 3.0 (3.0%)
 Kotlin          ██ 1.5 (1.5%)
 Swift           ██ 1.5 (1.5%)
 
@@ -74,8 +74,8 @@ Swift           ██ 1.5 (1.5%)
 pie title Programming Languages Distribution
     "Python" : 17
     "Java" : 16
-    "Go" : 15
     "JavaScript" : 15
+    "Go" : 14
     "Rust" : 2
     "Kotlin" : 1
     "Swift" : 1
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-03 1:00 CAT)
+## 📅 Latest Updates (2026-07-03 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,6 +151,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/dailycontext/let-us-be-free-2ico">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png" width="200" alt="Let Us Be Free" />
+      <br/>
+      <b>Let Us Be Free</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png" width="200" alt="18 Hot Takes On Where AI is Headed Next" />
       <br/>
@@ -159,8 +170,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png" width="200" alt="Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!" />
@@ -179,15 +188,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/let-us-be-free-2ico">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png" width="200" alt="Let Us Be Free" />
-      <br/>
-      <b>Let Us Be Free</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -197,10 +197,10 @@ npm run test
 
 - [Letting the DEV Community Weigh in on the Topics of AIE](https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l) _[Dev.to]_
 - [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) _[Dev.to]_
+- [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico) _[Dev.to]_
 - [18 Hot Takes On Where AI is Headed Next](https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9) _[Dev.to]_
 - [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
-- [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico) _[Dev.to]_
 - [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49) _[Dev.to]_
 - [Google VP of Technology says he’s given up on coding](https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c) _[Dev.to]_
 - [Is Forward Deployed Engineering Killing DevRel?](https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse](https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh) _[Dev.to]_
 - [Without Structure](https://dev.to/dailycontext/without-structure-22d1) _[Dev.to]_
 
-_Last automated update: Fri, 03 Jul 2026 01:03:49 CAT_
+_Last automated update: Fri, 03 Jul 2026 02:23:08 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 03 Jul 2026 01:03:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Jul 2026 23:03:49 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Jul 2026 00:23:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
