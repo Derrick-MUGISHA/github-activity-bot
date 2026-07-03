@@ -29,21 +29,6 @@
       "user": "John McBride"
     },
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "18 Hot Takes On Where AI is Headed Next",
       "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
       "published_at": "2026-07-02T15:53:07Z",
@@ -74,6 +59,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
       "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
       "published_at": "2026-06-30T14:37:29Z",
@@ -87,21 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
-      "published_at": "2026-06-29T16:04:30Z",
-      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
-      "source": "Dev.to",
-      "user": "swyx"
     },
     {
       "title": "You Don’t Always Need The Frontier",
@@ -389,6 +374,20 @@
       "user": "Tilde A. Thurium"
     },
     {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "AI Engineer Meets AI Engineer",
       "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
       "published_at": "2026-06-30T15:21:36Z",
@@ -444,21 +443,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
-      "published_at": "2026-06-29T15:15:49Z",
-      "description": "How I ended up running a local LLM to generate my git commit messages",
-      "tags": [
-        "genai",
-        "ollama",
-        "learning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
-      "source": "Dev.to",
-      "user": "Shyamala"
-    },
-    {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
       "published_at": "2026-06-29T16:06:30Z",
@@ -500,6 +484,21 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
+      "published_at": "2026-06-29T16:04:30Z",
+      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
+      "source": "Dev.to",
+      "user": "swyx"
+    },
+    {
       "title": "The Model Does Not Need Memory. The Situation Does.",
       "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
       "published_at": "2026-06-29T11:50:14Z",
@@ -513,35 +512,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "What Actually Happens When You Call an LLM API",
-      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
-      "published_at": "2026-06-29T08:07:46Z",
-      "description": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
-      "tags": [
-        "ai",
-        "webdev",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frgp5rauud2oehbmi52kx.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "The Evolution & Role of Context Engineering in AI Today",
-      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
-      "published_at": "2026-06-30T15:33:14Z",
-      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlp5047uplutl8wigh4u.jpg",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
     },
     {
       "title": "It’s Time To Put Humans Back In The Software",
@@ -615,6 +585,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Falextong.me%2Fnotes%2Fdirty-spongebob-context%2F1775660408211.jpeg",
       "source": "Dev.to",
       "user": "Alex Tong"
+    },
+    {
+      "title": "Coding Agents Play Favorites With Your Dependencies",
+      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
+      "published_at": "2026-06-29T16:05:43Z",
+      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "tags": [
+        "agents",
+        "aie",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
+      "source": "Dev.to",
+      "user": "Adam DuVander"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -704,6 +688,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -861,23 +875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1216,
       "user": "mekos2772"
     },
     {
-      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "published_at": "2026-06-28T22:56:13Z",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 333,
-      "user": "offchainthoughts"
+      "stars": 383,
+      "user": "HUANGCHIHHUNGLeo"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -1028,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1216,
       "user": "mekos2772"
     },
     {
@@ -1043,7 +1057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 396,
       "user": "kui123456789"
     },
     {
@@ -1073,7 +1087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "xt4d"
     },
     {
@@ -1255,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1172,
       "user": "yynxxxxx"
     },
     {
@@ -1270,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 758,
       "user": "TianhangZhuzth"
     },
     {
@@ -1285,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 574,
       "user": "aquace"
     },
     {
@@ -1300,23 +1314,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 406,
       "user": "Jia-Ethan"
     },
     {
-      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "published_at": "2026-06-28T22:56:13Z",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 333,
-      "user": "offchainthoughts"
+      "stars": 383,
+      "user": "HUANGCHIHHUNGLeo"
     }
   ],
   "DevOps": [
@@ -1379,6 +1393,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
       "source": "Dev.to",
       "user": "Peter Jausovec"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     }
   ],
   "WebDev": [
@@ -1423,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1216,
       "user": "mekos2772"
     }
   ],
@@ -1618,7 +1647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 574,
       "user": "aquace"
     }
   ],
@@ -1654,21 +1683,6 @@
       "user": "Julien Avezou"
     },
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
-      "published_at": "2026-06-29T15:15:49Z",
-      "description": "How I ended up running a local LLM to generate my git commit messages",
-      "tags": [
-        "genai",
-        "ollama",
-        "learning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgflip.com%2Favdl7i.jpg",
-      "source": "Dev.to",
-      "user": "Shyamala"
-    },
-    {
       "title": "When Claude starts hallucinating, kill the session",
       "url": "https://dev.to/alextongme/when-claude-starts-hallucinating-kill-the-session-1ejf",
       "published_at": "2026-07-01T13:00:00Z",
@@ -1682,6 +1696,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Falextong.me%2Fnotes%2Fdirty-spongebob-context%2F1775660408211.jpeg",
       "source": "Dev.to",
       "user": "Alex Tong"
+    },
+    {
+      "title": "Coding Agents Play Favorites With Your Dependencies",
+      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
+      "published_at": "2026-06-29T16:05:43Z",
+      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "tags": [
+        "agents",
+        "aie",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
+      "source": "Dev.to",
+      "user": "Adam DuVander"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -1714,6 +1742,21 @@
       "user": "Peter Jausovec"
     },
     {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1725,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1216,
       "user": "mekos2772"
     },
     {
@@ -1740,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 396,
       "user": "kui123456789"
     },
     {
@@ -1770,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "xt4d"
     },
     {
@@ -1800,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1172,
       "user": "yynxxxxx"
     },
     {
@@ -1815,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 758,
       "user": "TianhangZhuzth"
     },
     {
@@ -1830,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 574,
       "user": "aquace"
     },
     {
@@ -1845,23 +1888,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 406,
       "user": "Jia-Ethan"
     },
     {
-      "title": "offchainthoughts/Amber - Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "published_at": "2026-06-28T22:56:13Z",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252279235?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 333,
-      "user": "offchainthoughts"
+      "stars": 383,
+      "user": "HUANGCHIHHUNGLeo"
     },
     {
       "title": "maaslalani/fast - Internet speed test in your terminal",
@@ -1875,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "maaslalani"
     },
     {
@@ -1909,21 +1952,6 @@
       "user": "0xMassi"
     },
     {
-      "title": "iniwex5/vohive - GitHub Repository",
-      "url": "https://github.com/iniwex5/vohive",
-      "published_at": "2026-06-30T19:52:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35565716?v=4",
-      "source": "GitHub",
-      "stars": 89,
-      "user": "iniwex5"
-    },
-    {
       "title": "aurora-develop/grok2api - GitHub Repository",
       "url": "https://github.com/aurora-develop/grok2api",
       "published_at": "2026-06-28T04:07:28Z",
@@ -1935,8 +1963,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "aurora-develop"
+    },
+    {
+      "title": "kinncj/Heimdall - Heimdall is a lightweight, cross-platform hardware monitoring system with a real-time terminal dashboard.",
+      "url": "https://github.com/kinncj/Heimdall",
+      "published_at": "2026-06-27T00:52:57Z",
+      "description": "Heimdall is a lightweight, cross-platform hardware monitoring system with a real-time terminal dashboard.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292542?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "kinncj"
     }
   ]
 }
