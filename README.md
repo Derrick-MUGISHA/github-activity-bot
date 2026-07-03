@@ -32,19 +32,19 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦 16 (15.2%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Cloud**: 🟦🟦 7 (6.7%)
+**Cloud**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Security**: 🟦 4 (3.8%)
 
-**Database**: 🟦 3 (2.9%)
-
 **Mobile**: 🟦 2 (1.9%)
+
+**Database**: 🟦 2 (1.9%)
 
 **WebDev**:  1 (1.0%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 25.4 (25.4%)
-Java            ████████████████████████████ 23.9 (23.9%)
-Go              ██████████████████████████ 22.4 (22.4%)
+Go              ██████████████████████████████ 25.4 (25.4%)
+Python          ████████████████████████████ 23.9 (23.9%)
 JavaScript      ██████████████████████████ 22.4 (22.4%)
+Java            ██████████████████████████ 22.4 (22.4%)
 Rust            ████ 3.0 (3.0%)
 Kotlin          ██ 1.5 (1.5%)
 Swift           ██ 1.5 (1.5%)
@@ -72,10 +72,10 @@ Swift           ██ 1.5 (1.5%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Python" : 17
-    "Java" : 16
-    "Go" : 15
+    "Go" : 17
+    "Python" : 16
     "JavaScript" : 15
+    "Java" : 15
     "Rust" : 2
     "Kotlin" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-45-blue) ![aie](https://img.shields.io/badge/aie-36-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![software](https://img.shields.io/badge/software-3-blue) 
+![ai](https://img.shields.io/badge/ai-44-blue) ![aie](https://img.shields.io/badge/aie-37-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![python](https://img.shields.io/badge/python-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![opensource](https://img.shields.io/badge/opensource-3-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-03 14:00 CAT)
+## 📅 Latest Updates (2026-07-03 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,6 +142,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png" width="200" alt="Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!" />
+      <br/>
+      <b>Congrats to the GitHub Finish-Up-A-Thon Challenge ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/dailycontext/let-us-be-free-2ico">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png" width="200" alt="Let Us Be Free" />
       <br/>
@@ -150,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png" width="200" alt="18 Hot Takes On Where AI is Headed Next" />
@@ -159,8 +170,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png" width="200" alt="Need a break? Play today's game from The Daily Context." />
@@ -171,19 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png" width="200" alt="Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!" />
+    <a href="https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png" width="200" alt="Choosing the Right Tooling Layer for Your Agent" />
       <br/>
-      <b>Congrats to the GitHub Finish-Up-A-Thon Challenge ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg" width="200" alt="Gemma and sandboxing cause a stir at the World's Fair" />
-      <br/>
-      <b>Gemma and sandboxing cause a stir at the World's F...</b>
+      <b>Choosing the Right Tooling Layer for Your Agent</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,27 +196,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Letting the DEV Community Weigh in on the Topics of AIE](https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l) _[Dev.to]_
+- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico) _[Dev.to]_
 - [18 Hot Takes On Where AI is Headed Next](https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9) _[Dev.to]_
 - [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) _[Dev.to]_
-- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
+- [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2) _[Dev.to]_
+- [The biggest World’s Fair yet powers down for the moment](https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca) _[Dev.to]_
+- [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
 - [Warp CEO Zach Lloyd on why software factories are the next phase of coding](https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6) _[Dev.to]_
-- [My First Year at DEV Recap](https://dev.to/javz/my-first-year-at-dev-recap-3na2) _[Dev.to]_
 - [Forward Deployed Engineers and the future of software engineering](https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll) _[Dev.to]_
 - [AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers](https://dev.to/dailycontext/aiewf-daily-dispatch-loops-software-factories-forward-deployed-engineers-365h) _[Dev.to]_
 - [Is Forward Deployed Engineering Killing DevRel?](https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833) _[Dev.to]_
 - [Without Structure](https://dev.to/dailycontext/without-structure-22d1) _[Dev.to]_
 - [These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d) _[Dev.to]_
 - [Ahmad Osman on why local AI is catching up](https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko) _[Dev.to]_
-- [From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk) _[Dev.to]_
 - [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl) _[Dev.to]_
 - [Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943) _[Dev.to]_
-- [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149) _[Dev.to]_
 
-_Last automated update: Fri, 03 Jul 2026 14:35:26 CAT_
+_Last automated update: Fri, 03 Jul 2026 17:02:46 CAT_
 
 
 
@@ -224,7 +224,29 @@ _Last automated update: Fri, 03 Jul 2026 14:35:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. Python: What are generators and when would you use them?
+
+**Difficulty**: Medium | **Topics**: iterators, memory
+
+<details>
+<summary>💡 Hint</summary>
+
+yield keyword, lazy evaluation, memory efficiency
+
+</details>
+
+### 2. React: How would you optimize a React app's performance?
+
+**Difficulty**: Hard | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+React.memo, useMemo, useCallback, code splitting, lazy loading
+
+</details>
+
+### 3. SystemDesign: Design a distributed cache system
 
 **Difficulty**: Hard | **Topics**: distributed systems, caching
 
@@ -232,28 +254,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Consistency, partitioning, replication, eviction policies
-
-</details>
-
-### 2. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 3. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Jul 2026 12:35:26 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Jul 2026 15:02:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
