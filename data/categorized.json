@@ -60,21 +60,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "18 Hot Takes On Where AI is Headed Next",
-      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
-      "published_at": "2026-07-02T15:53:07Z",
-      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
-      "tags": [
-        "aie",
-        "discuss",
-        "software",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Choosing the Right Tooling Layer for Your Agent",
       "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
       "published_at": "2026-07-03T14:57:01Z",
@@ -547,6 +532,21 @@
       "user": "swyx"
     },
     {
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
+      "published_at": "2026-07-02T15:53:07Z",
+      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
+      "tags": [
+        "aie",
+        "discuss",
+        "software",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Is Forward Deployed Engineering Killing DevRel?",
       "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833",
       "published_at": "2026-07-02T13:52:16Z",
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1241,
       "user": "mekos2772"
     },
     {
@@ -847,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 499,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -864,6 +864,21 @@
       "source": "GitHub",
       "stars": 92,
       "user": "0xMassi"
+    },
+    {
+      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "published_at": "2026-06-27T10:25:09Z",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "kerlenton"
     }
   ],
   "JavaScript": [
@@ -999,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1241,
       "user": "mekos2772"
     },
     {
@@ -1029,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "xt4d"
     },
     {
@@ -1211,23 +1226,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1281,
+      "stars": 1283,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
-      "published_at": "2026-06-28T07:13:52Z",
-      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "aquace"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 499,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1273,6 +1273,21 @@
       "source": "GitHub",
       "stars": 410,
       "user": "Jia-Ethan"
+    },
+    {
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 377,
+      "user": "asz798838958"
     }
   ],
   "DevOps": [
@@ -1364,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1241,
       "user": "mekos2772"
     }
   ],
@@ -1531,21 +1546,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
-      "published_at": "2026-06-28T07:13:52Z",
-      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "aquace"
     }
   ],
   "Tools": [
@@ -1664,7 +1664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1241,
       "user": "mekos2772"
     },
     {
@@ -1694,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "xt4d"
     },
     {
@@ -1739,23 +1739,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1281,
+      "stars": 1283,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
-      "published_at": "2026-06-28T07:13:52Z",
-      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32766565?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "aquace"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
@@ -1784,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 499,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1803,6 +1788,21 @@
       "user": "Jia-Ethan"
     },
     {
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 377,
+      "user": "asz798838958"
+    },
+    {
       "title": "maaslalani/fast - Internet speed test in your terminal",
       "url": "https://github.com/maaslalani/fast",
       "published_at": "2026-06-28T03:07:02Z",
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "maaslalani"
     },
     {
@@ -1848,6 +1848,21 @@
       "user": "0xMassi"
     },
     {
+      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "published_at": "2026-06-27T10:25:09Z",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "kerlenton"
+    },
+    {
       "title": "aurora-develop/grok2api - GitHub Repository",
       "url": "https://github.com/aurora-develop/grok2api",
       "published_at": "2026-06-28T04:07:28Z",
@@ -1861,21 +1876,6 @@
       "source": "GitHub",
       "stars": 62,
       "user": "aurora-develop"
-    },
-    {
-      "title": "kinncj/Heimdall - Heimdall is a lightweight, cross-platform hardware monitoring system with a real-time terminal dashboard.",
-      "url": "https://github.com/kinncj/Heimdall",
-      "published_at": "2026-06-27T00:52:57Z",
-      "description": "Heimdall is a lightweight, cross-platform hardware monitoring system with a real-time terminal dashboard.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292542?v=4",
-      "source": "GitHub",
-      "stars": 49,
-      "user": "kinncj"
     }
   ]
 }
