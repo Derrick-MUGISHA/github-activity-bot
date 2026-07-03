@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 65,
+    "AI": 64,
     "JavaScript": 15,
     "Python": 17,
     "DevOps": 4,
@@ -28,7 +28,7 @@
   },
   "by_date": {
     "2026-07-02": 14,
-    "2026-06-29": 13,
+    "2026-06-29": 12,
     "2026-06-30": 19,
     "2026-07-01": 13,
     "2026-06-28": 7,
@@ -69,7 +69,7 @@
     "2026-06-27": 2
   },
   "top_tags": {
-    "ai": 46,
+    "ai": 45,
     "aie": 35,
     "github": 15,
     "open-source": 15,
@@ -78,17 +78,17 @@
     "JavaScript": 10,
     "Python": 10,
     "discuss": 6,
-    "webdev": 6,
     "python": 6,
     "gemini": 5,
+    "webdev": 5,
     "javascript": 5,
     "go": 5,
-    "llm": 3,
     "software": 3,
     "learning": 3,
     "antigravity": 3,
     "gamedev": 2,
-    "mcp": 2
+    "gemma": 2,
+    "softwareengineering": 2
   },
   "trending_topics": [],
   "language_percentages": {
