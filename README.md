@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-98-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-101-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--04-orange?style=flat-square)
@@ -98,22 +98,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 4 | [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4) | Dev.to |
 | 5 | [Warp CEO Zach Lloyd on why software factories are the next phase of coding](https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6) | Dev.to |
 | 6 | [Forward Deployed Engineers and the future of software engineering](https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll) | Dev.to |
-| 7 | [AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers](https://dev.to/dailycontext/aiewf-daily-dispatch-loops-software-factories-forward-deployed-engineers-365h) | Dev.to |
+| 7 | [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h) | Dev.to |
 | 8 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
 | 9 | [Without Structure](https://dev.to/dailycontext/without-structure-22d1) | Dev.to |
 | 10 | [These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d) | Dev.to |
-| 11 | [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl) | Dev.to |
-| 12 | [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p) | Dev.to |
-| 13 | [Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943) | Dev.to |
-| 14 | [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf) | Dev.to |
-| 15 | [Some Robots Just Can’t Handle The Expo](https://dev.to/dailycontext/some-robots-just-cant-handle-the-expo-4ffm) | Dev.to |
-| 16 | [How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse](https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh) | Dev.to |
-| 17 | [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49) | Dev.to |
-| 18 | [Google VP of Technology says he’s given up on coding](https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c) | Dev.to |
-| 19 | [Fable Is Set Free - There’s A Brand New Claude In Town](https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9) | Dev.to |
-| 20 | [How to Count Gemini Tokens Locally](https://dev.to/googlecloud/how-to-count-gemini-tokens-locally-3cal) | Dev.to |
+| 11 | [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) | Dev.to |
+| 12 | [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl) | Dev.to |
+| 13 | [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p) | Dev.to |
+| 14 | [Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943) | Dev.to |
+| 15 | [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf) | Dev.to |
+| 16 | [Some Robots Just Can’t Handle The Expo](https://dev.to/dailycontext/some-robots-just-cant-handle-the-expo-4ffm) | Dev.to |
+| 17 | [How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse](https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh) | Dev.to |
+| 18 | [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49) | Dev.to |
+| 19 | [Google VP of Technology says he’s given up on coding](https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c) | Dev.to |
+| 20 | [Fable Is Set Free - There’s A Brand New Claude In Town](https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9) | Dev.to |
 
-<sub>Last fetched: Sat, 04 Jul 2026 23:06:02 CAT</sub>
+<sub>Last fetched: Sat, 04 Jul 2026 23:46:29 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What are Java Streams and how do they work?**
+**1. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Heap, stack, garbage collection
 
 </details>
 
-**2. `SystemDesign` — Design a distributed cache system**
+**2. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Hash function, database design, caching, analytics
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Heap, stack, garbage collection
 
 </details>
 
@@ -164,12 +164,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 60 | 61.2% | `████████████████████` |
-| **Tools** | 24 | 24.5% | `████████░░░░░░░░░░░░` |
-| **Python** | 17 | 17.3% | `██████░░░░░░░░░░░░░░` |
-| **JavaScript** | 15 | 15.3% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 8 | 8.2% | `███░░░░░░░░░░░░░░░░░` |
-| **DevOps** | 5 | 5.1% | `██░░░░░░░░░░░░░░░░░░` |
+| **AI** | 59 | 58.4% | `████████████████████` |
+| **Tools** | 24 | 23.8% | `████████░░░░░░░░░░░░` |
+| **Python** | 17 | 16.8% | `██████░░░░░░░░░░░░░░` |
+| **JavaScript** | 15 | 14.9% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 8 | 7.9% | `███░░░░░░░░░░░░░░░░░` |
+| **DevOps** | 5 | 5.0% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 2.0% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Security** | 2 | 2.0% | `█░░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 1 | 1.0% | `░░░░░░░░░░░░░░░░░░░░` |
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 53 |
+| Dev.to | 56 |
 | HackerNews | 30 |
 | GitHub | 15 |
 
@@ -190,11 +190,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 25.8%
-Go              ████████████████████████████ 24.2%
-JavaScript      ██████████████████████████ 22.7%
-Java            ██████████████████████████ 22.7%
-Rust            ███ 3.0%
+Python          ██████████████████████████████ 25.0%
+Go              ██████████████████████████████ 25.0%
+JavaScript      ███████████████████████████ 22.1%
+Java            ███████████████████████████ 22.1%
+Rust            █████ 4.4%
 Swift           ██ 1.5%
 
 ```
@@ -202,17 +202,17 @@ Swift           ██ 1.5%
 ```mermaid
 pie title Programming Languages Distribution
     "Python" : 17
-    "Go" : 16
+    "Go" : 17
     "JavaScript" : 15
     "Java" : 15
-    "Rust" : 2
+    "Rust" : 3
     "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-30-0969da?style=flat-square) ![Python](https://img.shields.io/badge/Python-17-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-15-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-15-0969da?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-15-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-6-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) ![devops](https://img.shields.io/badge/devops-4-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-4-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-4-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-29-0969da?style=flat-square) ![Python](https://img.shields.io/badge/Python-17-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-15-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-15-0969da?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-15-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-6-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-4-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-4-0969da?style=flat-square) ![devops](https://img.shields.io/badge/devops-4-0969da?style=flat-square) 
 
 
 ---
@@ -264,6 +264,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 04 Jul 2026 21:06:03 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 04 Jul 2026 21:46:29 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
