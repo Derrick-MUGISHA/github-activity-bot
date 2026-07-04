@@ -15,21 +15,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
       "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
       "published_at": "2026-07-03T14:38:37Z",
@@ -75,35 +60,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "Is looping ready to roll? Experts split on the future of coding",
-      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
-      "published_at": "2026-07-03T15:07:40Z",
-      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
-      "published_at": "2026-07-03T14:45:31Z",
-      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Choosing the Right Tooling Layer for Your Agent",
       "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
       "published_at": "2026-07-03T14:57:01Z",
@@ -116,6 +72,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "published_at": "2026-07-03T15:07:40Z",
+      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -187,6 +157,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FQL_%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
       "source": "Dev.to",
       "user": "Richard MacManus"
+    },
+    {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
@@ -286,6 +271,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "The biggest World’s Fair yet powers down for the moment",
+      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
+      "published_at": "2026-07-03T14:45:31Z",
+      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
@@ -430,21 +430,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqqqlqpx68msxeipuhl7p.png",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9",
-      "published_at": "2026-06-30T15:54:14Z",
-      "description": "Twenty years ago, translation at Google began as one of our pioneering machine learning experiments...",
-      "tags": [
-        "ai",
-        "google",
-        "gemini",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y0qj7vx9schdoduagw7.png",
-      "source": "Dev.to",
-      "user": "Gemini Team"
     },
     {
       "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
@@ -604,20 +589,6 @@
       "user": "Andrei Merlescu"
     },
     {
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
-      "published_at": "2026-06-29T16:05:43Z",
-      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
-      "tags": [
-        "agents",
-        "aie",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
-      "source": "Dev.to",
-      "user": "Adam DuVander"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -660,6 +631,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
+      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
+      "published_at": "2026-06-26T07:03:01Z",
+      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "howto"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -817,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1267,
       "user": "mekos2772"
     },
     {
@@ -832,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 574,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -851,8 +867,8 @@
       "user": "0xMassi"
     },
     {
-      "title": "crgimenes/airfoil - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
-      "url": "https://github.com/crgimenes/airfoil",
+      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/kutta",
       "published_at": "2026-07-02T12:52:26Z",
       "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
       "tags": [
@@ -862,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 48,
       "user": "crgimenes"
     }
   ],
@@ -999,8 +1015,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1267,
       "user": "mekos2772"
+    },
+    {
+      "title": "spiritov/ds.css - A css framework recreating the DS / DS Lite's UI",
+      "url": "https://github.com/spiritov/ds.css",
+      "published_at": "2026-06-29T05:33:18Z",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "spiritov"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1014,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 184,
       "user": "xt4d"
     },
     {
@@ -1044,23 +1075,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 116,
       "user": "dzhng"
-    },
-    {
-      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
-      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
-      "published_at": "2026-06-29T21:05:33Z",
-      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "medoxisto"
     }
   ],
   "Python": [
@@ -1078,6 +1094,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1211,23 +1242,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1290,
+      "stars": 1305,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 519,
-      "user": "TianhangZhuzth"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
@@ -1241,8 +1257,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 574,
       "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
+      "source": "GitHub",
+      "stars": 520,
+      "user": "TianhangZhuzth"
     },
     {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
@@ -1271,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 383,
       "user": "asz798838958"
     }
   ],
@@ -1349,6 +1380,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "spiritov/ds.css - A css framework recreating the DS / DS Lite's UI",
+      "url": "https://github.com/spiritov/ds.css",
+      "published_at": "2026-06-29T05:33:18Z",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "spiritov"
     }
   ],
   "Mobile": [
@@ -1379,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1267,
       "user": "mekos2772"
     }
   ],
@@ -1473,6 +1519,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     }
   ],
   "Database": [
@@ -1490,6 +1551,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1550,21 +1626,6 @@
   ],
   "Tools": [
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Choosing the Right Tooling Layer for Your Agent",
       "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
       "published_at": "2026-07-03T14:57:01Z",
@@ -1594,6 +1655,21 @@
       "user": "Elliott"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "My First Year at DEV Recap",
       "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
       "published_at": "2026-07-01T13:46:22Z",
@@ -1607,20 +1683,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png",
       "source": "Dev.to",
       "user": "Julien Avezou"
-    },
-    {
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
-      "published_at": "2026-06-29T16:05:43Z",
-      "description": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
-      "tags": [
-        "agents",
-        "aie",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc0fzi6hkkccmod2j9szu.png",
-      "source": "Dev.to",
-      "user": "Adam DuVander"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -1653,6 +1715,21 @@
       "user": "Peter Jausovec"
     },
     {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
+      "published_at": "2026-06-29T16:05:56Z",
+      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "tags": [
+        "ai",
+        "aie",
+        "productivity",
+        "leadership"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1664,8 +1741,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1267,
       "user": "mekos2772"
+    },
+    {
+      "title": "spiritov/ds.css - A css framework recreating the DS / DS Lite's UI",
+      "url": "https://github.com/spiritov/ds.css",
+      "published_at": "2026-06-29T05:33:18Z",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "spiritov"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1679,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 184,
       "user": "xt4d"
     },
     {
@@ -1709,23 +1801,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 116,
       "user": "dzhng"
-    },
-    {
-      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
-      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
-      "published_at": "2026-06-29T21:05:33Z",
-      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "medoxisto"
     },
     {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
@@ -1739,23 +1816,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1290,
+      "stars": 1305,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 519,
-      "user": "TianhangZhuzth"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
@@ -1769,8 +1831,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 574,
       "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
+      "source": "GitHub",
+      "stars": 520,
+      "user": "TianhangZhuzth"
     },
     {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
@@ -1799,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 383,
       "user": "asz798838958"
     },
     {
@@ -1814,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "maaslalani"
     },
     {
@@ -1829,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "kdsuomi"
     },
     {
@@ -1859,12 +1936,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "aurora-develop"
     },
     {
-      "title": "crgimenes/airfoil - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
-      "url": "https://github.com/crgimenes/airfoil",
+      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/kutta",
       "published_at": "2026-07-02T12:52:26Z",
       "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
       "tags": [
@@ -1874,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 48,
       "user": "crgimenes"
     }
   ]
