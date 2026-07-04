@@ -73,18 +73,19 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Let Us Be Free",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "published_at": "2026-07-02T15:55:55Z",
-      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
       "tags": [
-        "aie",
-        "ai",
-        "opensource"
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
-      "user": "John McBride"
+      "user": "Jess Lee"
     },
     {
       "title": "Choosing the Right Tooling Layer for Your Agent",
@@ -128,21 +129,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FQL_%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
       "source": "Dev.to",
       "user": "Richard MacManus"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
@@ -818,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1278,
       "user": "mekos2772"
     },
     {
@@ -833,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -848,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 452,
       "user": "jmerelnyc"
     },
     {
@@ -1015,23 +1001,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1278,
       "user": "mekos2772"
-    },
-    {
-      "title": "spiritov/ds.css - A css framework recreating the DS / DS Lite's UI",
-      "url": "https://github.com/spiritov/ds.css",
-      "published_at": "2026-06-29T05:33:18Z",
-      "description": "A css framework recreating the DS / DS Lite's UI",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "spiritov"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1045,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "xt4d"
     },
     {
@@ -1077,6 +1048,21 @@
       "source": "GitHub",
       "stars": 116,
       "user": "dzhng"
+    },
+    {
+      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
+      "published_at": "2026-06-29T21:05:33Z",
+      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "medoxisto"
     }
   ],
   "Python": [
@@ -1242,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1341,
       "user": "yynxxxxx"
     },
     {
@@ -1257,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1287,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 452,
       "user": "jmerelnyc"
     },
     {
@@ -1302,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "Jia-Ethan"
     }
   ],
@@ -1380,21 +1366,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "spiritov/ds.css - A css framework recreating the DS / DS Lite's UI",
-      "url": "https://github.com/spiritov/ds.css",
-      "published_at": "2026-06-29T05:33:18Z",
-      "description": "A css framework recreating the DS / DS Lite's UI",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "spiritov"
     }
   ],
   "Mobile": [
@@ -1425,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1278,
       "user": "mekos2772"
     }
   ],
@@ -1641,20 +1612,6 @@
       "user": "Elliott"
     },
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -1668,6 +1625,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "My First Year at DEV Recap",
@@ -1741,23 +1712,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1278,
       "user": "mekos2772"
-    },
-    {
-      "title": "spiritov/ds.css - A css framework recreating the DS / DS Lite's UI",
-      "url": "https://github.com/spiritov/ds.css",
-      "published_at": "2026-06-29T05:33:18Z",
-      "description": "A css framework recreating the DS / DS Lite's UI",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "spiritov"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1771,7 +1727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "xt4d"
     },
     {
@@ -1805,6 +1761,21 @@
       "user": "dzhng"
     },
     {
+      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
+      "published_at": "2026-06-29T21:05:33Z",
+      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "medoxisto"
+    },
+    {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "published_at": "2026-06-28T10:24:42Z",
@@ -1816,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1341,
       "user": "yynxxxxx"
     },
     {
@@ -1831,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1861,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 452,
       "user": "jmerelnyc"
     },
     {
@@ -1876,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "Jia-Ethan"
     },
     {
@@ -1906,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "kdsuomi"
     },
     {
