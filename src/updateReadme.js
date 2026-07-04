@@ -1,30 +1,44 @@
 import fs from "fs";
 import { generateBarChart, generateMermaidDiagram } from "./stats.js";
 
+// shields.io badge syntax: literal dashes/underscores must be escaped
+function badgeText(text) {
+  return encodeURIComponent(String(text).replace(/-/g, "--").replace(/_/g, "__"));
+}
+
+function progressBar(count, max, width = 20) {
+  const filled = Math.round((count / max) * width);
+  return "█".repeat(filled) + "░".repeat(width - filled);
+}
+
 export function updateReadme(newsContent, stats, interviewQuestions) {
   const now = new Date();
-  
+  const dateStr = now.toISOString().split("T")[0];
+
   // Generate language statistics chart
   const languageChart = generateBarChart(stats.language_percentages || {});
   const mermaidDiagram = generateMermaidDiagram(stats);
-  
-  // Create category breakdown
-  let categoryBreakdown = "### 📊 Articles by Category\n\n";
+
+  // Category breakdown as a clean table
   const sortedCategories = Object.entries(stats.by_category)
     .sort(([, a], [, b]) => b - a)
     .filter(([, count]) => count > 0);
-  
+
+  let categoryBreakdown = "#### 🗂 Articles by Category\n\n";
+  categoryBreakdown += "| Category | Articles | Share | |\n";
+  categoryBreakdown += "|----------|---------:|------:|---|\n";
+  const maxCount = sortedCategories.length > 0 ? sortedCategories[0][1] : 1;
   for (const [category, count] of sortedCategories) {
     const percentage = ((count / stats.total) * 100).toFixed(1);
-    const barLength = Math.round((count / sortedCategories[0][1]) * 20);
-    const bar = "🟦".repeat(barLength);
-    categoryBreakdown += `**${category}**: ${bar} ${count} (${percentage}%)\n\n`;
+    categoryBreakdown += `| **${category}** | ${count} | ${percentage}% | \`${progressBar(count, maxCount)}\` |\n`;
   }
+  categoryBreakdown += "\n<sub>Articles can match more than one category, so shares may sum to over 100%.</sub>\n";
 
-  // Create source breakdown
-  let sourceBreakdown = "### 📡 Sources\n\n";
+  // Source breakdown as a table
+  let sourceBreakdown = "#### 📡 Articles by Source\n\n";
+  sourceBreakdown += "| Source | Articles |\n|--------|---------:|\n";
   for (const [source, count] of Object.entries(stats.by_source)) {
-    sourceBreakdown += `- **${source}**: ${count} articles\n`;
+    sourceBreakdown += `| ${source} | ${count} |\n`;
   }
 
   // Select random interview questions
@@ -39,60 +53,66 @@ export function updateReadme(newsContent, stats, interviewQuestions) {
     }
   }
 
-  let interviewSection = "\n## 💡 Daily Interview Questions\n\n";
-  interviewSection += "_Sharpen your skills with these curated questions_\n\n";
-  
+  let interviewSection = "## 💡 Interview Question of the Hour\n\n";
+  interviewSection += "> Sharpen your skills — new questions selected on every update. Try answering before opening the hint!\n\n";
+
   randomQuestions.forEach((q, idx) => {
-    interviewSection += `### ${idx + 1}. ${q.category}: ${q.question}\n\n`;
-    interviewSection += `**Difficulty**: ${q.difficulty} | `;
-    interviewSection += `**Topics**: ${q.topics.join(", ")}\n\n`;
+    interviewSection += `**${idx + 1}. \`${q.category}\` — ${q.question}**\n\n`;
+    interviewSection += `&nbsp;&nbsp;&nbsp;&nbsp;🎯 ${q.difficulty} · 🏷 ${q.topics.join(", ")}\n\n`;
     interviewSection += `<details>\n`;
-    interviewSection += `<summary>💡 Hint</summary>\n\n`;
-    interviewSection += `${q.answer_hint}\n\n`;
+    interviewSection += `<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>\n\n`;
+    interviewSection += `> ${q.answer_hint}\n\n`;
     interviewSection += `</details>\n\n`;
   });
 
-  // Top tags section
-  let tagsSection = "\n### 🏷️ Trending Tags\n\n";
-  const topTags = Object.entries(stats.top_tags).slice(0, 15);
-  topTags.forEach(([tag, count]) => {
-    tagsSection += `![${tag}](https://img.shields.io/badge/${encodeURIComponent(tag)}-${count}-blue) `;
+  // Trending tags — dedupe case-insensitively, keep the most frequent casing
+  let tagsSection = "#### 🏷 Trending Topics\n\n";
+  const seenTags = new Map();
+  for (const [tag, count] of Object.entries(stats.top_tags)) {
+    const key = tag.toLowerCase();
+    if (seenTags.has(key)) {
+      seenTags.get(key).count += count;
+    } else {
+      seenTags.set(key, { tag, count });
+    }
+  }
+  const topTags = [...seenTags.values()]
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 12);
+  topTags.forEach(({ tag, count }) => {
+    tagsSection += `![${tag}](https://img.shields.io/badge/${badgeText(tag)}-${count}-0969da?style=flat-square) `;
   });
-  tagsSection += "\n\n";
+  tagsSection += "\n";
 
-  const staticHeader = `# 🚀 DevTech Auto News - Enhanced Edition
+  const header = `<div align="center">
+
+# 📰 DevTech Auto News
+
+**Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-${stats.total}-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-${Object.keys(stats.by_language).length}-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-${now.toISOString().split('T')[0]}-orange)
+![Total Articles](https://img.shields.io/badge/Articles-${stats.total}-2ea44f?style=flat-square)
+![Categories](https://img.shields.io/badge/Categories-${sortedCategories.length}-blue?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-${Object.keys(stats.by_language).length}-blueviolet?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-${badgeText(dateStr)}-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
-**DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
+Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) — refreshed by GitHub Actions every few minutes.
 
-- 📰 [Dev.to](https://dev.to) - Developer community articles
-- 🔥 [HackerNews](https://news.ycombinator.com) - Tech news discussions  
-- 💻 [GitHub Trending](https://github.com/trending) - Trending repositories
-- 🎯 Curated Interview Questions from multiple languages
+**[📰 Headlines](#-latest-headlines) · [💡 Interview Prep](#-interview-question-of-the-hour) · [📊 Statistics](#-statistics) · [⚙️ How It Works](#%EF%B8%8F-how-it-works)**
 
-## ✨ Features
-
-✅ **Multi-Source Aggregation**: Combines articles from Dev.to, HackerNews, and GitHub  
-✅ **Smart Categorization**: Automatically categorizes content into 10+ topics  
-✅ **Image Support**: Displays cover images for visual appeal  
-✅ **Pagination**: Fetches 50+ articles per update with deduplication  
-✅ **Language Statistics**: Tracks programming language trends with charts  
-✅ **Interview Questions**: Daily coding interview questions in multiple languages  
-✅ **GitHub Actions**: Runs every 15 minutes automatically  
+</div>
 
 ---
+`;
 
-## 📊 Statistics Dashboard
+  const statsSection = `## 📊 Statistics
 
 ${categoryBreakdown}
 
 ${sourceBreakdown}
 
-### 💻 Programming Language Trends
+#### 💻 Programming Language Trends
 
 \`\`\`
 ${languageChart}
@@ -101,86 +121,74 @@ ${languageChart}
 ${mermaidDiagram}
 
 ${tagsSection}
-
----
-
-## 🛠️ How It Works
-
-1. **Multi-Source Fetch**: Pulls from Dev.to (2 pages), HackerNews (3 topics), GitHub (3 languages)
-2. **Smart Filter**: Uses keyword matching across 10+ categories  
-3. **Deduplication**: Removes duplicate URLs  
-4. **Image Extraction**: Captures cover images when available  
-5. **Statistics**: Generates language trends and category breakdowns  
-6. **Update Files**: Regenerates README and appends to comprehensive log  
-
----
-
-## 📦 Installation & Usage
-
-\`\`\`bash
-# Clone the repository
-git clone https://github.com/Derrick-MUGISHA/github-activity-bot.git
-cd github-activity-bot
-
-# Install dependencies  
-npm install
-
-# Run manually
-npm start
-
-# Test mode
-npm run test
-\`\`\`
-
----
 `;
 
-  const readme = `${staticHeader}
+  const aboutSection = `## ⚙️ How It Works
 
-${newsContent}
+This repository is a fully automated news pipeline. On every run, GitHub Actions:
 
-${interviewSection}
+1. **Fetches** the latest articles from Dev.to, Hacker News, and GitHub Trending
+2. **Deduplicates and categorizes** them across ${sortedCategories.length}+ topics using keyword matching
+3. **Extracts cover images** and computes language & category statistics
+4. **Rebuilds this README** and appends everything to the [full archive](./data/news_log.md)
+5. **Commits and pushes** the result — no human intervention needed
 
----
+<details>
+<summary><b>🚀 Run it yourself</b></summary>
 
-## 📚 Resources
+\`\`\`bash
+git clone https://github.com/Derrick-MUGISHA/github-activity-bot.git
+cd github-activity-bot
+npm install
+npm start
+\`\`\`
 
-- [Full News Archive](./data/news_log.md) - Complete history of all fetched articles
-- [Statistics JSON](./data/stats.json) - Raw statistics data
-- [Categorized Data](./data/categorized.json) - Articles organized by category
-- [Interview Questions](./data/interview_questions.json) - Complete question bank
+Fork the repo, enable GitHub Actions, and you have your own self-updating news feed.
 
----
+</details>
 
-## 🤝 Contributing
+<details>
+<summary><b>📚 Data & resources</b></summary>
 
-Want to add more sources, categories, or interview questions? Feel free to:
+- [Full news archive](./data/news_log.md) — complete history of every fetched article
+- [Statistics](./data/stats.json) — raw stats data (JSON)
+- [Categorized articles](./data/categorized.json) — articles grouped by topic
+- [Interview question bank](./data/interview_questions.json) — the full question set
 
-1. Fork this repository
-2. Add your improvements
-3. Submit a pull request
+</details>
+`;
 
----
+  const footer = `## 🤝 Contributing
+
+Ideas for new sources, categories, or interview questions are welcome — [open an issue](https://github.com/Derrick-MUGISHA/github-activity-bot/issues/new) or submit a pull request.
 
 ## 📄 License
 
-MIT License - Feel free to use and modify!
+Released under the [MIT License](https://opensource.org/licenses/MIT) — free to use, fork, and modify.
 
 ---
 
-<p align="center">
-  <b>Last automated update: ${now.toUTCString()}</b><br/>
-  <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
-</p>
-
----
-
-## 🔗 Quick Links
-
-- [View Workflow](https://github.com/Derrick-MUGISHA/github-activity-bot/actions)
-- [Report Issue](https://github.com/Derrick-MUGISHA/github-activity-bot/issues)
-- [Suggest Feature](https://github.com/Derrick-MUGISHA/github-activity-bot/issues/new)
+<div align="center">
+  <sub>🤖 Last automated update: <b>${now.toUTCString()}</b></sub><br/>
+  <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
+</div>
 `;
+
+  const readme = `${header}
+${newsContent}
+
+---
+
+${interviewSection}
+---
+
+${statsSection}
+---
+
+${aboutSection}
+---
+
+${footer}`;
 
   fs.writeFileSync("README.md", readme);
 }
