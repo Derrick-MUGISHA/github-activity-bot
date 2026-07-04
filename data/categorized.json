@@ -229,21 +229,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
-      "tags": [
-        "ai",
-        "webdev",
-        "security",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -431,6 +416,20 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "published_at": "2026-07-02T15:55:55Z",
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "tags": [
+        "aie",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "source": "Dev.to",
+      "user": "John McBride"
+    },
+    {
       "title": "The AI Engineer World’s Fair Spreads Globally",
       "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h",
       "published_at": "2026-06-29T16:05:03Z",
@@ -602,6 +601,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "published_at": "2026-06-30T15:01:43Z",
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
+      "source": "Dev.to",
+      "user": "Ishaan Sehgal"
     },
     {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
@@ -804,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "mekos2772"
     },
     {
@@ -819,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 679,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -834,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 492,
       "user": "jmerelnyc"
     },
     {
@@ -864,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 59,
       "user": "kernelstub"
     }
   ],
@@ -1001,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "mekos2772"
     },
     {
@@ -1016,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 212,
       "user": "xt4d"
     },
     {
@@ -1046,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "dzhng"
     },
     {
@@ -1228,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1347,
       "user": "yynxxxxx"
     },
     {
@@ -1243,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 679,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1273,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 492,
       "user": "jmerelnyc"
     },
     {
@@ -1396,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "mekos2772"
     }
   ],
@@ -1553,21 +1566,6 @@
   ],
   "Security": [
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
-      "tags": [
-        "ai",
-        "webdev",
-        "security",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
       "published_at": "2026-07-01T14:34:35Z",
@@ -1597,21 +1595,6 @@
   ],
   "Tools": [
     {
-      "title": "Protect Yourself, Mesh Yourself",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
-      "published_at": "2026-07-03T13:45:00Z",
-      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
-      "tags": [
-        "tutorial",
-        "productivity",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
-      "source": "Dev.to",
-      "user": "Elliott"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -1639,6 +1622,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "Protect Yourself, Mesh Yourself",
+      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
+      "published_at": "2026-07-03T13:45:00Z",
+      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
+      "tags": [
+        "tutorial",
+        "productivity",
+        "opensource",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
+      "source": "Dev.to",
+      "user": "Elliott"
     },
     {
       "title": "My First Year at DEV Recap",
@@ -1712,7 +1710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "mekos2772"
     },
     {
@@ -1727,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 212,
       "user": "xt4d"
     },
     {
@@ -1757,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "dzhng"
     },
     {
@@ -1787,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1347,
       "user": "yynxxxxx"
     },
     {
@@ -1802,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 679,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1832,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 492,
       "user": "jmerelnyc"
     },
     {
@@ -1862,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "maaslalani"
     },
     {
@@ -1877,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "kdsuomi"
     },
     {
@@ -1922,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 59,
       "user": "kernelstub"
     }
   ]
