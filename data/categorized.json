@@ -15,21 +15,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
-      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
-      "published_at": "2026-07-03T14:38:37Z",
-      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
-      "tags": [
-        "aie",
-        "ai",
-        "agentskills",
-        "satire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
       "published_at": "2026-06-29T20:00:00Z",
@@ -58,34 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
-    },
-    {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
-      "title": "Is looping ready to roll? Experts split on the future of coding",
-      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
-      "published_at": "2026-07-03T15:07:40Z",
-      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -128,6 +85,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
       "source": "Dev.to",
       "user": "John McBride"
+    },
+    {
+      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
+      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
+      "published_at": "2026-07-03T14:38:37Z",
+      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
+      "tags": [
+        "aie",
+        "ai",
+        "agentskills",
+        "satire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
@@ -228,6 +214,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdczn91hn73n6jhccpbr1.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "published_at": "2026-07-03T15:07:40Z",
+      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
@@ -833,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1272,
       "user": "mekos2772"
     },
     {
@@ -848,8 +848,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 619,
       "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 407,
+      "user": "jmerelnyc"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -878,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "crgimenes"
     }
   ],
@@ -1015,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1272,
       "user": "mekos2772"
     },
     {
@@ -1030,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "spiritov"
     },
     {
@@ -1045,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 193,
       "user": "xt4d"
     },
     {
@@ -1242,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1313,
       "user": "yynxxxxx"
     },
     {
@@ -1257,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 619,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1272,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 521,
       "user": "TianhangZhuzth"
     },
     {
@@ -1291,19 +1306,19 @@
       "user": "Jia-Ethan"
     },
     {
-      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "published_at": "2026-07-02T03:47:34Z",
-      "description": "多线程全自动注册free 强上K12空间",
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 383,
-      "user": "asz798838958"
+      "stars": 407,
+      "user": "jmerelnyc"
     }
   ],
   "DevOps": [
@@ -1393,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "spiritov"
     }
   ],
@@ -1425,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1272,
       "user": "mekos2772"
     }
   ],
@@ -1626,20 +1641,6 @@
   ],
   "Tools": [
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Protect Yourself, Mesh Yourself",
       "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
       "published_at": "2026-07-03T13:45:00Z",
@@ -1653,6 +1654,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
       "source": "Dev.to",
       "user": "Elliott"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
@@ -1741,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1272,
       "user": "mekos2772"
     },
     {
@@ -1756,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "spiritov"
     },
     {
@@ -1771,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 193,
       "user": "xt4d"
     },
     {
@@ -1816,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1313,
       "user": "yynxxxxx"
     },
     {
@@ -1831,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 619,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1846,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 521,
       "user": "TianhangZhuzth"
     },
     {
@@ -1865,19 +1880,19 @@
       "user": "Jia-Ethan"
     },
     {
-      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "published_at": "2026-07-02T03:47:34Z",
-      "description": "多线程全自动注册free 强上K12空间",
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 383,
-      "user": "asz798838958"
+      "stars": 407,
+      "user": "jmerelnyc"
     },
     {
       "title": "maaslalani/fast - Internet speed test in your terminal",
@@ -1891,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 258,
       "user": "maaslalani"
     },
     {
@@ -1906,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "kdsuomi"
     },
     {
@@ -1951,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "crgimenes"
     }
   ]
