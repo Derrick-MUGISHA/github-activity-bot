@@ -45,19 +45,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
       "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
       "published_at": "2026-07-03T14:38:37Z",
@@ -71,6 +58,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "published_at": "2026-06-30T16:02:55Z",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "Let Us Be Free",
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1277,
       "user": "mekos2772"
     },
     {
@@ -833,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 659,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -848,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 443,
       "user": "jmerelnyc"
     },
     {
@@ -878,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 56,
       "user": "kernelstub"
     }
   ],
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1277,
       "user": "mekos2772"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "spiritov"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 210,
       "user": "xt4d"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1338,
       "user": "yynxxxxx"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 659,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 522,
       "user": "TianhangZhuzth"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 443,
       "user": "jmerelnyc"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Jia-Ethan"
     }
   ],
@@ -1393,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "spiritov"
     }
   ],
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1277,
       "user": "mekos2772"
     }
   ],
@@ -1741,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1277,
       "user": "mekos2772"
     },
     {
@@ -1756,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "spiritov"
     },
     {
@@ -1771,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 210,
       "user": "xt4d"
     },
     {
@@ -1816,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1338,
       "user": "yynxxxxx"
     },
     {
@@ -1831,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 659,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1846,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 522,
       "user": "TianhangZhuzth"
     },
     {
@@ -1861,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 443,
       "user": "jmerelnyc"
     },
     {
@@ -1876,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Jia-Ethan"
     },
     {
@@ -1891,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 262,
       "user": "maaslalani"
     },
     {
@@ -1951,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 56,
       "user": "kernelstub"
     }
   ]

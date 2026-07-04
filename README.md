@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-04 11:00 CAT)
+## 📅 Latest Updates (2026-07-04 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg" width="200" alt="You Don’t Always Need The Frontier" />
+    <a href="https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png" width="200" alt="The Conspiracy Big Software Engineering Doesn't Want You to Know" />
       <br/>
-      <b>You Don’t Always Need The Frontier</b>
+      <b>The Conspiracy Big Software Engineering Doesn't Wa...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png" width="200" alt="The Conspiracy Big Software Engineering Doesn't Want You to Know" />
+    <a href="https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg" width="200" alt="You Don’t Always Need The Frontier" />
       <br/>
-      <b>The Conspiracy Big Software Engineering Doesn't Wa...</b>
+      <b>You Don’t Always Need The Frontier</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 - [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4) _[Dev.to]_
 - [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) _[Dev.to]_
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
-- [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
 - [The Conspiracy Big Software Engineering Doesn't Want You to Know](https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299) _[Dev.to]_
+- [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
 - [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico) _[Dev.to]_
 - [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2) _[Dev.to]_
 - [Warp CEO Zach Lloyd on why software factories are the next phase of coding](https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1np3) _[Dev.to]_
 
-_Last automated update: Sat, 04 Jul 2026 11:59:27 CAT_
+_Last automated update: Sat, 04 Jul 2026 13:48:50 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 04 Jul 2026 11:59:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Execution timing, event loop phases
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Jul 2026 09:59:27 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Jul 2026 11:48:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
