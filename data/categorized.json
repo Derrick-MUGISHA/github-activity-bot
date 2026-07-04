@@ -1,35 +1,6 @@
 {
   "AI": [
     {
-      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
-      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
-      "published_at": "2026-07-02T15:24:12Z",
-      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
-      "tags": [
-        "aie",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
-      "published_at": "2026-06-30T14:37:29Z",
-      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
-      "tags": [
-        "aie",
-        "ai",
-        "database",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -214,21 +185,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
-      "published_at": "2026-07-03T14:45:31Z",
-      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Play today’s game from Issue #2 of The Daily Context!",
       "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
       "published_at": "2026-06-30T22:10:45Z",
@@ -385,6 +341,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5cg95iics9f523h1g0z4.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "published_at": "2026-07-02T15:24:12Z",
+      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
+      "tags": [
+        "aie",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
@@ -819,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 715,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -834,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 568,
       "user": "jmerelnyc"
     },
     {
@@ -864,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "kernelstub"
     }
   ],
@@ -1016,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "xt4d"
     },
     {
@@ -1046,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 142,
       "user": "Archive228"
     },
     {
@@ -1228,7 +1198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1370,
       "user": "yynxxxxx"
     },
     {
@@ -1243,7 +1213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 715,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1258,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 568,
       "user": "jmerelnyc"
     },
     {
@@ -1273,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "TianhangZhuzth"
     },
     {
@@ -1524,21 +1494,6 @@
   ],
   "Database": [
     {
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
-      "published_at": "2026-06-30T14:37:29Z",
-      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
-      "tags": [
-        "aie",
-        "ai",
-        "database",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp419p0804j3eg3f4cxkp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -1757,7 +1712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "xt4d"
     },
     {
@@ -1787,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 142,
       "user": "Archive228"
     },
     {
@@ -1817,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1370,
       "user": "yynxxxxx"
     },
     {
@@ -1832,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 715,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1847,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 568,
       "user": "jmerelnyc"
     },
     {
@@ -1862,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "TianhangZhuzth"
     },
     {
@@ -1937,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "kernelstub"
     },
     {
@@ -1952,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "aurora-develop"
     }
   ]
