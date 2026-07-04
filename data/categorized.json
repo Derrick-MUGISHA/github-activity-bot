@@ -15,21 +15,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "A Third Brain for your Second Brain",
-      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
-      "published_at": "2026-07-03T15:02:56Z",
-      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "memory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
       "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
       "published_at": "2026-06-30T14:37:29Z",
@@ -73,6 +58,20 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -88,16 +87,17 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "title": "A Third Brain for your Second Brain",
+      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
+      "published_at": "2026-07-03T15:02:56Z",
+      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
       "tags": [
         "aie",
         "ai",
-        "agents"
+        "techtalks",
+        "memory"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
     },
@@ -457,21 +457,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
-      "published_at": "2026-06-29T16:04:30Z",
-      "description": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi2z6j08wyjsoc7bm4p2h.png",
-      "source": "Dev.to",
-      "user": "swyx"
-    },
-    {
       "title": "18 Hot Takes On Where AI is Headed Next",
       "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
       "published_at": "2026-07-02T15:53:07Z",
@@ -589,34 +574,6 @@
       "user": "adam klein"
     },
     {
-      "title": "The Future Of AI Is Local And Open",
-      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
-      "published_at": "2026-06-30T14:47:06Z",
-      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
-      "tags": [
-        "aie",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6immajzfohivgfku6av2.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
-      "title": "The Log Is the Agent",
-      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
-      "published_at": "2026-06-30T15:01:43Z",
-      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bwmpqwr5de373wrq8wv.jpg",
-      "source": "Dev.to",
-      "user": "Ishaan Sehgal"
-    },
-    {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
       "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
       "published_at": "2026-06-26T07:03:01Z",
@@ -660,6 +617,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -817,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1282,
       "user": "mekos2772"
     },
     {
@@ -832,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 688,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -847,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 520,
       "user": "jmerelnyc"
     },
     {
@@ -877,7 +864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 64,
       "user": "kernelstub"
     }
   ],
@@ -1014,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1282,
       "user": "mekos2772"
     },
     {
@@ -1241,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1352,
       "user": "yynxxxxx"
     },
     {
@@ -1256,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 688,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1286,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 520,
       "user": "jmerelnyc"
     },
     {
@@ -1301,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "Jia-Ethan"
     }
   ],
@@ -1365,6 +1352,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
       "source": "Dev.to",
       "user": "Peter Jausovec"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     }
   ],
   "WebDev": [
@@ -1383,21 +1385,6 @@
   ],
   "Mobile": [
     {
-      "title": "Ambient vs Immersive XR: The Debate?",
-      "url": "https://dev.to/gde/ambient-vs-immersive-xr-the-debate-3bh6",
-      "published_at": "2026-07-02T15:00:00Z",
-      "description": "Noble Ackerson and I met at the Google Glass Foundry Hackathon in NYC 13 years ago, and we hit it off...",
-      "tags": [
-        "voicefirst",
-        "androidxr",
-        "googleglass",
-        "mixedreality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0t3puiw8wxl5pe6cxqar.png",
-      "source": "Dev.to",
-      "user": "Allen Firstenberg"
-    },
-    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1409,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1282,
       "user": "mekos2772"
     }
   ],
@@ -1518,6 +1505,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1595,6 +1597,20 @@
   ],
   "Tools": [
     {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -1608,20 +1624,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "Protect Yourself, Mesh Yourself",
@@ -1699,6 +1701,36 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
+      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
+      "published_at": "2026-06-23T14:46:09Z",
+      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
+      "tags": [
+        "programming",
+        "go",
+        "opensource",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
+      "source": "Dev.to",
+      "user": "Inhere"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1710,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1282,
       "user": "mekos2772"
     },
     {
@@ -1785,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1352,
       "user": "yynxxxxx"
     },
     {
@@ -1800,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 688,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1830,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 520,
       "user": "jmerelnyc"
     },
     {
@@ -1845,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "Jia-Ethan"
     },
     {
@@ -1860,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "maaslalani"
     },
     {
@@ -1894,6 +1926,21 @@
       "user": "0xMassi"
     },
     {
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "kernelstub"
+    },
+    {
       "title": "aurora-develop/grok2api - GitHub Repository",
       "url": "https://github.com/aurora-develop/grok2api",
       "published_at": "2026-06-28T04:07:28Z",
@@ -1907,21 +1954,6 @@
       "source": "GitHub",
       "stars": 64,
       "user": "aurora-develop"
-    },
-    {
-      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "url": "https://github.com/kernelstub/Nox",
-      "published_at": "2026-07-02T20:05:34Z",
-      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 59,
-      "user": "kernelstub"
     }
   ]
 }
