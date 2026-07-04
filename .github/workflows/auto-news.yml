@@ -6,7 +6,7 @@ concurrency:
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -66,7 +66,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Derrick-MUGISHA"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "188050182+Derrick-MUGISHA@users.noreply.github.com"
 
           # Truncate news_log.md before staging — GitHub hard limit is 100 MB.
           # Keep the last 3000 lines (~3-5 MB) so recent history is preserved.
@@ -81,8 +81,12 @@ jobs:
             fi
           fi
 
+          # Heartbeat: guarantee a change on every run so every scheduled
+          # run produces a commit even when the news feeds are unchanged
+          date -u +'%Y-%m-%dT%H:%M:%SZ' > data/last_run.txt
+
           # Add all generated files
-          git add README.md data/*.md data/*.json 2>/dev/null || true
+          git add README.md data/last_run.txt data/*.md data/*.json 2>/dev/null || true
 
           # Check if there are changes
           if git diff --cached --quiet; then

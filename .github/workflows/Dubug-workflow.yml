@@ -58,7 +58,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Derrick-MUGISHA"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "188050182+Derrick-MUGISHA@users.noreply.github.com"
 
           # Add all generated files
           git add README.md data/news_log.md 2>/dev/null || true
