@@ -501,19 +501,6 @@
       "user": "Swift"
     },
     {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
-      "published_at": "2026-07-02T14:10:36Z",
-      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
       "published_at": "2026-07-01T14:34:35Z",
@@ -527,6 +514,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
+      "published_at": "2026-07-02T14:10:36Z",
+      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
     },
     {
       "title": "When AI Creates A Closed Source World",
@@ -819,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 694,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -834,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 540,
       "user": "jmerelnyc"
     },
     {
@@ -864,7 +864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 70,
       "user": "kernelstub"
     }
   ],
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "xt4d"
     },
     {
@@ -1046,23 +1046,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "dzhng"
     },
     {
-      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
-      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
-      "published_at": "2026-06-29T21:05:33Z",
-      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "medoxisto"
+      "stars": 101,
+      "user": "texel-org"
     }
   ],
   "Python": [
@@ -1228,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1360,
       "user": "yynxxxxx"
     },
     {
@@ -1243,8 +1243,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 694,
       "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 540,
+      "user": "jmerelnyc"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
@@ -1262,21 +1277,6 @@
       "user": "TianhangZhuzth"
     },
     {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 520,
-      "user": "jmerelnyc"
-    },
-    {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "published_at": "2026-06-28T04:38:07Z",
@@ -1288,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "Jia-Ethan"
     }
   ],
@@ -1757,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "xt4d"
     },
     {
@@ -1787,23 +1787,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "dzhng"
     },
     {
-      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
-      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
-      "published_at": "2026-06-29T21:05:33Z",
-      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "medoxisto"
+      "stars": 101,
+      "user": "texel-org"
     },
     {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
@@ -1817,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1360,
       "user": "yynxxxxx"
     },
     {
@@ -1832,8 +1832,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 694,
       "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 540,
+      "user": "jmerelnyc"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
@@ -1851,21 +1866,6 @@
       "user": "TianhangZhuzth"
     },
     {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 520,
-      "user": "jmerelnyc"
-    },
-    {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "published_at": "2026-06-28T04:38:07Z",
@@ -1877,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "Jia-Ethan"
     },
     {
@@ -1892,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "maaslalani"
     },
     {
@@ -1937,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 70,
       "user": "kernelstub"
     },
     {
