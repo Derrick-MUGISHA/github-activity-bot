@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-07-04-orange)
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 63 (60.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 62 (59.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
-**Python**: 🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦 17 (16.3%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦 15 (14.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦 15 (14.4%)
 
 **Cloud**: 🟦🟦 7 (6.7%)
 
@@ -44,15 +44,15 @@
 
 **Security**: 🟦 3 (2.9%)
 
-**WebDev**: 🟦 2 (1.9%)
-
 **Mobile**: 🟦 2 (1.9%)
+
+**WebDev**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 25.0 (25.0%)
-Go              ████████████████████████████ 23.5 (23.5%)
-JavaScript      ███████████████████████████ 22.1 (22.1%)
-Java            ███████████████████████████ 22.1 (22.1%)
-Rust            █████ 4.4 (4.4%)
+Python          ██████████████████████████████ 25.4 (25.4%)
+Go              ██████████████████████████ 22.4 (22.4%)
+JavaScript      ██████████████████████████ 22.4 (22.4%)
+Java            ██████████████████████████ 22.4 (22.4%)
+Rust            █████ 4.5 (4.5%)
 Kotlin          ██ 1.5 (1.5%)
 Swift           ██ 1.5 (1.5%)
 
@@ -73,7 +73,7 @@ Swift           ██ 1.5 (1.5%)
 ```mermaid
 pie title Programming Languages Distribution
     "Python" : 17
-    "Go" : 16
+    "Go" : 15
     "JavaScript" : 15
     "Java" : 15
     "Rust" : 3
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-41-blue) ![aie](https://img.shields.io/badge/aie-34-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![techtalks](https://img.shields.io/badge/techtalks-4-blue) ![webdev](https://img.shields.io/badge/webdev-4-blue) 
+![ai](https://img.shields.io/badge/ai-40-blue) ![aie](https://img.shields.io/badge/aie-33-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![techtalks](https://img.shields.io/badge/techtalks-4-blue) ![webdev](https://img.shields.io/badge/webdev-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-04 13:00 CAT)
+## 📅 Latest Updates (2026-07-04 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,11 +201,10 @@ npm run test
 - [Gemma and sandboxing cause a stir at the World's Fair](https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p) _[Dev.to]_
 - [The Conspiracy Big Software Engineering Doesn't Want You to Know](https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299) _[Dev.to]_
 - [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o) _[Dev.to]_
-- [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico) _[Dev.to]_
+- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2) _[Dev.to]_
 - [Warp CEO Zach Lloyd on why software factories are the next phase of coding](https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6) _[Dev.to]_
 - [Forward Deployed Engineers and the future of software engineering](https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll) _[Dev.to]_
-- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) _[Dev.to]_
 - [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h) _[Dev.to]_
 - [AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers](https://dev.to/dailycontext/aiewf-daily-dispatch-loops-software-factories-forward-deployed-engineers-365h) _[Dev.to]_
 - [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl) _[Dev.to]_
 - [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1np3) _[Dev.to]_
+- [Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943) _[Dev.to]_
 
-_Last automated update: Sat, 04 Jul 2026 13:48:50 CAT_
+_Last automated update: Sat, 04 Jul 2026 14:56:08 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 04 Jul 2026 13:48:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Mutability, performance, use cases
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Jul 2026 11:48:50 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Jul 2026 12:56:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
