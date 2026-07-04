@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -835,33 +835,6 @@
       "source": "GitHub",
       "stars": 82,
       "user": "kernelstub"
-    },
-    {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "SuperJJ007"
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "published_at": "2026-07-04T16:51:19.000-05:00",
-      "description": "A rare case where I want to put a post of mine here. Reason being that I was hunting down tool calling behavior regressions with the latest generation of Anthropic models and I found the resulting behavior both puzzling and quite problematic. Those models appear to be strongly RL'ed on their own Claude Code harness which is closed source, and when you come close in tool declarations but slightly off, you can now expect to get broken tool call behavior when older models did not yet have that defect.\r\n\r\nThought this might be interesting for folks here.",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mitsuhiko"
     },
     {
       "title": "Who's Hiring? - Support Edition - Q3 2026",
@@ -1321,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "yynxxxxx"
     },
     {
@@ -1780,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1827,6 +1800,20 @@
       "source": "GitHub",
       "stars": 419,
       "user": "Jia-Ethan"
+    },
+    {
+      "title": "How do I solve this Type-hint error in PyCharm",
+      "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-in-pycharm",
+      "published_at": "2026-07-04T23:01:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pycharm",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to solve 7x7 Skyscrapers puzzle in Python",
@@ -1952,22 +1939,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TheGamerInMyBasement"
-    },
-    {
-      "title": "How can I detect and handle CAPTCHA pages during Python web scraping?",
-      "url": "https://stackoverflow.com/questions/79974158/how-can-i-detect-and-handle-captcha-pages-during-python-web-scraping",
-      "published_at": "2026-07-03T16:12:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "beautifulsoup",
-        "python-requests",
-        "captcha",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HARIHARAN K"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2223,21 +2194,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "SuperJJ007"
     },
     {
       "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
@@ -3088,7 +3044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3163,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "kdsuomi"
     },
     {
@@ -3238,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 172,
       "user": "yynxxxxx"
     },
     {
@@ -3287,87 +3243,12 @@
       "user": "openng-foundation"
     },
     {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "SuperJJ007"
-    },
-    {
-      "title": "sermuns/ratatuefi - Zero-bloat Ratatui apps in UEFI",
-      "url": "https://github.com/sermuns/ratatuefi",
-      "published_at": "2026-06-29T12:19:43Z",
-      "description": "Zero-bloat Ratatui apps in UEFI",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
-      "source": "GitHub",
-      "stars": 128,
-      "user": "sermuns"
-    },
-    {
-      "title": "zerx-lab/FluxDown - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "published_at": "2026-07-03T01:00:17Z",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "zerx-lab"
-    },
-    {
-      "title": "vndangkhoa/vietc - A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
-      "url": "https://github.com/vndangkhoa/vietc",
-      "published_at": "2026-06-29T09:16:00Z",
-      "description": "A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60398697?v=4",
-      "source": "GitHub",
-      "stars": 54,
-      "user": "vndangkhoa"
-    },
-    {
-      "title": "Tokeii0/LovelyMiscLab - 面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
-      "url": "https://github.com/Tokeii0/LovelyMiscLab",
-      "published_at": "2026-07-01T12:27:57Z",
-      "description": "面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/111427585?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "Tokeii0"
-    },
-    {
       "title": "Better Models: Worse Tools",
       "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
       "published_at": "2026-07-04T16:51:19.000-05:00",
       "description": "A rare case where I want to put a post of mine here. Reason being that I was hunting down tool calling behavior regressions with the latest generation of Anthropic models and I found the resulting behavior both puzzling and quite problematic. Those models appear to be strongly RL'ed on their own Claude Code harness which is closed source, and when you come close in tool declarations but slightly off, you can now expect to get broken tool call behavior when older models did not yet have that defect.\r\n\r\nThought this might be interesting for folks here.",
       "tags": [
-        "ai"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
