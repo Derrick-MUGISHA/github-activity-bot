@@ -75,20 +75,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Is looping ready to roll? Experts split on the future of coding",
       "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
       "published_at": "2026-07-03T15:07:40Z",
@@ -116,6 +102,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1249,
       "user": "mekos2772"
     },
     {
@@ -832,23 +832,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 515,
       "user": "HUANGCHIHHUNGLeo"
-    },
-    {
-      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "published_at": "2026-06-27T10:25:09Z",
-      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "kerlenton"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -864,6 +849,21 @@
       "source": "GitHub",
       "stars": 92,
       "user": "0xMassi"
+    },
+    {
+      "title": "crgimenes/airfoil - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/airfoil",
+      "published_at": "2026-07-02T12:52:26Z",
+      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "crgimenes"
     }
   ],
   "JavaScript": [
@@ -999,23 +999,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1249,
       "user": "mekos2772"
-    },
-    {
-      "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
-      "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
-      "published_at": "2026-06-27T15:00:12Z",
-      "description": "UPI redeem only extension",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "kui123456789"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1048,19 +1033,34 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
-      "url": "https://github.com/simonmakzon/GitDeepSearch",
-      "published_at": "2026-06-27T14:07:25Z",
-      "description": "GitDeepSearch - Deep search repository",
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "simonmakzon"
+      "stars": 114,
+      "user": "dzhng"
+    },
+    {
+      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
+      "published_at": "2026-06-29T21:05:33Z",
+      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "medoxisto"
     }
   ],
   "Python": [
@@ -1211,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1290,
       "user": "yynxxxxx"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 515,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "Jia-Ethan"
     },
     {
@@ -1379,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1249,
       "user": "mekos2772"
     }
   ],
@@ -1664,23 +1664,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1249,
       "user": "mekos2772"
-    },
-    {
-      "title": "kui123456789/cdk-redeem-only-extension - UPI redeem only extension",
-      "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
-      "published_at": "2026-06-27T15:00:12Z",
-      "description": "UPI redeem only extension",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/170342099?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "kui123456789"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1713,19 +1698,34 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "simonmakzon/GitDeepSearch - GitDeepSearch - Deep search repository",
-      "url": "https://github.com/simonmakzon/GitDeepSearch",
-      "published_at": "2026-06-27T14:07:25Z",
-      "description": "GitDeepSearch - Deep search repository",
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297425453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "simonmakzon"
+      "stars": 114,
+      "user": "dzhng"
+    },
+    {
+      "title": "medoxisto/ad-blocker-chrome-extension - Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "url": "https://github.com/medoxisto/ad-blocker-chrome-extension",
+      "published_at": "2026-06-29T21:05:33Z",
+      "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/172071364?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "medoxisto"
     },
     {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
@@ -1739,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1290,
       "user": "yynxxxxx"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 515,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1784,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "Jia-Ethan"
     },
     {
@@ -1814,23 +1814,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "maaslalani"
-    },
-    {
-      "title": "kerlenton/mcpsnoop - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "published_at": "2026-06-27T10:25:09Z",
-      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51188729?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "kerlenton"
     },
     {
       "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
@@ -1844,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "kdsuomi"
     },
     {
@@ -1876,6 +1861,21 @@
       "source": "GitHub",
       "stars": 62,
       "user": "aurora-develop"
+    },
+    {
+      "title": "crgimenes/airfoil - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/airfoil",
+      "published_at": "2026-07-02T12:52:26Z",
+      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "crgimenes"
     }
   ]
 }
