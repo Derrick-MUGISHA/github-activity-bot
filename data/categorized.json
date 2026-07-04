@@ -15,21 +15,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "tags": [
-        "aie",
-        "gamedev",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "A Third Brain for your Second Brain",
       "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
       "published_at": "2026-07-03T15:02:56Z",
@@ -73,20 +58,6 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Let Us Be Free",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "published_at": "2026-07-02T15:55:55Z",
-      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
-      "tags": [
-        "aie",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
-      "source": "Dev.to",
-      "user": "John McBride"
-    },
-    {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
       "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
       "published_at": "2026-07-03T14:38:37Z",
@@ -100,6 +71,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "published_at": "2026-07-02T15:55:55Z",
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "tags": [
+        "aie",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "source": "Dev.to",
+      "user": "John McBride"
     },
     {
       "title": "Choosing the Right Tooling Layer for Your Agent",
@@ -216,20 +201,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Is looping ready to roll? Experts split on the future of coding",
-      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
-      "published_at": "2026-07-03T15:07:40Z",
-      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Hackathon Winners Scoop $35,000 In Cash And Credits",
       "url": "https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl",
       "published_at": "2026-06-30T14:52:38Z",
@@ -240,6 +211,20 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F636t5bdhqm8ra5j5q8lk.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "published_at": "2026-07-03T15:07:40Z",
+      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
     },
@@ -517,6 +502,21 @@
       "user": "dev.to staff"
     },
     {
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "published_at": "2026-06-29T20:00:00Z",
+      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
+      "tags": [
+        "aie",
+        "gamedev",
+        "ai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Is Forward Deployed Engineering Killing DevRel?",
       "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833",
       "published_at": "2026-07-02T13:52:16Z",
@@ -557,21 +557,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Optimizing for Agents with llms.txt",
-      "url": "https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0",
-      "published_at": "2026-07-01T14:14:25Z",
-      "description": "If you’ve spent any time poking around the AIE World’s Fair 2026 website, you may have come across...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "When AI Creates A Closed Source World",
@@ -833,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1275,
       "user": "mekos2772"
     },
     {
@@ -848,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 642,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -863,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 433,
       "user": "jmerelnyc"
     },
     {
@@ -882,19 +867,19 @@
       "user": "0xMassi"
     },
     {
-      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
-      "url": "https://github.com/crgimenes/kutta",
-      "published_at": "2026-07-02T12:52:26Z",
-      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "crgimenes"
+      "stars": 53,
+      "user": "kernelstub"
     }
   ],
   "JavaScript": [
@@ -1030,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1275,
       "user": "mekos2772"
     },
     {
@@ -1045,7 +1030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 396,
       "user": "spiritov"
     },
     {
@@ -1060,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 201,
       "user": "xt4d"
     },
     {
@@ -1257,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1325,
       "user": "yynxxxxx"
     },
     {
@@ -1272,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 642,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1291,6 +1276,21 @@
       "user": "TianhangZhuzth"
     },
     {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 433,
+      "user": "jmerelnyc"
+    },
+    {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "published_at": "2026-06-28T04:38:07Z",
@@ -1304,21 +1304,6 @@
       "source": "GitHub",
       "stars": 411,
       "user": "Jia-Ethan"
-    },
-    {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 407,
-      "user": "jmerelnyc"
     }
   ],
   "DevOps": [
@@ -1408,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 396,
       "user": "spiritov"
     }
   ],
@@ -1440,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1275,
       "user": "mekos2772"
     }
   ],
@@ -1756,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1275,
       "user": "mekos2772"
     },
     {
@@ -1771,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132454615?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 396,
       "user": "spiritov"
     },
     {
@@ -1786,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 201,
       "user": "xt4d"
     },
     {
@@ -1831,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1325,
       "user": "yynxxxxx"
     },
     {
@@ -1846,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 642,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1865,6 +1850,21 @@
       "user": "TianhangZhuzth"
     },
     {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 433,
+      "user": "jmerelnyc"
+    },
+    {
       "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "published_at": "2026-06-28T04:38:07Z",
@@ -1880,21 +1880,6 @@
       "user": "Jia-Ethan"
     },
     {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 407,
-      "user": "jmerelnyc"
-    },
-    {
       "title": "maaslalani/fast - Internet speed test in your terminal",
       "url": "https://github.com/maaslalani/fast",
       "published_at": "2026-06-28T03:07:02Z",
@@ -1906,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "maaslalani"
     },
     {
@@ -1951,23 +1936,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "aurora-develop"
     },
     {
-      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
-      "url": "https://github.com/crgimenes/kutta",
-      "published_at": "2026-07-02T12:52:26Z",
-      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "crgimenes"
+      "stars": 53,
+      "user": "kernelstub"
     }
   ]
 }
