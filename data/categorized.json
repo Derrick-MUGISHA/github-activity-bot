@@ -719,7 +719,7 @@
       "published_at": "2024-08-29T15:53:08Z",
       "description": "HackerNews Discussion",
       "tags": [
-        "AI"
+        "Security"
       ],
       "cover_image": null,
       "source": "HackerNews",
@@ -750,6 +750,18 @@
       "user": "indigodaddy"
     },
     {
+      "title": "Ask HN: Gmail account security",
+      "url": "https://news.ycombinator.com/item?id=30051054",
+      "published_at": "2022-01-23T22:15:25Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "caseyf7"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -776,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 736,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -791,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "jmerelnyc"
     },
     {
@@ -823,6 +835,267 @@
       "source": "GitHub",
       "stars": 82,
       "user": "kernelstub"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "SuperJJ007"
+    },
+    {
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "published_at": "2026-07-04T16:51:19.000-05:00",
+      "description": "A rare case where I want to put a post of mine here. Reason being that I was hunting down tool calling behavior regressions with the latest generation of Anthropic models and I found the resulting behavior both puzzling and quite problematic. Those models appear to be strongly RL'ed on their own Claude Code harness which is closed source, and when you come close in tool declarations but slightly off, you can now expect to get broken tool call behavior when older models did not yet have that defect.\r\n\r\nThought this might be interesting for folks here.",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mitsuhiko"
+    },
+    {
+      "title": "Who's Hiring? - Support Edition - Q3 2026",
+      "url": "https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026",
+      "published_at": "2026-07-04T07:35:37.000-05:00",
+      "description": "Welcome to the trial post of a \"Who's Hiring?\" call for non-software engineer positions! \r\n\r\nAs we try to kick this off, I would love community input on things like; \r\n\r\n1. What other details would you like employers to provide in their initial reply? \r\n2. What frequency do we want? Quarterly? Monthly? Every other week? \r\n3. Are there any other roles that should be considered for these posts? \r\n\r\nAny job postings should be geared towards needed company roles other than Software Engineer, such as customer support, data entry, field technician, marketing, purchasers, etc...that list can get quite long, depending on the size of the company and type of business. \r\n\r\nWe'll keep this initial post conversational for the sake of getting community input about what we want to see and refining the template. Should this garner enough interest and stick, future posts should result in only/mostly job postings in the comments. \r\n\r\n## Post Template\r\n\r\n**Company Website:** [ url ]\r\n\r\n**Culture:** [ brief description of company mission and culture ]\r\n\r\n**Available Position(s):** [ e.g customer support, technical writer, social media manager, service technician, etc. ]\r\n\r\n**Job Type:** [ onsite | remote | hybrid ]\r\n\r\n**Job Level:** [ entry | junior | senior | etc ]\r\n\r\n**Description:** [ brief description of the role and responsibilities ]\r\n\r\n**Experience:** [ necessary skills or experience to perform the job ]\r\n\r\n**Compensation:** [ salary & benefits ]\r\n\r\n**Additional Notes:** [ any info specific to the role that doesn't fit in the above categories ]\r\n\r\n**Contact:** [ email ]",
+      "tags": [
+        "job"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tinsmith"
+    },
+    {
+      "title": "the usefulness of await on my async login method",
+      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
+      "published_at": "2026-07-03T00:56:33.000Z",
+      "description": "Stack Overflow question · 8 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "bcrypt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Reda ait"
+    },
+    {
+      "title": "Ortho photo generation and Ortho mosaic",
+      "url": "https://stackoverflow.com/questions/79974419/ortho-photo-generation-and-ortho-mosaic",
+      "published_at": "2026-07-04T11:54:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "image",
+        "gis",
+        "orthographic",
+        "mosaic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Disha Bairagi"
+    },
+    {
+      "title": "Paid API Key Solution",
+      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
+      "published_at": "2026-07-04T05:45:54.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milap Vora"
+    },
+    {
+      "title": "Troubleshooting TQL Query Performance on Large Time-Series Containers",
+      "url": "https://stackoverflow.com/questions/79973982/troubleshooting-tql-query-performance-on-large-time-series-containers",
+      "published_at": "2026-07-03T10:03:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "griddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wejdene touti"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "published_at": "2026-07-04T20:55:25.000Z",
+      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published_at": "2026-07-04T18:00:05.000Z",
+      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Disney",
+        "MidJourney",
+        "Universal"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published_at": "2026-07-04T16:32:08.000Z",
+      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "tags": [
+        "AI",
+        "Security",
+        "alibaba",
+        "claude code"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published_at": "2026-07-04T15:51:32.000Z",
+      "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "tags": [
+        "AI",
+        "Startups",
+        "evergreens",
+        "mistral",
+        "Mistral AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "The only AI glossary you&#8217;ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published_at": "2026-07-03T21:20:00.000Z",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "tags": [
+        "AI",
+        "artificial intelligence",
+        "evergreens",
+        "Glossary"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek"
+    },
+    {
+      "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published_at": "2026-07-03T18:43:00.000Z",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "Browser",
+        "evergreens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Top AI Productivity Tools for Developers and Professionals",
+      "url": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/",
+      "published_at": "2026-07-03T15:38:52.000Z",
+      "description": "Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,",
+      "tags": [
+        "#ai-tools",
+        "Productivity"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
+      "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
+      "published_at": "2026-07-02T23:21:11.000Z",
+      "description": "In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe",
+      "tags": [
+        "AI",
+        "langchain",
+        "RAG"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
+      "title": "Codex vs Claude Code: Which AI Coding Assistant to Choose",
+      "url": "https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/",
+      "published_at": "2026-07-02T16:54:03.000Z",
+      "description": "AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t",
+      "tags": [
+        "ai-agent",
+        "claude",
+        "codex",
+        "llm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
+      "url": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
+      "published_at": "2026-07-02T16:53:17.000Z",
+      "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
+    },
+    {
+      "title": "How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities",
+      "url": "https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/",
+      "published_at": "2026-07-01T20:21:18.000Z",
+      "description": "Picture this: you hit an API endpoint, and you get an API response back. You pass the data straight into your application, and everything looks fine in development. Your mock data is clean, your types",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Programming Tips"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kelechi Apugo"
     }
   ],
   "JavaScript": [
@@ -1003,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "Archive228"
     },
     {
@@ -1020,6 +1293,313 @@
       "source": "GitHub",
       "stars": 119,
       "user": "dzhng"
+    },
+    {
+      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
+      "published_at": "2026-06-30T00:41:56Z",
+      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
+      "source": "GitHub",
+      "stars": 198,
+      "user": "mistydew"
+    },
+    {
+      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "published_at": "2026-07-04T03:28:35Z",
+      "description": "Codex Switch & Instruct desktop manager",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
+      "source": "GitHub",
+      "stars": 170,
+      "user": "yynxxxxx"
+    },
+    {
+      "title": "nexxeln/talktui - presentations on the terminal",
+      "url": "https://github.com/nexxeln/talktui",
+      "published_at": "2026-06-28T11:41:24Z",
+      "description": "presentations on the terminal",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95541290?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "nexxeln"
+    },
+    {
+      "title": "rit3zh/expo-dynamic-tray - 📚 A morphing, keyboard-aware bottom-sheet tray.",
+      "url": "https://github.com/rit3zh/expo-dynamic-tray",
+      "published_at": "2026-07-02T06:26:50Z",
+      "description": "📚 A morphing, keyboard-aware bottom-sheet tray.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119659853?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "rit3zh"
+    },
+    {
+      "title": "openng-foundation/open-prime - GitHub Repository",
+      "url": "https://github.com/openng-foundation/open-prime",
+      "published_at": "2026-06-29T17:24:18Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294824923?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "openng-foundation"
+    },
+    {
+      "title": "Log current index while traversing a multidimensional array",
+      "url": "https://stackoverflow.com/questions/79974476/log-current-index-while-traversing-a-multidimensional-array",
+      "published_at": "2026-07-04T17:00:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "multidimensional-array"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "111111111111"
+    },
+    {
+      "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
+      "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
+      "published_at": "2026-07-04T15:35:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "nuxt.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Caio Vinicius"
+    },
+    {
+      "title": "Major API fetching issue",
+      "url": "https://stackoverflow.com/questions/79974356/major-api-fetching-issue",
+      "published_at": "2026-07-04T06:32:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shivam"
+    },
+    {
+      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
+      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
+      "published_at": "2026-07-04T01:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "download",
+        "safari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eric Stdlib"
+    },
+    {
+      "title": "the usefulness of await on my async login method",
+      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
+      "published_at": "2026-07-03T00:56:33.000Z",
+      "description": "Stack Overflow question · 8 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "bcrypt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Reda ait"
+    },
+    {
+      "title": "Is there a way to put a code block directly in an iMessage?",
+      "url": "https://stackoverflow.com/questions/79974239/is-there-a-way-to-put-a-code-block-directly-in-an-imessage",
+      "published_at": "2026-07-03T20:31:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "r-markdown"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JellyFangThunderBucket"
+    },
+    {
+      "title": "How do I retrieve the shared facbook post links in bulk?",
+      "url": "https://stackoverflow.com/questions/79972560/how-do-i-retrieve-the-shared-facbook-post-links-in-bulk",
+      "published_at": "2026-07-02T10:30:57.000Z",
+      "description": "Stack Overflow question · 9 answers · score 0",
+      "tags": [
+        "javascript",
+        "facebook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "T&#249;ng Nguyễn"
+    },
+    {
+      "title": "Google Login authentication problem in production MERN stack",
+      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
+      "published_at": "2026-07-03T20:14:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "cookies",
+        "google-oauth"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shounak Mahata"
+    },
+    {
+      "title": "What are the best practices for getting helpful answers on a new post?",
+      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
+      "published_at": "2026-07-03T14:51:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "typescript",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Oulahguine"
+    },
+    {
+      "title": "Is it possible to render forbidden.tsx from proxy.ts in Next.js 16?",
+      "url": "https://stackoverflow.com/questions/79974236/is-it-possible-to-render-forbidden-tsx-from-proxy-ts-in-next-js-16",
+      "published_at": "2026-07-03T20:19:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "authentication",
+        "next.js",
+        "proxy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Apollo B."
+    },
+    {
+      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
+      "published_at": "2026-07-03T21:46:46.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elsocrad"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/",
+      "published_at": "2026-07-03T15:37:58.000Z",
+      "description": "PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "freeCodeCamp.org"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)",
+      "url": "https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/",
+      "published_at": "2026-07-03T15:30:18.000Z",
+      "description": "Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a",
+      "tags": [
+        "shopify",
+        "JavaScript",
+        "Shopify Development",
+        "ecommerce",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "baslefeber"
+    },
+    {
+      "title": "Mastering JavaScript Dates and Times",
+      "url": "https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/",
+      "published_at": "2026-07-02T01:13:29.000Z",
+      "description": "Managing dates and times in JavaScript is notoriously tricky, often leading to subtle bugs that only surface once an application hits production. To help you master this fundamental skill, the freeCod",
+      "tags": [
+        "JavaScript",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities",
+      "url": "https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/",
+      "published_at": "2026-07-01T20:21:18.000Z",
+      "description": "Picture this: you hit an API endpoint, and you get an API response back. You pass the data straight into your application, and everything looks fine in development. Your mock data is clean, your types",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Programming Tips"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kelechi Apugo"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Margin Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-margin-tool-javascript/",
+      "published_at": "2026-07-01T16:28:38.000Z",
+      "description": "Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "Online PDF Tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1200,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 736,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1215,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "jmerelnyc"
     },
     {
@@ -1247,6 +1827,177 @@
       "source": "GitHub",
       "stars": 419,
       "user": "Jia-Ethan"
+    },
+    {
+      "title": "How to solve 7x7 Skyscrapers puzzle in Python",
+      "url": "https://stackoverflow.com/questions/79974508/how-to-solve-7x7-skyscrapers-puzzle-in-python",
+      "published_at": "2026-07-04T20:16:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yevhen Ivashchenko"
+    },
+    {
+      "title": "Ortho photo generation and Ortho mosaic",
+      "url": "https://stackoverflow.com/questions/79974419/ortho-photo-generation-and-ortho-mosaic",
+      "published_at": "2026-07-04T11:54:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "image",
+        "gis",
+        "orthographic",
+        "mosaic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Disha Bairagi"
+    },
+    {
+      "title": "Paid API Key Solution",
+      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
+      "published_at": "2026-07-04T05:45:54.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milap Vora"
+    },
+    {
+      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
+      "published_at": "2026-07-03T21:46:46.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elsocrad"
+    },
+    {
+      "title": "Where does python handle modular calculations differently?",
+      "url": "https://stackoverflow.com/questions/79974172/where-does-python-handle-modular-calculations-differently",
+      "published_at": "2026-07-03T16:48:32.000Z",
+      "description": "Stack Overflow question · 9 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Frank Mathews"
+    },
+    {
+      "title": "How do you learn coding today?",
+      "url": "https://stackoverflow.com/questions/79974003/how-do-you-learn-coding-today",
+      "published_at": "2026-07-03T10:43:40.000Z",
+      "description": "Stack Overflow question · 11 answers · score 3",
+      "tags": [
+        "python",
+        "devops",
+        "mlops"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ATHARVA JOSHI"
+    },
+    {
+      "title": "Troubleshooting TQL Query Performance on Large Time-Series Containers",
+      "url": "https://stackoverflow.com/questions/79973982/troubleshooting-tql-query-performance-on-large-time-series-containers",
+      "published_at": "2026-07-03T10:03:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "griddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wejdene touti"
+    },
+    {
+      "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
+      "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
+      "published_at": "2026-07-03T00:09:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "java",
+        "performance",
+        "cloud",
+        "griddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ahmed Ben Khelifa"
+    },
+    {
+      "title": "Math Operation to find points on a graph inside a functions slope",
+      "url": "https://stackoverflow.com/questions/79972844/math-operation-to-find-points-on-a-graph-inside-a-functions-slope",
+      "published_at": "2026-07-03T02:41:09.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "function",
+        "math",
+        "formula",
+        "mathematical-expressions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TheGamerInMyBasement"
+    },
+    {
+      "title": "How can I detect and handle CAPTCHA pages during Python web scraping?",
+      "url": "https://stackoverflow.com/questions/79974158/how-can-i-detect-and-handle-captcha-pages-during-python-web-scraping",
+      "published_at": "2026-07-03T16:12:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "beautifulsoup",
+        "python-requests",
+        "captcha",
+        "playwright-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HARIHARAN K"
+    },
+    {
+      "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
+      "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
+      "published_at": "2026-07-02T23:21:11.000Z",
+      "description": "In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe",
+      "tags": [
+        "AI",
+        "langchain",
+        "RAG"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
+      "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
+      "url": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
+      "published_at": "2026-07-02T16:53:17.000Z",
+      "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     }
   ],
   "DevOps": [
@@ -1324,6 +2075,140 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
       "source": "Dev.to",
       "user": "bredmond1019"
+    },
+    {
+      "title": "The Big DevOps Misunderstanding",
+      "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
+      "published_at": "2021-12-19T20:07:33Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "WolfOliver"
+    },
+    {
+      "title": "Knightmare: A DevOps Cautionary Tale (2014)",
+      "url": "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/",
+      "published_at": "2023-09-10T20:07:12Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "sathishmanohar"
+    },
+    {
+      "title": "DevOps Is Bullshit (2022)",
+      "url": "https://blog.massdriver.cloud/posts/devops-is-bullshit/",
+      "published_at": "2023-06-16T10:00:42Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "dijit"
+    },
+    {
+      "title": "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
+      "url": "https://news.ycombinator.com/item?id=31580763",
+      "published_at": "2022-06-01T12:19:43Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "picozeta"
+    },
+    {
+      "title": "DevOps is broken",
+      "url": "https://blog.massdriver.cloud/devops-is-bullshit",
+      "published_at": "2022-10-20T14:16:22Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "davydog187"
+    },
+    {
+      "title": "A developer goes to a DevOps conference",
+      "url": "https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/",
+      "published_at": "2019-09-28T15:43:04Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "fanf2"
+    },
+    {
+      "title": "Nix is the ultimate DevOps toolkit",
+      "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+      "published_at": "2021-04-09T10:20:33Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "rkrzr"
+    },
+    {
+      "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
+      "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
+      "published_at": "2023-02-28T03:21:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "mikece"
+    },
+    {
+      "title": "Ask HN: Solo-preneurs, how do you DevOps to save time?",
+      "url": "https://news.ycombinator.com/item?id=28838132",
+      "published_at": "2021-10-12T10:35:11Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "aristofun"
+    },
+    {
+      "title": "How 'DevOps' Is Killing The Developer",
+      "url": "http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/",
+      "published_at": "2014-04-15T15:25:42Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "jknupp"
+    },
+    {
+      "title": "How do you learn coding today?",
+      "url": "https://stackoverflow.com/questions/79974003/how-do-you-learn-coding-today",
+      "published_at": "2026-07-03T10:43:40.000Z",
+      "description": "Stack Overflow question · 11 answers · score 3",
+      "tags": [
+        "python",
+        "devops",
+        "mlops"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ATHARVA JOSHI"
     }
   ],
   "WebDev": [
@@ -1338,6 +2223,128 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "SuperJJ007"
+    },
+    {
+      "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
+      "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
+      "published_at": "2026-07-04T15:35:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "nuxt.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Caio Vinicius"
+    },
+    {
+      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
+      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
+      "published_at": "2026-07-04T01:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "download",
+        "safari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eric Stdlib"
+    },
+    {
+      "title": "What are the best practices for getting helpful answers on a new post?",
+      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
+      "published_at": "2026-07-03T14:51:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "typescript",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Oulahguine"
+    },
+    {
+      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
+      "published_at": "2026-07-03T21:46:46.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elsocrad"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/",
+      "published_at": "2026-07-03T15:37:58.000Z",
+      "description": "PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "freeCodeCamp.org"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)",
+      "url": "https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/",
+      "published_at": "2026-07-03T15:30:18.000Z",
+      "description": "Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a",
+      "tags": [
+        "shopify",
+        "JavaScript",
+        "Shopify Development",
+        "ecommerce",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "baslefeber"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Margin Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-margin-tool-javascript/",
+      "published_at": "2026-07-01T16:28:38.000Z",
+      "description": "Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "Online PDF Tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -1355,6 +2362,36 @@
       "source": "GitHub",
       "stars": 1284,
       "user": "mekos2772"
+    },
+    {
+      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
+      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
+      "published_at": "2026-07-04T01:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "download",
+        "safari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eric Stdlib"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published_at": "2026-07-04T18:00:05.000Z",
+      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Disney",
+        "MidJourney",
+        "Universal"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     }
   ],
   "Cloud": [
@@ -1477,6 +2514,37 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
+      "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
+      "published_at": "2026-07-03T00:09:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "java",
+        "performance",
+        "cloud",
+        "griddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ahmed Ben Khelifa"
+    },
+    {
+      "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
+      "url": "https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/",
+      "published_at": "2026-07-01T17:05:56.000Z",
+      "description": "Cloud adoption changed how companies build software. It changed deployment speed, infrastructure management, and the way engineering teams operate. It also changed the security landscape. Applications",
+      "tags": [
+        "Cloud Computing",
+        "Security",
+        "penetration testing",
+        "pentesting"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     }
   ],
   "Database": [
@@ -1501,7 +2569,7 @@
       "published_at": "2024-08-29T15:53:08Z",
       "description": "HackerNews Discussion",
       "tags": [
-        "AI"
+        "Security"
       ],
       "cover_image": null,
       "source": "HackerNews",
@@ -1530,11 +2598,221 @@
       "published_at": "2024-08-29T15:53:08Z",
       "description": "HackerNews Discussion",
       "tags": [
-        "AI"
+        "Security"
       ],
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
+      "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
+      "published_at": "2023-02-28T03:21:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "mikece"
+    },
+    {
+      "title": "Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates",
+      "url": "https://news.ycombinator.com/item?id=37392676",
+      "published_at": "2023-09-05T15:07:21Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "SimingtonFCC"
+    },
+    {
+      "title": "U.S. national-security leaders included me in a group chat",
+      "url": "https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/",
+      "published_at": "2025-03-24T16:23:55Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "_tk_"
+    },
+    {
+      "title": "Apple pulls data protection tool after UK government security row",
+      "url": "https://www.bbc.com/news/articles/cgj54eq4vejo",
+      "published_at": "2025-02-21T15:05:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "helsinkiandrew"
+    },
+    {
+      "title": "Ask HN: Gmail account security",
+      "url": "https://news.ycombinator.com/item?id=30051054",
+      "published_at": "2022-01-23T22:15:25Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "caseyf7"
+    },
+    {
+      "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
+      "url": "https://saveflipper.ca/",
+      "published_at": "2024-02-21T11:20:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "pabs3"
+    },
+    {
+      "title": "Google Security Team Member on NSA: \"Fuck These Guys\"",
+      "url": "https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k",
+      "published_at": "2013-11-06T04:51:41Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "cdvonstinkpot"
+    },
+    {
+      "title": "Senators push to ditch social security numbers in light of Equifax hack",
+      "url": "https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/",
+      "published_at": "2017-11-08T22:49:56Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "Varcht"
+    },
+    {
+      "title": "Internet Archive: Security breach alert",
+      "url": "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message",
+      "published_at": "2024-10-09T20:54:26Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ewenjo"
+    },
+    {
+      "title": "Librarian's Letter to Google Security",
+      "url": "https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview",
+      "published_at": "2022-08-01T11:05:23Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "2352500"
+    },
+    {
+      "title": "Bad Epoll (CVE-2026-46242)",
+      "url": "https://github.com/J-jaeyoung/bad-epoll",
+      "published_at": "2026-07-04T13:40:12.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dzwdz"
+    },
+    {
+      "title": "Google Login authentication problem in production MERN stack",
+      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
+      "published_at": "2026-07-03T20:14:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "cookies",
+        "google-oauth"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shounak Mahata"
+    },
+    {
+      "title": "Is it possible to render forbidden.tsx from proxy.ts in Next.js 16?",
+      "url": "https://stackoverflow.com/questions/79974236/is-it-possible-to-render-forbidden-tsx-from-proxy-ts-in-next-js-16",
+      "published_at": "2026-07-03T20:19:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "authentication",
+        "next.js",
+        "proxy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Apollo B."
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published_at": "2026-07-04T16:32:08.000Z",
+      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "tags": [
+        "AI",
+        "Security",
+        "alibaba",
+        "claude code"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "published_at": "2026-07-03T05:05:00.000Z",
+      "description": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+      "tags": [
+        "Government & Policy",
+        "Security",
+        "cybersecurity",
+        "NSO Group",
+        "Pegasus"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
+      "url": "https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/",
+      "published_at": "2026-07-01T17:05:56.000Z",
+      "description": "Cloud adoption changed how companies build software. It changed deployment speed, infrastructure management, and the way engineering teams operate. It also changed the security landscape. Applications",
+      "tags": [
+        "Cloud Computing",
+        "Security",
+        "penetration testing",
+        "pentesting"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -1673,6 +2951,42 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "Nix is the ultimate DevOps toolkit",
+      "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+      "published_at": "2021-04-09T10:20:33Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "rkrzr"
+    },
+    {
+      "title": "Apple pulls data protection tool after UK government security row",
+      "url": "https://www.bbc.com/news/articles/cgj54eq4vejo",
+      "published_at": "2025-02-21T15:05:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "helsinkiandrew"
+    },
+    {
+      "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
+      "url": "https://saveflipper.ca/",
+      "published_at": "2024-02-21T11:20:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "pabs3"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -1729,7 +3043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "Archive228"
     },
     {
@@ -1774,7 +3088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 736,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1789,7 +3103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "jmerelnyc"
     },
     {
@@ -1896,6 +3210,243 @@
       "source": "GitHub",
       "stars": 65,
       "user": "aurora-develop"
+    },
+    {
+      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
+      "published_at": "2026-06-30T00:41:56Z",
+      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
+      "source": "GitHub",
+      "stars": 198,
+      "user": "mistydew"
+    },
+    {
+      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "published_at": "2026-07-04T03:28:35Z",
+      "description": "Codex Switch & Instruct desktop manager",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
+      "source": "GitHub",
+      "stars": 170,
+      "user": "yynxxxxx"
+    },
+    {
+      "title": "nexxeln/talktui - presentations on the terminal",
+      "url": "https://github.com/nexxeln/talktui",
+      "published_at": "2026-06-28T11:41:24Z",
+      "description": "presentations on the terminal",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95541290?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "nexxeln"
+    },
+    {
+      "title": "rit3zh/expo-dynamic-tray - 📚 A morphing, keyboard-aware bottom-sheet tray.",
+      "url": "https://github.com/rit3zh/expo-dynamic-tray",
+      "published_at": "2026-07-02T06:26:50Z",
+      "description": "📚 A morphing, keyboard-aware bottom-sheet tray.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119659853?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "rit3zh"
+    },
+    {
+      "title": "openng-foundation/open-prime - GitHub Repository",
+      "url": "https://github.com/openng-foundation/open-prime",
+      "published_at": "2026-06-29T17:24:18Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294824923?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "openng-foundation"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "SuperJJ007"
+    },
+    {
+      "title": "sermuns/ratatuefi - Zero-bloat Ratatui apps in UEFI",
+      "url": "https://github.com/sermuns/ratatuefi",
+      "published_at": "2026-06-29T12:19:43Z",
+      "description": "Zero-bloat Ratatui apps in UEFI",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "sermuns"
+    },
+    {
+      "title": "zerx-lab/FluxDown - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "published_at": "2026-07-03T01:00:17Z",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "zerx-lab"
+    },
+    {
+      "title": "vndangkhoa/vietc - A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
+      "url": "https://github.com/vndangkhoa/vietc",
+      "published_at": "2026-06-29T09:16:00Z",
+      "description": "A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60398697?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "vndangkhoa"
+    },
+    {
+      "title": "Tokeii0/LovelyMiscLab - 面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
+      "url": "https://github.com/Tokeii0/LovelyMiscLab",
+      "published_at": "2026-07-01T12:27:57Z",
+      "description": "面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/111427585?v=4",
+      "source": "GitHub",
+      "stars": 46,
+      "user": "Tokeii0"
+    },
+    {
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "published_at": "2026-07-04T16:51:19.000-05:00",
+      "description": "A rare case where I want to put a post of mine here. Reason being that I was hunting down tool calling behavior regressions with the latest generation of Anthropic models and I found the resulting behavior both puzzling and quite problematic. Those models appear to be strongly RL'ed on their own Claude Code harness which is closed source, and when you come close in tool declarations but slightly off, you can now expect to get broken tool call behavior when older models did not yet have that defect.\r\n\r\nThought this might be interesting for folks here.",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mitsuhiko"
+    },
+    {
+      "title": "Top AI Productivity Tools for Developers and Professionals",
+      "url": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/",
+      "published_at": "2026-07-03T15:38:52.000Z",
+      "description": "Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,",
+      "tags": [
+        "#ai-tools",
+        "Productivity"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "Codex vs Claude Code: Which AI Coding Assistant to Choose",
+      "url": "https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/",
+      "published_at": "2026-07-02T16:54:03.000Z",
+      "description": "AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t",
+      "tags": [
+        "ai-agent",
+        "claude",
+        "codex",
+        "llm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
+      "url": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
+      "published_at": "2026-07-02T16:53:17.000Z",
+      "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
+    },
+    {
+      "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
+      "url": "https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/",
+      "published_at": "2026-07-01T17:05:56.000Z",
+      "description": "Cloud adoption changed how companies build software. It changed deployment speed, infrastructure management, and the way engineering teams operate. It also changed the security landscape. Applications",
+      "tags": [
+        "Cloud Computing",
+        "Security",
+        "penetration testing",
+        "pentesting"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Margin Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-margin-tool-javascript/",
+      "published_at": "2026-07-01T16:28:38.000Z",
+      "description": "Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "Online PDF Tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     }
   ]
 }

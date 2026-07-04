@@ -9,7 +9,9 @@ import { syncWhatsapp } from "./syncWhatsapp.js";
 const SOURCES = {
   devto: "https://dev.to/api/articles",
   hackernews: "https://hn.algolia.com/api/v1/search",
-  githubTrending: "https://api.github.com/search/repositories"
+  githubTrending: "https://api.github.com/search/repositories",
+  lobsters: "https://lobste.rs/hottest.json",
+  stackoverflow: "https://api.stackexchange.com/2.3/questions"
 };
 
 
@@ -104,6 +106,96 @@ async function fetchGitHubTrending(language = "javascript") {
 }
 
 
+async function fetchLobsters() {
+  try {
+    const res = await fetch(SOURCES.lobsters, {
+      headers: { "User-Agent": "DevTech-Auto-News" }
+    });
+    const data = await res.json();
+    return (data || []).slice(0, 10).map(post => ({
+      title: post.title,
+      url: post.url || post.comments_url,
+      published_at: post.created_at,
+      description: post.description_plain || "Lobste.rs Discussion",
+      tags: post.tags || [],
+      cover_image: null,
+      source: "Lobste.rs",
+      user: post.submitter_user || "Unknown"
+    }));
+  } catch (error) {
+    console.error("Error fetching Lobste.rs:", error);
+    return [];
+  }
+}
+
+// Stack Exchange returns HTML-encoded titles
+function decodeHtml(text) {
+  return String(text)
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&");
+}
+
+async function fetchStackOverflow(tag = "javascript") {
+  try {
+    const url = `${SOURCES.stackoverflow}?order=desc&sort=hot&tagged=${tag}&site=stackoverflow&pagesize=10`;
+    const res = await fetch(url);
+    const data = await res.json();
+    return (data.items || []).map(q => ({
+      title: decodeHtml(q.title),
+      url: q.link,
+      published_at: new Date(q.creation_date * 1000).toISOString(),
+      description: `Stack Overflow question · ${q.answer_count} answers · score ${q.score}`,
+      tags: q.tags || [],
+      cover_image: null,
+      source: "StackOverflow",
+      user: q.owner?.display_name || "Unknown"
+    }));
+  } catch (error) {
+    console.error("Error fetching StackOverflow:", error);
+    return [];
+  }
+}
+
+// Minimal RSS parsing — enough for title/link/pubDate/description
+function rssField(item, tag) {
+  const match = item.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, "i"));
+  if (!match) return "";
+  return decodeHtml(match[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1"))
+    .replace(/<[^>]+>/g, "")
+    .trim();
+}
+
+async function fetchRss(feedUrl, sourceName, defaultTags = []) {
+  try {
+    const res = await fetch(feedUrl, {
+      headers: { "User-Agent": "DevTech-Auto-News/1.0" }
+    });
+    const xml = await res.text();
+    const items = xml.match(/<item>[\s\S]*?<\/item>/g) || [];
+    return items.slice(0, 10).map(item => {
+      const categories = [...item.matchAll(/<category[^>]*>([\s\S]*?)<\/category>/g)]
+        .map(m => decodeHtml(m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")).trim())
+        .slice(0, 5);
+      return {
+        title: rssField(item, "title"),
+        url: rssField(item, "link"),
+        published_at: new Date(rssField(item, "pubDate") || Date.now()).toISOString(),
+        description: rssField(item, "description").slice(0, 300) || `${sourceName} article`,
+        tags: categories.length > 0 ? categories : defaultTags,
+        cover_image: null,
+        source: sourceName,
+        user: rssField(item, "dc:creator") || "Unknown"
+      };
+    }).filter(a => a.title && a.url);
+  } catch (error) {
+    console.error(`Error fetching RSS ${sourceName}:`, error);
+    return [];
+  }
+}
+
 function categorizeArticles(articles) {
   const categorized = {};
   
@@ -122,37 +214,27 @@ function categorizeArticles(articles) {
   try {
     console.log("Starting enhanced news fetch...");
     
-    const [
-      devtoPage1,
-      devtoPage2,
-      hackerNewsAI,
-      hackerNewsJS,
-      hackerNewsPython,
-      githubJS,
-      githubPython,
-      githubGo
-    ] = await Promise.all([
+    const results = await Promise.all([
       fetchDevTo(1, 30),
       fetchDevTo(2, 30),
       fetchHackerNews("AI", 0),
       fetchHackerNews("JavaScript", 0),
       fetchHackerNews("Python", 0),
+      fetchHackerNews("DevOps", 0),
+      fetchHackerNews("Security", 0),
       fetchGitHubTrending("javascript"),
       fetchGitHubTrending("python"),
-      fetchGitHubTrending("go")
+      fetchGitHubTrending("go"),
+      fetchGitHubTrending("typescript"),
+      fetchGitHubTrending("rust"),
+      fetchLobsters(),
+      fetchStackOverflow("javascript"),
+      fetchStackOverflow("python"),
+      fetchRss("https://techcrunch.com/feed/", "TechCrunch", ["tech", "startup"]),
+      fetchRss("https://www.freecodecamp.org/news/rss/", "freeCodeCamp", ["tutorial", "webdev"])
     ]);
 
-
-    const allArticles = [
-      ...devtoPage1,
-      ...devtoPage2,
-      ...hackerNewsAI,
-      ...hackerNewsJS,
-      ...hackerNewsPython,
-      ...githubJS,
-      ...githubPython,
-      ...githubGo
-    ];
+    const allArticles = results.flat();
 
     console.log(`Fetched ${allArticles.length} articles total`);
 

@@ -97,7 +97,7 @@ export function updateReadme(newsContent, stats, interviewQuestions) {
 ![Last Update](https://img.shields.io/badge/Updated-${badgeText(dateStr)}-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
-Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) — refreshed by GitHub Actions every few minutes.
+Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
 
 **[📰 Headlines](#-latest-headlines) · [💡 Interview Prep](#-interview-question-of-the-hour) · [📊 Statistics](#-statistics) · [⚙️ How It Works](#%EF%B8%8F-how-it-works)**
 
@@ -127,7 +127,7 @@ ${tagsSection}
 
 This repository is a fully automated news pipeline. On every run, GitHub Actions:
 
-1. **Fetches** the latest articles from Dev.to, Hacker News, and GitHub Trending
+1. **Fetches** the latest articles from seven sources: Dev.to, Hacker News, GitHub Trending, Lobste.rs, Stack Overflow, TechCrunch, and freeCodeCamp
 2. **Deduplicates and categorizes** them across ${sortedCategories.length}+ topics using keyword matching
 3. **Extracts cover images** and computes language & category statistics
 4. **Rebuilds this README** and appends everything to the [full archive](./data/news_log.md)
