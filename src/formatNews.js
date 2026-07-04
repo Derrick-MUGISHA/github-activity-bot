@@ -41,17 +41,14 @@ export function formatNews(categorized, topArticles) {
 
   // Summary for README (top articles with images)
   let summaryList = [];
-  
-  topArticles.slice(0, 20).forEach((post) => {
-    let item = `- [${post.title}](${post.url})`;
-    if (post.source) {
-      item += ` _[${post.source}]_`;
-    }
-    summaryList.push(item);
+
+  topArticles.slice(0, 20).forEach((post, index) => {
+    const source = post.source || "Web";
+    summaryList.push(`| ${index + 1} | [${post.title}](${post.url}) | ${source} |`);
   });
 
   // Create visual summary with images
-  let imageSection = "\n### 🖼️ Featured Articles\n\n";
+  let imageSection = "### ✨ Featured Stories\n\n";
   const articlesWithImages = topArticles.filter(a => a.cover_image).slice(0, 6);
   
   if (articlesWithImages.length > 0) {
@@ -75,18 +72,19 @@ export function formatNews(categorized, topArticles) {
     imageSection += '</table>\n\n';
   }
 
-  const summary = `
-# 🚀 DevTech Auto News - Enhanced Edition
+  const summary = `## 📰 Latest Headlines
 
-## 📅 Latest Updates (${date} ${hour}:00 CAT)
+> 🕐 Edition of **${date} ${hour}:00 CAT** — refreshed automatically, all day, every day.
 
 ${imageSection}
 
-### 📰 Top Headlines
+### 🗞️ Top Stories
 
+| # | Headline | Source |
+|---|----------|--------|
 ${summaryList.join("\n")}
 
-_Last automated update: ${catFullString}_
+<sub>Last fetched: ${catFullString}</sub>
 `;
 
   return { fullLog, summary };

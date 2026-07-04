@@ -78,8 +78,7 @@ export function generateBarChart(data, maxWidth = 30) {
   entries.forEach(([key, value]) => {
     const barLength = Math.round((value / maxValue) * maxWidth);
     const bar = "█".repeat(barLength);
-    const percentage = data[key];
-    chart += `${key.padEnd(15)} ${bar} ${value} (${percentage}%)\n`;
+    chart += `${key.padEnd(15)} ${bar} ${value}%\n`;
   });
   
   return chart;
