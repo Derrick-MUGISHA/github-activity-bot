@@ -60,19 +60,19 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 25.0 (25.0%)
-Go              ██████████████████████████████ 25.0 (25.0%)
-JavaScript      ███████████████████████████ 22.1 (22.1%)
-Java            ███████████████████████████ 22.1 (22.1%)
-Rust            █████ 4.4 (4.4%)
-Swift           ██ 1.5 (1.5%)
+Go              ██████████████████████████████ 26.1 (26.1%)
+Python          ████████████████████████████ 24.6 (24.6%)
+JavaScript      █████████████████████████ 21.7 (21.7%)
+Java            █████████████████████████ 21.7 (21.7%)
+Rust            █████ 4.3 (4.3%)
+Swift           ██ 1.4 (1.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 18
     "Python" : 17
-    "Go" : 17
     "JavaScript" : 15
     "Java" : 15
     "Rust" : 3
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-07-04 17:00 CAT)
+## 📅 Latest Updates (2026-07-04 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1np3) _[Dev.to]_
 - [Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943) _[Dev.to]_
 
-_Last automated update: Sat, 04 Jul 2026 17:50:57 CAT_
+_Last automated update: Sat, 04 Jul 2026 18:53:06 CAT_
 
 
 
@@ -222,25 +222,25 @@ _Last automated update: Sat, 04 Jul 2026 17:50:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Jul 2026 15:50:57 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Jul 2026 16:53:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
