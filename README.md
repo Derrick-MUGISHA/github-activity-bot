@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-174-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--05-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-05 16:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-05 17:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [FinSavant Part 1: Building an Agentic FinOps Platform with Google ADK, A2UI and Gemini Enterprise Agent Platform — Goals, Architecture, and Tech Stack](https://dev.to/gde/finsavant-part-1-building-an-agentic-finops-platform-with-google-adk-a2ui-and-gemini-enterprise-29l3) | Dev.to |
 | 20 | [Midsommer Madness with WASM and Rust](https://dev.to/gde/midsommer-madness-with-wasm-and-rust-2ko3) | Dev.to |
 
-<sub>Last fetched: Sun, 05 Jul 2026 16:14:05 CAT</sub>
+<sub>Last fetched: Sun, 05 Jul 2026 17:42:52 CAT</sub>
 
 
 ---
@@ -122,25 +122,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — How would you optimize a React app's performance?**
+**1. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> B-tree, trade-offs, query performance
 
 </details>
 
-**2. `React` — Explain the difference between state and props**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 73 | 42.0% | `████████████████████` |
-| **Tools** | 40 | 23.0% | `███████████░░░░░░░░░` |
-| **JavaScript** | 36 | 20.7% | `██████████░░░░░░░░░░` |
-| **Python** | 24 | 13.8% | `███████░░░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 11 | 6.3% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.7% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 4 | 2.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 81 | 44.0% | `████████████████████` |
+| **Tools** | 48 | 26.1% | `████████████░░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
+| **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 2 | 1.1% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -182,9 +182,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 55 |
+| Dev.to | 60 |
 | HackerNews | 49 |
-| GitHub | 20 |
+| GitHub | 25 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -194,22 +194,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1%
-Java            ███████████████████████████ 25.0%
-Go              ████████████████████ 18.8%
-Python          ████████████████████ 18.8%
-Rust            ███████ 6.3%
-Swift           ██ 2.3%
-Kotlin          █ 0.8%
+JavaScript      ██████████████████████████████ 27.2%
+Java            ███████████████████████████ 24.3%
+Python          ███████████████████████ 21.3%
+Go              ████████████████████ 18.4%
+Rust            ███████ 5.9%
+Swift           ██ 2.2%
+Kotlin          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 36
-    "Java" : 32
-    "Go" : 24
-    "Python" : 24
+    "JavaScript" : 37
+    "Java" : 33
+    "Python" : 29
+    "Go" : 25
     "Rust" : 8
     "Swift" : 3
     "Kotlin" : 1
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-48-0969da?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-30-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-24-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-22-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-20-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-20-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-16-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-6-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-52-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-16-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-6-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 05 Jul 2026 14:14:05 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 05 Jul 2026 15:42:52 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
