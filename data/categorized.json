@@ -713,53 +713,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1312,
       "user": "mekos2772"
-    },
-    {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 859,
-      "user": "HUANGCHIHHUNGLeo"
-    },
-    {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 635,
-      "user": "jmerelnyc"
-    },
-    {
-      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "published_at": "2026-06-30T22:08:31Z",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 377,
-      "user": "lingbol088-spec"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -803,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 207,
       "user": "oomol-lab"
     },
     {
@@ -818,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "SuperJJ007"
     },
     {
@@ -879,20 +834,34 @@
       "user": "wejdene touti"
     },
     {
-      "title": "How do I code without being completely dependent on AI?",
-      "url": "https://stackoverflow.com/questions/79965487/how-do-i-code-without-being-completely-dependent-on-ai",
-      "published_at": "2026-06-22T20:01:42.000Z",
-      "description": "Stack Overflow question · 19 answers · score 23",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that&#8217;s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "published_at": "2026-07-05T13:33:32.000Z",
+      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
       "tags": [
-        "python",
-        "artificial-intelligence",
-        "logic",
-        "jobs",
-        "advice"
+        "Venture",
+        "AOL",
+        "Bending Spoons",
+        "evergreens",
+        "Mergers and Acquisitions"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tatakaw"
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "published_at": "2026-07-05T12:47:39.000Z",
+      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "unicorns"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -1193,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1312,
       "user": "mekos2772"
     },
     {
@@ -1208,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "xt4d"
     },
     {
@@ -1223,7 +1192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 230,
       "user": "Archive228"
     },
     {
@@ -1242,19 +1211,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "url": "https://github.com/texel-org/windfoil",
-      "published_at": "2026-07-02T13:55:08Z",
-      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 123,
-      "user": "texel-org"
+      "stars": 145,
+      "user": "dzhng"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1268,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 1022,
       "user": "elder-plinius"
     },
     {
@@ -1283,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 470,
       "user": "LinXiaoTao"
     },
     {
@@ -1298,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 277,
       "user": "yynxxxxx"
     },
     {
@@ -1313,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 207,
       "user": "oomol-lab"
     },
     {
@@ -1376,7 +1345,7 @@
       "title": "What are the best practices for getting helpful answers on a new post?",
       "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
       "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1407,7 +1376,7 @@
       "title": "Choosing between backend or frontend stack",
       "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
       "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "javascript",
         "frontend",
@@ -1434,6 +1403,19 @@
       "user": "Reda ait"
     },
     {
+      "title": "How do I retrieve the shared facbook post links in bulk?",
+      "url": "https://stackoverflow.com/questions/79972560/how-do-i-retrieve-the-shared-facbook-post-links-in-bulk",
+      "published_at": "2026-07-02T10:30:57.000Z",
+      "description": "Stack Overflow question · 9 answers · score 0",
+      "tags": [
+        "javascript",
+        "facebook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "T&#249;ng Nguyễn"
+    },
+    {
       "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
       "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
       "published_at": "2026-07-04T01:41:01.000Z",
@@ -1446,19 +1428,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eric Stdlib"
-    },
-    {
-      "title": "How do I retrieve the shared facbook post links in bulk?",
-      "url": "https://stackoverflow.com/questions/79972560/how-do-i-retrieve-the-shared-facbook-post-links-in-bulk",
-      "published_at": "2026-07-02T10:30:57.000Z",
-      "description": "Stack Overflow question · 9 answers · score 0",
-      "tags": [
-        "javascript",
-        "facebook"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "T&#249;ng Nguyễn"
     },
     {
       "title": "Is there a way to put a code block directly in an iMessage?",
@@ -1715,79 +1684,29 @@
       "user": "arathore"
     },
     {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "title": "Python Tkinter button for loop address each one",
+      "url": "https://stackoverflow.com/questions/79974681/python-tkinter-button-for-loop-address-each-one",
+      "published_at": "2026-07-05T13:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "tkinter"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 859,
-      "user": "HUANGCHIHHUNGLeo"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ras_Al_Ghul"
     },
     {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "title": "How to transition from learning fundamentals to professional development in Python?",
+      "url": "https://stackoverflow.com/questions/79974659/how-to-transition-from-learning-fundamentals-to-professional-development-in-pyth",
+      "published_at": "2026-07-05T11:55:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python",
-        "github",
-        "open-source"
+        "python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 635,
-      "user": "jmerelnyc"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 523,
-      "user": "TianhangZhuzth"
-    },
-    {
-      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "published_at": "2026-07-02T03:47:34Z",
-      "description": "多线程全自动注册free 强上K12空间",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
-      "source": "GitHub",
-      "stars": 438,
-      "user": "asz798838958"
-    },
-    {
-      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "published_at": "2026-06-30T22:08:31Z",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 377,
-      "user": "lingbol088-spec"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Syed Izzan shah"
     },
     {
       "title": "How do I solve this type hint error in PyCharm?",
@@ -1896,38 +1815,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wejdene touti"
-    },
-    {
-      "title": "How do I code without being completely dependent on AI?",
-      "url": "https://stackoverflow.com/questions/79965487/how-do-i-code-without-being-completely-dependent-on-ai",
-      "published_at": "2026-06-22T20:01:42.000Z",
-      "description": "Stack Overflow question · 19 answers · score 23",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "logic",
-        "jobs",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tatakaw"
-    },
-    {
-      "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
-      "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
-      "published_at": "2026-07-03T00:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "java",
-        "performance",
-        "cloud",
-        "griddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmed Ben Khelifa"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2211,14 +2098,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "SuperJJ007"
     },
     {
       "title": "What are the best practices for getting helpful answers on a new post?",
       "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
       "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2249,7 +2136,7 @@
       "title": "Choosing between backend or frontend stack",
       "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
       "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "javascript",
         "frontend",
@@ -2364,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1312,
       "user": "mekos2772"
     },
     {
@@ -2548,22 +2435,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
-      "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
-      "published_at": "2026-07-03T00:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "java",
-        "performance",
-        "cloud",
-        "griddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmed Ben Khelifa"
     },
     {
       "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
@@ -2770,7 +2641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 1022,
       "user": "elder-plinius"
     },
     {
@@ -2800,22 +2671,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "published_at": "2026-07-03T05:05:00.000Z",
-      "description": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
-      "tags": [
-        "Government & Policy",
-        "Security",
-        "cybersecurity",
-        "NSO Group",
-        "Pegasus"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
@@ -3045,7 +2900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1312,
       "user": "mekos2772"
     },
     {
@@ -3060,7 +2915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "xt4d"
     },
     {
@@ -3075,7 +2930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 230,
       "user": "Archive228"
     },
     {
@@ -3094,94 +2949,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "url": "https://github.com/texel-org/windfoil",
-      "published_at": "2026-07-02T13:55:08Z",
-      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 123,
-      "user": "texel-org"
-    },
-    {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 859,
-      "user": "HUANGCHIHHUNGLeo"
-    },
-    {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 635,
-      "user": "jmerelnyc"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 523,
-      "user": "TianhangZhuzth"
-    },
-    {
-      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "published_at": "2026-07-02T03:47:34Z",
-      "description": "多线程全自动注册free 强上K12空间",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
-      "source": "GitHub",
-      "stars": 438,
-      "user": "asz798838958"
-    },
-    {
-      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "published_at": "2026-06-30T22:08:31Z",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 377,
-      "user": "lingbol088-spec"
+      "stars": 145,
+      "user": "dzhng"
     },
     {
       "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
@@ -3240,7 +3020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 79,
       "user": "programmersd21"
     },
     {
@@ -3255,7 +3035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 67,
       "user": "deviseo"
     },
     {
@@ -3270,7 +3050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 1022,
       "user": "elder-plinius"
     },
     {
@@ -3285,7 +3065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 470,
       "user": "LinXiaoTao"
     },
     {
@@ -3300,7 +3080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 277,
       "user": "yynxxxxx"
     },
     {
@@ -3315,7 +3095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 207,
       "user": "oomol-lab"
     },
     {
@@ -3345,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "SuperJJ007"
     },
     {
@@ -3375,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 110,
       "user": "zerx-lab"
     },
     {
