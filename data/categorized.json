@@ -1,19 +1,6 @@
 {
   "AI": [
     {
-      "title": "You Don’t Always Need The Frontier",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
-      "published_at": "2026-06-30T16:02:55Z",
-      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60sn575y0lk8gaircqo3.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Choosing the Right Tooling Layer for Your Agent",
       "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
       "published_at": "2026-07-03T14:57:01Z",
@@ -362,34 +349,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
-      "published_at": "2026-07-02T14:10:36Z",
-      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
-      "title": "When AI Creates A Closed Source World",
-      "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
-      "published_at": "2026-07-02T16:22:12Z",
-      "description": "This hit me hard. I contributed thousands of hours of labor into this library and for what? To be...",
-      "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxag76yxaasfwotit82h.png",
-      "source": "Dev.to",
-      "user": "Andrei Merlescu"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -403,21 +362,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
-    },
-    {
-      "title": "The agent-first approach to building products",
-      "url": "https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj",
-      "published_at": "2026-06-25T11:50:30Z",
-      "description": "If my agent can't use your platform, you're irrelevant -- Every customer in 2026   The agent-first...",
-      "tags": [
-        "ai",
-        "webdev",
-        "agents",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5dpedjhfkcz55clldsjn.png",
-      "source": "Dev.to",
-      "user": "adam klein"
     },
     {
       "title": "Is looping ready to roll? Experts split on the future of coding",
@@ -637,6 +581,30 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
+      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce",
+      "published_at": "2026-06-23T05:04:55Z",
+      "description": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsn6gx1nmzp3msf8wtnxi.png",
+      "source": "Dev.to",
+      "user": "Samir"
+    },
+    {
+      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
+      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
+      "published_at": "2026-07-01T13:51:51Z",
+      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
+      "tags": [
+        "aie",
+        "productivity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -804,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1295,
       "user": "mekos2772"
     },
     {
@@ -819,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 819,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -834,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 619,
       "user": "jmerelnyc"
     },
     {
@@ -849,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 365,
       "user": "lingbol088-spec"
     },
     {
@@ -879,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "kernelstub"
     },
     {
@@ -909,8 +877,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 167,
       "user": "oomol-lab"
+    },
+    {
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "lxh77721"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -924,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "SuperJJ007"
     },
     {
@@ -944,6 +927,18 @@
       "user": "Reda ait"
     },
     {
+      "title": "Paid API Key Solution",
+      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
+      "published_at": "2026-07-04T05:45:54.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milap Vora"
+    },
+    {
       "title": "Ortho photo generation and Ortho mosaic",
       "url": "https://stackoverflow.com/questions/79974419/ortho-photo-generation-and-ortho-mosaic",
       "published_at": "2026-07-04T11:54:53.000Z",
@@ -958,18 +953,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Disha Bairagi"
-    },
-    {
-      "title": "Paid API Key Solution",
-      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
-      "published_at": "2026-07-04T05:45:54.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milap Vora"
     },
     {
       "title": "Troubleshooting TQL Query Performance on Large Time-Series Containers",
@@ -1299,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1295,
       "user": "mekos2772"
     },
     {
@@ -1314,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 242,
       "user": "xt4d"
     },
     {
@@ -1329,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 195,
       "user": "Archive228"
     },
     {
@@ -1348,19 +1331,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "dzhng/skills - GitHub Repository",
-      "url": "https://github.com/dzhng/skills",
-      "published_at": "2026-07-02T10:24:16Z",
-      "description": "Trending GitHub Repository",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
       "stars": 119,
-      "user": "dzhng"
+      "user": "texel-org"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1374,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 591,
       "user": "elder-plinius"
     },
     {
@@ -1389,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 250,
       "user": "yynxxxxx"
     },
     {
@@ -1404,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "mistydew"
     },
     {
@@ -1419,23 +1402,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 167,
       "user": "oomol-lab"
     },
     {
-      "title": "rit3zh/expo-dynamic-tray - 📚 A morphing, keyboard-aware bottom-sheet tray.",
-      "url": "https://github.com/rit3zh/expo-dynamic-tray",
-      "published_at": "2026-07-02T06:26:50Z",
-      "description": "📚 A morphing, keyboard-aware bottom-sheet tray.",
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119659853?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "rit3zh"
+      "stars": 142,
+      "user": "lxh77721"
     },
     {
       "title": "Sorting div-table without jQuery",
@@ -1461,6 +1444,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "111111111111"
+    },
+    {
+      "title": "What are the best practices for getting helpful answers on a new post?",
+      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
+      "published_at": "2026-07-03T14:51:37.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "typescript",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Oulahguine"
     },
     {
       "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
@@ -1490,20 +1489,6 @@
       "user": "Shivam"
     },
     {
-      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
-      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
-      "published_at": "2026-07-04T01:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "download",
-        "safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eric Stdlib"
-    },
-    {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
@@ -1520,17 +1505,32 @@
       "user": "Reda ait"
     },
     {
-      "title": "Is there a way to put a code block directly in an iMessage?",
-      "url": "https://stackoverflow.com/questions/79974239/is-there-a-way-to-put-a-code-block-directly-in-an-imessage",
-      "published_at": "2026-07-03T20:31:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
+      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
+      "published_at": "2026-07-04T01:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "r-markdown"
+        "download",
+        "safari"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JellyFangThunderBucket"
+      "user": "Eric Stdlib"
+    },
+    {
+      "title": "Choosing between backend or frontend stack",
+      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
+      "published_at": "2026-07-02T09:01:42.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "javascript",
+        "frontend",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fatima hero"
     },
     {
       "title": "How do I retrieve the shared facbook post links in bulk?",
@@ -1546,42 +1546,23 @@
       "user": "T&#249;ng Nguyễn"
     },
     {
-      "title": "Google Login authentication problem in production MERN stack",
-      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
-      "published_at": "2026-07-03T20:14:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "Is there a way to put a code block directly in an iMessage?",
+      "url": "https://stackoverflow.com/questions/79974239/is-there-a-way-to-put-a-code-block-directly-in-an-imessage",
+      "published_at": "2026-07-03T20:31:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "reactjs",
-        "node.js",
-        "cookies",
-        "google-oauth"
+        "r-markdown"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Shounak Mahata"
-    },
-    {
-      "title": "What are the best practices for getting helpful answers on a new post?",
-      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
-      "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs",
-        "typescript",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamed Oulahguine"
+      "user": "JellyFangThunderBucket"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "python",
         "html",
@@ -1830,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 819,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1845,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 619,
       "user": "jmerelnyc"
     },
     {
@@ -1860,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 522,
       "user": "TianhangZhuzth"
     },
     {
@@ -1875,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 431,
       "user": "asz798838958"
     },
     {
@@ -1890,14 +1871,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 365,
       "user": "lingbol088-spec"
     },
     {
-      "title": "How do I solve this Type-hint error in PyCharm",
+      "title": "DBDuck – one Python ORM API for SQL, NoSQL, graph, and vector databases",
+      "url": "https://stackoverflow.com/questions/79974597/dbduck-one-python-orm-api-for-sql-nosql-graph-and-vector-databases",
+      "published_at": "2026-07-05T07:25:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sql",
+        "vector",
+        "orm",
+        "nosql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Veeresh Hanni"
+    },
+    {
+      "title": "How do I solve this type hint error in PyCharm?",
       "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-in-pycharm",
       "published_at": "2026-07-04T23:01:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "pycharm",
@@ -1906,6 +1903,32 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Paid API Key Solution",
+      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
+      "published_at": "2026-07-04T05:45:54.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milap Vora"
+    },
+    {
+      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
+      "published_at": "2026-07-03T21:46:46.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "python",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elsocrad"
     },
     {
       "title": "Ortho photo generation and Ortho mosaic",
@@ -1922,32 +1945,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Disha Bairagi"
-    },
-    {
-      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
-      "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elsocrad"
-    },
-    {
-      "title": "Paid API Key Solution",
-      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
-      "published_at": "2026-07-04T05:45:54.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milap Vora"
     },
     {
       "title": "How do you learn coding today?",
@@ -2016,22 +2013,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tatakaw"
-    },
-    {
-      "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
-      "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
-      "published_at": "2026-07-03T00:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "java",
-        "performance",
-        "cloud",
-        "griddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmed Ben Khelifa"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2315,8 +2296,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "What are the best practices for getting helpful answers on a new post?",
+      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
+      "published_at": "2026-07-03T14:51:37.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "typescript",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Oulahguine"
     },
     {
       "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
@@ -2348,26 +2345,24 @@
       "user": "Eric Stdlib"
     },
     {
-      "title": "What are the best practices for getting helpful answers on a new post?",
-      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
-      "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Choosing between backend or frontend stack",
+      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
+      "published_at": "2026-07-02T09:01:42.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "javascript",
-        "html",
-        "reactjs",
-        "typescript",
-        "next.js"
+        "frontend",
+        "backend"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mohamed Oulahguine"
+      "user": "fatima hero"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "python",
         "html",
@@ -2454,7 +2449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1295,
       "user": "mekos2772"
     },
     {
@@ -2640,20 +2635,19 @@
       "user": "xbill"
     },
     {
-      "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
-      "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
-      "published_at": "2026-07-03T00:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
+      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0",
+      "published_at": "2026-06-21T14:34:08Z",
+      "description": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
       "tags": [
-        "python",
-        "java",
-        "performance",
-        "cloud",
-        "griddb"
+        "antigravity",
+        "mcps",
+        "speculativedecoding",
+        "qat"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmed Ben Khelifa"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
@@ -2698,6 +2692,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "DBDuck – one Python ORM API for SQL, NoSQL, graph, and vector databases",
+      "url": "https://stackoverflow.com/questions/79974597/dbduck-one-python-orm-api-for-sql-nosql-graph-and-vector-databases",
+      "published_at": "2026-07-05T07:25:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sql",
+        "vector",
+        "orm",
+        "nosql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Veeresh Hanni"
     }
   ],
   "Security": [
@@ -2860,7 +2870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 591,
       "user": "elder-plinius"
     },
     {
@@ -2875,22 +2885,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dzwdz"
-    },
-    {
-      "title": "Google Login authentication problem in production MERN stack",
-      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
-      "published_at": "2026-07-03T20:14:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "node.js",
-        "cookies",
-        "google-oauth"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shounak Mahata"
     },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
@@ -3090,6 +3084,20 @@
       "user": "EmberNoGlow"
     },
     {
+      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
+      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
+      "published_at": "2026-07-01T13:51:51Z",
+      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
+      "tags": [
+        "aie",
+        "productivity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3137,7 +3145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1291,
+      "stars": 1295,
       "user": "mekos2772"
     },
     {
@@ -3152,7 +3160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 242,
       "user": "xt4d"
     },
     {
@@ -3167,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 195,
       "user": "Archive228"
     },
     {
@@ -3186,19 +3194,19 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "dzhng/skills - GitHub Repository",
-      "url": "https://github.com/dzhng/skills",
-      "published_at": "2026-07-02T10:24:16Z",
-      "description": "Trending GitHub Repository",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
       "stars": 119,
-      "user": "dzhng"
+      "user": "texel-org"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
@@ -3212,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 819,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3227,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 619,
       "user": "jmerelnyc"
     },
     {
@@ -3242,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 522,
       "user": "TianhangZhuzth"
     },
     {
@@ -3257,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 431,
       "user": "asz798838958"
     },
     {
@@ -3272,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 365,
       "user": "lingbol088-spec"
     },
     {
@@ -3317,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "kernelstub"
     },
     {
@@ -3332,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 67,
       "user": "programmersd21"
     },
     {
@@ -3362,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 591,
       "user": "elder-plinius"
     },
     {
@@ -3377,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 250,
       "user": "yynxxxxx"
     },
     {
@@ -3392,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "mistydew"
     },
     {
@@ -3407,23 +3415,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 167,
       "user": "oomol-lab"
     },
     {
-      "title": "rit3zh/expo-dynamic-tray - 📚 A morphing, keyboard-aware bottom-sheet tray.",
-      "url": "https://github.com/rit3zh/expo-dynamic-tray",
-      "published_at": "2026-07-02T06:26:50Z",
-      "description": "📚 A morphing, keyboard-aware bottom-sheet tray.",
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119659853?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "rit3zh"
+      "stars": 142,
+      "user": "lxh77721"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -3437,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "SuperJJ007"
     },
     {
@@ -3452,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "sermuns"
     },
     {
@@ -3467,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "zerx-lab"
     },
     {
@@ -3497,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/111427585?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "Tokeii0"
     },
     {
