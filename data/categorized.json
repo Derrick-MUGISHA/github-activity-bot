@@ -146,21 +146,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
-      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
-      "published_at": "2026-07-03T14:38:37Z",
-      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
-      "tags": [
-        "aie",
-        "ai",
-        "agentskills",
-        "satire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
       "published_at": "2026-06-29T16:06:30Z",
@@ -258,21 +243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkasz27h5m8ahp7bo4s8.jpg",
       "source": "Dev.to",
       "user": "Swift"
-    },
-    {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "published_at": "2026-07-01T14:34:35Z",
-      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -771,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1320,
       "user": "mekos2772"
     },
     {
@@ -786,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 898,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -801,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 656,
       "user": "jmerelnyc"
     },
     {
@@ -816,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "lingbol088-spec"
     },
     {
@@ -846,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "kernelstub"
     },
     {
@@ -861,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "oomol-lab"
     },
     {
@@ -876,20 +846,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "SuperJJ007"
-    },
-    {
-      "title": "small details in my mastodon client that i wanted more people to notice",
-      "url": "https://w.on-t.work/outpost-frontend-details",
-      "published_at": "2026-07-05T02:05:45.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "design"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seb"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -906,19 +864,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reda ait"
-    },
-    {
-      "title": "Paid API Key Solution",
-      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
-      "published_at": "2026-07-04T05:45:54.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "python",
-        "large-language-model"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milap Vora"
     },
     {
       "title": "Ortho photo generation and Ortho mosaic",
@@ -1293,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1320,
       "user": "mekos2772"
     },
     {
@@ -1308,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 273,
       "user": "xt4d"
     },
     {
@@ -1323,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 256,
       "user": "Archive228"
     },
     {
@@ -1338,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 198,
       "user": "dzhng"
     },
     {
@@ -1368,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1228,
       "user": "elder-plinius"
     },
     {
@@ -1383,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 481,
       "user": "LinXiaoTao"
     },
     {
@@ -1398,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 288,
       "user": "yynxxxxx"
     },
     {
@@ -1413,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "oomol-lab"
     },
     {
@@ -1428,14 +1373,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "mistydew"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
     },
     {
       "title": "node spawn trouble with doing a graceful shutdown",
       "url": "https://stackoverflow.com/questions/79974632/node-spawn-trouble-with-doing-a-graceful-shutdown",
       "published_at": "2026-07-05T09:26:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
@@ -1561,20 +1520,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "T&#249;ng Nguyễn"
-    },
-    {
-      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
-      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
-      "published_at": "2026-07-04T01:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "download",
-        "safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eric Stdlib"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
@@ -1829,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 898,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1844,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 656,
       "user": "jmerelnyc"
     },
     {
@@ -1889,14 +1834,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "lingbol088-spec"
+    },
+    {
+      "title": "No module named 'pkg_resources' error while i run ydata_profiling code in jupyter notebook",
+      "url": "https://stackoverflow.com/questions/79974729/no-module-named-pkg-resources-error-while-i-run-ydata-profiling-code-in-jupyte",
+      "published_at": "2026-07-05T16:28:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "eda",
+        "data-profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "muhammad mueez"
     },
     {
       "title": "Python Tkinter button for loop address each one",
       "url": "https://stackoverflow.com/questions/79974681/python-tkinter-button-for-loop-address-each-one",
       "published_at": "2026-07-05T13:35:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "tkinter"
@@ -1930,19 +1889,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Paid API Key Solution",
-      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
-      "published_at": "2026-07-04T05:45:54.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "python",
-        "large-language-model"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milap Vora"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
@@ -2338,8 +2284,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
     },
     {
       "title": "What are the best practices for getting helpful answers on a new post?",
@@ -2385,20 +2345,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "fatima hero"
-    },
-    {
-      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
-      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
-      "published_at": "2026-07-04T01:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "download",
-        "safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eric Stdlib"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
@@ -2491,22 +2437,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1320,
       "user": "mekos2772"
-    },
-    {
-      "title": "Using HTML5/JavaScript to generate and save a file on iOS 26.5.2 Safari",
-      "url": "https://stackoverflow.com/questions/79974316/using-html5-javascript-to-generate-and-save-a-file-on-ios-26-5-2-safari",
-      "published_at": "2026-07-04T01:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "download",
-        "safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eric Stdlib"
     },
     {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
@@ -2736,21 +2668,6 @@
   ],
   "Security": [
     {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "published_at": "2026-07-01T14:34:35Z",
-      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -2922,7 +2839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1228,
       "user": "elder-plinius"
     },
     {
@@ -3224,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1320,
       "user": "mekos2772"
     },
     {
@@ -3239,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 273,
       "user": "xt4d"
     },
     {
@@ -3254,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 256,
       "user": "Archive228"
     },
     {
@@ -3269,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 198,
       "user": "dzhng"
     },
     {
@@ -3299,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 898,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3314,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 656,
       "user": "jmerelnyc"
     },
     {
@@ -3359,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "lingbol088-spec"
     },
     {
@@ -3404,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "kernelstub"
     },
     {
@@ -3419,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "programmersd21"
     },
     {
@@ -3434,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 74,
       "user": "deviseo"
     },
     {
@@ -3449,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1228,
       "user": "elder-plinius"
     },
     {
@@ -3464,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 481,
       "user": "LinXiaoTao"
     },
     {
@@ -3479,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 288,
       "user": "yynxxxxx"
     },
     {
@@ -3494,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "oomol-lab"
     },
     {
@@ -3509,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "mistydew"
     },
     {
@@ -3524,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "SuperJJ007"
     },
     {
@@ -3539,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "sermuns"
     },
     {
@@ -3554,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "zerx-lab"
     },
     {
@@ -3584,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/111427585?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "Tokeii0"
     },
     {
