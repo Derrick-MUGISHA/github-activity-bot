@@ -160,20 +160,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Let Us Be Free",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "published_at": "2026-07-02T15:55:55Z",
-      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
-      "tags": [
-        "aie",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
-      "source": "Dev.to",
-      "user": "John McBride"
-    },
-    {
       "title": "The AI Engineer World’s Fair Spreads Globally",
       "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h",
       "published_at": "2026-06-29T16:05:03Z",
@@ -544,6 +530,35 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
+      "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
+      "published_at": "2026-07-03T14:38:37Z",
+      "description": "Buckle up, gang — it's conspiracy theory time.  I've had this theory percolating in the back of my...",
+      "tags": [
+        "aie",
+        "ai",
+        "agentskills",
+        "satire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "published_at": "2026-07-02T15:55:55Z",
+      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "tags": [
+        "aie",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "source": "Dev.to",
+      "user": "John McBride"
+    },
+    {
       "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
       "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
       "published_at": "2026-06-29T05:22:27Z",
@@ -756,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 913,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -771,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 661,
       "user": "jmerelnyc"
     },
     {
@@ -786,8 +801,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "lingbol088-spec"
+    },
+    {
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "kernelstub"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -805,21 +835,6 @@
       "user": "0xMassi"
     },
     {
-      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "url": "https://github.com/kernelstub/Nox",
-      "published_at": "2026-07-02T20:05:34Z",
-      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "kernelstub"
-    },
-    {
       "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "url": "https://github.com/oomol-lab/open-connector",
       "published_at": "2026-06-29T10:49:36Z",
@@ -831,8 +846,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 219,
       "user": "oomol-lab"
+    },
+    {
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "lxh77721"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -848,6 +878,18 @@
       "source": "GitHub",
       "stars": 251,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "small details in my mastodon client that i wanted more people to notice",
+      "url": "https://w.on-t.work/outpost-frontend-details",
+      "published_at": "2026-07-05T02:05:45.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "design"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "seb"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -893,6 +935,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wejdene touti"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "published_at": "2026-07-05T17:43:36.000Z",
+      "description": "These may be the last days of Amazon’s Mechanical Turk.",
+      "tags": [
+        "AI",
+        "Amazon",
+        "Amazon Web Services",
+        "mechanical turk"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that&#8217;s now public",
@@ -1253,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 280,
       "user": "xt4d"
     },
     {
@@ -1268,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 263,
       "user": "Archive228"
     },
     {
@@ -1283,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 232,
       "user": "dzhng"
     },
     {
@@ -1313,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1298,
       "user": "elder-plinius"
     },
     {
@@ -1328,23 +1385,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "LinXiaoTao"
-    },
-    {
-      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "published_at": "2026-07-04T03:28:35Z",
-      "description": "Codex Switch & Instruct desktop manager",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
-      "source": "GitHub",
-      "stars": 288,
-      "user": "yynxxxxx"
     },
     {
       "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
@@ -1358,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 219,
       "user": "oomol-lab"
     },
     {
@@ -1375,6 +1417,21 @@
       "source": "GitHub",
       "stars": 207,
       "user": "mistydew"
+    },
+    {
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "lxh77721"
     },
     {
       "title": "How to make infinite draggable background using CSS and JavaScript",
@@ -1525,7 +1582,7 @@
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 4",
       "tags": [
         "python",
         "html",
@@ -1774,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 913,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1789,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 661,
       "user": "jmerelnyc"
     },
     {
@@ -1819,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "asz798838958"
     },
     {
@@ -1834,14 +1891,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "lingbol088-spec"
     },
     {
       "title": "No module named 'pkg_resources' error while i run ydata_profiling code in jupyter notebook",
       "url": "https://stackoverflow.com/questions/79974729/no-module-named-pkg-resources-error-while-i-run-ydata-profiling-code-in-jupyte",
       "published_at": "2026-07-05T16:28:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "eda",
@@ -1894,7 +1951,7 @@
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 4",
       "tags": [
         "python",
         "html",
@@ -2350,7 +2407,7 @@
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 4",
       "tags": [
         "python",
         "html",
@@ -2839,7 +2896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1298,
       "user": "elder-plinius"
     },
     {
@@ -3156,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 280,
       "user": "xt4d"
     },
     {
@@ -3171,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 263,
       "user": "Archive228"
     },
     {
@@ -3186,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 232,
       "user": "dzhng"
     },
     {
@@ -3216,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 913,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3231,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 661,
       "user": "jmerelnyc"
     },
     {
@@ -3261,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "asz798838958"
     },
     {
@@ -3276,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "lingbol088-spec"
     },
     {
@@ -3295,6 +3352,21 @@
       "user": "kdsuomi"
     },
     {
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "kernelstub"
+    },
+    {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
       "url": "https://github.com/0xMassi/pocketdev",
       "published_at": "2026-06-29T14:03:44Z",
@@ -3310,21 +3382,6 @@
       "user": "0xMassi"
     },
     {
-      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "url": "https://github.com/kernelstub/Nox",
-      "published_at": "2026-07-02T20:05:34Z",
-      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "kernelstub"
-    },
-    {
       "title": "programmersd21/flow - 🌊 see your network breathe",
       "url": "https://github.com/programmersd21/flow",
       "published_at": "2026-07-04T10:09:41Z",
@@ -3336,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "programmersd21"
     },
     {
@@ -3351,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 78,
       "user": "deviseo"
     },
     {
@@ -3366,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1298,
       "user": "elder-plinius"
     },
     {
@@ -3381,23 +3438,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "LinXiaoTao"
-    },
-    {
-      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "published_at": "2026-07-04T03:28:35Z",
-      "description": "Codex Switch & Instruct desktop manager",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
-      "source": "GitHub",
-      "stars": 288,
-      "user": "yynxxxxx"
     },
     {
       "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
@@ -3411,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 219,
       "user": "oomol-lab"
     },
     {
@@ -3428,6 +3470,36 @@
       "source": "GitHub",
       "stars": 207,
       "user": "mistydew"
+    },
+    {
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "lxh77721"
+    },
+    {
+      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "published_at": "2026-07-04T03:28:35Z",
+      "description": "Codex Switch & Instruct desktop manager",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "yynxxxxx"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -3486,23 +3558,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60398697?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "vndangkhoa"
-    },
-    {
-      "title": "Tokeii0/LovelyMiscLab - 面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
-      "url": "https://github.com/Tokeii0/LovelyMiscLab",
-      "published_at": "2026-07-01T12:27:57Z",
-      "description": "面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/111427585?v=4",
-      "source": "GitHub",
-      "stars": 49,
-      "user": "Tokeii0"
     },
     {
       "title": "Better Models: Worse Tools",
