@@ -546,6 +546,64 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "published_at": "2026-06-30T07:22:16Z",
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "tags": [
+        "ai",
+        "webdev",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "AI Engineer Meets AI Engineer",
+      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "published_at": "2026-06-30T15:21:36Z",
+      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
+    },
+    {
+      "title": "For AI coding, the kids are alright",
+      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
+      "published_at": "2026-06-29T16:06:12Z",
+      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
+      "tags": [
+        "aie",
+        "beginners",
+        "softwaredevelopment",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -713,8 +771,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1317,
       "user": "mekos2772"
+    },
+    {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
+      "source": "GitHub",
+      "stars": 888,
+      "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 651,
+      "user": "jmerelnyc"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "published_at": "2026-06-30T22:08:31Z",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "lingbol088-spec"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -743,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "kernelstub"
     },
     {
@@ -758,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 211,
       "user": "oomol-lab"
     },
     {
@@ -773,8 +876,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "small details in my mastodon client that i wanted more people to notice",
+      "url": "https://w.on-t.work/outpost-frontend-details",
+      "published_at": "2026-07-05T02:05:45.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "design"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "seb"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -798,7 +913,8 @@
       "published_at": "2026-07-04T05:45:54.000Z",
       "description": "Stack Overflow question · 6 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "large-language-model"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1031,6 +1147,21 @@
   ],
   "JavaScript": [
     {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1162,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1317,
       "user": "mekos2772"
     },
     {
@@ -1177,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "xt4d"
     },
     {
@@ -1192,8 +1323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 238,
       "user": "Archive228"
+    },
+    {
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "dzhng"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -1211,21 +1357,6 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "dzhng/skills - GitHub Repository",
-      "url": "https://github.com/dzhng/skills",
-      "published_at": "2026-07-02T10:24:16Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "dzhng"
-    },
-    {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "published_at": "2026-07-02T17:53:55Z",
@@ -1237,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1131,
       "user": "elder-plinius"
     },
     {
@@ -1252,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 476,
       "user": "LinXiaoTao"
     },
     {
@@ -1267,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 282,
       "user": "yynxxxxx"
     },
     {
@@ -1282,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 211,
       "user": "oomol-lab"
     },
     {
@@ -1297,8 +1428,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 205,
       "user": "mistydew"
+    },
+    {
+      "title": "node spawn trouble with doing a graceful shutdown",
+      "url": "https://stackoverflow.com/questions/79974632/node-spawn-trouble-with-doing-a-graceful-shutdown",
+      "published_at": "2026-07-05T09:26:14.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "windows",
+        "spawn",
+        "sigint"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SkiperTheBoss"
     },
     {
       "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
@@ -1332,7 +1479,7 @@
       "title": "Log current index while traversing a multidimensional array",
       "url": "https://stackoverflow.com/questions/79974476/log-current-index-while-traversing-a-multidimensional-array",
       "published_at": "2026-07-04T17:00:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "multidimensional-array"
@@ -1428,19 +1575,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eric Stdlib"
-    },
-    {
-      "title": "Is there a way to put a code block directly in an iMessage?",
-      "url": "https://stackoverflow.com/questions/79974239/is-there-a-way-to-put-a-code-block-directly-in-an-imessage",
-      "published_at": "2026-07-03T20:31:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "r-markdown"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JellyFangThunderBucket"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
@@ -1684,10 +1818,85 @@
       "user": "arathore"
     },
     {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
+      "source": "GitHub",
+      "stars": 888,
+      "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 651,
+      "user": "jmerelnyc"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
+      "source": "GitHub",
+      "stars": 524,
+      "user": "TianhangZhuzth"
+    },
+    {
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 441,
+      "user": "asz798838958"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "published_at": "2026-06-30T22:08:31Z",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "lingbol088-spec"
+    },
+    {
       "title": "Python Tkinter button for loop address each one",
       "url": "https://stackoverflow.com/questions/79974681/python-tkinter-button-for-loop-address-each-one",
       "published_at": "2026-07-05T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "tkinter"
@@ -1700,7 +1909,7 @@
       "title": "How to transition from learning fundamentals to professional development in Python?",
       "url": "https://stackoverflow.com/questions/79974659/how-to-transition-from-learning-fundamentals-to-professional-development-in-pyth",
       "published_at": "2026-07-05T11:55:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python"
       ],
@@ -1723,6 +1932,19 @@
       "user": "NickC"
     },
     {
+      "title": "Paid API Key Solution",
+      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
+      "published_at": "2026-07-04T05:45:54.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "python",
+        "large-language-model"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milap Vora"
+    },
+    {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
@@ -1735,18 +1957,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elsocrad"
-    },
-    {
-      "title": "Paid API Key Solution",
-      "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
-      "published_at": "2026-07-04T05:45:54.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milap Vora"
     },
     {
       "title": "Ortho photo generation and Ortho mosaic",
@@ -2075,6 +2285,36 @@
   ],
   "WebDev": [
     {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2098,7 +2338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "SuperJJ007"
     },
     {
@@ -2251,7 +2491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1317,
       "user": "mekos2772"
     },
     {
@@ -2437,6 +2677,19 @@
       "user": "xbill"
     },
     {
+      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
+      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
+      "published_at": "2026-07-02T02:53:02Z",
+      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
+      "tags": [
+        "cloud",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
       "url": "https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/",
       "published_at": "2026-07-01T17:05:56.000Z",
@@ -2496,6 +2749,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "published_at": "2026-06-30T07:22:16Z",
+      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "tags": [
+        "ai",
+        "webdev",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
+      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
+      "published_at": "2026-07-02T02:53:02Z",
+      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
+      "tags": [
+        "cloud",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2641,7 +2922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1131,
       "user": "elder-plinius"
     },
     {
@@ -2853,6 +3134,49 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "I stopped generating color scales and started shaping them",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
+      "published_at": "2026-06-23T13:53:17Z",
+      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "css",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
+      "source": "Dev.to",
+      "user": "Gil Barbara"
+    },
+    {
+      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
+      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
+      "published_at": "2026-07-02T02:53:02Z",
+      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
+      "tags": [
+        "cloud",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
+      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+      "published_at": "2026-06-29T05:22:27Z",
+      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "tags": [
+        "performance",
+        "webperf",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "source": "Dev.to",
+      "user": "Jakub Andrzejewski"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -2900,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1317,
       "user": "mekos2772"
     },
     {
@@ -2915,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "xt4d"
     },
     {
@@ -2930,8 +3254,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 238,
       "user": "Archive228"
+    },
+    {
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "dzhng"
     },
     {
       "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
@@ -2949,19 +3288,79 @@
       "user": "frankchiu-dev"
     },
     {
-      "title": "dzhng/skills - GitHub Repository",
-      "url": "https://github.com/dzhng/skills",
-      "published_at": "2026-07-02T10:24:16Z",
-      "description": "Trending GitHub Repository",
+      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published_at": "2026-06-30T10:55:02Z",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "dzhng"
+      "stars": 888,
+      "user": "HUANGCHIHHUNGLeo"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 651,
+      "user": "jmerelnyc"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "published_at": "2026-06-30T01:04:13Z",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
+      "source": "GitHub",
+      "stars": 524,
+      "user": "TianhangZhuzth"
+    },
+    {
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 441,
+      "user": "asz798838958"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "published_at": "2026-06-30T22:08:31Z",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "lingbol088-spec"
     },
     {
       "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
@@ -3005,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "kernelstub"
     },
     {
@@ -3020,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "programmersd21"
     },
     {
@@ -3035,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 71,
       "user": "deviseo"
     },
     {
@@ -3050,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1131,
       "user": "elder-plinius"
     },
     {
@@ -3065,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 476,
       "user": "LinXiaoTao"
     },
     {
@@ -3080,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 282,
       "user": "yynxxxxx"
     },
     {
@@ -3095,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 211,
       "user": "oomol-lab"
     },
     {
@@ -3110,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 205,
       "user": "mistydew"
     },
     {
@@ -3125,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "SuperJJ007"
     },
     {
@@ -3140,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "sermuns"
     },
     {
