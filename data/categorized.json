@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Forward Deployed Engineers and the future of software engineering",
       "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll",
       "published_at": "2026-07-01T00:20:18Z",
@@ -28,20 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FQL_%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
       "source": "Dev.to",
       "user": "Richard MacManus"
-    },
-    {
-      "title": "Without Structure",
-      "url": "https://dev.to/dailycontext/without-structure-22d1",
-      "published_at": "2026-07-02T15:18:45Z",
-      "description": "“Without structure, AI makes code worse.” - Tereza Tížková  AI is a supercharger, not a magic wand....",
-      "tags": [
-        "aie",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpkno6nx1x2e5xfq8wh3.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "These Founders Skipped Graduation To Be Here",
@@ -103,36 +75,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "How to Count Gemini Tokens Locally",
-      "url": "https://dev.to/googlecloud/how-to-count-gemini-tokens-locally-3cal",
-      "published_at": "2026-07-02T13:50:42Z",
-      "description": "✨ Overview   This article explores how Gemini tokenizes data and demonstrates how to count...",
-      "tags": [
-        "ai",
-        "gemini",
-        "token",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvhuja1no31ncyx68qmqd.png",
-      "source": "Dev.to",
-      "user": "Laurent Picard"
-    },
-    {
-      "title": "Omni Flash Preview with Kiro",
-      "url": "https://dev.to/gde/omni-flash-preview-with-kiro-19ka",
-      "published_at": "2026-07-02T13:17:45Z",
-      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "tags": [
-        "gemini",
-        "llm",
-        "mcp",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feaezhzi2o46r26fkzkl5.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "What's Next for AI?",
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
       "published_at": "2026-06-29T07:18:48Z",
@@ -188,6 +130,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
@@ -275,21 +231,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "18 Hot Takes On Where AI is Headed Next",
-      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
-      "published_at": "2026-07-02T15:53:07Z",
-      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
-      "tags": [
-        "aie",
-        "discuss",
-        "software",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
       "published_at": "2026-06-29T20:00:00Z",
@@ -319,21 +260,6 @@
       "user": "Swift"
     },
     {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
-      "published_at": "2026-07-02T19:14:36Z",
-      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
-      "tags": [
-        "webassembly",
-        "midsommer",
-        "azurecontainerapps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
       "published_at": "2026-07-01T14:34:35Z",
@@ -347,6 +273,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+      "published_at": "2026-07-02T19:14:36Z",
+      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
+      "tags": [
+        "webassembly",
+        "midsommer",
+        "azurecontainerapps",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -772,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1309,
       "user": "mekos2772"
     },
     {
@@ -787,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -802,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 635,
       "user": "jmerelnyc"
     },
     {
@@ -817,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 377,
       "user": "lingbol088-spec"
     },
     {
@@ -847,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "kernelstub"
     },
     {
@@ -862,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 201,
       "user": "oomol-lab"
     },
     {
@@ -877,20 +818,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "SuperJJ007"
-    },
-    {
-      "title": "small details in my mastodon client that i wanted more people to notice",
-      "url": "https://w.on-t.work/outpost-frontend-details",
-      "published_at": "2026-07-05T02:05:45.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "design"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seb"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -1264,7 +1193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1309,
       "user": "mekos2772"
     },
     {
@@ -1279,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 253,
       "user": "xt4d"
     },
     {
@@ -1294,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 211,
       "user": "Archive228"
     },
     {
@@ -1324,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "texel-org"
     },
     {
@@ -1339,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 830,
       "user": "elder-plinius"
     },
     {
@@ -1354,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 454,
       "user": "LinXiaoTao"
     },
     {
@@ -1369,8 +1298,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 262,
       "user": "yynxxxxx"
+    },
+    {
+      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "published_at": "2026-06-29T10:49:36Z",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "oomol-lab"
     },
     {
       "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
@@ -1388,25 +1332,26 @@
       "user": "mistydew"
     },
     {
-      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "url": "https://github.com/oomol-lab/open-connector",
-      "published_at": "2026-06-29T10:49:36Z",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
+      "url": "https://stackoverflow.com/questions/79974651/how-to-run-both-api-and-web-with-arrow-keys-to-change-command-prompt-to-api-web",
+      "published_at": "2026-07-05T11:01:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
+        "javascript",
         "typescript",
-        "github",
-        "open-source"
+        "next.js",
+        "nestjs",
+        "turborepo"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
-      "source": "GitHub",
-      "stars": 175,
-      "user": "oomol-lab"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soham Chavan "
     },
     {
       "title": "Sorting div-table without jQuery",
       "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
       "published_at": "2026-07-05T01:05:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript"
       ],
@@ -1529,26 +1474,10 @@
       "user": "JellyFangThunderBucket"
     },
     {
-      "title": "Google Login authentication problem in production MERN stack",
-      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
-      "published_at": "2026-07-03T20:14:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "node.js",
-        "cookies",
-        "google-oauth"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shounak Mahata"
-    },
-    {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "python",
         "html",
@@ -1797,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1812,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 635,
       "user": "jmerelnyc"
     },
     {
@@ -1827,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "TianhangZhuzth"
     },
     {
@@ -1842,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "asz798838958"
     },
     {
@@ -1857,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 377,
       "user": "lingbol088-spec"
     },
     {
@@ -1875,6 +1804,20 @@
       "user": "NickC"
     },
     {
+      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
+      "published_at": "2026-07-03T21:46:46.000Z",
+      "description": "Stack Overflow question · 4 answers · score 3",
+      "tags": [
+        "python",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elsocrad"
+    },
+    {
       "title": "Paid API Key Solution",
       "url": "https://stackoverflow.com/questions/79974348/paid-api-key-solution",
       "published_at": "2026-07-04T05:45:54.000Z",
@@ -1885,20 +1828,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milap Vora"
-    },
-    {
-      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
-      "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elsocrad"
     },
     {
       "title": "Ortho photo generation and Ortho mosaic",
@@ -2282,7 +2211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "SuperJJ007"
     },
     {
@@ -2348,7 +2277,7 @@
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
       "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "python",
         "html",
@@ -2435,7 +2364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1309,
       "user": "mekos2772"
     },
     {
@@ -2484,21 +2413,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Autonomous Workspace Orchestration with Antigravity 2.0",
-      "url": "https://dev.to/gde/autonomous-workspace-orchestration-with-antigravity-20-adj",
-      "published_at": "2026-07-02T12:41:19Z",
-      "description": "Even the most advanced enterprise systems are tethered to a costly paradox: manual bottlenecks that...",
-      "tags": [
-        "antigravity",
-        "workplace",
-        "googlecloud",
-        "autonomous"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tp5lpytkbywbgrgqm2.png",
-      "source": "Dev.to",
-      "user": "Vo Tu Duc"
     },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
@@ -2856,7 +2770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 830,
       "user": "elder-plinius"
     },
     {
@@ -2871,22 +2785,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dzwdz"
-    },
-    {
-      "title": "Google Login authentication problem in production MERN stack",
-      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
-      "published_at": "2026-07-03T20:14:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "node.js",
-        "cookies",
-        "google-oauth"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shounak Mahata"
     },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
@@ -2937,20 +2835,6 @@
   ],
   "Tools": [
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Protect Yourself, Mesh Yourself",
       "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
       "published_at": "2026-07-03T13:45:00Z",
@@ -2994,6 +2878,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3147,7 +3045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1309,
       "user": "mekos2772"
     },
     {
@@ -3162,7 +3060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 253,
       "user": "xt4d"
     },
     {
@@ -3177,7 +3075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 211,
       "user": "Archive228"
     },
     {
@@ -3207,7 +3105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "texel-org"
     },
     {
@@ -3222,7 +3120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3237,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 635,
       "user": "jmerelnyc"
     },
     {
@@ -3252,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "TianhangZhuzth"
     },
     {
@@ -3267,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "asz798838958"
     },
     {
@@ -3282,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 377,
       "user": "lingbol088-spec"
     },
     {
@@ -3327,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "kernelstub"
     },
     {
@@ -3342,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 73,
       "user": "programmersd21"
     },
     {
@@ -3357,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 64,
       "user": "deviseo"
     },
     {
@@ -3372,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 830,
       "user": "elder-plinius"
     },
     {
@@ -3387,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 454,
       "user": "LinXiaoTao"
     },
     {
@@ -3402,8 +3300,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 262,
       "user": "yynxxxxx"
+    },
+    {
+      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "published_at": "2026-06-29T10:49:36Z",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "oomol-lab"
     },
     {
       "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
@@ -3421,21 +3334,6 @@
       "user": "mistydew"
     },
     {
-      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "url": "https://github.com/oomol-lab/open-connector",
-      "published_at": "2026-06-29T10:49:36Z",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
-      "source": "GitHub",
-      "stars": 175,
-      "user": "oomol-lab"
-    },
-    {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
       "url": "https://github.com/SuperJJ007/CSSwitch",
       "published_at": "2026-07-02T16:46:56Z",
@@ -3447,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "SuperJJ007"
     },
     {
@@ -3492,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60398697?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "vndangkhoa"
     },
     {
