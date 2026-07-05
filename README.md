@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-06 0:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-06 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Is Forward Deployed Engineering Killing DevRel?](https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833) | Dev.to |
 | 20 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
 
-<sub>Last fetched: Mon, 06 Jul 2026 00:39:56 CAT</sub>
+<sub>Last fetched: Mon, 06 Jul 2026 01:46:54 CAT</sub>
 
 
 ---
@@ -122,7 +122,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**1. `DataStructures` — Find the longest substring without repeating characters**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Sliding window, hash map, two pointers
+
+</details>
+
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Schema, scalability, ACID vs BASE
+
+</details>
+
+**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
@@ -130,28 +152,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Execution timing, event loop phases
-
-</details>
-
-**2. `DataStructures` — Implement a function to reverse a linked list**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Iterative or recursive, three pointers
-
-</details>
-
-**3. `Database` — Explain database indexing and when to use it**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> B-tree, trade-offs, query performance
 
 </details>
 
@@ -168,7 +168,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Tools** | 47 | 25.7% | `████████████░░░░░░░░` |
 | **JavaScript** | 37 | 20.2% | `██████████░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-50-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-25-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-16-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-6-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-50-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-25-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-15-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-6-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 05 Jul 2026 22:39:56 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 05 Jul 2026 23:46:54 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
