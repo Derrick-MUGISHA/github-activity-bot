@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 183,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 81,
+    "AI": 80,
     "JavaScript": 37,
     "Python": 29,
     "DevOps": 17,
@@ -19,7 +19,7 @@
     "Cloud": 12,
     "Database": 2,
     "Security": 17,
-    "Tools": 48
+    "Tools": 47
   },
   "by_language": {
     "Go": 25,
@@ -31,11 +31,11 @@
     "Swift": 2
   },
   "by_date": {
-    "2026-07-01": 16,
+    "2026-07-01": 15,
     "2026-07-02": 23,
     "2026-07-03": 22,
     "2026-06-30": 11,
-    "2026-06-29": 15,
+    "2026-06-29": 14,
     "2026-06-28": 2,
     "2026-06-23": 9,
     "2026-06-22": 2,
@@ -92,7 +92,7 @@
     "2024-10-09": 1,
     "2022-08-01": 1,
     "2026-07-04": 15,
-    "2026-07-05": 16
+    "2026-07-05": 17
   },
   "top_tags": {
     "ai": 34,
@@ -108,11 +108,11 @@
     "DevOps": 10,
     "typescript": 8,
     "agents": 6,
-    "productivity": 6,
     "devops": 6,
     "rust": 6,
     "mcps": 6,
     "go": 6,
+    "productivity": 5,
     "opensource": 5,
     "gemini": 5
   },

@@ -771,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 922,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "jmerelnyc"
     },
     {
@@ -816,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "kernelstub"
     },
     {
@@ -846,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 224,
       "user": "oomol-lab"
     },
     {
@@ -861,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "lxh77721"
     },
     {
@@ -878,18 +878,6 @@
       "source": "GitHub",
       "stars": 252,
       "user": "SuperJJ007"
-    },
-    {
-      "title": "small details in my mastodon client that i wanted more people to notice",
-      "url": "https://w.on-t.work/outpost-frontend-details",
-      "published_at": "2026-07-05T02:05:45.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "design"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seb"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -1310,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "xt4d"
     },
     {
@@ -1325,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 280,
       "user": "Archive228"
     },
     {
@@ -1340,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 268,
       "user": "dzhng"
     },
     {
@@ -1370,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1441,
       "user": "elder-plinius"
     },
     {
@@ -1385,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 490,
       "user": "LinXiaoTao"
     },
     {
@@ -1400,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 224,
       "user": "oomol-lab"
     },
     {
@@ -1430,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "lxh77721"
     },
     {
@@ -1464,6 +1452,18 @@
       "user": "SkiperTheBoss"
     },
     {
+      "title": "Sorting div-table without jQuery",
+      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
+      "published_at": "2026-07-05T01:05:30.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SoranDK"
+    },
+    {
       "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
       "url": "https://stackoverflow.com/questions/79974651/how-to-run-both-api-and-web-with-arrow-keys-to-change-command-prompt-to-api-web",
       "published_at": "2026-07-05T11:01:15.000Z",
@@ -1478,18 +1478,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soham Chavan "
-    },
-    {
-      "title": "Sorting div-table without jQuery",
-      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
-      "published_at": "2026-07-05T01:05:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SoranDK"
     },
     {
       "title": "Log current index while traversing a multidimensional array",
@@ -1831,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 922,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1846,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "jmerelnyc"
     },
     {
@@ -1895,10 +1883,22 @@
       "user": "lingbol088-spec"
     },
     {
+      "title": "How to transition from learning fundamentals to professional development in Python?",
+      "url": "https://stackoverflow.com/questions/79974659/how-to-transition-from-learning-fundamentals-to-professional-development-in-pyth",
+      "published_at": "2026-07-05T11:55:51.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Syed Izzan shah"
+    },
+    {
       "title": "No module named 'pkg_resources' error while i run ydata_profiling code in jupyter notebook",
       "url": "https://stackoverflow.com/questions/79974729/no-module-named-pkg-resources-error-while-i-run-ydata-profiling-code-in-jupyte",
       "published_at": "2026-07-05T16:28:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "eda",
@@ -1920,18 +1920,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ras_Al_Ghul"
-    },
-    {
-      "title": "How to transition from learning fundamentals to professional development in Python?",
-      "url": "https://stackoverflow.com/questions/79974659/how-to-transition-from-learning-fundamentals-to-professional-development-in-pyth",
-      "published_at": "2026-07-05T11:55:51.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Syed Izzan shah"
     },
     {
       "title": "How do I solve this type hint error in PyCharm?",
@@ -2896,7 +2884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1441,
       "user": "elder-plinius"
     },
     {
@@ -2958,21 +2946,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
       "source": "Dev.to",
       "user": "Elliott"
-    },
-    {
-      "title": "My First Year at DEV Recap",
-      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
-      "published_at": "2026-07-01T13:46:22Z",
-      "description": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...",
-      "tags": [
-        "community",
-        "learning",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
     },
     {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
@@ -3213,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "xt4d"
     },
     {
@@ -3228,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 280,
       "user": "Archive228"
     },
     {
@@ -3243,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 268,
       "user": "dzhng"
     },
     {
@@ -3273,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 922,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3288,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "jmerelnyc"
     },
     {
@@ -3363,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "kernelstub"
     },
     {
@@ -3382,6 +3355,21 @@
       "user": "0xMassi"
     },
     {
+      "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
+      "url": "https://github.com/deviseo/transit-hub",
+      "published_at": "2026-07-03T09:56:31Z",
+      "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "deviseo"
+    },
+    {
       "title": "programmersd21/flow - 🌊 see your network breathe",
       "url": "https://github.com/programmersd21/flow",
       "published_at": "2026-07-04T10:09:41Z",
@@ -3397,21 +3385,6 @@
       "user": "programmersd21"
     },
     {
-      "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
-      "url": "https://github.com/deviseo/transit-hub",
-      "published_at": "2026-07-03T09:56:31Z",
-      "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
-      "source": "GitHub",
-      "stars": 81,
-      "user": "deviseo"
-    },
-    {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "published_at": "2026-07-02T17:53:55Z",
@@ -3423,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1441,
       "user": "elder-plinius"
     },
     {
@@ -3438,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 490,
       "user": "LinXiaoTao"
     },
     {
@@ -3453,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 224,
       "user": "oomol-lab"
     },
     {
@@ -3483,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "lxh77721"
     },
     {
@@ -3498,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 296,
       "user": "yynxxxxx"
     },
     {
@@ -3547,19 +3520,19 @@
       "user": "zerx-lab"
     },
     {
-      "title": "vndangkhoa/vietc - A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
-      "url": "https://github.com/vndangkhoa/vietc",
-      "published_at": "2026-06-29T09:16:00Z",
-      "description": "A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
+      "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "published_at": "2026-07-05T01:03:37Z",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60398697?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 58,
-      "user": "vndangkhoa"
+      "stars": 60,
+      "user": "514-labs"
     },
     {
       "title": "Better Models: Worse Tools",
