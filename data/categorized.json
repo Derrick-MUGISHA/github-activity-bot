@@ -387,105 +387,6 @@
       "user": "John McBride"
     },
     {
-      "title": "The AI Engineer World’s Fair Spreads Globally",
-      "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h",
-      "published_at": "2026-06-29T16:05:03Z",
-      "description": "It has been less than three years since Shawn \"swyx\" Wang coined the term AI engineer in an open...",
-      "tags": [
-        "ai",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4e400hnnpsuuj39fylo3.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "What to Expect at the AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g",
-      "published_at": "2026-06-29T16:05:26Z",
-      "description": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
-      "tags": [
-        "ai",
-        "aie",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fue6odvwtfzza3hg4o8kz.jpg",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
-      "title": "18 Hot Takes On Where AI is Headed Next",
-      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
-      "published_at": "2026-07-02T15:53:07Z",
-      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
-      "tags": [
-        "aie",
-        "discuss",
-        "software",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "tags": [
-        "aie",
-        "gamedev",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Is Forward Deployed Engineering Killing DevRel?",
-      "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833",
-      "published_at": "2026-07-02T13:52:16Z",
-      "description": "When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...",
-      "tags": [
-        "aie",
-        "devrel",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkasz27h5m8ahp7bo4s8.jpg",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "published_at": "2026-07-01T14:34:35Z",
-      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
-      "published_at": "2026-07-02T14:10:36Z",
-      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
       "title": "When AI Creates A Closed Source World",
       "url": "https://dev.to/andreimerlescu/when-ai-creates-a-closed-source-world-2oin",
       "published_at": "2026-07-02T16:22:12Z",
@@ -529,6 +430,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5dpedjhfkcz55clldsjn.png",
       "source": "Dev.to",
       "user": "adam klein"
+    },
+    {
+      "title": "The biggest World’s Fair yet powers down for the moment",
+      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
+      "published_at": "2026-07-03T14:45:31Z",
+      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
@@ -604,6 +520,119 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
       "source": "Dev.to",
       "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "Minimalist EKS: The Easy Way",
+      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
+      "published_at": "2026-06-26T19:56:54Z",
+      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
+      "source": "Dev.to",
+      "user": "Joaquin Menchaca"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
+    },
+    {
+      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
+      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
+      "published_at": "2026-07-01T18:32:34Z",
+      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "tags": [
+        "ai",
+        "android",
+        "vibecoding",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Visitors get some serious puppy love",
+      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
+      "published_at": "2026-07-01T13:47:36Z",
+      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
+      "tags": [
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
+      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
+      "published_at": "2026-07-01T13:56:06Z",
+      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Fable is Back, Baby.",
+      "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
+      "published_at": "2026-07-01T14:53:47Z",
+      "description": "Fable is back. The Commerce Department announced yesterday it has lifted the export controls it...",
+      "tags": [
+        "aie",
+        "ai",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
+      "title": "The Vertical Turn",
+      "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
+      "published_at": "2026-07-01T14:41:07Z",
+      "description": "Look at tomorrow's track list and count the rooms that have absolutely nothing to do with...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -773,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1285,
       "user": "mekos2772"
     },
     {
@@ -788,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 745,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -803,8 +832,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "jmerelnyc"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "published_at": "2026-06-30T22:08:31Z",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "lingbol088-spec"
     },
     {
       "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
@@ -833,8 +877,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "kernelstub"
+    },
+    {
+      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/kutta",
+      "published_at": "2026-07-02T12:52:26Z",
+      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "source": "GitHub",
+      "stars": 52,
+      "user": "crgimenes"
+    },
+    {
+      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "published_at": "2026-06-29T10:49:36Z",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "oomol-lab"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 222,
+      "user": "SuperJJ007"
     },
     {
       "title": "Who's Hiring? - Support Edition - Q3 2026",
@@ -1204,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1285,
       "user": "mekos2772"
     },
     {
@@ -1219,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 227,
       "user": "xt4d"
     },
     {
@@ -1249,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "Archive228"
     },
     {
@@ -1279,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "mistydew"
     },
     {
@@ -1294,23 +1383,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 182,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "nexxeln/talktui - presentations on the terminal",
-      "url": "https://github.com/nexxeln/talktui",
-      "published_at": "2026-06-28T11:41:24Z",
-      "description": "presentations on the terminal",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95541290?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "nexxeln"
     },
     {
       "title": "rit3zh/expo-dynamic-tray - 📚 A morphing, keyboard-aware bottom-sheet tray.",
@@ -1326,6 +1400,21 @@
       "source": "GitHub",
       "stars": 135,
       "user": "rit3zh"
+    },
+    {
+      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "published_at": "2026-06-29T10:49:36Z",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "oomol-lab"
     },
     {
       "title": "openng-foundation/open-prime - GitHub Repository",
@@ -1727,21 +1816,6 @@
       "user": "arathore"
     },
     {
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "published_at": "2026-06-28T10:24:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
-      "source": "GitHub",
-      "stars": 1373,
-      "user": "yynxxxxx"
-    },
-    {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "published_at": "2026-06-30T10:55:02Z",
@@ -1753,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 745,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1768,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "jmerelnyc"
     },
     {
@@ -1787,25 +1861,40 @@
       "user": "TianhangZhuzth"
     },
     {
-      "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
-      "url": "https://github.com/Jia-Ethan/codex-keysmith",
-      "published_at": "2026-06-28T04:38:07Z",
-      "description": "Codex CLI instruction-file installer for local configuration",
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "Jia-Ethan"
+      "stars": 413,
+      "user": "asz798838958"
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "published_at": "2026-06-30T22:08:31Z",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "lingbol088-spec"
     },
     {
       "title": "How do I solve this Type-hint error in PyCharm",
       "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-in-pycharm",
       "published_at": "2026-07-04T23:01:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pycharm",
@@ -1814,18 +1903,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "How to solve 7x7 Skyscrapers puzzle in Python",
-      "url": "https://stackoverflow.com/questions/79974508/how-to-solve-7x7-skyscrapers-puzzle-in-python",
-      "published_at": "2026-07-04T20:16:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yevhen Ivashchenko"
     },
     {
       "title": "Ortho photo generation and Ortho mosaic",
@@ -1894,6 +1971,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ATHARVA JOSHI"
+    },
+    {
+      "title": "Python: How do I \"register\" a text box for accessibility purposes?",
+      "url": "https://stackoverflow.com/questions/79972815/python-how-do-i-register-a-text-box-for-accessibility-purposes",
+      "published_at": "2026-07-02T23:59:17.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "accessibility"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gridzbi Spudvetch"
     },
     {
       "title": "Troubleshooting TQL Query Performance on Large Time-Series Containers",
@@ -2048,6 +2138,21 @@
       "user": "bredmond1019"
     },
     {
+      "title": "Minimalist EKS: The Easy Way",
+      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
+      "published_at": "2026-06-26T19:56:54Z",
+      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
+      "source": "Dev.to",
+      "user": "Joaquin Menchaca"
+    },
+    {
       "title": "The Big DevOps Misunderstanding",
       "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
       "published_at": "2021-12-19T20:07:33Z",
@@ -2196,6 +2301,21 @@
       "user": "velmu"
     },
     {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 222,
+      "user": "SuperJJ007"
+    },
+    {
       "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
       "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
       "published_at": "2026-07-04T15:35:47.000Z",
@@ -2305,6 +2425,21 @@
   ],
   "Mobile": [
     {
+      "title": "I built a native Android app in an afternoon, and I've never written a line of Kotlin",
+      "url": "https://dev.to/googleai/i-built-a-native-android-app-in-an-afternoon-and-ive-never-written-a-line-of-kotlin-20d6",
+      "published_at": "2026-07-01T18:32:34Z",
+      "description": "I’ve always thought building a mobile app required climbing a massive learning curve just to get a...",
+      "tags": [
+        "ai",
+        "android",
+        "vibecoding",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "published_at": "2026-06-30T11:20:30Z",
@@ -2316,7 +2451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1285,
       "user": "mekos2772"
     },
     {
@@ -2472,6 +2607,36 @@
       "user": "xbill"
     },
     {
+      "title": "Minimalist EKS: The Easy Way",
+      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
+      "published_at": "2026-06-26T19:56:54Z",
+      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
+      "source": "Dev.to",
+      "user": "Joaquin Menchaca"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)",
       "url": "https://stackoverflow.com/questions/79972816/optimizing-batch-data-ingestion-for-high-throughput-iot-in-griddb-cloud-python",
       "published_at": "2026-07-03T00:09:41.000Z",
@@ -2533,21 +2698,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "published_at": "2026-07-01T14:34:35Z",
-      "description": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo51682p2etrai2ctozfh.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2907,6 +3057,21 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -2954,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1285,
       "user": "mekos2772"
     },
     {
@@ -2969,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 227,
       "user": "xt4d"
     },
     {
@@ -2999,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "Archive228"
     },
     {
@@ -3018,21 +3183,6 @@
       "user": "dzhng"
     },
     {
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - GitHub Repository",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "published_at": "2026-06-28T10:24:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
-      "source": "GitHub",
-      "stars": 1373,
-      "user": "yynxxxxx"
-    },
-    {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "published_at": "2026-06-30T10:55:02Z",
@@ -3044,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 745,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3059,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "jmerelnyc"
     },
     {
@@ -3078,34 +3228,34 @@
       "user": "TianhangZhuzth"
     },
     {
-      "title": "Jia-Ethan/codex-keysmith - Codex CLI instruction-file installer for local configuration",
-      "url": "https://github.com/Jia-Ethan/codex-keysmith",
-      "published_at": "2026-06-28T04:38:07Z",
-      "description": "Codex CLI instruction-file installer for local configuration",
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271507930?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "Jia-Ethan"
+      "stars": 413,
+      "user": "asz798838958"
     },
     {
-      "title": "maaslalani/fast - Internet speed test in your terminal",
-      "url": "https://github.com/maaslalani/fast",
-      "published_at": "2026-06-28T03:07:02Z",
-      "description": "Internet speed test in your terminal",
+      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "published_at": "2026-06-30T22:08:31Z",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "maaslalani"
+      "stars": 349,
+      "user": "lingbol088-spec"
     },
     {
       "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
@@ -3149,23 +3299,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "kernelstub"
     },
     {
-      "title": "aurora-develop/grok2api - GitHub Repository",
-      "url": "https://github.com/aurora-develop/grok2api",
-      "published_at": "2026-06-28T04:07:28Z",
-      "description": "Trending GitHub Repository",
+      "title": "programmersd21/flow - 🌊 see your network breathe",
+      "url": "https://github.com/programmersd21/flow",
+      "published_at": "2026-07-04T10:09:41Z",
+      "description": "🌊 see your network breathe",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/157781271?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 65,
-      "user": "aurora-develop"
+      "stars": 59,
+      "user": "programmersd21"
+    },
+    {
+      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/kutta",
+      "published_at": "2026-07-02T12:52:26Z",
+      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "source": "GitHub",
+      "stars": 52,
+      "user": "crgimenes"
     },
     {
       "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
@@ -3179,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "mistydew"
     },
     {
@@ -3194,23 +3359,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 182,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "nexxeln/talktui - presentations on the terminal",
-      "url": "https://github.com/nexxeln/talktui",
-      "published_at": "2026-06-28T11:41:24Z",
-      "description": "presentations on the terminal",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95541290?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "nexxeln"
     },
     {
       "title": "rit3zh/expo-dynamic-tray - 📚 A morphing, keyboard-aware bottom-sheet tray.",
@@ -3228,6 +3378,21 @@
       "user": "rit3zh"
     },
     {
+      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "published_at": "2026-06-29T10:49:36Z",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "oomol-lab"
+    },
+    {
       "title": "openng-foundation/open-prime - GitHub Repository",
       "url": "https://github.com/openng-foundation/open-prime",
       "published_at": "2026-06-29T17:24:18Z",
@@ -3241,6 +3406,81 @@
       "source": "GitHub",
       "stars": 132,
       "user": "openng-foundation"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 222,
+      "user": "SuperJJ007"
+    },
+    {
+      "title": "sermuns/ratatuefi - Zero-bloat Ratatui apps in UEFI",
+      "url": "https://github.com/sermuns/ratatuefi",
+      "published_at": "2026-06-29T12:19:43Z",
+      "description": "Zero-bloat Ratatui apps in UEFI",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
+      "source": "GitHub",
+      "stars": 129,
+      "user": "sermuns"
+    },
+    {
+      "title": "zerx-lab/FluxDown - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "published_at": "2026-07-03T01:00:17Z",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "zerx-lab"
+    },
+    {
+      "title": "vndangkhoa/vietc - A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
+      "url": "https://github.com/vndangkhoa/vietc",
+      "published_at": "2026-06-29T09:16:00Z",
+      "description": "A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60398697?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "vndangkhoa"
+    },
+    {
+      "title": "Tokeii0/LovelyMiscLab - 面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
+      "url": "https://github.com/Tokeii0/LovelyMiscLab",
+      "published_at": "2026-07-01T12:27:57Z",
+      "description": "面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/111427585?v=4",
+      "source": "GitHub",
+      "stars": 46,
+      "user": "Tokeii0"
     },
     {
       "title": "Better Models: Worse Tools",
