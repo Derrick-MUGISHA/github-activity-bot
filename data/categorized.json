@@ -15,6 +15,21 @@
       "user": "Matty Stratton"
     },
     {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
+    },
+    {
       "title": "Forward Deployed Engineers and the future of software engineering",
       "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll",
       "published_at": "2026-07-01T00:20:18Z",
@@ -748,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1426,
       "user": "mekos2772"
     },
     {
@@ -763,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1222,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -778,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 722,
       "user": "jmerelnyc"
     },
     {
@@ -793,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "HKUDS"
     },
     {
@@ -808,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "michaelshimeles"
     },
     {
@@ -823,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "kernelstub"
     },
     {
@@ -838,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "crgimenes"
     },
     {
@@ -853,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 719,
       "user": "synthetic-sciences"
     },
     {
@@ -868,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "lxh77721"
     },
     {
@@ -887,6 +902,18 @@
       "user": "SuperJJ007"
     },
     {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "published_at": "2026-07-06T15:15:25.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "martinald"
+    },
+    {
       "title": "Mr. Baby Paint & accidentally discovering a new cellular automata",
       "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
       "published_at": "2026-07-06T02:48:06.000-05:00",
@@ -900,10 +927,24 @@
       "user": "jmillikin"
     },
     {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "published_at": "2026-07-06T19:49:10.000Z",
+      "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "tags": [
+        "AI",
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
       "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "published_at": "2026-07-06T19:01:59.000Z",
-      "description": "The new controls let you control how quickly Siri speaks and expressive its voice is.",
+      "description": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
       "tags": [
         "AI",
         "Apps",
@@ -916,7 +957,7 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
       "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "published_at": "2026-07-06T18:35:00.000Z",
       "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -937,9 +978,9 @@
       "tags": [
         "Apps",
         "Gadgets",
-        "TC",
         "bookshop.org",
-        "ebooks"
+        "ebooks",
+        "ereaders"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -990,22 +1031,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "published_at": "2026-07-06T13:00:00.000Z",
-      "description": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "tags": [
-        "AI",
-        "Startups",
-        "f/ai",
-        "Roxanne Varza",
-        "Station F"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "How to Export a Claude Conversation as a PDF",
@@ -1274,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1426,
       "user": "mekos2772"
     },
     {
@@ -1289,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "dzhng"
     },
     {
@@ -1304,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 380,
       "user": "Archive228"
     },
     {
@@ -1334,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 239,
       "user": "majidmanzarpour"
     },
     {
@@ -1349,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2553,
       "user": "elder-plinius"
     },
     {
@@ -1364,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 719,
       "user": "synthetic-sciences"
     },
     {
@@ -1379,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "LinXiaoTao"
     },
     {
@@ -1409,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "lxh77721"
     },
     {
@@ -1424,23 +1449,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "lucid-softworks"
-    },
-    {
-      "title": "dyck word to binary",
-      "url": "https://stackoverflow.com/questions/79975159/dyck-word-to-binary",
-      "published_at": "2026-07-06T17:03:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "math",
-        "binary",
-        "parentheses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "111111111111"
     },
     {
       "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
@@ -1559,6 +1569,19 @@
       "user": "Aidan Pearson"
     },
     {
+      "title": "Java-like executor service for javascript using WebWorkers",
+      "url": "https://stackoverflow.com/questions/79962396/java-like-executor-service-for-javascript-using-webworkers",
+      "published_at": "2026-06-17T23:35:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "concurrency"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mykhaylo Adamovych"
+    },
+    {
       "title": "CEF Linux SendKeyEvent Ctrl+A produces empty DOM key/code",
       "url": "https://stackoverflow.com/questions/79928451/cef-linux-sendkeyevent-ctrla-produces-empty-dom-key-code",
       "published_at": "2026-04-19T20:14:33.000Z",
@@ -1573,20 +1596,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JacobNowitsky"
-    },
-    {
-      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
-      "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "python",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elsocrad"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1650,6 +1659,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
+    },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
@@ -1812,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1222,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1827,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 722,
       "user": "jmerelnyc"
     },
     {
@@ -1857,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "HKUDS"
     },
     {
@@ -1872,14 +1896,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "asz798838958"
+    },
+    {
+      "title": "Are semicolons in `for` loops un-pythonic?",
+      "url": "https://stackoverflow.com/questions/79975182/are-semicolons-in-for-loops-un-pythonic",
+      "published_at": "2026-07-06T18:21:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Firebowl2000"
+    },
+    {
+      "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
+      "url": "https://stackoverflow.com/questions/79975201/which-approaches-should-be-used-for-monthly-demand-forecasting-with-few-observat",
+      "published_at": "2026-07-06T19:07:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "machine-learning",
+        "data-analysis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Romulo Carneiro"
     },
     {
       "title": "How do I cut down on the complexity (O(n^3))?",
       "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
       "published_at": "2026-07-06T15:10:41.000Z",
-      "description": "Stack Overflow question · 15 answers · score 0",
+      "description": "Stack Overflow question · 16 answers · score 1",
       "tags": [
         "python",
         "optimization"
@@ -1905,7 +1956,7 @@
       "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
       "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
       "published_at": "2026-07-06T10:16:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "import",
@@ -1987,35 +2038,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "What file is actual mypy executable",
-      "url": "https://stackoverflow.com/questions/79974824/what-file-is-actual-mypy-executable",
-      "published_at": "2026-07-05T22:10:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pycharm",
-        "mypy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
-      "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "python",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elsocrad"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2391,20 +2413,6 @@
       "user": "Sophia Caspe"
     },
     {
-      "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974256/how-can-i-create-my-own-programming-language-in-python-html-css-and-javascript",
-      "published_at": "2026-07-03T21:46:46.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "python",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elsocrad"
-    },
-    {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
       "published_at": "2026-07-06T13:55:11.000Z",
@@ -2480,14 +2488,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1426,
       "user": "mekos2772"
     },
     {
       "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
       "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "published_at": "2026-07-06T19:01:59.000Z",
-      "description": "The new controls let you control how quickly Siri speaks and expressive its voice is.",
+      "description": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
       "tags": [
         "AI",
         "Apps",
@@ -2881,7 +2889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2553,
       "user": "elder-plinius"
     },
     {
@@ -2900,19 +2908,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "commanderk"
-    },
-    {
-      "title": "Web Security docs on MDN",
-      "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
-      "published_at": "2026-07-06T02:40:41.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
     },
     {
       "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
@@ -2958,6 +2953,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
     },
     {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
@@ -3213,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1426,
       "user": "mekos2772"
     },
     {
@@ -3228,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "dzhng"
     },
     {
@@ -3243,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 380,
       "user": "Archive228"
     },
     {
@@ -3273,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 239,
       "user": "majidmanzarpour"
     },
     {
@@ -3288,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1222,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3303,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 722,
       "user": "jmerelnyc"
     },
     {
@@ -3333,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "HKUDS"
     },
     {
@@ -3348,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "asz798838958"
     },
     {
@@ -3363,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "michaelshimeles"
     },
     {
@@ -3378,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "programmersd21"
     },
     {
@@ -3393,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "deviseo"
     },
     {
@@ -3408,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "kernelstub"
     },
     {
@@ -3423,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "crgimenes"
     },
     {
@@ -3438,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2553,
       "user": "elder-plinius"
     },
     {
@@ -3453,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 719,
       "user": "synthetic-sciences"
     },
     {
@@ -3468,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "LinXiaoTao"
     },
     {
@@ -3498,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "lxh77721"
     },
     {
@@ -3513,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 522,
       "user": "514-labs"
     },
     {
@@ -3528,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 411,
       "user": "MaximeRivest"
     },
     {
@@ -3543,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "yynxxxxx"
     },
     {
@@ -3573,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "lucid-softworks"
     },
     {
