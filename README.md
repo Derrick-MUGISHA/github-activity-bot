@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-06 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-06 16:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [The biggest World’s Fair yet powers down for the moment](https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca) | Dev.to |
 | 20 | [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a) | Dev.to |
 
-<sub>Last fetched: Mon, 06 Jul 2026 13:06:01 CAT</sub>
+<sub>Last fetched: Mon, 06 Jul 2026 16:38:27 CAT</sub>
 
 
 ---
@@ -122,29 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain decorators in Python with an example**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Function wrappers, @syntax, practical uses
-
-</details>
-
-**2. `Python` — Implement a context manager using __enter__ and __exit__**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> with statement, setup/teardown, exception handling
-
-</details>
-
-**3. `JavaScript` — What is the event loop and how does it work?**
+**1. `JavaScript` — What is the event loop and how does it work?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
 
@@ -152,6 +130,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Call stack, callback queue, microtask queue
+
+</details>
+
+**2. `JavaScript` — What are closures and provide a practical example?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Function + lexical environment, data privacy, callbacks
+
+</details>
+
+**3. `DataStructures` — Implement LRU Cache**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 40.8% | `████████████████████` |
-| **Tools** | 46 | 25.0% | `████████████░░░░░░░░` |
-| **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **AI** | 73 | 39.7% | `████████████████████` |
+| **Tools** | 46 | 25.0% | `█████████████░░░░░░░` |
+| **JavaScript** | 39 | 21.2% | `███████████░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,31 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8%
-Java            █████████████████████████ 23.6%
-Python          ██████████████████████ 20.1%
-Go              ████████████████████ 18.8%
-Rust            ████████ 7.6%
-Swift           ██ 1.4%
+JavaScript      ██████████████████████████████ 28.1%
+Java            █████████████████████████ 23.7%
+Python          ██████████████████████ 20.9%
+Go              ████████████████████ 18.7%
+Rust            ████████ 7.2%
 Kotlin          █ 0.7%
+Swift           █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 40
-    "Java" : 34
+    "JavaScript" : 39
+    "Java" : 33
     "Python" : 29
-    "Go" : 27
-    "Rust" : 11
-    "Swift" : 2
+    "Go" : 26
+    "Rust" : 10
     "Kotlin" : 1
+    "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-23-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-15-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-23-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-15-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 06 Jul 2026 11:06:01 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 06 Jul 2026 14:38:27 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
