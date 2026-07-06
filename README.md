@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-06 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-07 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p) | Dev.to |
 | 20 | [The biggest World’s Fair yet powers down for the moment](https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca) | Dev.to |
 
-<sub>Last fetched: Mon, 06 Jul 2026 23:11:05 CAT</sub>
+<sub>Last fetched: Tue, 07 Jul 2026 00:40:52 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What is the event loop and how does it work?**
+**1. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> try/catch, .catch(), error middleware
 
 </details>
 
-**2. `Java` — What is the difference between abstract class and interface?**
+**2. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**3. `Python` — Explain decorators in Python with an example**
+**3. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> try/catch, .catch(), error middleware
 
 </details>
 
@@ -164,8 +164,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 42.4% | `████████████████████` |
-| **Tools** | 49 | 26.6% | `█████████████░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **Tools** | 49 | 26.6% | `████████████░░░░░░░░` |
 | **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
 | **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
@@ -194,12 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.9%
-Java            ██████████████████████████ 24.3%
-Python          ███████████████████████ 21.4%
-Go              ████████████████████ 18.6%
-Rust            ██████ 5.7%
-Swift           ██ 1.4%
+JavaScript      ██████████████████████████████ 28.1%
+Java            █████████████████████████ 23.7%
+Python          ███████████████████████ 21.6%
+Go              ████████████████████ 18.7%
+Rust            ██████ 5.8%
+Swift           █ 1.4%
 Kotlin          █ 0.7%
 
 ```
@@ -207,7 +207,7 @@ Kotlin          █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 39
-    "Java" : 34
+    "Java" : 33
     "Python" : 30
     "Go" : 26
     "Rust" : 8
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-48-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-19-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-49-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-19-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 06 Jul 2026 21:11:05 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 06 Jul 2026 22:40:52 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
