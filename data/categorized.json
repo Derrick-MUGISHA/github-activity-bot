@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
+      "published_at": "2026-07-06T01:17:28Z",
+      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.",
+      "tags": [
+        "astro",
+        "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
+    },
+    {
       "title": "Forward Deployed Engineers and the future of software engineering",
       "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll",
       "published_at": "2026-07-01T00:20:18Z",
@@ -14,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21FQL_%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
       "source": "Dev.to",
       "user": "Richard MacManus"
+    },
+    {
+      "title": "Omni Flash Preview with Codex",
+      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
+      "published_at": "2026-07-05T02:28:00Z",
+      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "tags": [
+        "omniflash",
+        "xcode",
+        "aivideogenerator",
+        "mcpserver"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Letting the DEV Community Weigh in on the Topics of AIE",
@@ -60,6 +89,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
+      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
+      "published_at": "2026-07-06T01:27:27Z",
+      "description": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
+      "source": "Dev.to",
+      "user": "Ibtissem Hattab"
+    },
+    {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
       "published_at": "2026-06-29T16:06:30Z",
@@ -74,31 +118,19 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "The AI Engineer World’s Fair Spreads Globally",
-      "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h",
-      "published_at": "2026-06-29T16:05:03Z",
-      "description": "It has been less than three years since Shawn \"swyx\" Wang coined the term AI engineer in an open...",
+      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
+      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
+      "published_at": "2026-07-05T11:00:46Z",
+      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
       "tags": [
         "ai",
-        "aie"
+        "claude",
+        "programming",
+        "softwaredevelopment"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4e400hnnpsuuj39fylo3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
       "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "What to Expect at the AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g",
-      "published_at": "2026-06-29T16:05:26Z",
-      "description": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
-      "tags": [
-        "ai",
-        "aie",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fue6odvwtfzza3hg4o8kz.jpg",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
+      "user": "Evan Lin"
     },
     {
       "title": "What's Next for AI?",
@@ -416,20 +448,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
       "url": "https://dev.to/dailycontext/the-conspiracy-big-software-engineering-doesnt-want-you-to-know-5299",
       "published_at": "2026-07-03T14:38:37Z",
@@ -445,18 +463,18 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "Let Us Be Free",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "published_at": "2026-07-02T15:55:55Z",
-      "description": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
       "tags": [
         "aie",
         "ai",
-        "opensource"
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32my4e0j9w3p7t2v7th.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
-      "user": "John McBride"
+      "user": "Ryan Palo"
     },
     {
       "title": "For AI coding, the kids are alright",
@@ -561,21 +579,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
       "source": "Dev.to",
       "user": "Martin Stark"
-    },
-    {
-      "title": "Optimizing for Agents with llms.txt",
-      "url": "https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0",
-      "published_at": "2026-07-01T14:14:25Z",
-      "description": "If you’ve spent any time poking around the AIE World’s Fair 2026 website, you may have come across...",
-      "tags": [
-        "aie",
-        "agents",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -745,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1419,
       "user": "mekos2772"
     },
     {
@@ -760,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1202,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -790,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "HKUDS"
     },
     {
@@ -805,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 127,
       "user": "michaelshimeles"
     },
     {
@@ -820,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "kernelstub"
     },
     {
@@ -835,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "crgimenes"
     },
     {
@@ -850,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 651,
       "user": "synthetic-sciences"
     },
     {
@@ -865,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 283,
       "user": "lxh77721"
     },
     {
@@ -880,8 +883,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "Mr. Baby Paint & accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "published_at": "2026-07-06T02:48:06.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "design",
+        "graphics"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jmillikin"
+    },
+    {
+      "title": "If you use Google, you&#8217;re training its AI. Here&#8217;s how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "published_at": "2026-07-06T17:04:58.000Z",
+      "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "tags": [
+        "AI",
+        "Google",
+        "Google Search",
+        "psa"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "published_at": "2026-07-06T15:32:43.000Z",
+      "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Microsoft",
+        "tech layoffs",
+        "xbox"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "published_at": "2026-07-06T15:22:08.000Z",
+      "description": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "tags": [
+        "Social",
+        "AI",
+        "Reddit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
@@ -914,52 +975,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "published_at": "2026-07-05T17:43:36.000Z",
-      "description": "These may be the last days of Amazon’s Mechanical Turk.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "Amazon",
-        "Amazon Web Services",
-        "mechanical turk"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that&#8217;s now public",
-      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "published_at": "2026-07-05T13:33:32.000Z",
-      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
-      "tags": [
-        "Venture",
-        "AOL",
-        "Bending Spoons",
-        "evergreens",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
-      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "published_at": "2026-07-05T12:47:39.000Z",
-      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "unicorns"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Top AI Productivity Tools for Developers and Professionals",
@@ -1226,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1419,
       "user": "mekos2772"
     },
     {
@@ -1241,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 420,
       "user": "dzhng"
     },
     {
@@ -1256,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 375,
       "user": "Archive228"
     },
     {
@@ -1271,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "xt4d"
     },
     {
@@ -1286,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 221,
       "user": "majidmanzarpour"
     },
     {
@@ -1301,23 +1316,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2431,
       "user": "elder-plinius"
-    },
-    {
-      "title": "LinXiaoTao/FuckClaude - GitHub Repository",
-      "url": "https://github.com/LinXiaoTao/FuckClaude",
-      "published_at": "2026-07-02T05:36:45Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
-      "source": "GitHub",
-      "stars": 588,
-      "user": "LinXiaoTao"
     },
     {
       "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
@@ -1331,8 +1331,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 651,
       "user": "synthetic-sciences"
+    },
+    {
+      "title": "LinXiaoTao/FuckClaude - GitHub Repository",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "published_at": "2026-07-02T05:36:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
+      "source": "GitHub",
+      "stars": 591,
+      "user": "LinXiaoTao"
     },
     {
       "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
@@ -1361,14 +1376,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 283,
       "user": "lxh77721"
+    },
+    {
+      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "url": "https://github.com/lucid-softworks/lumen",
+      "published_at": "2026-07-05T10:24:00Z",
+      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "lucid-softworks"
+    },
+    {
+      "title": "dyck word to binary",
+      "url": "https://stackoverflow.com/questions/79975159/dyck-word-to-binary",
+      "published_at": "2026-07-06T17:03:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "math",
+        "binary",
+        "parentheses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "111111111111"
     },
     {
       "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 9 answers · score 2",
+      "description": "Stack Overflow question · 10 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1379,18 +1424,16 @@
       "user": "aaron"
     },
     {
-      "title": "dyck word to binary",
-      "url": "https://stackoverflow.com/questions/79974828/dyck-word-to-binary",
-      "published_at": "2026-07-05T22:37:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "Sorting div-table without jQuery",
+      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
+      "published_at": "2026-07-05T01:05:30.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
-        "javascript",
-        "math",
-        "parentheses"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "111111111111"
+      "user": "SoranDK"
     },
     {
       "title": "How to make infinite draggable background using CSS and JavaScript",
@@ -1421,18 +1464,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SkiperTheBoss"
-    },
-    {
-      "title": "Sorting div-table without jQuery",
-      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
-      "published_at": "2026-07-05T01:05:30.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SoranDK"
     },
     {
       "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
@@ -1494,19 +1525,18 @@
       "user": "fatima hero"
     },
     {
-      "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
-      "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
-      "published_at": "2026-07-04T15:35:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
-        "node.js",
-        "typescript",
-        "nuxt.js"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Caio Vinicius"
+      "user": "Aidan Pearson"
     },
     {
       "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
@@ -1747,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1202,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1781,21 +1811,6 @@
       "user": "TianhangZhuzth"
     },
     {
-      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "published_at": "2026-07-02T03:47:34Z",
-      "description": "多线程全自动注册free 强上K12空间",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
-      "source": "GitHub",
-      "stars": 478,
-      "user": "asz798838958"
-    },
-    {
       "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "url": "https://github.com/HKUDS/OpenOPC",
       "published_at": "2026-07-01T10:17:37Z",
@@ -1807,27 +1822,55 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "HKUDS"
     },
     {
-      "title": "How to create graphs using pyspark?",
-      "url": "https://stackoverflow.com/questions/79975063/how-to-create-graphs-using-pyspark",
-      "published_at": "2026-07-06T14:00:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
       "tags": [
         "python",
-        "pyspark"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "asz798838958"
+    },
+    {
+      "title": "How do I cut down on the complexity (O(n^3))?",
+      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
+      "published_at": "2026-07-06T15:10:41.000Z",
+      "description": "Stack Overflow question · 10 answers · score 0",
+      "tags": [
+        "python",
+        "optimization"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user32910042"
+      "user": "Ayaan Shaheen"
+    },
+    {
+      "title": "Font family not applying",
+      "url": "https://stackoverflow.com/questions/79975094/font-family-not-applying",
+      "published_at": "2026-07-06T14:48:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "gtk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anarg__"
     },
     {
       "title": "XOR decryption produces wrong output when reading from file in Python",
       "url": "https://stackoverflow.com/questions/79975045/xor-decryption-produces-wrong-output-when-reading-from-file-in-python",
       "published_at": "2026-07-06T13:14:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "xor"
@@ -1835,6 +1878,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "phantom_403"
+    },
+    {
+      "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
+      "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
+      "published_at": "2026-07-06T10:16:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "import",
+        "python-3.8",
+        "python-3.9",
+        "mujoco"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xingrui Zhuang"
     },
     {
       "title": "Looking for best Python Libraries for Network Automation",
@@ -1849,22 +1908,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mansi_Tibude"
-    },
-    {
-      "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
-      "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
-      "published_at": "2026-07-06T10:16:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "import",
-        "python-3.8",
-        "python-3.9",
-        "mujoco"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xingrui Zhuang"
     },
     {
       "title": "how to refer to class methods in a class variable being a call table list",
@@ -1938,20 +1981,6 @@
       "user": "NickC"
     },
     {
-      "title": "No module named 'pkg_resources' error while i run ydata_profiling code in jupyter notebook",
-      "url": "https://stackoverflow.com/questions/79974729/no-module-named-pkg-resources-error-while-i-run-ydata-profiling-code-in-jupyte",
-      "published_at": "2026-07-05T16:28:47.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "eda",
-        "data-profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "muhammad mueez"
-    },
-    {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
       "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
       "published_at": "2026-07-02T23:21:11.000Z",
@@ -1984,21 +2013,6 @@
   ],
   "DevOps": [
     {
-      "title": "Protect Yourself, Mesh Yourself",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
-      "published_at": "2026-07-03T13:45:00Z",
-      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
-      "tags": [
-        "tutorial",
-        "productivity",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
-      "source": "Dev.to",
-      "user": "Elliott"
-    },
-    {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
       "published_at": "2026-07-02T15:00:21Z",
@@ -2012,6 +2026,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
+      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
+      "published_at": "2026-07-06T01:27:27Z",
+      "description": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
+      "source": "Dev.to",
+      "user": "Ibtissem Hattab"
     },
     {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
@@ -2234,14 +2263,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "SuperJJ007"
     },
     {
       "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 9 answers · score 2",
+      "description": "Stack Overflow question · 10 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2296,19 +2325,18 @@
       "user": "fatima hero"
     },
     {
-      "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
-      "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
-      "published_at": "2026-07-04T15:35:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
-        "node.js",
-        "typescript",
-        "nuxt.js"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Caio Vinicius"
+      "user": "Aidan Pearson"
     },
     {
       "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
@@ -2402,7 +2430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1419,
       "user": "mekos2772"
     }
   ],
@@ -2788,7 +2816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2431,
       "user": "elder-plinius"
     },
     {
@@ -2822,6 +2850,22 @@
       "user": "freddyb"
     },
     {
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
+      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+      "published_at": "2026-07-06T14:43:59.000Z",
+      "description": "The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
+      "tags": [
+        "Security",
+        "Canada",
+        "cyberattack",
+        "cybersecurity",
+        "ransomware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
       "url": "https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/",
       "published_at": "2026-07-01T17:05:56.000Z",
@@ -2839,19 +2883,18 @@
   ],
   "Tools": [
     {
-      "title": "Protect Yourself, Mesh Yourself",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
-      "published_at": "2026-07-03T13:45:00Z",
-      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
+      "published_at": "2026-07-06T01:17:28Z",
+      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.",
       "tags": [
-        "tutorial",
-        "productivity",
-        "opensource",
-        "devops"
+        "astro",
+        "webdev",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
       "source": "Dev.to",
-      "user": "Elliott"
+      "user": "Matty Stratton"
     },
     {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
@@ -2867,6 +2910,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
+      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
+      "published_at": "2026-07-06T01:27:27Z",
+      "description": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
+      "source": "Dev.to",
+      "user": "Ibtissem Hattab"
+    },
+    {
+      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
+      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
+      "published_at": "2026-07-05T11:00:46Z",
+      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
+      "tags": [
+        "ai",
+        "claude",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3077,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1419,
       "user": "mekos2772"
     },
     {
@@ -3092,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 420,
       "user": "dzhng"
     },
     {
@@ -3107,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 375,
       "user": "Archive228"
     },
     {
@@ -3122,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "xt4d"
     },
     {
@@ -3137,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 221,
       "user": "majidmanzarpour"
     },
     {
@@ -3152,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1202,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3186,21 +3259,6 @@
       "user": "TianhangZhuzth"
     },
     {
-      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "published_at": "2026-07-02T03:47:34Z",
-      "description": "多线程全自动注册free 强上K12空间",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
-      "source": "GitHub",
-      "stars": 478,
-      "user": "asz798838958"
-    },
-    {
       "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "url": "https://github.com/HKUDS/OpenOPC",
       "published_at": "2026-07-01T10:17:37Z",
@@ -3212,8 +3270,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "HKUDS"
+    },
+    {
+      "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "published_at": "2026-07-02T03:47:34Z",
+      "description": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "asz798838958"
     },
     {
       "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
@@ -3227,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 127,
       "user": "michaelshimeles"
     },
     {
@@ -3242,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 119,
       "user": "programmersd21"
     },
     {
@@ -3257,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "deviseo"
     },
     {
@@ -3272,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "kernelstub"
     },
     {
@@ -3287,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "crgimenes"
     },
     {
@@ -3302,23 +3375,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2431,
       "user": "elder-plinius"
-    },
-    {
-      "title": "LinXiaoTao/FuckClaude - GitHub Repository",
-      "url": "https://github.com/LinXiaoTao/FuckClaude",
-      "published_at": "2026-07-02T05:36:45Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
-      "source": "GitHub",
-      "stars": 588,
-      "user": "LinXiaoTao"
     },
     {
       "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
@@ -3332,8 +3390,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 651,
       "user": "synthetic-sciences"
+    },
+    {
+      "title": "LinXiaoTao/FuckClaude - GitHub Repository",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "published_at": "2026-07-02T05:36:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
+      "source": "GitHub",
+      "stars": 591,
+      "user": "LinXiaoTao"
     },
     {
       "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
@@ -3362,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 283,
       "user": "lxh77721"
     },
     {
@@ -3377,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 494,
       "user": "514-labs"
     },
     {
@@ -3392,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 366,
       "user": "yynxxxxx"
     },
     {
@@ -3407,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 358,
       "user": "MaximeRivest"
     },
     {
@@ -3422,23 +3495,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "SuperJJ007"
     },
     {
-      "title": "zerx-lab/FluxDown - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "published_at": "2026-07-03T01:00:17Z",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "url": "https://github.com/lucid-softworks/lumen",
+      "published_at": "2026-07-05T10:24:00Z",
+      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 136,
-      "user": "zerx-lab"
+      "stars": 142,
+      "user": "lucid-softworks"
+    },
+    {
+      "title": "Caught a .git/config crawler",
+      "url": "https://bruceediger.com/posts/git-config-spider/",
+      "published_at": "2026-07-06T07:53:15.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
     },
     {
       "title": "Top AI Productivity Tools for Developers and Professionals",
