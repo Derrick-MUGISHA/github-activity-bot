@@ -16,48 +16,18 @@
       "user": "Richard MacManus"
     },
     {
-      "title": "These Founders Skipped Graduation To Be Here",
-      "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d",
-      "published_at": "2026-07-02T14:55:58Z",
-      "description": "When we met James Yang and Anish Paleja on Monday morning, The Daily Context team simply thought,...",
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "published_at": "2026-07-02T15:24:12Z",
+      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
       "tags": [
         "aie",
         "ai",
-        "learning"
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdczn91hn73n6jhccpbr1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
       "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
-      "title": "Play today’s game from Issue #2 of The Daily Context!",
-      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
-      "published_at": "2026-06-30T22:10:45Z",
-      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
-      "tags": [
-        "aie",
-        "ai",
-        "gamedev",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yd4b5qtx8fx54ltkkvl.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse",
-      "url": "https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh",
-      "published_at": "2026-07-02T15:34:59Z",
-      "description": "By Hiral Shah, Senior Director, Product Management, Docusign  A major recurring theme among the...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "nvidia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6dbj9wqgfjhwlcxld01.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
+      "user": "Ben Halpern"
     },
     {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
@@ -89,34 +59,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
-      "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47",
-      "published_at": "2026-06-30T15:08:52Z",
-      "description": "On Sunday night, the sold-out 2026 AI Engineer World's Fair kicked off its orientation at Moscone...",
-      "tags": [
-        "aie",
-        "ai",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5cg95iics9f523h1g0z4.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
-      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
-      "published_at": "2026-07-02T15:24:12Z",
-      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
-      "tags": [
-        "aie",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -130,20 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -756,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1347,
       "user": "mekos2772"
     },
     {
@@ -771,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1045,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -786,23 +714,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 687,
       "user": "jmerelnyc"
     },
     {
-      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "published_at": "2026-06-30T22:08:31Z",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "url": "https://github.com/HKUDS/OpenOPC",
+      "published_at": "2026-07-01T10:17:37Z",
+      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 390,
-      "user": "lingbol088-spec"
+      "stars": 414,
+      "user": "HKUDS"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -816,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "kernelstub"
     },
     {
@@ -831,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 96,
       "user": "michaelshimeles"
     },
     {
@@ -846,8 +774,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 64,
       "user": "crgimenes"
+    },
+    {
+      "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "published_at": "2026-07-03T15:06:45Z",
+      "description": "The open-source AI workbench for scientific research",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "synthetic-sciences"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -861,23 +804,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 216,
       "user": "lxh77721"
-    },
-    {
-      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "url": "https://github.com/ai4s-research/open-science",
-      "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "ai4s-research"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -891,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 264,
       "user": "SuperJJ007"
     },
     {
@@ -1016,22 +944,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "published_at": "2026-07-04T15:51:32.000Z",
-      "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "tags": [
-        "AI",
-        "Startups",
-        "evergreens",
-        "mistral",
-        "Mistral AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "Top AI Productivity Tools for Developers and Professionals",
@@ -1254,7 +1166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1347,
       "user": "mekos2772"
     },
     {
@@ -1269,7 +1181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 354,
       "user": "dzhng"
     },
     {
@@ -1284,7 +1196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 331,
       "user": "Archive228"
     },
     {
@@ -1299,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 302,
       "user": "xt4d"
     },
     {
@@ -1314,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 135,
       "user": "texel-org"
     },
     {
@@ -1329,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1884,
       "user": "elder-plinius"
     },
     {
@@ -1344,23 +1256,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 552,
       "user": "LinXiaoTao"
     },
     {
-      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
-      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
-      "published_at": "2026-06-30T00:41:56Z",
-      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "published_at": "2026-07-03T15:06:45Z",
+      "description": "The open-source AI workbench for scientific research",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 209,
-      "user": "mistydew"
+      "stars": 249,
+      "user": "synthetic-sciences"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -1374,44 +1286,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 216,
       "user": "lxh77721"
     },
     {
-      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "url": "https://github.com/ai4s-research/open-science",
-      "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
+      "published_at": "2026-06-30T00:41:56Z",
+      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 146,
-      "user": "ai4s-research"
-    },
-    {
-      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "url": "https://github.com/lucid-softworks/lumen",
-      "published_at": "2026-07-05T10:24:00Z",
-      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
-      "source": "GitHub",
-      "stars": 67,
-      "user": "lucid-softworks"
+      "stars": 215,
+      "user": "mistydew"
     },
     {
       "title": "dyck word to binary",
       "url": "https://stackoverflow.com/questions/79974828/dyck-word-to-binary",
       "published_at": "2026-07-05T22:37:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "math",
@@ -1425,7 +1322,7 @@
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1806,7 +1703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1045,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1821,7 +1718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 687,
       "user": "jmerelnyc"
     },
     {
@@ -1836,7 +1733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 525,
       "user": "TianhangZhuzth"
     },
     {
@@ -1851,29 +1748,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 456,
       "user": "asz798838958"
     },
     {
-      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "published_at": "2026-06-30T22:08:31Z",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "url": "https://github.com/HKUDS/OpenOPC",
+      "published_at": "2026-07-01T10:17:37Z",
+      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 390,
-      "user": "lingbol088-spec"
+      "stars": 414,
+      "user": "HKUDS"
+    },
+    {
+      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Sserver?",
+      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-sserv",
+      "published_at": "2026-07-06T04:01:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "webserver",
+        "bottle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sophia Caspe"
     },
     {
       "title": "What file is actual mypy executable",
       "url": "https://stackoverflow.com/questions/79974824/what-file-is-actual-mypy-executable",
       "published_at": "2026-07-05T22:10:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "python-3.x",
@@ -1929,7 +1841,7 @@
       "title": "Python Tkinter button for loop address each one",
       "url": "https://stackoverflow.com/questions/79974681/python-tkinter-button-for-loop-address-each-one",
       "published_at": "2026-07-05T13:35:44.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "tkinter"
@@ -1993,19 +1905,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Frank Mathews"
-    },
-    {
-      "title": "Python: How do I \"register\" a text box for accessibility purposes?",
-      "url": "https://stackoverflow.com/questions/79972815/python-how-do-i-register-a-text-box-for-accessibility-purposes",
-      "published_at": "2026-07-02T23:59:17.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "accessibility"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gridzbi Spudvetch"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2305,14 +2204,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 264,
       "user": "SuperJJ007"
     },
     {
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2366,6 +2265,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "fatima hero"
+    },
+    {
+      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Sserver?",
+      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-sserv",
+      "published_at": "2026-07-06T04:01:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "webserver",
+        "bottle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sophia Caspe"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
@@ -2458,7 +2372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1347,
       "user": "mekos2772"
     },
     {
@@ -2860,7 +2774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1884,
       "user": "elder-plinius"
     },
     {
@@ -2924,20 +2838,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3134,7 +3034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1347,
       "user": "mekos2772"
     },
     {
@@ -3149,7 +3049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 354,
       "user": "dzhng"
     },
     {
@@ -3164,7 +3064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 331,
       "user": "Archive228"
     },
     {
@@ -3179,7 +3079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 302,
       "user": "xt4d"
     },
     {
@@ -3194,7 +3094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 135,
       "user": "texel-org"
     },
     {
@@ -3209,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1045,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3224,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 687,
       "user": "jmerelnyc"
     },
     {
@@ -3239,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 525,
       "user": "TianhangZhuzth"
     },
     {
@@ -3254,23 +3154,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 456,
       "user": "asz798838958"
     },
     {
-      "title": "lingbol088-spec/reverse-flow-skill - 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "published_at": "2026-06-30T22:08:31Z",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "url": "https://github.com/HKUDS/OpenOPC",
+      "published_at": "2026-07-01T10:17:37Z",
+      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 390,
-      "user": "lingbol088-spec"
+      "stars": 414,
+      "user": "HKUDS"
     },
     {
       "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
@@ -3284,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 108,
       "user": "deviseo"
     },
     {
@@ -3299,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "kernelstub"
     },
     {
@@ -3314,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 98,
       "user": "programmersd21"
     },
     {
@@ -3329,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 96,
       "user": "michaelshimeles"
     },
     {
@@ -3344,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 64,
       "user": "crgimenes"
     },
     {
@@ -3359,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1884,
       "user": "elder-plinius"
     },
     {
@@ -3374,23 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 552,
       "user": "LinXiaoTao"
     },
     {
-      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
-      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
-      "published_at": "2026-06-30T00:41:56Z",
-      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "published_at": "2026-07-03T15:06:45Z",
+      "description": "The open-source AI workbench for scientific research",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 209,
-      "user": "mistydew"
+      "stars": 249,
+      "user": "synthetic-sciences"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -3404,23 +3304,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 216,
       "user": "lxh77721"
     },
     {
-      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "url": "https://github.com/ai4s-research/open-science",
-      "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
+      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
+      "published_at": "2026-06-30T00:41:56Z",
+      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 146,
-      "user": "ai4s-research"
+      "stars": 215,
+      "user": "mistydew"
     },
     {
       "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
@@ -3434,23 +3334,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 320,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "SuperJJ007"
     },
     {
       "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
@@ -3464,8 +3349,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 268,
       "user": "514-labs"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 264,
+      "user": "SuperJJ007"
+    },
+    {
+      "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "published_at": "2026-07-05T15:48:08Z",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
+      "source": "GitHub",
+      "stars": 170,
+      "user": "MaximeRivest"
     },
     {
       "title": "zerx-lab/FluxDown - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
@@ -3479,23 +3394,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 125,
       "user": "zerx-lab"
-    },
-    {
-      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "url": "https://github.com/lucid-softworks/lumen",
-      "published_at": "2026-07-05T10:24:00Z",
-      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
-      "source": "GitHub",
-      "stars": 67,
-      "user": "lucid-softworks"
     },
     {
       "title": "Better Models: Worse Tools",
