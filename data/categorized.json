@@ -756,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1325,
       "user": "mekos2772"
     },
     {
@@ -771,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 973,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 677,
       "user": "jmerelnyc"
     },
     {
@@ -801,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "lingbol088-spec"
     },
     {
@@ -816,38 +816,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "kernelstub"
     },
     {
-      "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
-      "url": "https://github.com/0xMassi/pocketdev",
-      "published_at": "2026-06-29T14:03:44Z",
-      "description": "One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
+      "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "url": "https://github.com/michaelshimeles/boring-computers",
+      "published_at": "2026-06-30T04:25:16Z",
+      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 92,
-      "user": "0xMassi"
+      "stars": 78,
+      "user": "michaelshimeles"
     },
     {
-      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "url": "https://github.com/oomol-lab/open-connector",
-      "published_at": "2026-06-29T10:49:36Z",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/kutta",
+      "published_at": "2026-07-02T12:52:26Z",
+      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 231,
-      "user": "oomol-lab"
+      "stars": 62,
+      "user": "crgimenes"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -861,8 +861,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 180,
       "user": "lxh77721"
+    },
+    {
+      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "url": "https://github.com/ai4s-research/open-science",
+      "published_at": "2026-07-03T09:22:31Z",
+      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "ai4s-research"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -876,7 +891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "SuperJJ007"
     },
     {
@@ -1239,23 +1254,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1325,
       "user": "mekos2772"
-    },
-    {
-      "title": "Archive228/loopkit - 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "url": "https://github.com/Archive228/loopkit",
-      "published_at": "2026-06-30T08:46:55Z",
-      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "Archive228"
     },
     {
       "title": "dzhng/skills - GitHub Repository",
@@ -1269,8 +1269,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 318,
       "user": "dzhng"
+    },
+    {
+      "title": "Archive228/loopkit - 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "url": "https://github.com/Archive228/loopkit",
+      "published_at": "2026-06-30T08:46:55Z",
+      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
+      "source": "GitHub",
+      "stars": 313,
+      "user": "Archive228"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1288,19 +1303,19 @@
       "user": "xt4d"
     },
     {
-      "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
-      "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
-      "published_at": "2026-06-29T13:43:25Z",
-      "description": "A local Windows dashboard for Claude Code and Codex usage limits.",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 160,
-      "user": "frankchiu-dev"
+      "stars": 129,
+      "user": "texel-org"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1314,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1614,
+      "stars": 1686,
       "user": "elder-plinius"
     },
     {
@@ -1329,23 +1344,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 506,
       "user": "LinXiaoTao"
-    },
-    {
-      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "url": "https://github.com/oomol-lab/open-connector",
-      "published_at": "2026-06-29T10:49:36Z",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "oomol-lab"
     },
     {
       "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "mistydew"
     },
     {
@@ -1374,8 +1374,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 180,
       "user": "lxh77721"
+    },
+    {
+      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "url": "https://github.com/ai4s-research/open-science",
+      "published_at": "2026-07-03T09:22:31Z",
+      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "ai4s-research"
+    },
+    {
+      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "url": "https://github.com/lucid-softworks/lumen",
+      "published_at": "2026-07-05T10:24:00Z",
+      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
+      "source": "GitHub",
+      "stars": 67,
+      "user": "lucid-softworks"
     },
     {
       "title": "dyck word to binary",
@@ -1395,7 +1425,7 @@
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1776,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 973,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1791,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 677,
       "user": "jmerelnyc"
     },
     {
@@ -1821,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "asz798838958"
     },
     {
@@ -1836,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "lingbol088-spec"
     },
     {
@@ -2275,14 +2305,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "SuperJJ007"
     },
     {
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2428,7 +2458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1325,
       "user": "mekos2772"
     },
     {
@@ -2830,7 +2860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1614,
+      "stars": 1686,
       "user": "elder-plinius"
     },
     {
@@ -3104,23 +3134,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1325,
       "user": "mekos2772"
-    },
-    {
-      "title": "Archive228/loopkit - 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "url": "https://github.com/Archive228/loopkit",
-      "published_at": "2026-06-30T08:46:55Z",
-      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "Archive228"
     },
     {
       "title": "dzhng/skills - GitHub Repository",
@@ -3134,8 +3149,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 318,
       "user": "dzhng"
+    },
+    {
+      "title": "Archive228/loopkit - 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "url": "https://github.com/Archive228/loopkit",
+      "published_at": "2026-06-30T08:46:55Z",
+      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
+      "source": "GitHub",
+      "stars": 313,
+      "user": "Archive228"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -3153,19 +3183,19 @@
       "user": "xt4d"
     },
     {
-      "title": "frankchiu-dev/claude-codex-usage-dashboard - A local Windows dashboard for Claude Code and Codex usage limits.",
-      "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
-      "published_at": "2026-06-29T13:43:25Z",
-      "description": "A local Windows dashboard for Claude Code and Codex usage limits.",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297559850?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 160,
-      "user": "frankchiu-dev"
+      "stars": 129,
+      "user": "texel-org"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
@@ -3179,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 973,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3194,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 677,
       "user": "jmerelnyc"
     },
     {
@@ -3224,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "asz798838958"
     },
     {
@@ -3239,38 +3269,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "lingbol088-spec"
-    },
-    {
-      "title": "kdsuomi/cc-simplerouter - Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
-      "url": "https://github.com/kdsuomi/cc-simplerouter",
-      "published_at": "2026-06-29T02:22:12Z",
-      "description": "Install and setup in 26 seconds. Simplerouter configures Claude Code to use any compatible OpenRouter model in seconds, WITHOUT manual editing of config files, environment variables, or messing with local webservers/webUIs. It also doesn't overwrite your existing Claude Code subscription sign-in!",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129815542?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "kdsuomi"
-    },
-    {
-      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "url": "https://github.com/kernelstub/Nox",
-      "published_at": "2026-07-02T20:05:34Z",
-      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 97,
-      "user": "kernelstub"
     },
     {
       "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
@@ -3284,23 +3284,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 99,
       "user": "deviseo"
     },
     {
-      "title": "0xMassi/pocketdev - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
-      "url": "https://github.com/0xMassi/pocketdev",
-      "published_at": "2026-06-29T14:03:44Z",
-      "description": "One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88933932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 92,
-      "user": "0xMassi"
+      "stars": 98,
+      "user": "kernelstub"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3314,8 +3314,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 94,
       "user": "programmersd21"
+    },
+    {
+      "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "url": "https://github.com/michaelshimeles/boring-computers",
+      "published_at": "2026-06-30T04:25:16Z",
+      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "michaelshimeles"
+    },
+    {
+      "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "url": "https://github.com/crgimenes/kutta",
+      "published_at": "2026-07-02T12:52:26Z",
+      "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
+      "source": "GitHub",
+      "stars": 62,
+      "user": "crgimenes"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -3329,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1614,
+      "stars": 1686,
       "user": "elder-plinius"
     },
     {
@@ -3344,23 +3374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 506,
       "user": "LinXiaoTao"
-    },
-    {
-      "title": "oomol-lab/open-connector - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "url": "https://github.com/oomol-lab/open-connector",
-      "published_at": "2026-06-29T10:49:36Z",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146153906?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "oomol-lab"
     },
     {
       "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
@@ -3374,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "mistydew"
     },
     {
@@ -3389,8 +3404,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 180,
       "user": "lxh77721"
+    },
+    {
+      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "url": "https://github.com/ai4s-research/open-science",
+      "published_at": "2026-07-03T09:22:31Z",
+      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "ai4s-research"
     },
     {
       "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
@@ -3404,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 303,
       "user": "yynxxxxx"
     },
     {
@@ -3419,23 +3449,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "SuperJJ007"
-    },
-    {
-      "title": "sermuns/ratatuefi - Zero-bloat Ratatui apps in UEFI",
-      "url": "https://github.com/sermuns/ratatuefi",
-      "published_at": "2026-06-29T12:19:43Z",
-      "description": "Zero-bloat Ratatui apps in UEFI",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30374440?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "sermuns"
     },
     {
       "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
@@ -3449,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 163,
       "user": "514-labs"
     },
     {
@@ -3464,8 +3479,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "zerx-lab"
+    },
+    {
+      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "url": "https://github.com/lucid-softworks/lumen",
+      "published_at": "2026-07-05T10:24:00Z",
+      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
+      "source": "GitHub",
+      "stars": 67,
+      "user": "lucid-softworks"
     },
     {
       "title": "Better Models: Worse Tools",
