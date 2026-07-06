@@ -75,21 +75,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
       "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
       "published_at": "2026-07-06T01:27:27Z",
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1432,
       "user": "mekos2772"
     },
     {
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1240,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "HKUDS"
     },
     {
@@ -823,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "michaelshimeles"
     },
     {
@@ -868,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 758,
       "user": "synthetic-sciences"
     },
     {
@@ -883,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "lxh77721"
     },
     {
@@ -900,6 +885,21 @@
       "source": "GitHub",
       "stars": 284,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "url": "https://github.com/can1357/pon",
+      "published_at": "2026-07-02T16:44:07Z",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "can1357"
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
@@ -925,6 +925,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jmillikin"
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "published_at": "2026-07-06T23:21:03.000Z",
+      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multi-billion dollar US IPO, expected to take place on Friday.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "TC",
+        "memory",
+        "RAM"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
@@ -1313,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1432,
       "user": "mekos2772"
     },
     {
@@ -1328,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 459,
       "user": "dzhng"
     },
     {
@@ -1343,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Archive228"
     },
     {
@@ -1358,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "xt4d"
     },
     {
@@ -1373,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "majidmanzarpour"
     },
     {
@@ -1388,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2589,
+      "stars": 2617,
       "user": "elder-plinius"
     },
     {
@@ -1403,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 758,
       "user": "synthetic-sciences"
     },
     {
@@ -1448,23 +1464,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "lxh77721"
-    },
-    {
-      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "url": "https://github.com/lucid-softworks/lumen",
-      "published_at": "2026-07-05T10:24:00Z",
-      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "lucid-softworks"
     },
     {
       "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
@@ -1477,147 +1478,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "RaphGL"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 11 answers · score 5",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
-      "title": "Sorting div-table without jQuery",
-      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
-      "published_at": "2026-07-05T01:05:30.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SoranDK"
-    },
-    {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
-    },
-    {
-      "title": "node spawn trouble with doing a graceful shutdown",
-      "url": "https://stackoverflow.com/questions/79974632/node-spawn-trouble-with-doing-a-graceful-shutdown",
-      "published_at": "2026-07-05T09:26:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "windows",
-        "spawn",
-        "sigint"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SkiperTheBoss"
-    },
-    {
-      "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
-      "url": "https://stackoverflow.com/questions/79974651/how-to-run-both-api-and-web-with-arrow-keys-to-change-command-prompt-to-api-web",
-      "published_at": "2026-07-05T11:01:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "typescript",
-        "next.js",
-        "nestjs",
-        "turborepo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soham Chavan "
-    },
-    {
-      "title": "React best way to use voiceMode",
-      "url": "https://stackoverflow.com/questions/79974238/react-best-way-to-use-voicemode",
-      "published_at": "2026-07-03T20:23:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "coding for good"
-    },
-    {
-      "title": "What are the best practices for getting helpful answers on a new post?",
-      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
-      "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs",
-        "typescript",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamed Oulahguine"
-    },
-    {
-      "title": "Choosing between backend or frontend stack",
-      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
-      "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "frontend",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fatima hero"
-    },
-    {
-      "title": "is there a way to make it so event listener only handles one event at a time?",
-      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
-      "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aidan Pearson"
-    },
-    {
-      "title": "Java-like executor service for javascript using WebWorkers",
-      "url": "https://stackoverflow.com/questions/79962396/java-like-executor-service-for-javascript-using-webworkers",
-      "published_at": "2026-06-17T23:35:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "concurrency"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mykhaylo Adamovych"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1845,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1240,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1890,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "HKUDS"
     },
     {
@@ -1905,148 +1765,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "asz798838958"
     },
     {
-      "title": "Are semicolons in `for` loops un-pythonic?",
-      "url": "https://stackoverflow.com/questions/79975182/are-semicolons-in-for-loops-un-pythonic",
-      "published_at": "2026-07-06T18:21:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "url": "https://github.com/can1357/pon",
+      "published_at": "2026-07-02T16:44:07Z",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
       "tags": [
-        "python"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Firebowl2000"
-    },
-    {
-      "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
-      "url": "https://stackoverflow.com/questions/79975201/which-approaches-should-be-used-for-monthly-demand-forecasting-with-few-observat",
-      "published_at": "2026-07-06T19:07:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "machine-learning",
-        "data-analysis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Romulo Carneiro"
-    },
-    {
-      "title": "How do I cut down on the complexity (O(n^3))?",
-      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
-      "published_at": "2026-07-06T15:10:41.000Z",
-      "description": "Stack Overflow question · 16 answers · score 1",
-      "tags": [
-        "python",
-        "optimization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayaan Shaheen"
-    },
-    {
-      "title": "Font family not applying",
-      "url": "https://stackoverflow.com/questions/79975094/font-family-not-applying",
-      "published_at": "2026-07-06T14:48:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "gtk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anarg__"
-    },
-    {
-      "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
-      "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
-      "published_at": "2026-07-06T10:16:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "import",
-        "python-3.8",
-        "python-3.9",
-        "mujoco"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xingrui Zhuang"
-    },
-    {
-      "title": "XOR decryption produces wrong output when reading from file in Python",
-      "url": "https://stackoverflow.com/questions/79975045/xor-decryption-produces-wrong-output-when-reading-from-file-in-python",
-      "published_at": "2026-07-06T13:14:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "xor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "phantom_403"
-    },
-    {
-      "title": "Looking for best Python Libraries for Network Automation",
-      "url": "https://stackoverflow.com/questions/79974996/looking-for-best-python-libraries-for-network-automation",
-      "published_at": "2026-07-06T10:59:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "network-programming",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mansi_Tibude"
-    },
-    {
-      "title": "how to refer to class methods in a class variable being a call table list",
-      "url": "https://stackoverflow.com/questions/79974804/how-to-refer-to-class-methods-in-a-class-variable-being-a-call-table-list",
-      "published_at": "2026-07-05T20:20:00.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "class",
-        "methods",
-        "reference"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BenJ"
-    },
-    {
-      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
-      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
-      "published_at": "2026-07-06T04:01:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "html",
-        "webserver",
-        "bottle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sophia Caspe"
-    },
-    {
-      "title": "How do I solve this type hint error \"Unexpected type(s)\" in PyCharm?",
-      "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-unexpected-types-in-pycharm",
-      "published_at": "2026-07-04T23:01:58.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
-      "tags": [
-        "python",
-        "pycharm",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
+      "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "can1357"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2335,91 +2070,19 @@
       "user": "SuperJJ007"
     },
     {
-      "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 11 answers · score 5",
+      "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "url": "https://github.com/can1357/pon",
+      "published_at": "2026-07-02T16:44:07Z",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
-    },
-    {
-      "title": "What are the best practices for getting helpful answers on a new post?",
-      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
-      "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs",
-        "typescript",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamed Oulahguine"
-    },
-    {
-      "title": "Choosing between backend or frontend stack",
-      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
-      "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "frontend",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fatima hero"
-    },
-    {
-      "title": "is there a way to make it so event listener only handles one event at a time?",
-      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
-      "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aidan Pearson"
-    },
-    {
-      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
-      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
-      "published_at": "2026-07-06T04:01:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "html",
-        "webserver",
-        "bottle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sophia Caspe"
+      "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
+      "source": "GitHub",
+      "stars": 163,
+      "user": "can1357"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -2497,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1432,
       "user": "mekos2772"
     },
     {
@@ -2898,7 +2561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2589,
+      "stars": 2617,
       "user": "elder-plinius"
     },
     {
@@ -2977,21 +2640,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
       "source": "Dev.to",
       "user": "Mason Delan"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
@@ -3232,7 +2880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1432,
       "user": "mekos2772"
     },
     {
@@ -3247,7 +2895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 459,
       "user": "dzhng"
     },
     {
@@ -3262,7 +2910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Archive228"
     },
     {
@@ -3277,7 +2925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "xt4d"
     },
     {
@@ -3292,7 +2940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "majidmanzarpour"
     },
     {
@@ -3307,7 +2955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1240,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3352,7 +3000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "HKUDS"
     },
     {
@@ -3367,7 +3015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "asz798838958"
     },
     {
@@ -3382,7 +3030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "michaelshimeles"
     },
     {
@@ -3397,7 +3045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "programmersd21"
     },
     {
@@ -3457,7 +3105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2589,
+      "stars": 2617,
       "user": "elder-plinius"
     },
     {
@@ -3472,7 +3120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 758,
       "user": "synthetic-sciences"
     },
     {
@@ -3517,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "lxh77721"
     },
     {
@@ -3532,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 535,
       "user": "514-labs"
     },
     {
@@ -3547,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 433,
       "user": "MaximeRivest"
     },
     {
@@ -3581,19 +3229,19 @@
       "user": "SuperJJ007"
     },
     {
-      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
-      "url": "https://github.com/lucid-softworks/lumen",
-      "published_at": "2026-07-05T10:24:00Z",
-      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "url": "https://github.com/can1357/pon",
+      "published_at": "2026-07-02T16:44:07Z",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "lucid-softworks"
+      "stars": 163,
+      "user": "can1357"
     },
     {
       "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
