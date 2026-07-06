@@ -45,20 +45,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -115,19 +101,18 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "A Third Brain for your Second Brain",
-      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
-      "published_at": "2026-07-03T15:02:56Z",
-      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "tags": [
-        "aie",
         "ai",
-        "techtalks",
-        "memory"
+        "llm",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
-      "user": "Ryan Palo"
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -143,20 +128,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Is Forward Deployed Engineering Killing DevRel?",
-      "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833",
-      "published_at": "2026-07-02T13:52:16Z",
-      "description": "When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...",
-      "tags": [
-        "aie",
-        "devrel",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkasz27h5m8ahp7bo4s8.jpg",
-      "source": "Dev.to",
-      "user": "Swift"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -445,17 +416,18 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "AI Engineer Meets AI Engineer",
-      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
-      "published_at": "2026-06-30T15:21:36Z",
-      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
       "tags": [
         "aie",
-        "ai"
+        "ai",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq47ah9p7qf1wqzemm3o6.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Ryan Palo"
     },
     {
       "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
@@ -487,21 +459,6 @@
       "user": "John McBride"
     },
     {
-      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-      "published_at": "2026-06-29T05:22:27Z",
-      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
-      "tags": [
-        "performance",
-        "webperf",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
-      "source": "Dev.to",
-      "user": "Jakub Andrzejewski"
-    },
-    {
       "title": "For AI coding, the kids are alright",
       "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
       "published_at": "2026-06-29T16:06:12Z",
@@ -515,6 +472,110 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "A Third Brain for your Second Brain",
+      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
+      "published_at": "2026-07-03T15:02:56Z",
+      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "memory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
+      "published_at": "2026-07-02T15:53:07Z",
+      "description": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
+      "tags": [
+        "aie",
+        "discuss",
+        "software",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdo0wgona08fh3jlhjwjk.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
+      "title": "Beyond Context",
+      "url": "https://dev.to/dailycontext/beyond-context-4b0g",
+      "published_at": "2026-07-02T14:02:11Z",
+      "description": "The models are getting better. As you may have seen on multiple graphs presented here at the World's...",
+      "tags": [
+        "aie",
+        "ai",
+        "development",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
+      "published_at": "2026-07-01T13:22:46Z",
+      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
+      "tags": [
+        "aie",
+        "ai",
+        "devrel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
+      "source": "Dev.to",
+      "user": "Sam Bhagwat"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
+    },
+    {
+      "title": "Optimizing for Agents with llms.txt",
+      "url": "https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0",
+      "published_at": "2026-07-01T14:14:25Z",
+      "description": "If you’ve spent any time poking around the AIE World’s Fair 2026 website, you may have come across...",
+      "tags": [
+        "aie",
+        "agents",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -684,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1388,
       "user": "mekos2772"
     },
     {
@@ -699,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1123,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -714,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 715,
       "user": "jmerelnyc"
     },
     {
@@ -729,23 +790,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 454,
       "user": "HKUDS"
-    },
-    {
-      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "url": "https://github.com/kernelstub/Nox",
-      "published_at": "2026-07-02T20:05:34Z",
-      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "kernelstub"
     },
     {
       "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
@@ -759,8 +805,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 116,
       "user": "michaelshimeles"
+    },
+    {
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "kernelstub"
     },
     {
       "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
@@ -774,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "crgimenes"
     },
     {
@@ -789,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 425,
       "user": "synthetic-sciences"
     },
     {
@@ -804,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 248,
       "user": "lxh77721"
     },
     {
@@ -819,40 +880,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 276,
       "user": "SuperJJ007"
     },
     {
-      "title": "the usefulness of await on my async login method",
-      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
-      "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 8 answers · score 1",
+      "title": "Mr. Baby Paint & accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "published_at": "2026-07-06T02:48:06.000-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "bcrypt"
+        "design",
+        "graphics"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Reda ait"
+      "source": "Lobste.rs",
+      "user": "jmillikin"
     },
     {
-      "title": "Ortho photo generation and Ortho mosaic",
-      "url": "https://stackoverflow.com/questions/79974419/ortho-photo-generation-and-ortho-mosaic",
-      "published_at": "2026-07-04T11:54:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "published_at": "2026-07-06T09:00:00.000Z",
+      "description": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation.",
       "tags": [
-        "python",
-        "image",
-        "gis",
-        "orthographic",
-        "mosaic"
+        "Hardware",
+        "Startups",
+        "Even Realities",
+        "meta glasses",
+        "SMART Glasses"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Disha Bairagi"
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
@@ -925,21 +983,6 @@
         "Disney",
         "MidJourney",
         "Universal"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "published_at": "2026-07-04T16:32:08.000Z",
-      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "tags": [
-        "AI",
-        "Security",
-        "alibaba",
-        "claude code"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1033,6 +1076,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
+    },
+    {
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
+      "published_at": "2026-06-18T12:56:27Z",
+      "description": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
+      "tags": [
+        "webrtc",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
+      "source": "Dev.to",
+      "user": "Tsahi Levent-Levi"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1166,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1388,
       "user": "mekos2772"
     },
     {
@@ -1181,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 388,
       "user": "dzhng"
     },
     {
@@ -1196,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 348,
       "user": "Archive228"
     },
     {
@@ -1211,23 +1298,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 312,
       "user": "xt4d"
     },
     {
-      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "url": "https://github.com/texel-org/windfoil",
-      "published_at": "2026-07-02T13:55:08Z",
-      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+      "published_at": "2026-07-05T21:15:08Z",
+      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "texel-org"
+      "stars": 167,
+      "user": "majidmanzarpour"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1241,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1884,
+      "stars": 2133,
       "user": "elder-plinius"
     },
     {
@@ -1256,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 579,
       "user": "LinXiaoTao"
     },
     {
@@ -1271,8 +1358,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 425,
       "user": "synthetic-sciences"
+    },
+    {
+      "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "published_at": "2026-07-02T20:39:23Z",
+      "description": "The local merge queue for parallel Claude Code agents. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/112627?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "funador"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -1286,29 +1388,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 248,
       "user": "lxh77721"
-    },
-    {
-      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
-      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
-      "published_at": "2026-06-30T00:41:56Z",
-      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "mistydew"
     },
     {
       "title": "dyck word to binary",
       "url": "https://stackoverflow.com/questions/79974828/dyck-word-to-binary",
       "published_at": "2026-07-05T22:37:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "math",
@@ -1322,7 +1409,7 @@
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1406,6 +1493,20 @@
       "user": "Mohamed Oulahguine"
     },
     {
+      "title": "Choosing between backend or frontend stack",
+      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
+      "published_at": "2026-07-02T09:01:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "frontend",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fatima hero"
+    },
+    {
       "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
       "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
       "published_at": "2026-07-04T15:35:47.000Z",
@@ -1421,34 +1522,18 @@
       "user": "Caio Vinicius"
     },
     {
-      "title": "Choosing between backend or frontend stack",
-      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
-      "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
-        "frontend",
-        "backend"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "fatima hero"
-    },
-    {
-      "title": "the usefulness of await on my async login method",
-      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
-      "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 8 answers · score 1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "bcrypt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Reda ait"
+      "user": "Aidan Pearson"
     },
     {
       "title": "How can I create my own programming language in Python HTML, CSS and JavaScript",
@@ -1703,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1123,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -1718,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 715,
       "user": "jmerelnyc"
     },
     {
@@ -1733,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 527,
       "user": "TianhangZhuzth"
     },
     {
@@ -1748,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 474,
       "user": "asz798838958"
     },
     {
@@ -1763,12 +1848,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 454,
       "user": "HKUDS"
     },
     {
-      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Sserver?",
-      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-sserv",
+      "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
+      "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
+      "published_at": "2026-07-06T10:16:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "import",
+        "python-3.8",
+        "python-3.9",
+        "mujoco"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xingrui Zhuang"
+    },
+    {
+      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
+      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
       "published_at": "2026-07-06T04:01:21.000Z",
       "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
@@ -1785,7 +1886,7 @@
       "title": "What file is actual mypy executable",
       "url": "https://stackoverflow.com/questions/79974824/what-file-is-actual-mypy-executable",
       "published_at": "2026-07-05T22:10:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "python-3.x",
@@ -1812,20 +1913,6 @@
       "user": "BenJ"
     },
     {
-      "title": "No module named 'pkg_resources' error while i run ydata_profiling code in jupyter notebook",
-      "url": "https://stackoverflow.com/questions/79974729/no-module-named-pkg-resources-error-while-i-run-ydata-profiling-code-in-jupyte",
-      "published_at": "2026-07-05T16:28:47.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "eda",
-        "data-profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "muhammad mueez"
-    },
-    {
       "title": "How to transition from learning fundamentals to professional development in Python?",
       "url": "https://stackoverflow.com/questions/79974659/how-to-transition-from-learning-fundamentals-to-professional-development-in-pyth",
       "published_at": "2026-07-05T11:55:51.000Z",
@@ -1836,6 +1923,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Syed Izzan shah"
+    },
+    {
+      "title": "No module named 'pkg_resources' error while i run ydata_profiling code in jupyter notebook",
+      "url": "https://stackoverflow.com/questions/79974729/no-module-named-pkg-resources-error-while-i-run-ydata-profiling-code-in-jupyte",
+      "published_at": "2026-07-05T16:28:47.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "eda",
+        "data-profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "muhammad mueez"
     },
     {
       "title": "Python Tkinter button for loop address each one",
@@ -1854,7 +1955,7 @@
       "title": "How do I solve this type hint error in PyCharm?",
       "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-in-pycharm",
       "published_at": "2026-07-04T23:01:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "pycharm",
@@ -1879,32 +1980,20 @@
       "user": "Elsocrad"
     },
     {
-      "title": "Ortho photo generation and Ortho mosaic",
-      "url": "https://stackoverflow.com/questions/79974419/ortho-photo-generation-and-ortho-mosaic",
-      "published_at": "2026-07-04T11:54:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Math Operation to find points on a graph inside a functions slope",
+      "url": "https://stackoverflow.com/questions/79972844/math-operation-to-find-points-on-a-graph-inside-a-functions-slope",
+      "published_at": "2026-07-03T02:41:09.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
-        "image",
-        "gis",
-        "orthographic",
-        "mosaic"
+        "function",
+        "math",
+        "formula",
+        "mathematical-expressions"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Disha Bairagi"
-    },
-    {
-      "title": "Where does python handle modular calculations differently?",
-      "url": "https://stackoverflow.com/questions/79974172/where-does-python-handle-modular-calculations-differently",
-      "published_at": "2026-07-03T16:48:32.000Z",
-      "description": "Stack Overflow question · 9 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Frank Mathews"
+      "user": "TheGamerInMyBasement"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2166,21 +2255,6 @@
       "user": "Gil Barbara"
     },
     {
-      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-      "published_at": "2026-06-29T05:22:27Z",
-      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
-      "tags": [
-        "performance",
-        "webperf",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
-      "source": "Dev.to",
-      "user": "Jakub Andrzejewski"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2204,14 +2278,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 276,
       "user": "SuperJJ007"
     },
     {
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2238,6 +2312,20 @@
       "user": "Mohamed Oulahguine"
     },
     {
+      "title": "Choosing between backend or frontend stack",
+      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
+      "published_at": "2026-07-02T09:01:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "frontend",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fatima hero"
+    },
+    {
       "title": "How do you generate \"virtual\" recurring transaction projections in a backend?",
       "url": "https://stackoverflow.com/questions/79974456/how-do-you-generate-virtual-recurring-transaction-projections-in-a-backend",
       "published_at": "2026-07-04T15:35:47.000Z",
@@ -2253,22 +2341,22 @@
       "user": "Caio Vinicius"
     },
     {
-      "title": "Choosing between backend or frontend stack",
-      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
-      "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
-        "frontend",
-        "backend"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "fatima hero"
+      "user": "Aidan Pearson"
     },
     {
-      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Sserver?",
-      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-sserv",
+      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
+      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
       "published_at": "2026-07-06T04:01:21.000Z",
       "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
@@ -2372,7 +2460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1388,
       "user": "mekos2772"
     },
     {
@@ -2774,23 +2862,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1884,
+      "stars": 2133,
       "user": "elder-plinius"
     },
     {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "published_at": "2026-07-04T16:32:08.000Z",
-      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "title": "Konform Browser 140.12.0-103",
+      "url": "https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103",
+      "published_at": "2026-07-06T04:22:35.000-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "AI",
-        "Security",
-        "alibaba",
-        "claude code"
+        "browsers",
+        "linux",
+        "privacy",
+        "release",
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "source": "Lobste.rs",
+      "user": "commanderk"
     },
     {
       "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
@@ -2972,19 +3061,33 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-      "published_at": "2026-06-29T05:22:27Z",
-      "description": "Performance optimization has always been one of the hardest parts of web development. You run...",
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "published_at": "2026-07-03T14:57:01Z",
+      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
       "tags": [
-        "performance",
-        "webperf",
+        "aie",
         "ai",
-        "tutorial"
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbllcnl2md9d63x1pum1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
-      "user": "Jakub Andrzejewski"
+      "user": "Ryan Palo"
+    },
+    {
+      "title": "My First Year at DEV Recap",
+      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
+      "published_at": "2026-07-01T13:46:22Z",
+      "description": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...",
+      "tags": [
+        "community",
+        "learning",
+        "productivity",
+        "writing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png",
+      "source": "Dev.to",
+      "user": "Julien Avezou"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3034,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1388,
       "user": "mekos2772"
     },
     {
@@ -3049,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 388,
       "user": "dzhng"
     },
     {
@@ -3064,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 348,
       "user": "Archive228"
     },
     {
@@ -3079,23 +3182,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 312,
       "user": "xt4d"
     },
     {
-      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "url": "https://github.com/texel-org/windfoil",
-      "published_at": "2026-07-02T13:55:08Z",
-      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+      "published_at": "2026-07-05T21:15:08Z",
+      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "texel-org"
+      "stars": 167,
+      "user": "majidmanzarpour"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
@@ -3109,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1123,
       "user": "HUANGCHIHHUNGLeo"
     },
     {
@@ -3124,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 715,
       "user": "jmerelnyc"
     },
     {
@@ -3139,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 527,
       "user": "TianhangZhuzth"
     },
     {
@@ -3154,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 474,
       "user": "asz798838958"
     },
     {
@@ -3169,8 +3272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 454,
       "user": "HKUDS"
+    },
+    {
+      "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "url": "https://github.com/michaelshimeles/boring-computers",
+      "published_at": "2026-06-30T04:25:16Z",
+      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "michaelshimeles"
     },
     {
       "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
@@ -3188,21 +3306,6 @@
       "user": "deviseo"
     },
     {
-      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "url": "https://github.com/kernelstub/Nox",
-      "published_at": "2026-07-02T20:05:34Z",
-      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "kernelstub"
-    },
-    {
       "title": "programmersd21/flow - 🌊 see your network breathe",
       "url": "https://github.com/programmersd21/flow",
       "published_at": "2026-07-04T10:09:41Z",
@@ -3214,23 +3317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 104,
       "user": "programmersd21"
     },
     {
-      "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-      "url": "https://github.com/michaelshimeles/boring-computers",
-      "published_at": "2026-06-30T04:25:16Z",
-      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
+      "url": "https://github.com/kernelstub/Nox",
+      "published_at": "2026-07-02T20:05:34Z",
+      "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 96,
-      "user": "michaelshimeles"
+      "stars": 104,
+      "user": "kernelstub"
     },
     {
       "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
@@ -3244,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "crgimenes"
     },
     {
@@ -3259,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 1884,
+      "stars": 2133,
       "user": "elder-plinius"
     },
     {
@@ -3274,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 579,
       "user": "LinXiaoTao"
     },
     {
@@ -3289,8 +3392,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 425,
       "user": "synthetic-sciences"
+    },
+    {
+      "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "published_at": "2026-07-02T20:39:23Z",
+      "description": "The local merge queue for parallel Claude Code agents. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/112627?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "funador"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -3304,38 +3422,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 248,
       "user": "lxh77721"
-    },
-    {
-      "title": "mistydew/tokenicode-deepseek-alpha - TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
-      "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
-      "published_at": "2026-06-30T00:41:56Z",
-      "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260335422?v=4",
-      "source": "GitHub",
-      "stars": 215,
-      "user": "mistydew"
-    },
-    {
-      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "published_at": "2026-07-04T03:28:35Z",
-      "description": "Codex Switch & Instruct desktop manager",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
-      "source": "GitHub",
-      "stars": 320,
-      "user": "yynxxxxx"
     },
     {
       "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
@@ -3349,8 +3437,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 422,
       "user": "514-labs"
+    },
+    {
+      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "published_at": "2026-07-04T03:28:35Z",
+      "description": "Codex Switch & Instruct desktop manager",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "yynxxxxx"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -3364,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 276,
       "user": "SuperJJ007"
     },
     {
@@ -3379,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 255,
       "user": "MaximeRivest"
     },
     {
@@ -3394,20 +3497,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/161401688?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 132,
       "user": "zerx-lab"
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "published_at": "2026-07-04T16:51:19.000-05:00",
-      "description": "A rare case where I want to put a post of mine here. Reason being that I was hunting down tool calling behavior regressions with the latest generation of Anthropic models and I found the resulting behavior both puzzling and quite problematic. Those models appear to be strongly RL'ed on their own Claude Code harness which is closed source, and when you come close in tool declarations but slightly off, you can now expect to get broken tool call behavior when older models did not yet have that defect.\r\n\r\nThought this might be interesting for folks here.",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mitsuhiko"
     },
     {
       "title": "Top AI Productivity Tools for Developers and Professionals",
