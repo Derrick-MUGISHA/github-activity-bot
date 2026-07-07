@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 77,
+    "AI": 76,
     "JavaScript": 38,
     "Python": 32,
     "DevOps": 16,
     "WebDev": 12,
-    "Mobile": 3,
+    "Mobile": 2,
     "Cloud": 12,
     "Database": 2,
     "Security": 19,
-    "Tools": 52
+    "Tools": 51
   },
   "by_language": {
     "Python": 32,
@@ -27,7 +27,7 @@
     "Rust": 10,
     "JavaScript": 38,
     "Java": 30,
-    "Swift": 2
+    "Swift": 1
   },
   "by_date": {
     "2026-07-07": 44,
@@ -120,11 +120,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.2",
-    "Go": "22.2",
-    "Rust": "6.9",
-    "JavaScript": "26.4",
-    "Java": "20.8",
-    "Swift": "1.4"
+    "Python": "22.4",
+    "Go": "22.4",
+    "Rust": "7.0",
+    "JavaScript": "26.6",
+    "Java": "21.0",
+    "Swift": "0.7"
   }
 }
