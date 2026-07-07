@@ -737,36 +737,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 1432,
-      "user": "mekos2772"
-    },
-    {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 1240,
-      "user": "HUANGCHIHHUNGLeo"
-    },
-    {
       "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "url": "https://github.com/jmerelnyc/Talos",
       "published_at": "2026-07-02T14:43:11Z",
@@ -793,23 +763,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "HKUDS"
     },
     {
-      "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-      "url": "https://github.com/michaelshimeles/boring-computers",
-      "published_at": "2026-06-30T04:25:16Z",
-      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "title": "akihitohyh/chatgpt-register-sub2api - GitHub Repository",
+      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+      "published_at": "2026-07-02T19:36:29Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/79531840?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "michaelshimeles"
+      "stars": 244,
+      "user": "akihitohyh"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -823,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "kernelstub"
     },
     {
@@ -853,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 789,
       "user": "synthetic-sciences"
     },
     {
@@ -868,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "lxh77721"
     },
     {
@@ -883,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "SuperJJ007"
     },
     {
@@ -898,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 182,
       "user": "can1357"
     },
     {
@@ -927,16 +897,45 @@
       "user": "jmillikin"
     },
     {
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "published_at": "2026-07-07T00:47:33.000Z",
+      "description": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "tags": [
+        "Media & Entertainment",
+        "Netflix",
+        "streaming",
+        "tv"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "published_at": "2026-07-06T23:56:14.000Z",
+      "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+      "tags": [
+        "AI",
+        "Security",
+        "sysdig"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
       "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
       "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
       "published_at": "2026-07-06T23:21:03.000Z",
-      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multi-billion dollar US IPO, expected to take place on Friday.",
+      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
       "tags": [
         "AI",
         "Hardware",
-        "TC",
         "memory",
-        "RAM"
+        "RAM",
+        "SK Hynix"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1032,21 +1031,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "published_at": "2026-07-06T15:22:08.000Z",
-      "description": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "tags": [
-        "AI",
-        "Social",
-        "In Brief",
-        "Reddit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
@@ -1318,21 +1302,6 @@
       "user": "velmu"
     },
     {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 1432,
-      "user": "mekos2772"
-    },
-    {
       "title": "dzhng/skills - GitHub Repository",
       "url": "https://github.com/dzhng/skills",
       "published_at": "2026-07-02T10:24:16Z",
@@ -1344,23 +1313,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 463,
       "user": "dzhng"
-    },
-    {
-      "title": "Archive228/loopkit - 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "url": "https://github.com/Archive228/loopkit",
-      "published_at": "2026-06-30T08:46:55Z",
-      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "Archive228"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1389,8 +1343,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 257,
       "user": "majidmanzarpour"
+    },
+    {
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
+      "source": "GitHub",
+      "stars": 141,
+      "user": "texel-org"
+    },
+    {
+      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "url": "https://github.com/zjp1997720/wechat-article-search",
+      "published_at": "2026-07-06T03:53:01Z",
+      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "zjp1997720"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1404,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2617,
+      "stars": 2671,
       "user": "elder-plinius"
     },
     {
@@ -1419,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 789,
       "user": "synthetic-sciences"
     },
     {
@@ -1434,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "LinXiaoTao"
     },
     {
@@ -1464,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "lxh77721"
     },
     {
@@ -1478,6 +1462,149 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "RaphGL"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 13 answers · score 6",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
+      "title": "Sorting div-table without jQuery",
+      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
+      "published_at": "2026-07-05T01:05:30.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SoranDK"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
+    },
+    {
+      "title": "node spawn trouble with doing a graceful shutdown",
+      "url": "https://stackoverflow.com/questions/79974632/node-spawn-trouble-with-doing-a-graceful-shutdown",
+      "published_at": "2026-07-05T09:26:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "windows",
+        "spawn",
+        "sigint"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SkiperTheBoss"
+    },
+    {
+      "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
+      "url": "https://stackoverflow.com/questions/79974651/how-to-run-both-api-and-web-with-arrow-keys-to-change-command-prompt-to-api-web",
+      "published_at": "2026-07-05T11:01:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "typescript",
+        "next.js",
+        "nestjs",
+        "turborepo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soham Chavan "
+    },
+    {
+      "title": "What are the best practices for getting helpful answers on a new post?",
+      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
+      "published_at": "2026-07-03T14:51:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "typescript",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Oulahguine"
+    },
+    {
+      "title": "React best way to use voiceMode",
+      "url": "https://stackoverflow.com/questions/79974238/react-best-way-to-use-voicemode",
+      "published_at": "2026-07-03T20:23:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "coding for good"
+    },
+    {
+      "title": "Choosing between backend or frontend stack",
+      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
+      "published_at": "2026-07-02T09:01:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "frontend",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fatima hero"
+    },
+    {
+      "title": "Getting image from external endpoint in Node and passing to React",
+      "url": "https://stackoverflow.com/questions/79970309/getting-image-from-external-endpoint-in-node-and-passing-to-react",
+      "published_at": "2026-06-29T12:19:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "node.js",
+        "image",
+        "base64"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Paddy Hallihan"
+    },
+    {
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aidan Pearson"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1694,21 +1821,6 @@
       "user": "arathore"
     },
     {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
-      "source": "GitHub",
-      "stars": 1240,
-      "user": "HUANGCHIHHUNGLeo"
-    },
-    {
       "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "url": "https://github.com/jmerelnyc/Talos",
       "published_at": "2026-07-02T14:43:11Z",
@@ -1724,21 +1836,6 @@
       "user": "jmerelnyc"
     },
     {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 527,
-      "user": "TianhangZhuzth"
-    },
-    {
       "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "url": "https://github.com/HKUDS/OpenOPC",
       "published_at": "2026-07-01T10:17:37Z",
@@ -1750,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "HKUDS"
     },
     {
@@ -1765,8 +1862,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "asz798838958"
+    },
+    {
+      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "url": "https://github.com/nagisanzenin/engram",
+      "published_at": "2026-07-05T09:53:10Z",
+      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "nagisanzenin"
+    },
+    {
+      "title": "akihitohyh/chatgpt-register-sub2api - GitHub Repository",
+      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+      "published_at": "2026-07-02T19:36:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79531840?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "akihitohyh"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -1780,8 +1907,151 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 182,
       "user": "can1357"
+    },
+    {
+      "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
+      "url": "https://stackoverflow.com/questions/79975201/which-approaches-should-be-used-for-monthly-demand-forecasting-with-few-observat",
+      "published_at": "2026-07-06T19:07:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "machine-learning",
+        "data-analysis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Romulo Carneiro"
+    },
+    {
+      "title": "How do I cut down on the complexity (O(n^3))?",
+      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
+      "published_at": "2026-07-06T15:10:41.000Z",
+      "description": "Stack Overflow question · 16 answers · score 1",
+      "tags": [
+        "python",
+        "optimization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayaan Shaheen"
+    },
+    {
+      "title": "Font family not applying",
+      "url": "https://stackoverflow.com/questions/79975094/font-family-not-applying",
+      "published_at": "2026-07-06T14:48:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "gtk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anarg__"
+    },
+    {
+      "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
+      "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
+      "published_at": "2026-07-06T10:16:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "import",
+        "python-3.8",
+        "python-3.9",
+        "mujoco"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xingrui Zhuang"
+    },
+    {
+      "title": "XOR decryption produces wrong output when reading from file in Python",
+      "url": "https://stackoverflow.com/questions/79975045/xor-decryption-produces-wrong-output-when-reading-from-file-in-python",
+      "published_at": "2026-07-06T13:14:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "xor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "phantom_403"
+    },
+    {
+      "title": "Looking for best Python Libraries for Network Automation",
+      "url": "https://stackoverflow.com/questions/79974996/looking-for-best-python-libraries-for-network-automation",
+      "published_at": "2026-07-06T10:59:30.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "network-programming",
+        "automation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mansi_Tibude"
+    },
+    {
+      "title": "How do I solve this type hint error \"Unexpected type(s)\" in PyCharm?",
+      "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-unexpected-types-in-pycharm",
+      "published_at": "2026-07-04T23:01:58.000Z",
+      "description": "Stack Overflow question · 4 answers · score 3",
+      "tags": [
+        "python",
+        "pycharm",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "how to refer to class methods in a class variable being a call table list",
+      "url": "https://stackoverflow.com/questions/79974804/how-to-refer-to-class-methods-in-a-class-variable-being-a-call-table-list",
+      "published_at": "2026-07-05T20:20:00.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "class",
+        "methods",
+        "reference"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BenJ"
+    },
+    {
+      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
+      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
+      "published_at": "2026-07-06T04:01:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "webserver",
+        "bottle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sophia Caspe"
+    },
+    {
+      "title": "What file is actual mypy executable",
+      "url": "https://stackoverflow.com/questions/79974824/what-file-is-actual-mypy-executable",
+      "published_at": "2026-07-05T22:10:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pycharm",
+        "mypy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2066,7 +2336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "SuperJJ007"
     },
     {
@@ -2081,8 +2351,95 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 182,
       "user": "can1357"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 13 answers · score 6",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
+    },
+    {
+      "title": "What are the best practices for getting helpful answers on a new post?",
+      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
+      "published_at": "2026-07-03T14:51:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "typescript",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Oulahguine"
+    },
+    {
+      "title": "Choosing between backend or frontend stack",
+      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
+      "published_at": "2026-07-02T09:01:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "frontend",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fatima hero"
+    },
+    {
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aidan Pearson"
+    },
+    {
+      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
+      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
+      "published_at": "2026-07-06T04:01:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "webserver",
+        "bottle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sophia Caspe"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -2147,21 +2504,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 1432,
-      "user": "mekos2772"
     },
     {
       "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
@@ -2561,7 +2903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2617,
+      "stars": 2671,
       "user": "elder-plinius"
     },
     {
@@ -2582,20 +2924,18 @@
       "user": "commanderk"
     },
     {
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-      "published_at": "2026-07-06T14:43:59.000Z",
-      "description": "The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
+      "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "published_at": "2026-07-06T23:56:14.000Z",
+      "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
       "tags": [
+        "AI",
         "Security",
-        "Canada",
-        "cyberattack",
-        "cybersecurity",
-        "ransomware"
+        "sysdig"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Connie Loizos"
     },
     {
       "title": "How to Take Control of Your Online Privacy",
@@ -2869,21 +3209,6 @@
       "user": "pabs3"
     },
     {
-      "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "published_at": "2026-06-30T11:20:30Z",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119464194?v=4",
-      "source": "GitHub",
-      "stars": 1432,
-      "user": "mekos2772"
-    },
-    {
       "title": "dzhng/skills - GitHub Repository",
       "url": "https://github.com/dzhng/skills",
       "published_at": "2026-07-02T10:24:16Z",
@@ -2895,23 +3220,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 463,
       "user": "dzhng"
-    },
-    {
-      "title": "Archive228/loopkit - 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "url": "https://github.com/Archive228/loopkit",
-      "published_at": "2026-06-30T08:46:55Z",
-      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224303273?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "Archive228"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -2940,23 +3250,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 257,
       "user": "majidmanzarpour"
     },
     {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published_at": "2026-06-30T10:55:02Z",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
+      "url": "https://github.com/texel-org/windfoil",
+      "published_at": "2026-07-02T13:55:08Z",
+      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207666334?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 1240,
-      "user": "HUANGCHIHHUNGLeo"
+      "stars": 141,
+      "user": "texel-org"
+    },
+    {
+      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "url": "https://github.com/zjp1997720/wechat-article-search",
+      "published_at": "2026-07-06T03:53:01Z",
+      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "zjp1997720"
     },
     {
       "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
@@ -2974,21 +3299,6 @@
       "user": "jmerelnyc"
     },
     {
-      "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "published_at": "2026-06-30T01:04:13Z",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219875975?v=4",
-      "source": "GitHub",
-      "stars": 527,
-      "user": "TianhangZhuzth"
-    },
-    {
       "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "url": "https://github.com/HKUDS/OpenOPC",
       "published_at": "2026-07-01T10:17:37Z",
@@ -3000,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "HKUDS"
     },
     {
@@ -3015,23 +3325,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "asz798838958"
     },
     {
-      "title": "michaelshimeles/boring-computers - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-      "url": "https://github.com/michaelshimeles/boring-computers",
-      "published_at": "2026-06-30T04:25:16Z",
-      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "url": "https://github.com/nagisanzenin/engram",
+      "published_at": "2026-07-05T09:53:10Z",
+      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "michaelshimeles"
+      "stars": 320,
+      "user": "nagisanzenin"
+    },
+    {
+      "title": "akihitohyh/chatgpt-register-sub2api - GitHub Repository",
+      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+      "published_at": "2026-07-02T19:36:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79531840?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "akihitohyh"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3045,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "programmersd21"
     },
     {
@@ -3060,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "kernelstub"
     },
     {
@@ -3094,6 +3419,21 @@
       "user": "crgimenes"
     },
     {
+      "title": "openlibrecommunity/pxy - one click server bypass installer",
+      "url": "https://github.com/openlibrecommunity/pxy",
+      "published_at": "2026-07-02T18:48:50Z",
+      "description": "one click server bypass installer",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/274402647?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "openlibrecommunity"
+    },
+    {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "published_at": "2026-07-02T17:53:55Z",
@@ -3105,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2617,
+      "stars": 2671,
       "user": "elder-plinius"
     },
     {
@@ -3120,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 789,
       "user": "synthetic-sciences"
     },
     {
@@ -3135,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "LinXiaoTao"
     },
     {
@@ -3165,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "lxh77721"
     },
     {
@@ -3180,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 542,
       "user": "514-labs"
     },
     {
@@ -3195,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 492,
       "user": "MaximeRivest"
     },
     {
@@ -3210,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 386,
       "user": "yynxxxxx"
     },
     {
@@ -3225,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "SuperJJ007"
     },
     {
@@ -3240,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 182,
       "user": "can1357"
     },
     {
