@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
+      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
+      "published_at": "2026-07-07T01:44:15Z",
+      "description": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
+      "tags": [
+        "gemma",
+        "finetuning",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
+      "source": "Dev.to",
+      "user": "bebechien"
+    },
+    {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
       "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
       "published_at": "2026-07-06T01:17:28Z",
@@ -178,20 +193,6 @@
       "user": "Kate Pond"
     },
     {
-      "title": "Is looping ready to roll? Experts split on the future of coding",
-      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
-      "published_at": "2026-07-03T15:07:40Z",
-      "description": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvwkrurmw9hmbr0voqdu.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -354,20 +355,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Computer Use Is Still The Best Demo In AI. That’s A Problem.",
-      "url": "https://dev.to/dailycontext/computer-use-is-still-the-best-demo-in-ai-thats-a-problem-1bep",
-      "published_at": "2026-07-01T13:56:06Z",
-      "description": "Computer use is still the most engaging demo in AI today. Typing a request in plain language and then...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F640quq6xnjfj0oe1kqxq.jpg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Fable is Back, Baby.",
       "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
       "published_at": "2026-07-01T14:53:47Z",
@@ -493,6 +480,21 @@
       "user": "Ryan Palo"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Multi-Tenancy Is the Real Agent Platform Problem",
       "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
       "published_at": "2026-06-23T12:33:46Z",
@@ -579,6 +581,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
+      "published_at": "2026-07-02T14:10:36Z",
+      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
+      "tags": [
+        "aie",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -763,23 +778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 532,
       "user": "HKUDS"
     },
     {
-      "title": "akihitohyh/chatgpt-register-sub2api - GitHub Repository",
-      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
-      "published_at": "2026-07-02T19:36:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
+      "url": "https://github.com/Pluviobyte/rnskill",
+      "published_at": "2026-07-04T18:43:42Z",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79531840?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 244,
-      "user": "akihitohyh"
+      "stars": 339,
+      "user": "Pluviobyte"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -823,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 887,
       "user": "synthetic-sciences"
     },
     {
@@ -838,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 311,
       "user": "lxh77721"
     },
     {
@@ -853,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 291,
       "user": "SuperJJ007"
     },
     {
@@ -868,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 218,
       "user": "can1357"
     },
     {
@@ -1033,6 +1048,20 @@
       "user": "Rebecca Bellan"
     },
     {
+      "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
+      "url": "https://www.freecodecamp.org/news/the-heroku-nostalgia-trap-why-easy-deploys-arent-the-only-answer/",
+      "published_at": "2026-07-07T00:37:14.000Z",
+      "description": "There's a sentiment I've seen in Slack threads, Hacker News comments, and late-night Discord vents more times than I can count: \"I just want something like Heroku.\" I've said it myself. And I was wr",
+      "tags": [
+        "deployment",
+        "Heroku",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Iroro Chadere"
+    },
+    {
       "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
       "url": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
       "published_at": "2026-07-06T18:42:15.000Z",
@@ -1103,22 +1132,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
-      "url": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
-      "published_at": "2026-07-02T16:53:17.000Z",
-      "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "JavaScript": [
@@ -1313,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 481,
       "user": "dzhng"
     },
     {
@@ -1328,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "xt4d"
     },
     {
@@ -1343,8 +1356,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 271,
       "user": "majidmanzarpour"
+    },
+    {
+      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "url": "https://github.com/zjp1997720/wechat-article-search",
+      "published_at": "2026-07-06T03:53:01Z",
+      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "zjp1997720"
     },
     {
       "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
@@ -1362,21 +1390,6 @@
       "user": "texel-org"
     },
     {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
-      "source": "GitHub",
-      "stars": 120,
-      "user": "zjp1997720"
-    },
-    {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "published_at": "2026-07-02T17:53:55Z",
@@ -1388,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2671,
+      "stars": 2754,
       "user": "elder-plinius"
     },
     {
@@ -1403,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 887,
       "user": "synthetic-sciences"
     },
     {
@@ -1418,8 +1431,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 621,
       "user": "LinXiaoTao"
+    },
+    {
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "lxh77721"
     },
     {
       "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
@@ -1437,21 +1465,6 @@
       "user": "funador"
     },
     {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "lxh77721"
-    },
-    {
       "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
       "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
       "published_at": "2026-07-06T14:47:11.000-05:00",
@@ -1464,8 +1477,8 @@
       "user": "RaphGL"
     },
     {
-      "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
       "description": "Stack Overflow question · 13 answers · score 6",
       "tags": [
@@ -1536,6 +1549,20 @@
       "user": "Soham Chavan "
     },
     {
+      "title": "Plate does not preserve empty paragraphs on paste from HTML source",
+      "url": "https://stackoverflow.com/questions/79974139/plate-does-not-preserve-empty-paragraphs-on-paste-from-html-source",
+      "published_at": "2026-07-03T15:35:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "markdown",
+        "slate.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
+    },
+    {
       "title": "What are the best practices for getting helpful answers on a new post?",
       "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
       "published_at": "2026-07-03T14:51:37.000Z",
@@ -1591,20 +1618,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Paddy Hallihan"
-    },
-    {
-      "title": "is there a way to make it so event listener only handles one event at a time?",
-      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
-      "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aidan Pearson"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1847,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 532,
       "user": "HKUDS"
     },
     {
@@ -1862,8 +1875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 492,
       "user": "asz798838958"
+    },
+    {
+      "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
+      "url": "https://github.com/Pluviobyte/rnskill",
+      "published_at": "2026-07-04T18:43:42Z",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
+      "source": "GitHub",
+      "stars": 339,
+      "user": "Pluviobyte"
     },
     {
       "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
@@ -1877,23 +1905,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 334,
       "user": "nagisanzenin"
-    },
-    {
-      "title": "akihitohyh/chatgpt-register-sub2api - GitHub Repository",
-      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
-      "published_at": "2026-07-02T19:36:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79531840?v=4",
-      "source": "GitHub",
-      "stars": 244,
-      "user": "akihitohyh"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -1907,8 +1920,76 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 218,
       "user": "can1357"
+    },
+    {
+      "title": "time complexity ~~ python",
+      "url": "https://stackoverflow.com/questions/79976302/time-complexity-python",
+      "published_at": "2026-07-07T05:25:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "arrays",
+        "list",
+        "time"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ashis Shaw"
+    },
+    {
+      "title": "How to turn a list of strings into multiple dictionary keys?",
+      "url": "https://stackoverflow.com/questions/79976281/how-to-turn-a-list-of-strings-into-multiple-dictionary-keys",
+      "published_at": "2026-07-07T03:28:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "list",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter Lichtenstein"
+    },
+    {
+      "title": "Arduino: reading output in python",
+      "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
+      "published_at": "2026-07-07T01:29:20.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "arduino"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "paulie walnuts"
+    },
+    {
+      "title": "Python/SQLAlchemy – Need help building my models connecting tags to posts (many-to-many)",
+      "url": "https://stackoverflow.com/questions/79975269/python-sqlalchemy-need-help-building-my-models-connecting-tags-to-posts-many",
+      "published_at": "2026-07-07T01:46:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dr_colossus"
+    },
+    {
+      "title": "How do I cut down on the complexity (O(n^3))?",
+      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
+      "published_at": "2026-07-06T15:10:41.000Z",
+      "description": "Stack Overflow question · 16 answers · score 1",
+      "tags": [
+        "python",
+        "optimization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayaan Shaheen"
     },
     {
       "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
@@ -1924,19 +2005,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Romulo Carneiro"
-    },
-    {
-      "title": "How do I cut down on the complexity (O(n^3))?",
-      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
-      "published_at": "2026-07-06T15:10:41.000Z",
-      "description": "Stack Overflow question · 16 answers · score 1",
-      "tags": [
-        "python",
-        "optimization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayaan Shaheen"
     },
     {
       "title": "Font family not applying",
@@ -1995,65 +2063,6 @@
       "user": "Mansi_Tibude"
     },
     {
-      "title": "How do I solve this type hint error \"Unexpected type(s)\" in PyCharm?",
-      "url": "https://stackoverflow.com/questions/79974534/how-do-i-solve-this-type-hint-error-unexpected-types-in-pycharm",
-      "published_at": "2026-07-04T23:01:58.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
-      "tags": [
-        "python",
-        "pycharm",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "how to refer to class methods in a class variable being a call table list",
-      "url": "https://stackoverflow.com/questions/79974804/how-to-refer-to-class-methods-in-a-class-variable-being-a-call-table-list",
-      "published_at": "2026-07-05T20:20:00.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "class",
-        "methods",
-        "reference"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BenJ"
-    },
-    {
-      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
-      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
-      "published_at": "2026-07-06T04:01:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "html",
-        "webserver",
-        "bottle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sophia Caspe"
-    },
-    {
-      "title": "What file is actual mypy executable",
-      "url": "https://stackoverflow.com/questions/79974824/what-file-is-actual-mypy-executable",
-      "published_at": "2026-07-05T22:10:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pycharm",
-        "mypy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
       "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
       "published_at": "2026-07-02T23:21:11.000Z",
@@ -2066,22 +2075,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Darsh Shah"
-    },
-    {
-      "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
-      "url": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
-      "published_at": "2026-07-02T16:53:17.000Z",
-      "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "DevOps": [
@@ -2336,7 +2329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 291,
       "user": "SuperJJ007"
     },
     {
@@ -2351,12 +2344,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 218,
       "user": "can1357"
     },
     {
-      "title": "I get stuck learning HTML, CSS, JAVASCRIPT (I AM A STUDENT)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-javascript-i-am-a-student",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
       "description": "Stack Overflow question · 13 answers · score 6",
       "tags": [
@@ -2381,6 +2374,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Trushank Vaghasiya"
+    },
+    {
+      "title": "Plate does not preserve empty paragraphs on paste from HTML source",
+      "url": "https://stackoverflow.com/questions/79974139/plate-does-not-preserve-empty-paragraphs-on-paste-from-html-source",
+      "published_at": "2026-07-03T15:35:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "markdown",
+        "slate.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
     },
     {
       "title": "What are the best practices for getting helpful answers on a new post?",
@@ -2411,35 +2418,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "fatima hero"
-    },
-    {
-      "title": "is there a way to make it so event listener only handles one event at a time?",
-      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
-      "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aidan Pearson"
-    },
-    {
-      "title": "How to add redirect to Button's onclick function in Python Bottle HTML Web Server?",
-      "url": "https://stackoverflow.com/questions/79974876/how-to-add-redirect-to-buttons-onclick-function-in-python-bottle-html-web-serve",
-      "published_at": "2026-07-06T04:01:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "html",
-        "webserver",
-        "bottle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sophia Caspe"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -2728,6 +2706,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kngl"
+    },
+    {
+      "title": "Python/SQLAlchemy – Need help building my models connecting tags to posts (many-to-many)",
+      "url": "https://stackoverflow.com/questions/79975269/python-sqlalchemy-need-help-building-my-models-connecting-tags-to-posts-many",
+      "published_at": "2026-07-07T01:46:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dr_colossus"
     }
   ],
   "Security": [
@@ -2903,25 +2894,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2671,
+      "stars": 2754,
       "user": "elder-plinius"
-    },
-    {
-      "title": "Konform Browser 140.12.0-103",
-      "url": "https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103",
-      "published_at": "2026-07-06T04:22:35.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers",
-        "linux",
-        "privacy",
-        "release",
-        "security",
-        "show"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "commanderk"
     },
     {
       "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
@@ -3173,6 +3147,21 @@
       "user": "Julien Avezou"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3220,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 481,
       "user": "dzhng"
     },
     {
@@ -3235,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "xt4d"
     },
     {
@@ -3250,8 +3239,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 271,
       "user": "majidmanzarpour"
+    },
+    {
+      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "url": "https://github.com/zjp1997720/wechat-article-search",
+      "published_at": "2026-07-06T03:53:01Z",
+      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "zjp1997720"
     },
     {
       "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
@@ -3267,21 +3271,6 @@
       "source": "GitHub",
       "stars": 141,
       "user": "texel-org"
-    },
-    {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
-      "source": "GitHub",
-      "stars": 120,
-      "user": "zjp1997720"
     },
     {
       "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
@@ -3310,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 532,
       "user": "HKUDS"
     },
     {
@@ -3325,8 +3314,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 492,
       "user": "asz798838958"
+    },
+    {
+      "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
+      "url": "https://github.com/Pluviobyte/rnskill",
+      "published_at": "2026-07-04T18:43:42Z",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
+      "source": "GitHub",
+      "stars": 339,
+      "user": "Pluviobyte"
     },
     {
       "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
@@ -3340,23 +3344,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 334,
       "user": "nagisanzenin"
-    },
-    {
-      "title": "akihitohyh/chatgpt-register-sub2api - GitHub Repository",
-      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
-      "published_at": "2026-07-02T19:36:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79531840?v=4",
-      "source": "GitHub",
-      "stars": 244,
-      "user": "akihitohyh"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3370,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 132,
       "user": "programmersd21"
     },
     {
@@ -3445,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2671,
+      "stars": 2754,
       "user": "elder-plinius"
     },
     {
@@ -3460,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 887,
       "user": "synthetic-sciences"
     },
     {
@@ -3475,8 +3464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 621,
       "user": "LinXiaoTao"
+    },
+    {
+      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "published_at": "2026-07-04T01:47:38Z",
+      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "lxh77721"
     },
     {
       "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
@@ -3494,19 +3498,19 @@
       "user": "funador"
     },
     {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
+      "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "published_at": "2026-07-05T15:48:08Z",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
       "tags": [
-        "typescript",
+        "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 289,
-      "user": "lxh77721"
+      "stars": 662,
+      "user": "MaximeRivest"
     },
     {
       "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
@@ -3520,23 +3524,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 564,
       "user": "514-labs"
-    },
-    {
-      "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "url": "https://github.com/MaximeRivest/riddle",
-      "published_at": "2026-07-05T15:48:08Z",
-      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
-      "source": "GitHub",
-      "stars": 492,
-      "user": "MaximeRivest"
     },
     {
       "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
@@ -3550,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 422,
       "user": "yynxxxxx"
     },
     {
@@ -3565,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 291,
       "user": "SuperJJ007"
     },
     {
@@ -3580,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 218,
       "user": "can1357"
     },
     {
@@ -3637,22 +3626,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
-      "url": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
-      "published_at": "2026-07-02T16:53:17.000Z",
-      "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ]
 }
