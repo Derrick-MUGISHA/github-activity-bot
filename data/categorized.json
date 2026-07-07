@@ -298,6 +298,21 @@
       "user": "xbill"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
       "published_at": "2026-06-28T09:04:04Z",
@@ -391,21 +406,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -447,20 +447,6 @@
         "satire"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mxc52ethgeuzfcgs14e.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
     },
@@ -581,19 +567,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faf0wsdwpx6vg4extqzn4.png",
       "source": "Dev.to",
       "user": "Ryan Palo"
-    },
-    {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko",
-      "published_at": "2026-07-02T14:10:36Z",
-      "description": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -778,23 +751,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "HKUDS"
-    },
-    {
-      "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
-      "url": "https://github.com/Pluviobyte/rnskill",
-      "published_at": "2026-07-04T18:43:42Z",
-      "description": "雪踏乌云的 AI Agent Skills 集合",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
-      "source": "GitHub",
-      "stars": 356,
-      "user": "Pluviobyte"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -838,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1171,
+      "stars": 1226,
       "user": "synthetic-sciences"
     },
     {
@@ -853,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 414,
       "user": "simonlin1212"
     },
     {
@@ -868,23 +826,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 354,
       "user": "pocket-stack"
-    },
-    {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "SuperJJ007"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -898,8 +841,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 306,
       "user": "can1357"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 299,
+      "user": "SuperJJ007"
     },
     {
       "title": "Put NetHack on my community app and this 38-year-old game keeps outsmarting me",
@@ -914,16 +872,20 @@
       "user": "Bl4ckBe4r"
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "published_at": "2026-07-06T15:15:25.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "the usefulness of await on my async login method",
+      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
+      "published_at": "2026-07-03T00:56:33.000Z",
+      "description": "Stack Overflow question · 9 answers · score 1",
       "tags": [
-        "vibecoding"
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "bcrypt"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "martinald"
+      "source": "StackOverflow",
+      "user": "Reda ait"
     },
     {
       "title": "Python concepts for 'AI-ML projects' and 'OpenSource Contribution'",
@@ -943,7 +905,7 @@
       "title": "How can I build an AI automation workflow that extracts email data, stores it in a CRM, sends follow-up messages without creating duplicate records?",
       "url": "https://stackoverflow.com/questions/79976430/how-can-i-build-an-ai-automation-workflow-that-extracts-email-data-stores-it-in",
       "published_at": "2026-07-07T11:00:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -955,29 +917,63 @@
       "user": "Suraj"
     },
     {
-      "title": "Encoding detected wrong, reading fails",
-      "url": "https://stackoverflow.com/questions/79976325/encoding-detected-wrong-reading-fails",
-      "published_at": "2026-07-07T06:20:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "published_at": "2026-07-07T17:24:35.000Z",
+      "description": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
       "tags": [
-        "python",
-        "character-encoding"
+        "Media & Entertainment",
+        "media",
+        "Netflix",
+        "publisher",
+        "streaming"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Matthias Pospiech"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "published_at": "2026-07-07T16:27:18.000Z",
+      "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "claude cowork",
+        "coding agent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "published_at": "2026-07-07T15:19:33.000Z",
+      "description": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Creators",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Chemistry Ventures is raising $500M for its second fund",
       "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
       "published_at": "2026-07-07T15:02:02.000Z",
-      "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures and Andreessen Horowitz alums, is raising $500M for its second fund.",
+      "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
       "tags": [
         "Venture",
         "a16z",
         "bessemer",
-        "index",
-        "VC"
+        "chemistry",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1021,9 +1017,9 @@
       "published_at": "2026-07-07T12:00:00.000Z",
       "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
       "tags": [
-        "AI",
-        "Security",
         "Startups",
+        "Security",
+        "AI",
         "acrew capital",
         "AI scams"
       ],
@@ -1046,66 +1042,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-      "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-      "published_at": "2026-07-07T00:47:33.000Z",
-      "description": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
-      "tags": [
-        "Media & Entertainment",
-        "Netflix",
-        "streaming",
-        "tv"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "published_at": "2026-07-06T23:56:14.000Z",
-      "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
-      "tags": [
-        "AI",
-        "Security",
-        "ransomware",
-        "sysdig"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "published_at": "2026-07-06T23:21:03.000Z",
-      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "memory",
-        "RAM",
-        "SK Hynix"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "published_at": "2026-07-06T19:49:10.000Z",
-      "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "tags": [
-        "AI",
-        "Guillermo Rauch",
-        "Vercel"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
@@ -1372,8 +1308,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 526,
       "user": "dzhng"
+    },
+    {
+      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "url": "https://github.com/Shpigford/knockoff",
+      "published_at": "2026-07-06T15:06:06Z",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "Shpigford"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1387,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "xt4d"
     },
     {
@@ -1402,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 313,
       "user": "majidmanzarpour"
     },
     {
@@ -1417,23 +1368,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 185,
       "user": "zjp1997720"
-    },
-    {
-      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "url": "https://github.com/texel-org/windfoil",
-      "published_at": "2026-07-02T13:55:08Z",
-      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
-      "source": "GitHub",
-      "stars": 143,
-      "user": "texel-org"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1447,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3067,
+      "stars": 3135,
       "user": "elder-plinius"
     },
     {
@@ -1462,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1171,
+      "stars": 1226,
       "user": "synthetic-sciences"
     },
     {
@@ -1477,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 650,
       "user": "LinXiaoTao"
     },
     {
@@ -1492,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 414,
       "user": "simonlin1212"
     },
     {
@@ -1507,26 +1443,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 354,
       "user": "pocket-stack"
     },
     {
-      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
-      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
-      "published_at": "2026-07-06T14:47:11.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
+      "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
+      "published_at": "2026-07-07T17:08:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "windows"
+        "javascript",
+        "google-chrome",
+        "performance-testing",
+        "browser-cache",
+        "indexeddb"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "RaphGL"
+      "source": "StackOverflow",
+      "user": "Valere"
     },
     {
-      "title": "how do i do change an element style from JS",
-      "url": "https://stackoverflow.com/questions/79976509/how-do-i-do-change-an-element-style-from-js",
-      "published_at": "2026-07-07T14:00:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "React state updates correctly but UI displays previous value after async operation",
+      "url": "https://stackoverflow.com/questions/79976564/react-state-updates-correctly-but-ui-displays-previous-value-after-async-operati",
+      "published_at": "2026-07-07T16:14:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hansueli05"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 14 answers · score 8",
       "tags": [
         "javascript",
         "html",
@@ -1534,7 +1487,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Daniel"
+      "user": "aaron"
     },
     {
       "title": "How to calculate zodiac sign from date of birth using JavaScript?",
@@ -1562,20 +1515,6 @@
       "user": "robkblue"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
@@ -1590,6 +1529,22 @@
       "user": "Trushank Vaghasiya"
     },
     {
+      "title": "the usefulness of await on my async login method",
+      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
+      "published_at": "2026-07-03T00:56:33.000Z",
+      "description": "Stack Overflow question · 9 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "bcrypt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Reda ait"
+    },
+    {
       "title": "Sorting div-table without jQuery",
       "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
       "published_at": "2026-07-05T01:05:30.000Z",
@@ -1602,18 +1557,20 @@
       "user": "SoranDK"
     },
     {
-      "title": "Plate does not preserve empty paragraphs on paste from HTML source",
-      "url": "https://stackoverflow.com/questions/79974139/plate-does-not-preserve-empty-paragraphs-on-paste-from-html-source",
-      "published_at": "2026-07-03T15:35:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Google Login authentication problem in production MERN stack",
+      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
+      "published_at": "2026-07-03T20:14:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
-        "markdown",
-        "slate.js"
+        "node.js",
+        "cookies",
+        "google-oauth",
+        "vercel"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Fi Li Ppo"
+      "user": "Shounak Mahata"
     },
     {
       "title": "How to implement role-based navigation in a React Navbar using Context API and React Router?",
@@ -1629,32 +1586,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "context-coders"
-    },
-    {
-      "title": "React best way to use voiceMode",
-      "url": "https://stackoverflow.com/questions/79974238/react-best-way-to-use-voicemode",
-      "published_at": "2026-07-03T20:23:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "coding for good"
-    },
-    {
-      "title": "IOS application Distribution without appstore",
-      "url": "https://stackoverflow.com/questions/79971952/ios-application-distribution-without-appstore",
-      "published_at": "2026-07-01T03:42:55.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "javascript",
-        "ios",
-        "react-native"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "D-Sibu"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1897,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "HKUDS"
     },
     {
@@ -1927,23 +1858,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 460,
       "user": "anthropics"
     },
     {
-      "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
-      "url": "https://github.com/Pluviobyte/rnskill",
-      "published_at": "2026-07-04T18:43:42Z",
-      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "title": "x4gKing/X4G - GitHub Repository",
+      "url": "https://github.com/x4gKing/X4G",
+      "published_at": "2026-07-04T06:43:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "Pluviobyte"
+      "stars": 410,
+      "user": "x4gKing"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -1957,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 306,
       "user": "can1357"
     },
     {
@@ -1974,18 +1905,30 @@
       "user": "yossarian"
     },
     {
-      "title": "How can I make sure flush() has completed before creating a Milvus snapshot with PyMilvus?",
-      "url": "https://stackoverflow.com/questions/79976519/how-can-i-make-sure-flush-has-completed-before-creating-a-milvus-snapshot-with",
-      "published_at": "2026-07-07T14:28:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "python",
-        "snapshot",
-        "milvus"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Priya Singh"
+      "user": "NightKevin"
+    },
+    {
+      "title": "How to turn a split string into multiple dictionary keys?",
+      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
+      "published_at": "2026-07-07T11:02:26.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "python",
+        "list",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter Lichtenstein"
     },
     {
       "title": "Python concepts for 'AI-ML projects' and 'OpenSource Contribution'",
@@ -2002,18 +1945,18 @@
       "user": "Karthik"
     },
     {
-      "title": "How to add secondary, other keys to sorting in Python?",
-      "url": "https://stackoverflow.com/questions/79976502/how-to-add-secondary-other-keys-to-sorting-in-python",
-      "published_at": "2026-07-07T13:35:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How can I make sure flush() has completed before creating a Milvus snapshot with PyMilvus?",
+      "url": "https://stackoverflow.com/questions/79976519/how-can-i-make-sure-flush-has-completed-before-creating-a-milvus-snapshot-with",
+      "published_at": "2026-07-07T14:28:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "arrays",
-        "sorting"
+        "snapshot",
+        "milvus"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Tito Saad"
+      "user": "Priya Singh"
     },
     {
       "title": "Should I remove records where pickup and dropoff locations are the same when cleaning the NYC Taxi dataset?",
@@ -2032,24 +1975,24 @@
       "user": "Sudam Ranasinghe"
     },
     {
-      "title": "How to turn a split string into multiple dictionary keys?",
-      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
-      "published_at": "2026-07-07T11:02:26.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "title": "How to add secondary, other keys to sorting in Python?",
+      "url": "https://stackoverflow.com/questions/79976502/how-to-add-secondary-other-keys-to-sorting-in-python",
+      "published_at": "2026-07-07T13:35:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "list",
-        "dictionary"
+        "arrays",
+        "sorting"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Peter Lichtenstein"
+      "user": "Tito Saad"
     },
     {
       "title": "Previous page's custom HTML persists during page transition",
       "url": "https://stackoverflow.com/questions/79976443/previous-pages-custom-html-persists-during-page-transition",
       "published_at": "2026-07-07T11:28:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "html",
@@ -2065,7 +2008,7 @@
       "title": "How can I build an AI automation workflow that extracts email data, stores it in a CRM, sends follow-up messages without creating duplicate records?",
       "url": "https://stackoverflow.com/questions/79976430/how-can-i-build-an-ai-automation-workflow-that-extracts-email-data-stores-it-in",
       "published_at": "2026-07-07T11:00:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -2075,32 +2018,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Suraj"
-    },
-    {
-      "title": "Arduino: reading output in python",
-      "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
-      "published_at": "2026-07-07T01:29:20.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "python",
-        "arduino"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "paulie walnuts"
-    },
-    {
-      "title": "Encoding detected wrong, reading fails",
-      "url": "https://stackoverflow.com/questions/79976325/encoding-detected-wrong-reading-fails",
-      "published_at": "2026-07-07T06:20:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "character-encoding"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Matthias Pospiech"
     },
     {
       "title": "time complexity ~~ python",
@@ -2116,6 +2033,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ashis Shaw"
+    },
+    {
+      "title": "Arduino: reading output in python",
+      "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
+      "published_at": "2026-07-07T01:29:20.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "python",
+        "arduino"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "paulie walnuts"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2222,21 +2152,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
       "source": "Dev.to",
       "user": "Ibtissem Hattab"
-    },
-    {
-      "title": "Protect Yourself, Mesh Yourself",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
-      "published_at": "2026-07-03T13:45:00Z",
-      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
-      "tags": [
-        "tutorial",
-        "productivity",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
-      "source": "Dev.to",
-      "user": "Elliott"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2388,21 +2303,6 @@
       "user": "velmu"
     },
     {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "SuperJJ007"
-    },
-    {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
       "url": "https://github.com/can1357/pon",
       "published_at": "2026-07-02T16:44:07Z",
@@ -2414,14 +2314,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 306,
       "user": "can1357"
     },
     {
-      "title": "how do i do change an element style from JS",
-      "url": "https://stackoverflow.com/questions/79976509/how-do-i-do-change-an-element-style-from-js",
-      "published_at": "2026-07-07T14:00:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 299,
+      "user": "SuperJJ007"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 14 answers · score 8",
       "tags": [
         "javascript",
         "html",
@@ -2429,7 +2344,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Daniel"
+      "user": "aaron"
     },
     {
       "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
@@ -2443,20 +2358,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "robkblue"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to make infinite draggable background using CSS and JavaScript",
@@ -2473,24 +2374,10 @@
       "user": "Trushank Vaghasiya"
     },
     {
-      "title": "Plate does not preserve empty paragraphs on paste from HTML source",
-      "url": "https://stackoverflow.com/questions/79974139/plate-does-not-preserve-empty-paragraphs-on-paste-from-html-source",
-      "published_at": "2026-07-03T15:35:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "markdown",
-        "slate.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
-    },
-    {
       "title": "Previous page's custom HTML persists during page transition",
       "url": "https://stackoverflow.com/questions/79976443/previous-pages-custom-html-persists-during-page-transition",
       "published_at": "2026-07-07T11:28:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "html",
@@ -2567,18 +2454,49 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "IOS application Distribution without appstore",
-      "url": "https://stackoverflow.com/questions/79971952/ios-application-distribution-without-appstore",
-      "published_at": "2026-07-01T03:42:55.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
+      "title": "I was wrong about game development",
+      "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
+      "published_at": "2026-07-07T08:41:01.000-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
+        "games",
         "ios",
-        "react-native"
+        "mobile"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "D-Sibu"
+      "source": "Lobste.rs",
+      "user": "mijndert"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "published_at": "2026-07-07T16:27:18.000Z",
+      "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "claude cowork",
+        "coding agent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "published_at": "2026-07-07T15:19:33.000Z",
+      "description": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Creators",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
@@ -2586,9 +2504,9 @@
       "published_at": "2026-07-07T12:00:00.000Z",
       "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
       "tags": [
-        "AI",
-        "Security",
         "Startups",
+        "Security",
+        "AI",
         "acrew capital",
         "AI scams"
       ],
@@ -2964,7 +2882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3067,
+      "stars": 3135,
       "user": "elder-plinius"
     },
     {
@@ -2979,6 +2897,38 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
+    },
+    {
+      "title": "Google Login authentication problem in production MERN stack",
+      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
+      "published_at": "2026-07-03T20:14:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "node.js",
+        "cookies",
+        "google-oauth",
+        "vercel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shounak Mahata"
+    },
+    {
+      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+      "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "published_at": "2026-07-07T16:45:00.000Z",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "hacks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
@@ -3002,30 +2952,15 @@
       "published_at": "2026-07-07T12:00:00.000Z",
       "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
       "tags": [
-        "AI",
-        "Security",
         "Startups",
+        "Security",
+        "AI",
         "acrew capital",
         "AI scams"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "published_at": "2026-07-06T23:56:14.000Z",
-      "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
-      "tags": [
-        "AI",
-        "Security",
-        "ransomware",
-        "sysdig"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "How to Take Control of Your Online Privacy",
@@ -3162,6 +3097,21 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
       "published_at": "2026-06-28T09:04:04Z",
@@ -3189,21 +3139,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
@@ -3249,20 +3184,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
-      "published_at": "2026-07-03T14:57:01Z",
-      "description": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd5tfo85mu6em3v1j0c96.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "My First Year at DEV Recap",
       "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
       "published_at": "2026-07-01T13:46:22Z",
@@ -3276,21 +3197,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png",
       "source": "Dev.to",
       "user": "Julien Avezou"
-    },
-    {
-      "title": "Protect Yourself, Mesh Yourself",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
-      "published_at": "2026-07-03T13:45:00Z",
-      "description": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
-      "tags": [
-        "tutorial",
-        "productivity",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4kx5kcvpvfkga79uk1o.png",
-      "source": "Dev.to",
-      "user": "Elliott"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3340,8 +3246,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 526,
       "user": "dzhng"
+    },
+    {
+      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "url": "https://github.com/Shpigford/knockoff",
+      "published_at": "2026-07-06T15:06:06Z",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "Shpigford"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -3355,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "xt4d"
     },
     {
@@ -3370,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 313,
       "user": "majidmanzarpour"
     },
     {
@@ -3385,23 +3306,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 185,
       "user": "zjp1997720"
-    },
-    {
-      "title": "texel-org/windfoil - an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "url": "https://github.com/texel-org/windfoil",
-      "published_at": "2026-07-02T13:55:08Z",
-      "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
-      "source": "GitHub",
-      "stars": 143,
-      "user": "texel-org"
     },
     {
       "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
@@ -3430,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "HKUDS"
     },
     {
@@ -3460,23 +3366,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 460,
       "user": "anthropics"
     },
     {
-      "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
-      "url": "https://github.com/Pluviobyte/rnskill",
-      "published_at": "2026-07-04T18:43:42Z",
-      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "title": "x4gKing/X4G - GitHub Repository",
+      "url": "https://github.com/x4gKing/X4G",
+      "published_at": "2026-07-04T06:43:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "Pluviobyte"
+      "stars": 410,
+      "user": "x4gKing"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3490,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "programmersd21"
     },
     {
@@ -3520,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "deviseo"
     },
     {
@@ -3539,19 +3445,19 @@
       "user": "crgimenes"
     },
     {
-      "title": "openlibrecommunity/pxy - one click server bypass installer",
-      "url": "https://github.com/openlibrecommunity/pxy",
-      "published_at": "2026-07-02T18:48:50Z",
-      "description": "one click server bypass installer",
+      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
+      "url": "https://github.com/MaximeRivest/remagic",
+      "published_at": "2026-07-05T18:32:02Z",
+      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274402647?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
       "stars": 43,
-      "user": "openlibrecommunity"
+      "user": "MaximeRivest"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -3565,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3067,
+      "stars": 3135,
       "user": "elder-plinius"
     },
     {
@@ -3580,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1171,
+      "stars": 1226,
       "user": "synthetic-sciences"
     },
     {
@@ -3595,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 650,
       "user": "LinXiaoTao"
     },
     {
@@ -3610,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 414,
       "user": "simonlin1212"
     },
     {
@@ -3625,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 354,
       "user": "pocket-stack"
     },
     {
@@ -3640,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 1001,
       "user": "MaximeRivest"
     },
     {
@@ -3655,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 628,
       "user": "514-labs"
     },
     {
@@ -3670,23 +3576,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 513,
       "user": "yynxxxxx"
-    },
-    {
-      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "published_at": "2026-07-02T16:46:56Z",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "SuperJJ007"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -3700,8 +3591,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 306,
       "user": "can1357"
+    },
+    {
+      "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "published_at": "2026-07-02T16:46:56Z",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
+      "source": "GitHub",
+      "stars": 299,
+      "user": "SuperJJ007"
     },
     {
       "title": "Google’s exponential path to climate-wrecking digital bloat",
@@ -3714,6 +3620,54 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "sjamaan"
+    },
+    {
+      "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
+      "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
+      "published_at": "2026-07-07T17:08:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "performance-testing",
+        "browser-cache",
+        "indexeddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Valere"
+    },
+    {
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "published_at": "2026-07-07T17:24:35.000Z",
+      "description": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
+      "tags": [
+        "Media & Entertainment",
+        "media",
+        "Netflix",
+        "publisher",
+        "streaming"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "published_at": "2026-07-07T15:19:33.000Z",
+      "description": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Creators",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",

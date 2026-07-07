@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 181,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 57,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,37 +10,37 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 84,
-    "JavaScript": 37,
+    "AI": 79,
+    "JavaScript": 36,
     "Python": 31,
-    "DevOps": 17,
-    "WebDev": 13,
-    "Mobile": 3,
+    "DevOps": 16,
+    "WebDev": 11,
+    "Mobile": 5,
     "Cloud": 11,
     "Database": 2,
-    "Security": 19,
-    "Tools": 50
+    "Security": 20,
+    "Tools": 51
   },
   "by_language": {
     "Python": 31,
-    "Go": 27,
+    "Go": 28,
     "Rust": 9,
     "Java": 30,
     "Kotlin": 2,
-    "JavaScript": 37,
-    "Swift": 1
+    "JavaScript": 36,
+    "Swift": 2
   },
   "by_date": {
-    "2026-07-07": 30,
-    "2026-07-01": 14,
-    "2026-07-06": 15,
-    "2026-07-02": 22,
+    "2026-07-07": 36,
+    "2026-07-01": 13,
+    "2026-07-06": 11,
+    "2026-07-02": 19,
     "2026-06-29": 6,
-    "2026-07-05": 9,
+    "2026-07-05": 10,
     "2026-06-23": 10,
     "2026-06-22": 2,
     "2026-06-25": 1,
-    "2026-07-03": 14,
+    "2026-07-03": 12,
     "2026-06-26": 4,
     "2026-06-30": 2,
     "2026-06-28": 1,
@@ -98,35 +98,35 @@
     "2026-07-04": 3
   },
   "top_tags": {
-    "ai": 31,
+    "ai": 29,
     "open-source": 26,
     "github": 25,
     "python": 19,
-    "aie": 18,
+    "aie": 16,
     "javascript": 16,
-    "AI": 16,
+    "AI": 14,
     "Security": 14,
     "JavaScript": 12,
     "Python": 10,
     "DevOps": 10,
-    "agents": 8,
+    "agents": 7,
     "mcps": 7,
-    "productivity": 6,
     "go": 6,
     "typescript": 6,
     "rust": 6,
     "discuss": 5,
-    "devops": 5,
-    "claude": 5
+    "claude": 5,
+    "antigravity": 5,
+    "productivity": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.6",
-    "Go": "19.7",
-    "Rust": "6.6",
-    "Java": "21.9",
-    "Kotlin": "1.5",
-    "JavaScript": "27.0",
-    "Swift": "0.7"
+    "Python": "22.5",
+    "Go": "20.3",
+    "Rust": "6.5",
+    "Java": "21.7",
+    "Kotlin": "1.4",
+    "JavaScript": "26.1",
+    "Swift": "1.4"
   }
 }
