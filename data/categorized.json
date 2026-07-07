@@ -16,35 +16,6 @@
       "user": "bebechien"
     },
     {
-      "title": "I Contain Multitudes (and Also Three Git Repos)",
-      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
-      "published_at": "2026-07-06T01:17:28Z",
-      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.",
-      "tags": [
-        "astro",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
-      "published_at": "2026-07-06T03:47:27Z",
-      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
-      "source": "Dev.to",
-      "user": "Mason Delan"
-    },
-    {
       "title": "Forward Deployed Engineers and the future of software engineering",
       "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll",
       "published_at": "2026-07-01T00:20:18Z",
@@ -75,6 +46,20 @@
       "user": "xbill"
     },
     {
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
+      "published_at": "2026-07-06T01:17:28Z",
+      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.",
+      "tags": [
+        "astro",
+        "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
+    },
+    {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
       "published_at": "2026-07-02T15:00:21Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
     },
     {
       "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
@@ -465,21 +465,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "A Third Brain for your Second Brain",
-      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
-      "published_at": "2026-07-03T15:02:56Z",
-      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "memory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -493,6 +478,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "A Third Brain for your Second Brain",
+      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
+      "published_at": "2026-07-03T15:02:56Z",
+      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
+      "tags": [
+        "aie",
+        "ai",
+        "techtalks",
+        "memory"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
     },
     {
       "title": "Multi-Tenancy Is the Real Agent Platform Problem",
@@ -594,6 +594,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6zxsqb5bfd4935nh88.png",
       "source": "Dev.to",
       "user": "Richard MacManus"
+    },
+    {
+      "title": "These Founders Skipped Graduation To Be Here",
+      "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d",
+      "published_at": "2026-07-02T14:55:58Z",
+      "description": "When we met James Yang and Anish Paleja on Monday morning, The Daily Context team simply thought,...",
+      "tags": [
+        "aie",
+        "ai",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdczn91hn73n6jhccpbr1.png",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -778,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 543,
       "user": "HKUDS"
     },
     {
@@ -793,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 345,
       "user": "Pluviobyte"
     },
     {
@@ -808,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "kernelstub"
     },
     {
@@ -823,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "crgimenes"
     },
     {
@@ -838,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 996,
       "user": "synthetic-sciences"
     },
     {
@@ -853,8 +867,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 325,
       "user": "lxh77721"
+    },
+    {
+      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "url": "https://github.com/pocket-stack/pocketjs",
+      "published_at": "2026-07-03T07:28:28Z",
+      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
+      "source": "GitHub",
+      "stars": 313,
+      "user": "pocket-stack"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -868,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "SuperJJ007"
     },
     {
@@ -883,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 256,
       "user": "can1357"
     },
     {
@@ -899,17 +928,47 @@
       "user": "martinald"
     },
     {
-      "title": "Mr. Baby Paint & accidentally discovering a new cellular automata",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "published_at": "2026-07-06T02:48:06.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Encoding detected wrong, reading fails",
+      "url": "https://stackoverflow.com/questions/79976325/encoding-detected-wrong-reading-fails",
+      "published_at": "2026-07-07T06:20:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
-        "design",
-        "graphics"
+        "python",
+        "character-encoding"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jmillikin"
+      "source": "StackOverflow",
+      "user": "Matthias Pospiech"
+    },
+    {
+      "title": "How to access the GMail API to perform mass deletions of a large GMail Account",
+      "url": "https://stackoverflow.com/questions/79975245/how-to-access-the-gmail-api-to-perform-mass-deletions-of-a-large-gmail-account",
+      "published_at": "2026-07-06T22:40:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "google-api",
+        "gmail-api",
+        "google-api-python-client"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Steve Cohen"
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "published_at": "2026-07-07T09:00:00.000Z",
+      "description": "Forterra has deployed more than 100",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "Forterra"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Netflix invented binge-watching. Now it may have outgrown it.",
@@ -1030,22 +1089,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "published_at": "2026-07-06T15:32:43.000Z",
-      "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Microsoft",
-        "tech layoffs",
-        "xbox"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
@@ -1181,20 +1224,6 @@
       "user": "Martin Stark"
     },
     {
-      "title": "How to Read a webrtc-internals Dump, Section by Section",
-      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
-      "published_at": "2026-06-18T12:56:27Z",
-      "description": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
-      "tags": [
-        "webrtc",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmh3wehy8yvc5xdocdo3.png",
-      "source": "Dev.to",
-      "user": "Tsahi Levent-Levi"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1326,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 502,
       "user": "dzhng"
     },
     {
@@ -1356,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 281,
       "user": "majidmanzarpour"
     },
     {
@@ -1371,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 168,
       "user": "zjp1997720"
     },
     {
@@ -1401,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2754,
+      "stars": 2857,
       "user": "elder-plinius"
     },
     {
@@ -1416,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 996,
       "user": "synthetic-sciences"
     },
     {
@@ -1431,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 636,
       "user": "LinXiaoTao"
     },
     {
@@ -1446,23 +1475,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 325,
       "user": "lxh77721"
     },
     {
-      "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "published_at": "2026-07-02T20:39:23Z",
-      "description": "The local merge queue for parallel Claude Code agents. ",
+      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "url": "https://github.com/pocket-stack/pocketjs",
+      "published_at": "2026-07-03T07:28:28Z",
+      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/112627?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "funador"
+      "stars": 313,
+      "user": "pocket-stack"
     },
     {
       "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
@@ -1491,6 +1520,20 @@
       "user": "aaron"
     },
     {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
+    },
+    {
       "title": "Sorting div-table without jQuery",
       "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
       "published_at": "2026-07-05T01:05:30.000Z",
@@ -1501,20 +1544,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SoranDK"
-    },
-    {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
     },
     {
       "title": "node spawn trouble with doing a graceful shutdown",
@@ -1563,20 +1592,19 @@
       "user": "Fi Li Ppo"
     },
     {
-      "title": "What are the best practices for getting helpful answers on a new post?",
-      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
-      "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "How to implement role-based navigation in a React Navbar using Context API and React Router?",
+      "url": "https://stackoverflow.com/questions/79972741/how-to-implement-role-based-navigation-in-a-react-navbar-using-context-api-and-r",
+      "published_at": "2026-07-02T18:00:28.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "html",
         "reactjs",
-        "typescript",
-        "next.js"
+        "react-router",
+        "navbar"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mohamed Oulahguine"
+      "user": "context-coders"
     },
     {
       "title": "React best way to use voiceMode",
@@ -1605,19 +1633,18 @@
       "user": "fatima hero"
     },
     {
-      "title": "Getting image from external endpoint in Node and passing to React",
-      "url": "https://stackoverflow.com/questions/79970309/getting-image-from-external-endpoint-in-node-and-passing-to-react",
-      "published_at": "2026-06-29T12:19:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "IOS application Distribution without appstore",
+      "url": "https://stackoverflow.com/questions/79971952/ios-application-distribution-without-appstore",
+      "published_at": "2026-07-01T03:42:55.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "javascript",
-        "node.js",
-        "image",
-        "base64"
+        "ios",
+        "react-native"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Paddy Hallihan"
+      "user": "D-Sibu"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1860,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 543,
       "user": "HKUDS"
     },
     {
@@ -1875,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "asz798838958"
     },
     {
@@ -1890,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 345,
       "user": "Pluviobyte"
     },
     {
@@ -1905,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 341,
       "user": "nagisanzenin"
     },
     {
@@ -1920,8 +1947,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 256,
       "user": "can1357"
+    },
+    {
+      "title": "Encoding detected wrong, reading fails",
+      "url": "https://stackoverflow.com/questions/79976325/encoding-detected-wrong-reading-fails",
+      "published_at": "2026-07-07T06:20:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "character-encoding"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Matthias Pospiech"
     },
     {
       "title": "time complexity ~~ python",
@@ -1956,7 +1996,7 @@
       "title": "Arduino: reading output in python",
       "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
       "published_at": "2026-07-07T01:29:20.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "python",
         "arduino"
@@ -1966,10 +2006,10 @@
       "user": "paulie walnuts"
     },
     {
-      "title": "Python/SQLAlchemy – Need help building my models connecting tags to posts (many-to-many)",
-      "url": "https://stackoverflow.com/questions/79975269/python-sqlalchemy-need-help-building-my-models-connecting-tags-to-posts-many",
+      "title": "Connecting tags to posts (many-to-many)",
+      "url": "https://stackoverflow.com/questions/79975269/connecting-tags-to-posts-many-to-many",
       "published_at": "2026-07-07T01:46:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "sqlalchemy"
@@ -1977,6 +2017,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dr_colossus"
+    },
+    {
+      "title": "How to access the GMail API to perform mass deletions of a large GMail Account",
+      "url": "https://stackoverflow.com/questions/79975245/how-to-access-the-gmail-api-to-perform-mass-deletions-of-a-large-gmail-account",
+      "published_at": "2026-07-06T22:40:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "google-api",
+        "gmail-api",
+        "google-api-python-client"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Steve Cohen"
     },
     {
       "title": "How do I cut down on the complexity (O(n^3))?",
@@ -1990,6 +2045,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ayaan Shaheen"
+    },
+    {
+      "title": "Why does ogbench use mujoco.Renderer successfully in Python 3.8 but missing in Python 3.9?",
+      "url": "https://stackoverflow.com/questions/79974983/why-does-ogbench-use-mujoco-renderer-successfully-in-python-3-8-but-missing-in-p",
+      "published_at": "2026-07-06T10:16:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "import",
+        "python-3.8",
+        "python-3.9"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xingrui Zhuang"
     },
     {
       "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
@@ -2010,7 +2080,7 @@
       "title": "Font family not applying",
       "url": "https://stackoverflow.com/questions/79975094/font-family-not-applying",
       "published_at": "2026-07-06T14:48:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "gtk"
@@ -2018,49 +2088,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anarg__"
-    },
-    {
-      "title": "Why is mujoco.Renderer imported successfully in Python 3.8 but missing in Python 3.9?",
-      "url": "https://stackoverflow.com/questions/79974983/why-is-mujoco-renderer-imported-successfully-in-python-3-8-but-missing-in-python",
-      "published_at": "2026-07-06T10:16:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "import",
-        "python-3.8",
-        "python-3.9",
-        "mujoco"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xingrui Zhuang"
-    },
-    {
-      "title": "XOR decryption produces wrong output when reading from file in Python",
-      "url": "https://stackoverflow.com/questions/79975045/xor-decryption-produces-wrong-output-when-reading-from-file-in-python",
-      "published_at": "2026-07-06T13:14:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "xor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "phantom_403"
-    },
-    {
-      "title": "Looking for best Python Libraries for Network Automation",
-      "url": "https://stackoverflow.com/questions/79974996/looking-for-best-python-libraries-for-network-automation",
-      "published_at": "2026-07-06T10:59:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "network-programming",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mansi_Tibude"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2329,7 +2356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "SuperJJ007"
     },
     {
@@ -2344,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 256,
       "user": "can1357"
     },
     {
@@ -2365,7 +2392,7 @@
       "title": "How to make infinite draggable background using CSS and JavaScript",
       "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
       "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2388,22 +2415,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fi Li Ppo"
-    },
-    {
-      "title": "What are the best practices for getting helpful answers on a new post?",
-      "url": "https://stackoverflow.com/questions/79974122/what-are-the-best-practices-for-getting-helpful-answers-on-a-new-post",
-      "published_at": "2026-07-03T14:51:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs",
-        "typescript",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamed Oulahguine"
     },
     {
       "title": "Choosing between backend or frontend stack",
@@ -2482,6 +2493,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F29xgtucouodnlmz9vuhp.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "IOS application Distribution without appstore",
+      "url": "https://stackoverflow.com/questions/79971952/ios-application-distribution-without-appstore",
+      "published_at": "2026-07-01T03:42:55.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "ios",
+        "react-native"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "D-Sibu"
     },
     {
       "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
@@ -2694,24 +2719,10 @@
       "user": "iancarroll"
     },
     {
-      "title": "PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care",
-      "url": "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/",
-      "published_at": "2026-07-06T07:31:02.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "linux",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kngl"
-    },
-    {
-      "title": "Python/SQLAlchemy – Need help building my models connecting tags to posts (many-to-many)",
-      "url": "https://stackoverflow.com/questions/79975269/python-sqlalchemy-need-help-building-my-models-connecting-tags-to-posts-many",
+      "title": "Connecting tags to posts (many-to-many)",
+      "url": "https://stackoverflow.com/questions/79975269/connecting-tags-to-posts-many-to-many",
       "published_at": "2026-07-07T01:46:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "sqlalchemy"
@@ -2894,7 +2905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2754,
+      "stars": 2857,
       "user": "elder-plinius"
     },
     {
@@ -3209,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 502,
       "user": "dzhng"
     },
     {
@@ -3239,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 281,
       "user": "majidmanzarpour"
     },
     {
@@ -3254,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 168,
       "user": "zjp1997720"
     },
     {
@@ -3299,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 543,
       "user": "HKUDS"
     },
     {
@@ -3314,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "asz798838958"
     },
     {
@@ -3329,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 345,
       "user": "Pluviobyte"
     },
     {
@@ -3344,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 341,
       "user": "nagisanzenin"
     },
     {
@@ -3359,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "programmersd21"
     },
     {
@@ -3374,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "kernelstub"
     },
     {
@@ -3389,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "deviseo"
     },
     {
@@ -3404,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "crgimenes"
     },
     {
@@ -3434,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2754,
+      "stars": 2857,
       "user": "elder-plinius"
     },
     {
@@ -3449,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 996,
       "user": "synthetic-sciences"
     },
     {
@@ -3464,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 636,
       "user": "LinXiaoTao"
     },
     {
@@ -3479,23 +3490,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 325,
       "user": "lxh77721"
     },
     {
-      "title": "funador/claude-code-merge-queue - The local merge queue for parallel Claude Code agents. ",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "published_at": "2026-07-02T20:39:23Z",
-      "description": "The local merge queue for parallel Claude Code agents. ",
+      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "url": "https://github.com/pocket-stack/pocketjs",
+      "published_at": "2026-07-03T07:28:28Z",
+      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/112627?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "funador"
+      "stars": 313,
+      "user": "pocket-stack"
     },
     {
       "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
@@ -3509,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 790,
       "user": "MaximeRivest"
     },
     {
@@ -3524,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 592,
       "user": "514-labs"
     },
     {
@@ -3539,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 465,
       "user": "yynxxxxx"
     },
     {
@@ -3554,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "SuperJJ007"
     },
     {
@@ -3569,8 +3580,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 256,
       "user": "can1357"
+    },
+    {
+      "title": "Radicle: P2P Git Replication with Git Native Issues and Patches",
+      "url": "https://radicle.dev/",
+      "published_at": "2026-07-06T20:52:36.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "datboi"
     },
     {
       "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
