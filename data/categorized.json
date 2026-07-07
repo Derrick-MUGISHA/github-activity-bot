@@ -119,6 +119,20 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
       "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
       "published_at": "2026-07-05T11:00:46Z",
@@ -134,18 +148,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+      "published_at": "2026-07-02T19:14:36Z",
+      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
       "tags": [
-        "ai",
-        "llm",
-        "webdev"
+        "webassembly",
+        "midsommer",
+        "azurecontainerapps",
+        "azure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
-      "user": "Sylwia Laskowska"
+      "user": "xbill"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -161,21 +176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
-      "published_at": "2026-07-02T19:14:36Z",
-      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
-      "tags": [
-        "webassembly",
-        "midsommer",
-        "azurecontainerapps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -450,21 +450,6 @@
       "user": "Ryan Palo"
     },
     {
-      "title": "For AI coding, the kids are alright",
-      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
-      "published_at": "2026-06-29T16:06:12Z",
-      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
-      "tags": [
-        "aie",
-        "beginners",
-        "softwaredevelopment",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -478,6 +463,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "For AI coding, the kids are alright",
+      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
+      "published_at": "2026-06-29T16:06:12Z",
+      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
+      "tags": [
+        "aie",
+        "beginners",
+        "softwaredevelopment",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "A Third Brain for your Second Brain",
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 550,
       "user": "HKUDS"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "Pluviobyte"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "kernelstub"
     },
     {
@@ -852,8 +852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1083,
       "user": "synthetic-sciences"
+    },
+    {
+      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "published_at": "2026-07-05T06:30:55Z",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
+      "source": "GitHub",
+      "stars": 350,
+      "user": "simonlin1212"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -867,23 +882,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 330,
       "user": "lxh77721"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 313,
-      "user": "pocket-stack"
     },
     {
       "title": "SuperJJ007/CSSwitch - 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "SuperJJ007"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 286,
       "user": "can1357"
     },
     {
@@ -928,10 +928,41 @@
       "user": "martinald"
     },
     {
+      "title": "Why does Claude only see my React SPA's raw HTML when auditing a URL? Does this mean React SPAs are ineffective for AI crawlers?",
+      "url": "https://stackoverflow.com/questions/79976387/why-does-claude-only-see-my-react-spas-raw-html-when-auditing-a-url-does-this",
+      "published_at": "2026-07-07T09:11:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "artificial-intelligence",
+        "web-crawler",
+        "claude"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gajendra Naphade"
+    },
+    {
+      "title": "How can I build an AI automation workflow that extracts email data, stores it in a CRM, sends follow-up messages without creating duplicate records?",
+      "url": "https://stackoverflow.com/questions/79976430/how-can-i-build-an-ai-automation-workflow-that-extracts-email-data-stores-it-in",
+      "published_at": "2026-07-07T11:00:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "crm",
+        "erp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Suraj"
+    },
+    {
       "title": "Encoding detected wrong, reading fails",
       "url": "https://stackoverflow.com/questions/79976325/encoding-detected-wrong-reading-fails",
       "published_at": "2026-07-07T06:20:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "character-encoding"
@@ -954,6 +985,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Steve Cohen"
+    },
+    {
+      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "published_at": "2026-07-07T12:00:00.000Z",
+      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "fraud detection",
+        "Savi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
@@ -1355,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 516,
       "user": "dzhng"
     },
     {
@@ -1370,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "xt4d"
     },
     {
@@ -1385,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 293,
       "user": "majidmanzarpour"
     },
     {
@@ -1400,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 174,
       "user": "zjp1997720"
     },
     {
@@ -1415,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "texel-org"
     },
     {
@@ -1430,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2857,
+      "stars": 2949,
       "user": "elder-plinius"
     },
     {
@@ -1445,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1083,
       "user": "synthetic-sciences"
     },
     {
@@ -1460,8 +1507,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 640,
       "user": "LinXiaoTao"
+    },
+    {
+      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "published_at": "2026-07-05T06:30:55Z",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
+      "source": "GitHub",
+      "stars": 350,
+      "user": "simonlin1212"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -1475,23 +1537,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 330,
       "user": "lxh77721"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 313,
-      "user": "pocket-stack"
     },
     {
       "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
@@ -1506,10 +1553,51 @@
       "user": "RaphGL"
     },
     {
+      "title": "How to calculate zodiac sign from date of birth using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79976394/how-to-calculate-zodiac-sign-from-date-of-birth-using-javascript",
+      "published_at": "2026-07-07T09:26:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "astrologer tejas"
+    },
+    {
+      "title": "Why does Claude only see my React SPA's raw HTML when auditing a URL? Does this mean React SPAs are ineffective for AI crawlers?",
+      "url": "https://stackoverflow.com/questions/79976387/why-does-claude-only-see-my-react-spas-raw-html-when-auditing-a-url-does-this",
+      "published_at": "2026-07-07T09:11:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "artificial-intelligence",
+        "web-crawler",
+        "claude"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gajendra Naphade"
+    },
+    {
+      "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
+      "url": "https://stackoverflow.com/questions/79976386/zooming-with-mouse-wheel-in-an-html-document-but-need-to-stop-vertical-scroll",
+      "published_at": "2026-07-07T09:11:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "robkblue"
+    },
+    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 13 answers · score 6",
+      "description": "Stack Overflow question · 13 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -1562,22 +1650,6 @@
       "user": "SkiperTheBoss"
     },
     {
-      "title": "How to run both api and web with arrow keys to change command prompt to api/web?",
-      "url": "https://stackoverflow.com/questions/79974651/how-to-run-both-api-and-web-with-arrow-keys-to-change-command-prompt-to-api-web",
-      "published_at": "2026-07-05T11:01:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "typescript",
-        "next.js",
-        "nestjs",
-        "turborepo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soham Chavan "
-    },
-    {
       "title": "Plate does not preserve empty paragraphs on paste from HTML source",
       "url": "https://stackoverflow.com/questions/79974139/plate-does-not-preserve-empty-paragraphs-on-paste-from-html-source",
       "published_at": "2026-07-03T15:35:23.000Z",
@@ -1617,34 +1689,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "coding for good"
-    },
-    {
-      "title": "Choosing between backend or frontend stack",
-      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
-      "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "frontend",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fatima hero"
-    },
-    {
-      "title": "IOS application Distribution without appstore",
-      "url": "https://stackoverflow.com/questions/79971952/ios-application-distribution-without-appstore",
-      "published_at": "2026-07-01T03:42:55.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "ios",
-        "react-native"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "D-Sibu"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -1887,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 550,
       "user": "HKUDS"
     },
     {
@@ -1902,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "asz798838958"
     },
     {
@@ -1917,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "Pluviobyte"
     },
     {
@@ -1932,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 346,
       "user": "nagisanzenin"
     },
     {
@@ -1947,14 +1991,75 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 286,
       "user": "can1357"
+    },
+    {
+      "title": "How to turn a split string into multiple dictionary keys?",
+      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
+      "published_at": "2026-07-07T11:02:26.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "list",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter Lichtenstein"
+    },
+    {
+      "title": "How can I build an AI automation workflow that extracts email data, stores it in a CRM, sends follow-up messages without creating duplicate records?",
+      "url": "https://stackoverflow.com/questions/79976430/how-can-i-build-an-ai-automation-workflow-that-extracts-email-data-stores-it-in",
+      "published_at": "2026-07-07T11:00:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "crm",
+        "erp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Suraj"
+    },
+    {
+      "title": "Should I remove records where pickup and dropoff locations are the same when cleaning the NYC Taxi dataset?",
+      "url": "https://stackoverflow.com/questions/79976438/should-i-remove-records-where-pickup-and-dropoff-locations-are-the-same-when-cle",
+      "published_at": "2026-07-07T11:20:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyspark",
+        "data-science",
+        "bigdata",
+        "data-mining"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sudam Ranasinghe"
+    },
+    {
+      "title": "Previous page's custom HTML persists during page transition",
+      "url": "https://stackoverflow.com/questions/79976443/previous-pages-custom-html-persists-during-page-transition",
+      "published_at": "2026-07-07T11:28:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "dom",
+        "navigation",
+        "streamlit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eesh"
     },
     {
       "title": "Encoding detected wrong, reading fails",
       "url": "https://stackoverflow.com/questions/79976325/encoding-detected-wrong-reading-fails",
       "published_at": "2026-07-07T06:20:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "character-encoding"
@@ -1979,20 +2084,6 @@
       "user": "Ashis Shaw"
     },
     {
-      "title": "How to turn a list of strings into multiple dictionary keys?",
-      "url": "https://stackoverflow.com/questions/79976281/how-to-turn-a-list-of-strings-into-multiple-dictionary-keys",
-      "published_at": "2026-07-07T03:28:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "list",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Lichtenstein"
-    },
-    {
       "title": "Arduino: reading output in python",
       "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
       "published_at": "2026-07-07T01:29:20.000Z",
@@ -2004,6 +2095,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "paulie walnuts"
+    },
+    {
+      "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
+      "url": "https://stackoverflow.com/questions/79975201/which-approaches-should-be-used-for-monthly-demand-forecasting-with-few-observat",
+      "published_at": "2026-07-06T19:07:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "machine-learning",
+        "data-analysis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Romulo Carneiro"
     },
     {
       "title": "Connecting tags to posts (many-to-many)",
@@ -2032,62 +2138,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Steve Cohen"
-    },
-    {
-      "title": "How do I cut down on the complexity (O(n^3))?",
-      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
-      "published_at": "2026-07-06T15:10:41.000Z",
-      "description": "Stack Overflow question · 16 answers · score 1",
-      "tags": [
-        "python",
-        "optimization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayaan Shaheen"
-    },
-    {
-      "title": "Why does ogbench use mujoco.Renderer successfully in Python 3.8 but missing in Python 3.9?",
-      "url": "https://stackoverflow.com/questions/79974983/why-does-ogbench-use-mujoco-renderer-successfully-in-python-3-8-but-missing-in-p",
-      "published_at": "2026-07-06T10:16:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "import",
-        "python-3.8",
-        "python-3.9"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xingrui Zhuang"
-    },
-    {
-      "title": "Which approaches should be used for monthly demand forecasting with few observations per product?",
-      "url": "https://stackoverflow.com/questions/79975201/which-approaches-should-be-used-for-monthly-demand-forecasting-with-few-observat",
-      "published_at": "2026-07-06T19:07:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "machine-learning",
-        "data-analysis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Romulo Carneiro"
-    },
-    {
-      "title": "Font family not applying",
-      "url": "https://stackoverflow.com/questions/79975094/font-family-not-applying",
-      "published_at": "2026-07-06T14:48:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "gtk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anarg__"
     },
     {
       "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
@@ -2356,7 +2406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "SuperJJ007"
     },
     {
@@ -2371,14 +2421,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 286,
       "user": "can1357"
+    },
+    {
+      "title": "Why does Claude only see my React SPA's raw HTML when auditing a URL? Does this mean React SPAs are ineffective for AI crawlers?",
+      "url": "https://stackoverflow.com/questions/79976387/why-does-claude-only-see-my-react-spas-raw-html-when-auditing-a-url-does-this",
+      "published_at": "2026-07-07T09:11:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "artificial-intelligence",
+        "web-crawler",
+        "claude"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gajendra Naphade"
+    },
+    {
+      "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
+      "url": "https://stackoverflow.com/questions/79976386/zooming-with-mouse-wheel-in-an-html-document-but-need-to-stop-vertical-scroll",
+      "published_at": "2026-07-07T09:11:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "robkblue"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 13 answers · score 6",
+      "description": "Stack Overflow question · 13 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -2417,18 +2496,20 @@
       "user": "Fi Li Ppo"
     },
     {
-      "title": "Choosing between backend or frontend stack",
-      "url": "https://stackoverflow.com/questions/79972524/choosing-between-backend-or-frontend-stack",
-      "published_at": "2026-07-02T09:01:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "title": "Previous page's custom HTML persists during page transition",
+      "url": "https://stackoverflow.com/questions/79976443/previous-pages-custom-html-persists-during-page-transition",
+      "published_at": "2026-07-07T11:28:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "javascript",
-        "frontend",
-        "backend"
+        "python",
+        "html",
+        "dom",
+        "navigation",
+        "streamlit"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "fatima hero"
+      "user": "eesh"
     },
     {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
@@ -2495,18 +2576,20 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "IOS application Distribution without appstore",
-      "url": "https://stackoverflow.com/questions/79971952/ios-application-distribution-without-appstore",
-      "published_at": "2026-07-01T03:42:55.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "published_at": "2026-07-07T12:00:00.000Z",
+      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
       "tags": [
-        "javascript",
-        "ios",
-        "react-native"
+        "Startups",
+        "Security",
+        "AI",
+        "fraud detection",
+        "Savi"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "D-Sibu"
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
@@ -2905,8 +2988,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2857,
+      "stars": 2949,
       "user": "elder-plinius"
+    },
+    {
+      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "published_at": "2026-07-07T12:00:00.000Z",
+      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "fraud detection",
+        "Savi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
@@ -3220,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 516,
       "user": "dzhng"
     },
     {
@@ -3235,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "xt4d"
     },
     {
@@ -3250,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 293,
       "user": "majidmanzarpour"
     },
     {
@@ -3265,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 174,
       "user": "zjp1997720"
     },
     {
@@ -3280,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177334568?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "texel-org"
     },
     {
@@ -3310,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 550,
       "user": "HKUDS"
     },
     {
@@ -3325,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "asz798838958"
     },
     {
@@ -3340,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "Pluviobyte"
     },
     {
@@ -3355,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 346,
       "user": "nagisanzenin"
     },
     {
@@ -3370,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "programmersd21"
     },
     {
@@ -3385,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "kernelstub"
     },
     {
@@ -3445,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 2857,
+      "stars": 2949,
       "user": "elder-plinius"
     },
     {
@@ -3460,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1083,
       "user": "synthetic-sciences"
     },
     {
@@ -3475,8 +3574,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 640,
       "user": "LinXiaoTao"
+    },
+    {
+      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "published_at": "2026-07-05T06:30:55Z",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
+      "source": "GitHub",
+      "stars": 350,
+      "user": "simonlin1212"
     },
     {
       "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
@@ -3490,23 +3604,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 330,
       "user": "lxh77721"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 313,
-      "user": "pocket-stack"
     },
     {
       "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
@@ -3520,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 882,
       "user": "MaximeRivest"
     },
     {
@@ -3535,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 603,
       "user": "514-labs"
     },
     {
@@ -3550,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 483,
       "user": "yynxxxxx"
     },
     {
@@ -3565,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "SuperJJ007"
     },
     {
@@ -3580,8 +3679,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 286,
       "user": "can1357"
+    },
+    {
+      "title": "Google’s exponential path to climate-wrecking digital bloat",
+      "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+      "published_at": "2026-07-07T02:33:16.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sjamaan"
     },
     {
       "title": "Radicle: P2P Git Replication with Git Native Issues and Patches",
