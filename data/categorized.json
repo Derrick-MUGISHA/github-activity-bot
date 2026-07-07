@@ -16,6 +16,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Being an engineer in the AI era",
+      "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
+      "published_at": "2026-07-07T20:10:15Z",
+      "description": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
+      "tags": [
+        "ai",
+        "discuss",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
       "published_at": "2026-07-07T01:44:15Z",
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "HKUDS"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1287,
+      "stars": 1313,
       "user": "synthetic-sciences"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 432,
       "user": "simonlin1212"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "pocket-stack"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 321,
       "user": "can1357"
     },
     {
@@ -887,6 +902,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Karthik"
+    },
+    {
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "published_at": "2026-07-07T22:18:10.000Z",
+      "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "tags": [
+        "AI",
+        "Meta",
+        "Meta Superintelligence",
+        "Muse Image"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
@@ -980,22 +1010,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "VC firm Chemistry is raising $500M for its second fund",
-      "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
-      "published_at": "2026-07-07T15:02:02.000Z",
-      "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
-      "tags": [
-        "Venture",
-        "a16z",
-        "bessemer",
-        "chemistry",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
@@ -1277,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 875,
       "user": "Shpigford"
     },
     {
@@ -1352,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3220,
+      "stars": 3254,
       "user": "elder-plinius"
     },
     {
@@ -1367,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1287,
+      "stars": 1313,
       "user": "synthetic-sciences"
     },
     {
@@ -1382,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 653,
       "user": "LinXiaoTao"
     },
     {
@@ -1397,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 432,
       "user": "simonlin1212"
     },
     {
@@ -1412,20 +1426,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "pocket-stack"
     },
     {
-      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
-      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
-      "published_at": "2026-07-06T14:47:11.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Question about javascript's JSON.parse() and Array.map() functions",
+      "url": "https://stackoverflow.com/questions/79976652/question-about-javascripts-json-parse-and-array-map-functions",
+      "published_at": "2026-07-07T21:55:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "windows"
+        "javascript"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "RaphGL"
+      "source": "StackOverflow",
+      "user": "kalinma"
     },
     {
       "title": "Javascript Fetch API - How to save output to variable as an Object",
@@ -1555,21 +1569,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shounak Mahata"
-    },
-    {
-      "title": "How to implement role-based navigation in a React Navbar using Context API and React Router?",
-      "url": "https://stackoverflow.com/questions/79972741/how-to-implement-role-based-navigation-in-a-react-navbar-using-context-api-and-r",
-      "published_at": "2026-07-02T18:00:28.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-router",
-        "navbar"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "context-coders"
     },
     {
       "title": "Pros, what y’all think about this roadmap from AI?",
@@ -1843,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 815,
       "user": "x4gKing"
     },
     {
@@ -1873,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "HKUDS"
     },
     {
@@ -1888,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 531,
       "user": "anthropics"
     },
     {
@@ -1918,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 321,
       "user": "can1357"
     },
     {
@@ -1935,18 +1934,18 @@
       "user": "yossarian"
     },
     {
-      "title": "ValueError: Couldn't instantiate the backend tokenizer",
-      "url": "https://stackoverflow.com/questions/79976632/valueerror-couldnt-instantiate-the-backend-tokenizer",
-      "published_at": "2026-07-07T20:20:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Python multiprocessing worker hangs only after garbage collection runs with shared memory objects",
+      "url": "https://stackoverflow.com/questions/79976649/python-multiprocessing-worker-hangs-only-after-garbage-collection-runs-with-shar",
+      "published_at": "2026-07-07T21:31:30.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
-        "python-3.x",
-        "macos"
+        "multithreading",
+        "multiprocessing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "ebikatsu"
+      "user": "NightKevin"
     },
     {
       "title": "Pros, what y’all think about this roadmap from AI?",
@@ -2062,20 +2061,17 @@
       "user": "Priya Singh"
     },
     {
-      "title": "Previous page's custom HTML persists during page transition",
-      "url": "https://stackoverflow.com/questions/79976443/previous-pages-custom-html-persists-during-page-transition",
-      "published_at": "2026-07-07T11:28:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Arduino: reading output in python",
+      "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
+      "published_at": "2026-07-07T01:29:20.000Z",
+      "description": "Stack Overflow question · 7 answers · score 0",
       "tags": [
         "python",
-        "html",
-        "dom",
-        "navigation",
-        "streamlit"
+        "arduino"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "eesh"
+      "user": "paulie walnuts"
     }
   ],
   "DevOps": [
@@ -2330,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 321,
       "user": "can1357"
     },
     {
@@ -2403,36 +2399,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Trushank Vaghasiya"
-    },
-    {
-      "title": "ValueError: Couldn't instantiate the backend tokenizer",
-      "url": "https://stackoverflow.com/questions/79976632/valueerror-couldnt-instantiate-the-backend-tokenizer",
-      "published_at": "2026-07-07T20:20:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "python-3.x",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ebikatsu"
-    },
-    {
-      "title": "Previous page's custom HTML persists during page transition",
-      "url": "https://stackoverflow.com/questions/79976443/previous-pages-custom-html-persists-during-page-transition",
-      "published_at": "2026-07-07T11:28:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "dom",
-        "navigation",
-        "streamlit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eesh"
     },
     {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
@@ -2923,7 +2889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3220,
+      "stars": 3254,
       "user": "elder-plinius"
     },
     {
@@ -3016,6 +2982,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Being an engineer in the AI era",
+      "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
+      "published_at": "2026-07-07T20:10:15Z",
+      "description": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
+      "tags": [
+        "ai",
+        "discuss",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
@@ -3286,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 875,
       "user": "Shpigford"
     },
     {
@@ -3361,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 815,
       "user": "x4gKing"
     },
     {
@@ -3391,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "HKUDS"
     },
     {
@@ -3406,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 531,
       "user": "anthropics"
     },
     {
@@ -3436,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "programmersd21"
     },
     {
@@ -3496,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274402647?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "openlibrecommunity"
     },
     {
@@ -3511,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3220,
+      "stars": 3254,
       "user": "elder-plinius"
     },
     {
@@ -3526,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1287,
+      "stars": 1313,
       "user": "synthetic-sciences"
     },
     {
@@ -3541,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 653,
       "user": "LinXiaoTao"
     },
     {
@@ -3556,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 432,
       "user": "simonlin1212"
     },
     {
@@ -3571,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "pocket-stack"
     },
     {
@@ -3586,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1033,
       "user": "MaximeRivest"
     },
     {
@@ -3601,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 661,
       "user": "514-labs"
     },
     {
@@ -3631,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 321,
       "user": "can1357"
     },
     {
