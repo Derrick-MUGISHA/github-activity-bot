@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
+      "published_at": "2026-07-07T15:54:40Z",
+      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
       "published_at": "2026-07-07T01:44:15Z",
@@ -14,6 +29,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
+      "url": "https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j",
+      "published_at": "2026-07-07T17:28:25Z",
+      "description": "In this episode of the Agent Factory, I sat down with Rody Davis, one of Google's top agentic...",
+      "tags": [
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Forward Deployed Engineers and the future of software engineering",
@@ -283,21 +311,6 @@
       "user": "Joaquin Menchaca"
     },
     {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
-      "published_at": "2026-06-22T17:13:03Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "qat",
-        "gemma4",
-        "mcps",
-        "azurecontainerapps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -311,6 +324,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
+      "published_at": "2026-06-22T17:13:03Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "tags": [
+        "qat",
+        "gemma4",
+        "mcps",
+        "azurecontainerapps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "After a long journey, I've reached a deep burnout",
@@ -751,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 565,
       "user": "HKUDS"
     },
     {
@@ -781,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "crgimenes"
     },
     {
@@ -796,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1226,
+      "stars": 1263,
       "user": "synthetic-sciences"
     },
     {
@@ -811,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 421,
       "user": "simonlin1212"
     },
     {
@@ -826,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 363,
       "user": "pocket-stack"
     },
     {
@@ -841,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 311,
       "user": "can1357"
     },
     {
@@ -860,18 +888,6 @@
       "user": "SuperJJ007"
     },
     {
-      "title": "Put NetHack on my community app and this 38-year-old game keeps outsmarting me",
-      "url": "https://lobste.rs/s/xiamhy/put_nethack_on_my_community_app_this_38",
-      "published_at": "2026-07-07T07:29:11.000-05:00",
-      "description": "I added NetHack to my community app a while back, unmodified upstream binary running on a shared box. I thought I was adding \"an old roguelike\". I was not prepared. :D\r\n\r\nIt shipped multiplayer in the 80s and nobody calls it that. Bones files. Someone dies on lvl 12, their ghost and their cursed loot get written to disk, and another player on the same machine walks into that grave later. People are haunting each other with zero configuration.\r\n\r\n\"The DevTeam thinks of everything\" is not a meme. Every \"surely this won't work\" works. Every \"surely the game doesn't track that\" is tracked. You can wield a cockatrice corpse as a weapon (wear gloves). You can scare monsters by writing Elbereth in the dust. You can dip, rub, sit on, and kick basically anything, and the game has an opinion about all of it. I keep watching people find interactions I didn't know existed, in a game running unmodified on my box.\r\n\r\nAnd it's still alive. First released in 1987, still maintained by the DevTeam today, and it hangs in MoMA's collection as one of the culturally significant video games. A museum piece that still gets patches. Meanwhile it runs on a potato over a text terminal.\r\n\r\nLove it :D",
-      "tags": [
-        "games"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Bl4ckBe4r"
-    },
-    {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
@@ -888,10 +904,26 @@
       "user": "Reda ait"
     },
     {
+      "title": "Pros, what y’all think about this roadmap from AI?",
+      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
+      "published_at": "2026-07-07T18:08:19.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "node.js",
+        "linux",
+        "security",
+        "network-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gamers по сети"
+    },
+    {
       "title": "Python concepts for 'AI-ML projects' and 'OpenSource Contribution'",
       "url": "https://stackoverflow.com/questions/79976495/python-concepts-for-ai-ml-projects-and-opensource-contribution",
       "published_at": "2026-07-07T13:20:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "open-source",
@@ -900,21 +932,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Karthik"
-    },
-    {
-      "title": "How can I build an AI automation workflow that extracts email data, stores it in a CRM, sends follow-up messages without creating duplicate records?",
-      "url": "https://stackoverflow.com/questions/79976430/how-can-i-build-an-ai-automation-workflow-that-extracts-email-data-stores-it-in",
-      "published_at": "2026-07-07T11:00:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "crm",
-        "erp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Suraj"
     },
     {
       "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
@@ -964,7 +981,7 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Chemistry Ventures is raising $500M for its second fund",
+      "title": "VC firm Chemistry is raising $500M for its second fund",
       "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
       "published_at": "2026-07-07T15:02:02.000Z",
       "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
@@ -1012,36 +1029,33 @@
       "user": "Sean O'Kane"
     },
     {
-      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "published_at": "2026-07-07T12:00:00.000Z",
-      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
+      "published_at": "2026-07-07T16:23:22.000Z",
+      "description": "Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these",
       "tags": [
-        "Startups",
-        "Security",
-        "AI",
-        "acrew capital",
-        "AI scams"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "OCR",
+        "pdf to text"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "published_at": "2026-07-07T09:00:00.000Z",
-      "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+      "title": "AI Agents For Beginners",
+      "url": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
+      "published_at": "2026-07-07T15:35:18.000Z",
+      "description": "We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take",
       "tags": [
-        "AI",
-        "Robotics",
-        "autonomous vehicles",
-        "defense tech",
-        "Exclusive"
+        "agentic AI",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
@@ -1095,35 +1109,6 @@
       "tags": [
         "#ai-tools",
         "Productivity"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
-      "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
-      "published_at": "2026-07-02T23:21:11.000Z",
-      "description": "In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe",
-      "tags": [
-        "AI",
-        "langchain",
-        "RAG"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "Codex vs Claude Code: Which AI Coding Assistant to Choose",
-      "url": "https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/",
-      "published_at": "2026-07-02T16:54:03.000Z",
-      "description": "AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t",
-      "tags": [
-        "ai-agent",
-        "claude",
-        "codex",
-        "llm"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -1297,21 +1282,6 @@
       "user": "velmu"
     },
     {
-      "title": "dzhng/skills - GitHub Repository",
-      "url": "https://github.com/dzhng/skills",
-      "published_at": "2026-07-02T10:24:16Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "dzhng"
-    },
-    {
       "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "url": "https://github.com/Shpigford/knockoff",
       "published_at": "2026-07-06T15:06:06Z",
@@ -1323,8 +1293,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 639,
       "user": "Shpigford"
+    },
+    {
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "source": "GitHub",
+      "stars": 529,
+      "user": "dzhng"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -1353,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 320,
       "user": "majidmanzarpour"
     },
     {
@@ -1383,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3135,
+      "stars": 3182,
       "user": "elder-plinius"
     },
     {
@@ -1398,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1226,
+      "stars": 1263,
       "user": "synthetic-sciences"
     },
     {
@@ -1413,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 651,
       "user": "LinXiaoTao"
     },
     {
@@ -1428,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 421,
       "user": "simonlin1212"
     },
     {
@@ -1443,8 +1428,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 363,
       "user": "pocket-stack"
+    },
+    {
+      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
+      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
+      "published_at": "2026-07-06T14:47:11.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "RaphGL"
+    },
+    {
+      "title": "Javascript Fetch API - How to save output to variable as an Object",
+      "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
+      "published_at": "2026-07-07T18:36:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "express",
+        "fetch"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel"
     },
     {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
@@ -1466,7 +1478,7 @@
       "title": "React state updates correctly but UI displays previous value after async operation",
       "url": "https://stackoverflow.com/questions/79976564/react-state-updates-correctly-but-ui-displays-previous-value-after-async-operati",
       "published_at": "2026-07-07T16:14:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs"
@@ -1488,18 +1500,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "How to calculate zodiac sign from date of birth using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79976394/how-to-calculate-zodiac-sign-from-date-of-birth-using-javascript",
-      "published_at": "2026-07-07T09:26:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "astrologer tejas"
     },
     {
       "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
@@ -1588,6 +1588,38 @@
       "user": "context-coders"
     },
     {
+      "title": "Pros, what y’all think about this roadmap from AI?",
+      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
+      "published_at": "2026-07-07T18:08:19.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "node.js",
+        "linux",
+        "security",
+        "network-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gamers по сети"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
+      "published_at": "2026-07-07T16:23:22.000Z",
+      "description": "Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "OCR",
+        "pdf to text"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
       "published_at": "2026-07-06T13:55:11.000Z",
@@ -1617,22 +1649,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)",
-      "url": "https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/",
-      "published_at": "2026-07-03T15:30:18.000Z",
-      "description": "Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a",
-      "tags": [
-        "shopify",
-        "JavaScript",
-        "Shopify Development",
-        "ecommerce",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "baslefeber"
     }
   ],
   "Python": [
@@ -1817,6 +1833,21 @@
       "user": "jmerelnyc"
     },
     {
+      "title": "x4gKing/X4G - GitHub Repository",
+      "url": "https://github.com/x4gKing/X4G",
+      "published_at": "2026-07-04T06:43:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
+      "source": "GitHub",
+      "stars": 587,
+      "user": "x4gKing"
+    },
+    {
       "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "url": "https://github.com/HKUDS/OpenOPC",
       "published_at": "2026-07-01T10:17:37Z",
@@ -1828,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 565,
       "user": "HKUDS"
     },
     {
@@ -1858,23 +1889,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 490,
       "user": "anthropics"
-    },
-    {
-      "title": "x4gKing/X4G - GitHub Repository",
-      "url": "https://github.com/x4gKing/X4G",
-      "published_at": "2026-07-04T06:43:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 410,
-      "user": "x4gKing"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -1888,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 311,
       "user": "can1357"
     },
     {
@@ -1905,22 +1921,53 @@
       "user": "yossarian"
     },
     {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Pros, what y’all think about this roadmap from AI?",
+      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
+      "published_at": "2026-07-07T18:08:19.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "node.js",
+        "linux",
+        "security",
+        "network-programming"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NightKevin"
+      "user": "Gamers по сети"
+    },
+    {
+      "title": "How can I configure IntelliJ to write Python code?",
+      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
+      "published_at": "2026-07-07T18:25:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "intellij-idea"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lewhat kahsay"
+    },
+    {
+      "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
+      "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
+      "published_at": "2026-07-07T18:29:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sefat Khan"
     },
     {
       "title": "How to turn a split string into multiple dictionary keys?",
       "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
       "published_at": "2026-07-07T11:02:26.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
+      "description": "Stack Overflow question · 7 answers · score 0",
       "tags": [
         "python",
         "list",
@@ -1934,7 +1981,7 @@
       "title": "Python concepts for 'AI-ML projects' and 'OpenSource Contribution'",
       "url": "https://stackoverflow.com/questions/79976495/python-concepts-for-ai-ml-projects-and-opensource-contribution",
       "published_at": "2026-07-07T13:20:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "open-source",
@@ -1943,6 +1990,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Karthik"
+    },
+    {
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NightKevin"
     },
     {
       "title": "How can I make sure flush() has completed before creating a Milvus snapshot with PyMilvus?",
@@ -2003,63 +2062,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "eesh"
-    },
-    {
-      "title": "How can I build an AI automation workflow that extracts email data, stores it in a CRM, sends follow-up messages without creating duplicate records?",
-      "url": "https://stackoverflow.com/questions/79976430/how-can-i-build-an-ai-automation-workflow-that-extracts-email-data-stores-it-in",
-      "published_at": "2026-07-07T11:00:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "crm",
-        "erp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Suraj"
-    },
-    {
-      "title": "time complexity ~~ python",
-      "url": "https://stackoverflow.com/questions/79976302/time-complexity-python",
-      "published_at": "2026-07-07T05:25:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "arrays",
-        "list",
-        "time"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ashis Shaw"
-    },
-    {
-      "title": "Arduino: reading output in python",
-      "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
-      "published_at": "2026-07-07T01:29:20.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "python",
-        "arduino"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "paulie walnuts"
-    },
-    {
-      "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
-      "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
-      "published_at": "2026-07-02T23:21:11.000Z",
-      "description": "In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe",
-      "tags": [
-        "AI",
-        "langchain",
-        "RAG"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
     }
   ],
   "DevOps": [
@@ -2314,7 +2316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 311,
       "user": "can1357"
     },
     {
@@ -2331,6 +2333,21 @@
       "source": "GitHub",
       "stars": 299,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "Javascript Fetch API - How to save output to variable as an Object",
+      "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
+      "published_at": "2026-07-07T18:36:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "express",
+        "fetch"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
@@ -2390,6 +2407,36 @@
       "user": "eesh"
     },
     {
+      "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
+      "published_at": "2026-07-07T16:23:22.000Z",
+      "description": "Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "OCR",
+        "pdf to text"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build Production-Ready Card Components with shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/how-to-build-production-ready-card-components-with-shadcn-ui/",
+      "published_at": "2026-07-07T16:00:40.000Z",
+      "description": "Card components are one of the most common UI patterns in web development. You see them in property listing apps, SaaS analytics dashboards, e-commerce product pages, and admin panels. But building a",
+      "tags": [
+        "shadcn",
+        "UI Design",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
+    },
+    {
       "title": "How to Build a Dark Mode Toggle Without JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
       "published_at": "2026-07-06T13:55:11.000Z",
@@ -2419,22 +2466,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)",
-      "url": "https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/",
-      "published_at": "2026-07-03T15:30:18.000Z",
-      "description": "Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a",
-      "tags": [
-        "shopify",
-        "JavaScript",
-        "Shopify Development",
-        "ecommerce",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "baslefeber"
     }
   ],
   "Mobile": [
@@ -2497,22 +2528,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "published_at": "2026-07-07T12:00:00.000Z",
-      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "tags": [
-        "Startups",
-        "Security",
-        "AI",
-        "acrew capital",
-        "AI scams"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     }
   ],
   "Cloud": [
@@ -2678,6 +2693,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "AI Agents For Beginners",
+      "url": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
+      "published_at": "2026-07-07T15:35:18.000Z",
+      "description": "We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take",
+      "tags": [
+        "agentic AI",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     }
   ],
   "Database": [
@@ -2882,7 +2910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3135,
+      "stars": 3182,
       "user": "elder-plinius"
     },
     {
@@ -2915,6 +2943,22 @@
       "user": "Shounak Mahata"
     },
     {
+      "title": "Pros, what y’all think about this roadmap from AI?",
+      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
+      "published_at": "2026-07-07T18:08:19.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "node.js",
+        "linux",
+        "security",
+        "network-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gamers по сети"
+    },
+    {
       "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
       "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
       "published_at": "2026-07-07T16:45:00.000Z",
@@ -2945,22 +2989,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "published_at": "2026-07-07T12:00:00.000Z",
-      "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "tags": [
-        "Startups",
-        "Security",
-        "AI",
-        "acrew capital",
-        "AI scams"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Take Control of Your Online Privacy",
@@ -3235,21 +3263,6 @@
       "user": "pabs3"
     },
     {
-      "title": "dzhng/skills - GitHub Repository",
-      "url": "https://github.com/dzhng/skills",
-      "published_at": "2026-07-02T10:24:16Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "dzhng"
-    },
-    {
       "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "url": "https://github.com/Shpigford/knockoff",
       "published_at": "2026-07-06T15:06:06Z",
@@ -3261,8 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 639,
       "user": "Shpigford"
+    },
+    {
+      "title": "dzhng/skills - GitHub Repository",
+      "url": "https://github.com/dzhng/skills",
+      "published_at": "2026-07-02T10:24:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
+      "source": "GitHub",
+      "stars": 529,
+      "user": "dzhng"
     },
     {
       "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
@@ -3291,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 320,
       "user": "majidmanzarpour"
     },
     {
@@ -3325,6 +3353,21 @@
       "user": "jmerelnyc"
     },
     {
+      "title": "x4gKing/X4G - GitHub Repository",
+      "url": "https://github.com/x4gKing/X4G",
+      "published_at": "2026-07-04T06:43:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
+      "source": "GitHub",
+      "stars": 587,
+      "user": "x4gKing"
+    },
+    {
       "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
       "url": "https://github.com/HKUDS/OpenOPC",
       "published_at": "2026-07-01T10:17:37Z",
@@ -3336,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 565,
       "user": "HKUDS"
     },
     {
@@ -3366,23 +3409,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 490,
       "user": "anthropics"
-    },
-    {
-      "title": "x4gKing/X4G - GitHub Repository",
-      "url": "https://github.com/x4gKing/X4G",
-      "published_at": "2026-07-04T06:43:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 410,
-      "user": "x4gKing"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3396,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "programmersd21"
     },
     {
@@ -3441,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "crgimenes"
     },
     {
@@ -3456,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "MaximeRivest"
     },
     {
@@ -3471,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3135,
+      "stars": 3182,
       "user": "elder-plinius"
     },
     {
@@ -3486,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1226,
+      "stars": 1263,
       "user": "synthetic-sciences"
     },
     {
@@ -3501,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 651,
       "user": "LinXiaoTao"
     },
     {
@@ -3516,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 421,
       "user": "simonlin1212"
     },
     {
@@ -3531,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 363,
       "user": "pocket-stack"
     },
     {
@@ -3546,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1013,
       "user": "MaximeRivest"
     },
     {
@@ -3561,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 634,
       "user": "514-labs"
     },
     {
@@ -3576,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 516,
       "user": "yynxxxxx"
     },
     {
@@ -3591,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 311,
       "user": "can1357"
     },
     {
@@ -3704,21 +3732,6 @@
       "tags": [
         "#ai-tools",
         "Productivity"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Codex vs Claude Code: Which AI Coding Assistant to Choose",
-      "url": "https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/",
-      "published_at": "2026-07-02T16:54:03.000Z",
-      "description": "AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t",
-      "tags": [
-        "ai-agent",
-        "claude",
-        "codex",
-        "llm"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
