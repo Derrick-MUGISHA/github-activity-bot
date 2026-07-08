@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
-      "published_at": "2026-07-07T15:54:40Z",
-      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Being an engineer in the AI era",
       "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
       "published_at": "2026-07-07T20:10:15Z",
@@ -31,19 +16,19 @@
       "user": "Alexandra"
     },
     {
-      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
-      "published_at": "2026-07-07T01:44:15Z",
-      "description": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
+      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
+      "published_at": "2026-07-07T15:54:40Z",
+      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
       "tags": [
-        "gemma",
-        "finetuning",
-        "ai",
-        "agents"
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
       "source": "Dev.to",
-      "user": "bebechien"
+      "user": "Jess Lee"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -72,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
+      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
+      "published_at": "2026-07-07T01:44:15Z",
+      "description": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
+      "tags": [
+        "gemma",
+        "finetuning",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 244,
       "user": "nexu-io"
     },
     {
@@ -749,8 +749,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "jmerelnyc"
+    },
+    {
+      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "url": "https://github.com/olemeyer/rocketplaneIO",
+      "published_at": "2026-07-06T11:24:01Z",
+      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
+      "source": "GitHub",
+      "stars": 122,
+      "user": "olemeyer"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "crgimenes"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1499,
       "user": "synthetic-sciences"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 489,
       "user": "simonlin1212"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 400,
       "user": "pocket-stack"
     },
     {
@@ -839,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 346,
       "user": "can1357"
     },
     {
@@ -854,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "SuperJJ007"
     },
     {
@@ -889,7 +904,7 @@
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
       "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
       "published_at": "2026-07-08T00:05:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "cuda",
@@ -1273,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1131,
       "user": "Shpigford"
     },
     {
@@ -1303,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 326,
       "user": "majidmanzarpour"
     },
     {
@@ -1318,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 244,
       "user": "nexu-io"
     },
     {
@@ -1348,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3373,
+      "stars": 3471,
       "user": "elder-plinius"
     },
     {
@@ -1363,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1499,
       "user": "synthetic-sciences"
     },
     {
@@ -1378,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 670,
       "user": "LinXiaoTao"
     },
     {
@@ -1393,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 489,
       "user": "simonlin1212"
     },
     {
@@ -1408,26 +1423,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 400,
       "user": "pocket-stack"
     },
     {
-      "title": "Question about javascript's JSON.parse() and Array.map() functions",
-      "url": "https://stackoverflow.com/questions/79976652/question-about-javascripts-json-parse-and-array-map-functions",
-      "published_at": "2026-07-07T21:55:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 15 answers · score 7",
       "tags": [
-        "javascript"
+        "javascript",
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "kalinma"
+      "user": "aaron"
     },
     {
       "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -1437,20 +1454,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "React state updates correctly but UI displays previous value after async operation",
@@ -1469,7 +1472,7 @@
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "google-chrome",
@@ -1553,10 +1556,25 @@
       "user": "Shounak Mahata"
     },
     {
+      "title": "How to implement role-based navigation in a React Navbar using Context API and React Router?",
+      "url": "https://stackoverflow.com/questions/79972741/how-to-implement-role-based-navigation-in-a-react-navbar-using-context-api-and-r",
+      "published_at": "2026-07-02T18:00:28.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-router",
+        "navbar"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "context-coders"
+    },
+    {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 10 answers · score 1",
       "tags": [
         "python"
       ],
@@ -1820,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1122,
       "user": "x4gKing"
     },
     {
@@ -1835,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "jmerelnyc"
     },
     {
@@ -1850,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 679,
       "user": "anthropics"
     },
     {
@@ -1869,19 +1887,19 @@
       "user": "asz798838958"
     },
     {
-      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "url": "https://github.com/nagisanzenin/engram",
-      "published_at": "2026-07-05T09:53:10Z",
-      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "published_at": "2026-07-06T14:09:42Z",
+      "description": "Self-supervised learning for spatial perception",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 385,
-      "user": "nagisanzenin"
+      "stars": 395,
+      "user": "Robbyant"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -1895,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 346,
       "user": "can1357"
     },
     {
@@ -1912,10 +1930,22 @@
       "user": "yossarian"
     },
     {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 10 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
+    },
+    {
       "title": "Is switching from C++ to Python for DSA a good decision?",
       "url": "https://stackoverflow.com/questions/79976690/is-switching-from-c-to-python-for-dsa-a-good-decision",
       "published_at": "2026-07-08T01:41:07.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
+      "description": "Stack Overflow question · 10 answers · score 1",
       "tags": [
         "python",
         "c++",
@@ -1927,22 +1957,10 @@
       "user": "Muhammad Falak Sher"
     },
     {
-      "title": "Understanding json()",
-      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
-      "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32917238"
-    },
-    {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
       "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
       "published_at": "2026-07-08T00:05:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "cuda",
@@ -1951,6 +1969,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Engr. Khuram  Shahzad"
+    },
+    {
+      "title": "How to turn a split string into multiple dictionary keys?",
+      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
+      "published_at": "2026-07-07T11:02:26.000Z",
+      "description": "Stack Overflow question · 8 answers · score 0",
+      "tags": [
+        "python",
+        "list",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter Lichtenstein"
     },
     {
       "title": "Python multiprocessing worker hangs only after garbage collection runs with shared memory objects",
@@ -2007,20 +2039,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gamers по сети"
-    },
-    {
-      "title": "How to turn a split string into multiple dictionary keys?",
-      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
-      "published_at": "2026-07-07T11:02:26.000Z",
-      "description": "Stack Overflow question · 7 answers · score 0",
-      "tags": [
-        "python",
-        "list",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Lichtenstein"
     },
     {
       "title": "How can I configure IntelliJ to write Python code?",
@@ -2278,6 +2296,21 @@
       "user": "jknupp"
     },
     {
+      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "url": "https://github.com/olemeyer/rocketplaneIO",
+      "published_at": "2026-07-06T11:24:01Z",
+      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
+      "source": "GitHub",
+      "stars": 122,
+      "user": "olemeyer"
+    },
+    {
       "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
       "url": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
       "published_at": "2026-07-07T21:47:50.000Z",
@@ -2333,7 +2366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 346,
       "user": "can1357"
     },
     {
@@ -2348,14 +2381,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 15 answers · score 7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -2365,20 +2412,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
@@ -2411,7 +2444,7 @@
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
       "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
       "published_at": "2026-07-08T00:05:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "cuda",
@@ -2878,7 +2911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3373,
+      "stars": 3471,
       "user": "elder-plinius"
     },
     {
@@ -2893,6 +2926,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
+    },
+    {
+      "title": "OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589)",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "published_at": "2026-07-07T20:02:05.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "openbsd",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fro"
     },
     {
       "title": "Google Login authentication problem in production MERN stack",
@@ -3271,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1131,
       "user": "Shpigford"
     },
     {
@@ -3301,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 326,
       "user": "majidmanzarpour"
     },
     {
@@ -3316,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 244,
       "user": "nexu-io"
     },
     {
@@ -3346,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1122,
       "user": "x4gKing"
     },
     {
@@ -3361,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "jmerelnyc"
     },
     {
@@ -3376,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 679,
       "user": "anthropics"
     },
     {
@@ -3395,19 +3441,19 @@
       "user": "asz798838958"
     },
     {
-      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "url": "https://github.com/nagisanzenin/engram",
-      "published_at": "2026-07-05T09:53:10Z",
-      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "published_at": "2026-07-06T14:09:42Z",
+      "description": "Self-supervised learning for spatial perception",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 385,
-      "user": "nagisanzenin"
+      "stars": 395,
+      "user": "Robbyant"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3421,8 +3467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "programmersd21"
+    },
+    {
+      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "url": "https://github.com/olemeyer/rocketplaneIO",
+      "published_at": "2026-07-06T11:24:01Z",
+      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
+      "source": "GitHub",
+      "stars": 122,
+      "user": "olemeyer"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -3451,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "deviseo"
     },
     {
@@ -3466,23 +3527,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "crgimenes"
-    },
-    {
-      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "url": "https://github.com/MaximeRivest/remagic",
-      "published_at": "2026-07-05T18:32:02Z",
-      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
-      "source": "GitHub",
-      "stars": 48,
-      "user": "MaximeRivest"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -3496,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3373,
+      "stars": 3471,
       "user": "elder-plinius"
     },
     {
@@ -3511,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1499,
       "user": "synthetic-sciences"
     },
     {
@@ -3526,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 670,
       "user": "LinXiaoTao"
     },
     {
@@ -3541,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 489,
       "user": "simonlin1212"
     },
     {
@@ -3556,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 400,
       "user": "pocket-stack"
     },
     {
@@ -3571,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1098,
       "user": "MaximeRivest"
     },
     {
@@ -3586,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 691,
       "user": "514-labs"
     },
     {
@@ -3601,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 545,
       "user": "yynxxxxx"
     },
     {
@@ -3616,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 346,
       "user": "can1357"
     },
     {
@@ -3631,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "SuperJJ007"
     },
     {
@@ -3650,7 +3696,7 @@
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "google-chrome",
