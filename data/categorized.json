@@ -16,21 +16,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
-      "published_at": "2026-07-07T15:54:40Z",
-      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -46,19 +31,6 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
-      "url": "https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j",
-      "published_at": "2026-07-07T17:28:25Z",
-      "description": "In this episode of the Agent Factory, I sat down with Rody Davis, one of Google's top agentic...",
-      "tags": [
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
       "published_at": "2026-07-07T01:44:15Z",
@@ -72,6 +44,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
+      "published_at": "2026-07-07T15:54:40Z",
+      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
+      "url": "https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j",
+      "published_at": "2026-07-07T17:28:25Z",
+      "description": "In this episode of the Agent Factory, I sat down with Rody Davis, one of Google's top agentic...",
+      "tags": [
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
@@ -479,21 +479,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "A Third Brain for your Second Brain",
-      "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4",
-      "published_at": "2026-07-03T15:02:56Z",
-      "description": "The concept of the \"second brain\"/\"knowledge base\" is one of my absolute favorite nerd snipes of all...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "memory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F88d58h6yv2o4dyvfsi84.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
       "title": "Multi-Tenancy Is the Real Agent Platform Problem",
       "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
       "published_at": "2026-06-23T12:33:46Z",
@@ -565,6 +550,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
       "source": "Dev.to",
       "user": "Sam Bhagwat"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 269,
       "user": "nexu-io"
     },
     {
@@ -749,23 +749,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 721,
       "user": "jmerelnyc"
-    },
-    {
-      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "url": "https://github.com/olemeyer/rocketplaneIO",
-      "published_at": "2026-07-06T11:24:01Z",
-      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "olemeyer"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -779,8 +764,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "kernelstub"
+    },
+    {
+      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "url": "https://github.com/olemeyer/rocketplaneIO",
+      "published_at": "2026-07-06T11:24:01Z",
+      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "olemeyer"
     },
     {
       "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "crgimenes"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1561,
       "user": "synthetic-sciences"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 506,
       "user": "simonlin1212"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 410,
       "user": "pocket-stack"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 352,
       "user": "can1357"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 311,
       "user": "SuperJJ007"
     },
     {
@@ -929,6 +929,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gamers по сети"
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "published_at": "2026-07-08T08:00:00.000Z",
+      "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "AI inference",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "published_at": "2026-07-08T07:16:00.000Z",
+      "description": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Intel",
+        "Funding",
+        "startup"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
@@ -1006,21 +1038,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "published_at": "2026-07-07T16:27:18.000Z",
-      "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "claude cowork",
-        "coding agent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -1157,6 +1174,21 @@
       "user": "Ahmad Ra'fat"
     },
     {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
+      "published_at": "2026-06-26T11:34:04Z",
+      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
+      "tags": [
+        "typescript",
+        "editor",
+        "canvas",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
+      "source": "Dev.to",
+      "user": "Martin Stark"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1288,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1171,
       "user": "Shpigford"
     },
     {
@@ -1303,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "dzhng"
     },
     {
@@ -1318,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 331,
       "user": "majidmanzarpour"
     },
     {
@@ -1333,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 269,
       "user": "nexu-io"
     },
     {
@@ -1348,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "zjp1997720"
     },
     {
@@ -1363,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3471,
+      "stars": 3558,
       "user": "elder-plinius"
     },
     {
@@ -1378,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1561,
       "user": "synthetic-sciences"
     },
     {
@@ -1393,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 681,
       "user": "LinXiaoTao"
     },
     {
@@ -1408,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 506,
       "user": "simonlin1212"
     },
     {
@@ -1423,14 +1455,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 410,
       "user": "pocket-stack"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 15 answers · score 7",
+      "description": "Stack Overflow question · 16 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -1444,7 +1476,7 @@
       "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1498,20 +1530,6 @@
       "user": "robkblue"
     },
     {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
-    },
-    {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
@@ -1538,6 +1556,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SoranDK"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
     },
     {
       "title": "Google Login authentication problem in production MERN stack",
@@ -1838,23 +1870,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1258,
       "user": "x4gKing"
-    },
-    {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 725,
-      "user": "jmerelnyc"
     },
     {
       "title": "anthropics/jacobian-lens -  Companion code for the global workspace interpretability paper",
@@ -1868,8 +1885,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 721,
       "user": "anthropics"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 721,
+      "user": "jmerelnyc"
     },
     {
       "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
@@ -1898,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 422,
       "user": "Robbyant"
     },
     {
@@ -1913,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 352,
       "user": "can1357"
     },
     {
@@ -1930,6 +1962,37 @@
       "user": "yossarian"
     },
     {
+      "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
+      "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
+      "published_at": "2026-07-08T07:44:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "python-asyncio",
+        "select-for-update"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
+    },
+    {
+      "title": "Is switching from C++ to Python for DSA a good decision?",
+      "url": "https://stackoverflow.com/questions/79976690/is-switching-from-c-to-python-for-dsa-a-good-decision",
+      "published_at": "2026-07-08T01:41:07.000Z",
+      "description": "Stack Overflow question · 12 answers · score 1",
+      "tags": [
+        "python",
+        "c++",
+        "algorithm",
+        "data-structures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
+    },
+    {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
@@ -1940,21 +2003,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
-    },
-    {
-      "title": "Is switching from C++ to Python for DSA a good decision?",
-      "url": "https://stackoverflow.com/questions/79976690/is-switching-from-c-to-python-for-dsa-a-good-decision",
-      "published_at": "2026-07-08T01:41:07.000Z",
-      "description": "Stack Overflow question · 10 answers · score 1",
-      "tags": [
-        "python",
-        "c++",
-        "algorithm",
-        "data-structures"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Falak Sher"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -1974,7 +2022,7 @@
       "title": "How to turn a split string into multiple dictionary keys?",
       "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
       "published_at": "2026-07-07T11:02:26.000Z",
-      "description": "Stack Overflow question · 8 answers · score 0",
+      "description": "Stack Overflow question · 6 answers · score 0",
       "tags": [
         "python",
         "list",
@@ -2052,22 +2100,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lewhat kahsay"
-    },
-    {
-      "title": "Should I remove records where pickup and dropoff locations are the same when cleaning the NYC Taxi dataset?",
-      "url": "https://stackoverflow.com/questions/79976438/should-i-remove-records-where-pickup-and-dropoff-locations-are-the-same-when-cle",
-      "published_at": "2026-07-07T11:20:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "pyspark",
-        "data-science",
-        "bigdata",
-        "data-mining"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sudam Ranasinghe"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2307,7 +2339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -2366,7 +2398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 352,
       "user": "can1357"
     },
     {
@@ -2381,14 +2413,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 311,
       "user": "SuperJJ007"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 15 answers · score 7",
+      "description": "Stack Overflow question · 16 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -2402,7 +2434,7 @@
       "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2514,21 +2546,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mijndert"
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "published_at": "2026-07-07T16:27:18.000Z",
-      "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "claude cowork",
-        "coding agent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     }
   ],
   "Cloud": [
@@ -2736,6 +2753,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
+      "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
+      "published_at": "2026-07-08T07:44:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "python-asyncio",
+        "select-for-update"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
     }
   ],
   "Security": [
@@ -2911,7 +2944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3471,
+      "stars": 3558,
       "user": "elder-plinius"
     },
     {
@@ -2971,22 +3004,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gamers по сети"
-    },
-    {
-      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-      "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "published_at": "2026-07-07T16:45:00.000Z",
-      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "hacks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
@@ -3317,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1171,
       "user": "Shpigford"
     },
     {
@@ -3332,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "dzhng"
     },
     {
@@ -3347,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 331,
       "user": "majidmanzarpour"
     },
     {
@@ -3362,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 269,
       "user": "nexu-io"
     },
     {
@@ -3377,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "zjp1997720"
     },
     {
@@ -3392,23 +3409,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1258,
       "user": "x4gKing"
-    },
-    {
-      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "published_at": "2026-07-02T14:43:11Z",
-      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
-      "source": "GitHub",
-      "stars": 725,
-      "user": "jmerelnyc"
     },
     {
       "title": "anthropics/jacobian-lens -  Companion code for the global workspace interpretability paper",
@@ -3422,8 +3424,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 721,
       "user": "anthropics"
+    },
+    {
+      "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "published_at": "2026-07-02T14:43:11Z",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
+      "source": "GitHub",
+      "stars": 721,
+      "user": "jmerelnyc"
     },
     {
       "title": "asz798838958/FrciblyK12 - 多线程全自动注册free 强上K12空间",
@@ -3452,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 422,
       "user": "Robbyant"
     },
     {
@@ -3467,23 +3484,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "programmersd21"
-    },
-    {
-      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "url": "https://github.com/olemeyer/rocketplaneIO",
-      "published_at": "2026-07-06T11:24:01Z",
-      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "olemeyer"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -3497,8 +3499,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "kernelstub"
+    },
+    {
+      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "url": "https://github.com/olemeyer/rocketplaneIO",
+      "published_at": "2026-07-06T11:24:01Z",
+      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "olemeyer"
     },
     {
       "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
@@ -3527,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "crgimenes"
     },
     {
@@ -3542,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3471,
+      "stars": 3558,
       "user": "elder-plinius"
     },
     {
@@ -3557,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1561,
       "user": "synthetic-sciences"
     },
     {
@@ -3572,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 681,
       "user": "LinXiaoTao"
     },
     {
@@ -3587,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 506,
       "user": "simonlin1212"
     },
     {
@@ -3602,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 410,
       "user": "pocket-stack"
     },
     {
@@ -3617,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1118,
       "user": "MaximeRivest"
     },
     {
@@ -3632,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 698,
       "user": "514-labs"
     },
     {
@@ -3647,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 560,
       "user": "yynxxxxx"
     },
     {
@@ -3662,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 352,
       "user": "can1357"
     },
     {
@@ -3677,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 311,
       "user": "SuperJJ007"
     },
     {
