@@ -146,21 +146,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
-      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
-      "published_at": "2026-07-05T11:00:46Z",
-      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
-      "tags": [
-        "ai",
-        "claude",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
       "published_at": "2026-07-02T19:14:36Z",
@@ -723,6 +708,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "published_at": "2026-07-06T14:56:20Z",
+      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "nexu-io"
+    },
+    {
       "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "url": "https://github.com/jmerelnyc/Talos",
       "published_at": "2026-07-02T14:43:11Z",
@@ -736,21 +736,6 @@
       "source": "GitHub",
       "stars": 723,
       "user": "jmerelnyc"
-    },
-    {
-      "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "url": "https://github.com/HKUDS/OpenOPC",
-      "published_at": "2026-07-01T10:17:37Z",
-      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "HKUDS"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1362,
       "user": "synthetic-sciences"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 450,
       "user": "simonlin1212"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 380,
       "user": "pocket-stack"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "can1357"
     },
     {
@@ -874,6 +859,20 @@
       "user": "Reda ait"
     },
     {
+      "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
+      "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
+      "published_at": "2026-07-08T00:05:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "cuda",
+        "chemistry"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Engr. Khuram  Shahzad"
+    },
+    {
       "title": "Pros, what y’all think about this roadmap from AI?",
       "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
       "published_at": "2026-07-07T18:08:19.000Z",
@@ -904,7 +903,7 @@
       "user": "Karthik"
     },
     {
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "published_at": "2026-07-07T22:18:10.000Z",
       "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
@@ -996,6 +995,20 @@
       "user": "Rebecca Bellan"
     },
     {
+      "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
+      "published_at": "2026-07-07T20:08:59.000Z",
+      "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
+      "tags": [
+        "AI",
+        "ai agents",
+        "tool calling"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
       "published_at": "2026-07-07T16:23:22.000Z",
@@ -1067,19 +1080,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vikram Aruchamy"
-    },
-    {
-      "title": "Top AI Productivity Tools for Developers and Professionals",
-      "url": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/",
-      "published_at": "2026-07-03T15:38:52.000Z",
-      "description": "Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,",
-      "tags": [
-        "#ai-tools",
-        "Productivity"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1275,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 975,
       "user": "Shpigford"
     },
     {
@@ -1294,21 +1294,6 @@
       "user": "dzhng"
     },
     {
-      "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-      "url": "https://github.com/xt4d/GameBlocks",
-      "published_at": "2026-07-01T16:38:56Z",
-      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "xt4d"
-    },
-    {
       "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
       "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
       "published_at": "2026-07-05T21:15:08Z",
@@ -1320,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "majidmanzarpour"
     },
     {
@@ -1339,6 +1324,21 @@
       "user": "zjp1997720"
     },
     {
+      "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "published_at": "2026-07-06T14:56:20Z",
+      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "nexu-io"
+    },
+    {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "published_at": "2026-07-02T17:53:55Z",
@@ -1350,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3284,
+      "stars": 3310,
       "user": "elder-plinius"
     },
     {
@@ -1365,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1362,
       "user": "synthetic-sciences"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "LinXiaoTao"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 450,
       "user": "simonlin1212"
     },
     {
@@ -1410,14 +1410,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 380,
       "user": "pocket-stack"
     },
     {
       "title": "Question about javascript's JSON.parse() and Array.map() functions",
       "url": "https://stackoverflow.com/questions/79976652/question-about-javascripts-json-parse-and-array-map-functions",
       "published_at": "2026-07-07T21:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript"
       ],
@@ -1454,6 +1454,20 @@
       "user": "hansueli05"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 13 answers · score 7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
@@ -1468,20 +1482,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Valere"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 8",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
@@ -1600,22 +1600,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jakub T. Jankiewicz"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/",
-      "published_at": "2026-07-03T15:37:58.000Z",
-      "description": "PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Tutorial",
-        "freeCodeCamp.org"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1826,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 941,
       "user": "x4gKing"
     },
     {
@@ -1845,21 +1829,6 @@
       "user": "jmerelnyc"
     },
     {
-      "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "url": "https://github.com/HKUDS/OpenOPC",
-      "published_at": "2026-07-01T10:17:37Z",
-      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "HKUDS"
-    },
-    {
       "title": "anthropics/jacobian-lens -  Companion code for the global workspace interpretability paper",
       "url": "https://github.com/anthropics/jacobian-lens",
       "published_at": "2026-07-02T20:30:04Z",
@@ -1871,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 571,
       "user": "anthropics"
     },
     {
@@ -1890,6 +1859,21 @@
       "user": "asz798838958"
     },
     {
+      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "url": "https://github.com/nagisanzenin/engram",
+      "published_at": "2026-07-05T09:53:10Z",
+      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "source": "GitHub",
+      "stars": 378,
+      "user": "nagisanzenin"
+    },
+    {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
       "url": "https://github.com/can1357/pon",
       "published_at": "2026-07-02T16:44:07Z",
@@ -1901,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "can1357"
     },
     {
@@ -1918,6 +1902,20 @@
       "user": "yossarian"
     },
     {
+      "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
+      "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
+      "published_at": "2026-07-08T00:05:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "cuda",
+        "chemistry"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Engr. Khuram  Shahzad"
+    },
+    {
       "title": "Python multiprocessing worker hangs only after garbage collection runs with shared memory objects",
       "url": "https://stackoverflow.com/questions/79976649/python-multiprocessing-worker-hangs-only-after-garbage-collection-runs-with-shar",
       "published_at": "2026-07-07T21:31:30.000Z",
@@ -1930,6 +1928,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NightKevin"
+    },
+    {
+      "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
+      "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
+      "published_at": "2026-07-07T18:29:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sefat Khan"
     },
     {
       "title": "Pros, what y’all think about this roadmap from AI?",
@@ -1960,18 +1972,18 @@
       "user": "NightKevin"
     },
     {
-      "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
-      "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
-      "published_at": "2026-07-07T18:29:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "How to turn a split string into multiple dictionary keys?",
+      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
+      "published_at": "2026-07-07T11:02:26.000Z",
+      "description": "Stack Overflow question · 7 answers · score 0",
       "tags": [
         "python",
-        "selenium-webdriver",
-        "selenium-chromedriver"
+        "list",
+        "dictionary"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sefat Khan"
+      "user": "Peter Lichtenstein"
     },
     {
       "title": "How can I configure IntelliJ to write Python code?",
@@ -1985,20 +1997,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lewhat kahsay"
-    },
-    {
-      "title": "How to turn a split string into multiple dictionary keys?",
-      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
-      "published_at": "2026-07-07T11:02:26.000Z",
-      "description": "Stack Overflow question · 7 answers · score 0",
-      "tags": [
-        "python",
-        "list",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Lichtenstein"
     },
     {
       "title": "Should I remove records where pickup and dropoff locations are the same when cleaning the NYC Taxi dataset?",
@@ -2045,17 +2043,18 @@
       "user": "Priya Singh"
     },
     {
-      "title": "Arduino: reading output in python",
-      "url": "https://stackoverflow.com/questions/79975267/arduino-reading-output-in-python",
-      "published_at": "2026-07-07T01:29:20.000Z",
-      "description": "Stack Overflow question · 7 answers · score 0",
+      "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
+      "published_at": "2026-07-07T20:08:59.000Z",
+      "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
       "tags": [
-        "python",
-        "arduino"
+        "AI",
+        "ai agents",
+        "tool calling"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "paulie walnuts"
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     }
   ],
   "DevOps": [
@@ -2268,6 +2267,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
+      "url": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
+      "published_at": "2026-07-07T21:47:50.000Z",
+      "description": "Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1",
+      "tags": [
+        "Kubernetes",
+        "Security",
+        "computer networking",
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Destiny Erhabor"
     }
   ],
   "WebDev": [
@@ -2310,7 +2324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "can1357"
     },
     {
@@ -2347,7 +2361,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 8",
+      "description": "Stack Overflow question · 13 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -2383,6 +2397,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Trushank Vaghasiya"
+    },
+    {
+      "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
+      "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
+      "published_at": "2026-07-08T00:05:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "cuda",
+        "chemistry"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Engr. Khuram  Shahzad"
     },
     {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
@@ -2428,22 +2456,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jakub T. Jankiewicz"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/",
-      "published_at": "2026-07-03T15:37:58.000Z",
-      "description": "PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Tutorial",
-        "freeCodeCamp.org"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2857,7 +2869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3284,
+      "stars": 3310,
       "user": "elder-plinius"
     },
     {
@@ -2920,6 +2932,21 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
+      "url": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
+      "published_at": "2026-07-07T21:47:50.000Z",
+      "description": "Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1",
+      "tags": [
+        "Kubernetes",
+        "Security",
+        "computer networking",
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Destiny Erhabor"
     },
     {
       "title": "How to Take Control of Your Online Privacy",
@@ -2994,21 +3021,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
       "source": "Dev.to",
       "user": "Mason Delan"
-    },
-    {
-      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
-      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
-      "published_at": "2026-07-05T11:00:46Z",
-      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
-      "tags": [
-        "ai",
-        "claude",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3235,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 975,
       "user": "Shpigford"
     },
     {
@@ -3254,21 +3266,6 @@
       "user": "dzhng"
     },
     {
-      "title": "xt4d/GameBlocks - Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-      "url": "https://github.com/xt4d/GameBlocks",
-      "published_at": "2026-07-01T16:38:56Z",
-      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131865012?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "xt4d"
-    },
-    {
       "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
       "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
       "published_at": "2026-07-05T21:15:08Z",
@@ -3280,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "majidmanzarpour"
     },
     {
@@ -3299,6 +3296,21 @@
       "user": "zjp1997720"
     },
     {
+      "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "published_at": "2026-07-06T14:56:20Z",
+      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "nexu-io"
+    },
+    {
       "title": "x4gKing/X4G - GitHub Repository",
       "url": "https://github.com/x4gKing/X4G",
       "published_at": "2026-07-04T06:43:51Z",
@@ -3310,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 941,
       "user": "x4gKing"
     },
     {
@@ -3329,21 +3341,6 @@
       "user": "jmerelnyc"
     },
     {
-      "title": "HKUDS/OpenOPC - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "url": "https://github.com/HKUDS/OpenOPC",
-      "published_at": "2026-07-01T10:17:37Z",
-      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "HKUDS"
-    },
-    {
       "title": "anthropics/jacobian-lens -  Companion code for the global workspace interpretability paper",
       "url": "https://github.com/anthropics/jacobian-lens",
       "published_at": "2026-07-02T20:30:04Z",
@@ -3355,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 571,
       "user": "anthropics"
     },
     {
@@ -3374,6 +3371,21 @@
       "user": "asz798838958"
     },
     {
+      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "url": "https://github.com/nagisanzenin/engram",
+      "published_at": "2026-07-05T09:53:10Z",
+      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "source": "GitHub",
+      "stars": 378,
+      "user": "nagisanzenin"
+    },
+    {
       "title": "programmersd21/flow - 🌊 see your network breathe",
       "url": "https://github.com/programmersd21/flow",
       "published_at": "2026-07-04T10:09:41Z",
@@ -3385,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 157,
       "user": "programmersd21"
     },
     {
@@ -3415,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "deviseo"
     },
     {
@@ -3434,19 +3446,19 @@
       "user": "crgimenes"
     },
     {
-      "title": "openlibrecommunity/pxy - one click server bypass installer",
-      "url": "https://github.com/openlibrecommunity/pxy",
-      "published_at": "2026-07-02T18:48:50Z",
-      "description": "one click server bypass installer",
+      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
+      "url": "https://github.com/MaximeRivest/remagic",
+      "published_at": "2026-07-05T18:32:02Z",
+      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274402647?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
       "stars": 46,
-      "user": "openlibrecommunity"
+      "user": "MaximeRivest"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -3460,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3284,
+      "stars": 3310,
       "user": "elder-plinius"
     },
     {
@@ -3475,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1362,
       "user": "synthetic-sciences"
     },
     {
@@ -3490,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "LinXiaoTao"
     },
     {
@@ -3505,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 450,
       "user": "simonlin1212"
     },
     {
@@ -3520,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 380,
       "user": "pocket-stack"
     },
     {
@@ -3535,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1044,
       "user": "MaximeRivest"
     },
     {
@@ -3550,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 671,
       "user": "514-labs"
     },
     {
@@ -3565,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "yynxxxxx"
     },
     {
@@ -3580,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "can1357"
     },
     {
@@ -3643,6 +3655,20 @@
       "user": "Sarah Perez"
     },
     {
+      "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
+      "published_at": "2026-07-07T20:08:59.000Z",
+      "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
+      "tags": [
+        "AI",
+        "ai agents",
+        "tool calling"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
       "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
       "url": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
       "published_at": "2026-07-06T18:42:15.000Z",
@@ -3664,19 +3690,6 @@
       "tags": [
         "privacy",
         "Security"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Top AI Productivity Tools for Developers and Professionals",
-      "url": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/",
-      "published_at": "2026-07-03T15:38:52.000Z",
-      "description": "Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,",
-      "tags": [
-        "#ai-tools",
-        "Productivity"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
