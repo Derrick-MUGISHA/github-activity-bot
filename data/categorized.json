@@ -88,21 +88,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
-      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
-      "published_at": "2026-07-02T15:00:21Z",
-      "description": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
-      "tags": [
-        "aie",
-        "agents",
-        "mcp",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
       "published_at": "2026-06-29T16:06:30Z",
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 278,
       "user": "nexu-io"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1561,
+      "stars": 1598,
       "user": "synthetic-sciences"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 514,
       "user": "simonlin1212"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "pocket-stack"
     },
     {
@@ -854,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 361,
       "user": "can1357"
     },
     {
@@ -1320,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1171,
+      "stars": 1204,
       "user": "Shpigford"
     },
     {
@@ -1335,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 539,
       "user": "dzhng"
     },
     {
@@ -1350,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "majidmanzarpour"
     },
     {
@@ -1365,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 278,
       "user": "nexu-io"
     },
     {
@@ -1380,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 192,
       "user": "zjp1997720"
     },
     {
@@ -1395,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3558,
+      "stars": 3603,
       "user": "elder-plinius"
     },
     {
@@ -1410,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1561,
+      "stars": 1598,
       "user": "synthetic-sciences"
     },
     {
@@ -1425,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 684,
       "user": "LinXiaoTao"
     },
     {
@@ -1440,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 514,
       "user": "simonlin1212"
     },
     {
@@ -1455,8 +1440,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "pocket-stack"
+    },
+    {
+      "title": "Encrypt JS/Decrypt PHP",
+      "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
+      "published_at": "2026-07-08T09:51:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "php",
+        "encryption"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Claus Svalekj&#230;r"
+    },
+    {
+      "title": "How to get a knowledge on postgresql & prisma ORM",
+      "url": "https://stackoverflow.com/questions/79977838/how-to-get-a-knowledge-on-postgresql-prisma-orm",
+      "published_at": "2026-07-08T09:43:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "node.js",
+        "postgresql",
+        "orm",
+        "prisma"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "osizdevtm2 demo"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
@@ -1572,41 +1587,10 @@
       "user": "Trushank Vaghasiya"
     },
     {
-      "title": "Google Login authentication problem in production MERN stack",
-      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
-      "published_at": "2026-07-03T20:14:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "node.js",
-        "cookies",
-        "google-oauth",
-        "vercel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shounak Mahata"
-    },
-    {
-      "title": "How to implement role-based navigation in a React Navbar using Context API and React Router?",
-      "url": "https://stackoverflow.com/questions/79972741/how-to-implement-role-based-navigation-in-a-react-navbar-using-context-api-and-r",
-      "published_at": "2026-07-02T18:00:28.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-router",
-        "navbar"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "context-coders"
-    },
-    {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 10 answers · score 1",
+      "description": "Stack Overflow question · 11 answers · score 1",
       "tags": [
         "python"
       ],
@@ -1870,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1468,
       "user": "x4gKing"
     },
     {
@@ -1885,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 748,
       "user": "anthropics"
     },
     {
@@ -1930,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 436,
       "user": "Robbyant"
     },
     {
@@ -1945,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 361,
       "user": "can1357"
     },
     {
@@ -1962,10 +1946,22 @@
       "user": "yossarian"
     },
     {
+      "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
+      "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
+      "published_at": "2026-07-08T11:03:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Maryjane Adaeze"
+    },
+    {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
       "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
       "published_at": "2026-07-08T07:44:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -1981,7 +1977,7 @@
       "title": "Is switching from C++ to Python for DSA a good decision?",
       "url": "https://stackoverflow.com/questions/79976690/is-switching-from-c-to-python-for-dsa-a-good-decision",
       "published_at": "2026-07-08T01:41:07.000Z",
-      "description": "Stack Overflow question · 12 answers · score 1",
+      "description": "Stack Overflow question · 14 answers · score 1",
       "tags": [
         "python",
         "c++",
@@ -1996,7 +1992,7 @@
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 10 answers · score 1",
+      "description": "Stack Overflow question · 11 answers · score 1",
       "tags": [
         "python"
       ],
@@ -2061,18 +2057,6 @@
       "user": "Sefat Khan"
     },
     {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NightKevin"
-    },
-    {
       "title": "Pros, what y’all think about this roadmap from AI?",
       "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
       "published_at": "2026-07-07T18:08:19.000Z",
@@ -2089,17 +2073,16 @@
       "user": "Gamers по сети"
     },
     {
-      "title": "How can I configure IntelliJ to write Python code?",
-      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
-      "published_at": "2026-07-07T18:25:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
-        "python",
-        "intellij-idea"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "lewhat kahsay"
+      "user": "NightKevin"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2117,21 +2100,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
-      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
-      "published_at": "2026-07-02T15:00:21Z",
-      "description": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
-      "tags": [
-        "aie",
-        "agents",
-        "mcp",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk3r57p2rfnc3ti1qogde.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
     {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
       "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
@@ -2398,7 +2366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 361,
       "user": "can1357"
     },
     {
@@ -2755,10 +2723,26 @@
       "user": "iancarroll"
     },
     {
+      "title": "How to get a knowledge on postgresql & prisma ORM",
+      "url": "https://stackoverflow.com/questions/79977838/how-to-get-a-knowledge-on-postgresql-prisma-orm",
+      "published_at": "2026-07-08T09:43:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "node.js",
+        "postgresql",
+        "orm",
+        "prisma"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "osizdevtm2 demo"
+    },
+    {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
       "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
       "published_at": "2026-07-08T07:44:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -2944,7 +2928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3558,
+      "stars": 3603,
       "user": "elder-plinius"
     },
     {
@@ -2974,20 +2958,18 @@
       "user": "fro"
     },
     {
-      "title": "Google Login authentication problem in production MERN stack",
-      "url": "https://stackoverflow.com/questions/79974235/google-login-authentication-problem-in-production-mern-stack",
-      "published_at": "2026-07-03T20:14:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "Encrypt JS/Decrypt PHP",
+      "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
+      "published_at": "2026-07-08T09:51:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
-        "node.js",
-        "cookies",
-        "google-oauth",
-        "vercel"
+        "php",
+        "encryption"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Shounak Mahata"
+      "user": "Claus Svalekj&#230;r"
     },
     {
       "title": "Pros, what y’all think about this roadmap from AI?",
@@ -3334,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1171,
+      "stars": 1204,
       "user": "Shpigford"
     },
     {
@@ -3349,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 539,
       "user": "dzhng"
     },
     {
@@ -3364,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 332,
       "user": "majidmanzarpour"
     },
     {
@@ -3379,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 278,
       "user": "nexu-io"
     },
     {
@@ -3394,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 192,
       "user": "zjp1997720"
     },
     {
@@ -3409,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1468,
       "user": "x4gKing"
     },
     {
@@ -3424,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 748,
       "user": "anthropics"
     },
     {
@@ -3469,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 436,
       "user": "Robbyant"
     },
     {
@@ -3529,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "deviseo"
     },
     {
@@ -3559,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3558,
+      "stars": 3603,
       "user": "elder-plinius"
     },
     {
@@ -3574,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1561,
+      "stars": 1598,
       "user": "synthetic-sciences"
     },
     {
@@ -3589,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 684,
       "user": "LinXiaoTao"
     },
     {
@@ -3604,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 514,
       "user": "simonlin1212"
     },
     {
@@ -3619,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "pocket-stack"
     },
     {
@@ -3634,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1132,
       "user": "MaximeRivest"
     },
     {
@@ -3649,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 699,
       "user": "514-labs"
     },
     {
@@ -3664,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 566,
       "user": "yynxxxxx"
     },
     {
@@ -3679,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 361,
       "user": "can1357"
     },
     {
