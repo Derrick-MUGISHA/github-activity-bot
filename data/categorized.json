@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
       "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
       "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
       "published_at": "2026-07-08T10:23:41Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
       "source": "Dev.to",
       "user": "ValeryKot"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "A New Developer Platform for Agent-Human Collaboration",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 776,
       "user": "jmerelnyc"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1727,
+      "stars": 1736,
       "user": "synthetic-sciences"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "simonlin1212"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "can1357"
     },
     {
@@ -871,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "SuperJJ007"
     },
     {
@@ -888,6 +888,19 @@
       "user": "hoistbypetard"
     },
     {
+      "title": "Eve Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "published_at": "2026-07-08T10:47:51.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "games",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
+    },
+    {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
@@ -902,6 +915,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reda ait"
+    },
+    {
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "published_at": "2026-07-08T22:41:33.000Z",
+      "description": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Lovable",
+        "menlo ventures",
+        "vibe coding"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+      "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+      "published_at": "2026-07-08T21:49:33.000Z",
+      "description": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
+      "tags": [
+        "Transportation",
+        "autonomous vehicles",
+        "avride",
+        "nhtsa",
+        "robotaxis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
@@ -996,38 +1041,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "published_at": "2026-07-08T17:47:55.000Z",
-      "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI Funding",
-        "general intuition",
-        "physical ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "published_at": "2026-07-08T17:11:18.000Z",
-      "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gadgets",
-        "Media & Entertainment",
-        "Social"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
@@ -1263,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1390,
       "user": "Shpigford"
     },
     {
@@ -1293,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "majidmanzarpour"
     },
     {
@@ -1312,19 +1325,19 @@
       "user": "nexu-io"
     },
     {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "title": "withmarbleapp/os-taxonomy - GitHub Repository",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "published_at": "2026-07-08T09:27:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 193,
-      "user": "zjp1997720"
+      "stars": 222,
+      "user": "withmarbleapp"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1338,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3838,
+      "stars": 3852,
       "user": "elder-plinius"
     },
     {
@@ -1353,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1727,
+      "stars": 1736,
       "user": "synthetic-sciences"
     },
     {
@@ -1383,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "simonlin1212"
     },
     {
@@ -1433,7 +1446,7 @@
       "title": "project cover is not removing itself / returning to genre default after removal",
       "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
       "published_at": "2026-07-08T13:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "wordpress"
@@ -1836,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2400,
       "user": "x4gKing"
     },
     {
@@ -1851,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 849,
       "user": "anthropics"
     },
     {
@@ -1866,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 776,
       "user": "jmerelnyc"
     },
     {
@@ -1896,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 481,
       "user": "Robbyant"
     },
     {
@@ -1911,14 +1924,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "can1357"
     },
     {
       "title": "Is there a way to change the colours of sns.boxplot's boxes according to their mean values?",
       "url": "https://stackoverflow.com/questions/79978029/is-there-a-way-to-change-the-colours-of-sns-boxplots-boxes-according-to-their-m",
       "published_at": "2026-07-08T20:40:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "seaborn",
@@ -1996,20 +2009,6 @@
       "user": "madjetmax"
     },
     {
-      "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
-      "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
-      "published_at": "2026-07-07T18:29:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
-      "tags": [
-        "python",
-        "selenium-webdriver",
-        "selenium-chromedriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sefat Khan"
-    },
-    {
       "title": "Asyncio worker silently stops updating shared state after exception handling",
       "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
       "published_at": "2026-07-07T15:50:40.000Z",
@@ -2048,6 +2047,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Lichtenstein"
+    },
+    {
+      "title": "How do I cut down on the complexity (O(n^3))?",
+      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
+      "published_at": "2026-07-06T15:10:41.000Z",
+      "description": "Stack Overflow question · 17 answers · score 1",
+      "tags": [
+        "python",
+        "optimization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayaan Shaheen"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2346,7 +2358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "can1357"
     },
     {
@@ -2361,7 +2373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "SuperJJ007"
     },
     {
@@ -2922,7 +2934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3838,
+      "stars": 3852,
       "user": "elder-plinius"
     },
     {
@@ -3270,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1390,
       "user": "Shpigford"
     },
     {
@@ -3300,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "majidmanzarpour"
     },
     {
@@ -3319,19 +3331,19 @@
       "user": "nexu-io"
     },
     {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "title": "withmarbleapp/os-taxonomy - GitHub Repository",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "published_at": "2026-07-08T09:27:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 193,
-      "user": "zjp1997720"
+      "stars": 222,
+      "user": "withmarbleapp"
     },
     {
       "title": "x4gKing/X4G - GitHub Repository",
@@ -3345,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2400,
       "user": "x4gKing"
     },
     {
@@ -3360,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 849,
       "user": "anthropics"
     },
     {
@@ -3375,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 776,
       "user": "jmerelnyc"
     },
     {
@@ -3405,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 481,
       "user": "Robbyant"
     },
     {
@@ -3495,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3838,
+      "stars": 3852,
       "user": "elder-plinius"
     },
     {
@@ -3510,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1727,
+      "stars": 1736,
       "user": "synthetic-sciences"
     },
     {
@@ -3540,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "simonlin1212"
     },
     {
@@ -3570,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1198,
       "user": "MaximeRivest"
     },
     {
@@ -3585,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 731,
       "user": "514-labs"
     },
     {
@@ -3600,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "yynxxxxx"
     },
     {
@@ -3615,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "can1357"
     },
     {
@@ -3630,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "SuperJJ007"
     },
     {
