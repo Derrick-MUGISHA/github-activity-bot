@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
-      "tags": [
-        "ai",
-        "llm",
-        "machinelearning",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
-      "source": "Dev.to",
-      "user": "ValeryKot"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "published_at": "2026-07-08T10:23:41Z",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "source": "Dev.to",
+      "user": "ValeryKot"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -279,21 +279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
-      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
-      "published_at": "2026-06-26T07:03:01Z",
-      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "howto"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -736,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "nexu-io"
     },
     {
@@ -751,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "jmerelnyc"
     },
     {
@@ -796,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "crgimenes"
     },
     {
@@ -811,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 1739,
       "user": "synthetic-sciences"
     },
     {
@@ -826,23 +811,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "simonlin1212"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 431,
-      "user": "pocket-stack"
     },
     {
       "title": "can1357/pon - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
@@ -856,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 390,
       "user": "can1357"
     },
     {
@@ -871,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "SuperJJ007"
     },
     {
@@ -924,9 +894,9 @@
       "tags": [
         "AI",
         "Startups",
+        "In Brief",
         "Lovable",
-        "menlo ventures",
-        "vibe coding"
+        "menlo ventures"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1026,21 +996,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "published_at": "2026-07-08T18:30:08.000Z",
-      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Google",
-        "Google Photos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
@@ -1276,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1390,
+      "stars": 1394,
       "user": "Shpigford"
     },
     {
@@ -1306,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "majidmanzarpour"
     },
     {
@@ -1321,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "nexu-io"
     },
     {
@@ -1336,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 268,
       "user": "withmarbleapp"
     },
     {
@@ -1351,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3852,
+      "stars": 3861,
       "user": "elder-plinius"
     },
     {
@@ -1366,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 1739,
       "user": "synthetic-sciences"
     },
     {
@@ -1396,23 +1351,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "simonlin1212"
     },
     {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "title": "rolekkona/Polymarket-Arbitrage-Trading-Bot - polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot",
+      "url": "https://github.com/rolekkona/Polymarket-Arbitrage-Trading-Bot",
+      "published_at": "2026-07-02T06:55:17Z",
+      "description": "polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29476083?v=4",
       "source": "GitHub",
-      "stars": 431,
-      "user": "pocket-stack"
+      "stars": 460,
+      "user": "rolekkona"
     },
     {
       "title": "Announcing TypeScript 7.0",
@@ -1443,19 +1398,6 @@
       "user": "gjjr"
     },
     {
-      "title": "project cover is not removing itself / returning to genre default after removal",
-      "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
-      "published_at": "2026-07-08T13:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "wordpress"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VineHallow Crookshanks"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1468,6 +1410,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "project cover is not removing itself / returning to genre default after removal",
+      "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
+      "published_at": "2026-07-08T13:26:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "wordpress"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VineHallow Crookshanks"
     },
     {
       "title": "Encrypt JS/Decrypt PHP",
@@ -1849,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2400,
+      "stars": 2443,
       "user": "x4gKing"
     },
     {
@@ -1864,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 850,
       "user": "anthropics"
     },
     {
@@ -1879,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "jmerelnyc"
     },
     {
@@ -1909,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "Robbyant"
     },
     {
@@ -1924,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 390,
       "user": "can1357"
     },
     {
@@ -2358,7 +2313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 390,
       "user": "can1357"
     },
     {
@@ -2373,7 +2328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "SuperJJ007"
     },
     {
@@ -2934,7 +2889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3852,
+      "stars": 3861,
       "user": "elder-plinius"
     },
     {
@@ -3282,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1390,
+      "stars": 1394,
       "user": "Shpigford"
     },
     {
@@ -3312,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "majidmanzarpour"
     },
     {
@@ -3327,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "nexu-io"
     },
     {
@@ -3342,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 268,
       "user": "withmarbleapp"
     },
     {
@@ -3357,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2400,
+      "stars": 2443,
       "user": "x4gKing"
     },
     {
@@ -3372,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 850,
       "user": "anthropics"
     },
     {
@@ -3387,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "jmerelnyc"
     },
     {
@@ -3417,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "Robbyant"
     },
     {
@@ -3447,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "deviseo"
     },
     {
@@ -3492,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "crgimenes"
     },
     {
@@ -3507,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3852,
+      "stars": 3861,
       "user": "elder-plinius"
     },
     {
@@ -3522,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 1739,
       "user": "synthetic-sciences"
     },
     {
@@ -3552,23 +3507,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "simonlin1212"
     },
     {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "title": "rolekkona/Polymarket-Arbitrage-Trading-Bot - polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot",
+      "url": "https://github.com/rolekkona/Polymarket-Arbitrage-Trading-Bot",
+      "published_at": "2026-07-02T06:55:17Z",
+      "description": "polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29476083?v=4",
       "source": "GitHub",
-      "stars": 431,
-      "user": "pocket-stack"
+      "stars": 460,
+      "user": "rolekkona"
     },
     {
       "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
@@ -3582,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1200,
       "user": "MaximeRivest"
     },
     {
@@ -3597,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 734,
       "user": "514-labs"
     },
     {
@@ -3612,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "yynxxxxx"
     },
     {
@@ -3627,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 390,
       "user": "can1357"
     },
     {
@@ -3642,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "SuperJJ007"
     },
     {
@@ -3660,21 +3615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Valere"
-    },
-    {
-      "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "published_at": "2026-07-08T18:30:08.000Z",
-      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Google",
-        "Google Photos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
