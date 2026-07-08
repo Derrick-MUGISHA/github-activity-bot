@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
       "tags": [
         "ai",
-        "softwareengineering",
+        "webdev",
         "discuss",
-        "webdev"
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
-      "user": "Andrew Bone"
+      "user": "Web Developer Hyper"
     },
     {
       "title": "A New Developer Platform for Agent-Human Collaboration",
@@ -44,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
@@ -553,50 +568,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Beyond Context",
-      "url": "https://dev.to/dailycontext/beyond-context-4b0g",
-      "published_at": "2026-07-02T14:02:11Z",
-      "description": "The models are getting better. As you may have seen on multiple graphs presented here at the World's...",
-      "tags": [
-        "aie",
-        "ai",
-        "development",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
-      "source": "Dev.to",
-      "user": "Ryan Palo"
-    },
-    {
-      "title": "DevRel in the Age of AI Is A Search for Meaning",
-      "url": "https://dev.to/dailycontext/devrel-in-the-age-of-ai-is-a-search-for-meaning-2j91",
-      "published_at": "2026-07-01T13:22:46Z",
-      "description": "When I was in college, I read an essay called \"The Work of Art in the Age of Mechanical Reproduction\"...",
-      "tags": [
-        "aie",
-        "ai",
-        "devrel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
-      "source": "Dev.to",
-      "user": "Sam Bhagwat"
-    },
-    {
-      "title": "A Free Screenshot Editor That Never Uploads Your Image",
-      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
-      "published_at": "2026-06-26T11:34:04Z",
-      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
-      "tags": [
-        "typescript",
-        "editor",
-        "canvas",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
-      "source": "Dev.to",
-      "user": "Martin Stark"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -764,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 290,
       "user": "nexu-io"
     },
     {
@@ -779,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 730,
       "user": "jmerelnyc"
     },
     {
@@ -824,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "crgimenes"
     },
     {
@@ -839,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1695,
       "user": "synthetic-sciences"
     },
     {
@@ -854,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 542,
       "user": "simonlin1212"
     },
     {
@@ -869,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 427,
       "user": "pocket-stack"
     },
     {
@@ -884,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "can1357"
     },
     {
@@ -945,15 +916,61 @@
       "user": "Engr. Khuram  Shahzad"
     },
     {
+      "title": "Crypto VC firm Paradigm raises $1.2B to invest in &#8216;technical frontier&#8217; startups",
+      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+      "published_at": "2026-07-08T16:29:35.000Z",
+      "description": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
+      "tags": [
+        "Venture",
+        "crypto",
+        "In Brief",
+        "Paradigm"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "published_at": "2026-07-08T16:22:38.000Z",
+      "description": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "tags": [
+        "AI",
+        "Startups",
+        "ai sovereignty",
+        "Prime Intellect",
+        "radical ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "published_at": "2026-07-08T15:41:06.000Z",
+      "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "Clio",
+        "evergreen"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
       "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
       "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
       "published_at": "2026-07-08T15:00:00.000Z",
       "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
       "tags": [
         "Venture",
-        "Startups",
-        "AI",
-        "ai infrastructure"
+        "ai infrastructure",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1005,53 +1022,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "published_at": "2026-07-08T08:00:00.000Z",
-      "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "AI inference",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "published_at": "2026-07-08T07:16:00.000Z",
-      "description": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "AI chip",
-        "Funding"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "published_at": "2026-07-07T22:18:10.000Z",
-      "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "tags": [
-        "AI",
-        "Meta",
-        "Meta Superintelligence",
-        "Muse Image"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -1171,21 +1141,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
       "source": "Dev.to",
       "user": "Ahmad Ra'fat"
-    },
-    {
-      "title": "A Free Screenshot Editor That Never Uploads Your Image",
-      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
-      "published_at": "2026-06-26T11:34:04Z",
-      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
-      "tags": [
-        "typescript",
-        "editor",
-        "canvas",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
-      "source": "Dev.to",
-      "user": "Martin Stark"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1319,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1327,
       "user": "Shpigford"
     },
     {
@@ -1349,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 340,
       "user": "majidmanzarpour"
     },
     {
@@ -1364,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 290,
       "user": "nexu-io"
     },
     {
@@ -1379,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "zjp1997720"
     },
     {
@@ -1394,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3722,
+      "stars": 3763,
       "user": "elder-plinius"
     },
     {
@@ -1409,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1695,
       "user": "synthetic-sciences"
     },
     {
@@ -1424,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 692,
       "user": "LinXiaoTao"
     },
     {
@@ -1439,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 542,
       "user": "simonlin1212"
     },
     {
@@ -1454,14 +1409,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 427,
       "user": "pocket-stack"
     },
     {
       "title": "How to remove scrollbar from Shopify modal pop up",
       "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
       "published_at": "2026-07-08T14:08:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1500,26 +1455,10 @@
       "user": "Claus Svalekj&#230;r"
     },
     {
-      "title": "How to get a knowledge on postgresql & prisma ORM",
-      "url": "https://stackoverflow.com/questions/79977838/how-to-get-a-knowledge-on-postgresql-prisma-orm",
-      "published_at": "2026-07-08T09:43:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "node.js",
-        "postgresql",
-        "orm",
-        "prisma"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "osizdevtm2 demo"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 18 answers · score 8",
+      "description": "Stack Overflow question · 18 answers · score 10",
       "tags": [
         "javascript",
         "html",
@@ -1528,6 +1467,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
+      "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
+      "published_at": "2026-07-07T17:08:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "performance-testing",
+        "browser-cache",
+        "indexeddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Valere"
     },
     {
       "title": "Javascript Fetch API - How to save output to variable as an object?",
@@ -1558,22 +1513,6 @@
       "user": "hansueli05"
     },
     {
-      "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
-      "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
-      "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "performance-testing",
-        "browser-cache",
-        "indexeddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Valere"
-    },
-    {
       "title": "Zooming with mouse wheel in an HTML document, but need to stop vertical scroll",
       "url": "https://stackoverflow.com/questions/79976386/zooming-with-mouse-wheel-in-an-html-document-but-need-to-stop-vertical-scroll",
       "published_at": "2026-07-07T09:11:10.000Z",
@@ -1601,6 +1540,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reda ait"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
     },
     {
       "title": "Trust Pilot inapp review",
@@ -1643,21 +1596,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build a Dark Mode Toggle Without JavaScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
-      "published_at": "2026-07-06T13:55:11.000Z",
-      "description": "Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn'",
-      "tags": [
-        "Web Development",
-        "dark mode",
-        "HTML",
-        "CSS"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jakub T. Jankiewicz"
     }
   ],
   "Python": [
@@ -1883,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1946,
       "user": "x4gKing"
     },
     {
@@ -1898,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 810,
       "user": "anthropics"
     },
     {
@@ -1913,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 730,
       "user": "jmerelnyc"
     },
     {
@@ -1943,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 471,
       "user": "Robbyant"
     },
     {
@@ -1958,35 +1896,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "can1357"
     },
     {
-      "title": "You shouldn't trust Trusted Publishing",
-      "url": "https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing",
-      "published_at": "2026-07-07T08:13:47.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How do I use this __something__ what does it do?",
+      "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-what-does-it-do",
+      "published_at": "2026-07-08T15:47:00.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
-        "python",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
-    },
-    {
-      "title": "dotted columns removal",
-      "url": "https://stackoverflow.com/questions/79977924/dotted-columns-removal",
-      "published_at": "2026-07-08T14:21:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "opencv",
-        "background"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Pawel Stepien"
+      "user": "user32917238"
     },
     {
       "title": "Trust Pilot inapp review",
@@ -2003,18 +1926,6 @@
       "user": "Soumya Sengupta"
     },
     {
-      "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
-      "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
-      "published_at": "2026-07-08T11:03:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Maryjane Adaeze"
-    },
-    {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
@@ -2025,6 +1936,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
+    },
+    {
+      "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
+      "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
+      "published_at": "2026-07-08T11:03:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Maryjane Adaeze"
     },
     {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
@@ -2041,6 +1964,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "madjetmax"
+    },
+    {
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NightKevin"
     },
     {
       "title": "How can I configure IntelliJ to write Python code?",
@@ -2068,19 +2004,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sefat Khan"
-    },
-    {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NightKevin"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -2407,7 +2330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "can1357"
     },
     {
@@ -2429,7 +2352,7 @@
       "title": "How to remove scrollbar from Shopify modal pop up",
       "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
       "published_at": "2026-07-08T14:08:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2444,7 +2367,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 18 answers · score 8",
+      "description": "Stack Overflow question · 18 answers · score 10",
       "tags": [
         "javascript",
         "html",
@@ -2481,6 +2404,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "robkblue"
+    },
+    {
+      "title": "How to make infinite draggable background using CSS and JavaScript",
+      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
+      "published_at": "2026-07-05T15:59:36.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trushank Vaghasiya"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -2525,21 +2462,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Build a Dark Mode Toggle Without JavaScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
-      "published_at": "2026-07-06T13:55:11.000Z",
-      "description": "Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn'",
-      "tags": [
-        "Web Development",
-        "dark mode",
-        "HTML",
-        "CSS"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jakub T. Jankiewicz"
     }
   ],
   "Mobile": [],
@@ -2650,6 +2572,21 @@
       "user": "xbill"
     },
     {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Minimalist EKS: The Easy Way",
       "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
       "published_at": "2026-06-26T19:56:54Z",
@@ -2708,6 +2645,19 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1",
+      "url": "https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/",
+      "published_at": "2026-07-08T14:05:37.000Z",
+      "description": "We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex",
+      "tags": [
+        "video essay",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
       "title": "AI Agents For Beginners",
       "url": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
       "published_at": "2026-07-07T15:35:18.000Z",
@@ -2748,22 +2698,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "How to get a knowledge on postgresql & prisma ORM",
-      "url": "https://stackoverflow.com/questions/79977838/how-to-get-a-knowledge-on-postgresql-prisma-orm",
-      "published_at": "2026-07-08T09:43:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "node.js",
-        "postgresql",
-        "orm",
-        "prisma"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "osizdevtm2 demo"
     },
     {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
@@ -2955,34 +2889,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3722,
+      "stars": 3763,
       "user": "elder-plinius"
-    },
-    {
-      "title": "You shouldn't trust Trusted Publishing",
-      "url": "https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing",
-      "published_at": "2026-07-07T08:13:47.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
-    },
-    {
-      "title": "OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589)",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "published_at": "2026-07-07T20:02:05.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "openbsd",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "fro"
     },
     {
       "title": "Encrypt JS/Decrypt PHP",
@@ -2999,15 +2907,30 @@
       "user": "Claus Svalekj&#230;r"
     },
     {
+      "title": "Another massive data breach exposed millions of driver&#8217;s license numbers",
+      "url": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
+      "published_at": "2026-07-08T16:14:49.000Z",
+      "description": "The cyberattack targeting a U.S. insurance giant is the largest known breach of driver's license numbers so far in 2026.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "data breach",
+        "driver's license"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
       "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
       "published_at": "2026-07-08T15:00:00.000Z",
       "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
       "tags": [
         "Venture",
-        "Startups",
-        "AI",
-        "ai infrastructure"
+        "ai infrastructure",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3044,19 +2967,19 @@
   ],
   "Tools": [
     {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
       "tags": [
+        "ai",
+        "webdev",
         "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
+      "user": "Web Developer Hyper"
     },
     {
       "title": "A New Developer Platform for Agent-Human Collaboration",
@@ -3087,6 +3010,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "published_at": "2026-07-06T15:50:31Z",
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "tags": [
+        "discuss",
+        "career",
+        "productivity",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
@@ -3146,6 +3084,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
+      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
+      "published_at": "2026-06-23T14:46:09Z",
+      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
+      "tags": [
+        "programming",
+        "go",
+        "opensource",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
+      "source": "Dev.to",
+      "user": "Inhere"
     },
     {
       "title": "I Am Fired Up Again",
@@ -3342,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1327,
       "user": "Shpigford"
     },
     {
@@ -3372,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 340,
       "user": "majidmanzarpour"
     },
     {
@@ -3387,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 290,
       "user": "nexu-io"
     },
     {
@@ -3402,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "zjp1997720"
     },
     {
@@ -3417,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1818,
+      "stars": 1946,
       "user": "x4gKing"
     },
     {
@@ -3432,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 810,
       "user": "anthropics"
     },
     {
@@ -3447,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 730,
       "user": "jmerelnyc"
     },
     {
@@ -3477,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 471,
       "user": "Robbyant"
     },
     {
@@ -3492,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 174,
       "user": "programmersd21"
     },
     {
@@ -3552,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/834772?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "crgimenes"
     },
     {
@@ -3567,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3722,
+      "stars": 3763,
       "user": "elder-plinius"
     },
     {
@@ -3582,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1695,
       "user": "synthetic-sciences"
     },
     {
@@ -3597,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 692,
       "user": "LinXiaoTao"
     },
     {
@@ -3612,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 542,
       "user": "simonlin1212"
     },
     {
@@ -3627,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 427,
       "user": "pocket-stack"
     },
     {
@@ -3642,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1179,
       "user": "MaximeRivest"
     },
     {
@@ -3657,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 722,
       "user": "514-labs"
     },
     {
@@ -3672,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 583,
       "user": "yynxxxxx"
     },
     {
@@ -3687,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "can1357"
     },
     {
@@ -3721,7 +3674,7 @@
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "google-chrome",
