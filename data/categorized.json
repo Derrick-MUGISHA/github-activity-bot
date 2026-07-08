@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
+    },
+    {
       "title": "Being an engineer in the AI era",
       "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
       "published_at": "2026-07-07T20:10:15Z",
@@ -44,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem",
+      "url": "https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f",
+      "published_at": "2026-07-08T06:08:58Z",
+      "description": "Have you ever tried to read a massive pile of reports and summarize them in under 50 words? It’s...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frolpwbju8wfdws7f0zq8.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -719,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 288,
       "user": "nexu-io"
     },
     {
@@ -749,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "kernelstub"
     },
     {
@@ -794,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1674,
       "user": "synthetic-sciences"
     },
     {
@@ -809,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 537,
       "user": "simonlin1212"
     },
     {
@@ -824,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 423,
       "user": "pocket-stack"
     },
     {
@@ -839,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 369,
       "user": "can1357"
     },
     {
@@ -854,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "SuperJJ007"
     },
     {
@@ -873,7 +918,7 @@
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 9 answers · score 1",
+      "description": "Stack Overflow question · 10 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
@@ -900,20 +945,50 @@
       "user": "Engr. Khuram  Shahzad"
     },
     {
-      "title": "Pros, what y’all think about this roadmap from AI?",
-      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
-      "published_at": "2026-07-07T18:08:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "published_at": "2026-07-08T15:00:00.000Z",
+      "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
       "tags": [
-        "python",
-        "node.js",
-        "linux",
-        "security",
-        "network-programming"
+        "Venture",
+        "Startups",
+        "AI",
+        "ai infrastructure"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gamers по сети"
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "url": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+      "published_at": "2026-07-08T14:07:49.000Z",
+      "description": "Build a new kind of rocket engine and the world will beat a path to your door.",
+      "tags": [
+        "Fundraising",
+        "Space",
+        "Mercury Fund",
+        "rockets"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "published_at": "2026-07-08T14:04:53.000Z",
+      "description": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
+      "tags": [
+        "Fundraising",
+        "Space",
+        "Blue Origin",
+        "Coatue Management",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
@@ -921,8 +996,11 @@
       "published_at": "2026-07-08T12:00:00.000Z",
       "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
       "tags": [
+        "AI",
         "Space",
-        "AI"
+        "Startups",
+        "Kevin Weil",
+        "stoke space"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -948,13 +1026,13 @@
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "published_at": "2026-07-08T07:16:00.000Z",
-      "description": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "description": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
       "tags": [
         "AI",
         "Fundraising",
-        "Intel",
-        "Funding",
-        "startup"
+        "Startups",
+        "AI chip",
+        "Funding"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -974,52 +1052,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "published_at": "2026-07-07T20:04:32.000Z",
-      "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Anthropic",
-        "Decagon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "published_at": "2026-07-07T19:58:20.000Z",
-      "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "In Brief",
-        "Microsoft",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "published_at": "2026-07-07T19:28:38.000Z",
-      "description": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "discord"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -1110,21 +1142,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "How I Fixed Supabase Storage RLS Errors That the Dashboard UI Couldn't Solve",
-      "url": "https://dev.to/l_build/how-i-fixed-supabase-storage-rls-errors-that-the-dashboard-ui-couldnt-solve-3c",
-      "published_at": "2026-07-06T07:18:59Z",
-      "description": "If you've ever spent hours staring at a 400 error on  a Supabase Storage upload despite having RLS...",
-      "tags": [
-        "supabase",
-        "webdev",
-        "tutorial",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6frsb0328dnn86c4nifw.png",
-      "source": "Dev.to",
-      "user": "Lior Karaev"
-    },
     {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
@@ -1302,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1304,
       "user": "Shpigford"
     },
     {
@@ -1317,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "dzhng"
     },
     {
@@ -1332,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 337,
       "user": "majidmanzarpour"
     },
     {
@@ -1347,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 288,
       "user": "nexu-io"
     },
     {
@@ -1377,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3646,
+      "stars": 3722,
       "user": "elder-plinius"
     },
     {
@@ -1392,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1674,
       "user": "synthetic-sciences"
     },
     {
@@ -1407,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 691,
       "user": "LinXiaoTao"
     },
     {
@@ -1422,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 537,
       "user": "simonlin1212"
     },
     {
@@ -1437,8 +1454,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 423,
       "user": "pocket-stack"
+    },
+    {
+      "title": "How to remove scrollbar from Shopify modal pop up",
+      "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
+      "published_at": "2026-07-08T14:08:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "shopify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gjjr"
+    },
+    {
+      "title": "project cover is not removing itself / returning to genre default after removal",
+      "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
+      "published_at": "2026-07-08T13:26:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "wordpress"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VineHallow Crookshanks"
     },
     {
       "title": "Encrypt JS/Decrypt PHP",
@@ -1474,7 +1519,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 17 answers · score 7",
+      "description": "Stack Overflow question · 18 answers · score 8",
       "tags": [
         "javascript",
         "html",
@@ -1545,7 +1590,7 @@
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 9 answers · score 1",
+      "description": "Stack Overflow question · 10 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
@@ -1558,58 +1603,30 @@
       "user": "Reda ait"
     },
     {
-      "title": "Sorting div-table without jQuery",
-      "url": "https://stackoverflow.com/questions/79974549/sorting-div-table-without-jquery",
-      "published_at": "2026-07-05T01:05:30.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "title": "Trust Pilot inapp review",
+      "url": "https://stackoverflow.com/questions/79977933/trust-pilot-inapp-review",
+      "published_at": "2026-07-08T14:39:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "javascript"
+        "python",
+        "angular",
+        "trustpilot"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "SoranDK"
-    },
-    {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
+      "user": "Soumya Sengupta"
     },
     {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 11 answers · score 1",
+      "description": "Stack Overflow question · 15 answers · score 2",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
-    },
-    {
-      "title": "Pros, what y’all think about this roadmap from AI?",
-      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
-      "published_at": "2026-07-07T18:08:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "node.js",
-        "linux",
-        "security",
-        "network-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gamers по сети"
     },
     {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
@@ -1656,6 +1673,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsq661jlwkupaop15sa.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
+      "published_at": "2026-07-07T17:12:47Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "googleantigravity",
+        "python",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1851,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1818,
       "user": "x4gKing"
     },
     {
@@ -1866,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 797,
       "user": "anthropics"
     },
     {
@@ -1896,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "asz798838958"
     },
     {
@@ -1911,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 469,
       "user": "Robbyant"
     },
     {
@@ -1926,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 369,
       "user": "can1357"
     },
     {
@@ -1943,16 +1975,56 @@
       "user": "yossarian"
     },
     {
+      "title": "dotted columns removal",
+      "url": "https://stackoverflow.com/questions/79977924/dotted-columns-removal",
+      "published_at": "2026-07-08T14:21:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "opencv",
+        "background"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pawel Stepien"
+    },
+    {
+      "title": "Trust Pilot inapp review",
+      "url": "https://stackoverflow.com/questions/79977933/trust-pilot-inapp-review",
+      "published_at": "2026-07-08T14:39:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "angular",
+        "trustpilot"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soumya Sengupta"
+    },
+    {
       "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
       "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
       "published_at": "2026-07-08T11:03:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Maryjane Adaeze"
+    },
+    {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 15 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
     },
     {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
@@ -1971,16 +2043,31 @@
       "user": "madjetmax"
     },
     {
-      "title": "Understanding json()",
-      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
-      "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 11 answers · score 1",
+      "title": "How can I configure IntelliJ to write Python code?",
+      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
+      "published_at": "2026-07-07T18:25:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "python"
+        "python",
+        "intellij-idea"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user32917238"
+      "user": "lewhat kahsay"
+    },
+    {
+      "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
+      "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
+      "published_at": "2026-07-07T18:29:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score -5",
+      "tags": [
+        "python",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sefat Khan"
     },
     {
       "title": "Asyncio worker silently stops updating shared state after exception handling",
@@ -2022,63 +2109,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Lichtenstein"
-    },
-    {
-      "title": "Python multiprocessing worker hangs only after garbage collection runs with shared memory objects",
-      "url": "https://stackoverflow.com/questions/79976649/python-multiprocessing-worker-hangs-only-after-garbage-collection-runs-with-shar",
-      "published_at": "2026-07-07T21:31:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "multiprocessing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NightKevin"
-    },
-    {
-      "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
-      "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
-      "published_at": "2026-07-07T18:29:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "selenium-webdriver",
-        "selenium-chromedriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sefat Khan"
-    },
-    {
-      "title": "Pros, what y’all think about this roadmap from AI?",
-      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
-      "published_at": "2026-07-07T18:08:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "node.js",
-        "linux",
-        "security",
-        "network-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gamers по сети"
-    },
-    {
-      "title": "How can I configure IntelliJ to write Python code?",
-      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
-      "published_at": "2026-07-07T18:25:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "intellij-idea"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lewhat kahsay"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2324,6 +2354,21 @@
   ],
   "WebDev": [
     {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
+    {
       "title": "I stopped generating color scales and started shaping them",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
       "published_at": "2026-06-23T13:53:17Z",
@@ -2362,7 +2407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 369,
       "user": "can1357"
     },
     {
@@ -2377,14 +2422,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "How to remove scrollbar from Shopify modal pop up",
+      "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
+      "published_at": "2026-07-08T14:08:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "shopify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gjjr"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 17 answers · score 7",
+      "description": "Stack Overflow question · 18 answers · score 8",
       "tags": [
         "javascript",
         "html",
@@ -2421,20 +2481,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "robkblue"
-    },
-    {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -2496,23 +2542,23 @@
       "user": "Jakub T. Jankiewicz"
     }
   ],
-  "Mobile": [
-    {
-      "title": "I was wrong about game development",
-      "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
-      "published_at": "2026-07-07T08:41:01.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "games",
-        "ios",
-        "mobile"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mijndert"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
+      "published_at": "2026-07-07T17:12:47Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "googleantigravity",
+        "python",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
@@ -2600,21 +2646,6 @@
         "mcps"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
-      "published_at": "2026-06-30T01:18:13Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "gemma",
-        "tpu",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2924,7 +2955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3646,
+      "stars": 3722,
       "user": "elder-plinius"
     },
     {
@@ -2968,20 +2999,19 @@
       "user": "Claus Svalekj&#230;r"
     },
     {
-      "title": "Pros, what y’all think about this roadmap from AI?",
-      "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
-      "published_at": "2026-07-07T18:08:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "published_at": "2026-07-08T15:00:00.000Z",
+      "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
       "tags": [
-        "python",
-        "node.js",
-        "linux",
-        "security",
-        "network-programming"
+        "Venture",
+        "Startups",
+        "AI",
+        "ai infrastructure"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gamers по сети"
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
@@ -3027,6 +3057,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -3101,21 +3146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
-      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
-      "published_at": "2026-06-23T14:46:09Z",
-      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
-      "tags": [
-        "programming",
-        "go",
-        "opensource",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
-      "source": "Dev.to",
-      "user": "Inhere"
     },
     {
       "title": "I Am Fired Up Again",
@@ -3312,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1304,
       "user": "Shpigford"
     },
     {
@@ -3327,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "dzhng"
     },
     {
@@ -3342,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 337,
       "user": "majidmanzarpour"
     },
     {
@@ -3357,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 288,
       "user": "nexu-io"
     },
     {
@@ -3387,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1818,
       "user": "x4gKing"
     },
     {
@@ -3402,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 797,
       "user": "anthropics"
     },
     {
@@ -3432,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "asz798838958"
     },
     {
@@ -3447,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 469,
       "user": "Robbyant"
     },
     {
@@ -3462,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "programmersd21"
     },
     {
@@ -3477,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "deviseo"
     },
     {
@@ -3492,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "kernelstub"
     },
     {
@@ -3537,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3646,
+      "stars": 3722,
       "user": "elder-plinius"
     },
     {
@@ -3552,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1674,
       "user": "synthetic-sciences"
     },
     {
@@ -3567,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 691,
       "user": "LinXiaoTao"
     },
     {
@@ -3582,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 537,
       "user": "simonlin1212"
     },
     {
@@ -3597,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 423,
       "user": "pocket-stack"
     },
     {
@@ -3612,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1169,
       "user": "MaximeRivest"
     },
     {
@@ -3627,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 720,
       "user": "514-labs"
     },
     {
@@ -3642,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 575,
       "user": "yynxxxxx"
     },
     {
@@ -3657,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 369,
       "user": "can1357"
     },
     {
@@ -3672,7 +3702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "SuperJJ007"
     },
     {
