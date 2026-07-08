@@ -88,21 +88,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
-      "published_at": "2026-07-06T03:47:27Z",
-      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
-      "source": "Dev.to",
-      "user": "Mason Delan"
-    },
-    {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49",
       "published_at": "2026-07-02T15:00:21Z",
@@ -296,6 +281,21 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
+    },
+    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -339,21 +339,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
     },
     {
       "title": "Visitors get some serious puppy love",
@@ -449,6 +434,36 @@
       "user": "Ibtissem Hattab"
     },
     {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
+    },
+    {
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "published_at": "2026-06-29T11:50:14Z",
+      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "tags": [
+        "ai",
+        "rag",
+        "mcp",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "For AI coding, the kids are alright",
       "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
       "published_at": "2026-06-29T16:06:12Z",
@@ -508,6 +523,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
+      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
+      "published_at": "2026-07-05T11:00:46Z",
+      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
+      "tags": [
+        "ai",
+        "claude",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Beyond Context",
       "url": "https://dev.to/dailycontext/beyond-context-4b0g",
       "published_at": "2026-07-02T14:02:11Z",
@@ -535,21 +565,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h8v3df7fwykgbqpgmxb.jpg",
       "source": "Dev.to",
       "user": "Sam Bhagwat"
-    },
-    {
-      "title": "A Free Screenshot Editor That Never Uploads Your Image",
-      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
-      "published_at": "2026-06-26T11:34:04Z",
-      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
-      "tags": [
-        "typescript",
-        "editor",
-        "canvas",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
-      "source": "Dev.to",
-      "user": "Martin Stark"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -719,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 219,
       "user": "nexu-io"
     },
     {
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "jmerelnyc"
     },
     {
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "kernelstub"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1362,
+      "stars": 1435,
       "user": "synthetic-sciences"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 472,
       "user": "simonlin1212"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 391,
       "user": "pocket-stack"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 338,
       "user": "can1357"
     },
     {
@@ -839,8 +854,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 305,
       "user": "SuperJJ007"
+    },
+    {
+      "title": "Google’s exponential path to climate-wrecking digital bloat",
+      "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+      "published_at": "2026-07-07T02:33:16.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sjamaan"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -889,24 +916,10 @@
       "user": "Gamers по сети"
     },
     {
-      "title": "Python concepts for 'AI-ML projects' and 'OpenSource Contribution'",
-      "url": "https://stackoverflow.com/questions/79976495/python-concepts-for-ai-ml-projects-and-opensource-contribution",
-      "published_at": "2026-07-07T13:20:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "open-source",
-        "aiml"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Karthik"
-    },
-    {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "published_at": "2026-07-07T22:18:10.000Z",
-      "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
       "tags": [
         "AI",
         "Meta",
@@ -1129,21 +1142,6 @@
       "user": "Ahmad Ra'fat"
     },
     {
-      "title": "A Free Screenshot Editor That Never Uploads Your Image",
-      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb",
-      "published_at": "2026-06-26T11:34:04Z",
-      "description": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big phone photos, in plain TypeScript and Canvas2D.",
-      "tags": [
-        "typescript",
-        "editor",
-        "canvas",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwn2fzcf7oc646973i3f.png",
-      "source": "Dev.to",
-      "user": "Martin Stark"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1275,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 1087,
       "user": "Shpigford"
     },
     {
@@ -1290,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 534,
       "user": "dzhng"
     },
     {
@@ -1305,23 +1303,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "majidmanzarpour"
-    },
-    {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "zjp1997720"
     },
     {
       "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
@@ -1335,8 +1318,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 219,
       "user": "nexu-io"
+    },
+    {
+      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "url": "https://github.com/zjp1997720/wechat-article-search",
+      "published_at": "2026-07-06T03:53:01Z",
+      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "source": "GitHub",
+      "stars": 187,
+      "user": "zjp1997720"
     },
     {
       "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
@@ -1350,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3310,
+      "stars": 3373,
       "user": "elder-plinius"
     },
     {
@@ -1365,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1362,
+      "stars": 1435,
       "user": "synthetic-sciences"
     },
     {
@@ -1380,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 663,
       "user": "LinXiaoTao"
     },
     {
@@ -1395,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 472,
       "user": "simonlin1212"
     },
     {
@@ -1410,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 391,
       "user": "pocket-stack"
     },
     {
@@ -1426,10 +1424,10 @@
       "user": "kalinma"
     },
     {
-      "title": "Javascript Fetch API - How to save output to variable as an Object",
+      "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1439,6 +1437,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 14 answers · score 7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "React state updates correctly but UI displays previous value after async operation",
@@ -1452,20 +1464,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hansueli05"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 13 answers · score 7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
@@ -1555,6 +1553,18 @@
       "user": "Shounak Mahata"
     },
     {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
+    },
+    {
       "title": "Pros, what y’all think about this roadmap from AI?",
       "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
       "published_at": "2026-07-07T18:08:19.000Z",
@@ -1634,21 +1644,6 @@
       "user": "xbill"
     },
     {
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
-      "published_at": "2026-07-06T03:47:27Z",
-      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
-      "source": "Dev.to",
-      "user": "Mason Delan"
-    },
-    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -1677,6 +1672,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1810,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 1017,
       "user": "x4gKing"
     },
     {
@@ -1825,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "jmerelnyc"
     },
     {
@@ -1840,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 629,
       "user": "anthropics"
     },
     {
@@ -1870,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 385,
       "user": "nagisanzenin"
     },
     {
@@ -1885,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 338,
       "user": "can1357"
     },
     {
@@ -1900,6 +1910,33 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
+    },
+    {
+      "title": "Is switching from C++ to Python for DSA a good decision?",
+      "url": "https://stackoverflow.com/questions/79976690/is-switching-from-c-to-python-for-dsa-a-good-decision",
+      "published_at": "2026-07-08T01:41:07.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "python",
+        "c++",
+        "algorithm",
+        "data-structures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
+    },
+    {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -1944,6 +1981,18 @@
       "user": "Sefat Khan"
     },
     {
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NightKevin"
+    },
+    {
       "title": "Pros, what y’all think about this roadmap from AI?",
       "url": "https://stackoverflow.com/questions/79976590/pros-what-y-all-think-about-this-roadmap-from-ai",
       "published_at": "2026-07-07T18:08:19.000Z",
@@ -1958,18 +2007,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gamers по сети"
-    },
-    {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NightKevin"
     },
     {
       "title": "How to turn a split string into multiple dictionary keys?",
@@ -1989,7 +2026,7 @@
       "title": "How can I configure IntelliJ to write Python code?",
       "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
       "published_at": "2026-07-07T18:25:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "intellij-idea"
@@ -2013,34 +2050,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sudam Ranasinghe"
-    },
-    {
-      "title": "Python concepts for 'AI-ML projects' and 'OpenSource Contribution'",
-      "url": "https://stackoverflow.com/questions/79976495/python-concepts-for-ai-ml-projects-and-opensource-contribution",
-      "published_at": "2026-07-07T13:20:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "open-source",
-        "aiml"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Karthik"
-    },
-    {
-      "title": "How can I make sure flush() has completed before creating a Milvus snapshot with PyMilvus?",
-      "url": "https://stackoverflow.com/questions/79976519/how-can-i-make-sure-flush-has-completed-before-creating-a-milvus-snapshot-with",
-      "published_at": "2026-07-07T14:28:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "snapshot",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Priya Singh"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2324,7 +2333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 338,
       "user": "can1357"
     },
     {
@@ -2339,14 +2348,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 305,
       "user": "SuperJJ007"
     },
     {
-      "title": "Javascript Fetch API - How to save output to variable as an Object",
+      "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2361,7 +2370,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 13 answers · score 7",
+      "description": "Stack Overflow question · 14 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -2869,7 +2878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3310,
+      "stars": 3373,
       "user": "elder-plinius"
     },
     {
@@ -3008,21 +3017,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
-      "published_at": "2026-07-06T03:47:27Z",
-      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
-      "source": "Dev.to",
-      "user": "Mason Delan"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -3098,6 +3092,21 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+      "published_at": "2026-07-06T03:47:27Z",
+      "description": "A month ago we added a card_token column to the users table so a background job could retry failed...",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
+      "source": "Dev.to",
+      "user": "Mason Delan"
+    },
+    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -3111,21 +3120,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
     },
     {
       "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
@@ -3172,6 +3166,21 @@
       "user": "Gil Barbara"
     },
     {
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
+      "tags": [
+        "discuss",
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
+      "source": "Dev.to",
+      "user": "EmberNoGlow"
+    },
+    {
       "title": "My First Year at DEV Recap",
       "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
       "published_at": "2026-07-01T13:46:22Z",
@@ -3198,6 +3207,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
+      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
+      "published_at": "2026-07-05T11:00:46Z",
+      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
+      "tags": [
+        "ai",
+        "claude",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3247,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 1087,
       "user": "Shpigford"
     },
     {
@@ -3262,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 534,
       "user": "dzhng"
     },
     {
@@ -3277,23 +3301,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "majidmanzarpour"
-    },
-    {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "zjp1997720"
     },
     {
       "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
@@ -3307,8 +3316,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 219,
       "user": "nexu-io"
+    },
+    {
+      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "url": "https://github.com/zjp1997720/wechat-article-search",
+      "published_at": "2026-07-06T03:53:01Z",
+      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "source": "GitHub",
+      "stars": 187,
+      "user": "zjp1997720"
     },
     {
       "title": "x4gKing/X4G - GitHub Repository",
@@ -3322,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 1017,
       "user": "x4gKing"
     },
     {
@@ -3337,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "jmerelnyc"
     },
     {
@@ -3352,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 629,
       "user": "anthropics"
     },
     {
@@ -3382,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 385,
       "user": "nagisanzenin"
     },
     {
@@ -3397,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "programmersd21"
     },
     {
@@ -3412,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "kernelstub"
     },
     {
@@ -3427,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 118,
       "user": "deviseo"
     },
     {
@@ -3457,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 48,
       "user": "MaximeRivest"
     },
     {
@@ -3472,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3310,
+      "stars": 3373,
       "user": "elder-plinius"
     },
     {
@@ -3487,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1362,
+      "stars": 1435,
       "user": "synthetic-sciences"
     },
     {
@@ -3502,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 663,
       "user": "LinXiaoTao"
     },
     {
@@ -3517,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 472,
       "user": "simonlin1212"
     },
     {
@@ -3532,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 391,
       "user": "pocket-stack"
     },
     {
@@ -3547,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1077,
       "user": "MaximeRivest"
     },
     {
@@ -3562,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 683,
       "user": "514-labs"
     },
     {
@@ -3577,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 531,
       "user": "yynxxxxx"
     },
     {
@@ -3592,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 338,
       "user": "can1357"
     },
     {
@@ -3607,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63803490?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 305,
       "user": "SuperJJ007"
     },
     {
@@ -3616,7 +3640,7 @@
       "published_at": "2026-07-07T02:33:16.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "vibecoding"
+        "ai"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
