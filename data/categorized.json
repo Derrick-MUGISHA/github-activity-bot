@@ -16,21 +16,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
       "published_at": "2026-07-07T01:44:15Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
+      "published_at": "2026-07-06T20:23:55Z",
+      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "tags": [
+        "looker",
+        "lookml",
+        "python",
+        "antigravitycli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "nexu-io"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "kernelstub"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1598,
+      "stars": 1625,
       "user": "synthetic-sciences"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 523,
       "user": "simonlin1212"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "pocket-stack"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 364,
       "user": "can1357"
     },
     {
@@ -914,6 +914,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gamers по сети"
+    },
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "published_at": "2026-07-08T12:00:00.000Z",
+      "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "tags": [
+        "Space",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
@@ -1007,22 +1020,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
-      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
-      "published_at": "2026-07-07T17:24:35.000Z",
-      "description": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
-      "tags": [
-        "Media & Entertainment",
-        "media",
-        "Netflix",
-        "publisher",
-        "streaming"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -1305,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1240,
       "user": "Shpigford"
     },
     {
@@ -1335,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "majidmanzarpour"
     },
     {
@@ -1350,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "nexu-io"
     },
     {
@@ -1380,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3603,
+      "stars": 3646,
       "user": "elder-plinius"
     },
     {
@@ -1395,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1598,
+      "stars": 1625,
       "user": "synthetic-sciences"
     },
     {
@@ -1410,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 687,
       "user": "LinXiaoTao"
     },
     {
@@ -1425,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 523,
       "user": "simonlin1212"
     },
     {
@@ -1440,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "pocket-stack"
     },
     {
@@ -1461,7 +1458,7 @@
       "title": "How to get a knowledge on postgresql & prisma ORM",
       "url": "https://stackoverflow.com/questions/79977838/how-to-get-a-knowledge-on-postgresql-prisma-orm",
       "published_at": "2026-07-08T09:43:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "node.js",
@@ -1477,7 +1474,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 16 answers · score 7",
+      "description": "Stack Overflow question · 17 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -1854,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1633,
       "user": "x4gKing"
     },
     {
@@ -1869,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 771,
       "user": "anthropics"
     },
     {
@@ -1914,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 452,
       "user": "Robbyant"
     },
     {
@@ -1929,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 364,
       "user": "can1357"
     },
     {
@@ -1961,7 +1958,7 @@
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
       "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
       "published_at": "2026-07-08T07:44:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -1974,21 +1971,6 @@
       "user": "madjetmax"
     },
     {
-      "title": "Is switching from C++ to Python for DSA a good decision?",
-      "url": "https://stackoverflow.com/questions/79976690/is-switching-from-c-to-python-for-dsa-a-good-decision",
-      "published_at": "2026-07-08T01:41:07.000Z",
-      "description": "Stack Overflow question · 14 answers · score 1",
-      "tags": [
-        "python",
-        "c++",
-        "algorithm",
-        "data-structures"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Falak Sher"
-    },
-    {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
@@ -1999,6 +1981,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
+    },
+    {
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NightKevin"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -2073,16 +2068,17 @@
       "user": "Gamers по сети"
     },
     {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "How can I configure IntelliJ to write Python code?",
+      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
+      "published_at": "2026-07-07T18:25:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
-        "python"
+        "python",
+        "intellij-idea"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NightKevin"
+      "user": "lewhat kahsay"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2366,7 +2362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 364,
       "user": "can1357"
     },
     {
@@ -2388,7 +2384,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 16 answers · score 7",
+      "description": "Stack Overflow question · 17 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -2726,7 +2722,7 @@
       "title": "How to get a knowledge on postgresql & prisma ORM",
       "url": "https://stackoverflow.com/questions/79977838/how-to-get-a-knowledge-on-postgresql-prisma-orm",
       "published_at": "2026-07-08T09:43:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "node.js",
@@ -2742,7 +2738,7 @@
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
       "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
       "published_at": "2026-07-08T07:44:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -2928,7 +2924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3603,
+      "stars": 3646,
       "user": "elder-plinius"
     },
     {
@@ -3316,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1240,
       "user": "Shpigford"
     },
     {
@@ -3346,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "majidmanzarpour"
     },
     {
@@ -3361,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "nexu-io"
     },
     {
@@ -3391,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1633,
       "user": "x4gKing"
     },
     {
@@ -3406,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 771,
       "user": "anthropics"
     },
     {
@@ -3451,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 452,
       "user": "Robbyant"
     },
     {
@@ -3466,8 +3462,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 168,
       "user": "programmersd21"
+    },
+    {
+      "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
+      "url": "https://github.com/deviseo/transit-hub",
+      "published_at": "2026-07-03T09:56:31Z",
+      "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "deviseo"
     },
     {
       "title": "kernelstub/Nox - Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.",
@@ -3481,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246671938?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "kernelstub"
     },
     {
@@ -3498,21 +3509,6 @@
       "source": "GitHub",
       "stars": 121,
       "user": "olemeyer"
-    },
-    {
-      "title": "deviseo/transit-hub - A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
-      "url": "https://github.com/deviseo/transit-hub",
-      "published_at": "2026-07-03T09:56:31Z",
-      "description": "A multi-upstream operations hub for self-hosted API services built with sub2api or new-api.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "deviseo"
     },
     {
       "title": "crgimenes/kutta - A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
@@ -3541,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3603,
+      "stars": 3646,
       "user": "elder-plinius"
     },
     {
@@ -3556,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1598,
+      "stars": 1625,
       "user": "synthetic-sciences"
     },
     {
@@ -3571,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 687,
       "user": "LinXiaoTao"
     },
     {
@@ -3586,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 523,
       "user": "simonlin1212"
     },
     {
@@ -3601,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "pocket-stack"
     },
     {
@@ -3616,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1146,
       "user": "MaximeRivest"
     },
     {
@@ -3631,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 709,
       "user": "514-labs"
     },
     {
@@ -3646,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 568,
       "user": "yynxxxxx"
     },
     {
@@ -3661,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 364,
       "user": "can1357"
     },
     {
@@ -3706,22 +3702,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Valere"
-    },
-    {
-      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
-      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
-      "published_at": "2026-07-07T17:24:35.000Z",
-      "description": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
-      "tags": [
-        "Media & Entertainment",
-        "media",
-        "Netflix",
-        "publisher",
-        "streaming"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
