@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-174-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--08-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-08 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-08 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -98,22 +98,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 4 | [A New Developer Platform for Agent-Human Collaboration](https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h) | Dev.to |
 | 5 | [Being an engineer in the AI era](https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p) | Dev.to |
 | 6 | [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle) | Dev.to |
-| 7 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
-| 8 | [Welcome Thread - v383](https://dev.to/devteam/welcome-thread-v383-2edd) | Dev.to |
+| 7 | [Has the audience for technical articles dropped?](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) | Dev.to |
+| 8 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
 | 9 | [Omni Flash Preview with Claude Code](https://dev.to/gde/omni-flash-preview-with-claude-code-53a5) | Dev.to |
 | 10 | [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl) | Dev.to |
-| 11 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
-| 12 | [Master Local Fine-Tuning with "gemma-trainer"](https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp) | Dev.to |
-| 13 | [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f) | Dev.to |
-| 14 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
-| 15 | [Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0](https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j) | Dev.to |
-| 16 | [I Contain Multitudes (and Also Three Git Repos)](https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf) | Dev.to |
-| 17 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
-| 18 | [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) | Dev.to |
-| 19 | [The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb) | Dev.to |
-| 20 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
+| 11 | [Welcome Thread - v383](https://dev.to/devteam/welcome-thread-v383-2edd) | Dev.to |
+| 12 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 13 | [Master Local Fine-Tuning with "gemma-trainer"](https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp) | Dev.to |
+| 14 | [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f) | Dev.to |
+| 15 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
+| 16 | [Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0](https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j) | Dev.to |
+| 17 | [I Contain Multitudes (and Also Three Git Repos)](https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf) | Dev.to |
+| 18 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
+| 19 | [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) | Dev.to |
+| 20 | [The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb) | Dev.to |
 
-<sub>Last fetched: Wed, 08 Jul 2026 22:16:30 CAT</sub>
+<sub>Last fetched: Wed, 08 Jul 2026 23:37:55 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain GIL and its implications for multithreading**
+**1. `DataStructures` — Implement a function to reverse a linked list**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Iterative or recursive, three pointers
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 71 | 40.8% | `████████████████████` |
-| **Tools** | 52 | 29.9% | `███████████████░░░░░` |
-| **JavaScript** | 37 | 21.3% | `██████████░░░░░░░░░░` |
-| **Python** | 32 | 18.4% | `█████████░░░░░░░░░░░` |
-| **Security** | 17 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 14 | 8.0% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 13 | 7.5% | `████░░░░░░░░░░░░░░░░` |
-| **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 1 | 0.6% | `░░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 77 | 41.8% | `████████████████████` |
+| **Tools** | 51 | 27.7% | `█████████████░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
+| **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 1 | 0.5% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -187,17 +187,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | GitHub | 25 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
+| TechCrunch | 10 |
 | freeCodeCamp | 10 |
 
 
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.6%
-Python          ██████████████████████████ 23.0%
-Go              █████████████████████████ 22.3%
-Java            ███████████████████████ 20.1%
-Rust            ████████ 7.2%
+JavaScript      ██████████████████████████████ 26.2%
+Python          ███████████████████████████ 23.4%
+Go              ██████████████████████████ 22.7%
+Java            ███████████████████████ 19.9%
+Rust            ████████ 7.1%
 PHP             █ 0.7%
 
 ```
@@ -205,8 +206,8 @@ PHP             █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 37
-    "Python" : 32
-    "Go" : 31
+    "Python" : 33
+    "Go" : 32
     "Java" : 28
     "Rust" : 10
     "PHP" : 1
@@ -215,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-9-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-9-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -267,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 08 Jul 2026 20:16:30 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 08 Jul 2026 21:37:55 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

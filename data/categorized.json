@@ -311,6 +311,36 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
+    },
+    {
       "title": "I Am Fired Up Again",
       "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
       "published_at": "2026-06-23T13:29:11Z",
@@ -539,35 +569,6 @@
       "user": "Ahmad Ra'fat"
     },
     {
-      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
-      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
-      "published_at": "2026-07-02T15:24:12Z",
-      "description": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
-      "tags": [
-        "aie",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvfwaf7thc8dex33mbmq.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
-      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
-      "published_at": "2026-07-05T11:00:46Z",
-      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
-      "tags": [
-        "ai",
-        "claude",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -735,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "nexu-io"
     },
     {
@@ -750,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 777,
       "user": "jmerelnyc"
     },
     {
@@ -810,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1727,
       "user": "synthetic-sciences"
     },
     {
@@ -825,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 548,
       "user": "simonlin1212"
     },
     {
@@ -840,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 431,
       "user": "pocket-stack"
     },
     {
@@ -855,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "can1357"
     },
     {
@@ -887,19 +888,6 @@
       "user": "hoistbypetard"
     },
     {
-      "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "published_at": "2026-07-08T09:04:11.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
@@ -916,18 +904,157 @@
       "user": "Reda ait"
     },
     {
-      "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
-      "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
-      "published_at": "2026-07-08T00:05:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "published_at": "2026-07-08T20:37:03.000Z",
+      "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
       "tags": [
-        "python",
-        "cuda",
-        "chemistry"
+        "AI",
+        "deepfakes",
+        "In Brief",
+        "synthid"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Engr. Khuram  Shahzad"
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "published_at": "2026-07-08T20:29:50.000Z",
+      "description": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
+      "tags": [
+        "Startups",
+        "chip manufacturing",
+        "European Chips Act",
+        "Exclusive",
+        "quantum sensing"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "published_at": "2026-07-08T19:30:16.000Z",
+      "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "Elon Musk",
+        "Grok",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "published_at": "2026-07-08T19:19:15.000Z",
+      "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Equity",
+        "general intuition",
+        "pim de witte"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Elon Musk says X will send DMs when posts you&#8217;ve engaged with are corrected",
+      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "published_at": "2026-07-08T18:46:20.000Z",
+      "description": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "tags": [
+        "Apps",
+        "Social",
+        "community notes",
+        "fact checking",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published_at": "2026-07-08T18:30:08.000Z",
+      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "published_at": "2026-07-08T17:47:55.000Z",
+      "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+      "tags": [
+        "AI",
+        "Startups",
+        "AI Funding",
+        "general intuition",
+        "physical ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "published_at": "2026-07-08T17:11:18.000Z",
+      "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Media & Entertainment",
+        "Social"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
+      "url": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/",
+      "published_at": "2026-07-08T18:56:26.000Z",
+      "description": "In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l",
+      "tags": [
+        "AI",
+        "ai-agent",
+        "mcp"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
+      "title": "AI Paper Review: Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+      "url": "https://www.freecodecamp.org/news/ai-paper-review-self-consistency-improves-chain-of-thought-reasoning-in-language-models/",
+      "published_at": "2026-07-08T18:55:53.000Z",
+      "description": "When Chain-of-Thought Prompting was introduced, it showed that large language models could solve many difficult reasoning problems simply by thinking step by step before producing an answer. It was a",
+      "tags": [
+        "AI",
+        "llm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mohammed Fahd Abrah"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -971,34 +1098,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
-      "url": "https://www.freecodecamp.org/news/the-heroku-nostalgia-trap-why-easy-deploys-arent-the-only-answer/",
-      "published_at": "2026-07-07T00:37:14.000Z",
-      "description": "There's a sentiment I've seen in Slack threads, Hacker News comments, and late-night Discord vents more times than I can count: \"I just want something like Heroku.\" I've said it myself. And I was wr",
-      "tags": [
-        "deployment",
-        "Heroku",
-        "software development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Iroro Chadere"
-    },
-    {
-      "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
-      "url": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
-      "published_at": "2026-07-06T18:42:15.000Z",
-      "description": "AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Olamilekan Lamidi"
     }
   ],
   "JavaScript": [
@@ -1164,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1381,
       "user": "Shpigford"
     },
     {
@@ -1179,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 545,
       "user": "dzhng"
     },
     {
@@ -1209,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "nexu-io"
     },
     {
@@ -1239,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3817,
+      "stars": 3838,
       "user": "elder-plinius"
     },
     {
@@ -1254,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1727,
       "user": "synthetic-sciences"
     },
     {
@@ -1284,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 548,
       "user": "simonlin1212"
     },
     {
@@ -1299,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 431,
       "user": "pocket-stack"
     },
     {
@@ -1561,6 +1660,21 @@
       "user": "xbill"
     },
     {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
       "published_at": "2026-07-03T02:55:09Z",
@@ -1722,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2231,
+      "stars": 2327,
       "user": "x4gKing"
     },
     {
@@ -1737,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 844,
       "user": "anthropics"
     },
     {
@@ -1752,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 777,
       "user": "jmerelnyc"
     },
     {
@@ -1767,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 499,
       "user": "asz798838958"
     },
     {
@@ -1782,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "Robbyant"
     },
     {
@@ -1797,14 +1911,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "can1357"
+    },
+    {
+      "title": "Is there a way to change the colours of sns.boxplot's boxes according to their mean values?",
+      "url": "https://stackoverflow.com/questions/79978029/is-there-a-way-to-change-the-colours-of-sns-boxplots-boxes-according-to-their-m",
+      "published_at": "2026-07-08T20:40:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "seaborn",
+        "boxplot",
+        "colormap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shrympe"
     },
     {
       "title": "How do I use this __something__ what does it do?",
       "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-what-does-it-do",
       "published_at": "2026-07-08T15:47:00.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "python"
       ],
@@ -1867,19 +1996,6 @@
       "user": "madjetmax"
     },
     {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NightKevin"
-    },
-    {
       "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
       "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
       "published_at": "2026-07-07T18:29:35.000Z",
@@ -1894,6 +2010,19 @@
       "user": "Sefat Khan"
     },
     {
+      "title": "Asyncio worker silently stops updating shared state after exception handling",
+      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
+      "published_at": "2026-07-07T15:50:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NightKevin"
+    },
+    {
       "title": "How can I configure IntelliJ to write Python code?",
       "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
       "published_at": "2026-07-07T18:25:53.000Z",
@@ -1904,7 +2033,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "lewhat kahsay"
+      "user": "anon"
     },
     {
       "title": "How to turn a split string into multiple dictionary keys?",
@@ -1919,20 +2048,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Lichtenstein"
-    },
-    {
-      "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
-      "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
-      "published_at": "2026-07-08T00:05:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "cuda",
-        "chemistry"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Engr. Khuram  Shahzad"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -1979,6 +2094,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
       "source": "Dev.to",
       "user": "Peter Jausovec"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "Minimalist EKS: The Easy Way",
@@ -2216,7 +2346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "can1357"
     },
     {
@@ -2304,20 +2434,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Trushank Vaghasiya"
-    },
-    {
-      "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
-      "url": "https://stackoverflow.com/questions/79976676/cuda-q-cudaq-kernels-uccsd-fails-for-odd-electron-count-on-qpp-cpu-and-nvidia-ba",
-      "published_at": "2026-07-08T00:05:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "cuda",
-        "chemistry"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Engr. Khuram  Shahzad"
     },
     {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
@@ -2459,6 +2575,21 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
       "published_at": "2026-07-03T02:55:09Z",
@@ -2574,6 +2705,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2776,21 +2922,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3817,
+      "stars": 3838,
       "user": "elder-plinius"
-    },
-    {
-      "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "published_at": "2026-07-08T09:04:11.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
     },
     {
       "title": "Encrypt JS/Decrypt PHP",
@@ -3090,21 +3223,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
-      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856",
-      "published_at": "2026-07-05T11:00:46Z",
-      "description": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
-      "tags": [
-        "ai",
-        "claude",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w2lr0jyuw7me0350aov.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3152,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1381,
       "user": "Shpigford"
     },
     {
@@ -3167,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 545,
       "user": "dzhng"
     },
     {
@@ -3197,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "nexu-io"
     },
     {
@@ -3227,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2231,
+      "stars": 2327,
       "user": "x4gKing"
     },
     {
@@ -3242,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 844,
       "user": "anthropics"
     },
     {
@@ -3257,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 777,
       "user": "jmerelnyc"
     },
     {
@@ -3272,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 499,
       "user": "asz798838958"
     },
     {
@@ -3287,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "Robbyant"
     },
     {
@@ -3302,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "programmersd21"
     },
     {
@@ -3377,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3817,
+      "stars": 3838,
       "user": "elder-plinius"
     },
     {
@@ -3392,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1727,
       "user": "synthetic-sciences"
     },
     {
@@ -3422,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 548,
       "user": "simonlin1212"
     },
     {
@@ -3437,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 431,
       "user": "pocket-stack"
     },
     {
@@ -3452,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1192,
+      "stars": 1196,
       "user": "MaximeRivest"
     },
     {
@@ -3467,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 728,
       "user": "514-labs"
     },
     {
@@ -3497,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "can1357"
     },
     {
@@ -3516,19 +3634,6 @@
       "user": "SuperJJ007"
     },
     {
-      "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "published_at": "2026-07-08T09:04:11.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
@@ -3543,6 +3648,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Valere"
+    },
+    {
+      "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published_at": "2026-07-08T18:30:08.000Z",
+      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
+      "url": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/",
+      "published_at": "2026-07-08T18:56:26.000Z",
+      "description": "In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l",
+      "tags": [
+        "AI",
+        "ai-agent",
+        "mcp"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
@@ -3572,20 +3706,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Darsh Shah"
-    },
-    {
-      "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
-      "url": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
-      "published_at": "2026-07-06T18:42:15.000Z",
-      "description": "AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Olamilekan Lamidi"
     }
   ]
 }
