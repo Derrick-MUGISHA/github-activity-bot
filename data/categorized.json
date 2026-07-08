@@ -76,21 +76,6 @@
       "user": "bebechien"
     },
     {
-      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
-      "published_at": "2026-07-07T15:54:40Z",
-      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem",
       "url": "https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f",
       "published_at": "2026-07-08T06:08:58Z",
@@ -174,6 +159,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
+      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
+      "published_at": "2026-07-07T15:54:40Z",
+      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
+      "tags": [
+        "weekendchallenge",
+        "devchallenge",
+        "hackathon",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "nexu-io"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 763,
       "user": "jmerelnyc"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1709,
       "user": "synthetic-sciences"
     },
     {
@@ -825,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "simonlin1212"
     },
     {
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "pocket-stack"
     },
     {
@@ -855,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "can1357"
     },
     {
@@ -874,22 +874,23 @@
       "user": "SuperJJ007"
     },
     {
-      "title": "Google’s exponential path to climate-wrecking digital bloat",
-      "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
-      "published_at": "2026-07-07T02:33:16.000-05:00",
+      "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "published_at": "2026-07-08T09:29:42.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai"
+        "reversing",
+        "unix"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "sjamaan"
+      "user": "hoistbypetard"
     },
     {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 10 answers · score 1",
+      "description": "Stack Overflow question · 10 answers · score 2",
       "tags": [
         "javascript",
         "node.js",
@@ -914,6 +915,84 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Engr. Khuram  Shahzad"
+    },
+    {
+      "title": "Elon Musk says X will send DMs when posts you&#8217;ve engaged with are corrected",
+      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "published_at": "2026-07-08T18:46:20.000Z",
+      "description": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "tags": [
+        "Apps",
+        "Social",
+        "community notes",
+        "fact checking",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published_at": "2026-07-08T18:30:08.000Z",
+      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "published_at": "2026-07-08T17:47:55.000Z",
+      "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+      "tags": [
+        "AI",
+        "Startups",
+        "AI Funding",
+        "general intuition",
+        "physical ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "published_at": "2026-07-08T17:11:18.000Z",
+      "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Media & Entertainment",
+        "Social"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "published_at": "2026-07-08T17:00:00.000Z",
+      "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "voice model"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Crypto VC firm Paradigm raises $1.2B to invest in &#8216;technical frontier&#8217; startups",
@@ -975,53 +1054,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
-      "url": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
-      "published_at": "2026-07-08T14:07:49.000Z",
-      "description": "Build a new kind of rocket engine and the world will beat a path to your door.",
-      "tags": [
-        "Fundraising",
-        "Space",
-        "Mercury Fund",
-        "rockets"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Blue Origin reportedly raising $10B at $130B valuation",
-      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
-      "published_at": "2026-07-08T14:04:53.000Z",
-      "description": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
-      "tags": [
-        "Fundraising",
-        "Space",
-        "Blue Origin",
-        "Coatue Management",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "published_at": "2026-07-08T12:00:00.000Z",
-      "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "tags": [
-        "AI",
-        "Space",
-        "Startups",
-        "Kevin Weil",
-        "stoke space"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -1093,22 +1125,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Olamilekan Lamidi"
-    },
-    {
-      "title": "How to Export a Claude Conversation as a PDF",
-      "url": "https://www.freecodecamp.org/news/export-a-claude-conversation-as-pdf-complete-guide/",
-      "published_at": "2026-07-06T13:56:14.000Z",
-      "description": "Whether you're documenting research, sharing AI-generated content with colleagues, creating reports, or keeping an offline backup, saving Claude conversations as PDFs is one of the easiest ways to pre",
-      "tags": [
-        "claude",
-        "pdf",
-        "conversion",
-        "ai-agent",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vikram Aruchamy"
     }
   ],
   "JavaScript": [
@@ -1274,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1352,
       "user": "Shpigford"
     },
     {
@@ -1304,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "majidmanzarpour"
     },
     {
@@ -1319,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "nexu-io"
     },
     {
@@ -1349,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3763,
+      "stars": 3791,
       "user": "elder-plinius"
     },
     {
@@ -1364,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1709,
       "user": "synthetic-sciences"
     },
     {
@@ -1379,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 693,
       "user": "LinXiaoTao"
     },
     {
@@ -1394,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "simonlin1212"
     },
     {
@@ -1409,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "pocket-stack"
     },
     {
@@ -1441,20 +1457,6 @@
       "user": "VineHallow Crookshanks"
     },
     {
-      "title": "Encrypt JS/Decrypt PHP",
-      "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
-      "published_at": "2026-07-08T09:51:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "php",
-        "encryption"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Claus Svalekj&#230;r"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1467,6 +1469,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Encrypt JS/Decrypt PHP",
+      "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
+      "published_at": "2026-07-08T09:51:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "php",
+        "encryption"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Claus Svalekj&#230;r"
     },
     {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
@@ -1529,7 +1545,7 @@
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 10 answers · score 1",
+      "description": "Stack Overflow question · 10 answers · score 2",
       "tags": [
         "javascript",
         "node.js",
@@ -1580,6 +1596,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
+    },
+    {
+      "title": "Level Up Your React Skills with Typescript",
+      "url": "https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/",
+      "published_at": "2026-07-08T14:28:51.000Z",
+      "description": "We've just released a new full-length tutorial on the freeCodeCamp.org YouTube channel that will teach you how to use TypeScript with React. If you’ve been building React apps but feeling like you’re",
+      "tags": [
+        "TypeScript",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
@@ -1821,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 2089,
       "user": "x4gKing"
     },
     {
@@ -1836,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 819,
       "user": "anthropics"
     },
     {
@@ -1851,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 763,
       "user": "jmerelnyc"
     },
     {
@@ -1896,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "can1357"
     },
     {
@@ -1979,19 +2008,6 @@
       "user": "NightKevin"
     },
     {
-      "title": "How can I configure IntelliJ to write Python code?",
-      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
-      "published_at": "2026-07-07T18:25:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "intellij-idea"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lewhat kahsay"
-    },
-    {
       "title": "Selenium Python options.add_extension() does not load Manifest V3 extension in Chrome 150 (extension ZIP is valid). i am in windows",
       "url": "https://stackoverflow.com/questions/79976596/selenium-python-options-add-extension-does-not-load-manifest-v3-extension-in-c",
       "published_at": "2026-07-07T18:29:35.000Z",
@@ -2004,6 +2020,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sefat Khan"
+    },
+    {
+      "title": "How can I configure IntelliJ to write Python code?",
+      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
+      "published_at": "2026-07-07T18:25:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "intellij-idea"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lewhat kahsay"
     },
     {
       "title": "CUDA-Q cudaq.kernels.uccsd fails for odd electron count on qpp-cpu and nvidia backends",
@@ -2330,7 +2359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "can1357"
     },
     {
@@ -2464,7 +2493,23 @@
       "user": "Vaibhav Gupta"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
+      "url": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
+      "published_at": "2026-07-08T15:47:35.000Z",
+      "description": "Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f",
+      "tags": [
+        "Flutter",
+        "jank",
+        "devtools",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Gidudu Nicholas"
+    }
+  ],
   "Cloud": [
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
@@ -2889,7 +2934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3763,
+      "stars": 3791,
       "user": "elder-plinius"
     },
     {
@@ -2950,19 +2995,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Destiny Erhabor"
-    },
-    {
-      "title": "How to Take Control of Your Online Privacy",
-      "url": "https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/",
-      "published_at": "2026-07-06T14:52:16.000Z",
-      "description": "Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne",
-      "tags": [
-        "privacy",
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -3295,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1352,
       "user": "Shpigford"
     },
     {
@@ -3325,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "majidmanzarpour"
     },
     {
@@ -3340,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "nexu-io"
     },
     {
@@ -3370,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 2089,
       "user": "x4gKing"
     },
     {
@@ -3385,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 819,
       "user": "anthropics"
     },
     {
@@ -3400,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/164396066?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 763,
       "user": "jmerelnyc"
     },
     {
@@ -3445,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "programmersd21"
     },
     {
@@ -3520,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133052465?v=4",
       "source": "GitHub",
-      "stars": 3763,
+      "stars": 3791,
       "user": "elder-plinius"
     },
     {
@@ -3535,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1709,
       "user": "synthetic-sciences"
     },
     {
@@ -3550,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19836925?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 693,
       "user": "LinXiaoTao"
     },
     {
@@ -3565,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "simonlin1212"
     },
     {
@@ -3580,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "pocket-stack"
     },
     {
@@ -3595,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1185,
       "user": "MaximeRivest"
     },
     {
@@ -3610,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "514-labs"
     },
     {
@@ -3625,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 589,
       "user": "yynxxxxx"
     },
     {
@@ -3640,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807264?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "can1357"
     },
     {
@@ -3659,18 +3691,6 @@
       "user": "SuperJJ007"
     },
     {
-      "title": "Google’s exponential path to climate-wrecking digital bloat",
-      "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
-      "published_at": "2026-07-07T02:33:16.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "sjamaan"
-    },
-    {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
@@ -3685,6 +3705,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Valere"
+    },
+    {
+      "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published_at": "2026-07-08T18:30:08.000Z",
+      "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
+      "url": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
+      "published_at": "2026-07-08T15:47:35.000Z",
+      "description": "Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f",
+      "tags": [
+        "Flutter",
+        "jank",
+        "devtools",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Gidudu Nicholas"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -3713,19 +3763,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Olamilekan Lamidi"
-    },
-    {
-      "title": "How to Take Control of Your Online Privacy",
-      "url": "https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/",
-      "published_at": "2026-07-06T14:52:16.000Z",
-      "description": "Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne",
-      "tags": [
-        "privacy",
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ]
 }
