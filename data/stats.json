@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 77,
+    "AI": 78,
     "JavaScript": 37,
     "Python": 33,
     "DevOps": 17,
@@ -23,15 +23,15 @@
   },
   "by_language": {
     "Python": 33,
-    "Go": 32,
-    "Rust": 10,
+    "Go": 31,
+    "Rust": 9,
     "JavaScript": 37,
     "Java": 28,
     "PHP": 1
   },
   "by_date": {
-    "2026-07-07": 21,
-    "2026-07-08": 40,
+    "2026-07-07": 19,
+    "2026-07-08": 42,
     "2026-07-06": 12,
     "2026-06-29": 7,
     "2026-07-02": 13,
@@ -101,8 +101,8 @@
     "github": 25,
     "open-source": 25,
     "python": 21,
-    "AI": 18,
     "javascript": 17,
+    "AI": 17,
     "Security": 11,
     "JavaScript": 11,
     "Python": 10,
@@ -111,20 +111,20 @@
     "aie": 9,
     "productivity": 8,
     "mcps": 8,
-    "webdev": 6,
+    "programming": 7,
     "llm": 6,
+    "webdev": 6,
     "agents": 6,
     "antigravity": 6,
-    "programming": 6,
     "go": 6
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "23.4",
-    "Go": "22.7",
-    "Rust": "7.1",
-    "JavaScript": "26.2",
-    "Java": "19.9",
+    "Python": "23.7",
+    "Go": "22.3",
+    "Rust": "6.5",
+    "JavaScript": "26.6",
+    "Java": "20.1",
     "PHP": "0.7"
   }
 }
