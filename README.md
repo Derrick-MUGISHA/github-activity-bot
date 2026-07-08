@@ -5,10 +5,10 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
-![Last Update](https://img.shields.io/badge/Updated-2026--07--07-orange?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026--07--08-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-08 1:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-08 3:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -105,15 +105,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 11 | [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49) | Dev.to |
 | 12 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
 | 13 | [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) | Dev.to |
-| 14 | [[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution](https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856) | Dev.to |
-| 15 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
-| 16 | [How I Fixed Supabase Storage RLS Errors That the Dashboard UI Couldn't Solve](https://dev.to/l_build/how-i-fixed-supabase-storage-rls-errors-that-the-dashboard-ui-couldnt-solve-3c) | Dev.to |
-| 17 | [Meme Monday](https://dev.to/ben/meme-monday-5g25) | Dev.to |
-| 18 | [i made a fogger breakdown video](https://dev.to/codebunny20/i-made-a-fogger-breakdown-video-18k1) | Dev.to |
-| 19 | [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) | Dev.to |
-| 20 | [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) | Dev.to |
+| 14 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
+| 15 | [How I Fixed Supabase Storage RLS Errors That the Dashboard UI Couldn't Solve](https://dev.to/l_build/how-i-fixed-supabase-storage-rls-errors-that-the-dashboard-ui-couldnt-solve-3c) | Dev.to |
+| 16 | [Meme Monday](https://dev.to/ben/meme-monday-5g25) | Dev.to |
+| 17 | [i made a fogger breakdown video](https://dev.to/codebunny20/i-made-a-fogger-breakdown-video-18k1) | Dev.to |
+| 18 | [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) | Dev.to |
+| 19 | [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6) | Dev.to |
+| 20 | [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn) | Dev.to |
 
-<sub>Last fetched: Wed, 08 Jul 2026 01:32:34 CAT</sub>
+<sub>Last fetched: Wed, 08 Jul 2026 03:08:49 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
+**1. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**2. `Python` — What are generators and when would you use them?**
+**2. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 51 | 27.7% | `█████████████░░░░░░░` |
-| **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
-| **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **AI** | 76 | 41.5% | `████████████████████` |
+| **Tools** | 50 | 27.3% | `█████████████░░░░░░░` |
+| **JavaScript** | 37 | 20.2% | `██████████░░░░░░░░░░` |
+| **Python** | 33 | 18.0% | `█████████░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 60 |
+| Dev.to | 59 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,29 +194,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.6%
-Python          █████████████████████████ 22.4%
-Go              █████████████████████████ 22.4%
-Java            ████████████████████████ 21.0%
-Rust            ████████ 7.0%
+JavaScript      ██████████████████████████████ 25.9%
+Python          ███████████████████████████ 23.1%
+Go              ██████████████████████████ 22.4%
+Java            ████████████████████████ 20.3%
+Rust            █████████ 7.7%
 Swift           █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 38
-    "Python" : 32
+    "JavaScript" : 37
+    "Python" : 33
     "Go" : 32
-    "Java" : 30
-    "Rust" : 10
+    "Java" : 29
+    "Rust" : 11
     "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-7-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-7-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 07 Jul 2026 23:32:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 08 Jul 2026 01:08:49 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
