@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-179-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--09-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-09 10:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-09 14:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -98,12 +98,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 4 | [Bigger Context Windows Didn't Make Our RAG Smarter](https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l) | Dev.to |
 | 5 | [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle) | Dev.to |
 | 6 | [Omni Flash Preview with Claude Code](https://dev.to/gde/omni-flash-preview-with-claude-code-53a5) | Dev.to |
-| 7 | [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl) | Dev.to |
-| 8 | [DEV's Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n) | Dev.to |
-| 9 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 7 | [DEV's Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n) | Dev.to |
+| 8 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 9 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
 | 10 | [A New Developer Platform for Agent-Human Collaboration](https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h) | Dev.to |
-| 11 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
-| 12 | [Welcome Thread - v383](https://dev.to/devteam/welcome-thread-v383-2edd) | Dev.to |
+| 11 | [Welcome Thread - v383](https://dev.to/devteam/welcome-thread-v383-2edd) | Dev.to |
+| 12 | [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl) | Dev.to |
 | 13 | [Being an engineer in the AI era](https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p) | Dev.to |
 | 14 | [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f) | Dev.to |
 | 15 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Master Local Fine-Tuning with "gemma-trainer"](https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp) | Dev.to |
 | 20 | [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) | Dev.to |
 
-<sub>Last fetched: Thu, 09 Jul 2026 10:57:15 CAT</sub>
+<sub>Last fetched: Thu, 09 Jul 2026 14:07:21 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Implement rate limiting for an API**
+**1. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**2. `Database` — Explain database indexing and when to use it**
+**2. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**3. `SystemDesign` — Design a distributed cache system**
+**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 74 | 41.3% | `████████████████████` |
-| **Tools** | 45 | 25.1% | `████████████░░░░░░░░` |
-| **JavaScript** | 32 | 17.9% | `█████████░░░░░░░░░░░` |
-| **Python** | 32 | 17.9% | `█████████░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.5% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 15 | 8.4% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 15 | 8.4% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.5% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 3 | 1.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 1 | 0.6% | `░░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 77 | 41.8% | `████████████████████` |
+| **Tools** | 51 | 27.7% | `█████████████░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
+| **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 1 | 0.5% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -184,7 +184,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |--------|---------:|
 | Dev.to | 60 |
 | HackerNews | 49 |
-| GitHub | 20 |
+| GitHub | 25 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 23.2%
-Go              ██████████████████████████████ 23.2%
-JavaScript      ██████████████████████████████ 23.2%
-Java            ███████████████████████████ 21.0%
-Rust            █████████ 7.2%
+JavaScript      ██████████████████████████████ 25.7%
+Python          ██████████████████████████ 22.2%
+Go              ██████████████████████████ 22.2%
+Java            ████████████████████████ 20.8%
+Rust            ████████ 6.9%
 PHP             ██ 1.4%
 CSharp          █ 0.7%
 
@@ -206,10 +206,10 @@ CSharp          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
+    "JavaScript" : 37
     "Python" : 32
     "Go" : 32
-    "JavaScript" : 32
-    "Java" : 29
+    "Java" : 30
     "Rust" : 10
     "PHP" : 2
     "CSharp" : 1
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-20-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-20-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-9-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-9-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 09 Jul 2026 08:57:15 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 09 Jul 2026 12:07:21 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
