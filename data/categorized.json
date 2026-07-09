@@ -16,21 +16,6 @@
       "user": "Web Developer Hyper"
     },
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
       "title": "A Pragmatic Look at AI in 2030",
       "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
       "published_at": "2026-07-08T15:01:47Z",
@@ -61,6 +46,21 @@
       "user": "Jen Looper"
     },
     {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "published_at": "2026-07-08T10:23:41Z",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "source": "Dev.to",
+      "user": "ValeryKot"
+    },
+    {
       "title": "Being an engineer in the AI era",
       "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
       "published_at": "2026-07-07T20:10:15Z",
@@ -89,21 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frolpwbju8wfdws7f0zq8.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
-      "tags": [
-        "ai",
-        "llm",
-        "machinelearning",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
-      "source": "Dev.to",
-      "user": "ValeryKot"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "What's Next for AI?",
@@ -494,21 +494,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
-      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
-      "published_at": "2026-07-06T01:27:27Z",
-      "description": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
-      "source": "Dev.to",
-      "user": "Ibtissem Hattab"
-    },
-    {
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
       "published_at": "2026-06-28T09:04:04Z",
@@ -552,6 +537,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 340,
       "user": "nexu-io"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 538,
       "user": "Robbyant"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "olemeyer"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "uf-hy"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1930,
       "user": "synthetic-sciences"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "ai4s-research"
     },
     {
@@ -898,19 +898,6 @@
       "user": "runxiyu"
     },
     {
-      "title": "A Prolog library for interfacing with LLMs",
-      "url": "https://github.com/vagos/llmpl",
-      "published_at": "2026-07-09T08:52:12.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "logiclangs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vagos"
-    },
-    {
       "title": "the usefulness of await on my async login method",
       "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
       "published_at": "2026-07-03T00:56:33.000Z",
@@ -927,6 +914,22 @@
       "user": "Reda ait"
     },
     {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "published_at": "2026-07-09T19:40:45.000Z",
+      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse spark"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
       "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
       "published_at": "2026-07-09T19:05:58.000Z",
@@ -936,7 +939,7 @@
         "Government & Policy",
         "ChatGPT",
         "copyright",
-        "OpenAI"
+        "copyright infringement"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -951,7 +954,7 @@
         "Fundraising",
         "Startups",
         "Venture",
-        "AI",
+        "In Brief",
         "Mercor"
       ],
       "cover_image": null,
@@ -1005,7 +1008,7 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
       "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
       "published_at": "2026-07-09T17:56:47.000Z",
       "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
@@ -1013,43 +1016,12 @@
         "AI",
         "Apps",
         "Social",
-        "Instagram",
-        "Meta"
+        "Generative AI",
+        "image generator"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Meta&#8217;s new AI chips will begin production in September",
-      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "published_at": "2026-07-09T17:17:37.000Z",
-      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "AI chips",
-        "ai infrastructure",
-        "GPUS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "published_at": "2026-07-09T17:06:11.000Z",
-      "description": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "tags": [
-        "AI",
-        "compute",
-        "dram",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
@@ -1138,6 +1110,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1271,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1548,
       "user": "Shpigford"
     },
     {
@@ -1286,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1274,
       "user": "withmarbleapp"
     },
     {
@@ -1301,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 413,
       "user": "oso95"
     },
     {
@@ -1316,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 368,
       "user": "majidmanzarpour"
     },
     {
@@ -1331,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 340,
       "user": "nexu-io"
     },
     {
@@ -1346,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1930,
       "user": "synthetic-sciences"
     },
     {
@@ -1376,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "ai4s-research"
     },
     {
@@ -1451,6 +1438,19 @@
       "user": "evert"
     },
     {
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "axios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bahar betvan"
+    },
+    {
       "title": "How do I place this code within description of XMLs' description",
       "url": "https://stackoverflow.com/questions/79978199/how-do-i-place-this-code-within-description-of-xmls-description",
       "published_at": "2026-07-09T08:44:24.000Z",
@@ -1467,7 +1467,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 19 answers · score 12",
+      "description": "Stack Overflow question · 20 answers · score 12",
       "tags": [
         "javascript",
         "html",
@@ -1582,20 +1582,6 @@
       "user": "Reda ait"
     },
     {
-      "title": "Next.js Suspense streaming works in StackBlitz/VS Code browser but is buffered in Chrome/Firefox/Edge due to local AV/proxy",
-      "url": "https://stackoverflow.com/questions/79968688/next-js-suspense-streaming-works-in-stackblitz-vs-code-browser-but-is-buffered-i",
-      "published_at": "2026-06-27T16:32:46.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Starnec"
-    },
-    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -1700,6 +1686,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
       "source": "Dev.to",
       "user": "Mason Delan"
+    },
+    {
+      "title": "Omni Flash Preview with Claude Code",
+      "url": "https://dev.to/gde/omni-flash-preview-with-claude-code-53a5",
+      "published_at": "2026-07-06T16:34:02Z",
+      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "tags": [
+        "cli",
+        "googleomni",
+        "mcps",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsq661jlwkupaop15sa.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1833,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3246,
+      "stars": 3305,
       "user": "x4gKing"
     },
     {
@@ -1848,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 575,
       "user": "Robbyant"
     },
     {
@@ -1863,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 554,
       "user": "Robbyant"
     },
     {
@@ -1878,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 538,
       "user": "Robbyant"
     },
     {
@@ -1893,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 476,
       "user": "nagisanzenin"
     },
     {
@@ -2125,21 +2126,6 @@
       "user": "Joaquin Menchaca"
     },
     {
-      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
-      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
-      "published_at": "2026-07-06T01:27:27Z",
-      "description": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "agents",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
-      "source": "Dev.to",
-      "user": "Ibtissem Hattab"
-    },
-    {
       "title": "The Big DevOps Misunderstanding",
       "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
       "published_at": "2021-12-19T20:07:33Z",
@@ -2271,7 +2257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "olemeyer"
     },
     {
@@ -2363,7 +2349,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 19 answers · score 12",
+      "description": "Stack Overflow question · 20 answers · score 12",
       "tags": [
         "javascript",
         "html",
@@ -2433,6 +2419,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "axios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bahar betvan"
     },
     {
       "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
@@ -2654,7 +2653,7 @@
         "Government & Policy",
         "ChatGPT",
         "copyright",
-        "OpenAI"
+        "copyright infringement"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2971,21 +2970,6 @@
       "user": "Web Developer Hyper"
     },
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
       "title": "Being an engineer in the AI era",
       "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
       "published_at": "2026-07-07T20:10:15Z",
@@ -3013,6 +2997,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3134,19 +3133,19 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
-      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p",
-      "published_at": "2026-07-06T01:27:27Z",
-      "description": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.",
+      "title": "After a long journey, I've reached a deep burnout",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+      "published_at": "2026-06-28T09:04:04Z",
+      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
       "tags": [
+        "discuss",
         "ai",
-        "antigravity",
-        "agents",
-        "kubernetes"
+        "learning",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
       "source": "Dev.to",
-      "user": "Ibtissem Hattab"
+      "user": "EmberNoGlow"
     },
     {
       "title": "I stopped generating color scales and started shaping them",
@@ -3162,21 +3161,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
-    },
-    {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
     },
     {
       "title": "My First Year at DEV Recap",
@@ -3254,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1548,
       "user": "Shpigford"
     },
     {
@@ -3269,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1274,
       "user": "withmarbleapp"
     },
     {
@@ -3284,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 413,
       "user": "oso95"
     },
     {
@@ -3299,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 368,
       "user": "majidmanzarpour"
     },
     {
@@ -3314,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 340,
       "user": "nexu-io"
     },
     {
@@ -3329,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3246,
+      "stars": 3305,
       "user": "x4gKing"
     },
     {
@@ -3344,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 575,
       "user": "Robbyant"
     },
     {
@@ -3359,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 554,
       "user": "Robbyant"
     },
     {
@@ -3374,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 538,
       "user": "Robbyant"
     },
     {
@@ -3389,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 476,
       "user": "nagisanzenin"
     },
     {
@@ -3404,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 198,
       "user": "programmersd21"
     },
     {
@@ -3434,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "olemeyer"
     },
     {
@@ -3449,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "uf-hy"
     },
     {
@@ -3479,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1930,
       "user": "synthetic-sciences"
     },
     {
@@ -3509,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "ai4s-research"
     },
     {
@@ -3554,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1277,
       "user": "MaximeRivest"
     },
     {
@@ -3569,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 769,
       "user": "514-labs"
     },
     {
@@ -3656,7 +3640,7 @@
         "Government & Policy",
         "ChatGPT",
         "copyright",
-        "OpenAI"
+        "copyright infringement"
       ],
       "cover_image": null,
       "source": "TechCrunch",
