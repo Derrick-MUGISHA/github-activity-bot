@@ -16,19 +16,19 @@
       "user": "Web Developer Hyper"
     },
     {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
       "tags": [
         "ai",
-        "llm",
-        "machinelearning",
-        "rag"
+        "agents",
+        "git",
+        "entire"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
       "source": "Dev.to",
-      "user": "ValeryKot"
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -44,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
-    },
-    {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
     },
     {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
@@ -132,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "published_at": "2026-07-08T10:23:41Z",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "source": "Dev.to",
+      "user": "ValeryKot"
     },
     {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 335,
       "user": "nexu-io"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 515,
       "user": "Robbyant"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 64,
       "user": "uf-hy"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1908,
       "user": "synthetic-sciences"
     },
     {
@@ -796,14 +796,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "simonlin1212"
     },
     {
-      "title": "ai4s-research/open-science - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS & Windows. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "title": "ai4s-research/open-science - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "url": "https://github.com/ai4s-research/open-science",
       "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS & Windows. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "tags": [
         "typescript",
         "github",
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "ai4s-research"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "pocket-stack"
     },
     {
@@ -841,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "lxh77721"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55848801?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "avifenesh"
     },
     {
@@ -871,6 +871,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "runxiyu"
+    },
+    {
+      "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went",
+      "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+      "published_at": "2026-07-09T10:21:30.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ninakali"
     },
     {
       "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores",
@@ -900,15 +912,94 @@
       "user": "BlueGalahad"
     },
     {
+      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+      "url": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+      "published_at": "2026-07-09T15:16:34.000Z",
+      "description": "State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "block",
+        "Cash App"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "published_at": "2026-07-09T14:53:09.000Z",
+      "description": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "tags": [
+        "TC",
+        "AI",
+        "Apps",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "published_at": "2026-07-09T14:51:00.000Z",
+      "description": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "IPO",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "published_at": "2026-07-09T13:00:00.000Z",
+      "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "Benchmark Partners",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there&#8217;s a twist",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "published_at": "2026-07-09T13:00:00.000Z",
+      "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ai entertainment",
+        "character.ai",
+        "microdramas"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
       "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
       "published_at": "2026-07-09T12:00:00.000Z",
       "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
       "tags": [
+        "AI",
         "Startups",
         "Venture",
-        "AI",
-        "Nandan Nilekani",
+        "Fundamentum",
         "Fundamentum Partnership"
       ],
       "cover_image": null,
@@ -923,9 +1014,9 @@
       "tags": [
         "Apps",
         "Government & Policy",
-        "Truecaller",
         "MeitY",
-        "TRAI"
+        "TRAI",
+        "Truecaller"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -962,53 +1053,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "published_at": "2026-07-08T20:37:03.000Z",
-      "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-      "tags": [
-        "AI",
-        "deepfakes",
-        "In Brief",
-        "synthid"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-      "published_at": "2026-07-08T20:29:50.000Z",
-      "description": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
-      "tags": [
-        "Startups",
-        "chip manufacturing",
-        "European Chips Act",
-        "Exclusive",
-        "quantum sensing"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "published_at": "2026-07-08T19:30:16.000Z",
-      "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "Elon Musk",
-        "Grok",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
@@ -1246,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1498,
       "user": "Shpigford"
     },
     {
@@ -1261,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 1101,
       "user": "withmarbleapp"
     },
     {
@@ -1276,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 363,
       "user": "majidmanzarpour"
     },
     {
@@ -1291,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 335,
       "user": "nexu-io"
     },
     {
@@ -1306,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 329,
       "user": "oso95"
     },
     {
@@ -1321,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1908,
       "user": "synthetic-sciences"
     },
     {
@@ -1336,14 +1380,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "simonlin1212"
     },
     {
-      "title": "ai4s-research/open-science - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS & Windows. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "title": "ai4s-research/open-science - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "url": "https://github.com/ai4s-research/open-science",
       "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS & Windows. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "tags": [
         "typescript",
         "github",
@@ -1351,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "ai4s-research"
     },
     {
@@ -1366,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "pocket-stack"
     },
     {
@@ -1381,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "lxh77721"
     },
     {
@@ -1396,21 +1440,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "lucid-softworks"
-    },
-    {
-      "title": "My Thoughts on the Bun Rust Rewrite",
-      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-      "published_at": "2026-07-09T04:46:44.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "zig"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kristoff"
     },
     {
       "title": "Announcing TypeScript 7.0",
@@ -1442,7 +1473,7 @@
       "title": "I am getting a CORS error when trying to make a fetch request from dog.ceo",
       "url": "https://stackoverflow.com/questions/79978206/i-am-getting-a-cors-error-when-trying-to-make-a-fetch-request-from-dog-ceo",
       "published_at": "2026-07-09T08:56:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "cors"
@@ -1470,7 +1501,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 17 answers · score 12",
+      "description": "Stack Overflow question · 18 answers · score 12",
       "tags": [
         "javascript",
         "html",
@@ -1565,18 +1596,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hansueli05"
-    },
-    {
-      "title": "Understanding json()",
-      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
-      "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 15 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32917238"
     },
     {
       "title": "Level Up Your React Skills with Typescript",
@@ -1831,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2900,
+      "stars": 3088,
       "user": "x4gKing"
     },
     {
@@ -1846,22 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 550,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 481,
+      "stars": 565,
       "user": "Robbyant"
     },
     {
@@ -1876,7 +1880,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 517,
+      "user": "Robbyant"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 515,
       "user": "Robbyant"
     },
     {
@@ -1891,22 +1910,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 462,
       "user": "nagisanzenin"
     },
     {
-      "title": "Command line option with variable number of args",
-      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args",
+      "title": "Command line option with variable number of args with a terminator",
+      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
       "published_at": "2026-07-09T11:06:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "command-line",
-        "argparse"
+        "argparse",
+        "optparse"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel"
+    },
+    {
+      "title": "How can I preserve PNG transparency when displaying an image in Tkinter?",
+      "url": "https://stackoverflow.com/questions/79978298/how-can-i-preserve-png-transparency-when-displaying-an-image-in-tkinter",
+      "published_at": "2026-07-09T12:06:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "image",
+        "tkinter",
+        "png",
+        "transparency"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Mubbashir Idrees"
+    },
+    {
+      "title": "How to have transparency working in linux Tkinter?",
+      "url": "https://stackoverflow.com/questions/79978295/how-to-have-transparency-working-in-linux-tkinter",
+      "published_at": "2026-07-09T11:59:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "tkinter",
+        "transparency"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peur Pioche"
     },
     {
       "title": "How do I plot this function for all values of the numpy array?",
@@ -1939,7 +1989,7 @@
       "title": "How to display the contents of a CSV file, with rows filtered by the value in the timestamp column",
       "url": "https://stackoverflow.com/questions/79978144/how-to-display-the-contents-of-a-csv-file-with-rows-filtered-by-the-value-in-th",
       "published_at": "2026-07-09T05:51:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
         "csv"
@@ -1952,7 +2002,7 @@
       "title": "How to fix recurring data-loading error in FastF1 based Python script on pythononline.net?",
       "url": "https://stackoverflow.com/questions/79978121/how-to-fix-recurring-data-loading-error-in-fastf1-based-python-script-on-pythono",
       "published_at": "2026-07-09T05:10:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
+      "description": "Stack Overflow question · 3 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1994,33 +2044,6 @@
       "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-what-does-it-do",
       "published_at": "2026-07-08T15:47:00.000Z",
       "description": "Stack Overflow question · 6 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32917238"
-    },
-    {
-      "title": "Is there a way to change the colours of sns.boxplot's boxes according to their mean values?",
-      "url": "https://stackoverflow.com/questions/79978029/is-there-a-way-to-change-the-colours-of-sns-boxplots-boxes-according-to-their-m",
-      "published_at": "2026-07-08T20:40:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "seaborn",
-        "boxplot",
-        "colormap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shrympe"
-    },
-    {
-      "title": "Understanding json()",
-      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
-      "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 15 answers · score 2",
       "tags": [
         "python"
       ],
@@ -2251,7 +2274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -2317,7 +2340,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 17 answers · score 12",
+      "description": "Stack Overflow question · 18 answers · score 12",
       "tags": [
         "javascript",
         "html",
@@ -2393,21 +2416,6 @@
   ],
   "Cloud": [
     {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
       "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
       "published_at": "2026-07-08T13:02:03Z",
@@ -2421,6 +2429,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
+      "published_at": "2026-07-07T17:12:47Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "googleantigravity",
+        "python",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -2837,21 +2860,6 @@
   ],
   "Tools": [
     {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
       "title": "Your Career Matters. So Does the Person Building It.",
       "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
       "published_at": "2026-07-06T15:50:31Z",
@@ -2865,6 +2873,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "A New Developer Platform for Agent-Human Collaboration",
@@ -3150,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1498,
       "user": "Shpigford"
     },
     {
@@ -3165,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 1101,
       "user": "withmarbleapp"
     },
     {
@@ -3180,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 363,
       "user": "majidmanzarpour"
     },
     {
@@ -3195,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 335,
       "user": "nexu-io"
     },
     {
@@ -3210,7 +3233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 329,
       "user": "oso95"
     },
     {
@@ -3225,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2900,
+      "stars": 3088,
       "user": "x4gKing"
     },
     {
@@ -3240,22 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 550,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 481,
+      "stars": 565,
       "user": "Robbyant"
     },
     {
@@ -3270,7 +3278,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 517,
+      "user": "Robbyant"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 515,
       "user": "Robbyant"
     },
     {
@@ -3285,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 462,
       "user": "nagisanzenin"
     },
     {
@@ -3300,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 192,
       "user": "programmersd21"
     },
     {
@@ -3315,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "deviseo"
     },
     {
@@ -3330,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -3345,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 64,
       "user": "uf-hy"
     },
     {
@@ -3360,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "MaximeRivest"
     },
     {
@@ -3375,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1908,
       "user": "synthetic-sciences"
     },
     {
@@ -3390,14 +3413,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "simonlin1212"
     },
     {
-      "title": "ai4s-research/open-science - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS & Windows. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "title": "ai4s-research/open-science - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "url": "https://github.com/ai4s-research/open-science",
       "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS & Windows. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "tags": [
         "typescript",
         "github",
@@ -3405,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "ai4s-research"
     },
     {
@@ -3420,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "pocket-stack"
     },
     {
@@ -3435,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 372,
       "user": "lxh77721"
     },
     {
@@ -3450,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1248,
+      "stars": 1257,
       "user": "MaximeRivest"
     },
     {
@@ -3465,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 759,
       "user": "514-labs"
     },
     {
@@ -3480,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 674,
       "user": "yynxxxxx"
     },
     {
@@ -3495,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55848801?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "avifenesh"
     },
     {
@@ -3510,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "lucid-softworks"
     },
     {
@@ -3540,6 +3563,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Valere"
+    },
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "published_at": "2026-07-09T13:00:00.000Z",
+      "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "Benchmark Partners",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
