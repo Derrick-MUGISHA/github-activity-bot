@@ -31,21 +31,6 @@
       "user": "ValeryKot"
     },
     {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
       "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
       "published_at": "2026-07-08T13:02:03Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
       "source": "Dev.to",
       "user": "Rizèl Scarlett"
+    },
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -721,8 +721,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 318,
       "user": "nexu-io"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 420,
+      "user": "Robbyant"
     },
     {
       "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "Pluviobyte"
     },
     {
@@ -766,83 +781,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 61,
       "user": "uf-hy"
-    },
-    {
-      "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "published_at": "2026-07-03T15:06:45Z",
-      "description": "The open-source AI workbench for scientific research",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
-      "source": "GitHub",
-      "stars": 1808,
-      "user": "synthetic-sciences"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "published_at": "2026-07-05T06:30:55Z",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
-      "source": "GitHub",
-      "stars": 559,
-      "user": "simonlin1212"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "pocket-stack"
-    },
-    {
-      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "url": "https://github.com/ai4s-research/open-science",
-      "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
-      "source": "GitHub",
-      "stars": 406,
-      "user": "ai4s-research"
-    },
-    {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "lxh77721"
     },
     {
       "title": "avifenesh/bw24 - From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
@@ -860,17 +800,30 @@
       "user": "avifenesh"
     },
     {
-      "title": "Git Hash Chain Malleability",
-      "url": "https://arxiv.org/abs/2607.02820",
-      "published_at": "2026-07-07T16:14:16.000-05:00",
+      "title": "Interview: Drew DeVault on an AI-free version of Vim",
+      "url": "https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free",
+      "published_at": "2026-07-08T19:43:32.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "programming",
-        "security"
+        "person",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Yogthos"
+      "user": "runxiyu"
+    },
+    {
+      "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "published_at": "2026-07-08T09:29:42.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "reversing",
+        "unix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hoistbypetard"
     },
     {
       "title": "the usefulness of await on my async login method",
@@ -892,7 +845,7 @@
       "title": "Is it possible to dynamically alter the constraints in MILP?",
       "url": "https://stackoverflow.com/questions/79978071/is-it-possible-to-dynamically-alter-the-constraints-in-milp",
       "published_at": "2026-07-09T01:00:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "arguments",
@@ -1249,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1431,
+      "stars": 1451,
       "user": "Shpigford"
     },
     {
@@ -1264,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 805,
       "user": "withmarbleapp"
     },
     {
@@ -1279,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 353,
       "user": "majidmanzarpour"
     },
     {
@@ -1294,98 +1247,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 318,
       "user": "nexu-io"
     },
     {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "title": "oso95/scroll-world - Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+      "url": "https://github.com/oso95/scroll-world",
+      "published_at": "2026-07-06T21:28:58Z",
+      "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 194,
-      "user": "zjp1997720"
-    },
-    {
-      "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "published_at": "2026-07-03T15:06:45Z",
-      "description": "The open-source AI workbench for scientific research",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
-      "source": "GitHub",
-      "stars": 1808,
-      "user": "synthetic-sciences"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "published_at": "2026-07-05T06:30:55Z",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
-      "source": "GitHub",
-      "stars": 559,
-      "user": "simonlin1212"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "pocket-stack"
-    },
-    {
-      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "url": "https://github.com/ai4s-research/open-science",
-      "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
-      "source": "GitHub",
-      "stars": 406,
-      "user": "ai4s-research"
-    },
-    {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "lxh77721"
+      "stars": 206,
+      "user": "oso95"
     },
     {
       "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
@@ -1399,26 +1277,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "lucid-softworks"
     },
     {
-      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
-      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
-      "published_at": "2026-07-06T14:47:11.000-05:00",
+      "title": "Announcing TypeScript 7.0",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "published_at": "2026-07-08T11:57:26.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "windows"
+        "javascript",
+        "release"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "RaphGL"
+      "user": "evert"
+    },
+    {
+      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
+      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
+      "published_at": "2026-07-09T07:47:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "react-hook-form"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Furqan"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 17 answers · score 12",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "How to remove scrollbar from Shopify modal pop up",
       "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
       "published_at": "2026-07-08T14:08:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1430,24 +1338,10 @@
       "user": "gjjr"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 17 answers · score 11",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "project cover is not removing itself / returning to genre default after removal",
       "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
       "published_at": "2026-07-08T13:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "wordpress"
@@ -1460,7 +1354,7 @@
       "title": "Encrypt JS/Decrypt PHP",
       "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
       "published_at": "2026-07-08T09:51:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "php",
@@ -1474,7 +1368,7 @@
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "google-chrome",
@@ -1490,7 +1384,7 @@
       "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -1542,20 +1436,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reda ait"
-    },
-    {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
     },
     {
       "title": "Understanding json()",
@@ -1836,7 +1716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2535,
+      "stars": 2711,
       "user": "x4gKing"
     },
     {
@@ -1851,7 +1731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 541,
       "user": "Robbyant"
     },
     {
@@ -1866,8 +1746,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 448,
       "user": "nagisanzenin"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 420,
+      "user": "Robbyant"
     },
     {
       "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
@@ -1881,29 +1776,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "Pluviobyte"
     },
     {
-      "title": "SmileLikeYe/agent-chief - Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "url": "https://github.com/SmileLikeYe/agent-chief",
-      "published_at": "2026-07-04T15:28:56Z",
-      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "published_at": "2026-07-09T06:56:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "playwright-python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8791392?v=4",
-      "source": "GitHub",
-      "stars": 319,
-      "user": "SmileLikeYe"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32880109"
     },
     {
       "title": "How to fix recurring data-loading error in FastF1 based Python script on pythononline.net?",
       "url": "https://stackoverflow.com/questions/79978121/how-to-fix-recurring-data-loading-error-in-fastf1-based-python-script-on-pythono",
       "published_at": "2026-07-09T05:10:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python"
       ],
@@ -1915,7 +1808,7 @@
       "title": "Is it possible to dynamically alter the constraints in MILP?",
       "url": "https://stackoverflow.com/questions/79978071/is-it-possible-to-dynamically-alter-the-constraints-in-milp",
       "published_at": "2026-07-09T01:00:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "arguments",
@@ -1924,6 +1817,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BlueGalahad"
+    },
+    {
+      "title": "Typing a decorator on a class in Python",
+      "url": "https://stackoverflow.com/questions/79978075/typing-a-decorator-on-a-class-in-python",
+      "published_at": "2026-07-09T01:07:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "mypy",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bobi"
     },
     {
       "title": "How do I use this __something__ what does it do?",
@@ -1941,7 +1849,7 @@
       "title": "Is there a way to change the colours of sns.boxplot's boxes according to their mean values?",
       "url": "https://stackoverflow.com/questions/79978029/is-there-a-way-to-change-the-colours-of-sns-boxplots-boxes-according-to-their-m",
       "published_at": "2026-07-08T20:40:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "seaborn",
@@ -1979,6 +1887,22 @@
       "user": "Soumya Sengupta"
     },
     {
+      "title": "Should I remove records where pickup and dropoff locations are the same when cleaning the NYC Taxi dataset?",
+      "url": "https://stackoverflow.com/questions/79976438/should-i-remove-records-where-pickup-and-dropoff-locations-are-the-same-when-cle",
+      "published_at": "2026-07-07T11:20:01.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "pyspark",
+        "data-science",
+        "bigdata",
+        "data-mining"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sudam Ranasinghe"
+    },
+    {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
       "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
       "published_at": "2026-07-08T07:44:29.000Z",
@@ -1993,44 +1917,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "madjetmax"
-    },
-    {
-      "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
-      "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
-      "published_at": "2026-07-08T11:03:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Maryjane Adaeze"
-    },
-    {
-      "title": "Asyncio worker silently stops updating shared state after exception handling",
-      "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
-      "published_at": "2026-07-07T15:50:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NightKevin"
-    },
-    {
-      "title": "How do I cut down on the complexity (O(n^3))?",
-      "url": "https://stackoverflow.com/questions/79975105/how-do-i-cut-down-on-the-complexity-on3",
-      "published_at": "2026-07-06T15:10:41.000Z",
-      "description": "Stack Overflow question · 17 answers · score 1",
-      "tags": [
-        "python",
-        "optimization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayaan Shaheen"
     },
     {
       "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
@@ -2318,23 +2204,24 @@
       "user": "velmu"
     },
     {
-      "title": "Building a Clang Backend and Porting Doom to my Custom Bytecode VM",
-      "url": "https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/",
-      "published_at": "2026-07-08T02:24:24.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 17 answers · score 12",
       "tags": [
-        "compilers",
-        "vibecoding"
+        "javascript",
+        "html",
+        "css"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "rrampage"
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "How to remove scrollbar from Shopify modal pop up",
       "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
       "published_at": "2026-07-08T14:08:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2346,24 +2233,10 @@
       "user": "gjjr"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 17 answers · score 11",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "Javascript Fetch API - How to save output to variable as an object?",
       "url": "https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object",
       "published_at": "2026-07-07T18:36:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -2388,20 +2261,6 @@
       "user": "robkblue"
     },
     {
-      "title": "How to make infinite draggable background using CSS and JavaScript",
-      "url": "https://stackoverflow.com/questions/79974725/how-to-make-infinite-draggable-background-using-css-and-javascript",
-      "published_at": "2026-07-05T15:59:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trushank Vaghasiya"
-    },
-    {
       "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
       "published_at": "2026-07-07T16:23:22.000Z",
@@ -2419,19 +2278,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "The Popup That Says the Quiet Part Out Loud",
-      "url": "https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud",
-      "published_at": "2026-07-07T07:49:03.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ios",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
-    },
     {
       "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
       "url": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
@@ -2701,18 +2547,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "Why we built yet another Postgres connection pooler",
-      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "published_at": "2026-07-07T13:41:58.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "fanf"
-    },
-    {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
       "url": "https://stackoverflow.com/questions/79977791/what-is-the-correct-way-to-use-for-update-when-limiting-rows-count-with-same-val",
       "published_at": "2026-07-08T07:44:29.000Z",
@@ -2891,35 +2725,10 @@
       "user": "2352500"
     },
     {
-      "title": "Announcing the Save CTFs Fund",
-      "url": "https://osec.io/blog/save-ctfs-fund/",
-      "published_at": "2026-07-08T02:58:42.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
-      "title": "Git Hash Chain Malleability",
-      "url": "https://arxiv.org/abs/2607.02820",
-      "published_at": "2026-07-07T16:14:16.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Yogthos"
-    },
-    {
       "title": "Encrypt JS/Decrypt PHP",
       "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
       "published_at": "2026-07-08T09:51:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "php",
@@ -3260,7 +3069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1431,
+      "stars": 1451,
       "user": "Shpigford"
     },
     {
@@ -3275,7 +3084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 805,
       "user": "withmarbleapp"
     },
     {
@@ -3290,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 353,
       "user": "majidmanzarpour"
     },
     {
@@ -3305,23 +3114,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 318,
       "user": "nexu-io"
     },
     {
-      "title": "zjp1997720/wechat-article-search - Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-      "url": "https://github.com/zjp1997720/wechat-article-search",
-      "published_at": "2026-07-06T03:53:01Z",
-      "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+      "title": "oso95/scroll-world - Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+      "url": "https://github.com/oso95/scroll-world",
+      "published_at": "2026-07-06T21:28:58Z",
+      "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 194,
-      "user": "zjp1997720"
+      "stars": 206,
+      "user": "oso95"
     },
     {
       "title": "x4gKing/X4G - GitHub Repository",
@@ -3335,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2535,
+      "stars": 2711,
       "user": "x4gKing"
     },
     {
@@ -3350,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 541,
       "user": "Robbyant"
     },
     {
@@ -3365,8 +3174,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 448,
       "user": "nagisanzenin"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 420,
+      "user": "Robbyant"
     },
     {
       "title": "Pluviobyte/rnskill - 雪踏乌云的 AI Agent Skills 集合",
@@ -3380,23 +3204,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "Pluviobyte"
-    },
-    {
-      "title": "SmileLikeYe/agent-chief - Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "url": "https://github.com/SmileLikeYe/agent-chief",
-      "published_at": "2026-07-04T15:28:56Z",
-      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8791392?v=4",
-      "source": "GitHub",
-      "stars": 319,
-      "user": "SmileLikeYe"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3410,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "programmersd21"
     },
     {
@@ -3425,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "deviseo"
     },
     {
@@ -3455,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 61,
       "user": "uf-hy"
     },
     {
@@ -3474,81 +3283,6 @@
       "user": "MaximeRivest"
     },
     {
-      "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "published_at": "2026-07-03T15:06:45Z",
-      "description": "The open-source AI workbench for scientific research",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
-      "source": "GitHub",
-      "stars": 1808,
-      "user": "synthetic-sciences"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "published_at": "2026-07-05T06:30:55Z",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
-      "source": "GitHub",
-      "stars": 559,
-      "user": "simonlin1212"
-    },
-    {
-      "title": "pocket-stack/pocketjs - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "url": "https://github.com/pocket-stack/pocketjs",
-      "published_at": "2026-07-03T07:28:28Z",
-      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "pocket-stack"
-    },
-    {
-      "title": "ai4s-research/open-science - Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "url": "https://github.com/ai4s-research/open-science",
-      "published_at": "2026-07-03T09:22:31Z",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
-      "source": "GitHub",
-      "stars": 406,
-      "user": "ai4s-research"
-    },
-    {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "lxh77721"
-    },
-    {
       "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
       "url": "https://github.com/MaximeRivest/riddle",
       "published_at": "2026-07-05T15:48:08Z",
@@ -3560,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1233,
       "user": "MaximeRivest"
     },
     {
@@ -3575,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 750,
       "user": "514-labs"
     },
     {
@@ -3590,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 649,
       "user": "yynxxxxx"
     },
     {
@@ -3620,39 +3354,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "lucid-softworks"
-    },
-    {
-      "title": "Git Hash Chain Malleability",
-      "url": "https://arxiv.org/abs/2607.02820",
-      "published_at": "2026-07-07T16:14:16.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Yogthos"
-    },
-    {
-      "title": "Radicle: P2P Git Replication with Git Native Issues and Patches",
-      "url": "https://radicle.dev/",
-      "published_at": "2026-07-06T20:52:36.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "datboi"
     },
     {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
       "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
       "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "google-chrome",
