@@ -91,6 +91,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "published_at": "2026-07-08T10:23:41Z",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "source": "Dev.to",
+      "user": "ValeryKot"
+    },
+    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -117,21 +132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
-      "tags": [
-        "ai",
-        "llm",
-        "machinelearning",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
-      "source": "Dev.to",
-      "user": "ValeryKot"
     },
     {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "nexu-io"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 533,
       "user": "Robbyant"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1925,
       "user": "synthetic-sciences"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "ai4s-research"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 452,
       "user": "pocket-stack"
     },
     {
@@ -927,10 +927,104 @@
       "user": "Reda ait"
     },
     {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "published_at": "2026-07-09T19:05:58.000Z",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "ChatGPT",
+        "copyright",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Mercor is in talks for a $20B valuation",
+      "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+      "published_at": "2026-07-09T18:42:22.000Z",
+      "description": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "AI",
+        "Mercor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "published_at": "2026-07-09T18:40:51.000Z",
+      "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Adtech",
+        "advertising",
+        "Generative AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "published_at": "2026-07-09T18:34:35.000Z",
+      "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "tags": [
+        "AI",
+        "Venture",
+        "nvidia",
+        "Kyutai",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "How did the government decide OpenAI&#8217;s frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "published_at": "2026-07-09T18:22:39.000Z",
+      "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "published_at": "2026-07-09T17:56:47.000Z",
+      "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Instagram",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "Meta&#8217;s new AI chips will begin production in September",
       "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
       "published_at": "2026-07-09T17:17:37.000Z",
-      "description": "In its bid to spend less on GPUs from providers like Nvidia, Meta is on track to start making its the latest versions of its AI-specific chips in September.",
+      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
       "tags": [
         "AI",
         "Hardware",
@@ -956,118 +1050,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
-      "url": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
-      "published_at": "2026-07-09T15:16:34.000Z",
-      "description": "State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "block",
-        "Cash App",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "published_at": "2026-07-09T14:53:09.000Z",
-      "description": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "tags": [
-        "AI",
-        "Apps",
-        "TC",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "published_at": "2026-07-09T14:51:00.000Z",
-      "description": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "IPO",
-        "OpenAI",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "published_at": "2026-07-09T13:00:00.000Z",
-      "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "Benchmark Partners",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there&#8217;s a twist",
-      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "published_at": "2026-07-09T13:00:00.000Z",
-      "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ai entertainment",
-        "character.ai",
-        "microdramas"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "published_at": "2026-07-09T12:00:00.000Z",
-      "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "Fundamentum",
-        "Fundamentum Partnership"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Truecaller clashes with India&#8217;s telecom regulator over anti-spam rules",
-      "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
-      "published_at": "2026-07-09T02:30:00.000Z",
-      "description": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "MeitY",
-        "TRAI",
-        "Truecaller"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
@@ -1289,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1536,
       "user": "Shpigford"
     },
     {
@@ -1304,8 +1286,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1239,
       "user": "withmarbleapp"
+    },
+    {
+      "title": "oso95/scroll-world - Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+      "url": "https://github.com/oso95/scroll-world",
+      "published_at": "2026-07-06T21:28:58Z",
+      "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
+      "source": "GitHub",
+      "stars": 390,
+      "user": "oso95"
     },
     {
       "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
@@ -1323,21 +1320,6 @@
       "user": "majidmanzarpour"
     },
     {
-      "title": "oso95/scroll-world - Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
-      "url": "https://github.com/oso95/scroll-world",
-      "published_at": "2026-07-06T21:28:58Z",
-      "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "oso95"
-    },
-    {
       "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
       "url": "https://github.com/nexu-io/motion-anything",
       "published_at": "2026-07-06T14:56:20Z",
@@ -1349,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "nexu-io"
     },
     {
@@ -1364,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1925,
       "user": "synthetic-sciences"
     },
     {
@@ -1394,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "ai4s-research"
     },
     {
@@ -1409,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 452,
       "user": "pocket-stack"
     },
     {
@@ -1482,23 +1464,10 @@
       "user": "Elise Citron"
     },
     {
-      "title": "I am getting a CORS error when trying to make a fetch request from dog.ceo",
-      "url": "https://stackoverflow.com/questions/79978206/i-am-getting-a-cors-error-when-trying-to-make-a-fetch-request-from-dog-ceo",
-      "published_at": "2026-07-09T08:56:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "cors"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nate"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 18 answers · score 12",
+      "description": "Stack Overflow question · 19 answers · score 12",
       "tags": [
         "javascript",
         "html",
@@ -1512,7 +1481,7 @@
       "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
       "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
       "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1539,19 +1508,6 @@
       "user": "gjjr"
     },
     {
-      "title": "project cover is not removing itself / returning to genre default after removal",
-      "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
-      "published_at": "2026-07-08T13:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "wordpress"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VineHallow Crookshanks"
-    },
-    {
       "title": "Encrypt JS/Decrypt PHP",
       "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
       "published_at": "2026-07-08T09:51:28.000Z",
@@ -1564,6 +1520,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Claus Svalekj&#230;r"
+    },
+    {
+      "title": "project cover is not removing itself / returning to genre default after removal",
+      "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
+      "published_at": "2026-07-08T13:26:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "wordpress"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VineHallow Crookshanks"
     },
     {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
@@ -1613,6 +1582,20 @@
       "user": "Reda ait"
     },
     {
+      "title": "Next.js Suspense streaming works in StackBlitz/VS Code browser but is buffered in Chrome/Firefox/Edge due to local AV/proxy",
+      "url": "https://stackoverflow.com/questions/79968688/next-js-suspense-streaming-works-in-stackblitz-vs-code-browser-but-is-buffered-i",
+      "published_at": "2026-06-27T16:32:46.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Starnec"
+    },
+    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -1643,21 +1626,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Omni Flash Preview with Claude Code",
-      "url": "https://dev.to/gde/omni-flash-preview-with-claude-code-53a5",
-      "published_at": "2026-07-06T16:34:02Z",
-      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "tags": [
-        "cli",
-        "googleomni",
-        "mcps",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsq661jlwkupaop15sa.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
@@ -1865,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3183,
+      "stars": 3246,
       "user": "x4gKing"
     },
     {
@@ -1880,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 571,
       "user": "Robbyant"
     },
     {
@@ -1895,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 545,
       "user": "Robbyant"
     },
     {
@@ -1910,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 533,
       "user": "Robbyant"
     },
     {
@@ -1925,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 472,
       "user": "nagisanzenin"
     },
     {
@@ -1961,7 +1929,7 @@
       "title": "Command line option with variable number of args with a terminator",
       "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
       "published_at": "2026-07-09T11:06:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "command-line",
@@ -1971,6 +1939,32 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel"
+    },
+    {
+      "title": "How to display the contents of a CSV file, with rows filtered by the value in the timestamp column",
+      "url": "https://stackoverflow.com/questions/79978144/how-to-display-the-contents-of-a-csv-file-with-rows-filtered-by-the-value-in-th",
+      "published_at": "2026-07-09T05:51:21.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "python",
+        "csv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jas"
+    },
+    {
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "published_at": "2026-07-09T06:56:42.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "playwright-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32880109"
     },
     {
       "title": "How to have transparency working in linux Tkinter?",
@@ -2001,44 +1995,6 @@
       "user": "samrad Tangestani"
     },
     {
-      "title": "How to display the contents of a CSV file, with rows filtered by the value in the timestamp column",
-      "url": "https://stackoverflow.com/questions/79978144/how-to-display-the-contents-of-a-csv-file-with-rows-filtered-by-the-value-in-th",
-      "published_at": "2026-07-09T05:51:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "csv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jas"
-    },
-    {
-      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
-      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
-      "published_at": "2026-07-09T06:56:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32880109"
-    },
-    {
-      "title": "How to fix recurring data-loading error in FastF1 based Python script on pythononline.net?",
-      "url": "https://stackoverflow.com/questions/79978121/how-to-fix-recurring-data-loading-error-in-fastf1-based-python-script-on-pythono",
-      "published_at": "2026-07-09T05:10:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "New Guy"
-    },
-    {
       "title": "Is there a way to change the colours of sns.boxplot's boxes according to their mean values?",
       "url": "https://stackoverflow.com/questions/79978029/is-there-a-way-to-change-the-colours-of-sns-boxplots-boxes-according-to-their-m",
       "published_at": "2026-07-08T20:40:35.000Z",
@@ -2052,6 +2008,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "shrympe"
+    },
+    {
+      "title": "How to fix recurring data-loading error in FastF1 based Python script on pythononline.net?",
+      "url": "https://stackoverflow.com/questions/79978121/how-to-fix-recurring-data-loading-error-in-fastf1-based-python-script-on-pythono",
+      "published_at": "2026-07-09T05:10:10.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "New Guy"
     },
     {
       "title": "Typing a decorator on a class in Python",
@@ -2303,7 +2271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -2395,7 +2363,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 18 answers · score 12",
+      "description": "Stack Overflow question · 19 answers · score 12",
       "tags": [
         "javascript",
         "html",
@@ -2675,6 +2643,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "published_at": "2026-07-09T19:05:58.000Z",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "ChatGPT",
+        "copyright",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
@@ -3270,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1528,
+      "stars": 1536,
       "user": "Shpigford"
     },
     {
@@ -3285,8 +3269,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1239,
       "user": "withmarbleapp"
+    },
+    {
+      "title": "oso95/scroll-world - Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+      "url": "https://github.com/oso95/scroll-world",
+      "published_at": "2026-07-06T21:28:58Z",
+      "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
+      "source": "GitHub",
+      "stars": 390,
+      "user": "oso95"
     },
     {
       "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
@@ -3304,21 +3303,6 @@
       "user": "majidmanzarpour"
     },
     {
-      "title": "oso95/scroll-world - Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
-      "url": "https://github.com/oso95/scroll-world",
-      "published_at": "2026-07-06T21:28:58Z",
-      "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "oso95"
-    },
-    {
       "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
       "url": "https://github.com/nexu-io/motion-anything",
       "published_at": "2026-07-06T14:56:20Z",
@@ -3330,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "nexu-io"
     },
     {
@@ -3345,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3183,
+      "stars": 3246,
       "user": "x4gKing"
     },
     {
@@ -3360,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 571,
       "user": "Robbyant"
     },
     {
@@ -3375,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 545,
       "user": "Robbyant"
     },
     {
@@ -3390,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 533,
       "user": "Robbyant"
     },
     {
@@ -3405,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 472,
       "user": "nagisanzenin"
     },
     {
@@ -3450,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "olemeyer"
     },
     {
@@ -3495,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1925,
       "user": "synthetic-sciences"
     },
     {
@@ -3525,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "ai4s-research"
     },
     {
@@ -3540,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 452,
       "user": "pocket-stack"
     },
     {
@@ -3570,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1274,
       "user": "MaximeRivest"
     },
     {
@@ -3585,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 767,
       "user": "514-labs"
     },
     {
@@ -3600,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 684,
       "user": "yynxxxxx"
     },
     {
@@ -3663,20 +3647,36 @@
       "user": "Valere"
     },
     {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "published_at": "2026-07-09T13:00:00.000Z",
-      "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "published_at": "2026-07-09T19:05:58.000Z",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
       "tags": [
         "AI",
-        "Startups",
-        "TC",
-        "Benchmark Partners",
-        "Exclusive"
+        "Government & Policy",
+        "ChatGPT",
+        "copyright",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Julie Bort"
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "published_at": "2026-07-09T18:40:51.000Z",
+      "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Adtech",
+        "advertising",
+        "Generative AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
