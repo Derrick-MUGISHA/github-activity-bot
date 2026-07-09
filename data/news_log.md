@@ -95166,3 +95166,1217 @@ GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application an
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-09 19:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (80 articles)
+
+#### 1. [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+📅 Wed, 08 Jul 2026 12:25:01 GMT
+👤 By: Web Developer Hyper | 📌 Source: Dev.to
+
+![✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png)
+
+Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+
+🏷️ Tags: `ai`, `webdev`, `discuss`, `productivity`
+
+---
+
+#### 2. [A New Developer Platform for Agent-Human Collaboration](https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h)
+📅 Wed, 08 Jul 2026 14:49:51 GMT
+👤 By: Rizèl Scarlett | 📌 Source: Dev.to
+
+![A New Developer Platform for Agent-Human Collaboration](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png)
+
+We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...
+
+🏷️ Tags: `ai`, `agents`, `git`, `entire`
+
+---
+
+#### 3. [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h)
+📅 Wed, 08 Jul 2026 15:01:47 GMT
+👤 By: Andrew Bone | 📌 Source: Dev.to
+
+![A Pragmatic Look at AI in 2030](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png)
+
+I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...
+
+🏷️ Tags: `ai`, `softwareengineering`, `discuss`, `webdev`
+
+---
+
+#### 4. [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl)
+📅 Wed, 08 Jul 2026 13:02:03 GMT
+👤 By: Jen Looper | 📌 Source: Dev.to
+
+![Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png)
+
+At conference booths, developers often ask whether we support image generation at Cloudinary, given...
+
+🏷️ Tags: `ai`, `nanobanana`, `codenewbie`, `images`
+
+---
+
+#### 5. [Being an engineer in the AI era](https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p)
+📅 Tue, 07 Jul 2026 20:10:15 GMT
+👤 By: Alexandra | 📌 Source: Dev.to
+
+![Being an engineer in the AI era](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png)
+
+I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...
+
+🏷️ Tags: `ai`, `discuss`, `productivity`, `softwareengineering`
+
+---
+
+#### 6. [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f)
+📅 Wed, 08 Jul 2026 06:08:58 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frolpwbju8wfdws7f0zq8.png)
+
+Have you ever tried to read a massive pile of reports and summarize them in under 50 words? It’s...
+
+🏷️ Tags: `ai`, `antigravity`, `llm`, `gemini`
+
+---
+
+#### 7. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 8. [Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0](https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j)
+📅 Tue, 07 Jul 2026 17:28:25 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png)
+
+In this episode of the Agent Factory, I sat down with Rody Davis, one of Google's top agentic...
+
+🏷️ Tags: `agents`, `ai`
+
+---
+
+#### 9. [Bigger Context Windows Didn't Make Our RAG Smarter](https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l)
+📅 Wed, 08 Jul 2026 10:23:41 GMT
+👤 By: ValeryKot | 📌 Source: Dev.to
+
+![Bigger Context Windows Didn't Make Our RAG Smarter](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png)
+
+We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...
+
+🏷️ Tags: `ai`, `llm`, `machinelearning`, `rag`
+
+---
+
+#### 10. [I Contain Multitudes (and Also Three Git Repos)](https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf)
+📅 Mon, 06 Jul 2026 01:17:28 GMT
+👤 By: Matty Stratton | 📌 Source: Dev.to
+
+![I Contain Multitudes (and Also Three Git Repos)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png)
+
+A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.
+
+🏷️ Tags: `astro`, `webdev`, `showdev`
+
+---
+
+### 🏷️ JavaScript (36 articles)
+
+#### 1. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 2. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (33 articles)
+
+#### 1. [Omni Flash Preview with Claude Code](https://dev.to/gde/omni-flash-preview-with-claude-code-53a5)
+📅 Mon, 06 Jul 2026 16:34:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Omni Flash Preview with Claude Code](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsq661jlwkupaop15sa.png)
+
+This article covers the MCP setup and configuration for using Google Omni Preview and underlying...
+
+🏷️ Tags: `cli`, `googleomni`, `mcps`, `python`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 3. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 4. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 5. [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h)
+📅 Fri, 03 Jul 2026 02:55:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `python`, `tpu`, `mcps`
+
+---
+
+#### 6. [My AI agent tried to ship a mistake we'd already reverted](https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737)
+📅 Mon, 06 Jul 2026 03:47:27 GMT
+👤 By: Mason Delan | 📌 Source: Dev.to
+
+![My AI agent tried to ship a mistake we'd already reverted](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png)
+
+A month ago we added a card_token column to the users table so a background job could retry failed...
+
+🏷️ Tags: `ai`, `llm`, `devtools`, `python`
+
+---
+
+#### 7. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (18 articles)
+
+#### 1. [Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9)
+📅 Mon, 29 Jun 2026 16:12:25 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png)
+
+Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...
+
+🏷️ Tags: `antigravity`, `googlecloud`, `kubernetes`, `cloud`
+
+---
+
+#### 2. [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a)
+📅 Tue, 23 Jun 2026 14:45:27 GMT
+👤 By: Peter Jausovec | 📌 Source: Dev.to
+
+![cuenv: one typed file for your whole project](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png)
+
+Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.
+
+🏷️ Tags: `automation`, `cicd`, `devops`, `tooling`
+
+---
+
+#### 3. [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2)
+📅 Tue, 23 Jun 2026 18:38:11 GMT
+👤 By: bredmond1019 | 📌 Source: Dev.to
+
+![Multi-Agent Observability: See Everything Your AI Agents Do](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png)
+
+Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.
+
+🏷️ Tags: `ai`, `claudecode`, `devops`, `tutorial`
+
+---
+
+#### 4. [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph)
+📅 Fri, 26 Jun 2026 19:56:54 GMT
+👤 By: Joaquin Menchaca | 📌 Source: Dev.to
+
+![Minimalist EKS: The Easy Way](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png)
+
+Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...
+
+🏷️ Tags: `kubernetes`, `aws`, `devops`, `beginners`
+
+---
+
+#### 5. [KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity](https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p)
+📅 Mon, 06 Jul 2026 01:27:27 GMT
+👤 By: Ibtissem Hattab | 📌 Source: Dev.to
+
+![KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchtndjk214ssys58r0nv.png)
+
+How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build a production-grade, autonomous Kubernetes operations platform.
+
+🏷️ Tags: `ai`, `antigravity`, `agents`, `kubernetes`
+
+---
+
+#### 6. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (8 articles)
+
+#### 1. [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h)
+📅 Wed, 08 Jul 2026 15:01:47 GMT
+👤 By: Andrew Bone | 📌 Source: Dev.to
+
+![A Pragmatic Look at AI in 2030](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png)
+
+I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...
+
+🏷️ Tags: `ai`, `softwareengineering`, `discuss`, `webdev`
+
+---
+
+#### 2. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [Lobsters Interview with mitchellh](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+📅 Thu, 09 Jul 2026 15:41:15 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+@mitchellh ([blog](https://mitchellh.com/)) was behind [Vagrant](https://vagrantup.com), [Packer](https://packer.io), [Consul](https://consul.io), [Terraform](https://terraform.io), [Vault](https://vaultproject.io), [Nomad](https://nomadproject.io), [Waypoint](https://waypointproject.io) and now builds [Ghostty](https://ghostty.org/) and [Vouch](https://github.com/mitchellh/vouch).
+
+In this interview, we talk about terminals, Zig and open source.
+
+-----
+
+**You've been interviewed _a lot_. Why do people like to interview you?**
+
+In interviews, everyone comes from a different angle. Many people want to know how the software engineering to business founder mindset transition went. Then others are interested in product stuff, the work I did at Hashicorp or Ghostty now. What's different here is there's no known agenda coming into it; neither of us have anything to sell.
+
+**What do you find so fun about terminals? Like, why Ghostty?**
+
+I spent ~15 years building CLI applications (not TUIs like we see nowadays). Through that process, I accidentally learned how to color things, move cursors etc. Leaving Hashicorp, I wanted to sharpen my technical skills (where they'd grown dull from neglect) and specifically work on: Pre-AI GPU programming, desktop/single node systems programming (spending so much time on the distributed side where you didn't worry about cache locality or vector operations, since network costs dominated). I also really wanted to play with Zig. I wanted to satisfy those 3 things.
+
+After 15 years building CLIs, I didn't understand how a terminal emulator worked. I knew the components of a terminal but really wanted to understand how it worked, which would also let me work on the GPU, desktop and in Zig. My goal was to run vim and the compiler in it, have it build itself, then throw it away. But as I learned more about the terminal ecosystem, I understood nothing fit the niche I wanted: fast, feature-rich and natively cross-platform. I shared it with a few friends in Discord, who asked if they could share it with others because they were actually using it every day. The Ghostty Discord was just my friends' group chat which got repurposed. I didn't want to publish because my public persona would generate too much undue attention, so I ran a private beta for a long time.
+
+**How can we push terminals harder?**
+
+I don't support pushing terminals to the extreme. Sure, they're an application platform capable of the same things other application platforms on top of the OS are like the browser, old Java app runtime environments. You could build all functionality into it: video and microphone access, responsive layouts... You could.
+
+But the browser is good at something, the desktop is good at something else and text-based (monospaced-grid) applications are also good at something unique. These text-based applications should be quick to implement, easy to interact with, clear in their security model. There's a lot of opportunity in the ecosystem here and I'd love to build more protocols to enable that.
+
+Terminal-based applications lend themselves to composition better than other paradigms. TUIs less so, but most CLI tools have mechanisms (beyond stdin and stdout) to use them like a function (the UNIX do one thing philosophy is the extreme). Neovim and AI tooling offer ever more cmdline flags. A world of better terminal applications, is a world of better automation, scriptability.
+
+I want to make the terminal a special place for applications. The PTY's in-band signalling (an unstructured byte stream with escape sequences) is a big problem. The Nushell ecosystem tries to fix it with another layer, but we need a fundamental improvement. Many people dislike the Microsoft ecosystem, but PowerShell gets a lot right with structured data.
+
+**What do you think about non-legacy terminal APIs?**
+
+My guiding star is how we now have multiple major, huge application platforms: the browser, emacs, the whole Apple ecosystem, Microsoft ecosystem, Android, video game console platforms. These ecosystems have strengths and weaknesses, but how do their frameworks work? On the web, it's the DOM and JS APIs. On Apple, it's AppKit, [Cocoa](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html) and SwiftUI. On Windows, it's Win32, WinUI etc. On Linux, it's GTK and Qt etc. When someone says we need a better way of accessing clipboard data (historical protocols are text only, what about images, multiple MIME types etc. which desktops have handled for decades), I would grab the docs for clipboard managers on every platform to see what we've landed on. There's no reason for us to build something based on our own understanding without researching decades of prior art. That's the approach I'm trying to take here. I've not introduced any custom protocols yet.
+
+Two protocols scream at me. Currently, terminals have a main screen and an alt (sometimes called primary and secondary) with different properties. Main screen is like your shell with scrollback etc. and the alternate screen is like Neovim, most TUIs etc. There are only 2, you either turn a mode on or off putting you into primary or secondary (taking up the whole screen, losing scrollback etc.)
+
+I'd like to introduce an n-screen API to create and populate an unlimited number of screens in the background, let you overlay screens with separate grid sizes etc. The terminal emulator could handle line wrapping, selection, routing mouse events etc. You could specify a screen as a standalone window which the terminal emulator renders outside of the grid - imagine your Neovim tabs being native window tabs opened at the same time! This foundational layer would solve a lot of things.
+
+I also have a spec'd out button protocol. Currently, there are mouse protocols to get notified when someone clicks a grid cell. But you only receive events for what's currently on the screen, not history, when things scroll back... We currently support hyperlinks ([OSC 8](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)) and I'd like something similar to OSC 8 where clicking sends a message (which you specify) to the program. You could create a button with an `open_profile` ID which will still register when the user scrolls back in history. This affects main screen applications (the only ones with scroll back) like Claude Code. I have no interest discussing AI here, it's just a really popular main screen application. The moment things go into history, you lose the ability to open files, in-app links etc.
+
+**To what extent is that just redoing the entire user space? There's a lot of room for scope creep there.**
+
+I experimented with replacing the entire pty protocol with Wayland. If you squint, a terminal's just a windowing server, managing windows and widgets on windows. I studied Wayland to make Ghostty run better on it and thought it's a pretty good protocol for what it tries to solve (local desktops, rendering windows). But I threw that out.
+
+A problem with terminals is that there's no standards body _any more_. There are old specs, de jure standardized, but the past 20 years have seen standardization based on what the most popular terminals do. We have a hodge-podge of features, but no entity pushing a tasteful vision.
+
+I don't know what the right path forward is. You could make an alternate home for text-based applications, not called a terminal anymore, build something new (with a terminal translation layer on top to bring legacy applications on) which is trying to do something different.
+
+**How do you balance these ideas with users' day to day demands?**
+
+I'm very public about open-source maintainers having 0 obligation to users. The first line in OS licenses is "as is, no warranty". That's the agreement, you get free software and can't make demands on it. But I like striving to build good software (some may disagree and say my software's shitty), so I do feel an obligation to fix problems, to make the software better.
+
+Some days I wake up expecting to go through issues just fixing other people's problems. But sometimes I wake up and focus on what I want, not reading a single issue, discussion nor PR. Sometimes, you need to push the bigger vision; sometimes, you need to address the reality on the ground.
+
+You can build a perfect city in the sky, then come back and find terror and suffering in the real world. So you need to clean that up sometimes.
+
+If all I did was pick through user issues every single day, you'd get stable, stagnant software. If you accept all PRs, you will change but without vision. I don't mean to insult contributors, but only one person every few years fundamentally gets it. Most contributions just scratch someone's specific itch, accepting them all leads to a mountain of code. Really understanding, you can sometimes discover graceful systems which solve everything succinctly.
+
+I once did [feature design video](https://x.com/mitchellh/status/2001810354096214059?lang=en) where I closed 3-4 separate feature requests solving people's individual problems, because a single feature (different from all of them) could solve them all at the same time. Very few people can do this, not because it's difficult but because it requires a level of care few people give to other projects.
+
+> I've been thinking about this off and on for like a year (along with hundreds of other things, nothing dedicated, I'm always just thinking about this stuff when not at a computer). When I finally sat down and thought "I'm going to solve this," maybe... 1 hour? https://x.com/mitchellh/status/2003957851514126510
+
+**Fewer features composing better attracts people to exotic programming paradigms. It demands a lot of perspective.**
+
+I got on an internet spat with someone recently about my philosophy. One of the highest requested Ghostty features is search, which is done and shipped. But someone complained search bloated and broke Ghostty's minimalism. I advertise Ghostty as feature rich! But I do distinguish that from bloat. I don't think you should have to pay for the things you don't use (besides disk space or resident code memory). I explained the way I architected search means it will take up disk space and be loaded into RAM but nothing will execute; this is a free feature if you don't use it. I want Ghostty to be a riceable, customizable terminal fitting peoples' needs, but also working out of the box and hiding them until you need or search for them, without costing anything.
+
+But if you really want this, just fork and maintain it yourself. That's not asking any more of you than you're asking of me. If you want me to maintain a flag to remove it, I can ask you to maintain a fork removing it. Telling people to "fork it" often upsets them.
+
+**Very few people maintain their own patches etc. and demand entire projects to move to comfort them. It's a very disempowering mindset to beg others to do what they could very easily do themselves, forgoing their own agency.**
+
+I've always believed there should be way more forks, both personal and maintained ones.
+
+I do blame myself and venture-backed opensource in general here. There's a whole generation which expects highly polished, funded, opinionated projects with websites and paid support staff (in Discord, Slack etc.) believing an open sourced project is a product - and it was a product in these venture backed cases. But that's such a minute part of the ecosystem.
+
+Open source includes sharing, but it's about freedoms and rights. That's the core part of open source, defining OSI-approved open source licenses. Use the software as you want, modify and fork it. None of those rights are about stability or obligation to maintain. People blame maintainers for shipping security vulnerabilities, but why didn't _you_ review that commit? You're just as obligated to review the commit as the maintainer. But people hold maintainers to this higher responsibility, when they could fork and become a maintainer just like that.
+
+If you want better guarantees, if you want the entitlement to blame someone, pay for software. When you have a vendor-customer relationship, you are now entitled to things. But there's no entitlement in open source. Use it how you love it, that's the path to getting what you want. If more people forked, they'd have more empathy for builders too.
+
+Sometimes people assume some project of mine is a company or send a PR fixing a bug I don't personally hit, and I don't merge it because merging means committing to maintain it forever. In a personal project, I won't merge because I don't hit that bug.
+
+**Consuming someone else's not-product, what're your thoughts on Zig's development? Clearly you're fine without the 1.0.**
+
+I knew what I signed up for. I got into Zig by doing compiler patches and got to know the community well. I grasp the culture, philosophy etc. well, so I'm not upset by any of this.
+
+I expect the I/O change to be one of the hardest things we've done, but we haven't started yet.
+
+Zig's getting more popular and Andrew, the BDFL, isn't backing down from changes he feels are necessary, which I like as a downstream consumer. 0.15 was pretty significant, changing the writer interface and thus anything printing anything. But the API is truly so much better.
+
+Zig is just getting better and better. They focus a lot on compilation tooling and even removed language features to improve compilation speed, mind blowing. You can build lib-ghostty (the entire terminal) instantly, and Andrew still thinks these milliseconds are too slow.
+
+I do think Zig will eventually reach a 1.0, though I think it's still years away. It matters far less when AI's involved. I hope people know, reading this, that I'm no AI hype-master.
+
+At a very basic level, we know these neural nets are really good at pattern matching and pattern filling. For these kind of language changes, I showed how to do it in a variety of contexts then asked it to draw the rest of the owl. And though, the diffs were huge, 90% was done automatically while I was in the kitchen. This hints to a future where backwards compatibility means a lot less if you explain how to go from state A to B.
+
+This is a bit ironic given Zig's strict anti-AI policy, but AI dulls the pain changes inflict on downstream users.
+
+**How do you approach library and API design? Ghostty uses lib-ghostty. A friend was raving about how nice your libraries are to use. Do you have concrete methods to improve them besides just caring?**
+
+The most concrete way is to use a lot of libraries in a lot of communities. Just like learning a programming language you won't actually use (professionally), using libraries across ecosystems expands your perspective and benefits you. In university, I spent a lot of time dabbling with esoteric languages. I made many toy products in Prolog, Haskell, Clojure and even Java (I was never a professional Java programmer so it was new for me. I wrote a full web side project in it. I didn't like it but learned a lot about the build system, ergonomics, libraries, web frameworks, web servers, app servers and all that stuff.) Every ecosystem has a different culture. That culture is human for sure, but it bleeds into how they separate concerns at a library and framework level, how they make those APIs look. For the longest time, Java used the builder pattern all over the place, which I didn't see in any other language but I tried it in Ruby and it felt pretty good. That's an example of porting concepts. This is how I approach library design: Try to use the concepts I found the most enjoyable and hope others with similar taste also enjoy it.
+
+>  I firmly believe that "nouns" matter and the problem with Docker to me is there a ton of stuff that is focused on deployment/runtime aspects and it meddles with the human flow. The fact that Vagrant was focused directly, exclusively on development was by design: the configuration, the CLI, etc. revolved around development-focused nouns, and I think that was a good thing. - https://lobste.rs/c/ddl137
+
+**Do you yourself make terminal applications dogfooding and testing these APIs and thoughts?**
+
+Not enough, honestly. I've been a tool maker my entire career and firmly believe in the _tool maker's dilemma_ where you desperately need something and understand the problem space well, then build an ideal tool, but others like it and you become an ungrounded tool maker instead of the tool user. I've had this bite me many times. From the terminal perspective, I live in the terminal but from a TUI development perspective, I'm not doing enough, but a few of our maintainers are prolific TUI creators like [rockorager](https://github.com/rockorager) who maintains multiple email and IRC clients and authored a few specifications. I've been leaning on him for this.
+
+**Are you happy with today's tech stacks? In the past, You mentioned nice-polished OS as products, big tech used to distinguish itself by technology too. But it seems like they've given up entirely, not dogfooding nor caring. Their open-source feels stagnated (with exception of the occasional exception like Jujutsu).**
+
+I'm... ... ... ..._okay_ with today's tech stacks. They're __okay__. There's obviously so much I wish were different but I can't get too bogged down stressing about things I can't change, about battles that aren't mine to fight. For example, there's a lot of good in the frontend, TypeScript, React type communities. But there's also way too much churn, too much complexity, the layers of abstraction aren't clear at all. I spent time studying them but just don't agree at all with how the community culturally addresses them. But I'm not going to fight it, replace it. So I go with the flow, stick with the mainstream to assist with community, hiring etc.
+
+I'm __fine__ with today's tech stacks. I think some of the more recent developments are overly complicated across the board. HTTP/1 vs. HTTP/2 and HTTP/3, there's a non-linear change in complexity, justified in various ways but still difficult to swallow. You see that in frontend tech, terminal tech etc. I wonder if we're moving so fast that we're building complicated stuff which could have been simpler. "I didn't have time to write a short letter, so I wrote a long one instead." This seems to be playing out industry-wide, accelerated by AI and such tooling.
+
+**Talking about Zig, you said you understood its values etc. At Hashicorp, you wrote a principles document. How do you decide, create, get buy-in and use principles day to day? Why is Ghostty e.g. feature-rich? How do principles concretely impact development?**
+
+Even when my cofounder and I wrote the Hashicorp principles or when I decided how Ghostty would develop, it was all just personal, a reflection of me, so very easy for me to live those principles day to day. I just have to act myself. People run into problems when they make principles unlike themselves. It's that New Year's resolution problem where you make these grandiose intentions towards dramatic changes in your life but it's very hard, because it's hard to actually make those dramatic changes.
+
+For Ghostty, I cared about some less human, more technical, feature-rich choices like having a cross platform core and very much not cross-platform but unapologetically native GUI. People who valued them would come on board and collaborate; those who disagreed just wouldn't. And that's awesome. I'm a really big fan of open-source projects and the internet being a collection of tribes.
+
+I'm most annoyed by programming languages here, where so many languages are becoming like least common denominator __things__ with people criticizing so and so for because it lacks this feature every other language has and is therefore useless. Some hyperbolic statement, you know. I really like the fact that certain languages lack certain features other languages enjoy, because these constraints breed creativity and culture. I want different places to feel different. I don't need every place to feel welcoming to every person.
+
+People are going to get mad at me for this, but you can keep it in. For example, for me, I don't like the Rust culture. There's no better way to put it. Every time I've interacted with them or hear how they talk about Rust, I just don't like it. That doesn't mean they're bad people; I think they are really good people. The philosophy behind the language and the language itself is really good. I just don't want to use it and there's no problem with that. Just because I don't want to be around a community doesn't mean it's bad. I also don't like soccer.
+
+But people on the internet get stuck into such binary views about good and bad, which bleeds into how technologies become this conformist pool of bleh.
+
+Back to Zig, Zig has a really polarizing specific stance on what it does from technology, to community management and funding to PR, blog posts and how they talk. I don't agree with all of it but I _so respect_ that they are unapologetically weird. So I continue to support them financially and use their technology because I support people trying to be their own person.
+
+**Large companies have gaping quality assurance issues, while smaller projects like Ghostty or Zig let you apply taste to replace 4 PRs with a single, holistic solution (human scale). How do you reconcile shipping quality with shipping fast, yea AI-generated code etc.?**
+
+To ship the right thing, there has to be a bigger understanding of the product you're working on. This role's solved by different people in different companies but generally corporate America doesn't do a great job of this at scale. You can't just listen to a specific problem a set of customers or users have and solve that specific problem. You need to understand how they got to that problem in the first place, outside of your software. What motivated that problem? Whether they should have reached this in the first place or whether something upstream would have resolved 3 other problems? You need a bigger, holistic understanding. IDK how to solve that at the corporate scale. But I handle it by being a big user of my own software.
+
+I know not everyone can do this, but I've only worked in jobs whose product I'm a user of, so I can be a good human judge of whether my work is good. If you're too far removed from the customer, you shift to "I completed the spec" or "I checked the box" lacking a deep enough understanding to say whether it's good or bad.
+
+I know this community has a pretty polarizing split on the AI side, but I've been a big proponent of rational AI usage. I fully sloppified demos etc. because I won't ship it. The code is complete trash, but I can play and check whether something's a useful direction. If it's good, I can restart with the care it deserves. Right now, I have a 6 week old baby and am only on the computer about 3 hours a day, so any time savings really helps. Now, I can do so much more because I can ship ideas to myself without being on the computer.
+
+You just have to ship quality, read and understand the code you ship and have empathy with the users who will use this. You want to create something they're going to have joy using. That's all that matters.
+
+**How would you suggest someone learn C today? Would it make sense to start directly with Zig?**
+
+It's more important to learn how computers work and make the language just a means to understanding how they work. My heaviest usage of C was in college, revolving around file systems and operating systems in 3 classes. C was just the mechanism by which we interfaced closely with the lower level systems involved. My suggestion, even in this age of higher level abstractions and web development, it's still important to understand the basics of CPU scheduling, memory, cache hierarchies, file systems, disc and file access. When you work directly above the syscall layer, whether in C, Zig or Rust, it really helps you understand what's happening. If you go too high level, a Python, JavaScript or a Ruby's file open API really abstracts quite a lot from you.
+
+Another way I learned a lot was reading how the higher level languages are implemented. Don't take a standard library function for granted, some human wrote that and you could too. How does it work? Read the stdlib and dig into how things work. Languages are easy; languages don't matter. The underlying understanding is what matters.
+
+🏷️ Tags: `interview`, `person`
+
+---
+
+#### 5. [I get stuck learning HTML, CSS, and JavaScript (I am a student)](https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student)
+📅 Mon, 06 Jul 2026 11:23:54 GMT
+👤 By: aaron | 📌 Source: StackOverflow
+
+Stack Overflow question · 18 answers · score 12
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 6. [How to remove scrollbar from Shopify modal pop up](https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up)
+📅 Wed, 08 Jul 2026 14:08:43 GMT
+👤 By: gjjr | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `css`, `shopify`
+
+---
+
+#### 7. [Javascript Fetch API - How to save output to variable as an object?](https://stackoverflow.com/questions/79976602/javascript-fetch-api-how-to-save-output-to-variable-as-an-object)
+📅 Tue, 07 Jul 2026 18:36:55 GMT
+👤 By: Daniel | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -7
+
+🏷️ Tags: `javascript`, `html`, `express`, `fetch`
+
+---
+
+#### 8. [How to Implement Role-Based Access Control in a Node.js REST API with JWT](https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/)
+📅 Thu, 09 Jul 2026 14:46:47 GMT
+👤 By: Zia Ullah | 📌 Source: freeCodeCamp
+
+The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha
+
+🏷️ Tags: `Node.js`, `JavaScript`, `Security`, `Web Development`, `api`
+
+---
+
+### 🏷️ Mobile (2 articles)
+
+#### 1. [Lobsters Interview with mitchellh](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+📅 Thu, 09 Jul 2026 15:41:15 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+@mitchellh ([blog](https://mitchellh.com/)) was behind [Vagrant](https://vagrantup.com), [Packer](https://packer.io), [Consul](https://consul.io), [Terraform](https://terraform.io), [Vault](https://vaultproject.io), [Nomad](https://nomadproject.io), [Waypoint](https://waypointproject.io) and now builds [Ghostty](https://ghostty.org/) and [Vouch](https://github.com/mitchellh/vouch).
+
+In this interview, we talk about terminals, Zig and open source.
+
+-----
+
+**You've been interviewed _a lot_. Why do people like to interview you?**
+
+In interviews, everyone comes from a different angle. Many people want to know how the software engineering to business founder mindset transition went. Then others are interested in product stuff, the work I did at Hashicorp or Ghostty now. What's different here is there's no known agenda coming into it; neither of us have anything to sell.
+
+**What do you find so fun about terminals? Like, why Ghostty?**
+
+I spent ~15 years building CLI applications (not TUIs like we see nowadays). Through that process, I accidentally learned how to color things, move cursors etc. Leaving Hashicorp, I wanted to sharpen my technical skills (where they'd grown dull from neglect) and specifically work on: Pre-AI GPU programming, desktop/single node systems programming (spending so much time on the distributed side where you didn't worry about cache locality or vector operations, since network costs dominated). I also really wanted to play with Zig. I wanted to satisfy those 3 things.
+
+After 15 years building CLIs, I didn't understand how a terminal emulator worked. I knew the components of a terminal but really wanted to understand how it worked, which would also let me work on the GPU, desktop and in Zig. My goal was to run vim and the compiler in it, have it build itself, then throw it away. But as I learned more about the terminal ecosystem, I understood nothing fit the niche I wanted: fast, feature-rich and natively cross-platform. I shared it with a few friends in Discord, who asked if they could share it with others because they were actually using it every day. The Ghostty Discord was just my friends' group chat which got repurposed. I didn't want to publish because my public persona would generate too much undue attention, so I ran a private beta for a long time.
+
+**How can we push terminals harder?**
+
+I don't support pushing terminals to the extreme. Sure, they're an application platform capable of the same things other application platforms on top of the OS are like the browser, old Java app runtime environments. You could build all functionality into it: video and microphone access, responsive layouts... You could.
+
+But the browser is good at something, the desktop is good at something else and text-based (monospaced-grid) applications are also good at something unique. These text-based applications should be quick to implement, easy to interact with, clear in their security model. There's a lot of opportunity in the ecosystem here and I'd love to build more protocols to enable that.
+
+Terminal-based applications lend themselves to composition better than other paradigms. TUIs less so, but most CLI tools have mechanisms (beyond stdin and stdout) to use them like a function (the UNIX do one thing philosophy is the extreme). Neovim and AI tooling offer ever more cmdline flags. A world of better terminal applications, is a world of better automation, scriptability.
+
+I want to make the terminal a special place for applications. The PTY's in-band signalling (an unstructured byte stream with escape sequences) is a big problem. The Nushell ecosystem tries to fix it with another layer, but we need a fundamental improvement. Many people dislike the Microsoft ecosystem, but PowerShell gets a lot right with structured data.
+
+**What do you think about non-legacy terminal APIs?**
+
+My guiding star is how we now have multiple major, huge application platforms: the browser, emacs, the whole Apple ecosystem, Microsoft ecosystem, Android, video game console platforms. These ecosystems have strengths and weaknesses, but how do their frameworks work? On the web, it's the DOM and JS APIs. On Apple, it's AppKit, [Cocoa](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html) and SwiftUI. On Windows, it's Win32, WinUI etc. On Linux, it's GTK and Qt etc. When someone says we need a better way of accessing clipboard data (historical protocols are text only, what about images, multiple MIME types etc. which desktops have handled for decades), I would grab the docs for clipboard managers on every platform to see what we've landed on. There's no reason for us to build something based on our own understanding without researching decades of prior art. That's the approach I'm trying to take here. I've not introduced any custom protocols yet.
+
+Two protocols scream at me. Currently, terminals have a main screen and an alt (sometimes called primary and secondary) with different properties. Main screen is like your shell with scrollback etc. and the alternate screen is like Neovim, most TUIs etc. There are only 2, you either turn a mode on or off putting you into primary or secondary (taking up the whole screen, losing scrollback etc.)
+
+I'd like to introduce an n-screen API to create and populate an unlimited number of screens in the background, let you overlay screens with separate grid sizes etc. The terminal emulator could handle line wrapping, selection, routing mouse events etc. You could specify a screen as a standalone window which the terminal emulator renders outside of the grid - imagine your Neovim tabs being native window tabs opened at the same time! This foundational layer would solve a lot of things.
+
+I also have a spec'd out button protocol. Currently, there are mouse protocols to get notified when someone clicks a grid cell. But you only receive events for what's currently on the screen, not history, when things scroll back... We currently support hyperlinks ([OSC 8](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)) and I'd like something similar to OSC 8 where clicking sends a message (which you specify) to the program. You could create a button with an `open_profile` ID which will still register when the user scrolls back in history. This affects main screen applications (the only ones with scroll back) like Claude Code. I have no interest discussing AI here, it's just a really popular main screen application. The moment things go into history, you lose the ability to open files, in-app links etc.
+
+**To what extent is that just redoing the entire user space? There's a lot of room for scope creep there.**
+
+I experimented with replacing the entire pty protocol with Wayland. If you squint, a terminal's just a windowing server, managing windows and widgets on windows. I studied Wayland to make Ghostty run better on it and thought it's a pretty good protocol for what it tries to solve (local desktops, rendering windows). But I threw that out.
+
+A problem with terminals is that there's no standards body _any more_. There are old specs, de jure standardized, but the past 20 years have seen standardization based on what the most popular terminals do. We have a hodge-podge of features, but no entity pushing a tasteful vision.
+
+I don't know what the right path forward is. You could make an alternate home for text-based applications, not called a terminal anymore, build something new (with a terminal translation layer on top to bring legacy applications on) which is trying to do something different.
+
+**How do you balance these ideas with users' day to day demands?**
+
+I'm very public about open-source maintainers having 0 obligation to users. The first line in OS licenses is "as is, no warranty". That's the agreement, you get free software and can't make demands on it. But I like striving to build good software (some may disagree and say my software's shitty), so I do feel an obligation to fix problems, to make the software better.
+
+Some days I wake up expecting to go through issues just fixing other people's problems. But sometimes I wake up and focus on what I want, not reading a single issue, discussion nor PR. Sometimes, you need to push the bigger vision; sometimes, you need to address the reality on the ground.
+
+You can build a perfect city in the sky, then come back and find terror and suffering in the real world. So you need to clean that up sometimes.
+
+If all I did was pick through user issues every single day, you'd get stable, stagnant software. If you accept all PRs, you will change but without vision. I don't mean to insult contributors, but only one person every few years fundamentally gets it. Most contributions just scratch someone's specific itch, accepting them all leads to a mountain of code. Really understanding, you can sometimes discover graceful systems which solve everything succinctly.
+
+I once did [feature design video](https://x.com/mitchellh/status/2001810354096214059?lang=en) where I closed 3-4 separate feature requests solving people's individual problems, because a single feature (different from all of them) could solve them all at the same time. Very few people can do this, not because it's difficult but because it requires a level of care few people give to other projects.
+
+> I've been thinking about this off and on for like a year (along with hundreds of other things, nothing dedicated, I'm always just thinking about this stuff when not at a computer). When I finally sat down and thought "I'm going to solve this," maybe... 1 hour? https://x.com/mitchellh/status/2003957851514126510
+
+**Fewer features composing better attracts people to exotic programming paradigms. It demands a lot of perspective.**
+
+I got on an internet spat with someone recently about my philosophy. One of the highest requested Ghostty features is search, which is done and shipped. But someone complained search bloated and broke Ghostty's minimalism. I advertise Ghostty as feature rich! But I do distinguish that from bloat. I don't think you should have to pay for the things you don't use (besides disk space or resident code memory). I explained the way I architected search means it will take up disk space and be loaded into RAM but nothing will execute; this is a free feature if you don't use it. I want Ghostty to be a riceable, customizable terminal fitting peoples' needs, but also working out of the box and hiding them until you need or search for them, without costing anything.
+
+But if you really want this, just fork and maintain it yourself. That's not asking any more of you than you're asking of me. If you want me to maintain a flag to remove it, I can ask you to maintain a fork removing it. Telling people to "fork it" often upsets them.
+
+**Very few people maintain their own patches etc. and demand entire projects to move to comfort them. It's a very disempowering mindset to beg others to do what they could very easily do themselves, forgoing their own agency.**
+
+I've always believed there should be way more forks, both personal and maintained ones.
+
+I do blame myself and venture-backed opensource in general here. There's a whole generation which expects highly polished, funded, opinionated projects with websites and paid support staff (in Discord, Slack etc.) believing an open sourced project is a product - and it was a product in these venture backed cases. But that's such a minute part of the ecosystem.
+
+Open source includes sharing, but it's about freedoms and rights. That's the core part of open source, defining OSI-approved open source licenses. Use the software as you want, modify and fork it. None of those rights are about stability or obligation to maintain. People blame maintainers for shipping security vulnerabilities, but why didn't _you_ review that commit? You're just as obligated to review the commit as the maintainer. But people hold maintainers to this higher responsibility, when they could fork and become a maintainer just like that.
+
+If you want better guarantees, if you want the entitlement to blame someone, pay for software. When you have a vendor-customer relationship, you are now entitled to things. But there's no entitlement in open source. Use it how you love it, that's the path to getting what you want. If more people forked, they'd have more empathy for builders too.
+
+Sometimes people assume some project of mine is a company or send a PR fixing a bug I don't personally hit, and I don't merge it because merging means committing to maintain it forever. In a personal project, I won't merge because I don't hit that bug.
+
+**Consuming someone else's not-product, what're your thoughts on Zig's development? Clearly you're fine without the 1.0.**
+
+I knew what I signed up for. I got into Zig by doing compiler patches and got to know the community well. I grasp the culture, philosophy etc. well, so I'm not upset by any of this.
+
+I expect the I/O change to be one of the hardest things we've done, but we haven't started yet.
+
+Zig's getting more popular and Andrew, the BDFL, isn't backing down from changes he feels are necessary, which I like as a downstream consumer. 0.15 was pretty significant, changing the writer interface and thus anything printing anything. But the API is truly so much better.
+
+Zig is just getting better and better. They focus a lot on compilation tooling and even removed language features to improve compilation speed, mind blowing. You can build lib-ghostty (the entire terminal) instantly, and Andrew still thinks these milliseconds are too slow.
+
+I do think Zig will eventually reach a 1.0, though I think it's still years away. It matters far less when AI's involved. I hope people know, reading this, that I'm no AI hype-master.
+
+At a very basic level, we know these neural nets are really good at pattern matching and pattern filling. For these kind of language changes, I showed how to do it in a variety of contexts then asked it to draw the rest of the owl. And though, the diffs were huge, 90% was done automatically while I was in the kitchen. This hints to a future where backwards compatibility means a lot less if you explain how to go from state A to B.
+
+This is a bit ironic given Zig's strict anti-AI policy, but AI dulls the pain changes inflict on downstream users.
+
+**How do you approach library and API design? Ghostty uses lib-ghostty. A friend was raving about how nice your libraries are to use. Do you have concrete methods to improve them besides just caring?**
+
+The most concrete way is to use a lot of libraries in a lot of communities. Just like learning a programming language you won't actually use (professionally), using libraries across ecosystems expands your perspective and benefits you. In university, I spent a lot of time dabbling with esoteric languages. I made many toy products in Prolog, Haskell, Clojure and even Java (I was never a professional Java programmer so it was new for me. I wrote a full web side project in it. I didn't like it but learned a lot about the build system, ergonomics, libraries, web frameworks, web servers, app servers and all that stuff.) Every ecosystem has a different culture. That culture is human for sure, but it bleeds into how they separate concerns at a library and framework level, how they make those APIs look. For the longest time, Java used the builder pattern all over the place, which I didn't see in any other language but I tried it in Ruby and it felt pretty good. That's an example of porting concepts. This is how I approach library design: Try to use the concepts I found the most enjoyable and hope others with similar taste also enjoy it.
+
+>  I firmly believe that "nouns" matter and the problem with Docker to me is there a ton of stuff that is focused on deployment/runtime aspects and it meddles with the human flow. The fact that Vagrant was focused directly, exclusively on development was by design: the configuration, the CLI, etc. revolved around development-focused nouns, and I think that was a good thing. - https://lobste.rs/c/ddl137
+
+**Do you yourself make terminal applications dogfooding and testing these APIs and thoughts?**
+
+Not enough, honestly. I've been a tool maker my entire career and firmly believe in the _tool maker's dilemma_ where you desperately need something and understand the problem space well, then build an ideal tool, but others like it and you become an ungrounded tool maker instead of the tool user. I've had this bite me many times. From the terminal perspective, I live in the terminal but from a TUI development perspective, I'm not doing enough, but a few of our maintainers are prolific TUI creators like [rockorager](https://github.com/rockorager) who maintains multiple email and IRC clients and authored a few specifications. I've been leaning on him for this.
+
+**Are you happy with today's tech stacks? In the past, You mentioned nice-polished OS as products, big tech used to distinguish itself by technology too. But it seems like they've given up entirely, not dogfooding nor caring. Their open-source feels stagnated (with exception of the occasional exception like Jujutsu).**
+
+I'm... ... ... ..._okay_ with today's tech stacks. They're __okay__. There's obviously so much I wish were different but I can't get too bogged down stressing about things I can't change, about battles that aren't mine to fight. For example, there's a lot of good in the frontend, TypeScript, React type communities. But there's also way too much churn, too much complexity, the layers of abstraction aren't clear at all. I spent time studying them but just don't agree at all with how the community culturally addresses them. But I'm not going to fight it, replace it. So I go with the flow, stick with the mainstream to assist with community, hiring etc.
+
+I'm __fine__ with today's tech stacks. I think some of the more recent developments are overly complicated across the board. HTTP/1 vs. HTTP/2 and HTTP/3, there's a non-linear change in complexity, justified in various ways but still difficult to swallow. You see that in frontend tech, terminal tech etc. I wonder if we're moving so fast that we're building complicated stuff which could have been simpler. "I didn't have time to write a short letter, so I wrote a long one instead." This seems to be playing out industry-wide, accelerated by AI and such tooling.
+
+**Talking about Zig, you said you understood its values etc. At Hashicorp, you wrote a principles document. How do you decide, create, get buy-in and use principles day to day? Why is Ghostty e.g. feature-rich? How do principles concretely impact development?**
+
+Even when my cofounder and I wrote the Hashicorp principles or when I decided how Ghostty would develop, it was all just personal, a reflection of me, so very easy for me to live those principles day to day. I just have to act myself. People run into problems when they make principles unlike themselves. It's that New Year's resolution problem where you make these grandiose intentions towards dramatic changes in your life but it's very hard, because it's hard to actually make those dramatic changes.
+
+For Ghostty, I cared about some less human, more technical, feature-rich choices like having a cross platform core and very much not cross-platform but unapologetically native GUI. People who valued them would come on board and collaborate; those who disagreed just wouldn't. And that's awesome. I'm a really big fan of open-source projects and the internet being a collection of tribes.
+
+I'm most annoyed by programming languages here, where so many languages are becoming like least common denominator __things__ with people criticizing so and so for because it lacks this feature every other language has and is therefore useless. Some hyperbolic statement, you know. I really like the fact that certain languages lack certain features other languages enjoy, because these constraints breed creativity and culture. I want different places to feel different. I don't need every place to feel welcoming to every person.
+
+People are going to get mad at me for this, but you can keep it in. For example, for me, I don't like the Rust culture. There's no better way to put it. Every time I've interacted with them or hear how they talk about Rust, I just don't like it. That doesn't mean they're bad people; I think they are really good people. The philosophy behind the language and the language itself is really good. I just don't want to use it and there's no problem with that. Just because I don't want to be around a community doesn't mean it's bad. I also don't like soccer.
+
+But people on the internet get stuck into such binary views about good and bad, which bleeds into how technologies become this conformist pool of bleh.
+
+Back to Zig, Zig has a really polarizing specific stance on what it does from technology, to community management and funding to PR, blog posts and how they talk. I don't agree with all of it but I _so respect_ that they are unapologetically weird. So I continue to support them financially and use their technology because I support people trying to be their own person.
+
+**Large companies have gaping quality assurance issues, while smaller projects like Ghostty or Zig let you apply taste to replace 4 PRs with a single, holistic solution (human scale). How do you reconcile shipping quality with shipping fast, yea AI-generated code etc.?**
+
+To ship the right thing, there has to be a bigger understanding of the product you're working on. This role's solved by different people in different companies but generally corporate America doesn't do a great job of this at scale. You can't just listen to a specific problem a set of customers or users have and solve that specific problem. You need to understand how they got to that problem in the first place, outside of your software. What motivated that problem? Whether they should have reached this in the first place or whether something upstream would have resolved 3 other problems? You need a bigger, holistic understanding. IDK how to solve that at the corporate scale. But I handle it by being a big user of my own software.
+
+I know not everyone can do this, but I've only worked in jobs whose product I'm a user of, so I can be a good human judge of whether my work is good. If you're too far removed from the customer, you shift to "I completed the spec" or "I checked the box" lacking a deep enough understanding to say whether it's good or bad.
+
+I know this community has a pretty polarizing split on the AI side, but I've been a big proponent of rational AI usage. I fully sloppified demos etc. because I won't ship it. The code is complete trash, but I can play and check whether something's a useful direction. If it's good, I can restart with the care it deserves. Right now, I have a 6 week old baby and am only on the computer about 3 hours a day, so any time savings really helps. Now, I can do so much more because I can ship ideas to myself without being on the computer.
+
+You just have to ship quality, read and understand the code you ship and have empathy with the users who will use this. You want to create something they're going to have joy using. That's all that matters.
+
+**How would you suggest someone learn C today? Would it make sense to start directly with Zig?**
+
+It's more important to learn how computers work and make the language just a means to understanding how they work. My heaviest usage of C was in college, revolving around file systems and operating systems in 3 classes. C was just the mechanism by which we interfaced closely with the lower level systems involved. My suggestion, even in this age of higher level abstractions and web development, it's still important to understand the basics of CPU scheduling, memory, cache hierarchies, file systems, disc and file access. When you work directly above the syscall layer, whether in C, Zig or Rust, it really helps you understand what's happening. If you go too high level, a Python, JavaScript or a Ruby's file open API really abstracts quite a lot from you.
+
+Another way I learned a lot was reading how the higher level languages are implemented. Don't take a standard library function for granted, some human wrote that and you could too. How does it work? Read the stdlib and dig into how things work. Languages are easy; languages don't matter. The underlying understanding is what matters.
+
+🏷️ Tags: `interview`, `person`
+
+---
+
+#### 2. [How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools](https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/)
+📅 Wed, 08 Jul 2026 15:47:35 GMT
+👤 By: Gidudu Nicholas | 📌 Source: freeCodeCamp
+
+Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f
+
+🏷️ Tags: `Flutter`, `jank`, `devtools`, `performance`
+
+---
+
+### 🏷️ Cloud (15 articles)
+
+#### 1. [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl)
+📅 Wed, 08 Jul 2026 13:02:03 GMT
+👤 By: Jen Looper | 📌 Source: Dev.to
+
+![Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png)
+
+At conference booths, developers often ask whether we support image generation at Cloudinary, given...
+
+🏷️ Tags: `ai`, `nanobanana`, `codenewbie`, `images`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 3. [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b)
+📅 Thu, 02 Jul 2026 19:14:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Midsommer Madness with WASM, Rust, and Azure Container Apps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png)
+
+This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...
+
+🏷️ Tags: `webassembly`, `midsommer`, `azurecontainerapps`, `azure`
+
+---
+
+#### 4. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6)
+📅 Tue, 23 Jun 2026 03:39:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `speculativedecoding`, `antigravitycli`, `qat`, `blackwell6000`
+
+---
+
+#### 5. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn)
+📅 Mon, 22 Jun 2026 02:44:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `gemma4`, `mcps`, `antigravity`, `blackwell`
+
+---
+
+#### 6. [Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9)
+📅 Mon, 29 Jun 2026 16:12:25 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png)
+
+Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...
+
+🏷️ Tags: `antigravity`, `googlecloud`, `kubernetes`, `cloud`
+
+---
+
+#### 7. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 8. [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h)
+📅 Fri, 03 Jul 2026 02:55:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `python`, `tpu`, `mcps`
+
+---
+
+#### 9. [Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6)
+📅 Tue, 30 Jun 2026 01:18:13 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `mcps`, `gemma`, `tpu`, `benchmark`
+
+---
+
+#### 10. [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph)
+📅 Fri, 26 Jun 2026 19:56:54 GMT
+👤 By: Joaquin Menchaca | 📌 Source: Dev.to
+
+![Minimalist EKS: The Easy Way](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png)
+
+Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...
+
+🏷️ Tags: `kubernetes`, `aws`, `devops`, `beginners`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Security (17 articles)
+
+#### 1. [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+📅 Tue, 30 Jun 2026 07:22:16 GMT
+👤 By: Daniel Nwaneri | 📌 Source: Dev.to
+
+![Someone Else Pays for Your AI Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg)
+
+you probably didn't think about this when you signed up.  you entered your card details, verified...
+
+🏷️ Tags: `ai`, `webdev`, `security`, `discuss`
+
+---
+
+#### 2. [🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud](https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7)
+📅 Thu, 02 Jul 2026 02:53:02 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png)
+
+As agentic coding tools like Claude Code scale across engineering teams, platform and security...
+
+🏷️ Tags: `cloud`, `claude`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (52 articles)
+
+#### 1. [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle)
+📅 Mon, 06 Jul 2026 15:50:31 GMT
+👤 By: Hemapriya Kanagala | 📌 Source: Dev.to
+
+![Your Career Matters. So Does the Person Building It.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png)
+
+TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...
+
+🏷️ Tags: `discuss`, `career`, `productivity`, `mentalhealth`
+
+---
+
+#### 2. [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+📅 Wed, 08 Jul 2026 12:25:01 GMT
+👤 By: Web Developer Hyper | 📌 Source: Dev.to
+
+![✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png)
+
+Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+
+🏷️ Tags: `ai`, `webdev`, `discuss`, `productivity`
+
+---
+
+#### 3. [A New Developer Platform for Agent-Human Collaboration](https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h)
+📅 Wed, 08 Jul 2026 14:49:51 GMT
+👤 By: Rizèl Scarlett | 📌 Source: Dev.to
+
+![A New Developer Platform for Agent-Human Collaboration](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png)
+
+We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...
+
+🏷️ Tags: `ai`, `agents`, `git`, `entire`
+
+---
+
+#### 4. [Being an engineer in the AI era](https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p)
+📅 Tue, 07 Jul 2026 20:10:15 GMT
+👤 By: Alexandra | 📌 Source: Dev.to
+
+![Being an engineer in the AI era](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png)
+
+I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...
+
+🏷️ Tags: `ai`, `discuss`, `productivity`, `softwareengineering`
+
+---
+
+#### 5. [I Contain Multitudes (and Also Three Git Repos)](https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf)
+📅 Mon, 06 Jul 2026 01:17:28 GMT
+👤 By: Matty Stratton | 📌 Source: Dev.to
+
+![I Contain Multitudes (and Also Three Git Repos)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png)
+
+A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.
+
+🏷️ Tags: `astro`, `webdev`, `showdev`
+
+---
+
+#### 6. [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc)
+📅 Thu, 25 Jun 2026 15:07:57 GMT
+👤 By: Kate Pond | 📌 Source: Dev.to
+
+![Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png)
+
+How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.
+
+🏷️ Tags: `ai`, `evals`, `testing`, `personas`
+
+---
+
+#### 7. [cuenv: one typed file for your whole project](https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a)
+📅 Tue, 23 Jun 2026 14:45:27 GMT
+👤 By: Peter Jausovec | 📌 Source: Dev.to
+
+![cuenv: one typed file for your whole project](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png)
+
+Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.
+
+🏷️ Tags: `automation`, `cicd`, `devops`, `tooling`
+
+---
+
+#### 8. [Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd)
+📅 Mon, 29 Jun 2026 16:05:56 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png)
+
+Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....
+
+🏷️ Tags: `ai`, `aie`, `productivity`, `leadership`
+
+---
+
+#### 9. [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h)
+📅 Thu, 02 Jul 2026 22:04:04 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png)
+
+We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...
+
+🏷️ Tags: `githubchallenge`, `devchallenge`, `githubcopilot`, `ai`
+
+---
+
+#### 10. [gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn)
+📅 Tue, 23 Jun 2026 14:46:09 GMT
+👤 By: Inhere | 📌 Source: Dev.to
+
+![gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg)
+
+GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...
+
+🏷️ Tags: `programming`, `go`, `opensource`, `cli`
+
+---
+
