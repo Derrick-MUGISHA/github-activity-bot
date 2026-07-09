@@ -10,38 +10,40 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 76,
-    "JavaScript": 38,
+    "AI": 77,
+    "JavaScript": 37,
     "Python": 32,
     "DevOps": 17,
     "WebDev": 10,
-    "Mobile": 1,
+    "Mobile": 2,
     "Cloud": 15,
-    "Database": 3,
-    "Security": 15,
-    "Tools": 50
+    "Database": 4,
+    "Security": 17,
+    "Tools": 52
   },
   "by_language": {
     "Python": 32,
-    "Go": 32,
-    "Rust": 10,
-    "JavaScript": 38,
-    "Java": 29,
-    "PHP": 1
+    "Go": 34,
+    "Rust": 9,
+    "JavaScript": 37,
+    "Java": 28,
+    "Swift": 1,
+    "PHP": 2,
+    "CSharp": 1
   },
   "by_date": {
     "2026-07-07": 19,
-    "2026-07-08": 44,
-    "2026-07-06": 13,
+    "2026-07-08": 40,
+    "2026-07-06": 14,
     "2026-06-29": 7,
     "2026-07-02": 3,
-    "2026-06-23": 10,
+    "2026-06-23": 9,
     "2026-06-22": 2,
-    "2026-07-05": 12,
+    "2026-07-05": 11,
     "2026-06-25": 1,
     "2026-07-03": 7,
+    "2026-06-26": 2,
     "2026-06-30": 2,
-    "2026-06-26": 1,
     "2026-07-01": 7,
     "2026-06-21": 1,
     "2026-06-28": 1,
@@ -94,15 +96,16 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2022-08-01": 1,
-    "2026-07-04": 5
+    "2026-07-04": 6,
+    "2026-07-09": 3
   },
   "top_tags": {
     "ai": 28,
     "github": 25,
     "open-source": 25,
     "python": 21,
-    "javascript": 17,
-    "AI": 16,
+    "AI": 18,
+    "javascript": 16,
     "Security": 11,
     "JavaScript": 11,
     "Python": 10,
@@ -111,20 +114,22 @@
     "aie": 9,
     "productivity": 8,
     "mcps": 8,
-    "agents": 6,
     "webdev": 6,
     "llm": 6,
-    "programming": 6,
+    "antigravity": 6,
     "go": 6,
-    "rust": 6
+    "agents": 5,
+    "programming": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.5",
-    "Go": "22.5",
-    "Rust": "7.0",
-    "JavaScript": "26.8",
-    "Java": "20.4",
-    "PHP": "0.7"
+    "Python": "22.2",
+    "Go": "23.6",
+    "Rust": "6.3",
+    "JavaScript": "25.7",
+    "Java": "19.4",
+    "Swift": "0.7",
+    "PHP": "1.4",
+    "CSharp": "0.7"
   }
 }

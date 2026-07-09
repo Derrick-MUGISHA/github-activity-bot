@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -76,19 +61,19 @@
       "user": "Jen Looper"
     },
     {
-      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
-      "published_at": "2026-07-07T01:44:15Z",
-      "description": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
       "tags": [
-        "gemma",
-        "finetuning",
         "ai",
-        "agents"
+        "agents",
+        "git",
+        "entire"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
       "source": "Dev.to",
-      "user": "bebechien"
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
+      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
+      "published_at": "2026-07-07T01:44:15Z",
+      "description": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
+      "tags": [
+        "gemma",
+        "finetuning",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "What's Next for AI?",
@@ -281,6 +281,21 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
+      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
+      "published_at": "2026-06-26T07:03:01Z",
+      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "howto"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
       "published_at": "2026-06-29T16:05:56Z",
@@ -326,6 +341,21 @@
       "user": "bredmond1019"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "I Am Fired Up Again",
       "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
       "published_at": "2026-06-23T13:29:11Z",
@@ -354,21 +384,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
       "source": "Dev.to",
       "user": "Mason Delan"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Minimalist EKS: The Easy Way",
@@ -539,21 +554,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 313,
       "user": "nexu-io"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "Pluviobyte"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 55,
       "user": "uf-hy"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1756,
+      "stars": 1808,
       "user": "synthetic-sciences"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 559,
       "user": "simonlin1212"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 436,
       "user": "pocket-stack"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 406,
       "user": "ai4s-research"
     },
     {
@@ -841,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "lxh77721"
     },
     {
@@ -860,26 +860,13 @@
       "user": "avifenesh"
     },
     {
-      "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "published_at": "2026-07-08T09:29:42.000-05:00",
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "published_at": "2026-07-07T16:14:16.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "reversing",
-        "unix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
-      "title": "Eve Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "published_at": "2026-07-08T10:47:51.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "games",
-        "programming"
+        "programming",
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -900,6 +887,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reda ait"
+    },
+    {
+      "title": "Is it possible to dynamically alter the constraints in MILP?",
+      "url": "https://stackoverflow.com/questions/79978071/is-it-possible-to-dynamically-alter-the-constraints-in-milp",
+      "published_at": "2026-07-09T01:00:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "arguments",
+        "sage"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BlueGalahad"
+    },
+    {
+      "title": "Truecaller clashes with India&#8217;s telecom regulator over anti-spam rules",
+      "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+      "published_at": "2026-07-09T02:30:00.000Z",
+      "description": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Truecaller",
+        "MeitY",
+        "TRAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
@@ -997,20 +1014,34 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Elon Musk says X will send DMs when posts you&#8217;ve engaged with are corrected",
-      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
-      "published_at": "2026-07-08T18:46:20.000Z",
-      "description": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
+      "url": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
+      "published_at": "2026-07-08T23:21:21.000Z",
+      "description": "Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo",
       "tags": [
-        "Apps",
-        "Social",
-        "community notes",
-        "fact checking",
-        "social media"
+        "AI",
+        "healthcare",
+        "Machine Learning",
+        "ollama",
+        "Tutorial"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
+    },
+    {
+      "title": "How MCP Is Changing WordPress Development",
+      "url": "https://www.freecodecamp.org/news/how-mcp-is-changing-wordpress-development/",
+      "published_at": "2026-07-08T23:18:17.000Z",
+      "description": "For years, the promise of AI-assisted development felt just out of reach for WordPress developers. You could ask a chatbot to generate a block of PHP, paste it into your editor, run into a conflict, c",
+      "tags": [
+        "mcp",
+        "WordPress",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
@@ -1068,19 +1099,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "AI Agents For Beginners",
-      "url": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
-      "published_at": "2026-07-07T15:35:18.000Z",
-      "description": "We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take",
-      "tags": [
-        "agentic AI",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1098,21 +1116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
-    },
-    {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1246,23 +1249,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1431,
       "user": "Shpigford"
-    },
-    {
-      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
-      "published_at": "2026-07-05T21:15:08Z",
-      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "majidmanzarpour"
     },
     {
       "title": "withmarbleapp/os-taxonomy - GitHub Repository",
@@ -1276,8 +1264,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 624,
       "user": "withmarbleapp"
+    },
+    {
+      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+      "published_at": "2026-07-05T21:15:08Z",
+      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "majidmanzarpour"
     },
     {
       "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
@@ -1291,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 313,
       "user": "nexu-io"
     },
     {
@@ -1306,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "zjp1997720"
     },
     {
@@ -1321,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1756,
+      "stars": 1808,
       "user": "synthetic-sciences"
     },
     {
@@ -1336,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 559,
       "user": "simonlin1212"
     },
     {
@@ -1351,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 436,
       "user": "pocket-stack"
     },
     {
@@ -1366,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 406,
       "user": "ai4s-research"
     },
     {
@@ -1381,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "lxh77721"
     },
     {
@@ -1396,27 +1399,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "lucid-softworks"
     },
     {
-      "title": "Announcing TypeScript 7.0",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "published_at": "2026-07-08T11:57:26.000-05:00",
+      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
+      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
+      "published_at": "2026-07-06T14:47:11.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "release"
+        "windows"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "evert"
+      "user": "RaphGL"
     },
     {
       "title": "How to remove scrollbar from Shopify modal pop up",
       "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
       "published_at": "2026-07-08T14:08:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1431,7 +1433,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 16 answers · score 10",
+      "description": "Stack Overflow question · 17 answers · score 11",
       "tags": [
         "javascript",
         "html",
@@ -1556,6 +1558,18 @@
       "user": "Trushank Vaghasiya"
     },
     {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 15 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
+    },
+    {
       "title": "Trust Pilot inapp review",
       "url": "https://stackoverflow.com/questions/79977933/trust-pilot-inapp-review",
       "published_at": "2026-07-08T14:39:14.000Z",
@@ -1568,18 +1582,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soumya Sengupta"
-    },
-    {
-      "title": "Understanding json()",
-      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
-      "published_at": "2026-07-08T01:00:11.000Z",
-      "description": "Stack Overflow question · 15 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32917238"
     },
     {
       "title": "Level Up Your React Skills with Typescript",
@@ -1834,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2470,
+      "stars": 2535,
       "user": "x4gKing"
     },
     {
@@ -1849,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 518,
       "user": "Robbyant"
     },
     {
@@ -1864,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 443,
       "user": "nagisanzenin"
     },
     {
@@ -1879,29 +1881,55 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "Pluviobyte"
     },
     {
-      "title": "mira-wm/mira - Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
-      "url": "https://github.com/mira-wm/mira",
-      "published_at": "2026-07-05T08:41:59Z",
-      "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
+      "title": "SmileLikeYe/agent-chief - Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "url": "https://github.com/SmileLikeYe/agent-chief",
+      "published_at": "2026-07-04T15:28:56Z",
+      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300056798?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8791392?v=4",
       "source": "GitHub",
-      "stars": 290,
-      "user": "mira-wm"
+      "stars": 319,
+      "user": "SmileLikeYe"
+    },
+    {
+      "title": "How to fix recurring data-loading error in FastF1 based Python script on pythononline.net?",
+      "url": "https://stackoverflow.com/questions/79978121/how-to-fix-recurring-data-loading-error-in-fastf1-based-python-script-on-pythono",
+      "published_at": "2026-07-09T05:10:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "New Guy"
+    },
+    {
+      "title": "Is it possible to dynamically alter the constraints in MILP?",
+      "url": "https://stackoverflow.com/questions/79978071/is-it-possible-to-dynamically-alter-the-constraints-in-milp",
+      "published_at": "2026-07-09T01:00:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "arguments",
+        "sage"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BlueGalahad"
     },
     {
       "title": "How do I use this __something__ what does it do?",
       "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-what-does-it-do",
       "published_at": "2026-07-08T15:47:00.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "description": "Stack Overflow question · 6 answers · score 2",
       "tags": [
         "python"
       ],
@@ -1925,20 +1953,6 @@
       "user": "shrympe"
     },
     {
-      "title": "Trust Pilot inapp review",
-      "url": "https://stackoverflow.com/questions/79977933/trust-pilot-inapp-review",
-      "published_at": "2026-07-08T14:39:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "angular",
-        "trustpilot"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soumya Sengupta"
-    },
-    {
       "title": "Understanding json()",
       "url": "https://stackoverflow.com/questions/79976681/understanding-json",
       "published_at": "2026-07-08T01:00:11.000Z",
@@ -1951,16 +1965,18 @@
       "user": "user32917238"
     },
     {
-      "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
-      "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
-      "published_at": "2026-07-08T11:03:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Trust Pilot inapp review",
+      "url": "https://stackoverflow.com/questions/79977933/trust-pilot-inapp-review",
+      "published_at": "2026-07-08T14:39:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "angular",
+        "trustpilot"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Maryjane Adaeze"
+      "user": "Soumya Sengupta"
     },
     {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
@@ -1979,6 +1995,18 @@
       "user": "madjetmax"
     },
     {
+      "title": "Query on generating edge_list.npy and x_list files for SHS148K and STRING datasets",
+      "url": "https://stackoverflow.com/questions/79977858/query-on-generating-edge-list-npy-and-x-list-files-for-shs148k-and-string-datase",
+      "published_at": "2026-07-08T11:03:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Maryjane Adaeze"
+    },
+    {
       "title": "Asyncio worker silently stops updating shared state after exception handling",
       "url": "https://stackoverflow.com/questions/79976553/asyncio-worker-silently-stops-updating-shared-state-after-exception-handling",
       "published_at": "2026-07-07T15:50:40.000Z",
@@ -1990,33 +2018,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NightKevin"
-    },
-    {
-      "title": "How to turn a split string into multiple dictionary keys?",
-      "url": "https://stackoverflow.com/questions/79976433/how-to-turn-a-split-string-into-multiple-dictionary-keys",
-      "published_at": "2026-07-07T11:02:26.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "python",
-        "list",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Lichtenstein"
-    },
-    {
-      "title": "How can I configure IntelliJ to write Python code?",
-      "url": "https://stackoverflow.com/questions/79976594/how-can-i-configure-intellij-to-write-python-code",
-      "published_at": "2026-07-07T18:25:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "intellij-idea"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "anon"
     },
     {
       "title": "How do I cut down on the complexity (O(n^3))?",
@@ -2317,10 +2318,23 @@
       "user": "velmu"
     },
     {
+      "title": "Building a Clang Backend and Porting Doom to my Custom Bytecode VM",
+      "url": "https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/",
+      "published_at": "2026-07-08T02:24:24.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "compilers",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rrampage"
+    },
+    {
       "title": "How to remove scrollbar from Shopify modal pop up",
       "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
       "published_at": "2026-07-08T14:08:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2335,7 +2349,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 16 answers · score 10",
+      "description": "Stack Overflow question · 17 answers · score 11",
       "tags": [
         "javascript",
         "html",
@@ -2402,23 +2416,22 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build Production-Ready Card Components with shadcn/ui",
-      "url": "https://www.freecodecamp.org/news/how-to-build-production-ready-card-components-with-shadcn-ui/",
-      "published_at": "2026-07-07T16:00:40.000Z",
-      "description": "Card components are one of the most common UI patterns in web development. You see them in property listing apps, SaaS analytics dashboards, e-commerce product pages, and admin panels. But building a",
-      "tags": [
-        "shadcn",
-        "UI Design",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
     }
   ],
   "Mobile": [
+    {
+      "title": "The Popup That Says the Quiet Part Out Loud",
+      "url": "https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud",
+      "published_at": "2026-07-07T07:49:03.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ios",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
     {
       "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
       "url": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
@@ -2630,25 +2643,28 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
+      "url": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
+      "published_at": "2026-07-08T23:21:21.000Z",
+      "description": "Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo",
+      "tags": [
+        "AI",
+        "healthcare",
+        "Machine Learning",
+        "ollama",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
+    },
+    {
       "title": "Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1",
       "url": "https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/",
       "published_at": "2026-07-08T14:05:37.000Z",
       "description": "We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex",
       "tags": [
         "video essay",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "AI Agents For Beginners",
-      "url": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
-      "published_at": "2026-07-07T15:35:18.000Z",
-      "description": "We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take",
-      "tags": [
-        "agentic AI",
         "youtube"
       ],
       "cover_image": null,
@@ -2683,6 +2699,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "published_at": "2026-07-07T13:41:58.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "What is the correct way to use FOR UPDATE when limiting rows count with same value in sqlalchemy?",
@@ -2863,6 +2891,31 @@
       "user": "2352500"
     },
     {
+      "title": "Announcing the Save CTFs Fund",
+      "url": "https://osec.io/blog/save-ctfs-fund/",
+      "published_at": "2026-07-08T02:58:42.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
+    },
+    {
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "published_at": "2026-07-07T16:14:16.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
+    },
+    {
       "title": "Encrypt JS/Decrypt PHP",
       "url": "https://stackoverflow.com/questions/79977841/encrypt-js-decrypt-php",
       "published_at": "2026-07-08T09:51:28.000Z",
@@ -2894,21 +2947,6 @@
   ],
   "Tools": [
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -2937,6 +2975,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -3013,6 +3066,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
       "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
       "published_at": "2026-06-23T14:46:09Z",
@@ -3056,21 +3124,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhz5n9pbl124109yufkqq.png",
       "source": "Dev.to",
       "user": "Mason Delan"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
@@ -3207,23 +3260,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1431,
       "user": "Shpigford"
-    },
-    {
-      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
-      "published_at": "2026-07-05T21:15:08Z",
-      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "majidmanzarpour"
     },
     {
       "title": "withmarbleapp/os-taxonomy - GitHub Repository",
@@ -3237,8 +3275,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 624,
       "user": "withmarbleapp"
+    },
+    {
+      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+      "published_at": "2026-07-05T21:15:08Z",
+      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "majidmanzarpour"
     },
     {
       "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
@@ -3252,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 313,
       "user": "nexu-io"
     },
     {
@@ -3267,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180519975?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "zjp1997720"
     },
     {
@@ -3282,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 2470,
+      "stars": 2535,
       "user": "x4gKing"
     },
     {
@@ -3297,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 518,
       "user": "Robbyant"
     },
     {
@@ -3312,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 443,
       "user": "nagisanzenin"
     },
     {
@@ -3327,23 +3380,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94058511?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "Pluviobyte"
     },
     {
-      "title": "mira-wm/mira - Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
-      "url": "https://github.com/mira-wm/mira",
-      "published_at": "2026-07-05T08:41:59Z",
-      "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
+      "title": "SmileLikeYe/agent-chief - Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "url": "https://github.com/SmileLikeYe/agent-chief",
+      "published_at": "2026-07-04T15:28:56Z",
+      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300056798?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8791392?v=4",
       "source": "GitHub",
-      "stars": 290,
-      "user": "mira-wm"
+      "stars": 319,
+      "user": "SmileLikeYe"
     },
     {
       "title": "programmersd21/flow - 🌊 see your network breathe",
@@ -3357,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 182,
       "user": "programmersd21"
     },
     {
@@ -3372,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299360238?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "deviseo"
     },
     {
@@ -3402,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 55,
       "user": "uf-hy"
     },
     {
@@ -3417,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 52,
       "user": "MaximeRivest"
     },
     {
@@ -3432,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1756,
+      "stars": 1808,
       "user": "synthetic-sciences"
     },
     {
@@ -3447,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 559,
       "user": "simonlin1212"
     },
     {
@@ -3462,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 436,
       "user": "pocket-stack"
     },
     {
@@ -3477,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 406,
       "user": "ai4s-research"
     },
     {
@@ -3492,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "lxh77721"
     },
     {
@@ -3507,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1218,
       "user": "MaximeRivest"
     },
     {
@@ -3522,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 744,
       "user": "514-labs"
     },
     {
@@ -3537,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 621,
       "user": "yynxxxxx"
     },
     {
@@ -3567,8 +3620,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "lucid-softworks"
+    },
+    {
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "published_at": "2026-07-07T16:14:16.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
+    },
+    {
+      "title": "Radicle: P2P Git Replication with Git Native Issues and Patches",
+      "url": "https://radicle.dev/",
+      "published_at": "2026-07-06T20:52:36.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "datboi"
     },
     {
       "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
