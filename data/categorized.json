@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Guarding the till while autonomous data agents do the digging",
+      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
+      "published_at": "2026-07-09T22:24:23Z",
+      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
+      "tags": [
+        "agenticarchitect",
+        "antigravity",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -44,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "Building an Autonomous SRE Agent with Google ADK and the Antigravity SDK",
+      "url": "https://dev.to/gde/building-an-autonomous-sre-agent-with-google-adk-and-the-antigravity-sdk-1fgl",
+      "published_at": "2026-07-09T16:58:44Z",
+      "description": "One of the most stressful parts of being an on-call engineer is triaging a production incident in the...",
+      "tags": [
+        "ai",
+        "agents",
+        "sre",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2tb4o4x0dzr3dudvzsox.png",
+      "source": "Dev.to",
+      "user": "Yurii Serhiichuk"
     },
     {
       "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
@@ -191,21 +220,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb",
-      "published_at": "2026-07-07T15:54:40Z",
-      "description": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
-      "tags": [
-        "weekendchallenge",
-        "devchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ry7unx9lkobe6xktt3.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
       "published_at": "2026-07-02T19:14:36Z",
@@ -264,21 +278,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
-    },
-    {
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
-      "published_at": "2026-07-03T14:45:31Z",
-      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
@@ -721,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "nexu-io"
     },
     {
@@ -736,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 546,
       "user": "Robbyant"
     },
     {
@@ -781,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1935,
       "user": "synthetic-sciences"
     },
     {
@@ -811,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "ai4s-research"
     },
     {
@@ -826,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "pocket-stack"
     },
     {
@@ -891,7 +890,8 @@
       "description": "Lobste.rs Discussion",
       "tags": [
         "person",
-        "vibecoding"
+        "vibecoding",
+        "vim"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -912,6 +912,85 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reda ait"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "published_at": "2026-07-09T22:24:24.000Z",
+      "description": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "gpt-5.6",
+        "OpenAI",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "published_at": "2026-07-09T22:08:58.000Z",
+      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "ai agent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "published_at": "2026-07-09T22:03:54.000Z",
+      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "tags": [
+        "AI",
+        "AI browser",
+        "atlas",
+        "chatgpt atlas",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "published_at": "2026-07-09T21:57:42.000Z",
+      "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "TC",
+        "Anthropic",
+        "Elon Musk"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "published_at": "2026-07-09T21:47:50.000Z",
+      "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "tags": [
+        "AI",
+        "apollo",
+        "CAPEX",
+        "Sequioa"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
@@ -946,82 +1025,66 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Mercor is in talks for a $20B valuation",
-      "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "published_at": "2026-07-09T18:42:22.000Z",
-      "description": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
+      "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
+      "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
+      "published_at": "2026-07-09T17:06:32.000Z",
+      "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
       "tags": [
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "In Brief",
-        "Mercor"
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
-      "title": "Google will now disclose which ads are made with AI",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "published_at": "2026-07-09T18:40:51.000Z",
-      "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "title": "How to Turn a Postman Collection into a Maintainable pytest Suite",
+      "url": "https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/",
+      "published_at": "2026-07-09T16:43:39.000Z",
+      "description": "A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes",
       "tags": [
-        "AI",
-        "Commerce",
-        "Adtech",
-        "advertising",
-        "Generative AI"
+        "pytest",
+        "Python",
+        "Postman"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Mikhail Golikov"
     },
     {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "published_at": "2026-07-09T18:34:35.000Z",
-      "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
+      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
+      "published_at": "2026-07-09T16:41:35.000Z",
+      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
       "tags": [
-        "AI",
-        "Venture",
-        "nvidia",
-        "Kyutai",
-        "In Brief"
+        "lms",
+        "onboarding",
+        "training",
+        "upskilling",
+        "Learning Management System"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
-      "title": "How did the government decide OpenAI&#8217;s frontier model was safe to release?",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "published_at": "2026-07-09T18:22:39.000Z",
-      "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
+      "published_at": "2026-07-09T16:04:02.000Z",
+      "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
       "tags": [
+        "mcp server",
+        "llm",
+        "Artificial Intelligence",
         "AI",
-        "Government & Policy",
-        "OpenAI"
+        "ai agents"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "published_at": "2026-07-09T17:56:47.000Z",
-      "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Generative AI",
-        "image generator"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "source": "freeCodeCamp",
+      "user": "Abdurrahman Rajab"
     },
     {
       "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
@@ -1079,20 +1142,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Mohammed Fahd Abrah"
-    },
-    {
-      "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
-      "published_at": "2026-07-07T20:08:59.000Z",
-      "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
-      "tags": [
-        "AI",
-        "ai agents",
-        "tool calling"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
     }
   ],
   "JavaScript": [
@@ -1258,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1561,
       "user": "Shpigford"
     },
     {
@@ -1273,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1312,
       "user": "withmarbleapp"
     },
     {
@@ -1288,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 424,
       "user": "oso95"
     },
     {
@@ -1318,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "nexu-io"
     },
     {
@@ -1333,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1935,
       "user": "synthetic-sciences"
     },
     {
@@ -1363,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "ai4s-research"
     },
     {
@@ -1378,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "pocket-stack"
     },
     {
@@ -1441,7 +1490,7 @@
       "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
       "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
       "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "axios"
@@ -1596,19 +1645,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "Level Up Your React Skills with Typescript",
-      "url": "https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/",
-      "published_at": "2026-07-08T14:28:51.000Z",
-      "description": "We've just released a new full-length tutorial on the freeCodeCamp.org YouTube channel that will teach you how to use TypeScript with React. If you’ve been building React apps but feeling like you’re",
-      "tags": [
-        "TypeScript",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Python": [
@@ -1834,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3305,
+      "stars": 3360,
       "user": "x4gKing"
     },
     {
@@ -1849,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 576,
       "user": "Robbyant"
     },
     {
@@ -1864,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "Robbyant"
     },
     {
@@ -1879,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 546,
       "user": "Robbyant"
     },
     {
@@ -1894,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "nagisanzenin"
     },
     {
@@ -1909,6 +1945,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Race condition between events in an EDA system",
+      "url": "https://stackoverflow.com/questions/79978472/race-condition-between-events-in-an-eda-system",
+      "published_at": "2026-07-09T20:50:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "architecture",
+        "rabbitmq",
+        "race-condition",
+        "eda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Touge128345"
     },
     {
       "title": "How can I preserve PNG transparency when displaying an image in Tkinter?",
@@ -2023,21 +2075,6 @@
       "user": "New Guy"
     },
     {
-      "title": "Typing a decorator on a class in Python",
-      "url": "https://stackoverflow.com/questions/79978075/typing-a-decorator-on-a-class-in-python",
-      "published_at": "2026-07-09T01:07:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing",
-        "mypy",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bobi"
-    },
-    {
       "title": "How do I use this __something__ what does it do?",
       "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-what-does-it-do",
       "published_at": "2026-07-08T15:47:00.000Z",
@@ -2050,18 +2087,34 @@
       "user": "user32917238"
     },
     {
-      "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
-      "published_at": "2026-07-07T20:08:59.000Z",
-      "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
+      "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
+      "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
+      "published_at": "2026-07-09T17:06:32.000Z",
+      "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
       "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
         "AI",
-        "ai agents",
-        "tool calling"
+        "Machine Learning"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Darsh Shah"
+      "user": "Rudrendu Paul"
+    },
+    {
+      "title": "How to Turn a Postman Collection into a Maintainable pytest Suite",
+      "url": "https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/",
+      "published_at": "2026-07-09T16:43:39.000Z",
+      "description": "A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes",
+      "tags": [
+        "pytest",
+        "Python",
+        "Postman"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mikhail Golikov"
     }
   ],
   "DevOps": [
@@ -2079,21 +2132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "cuenv: one typed file for your whole project",
-      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
-      "published_at": "2026-06-23T14:45:27Z",
-      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
-      "tags": [
-        "automation",
-        "cicd",
-        "devops",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
-      "source": "Dev.to",
-      "user": "Peter Jausovec"
     },
     {
       "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
@@ -2272,21 +2310,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
-      "url": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
-      "published_at": "2026-07-07T21:47:50.000Z",
-      "description": "Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1",
-      "tags": [
-        "Kubernetes",
-        "Security",
-        "computer networking",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Destiny Erhabor"
     }
   ],
   "WebDev": [
@@ -2424,7 +2447,7 @@
       "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
       "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
       "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "axios"
@@ -2432,6 +2455,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bahar betvan"
+    },
+    {
+      "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
+      "published_at": "2026-07-09T16:04:02.000Z",
+      "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
+      "tags": [
+        "mcp server",
+        "llm",
+        "Artificial Intelligence",
+        "AI",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abdurrahman Rajab"
     },
     {
       "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
@@ -2450,6 +2489,20 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Guarding the till while autonomous data agents do the digging",
+      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
+      "published_at": "2026-07-09T22:24:23Z",
+      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
+      "tags": [
+        "agenticarchitect",
+        "antigravity",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
     {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
       "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
@@ -2660,6 +2713,22 @@
       "user": "Rebecca Bellan"
     },
     {
+      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
+      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
+      "published_at": "2026-07-09T16:41:35.000Z",
+      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
+      "tags": [
+        "lms",
+        "onboarding",
+        "training",
+        "upskilling",
+        "Learning Management System"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
       "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
       "url": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
       "published_at": "2026-07-08T23:21:21.000Z",
@@ -2674,19 +2743,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Lakshmi Mahabaleshwara"
-    },
-    {
-      "title": "Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1",
-      "url": "https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/",
-      "published_at": "2026-07-08T14:05:37.000Z",
-      "description": "We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex",
-      "tags": [
-        "video essay",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Database": [
@@ -2907,6 +2963,38 @@
       "user": "Claus Svalekj&#230;r"
     },
     {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "published_at": "2026-07-09T22:24:24.000Z",
+      "description": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "gpt-5.6",
+        "OpenAI",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
+      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
+      "published_at": "2026-07-09T16:41:35.000Z",
+      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
+      "tags": [
+        "lms",
+        "onboarding",
+        "training",
+        "upskilling",
+        "Learning Management System"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -2921,24 +3009,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
-      "url": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
-      "published_at": "2026-07-07T21:47:50.000Z",
-      "description": "Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1",
-      "tags": [
-        "Kubernetes",
-        "Security",
-        "computer networking",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Destiny Erhabor"
     }
   ],
   "Tools": [
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
+      "published_at": "2026-07-09T14:44:40Z",
+      "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "tags": [
+        "mentalhealth",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
+      "source": "Dev.to",
+      "user": "Klaudia Grzondziel"
+    },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
       "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
@@ -3027,21 +3115,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
-    },
-    {
-      "title": "cuenv: one typed file for your whole project",
-      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a",
-      "published_at": "2026-06-23T14:45:27Z",
-      "description": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets in a fourth place, none of it validated and all of it slowly drifting apart. cuenv replaces that pile with a single typed env.cue written in CUE. In this overview I'll show you how it validates your config before anything runs, resolves secrets at runtime, runs your tasks as a cached DAG, and generates your CI from the same definitions.",
-      "tags": [
-        "automation",
-        "cicd",
-        "devops",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flearncloudnative.com%2Ftimgs%2Fcuenvthumb.png",
-      "source": "Dev.to",
-      "user": "Peter Jausovec"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -3238,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1561,
       "user": "Shpigford"
     },
     {
@@ -3253,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1312,
       "user": "withmarbleapp"
     },
     {
@@ -3268,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 424,
       "user": "oso95"
     },
     {
@@ -3298,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 342,
       "user": "nexu-io"
     },
     {
@@ -3313,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3305,
+      "stars": 3360,
       "user": "x4gKing"
     },
     {
@@ -3328,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 576,
       "user": "Robbyant"
     },
     {
@@ -3343,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "Robbyant"
     },
     {
@@ -3358,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 546,
       "user": "Robbyant"
     },
     {
@@ -3373,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "nagisanzenin"
     },
     {
@@ -3388,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "programmersd21"
     },
     {
@@ -3463,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220546587?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1935,
       "user": "synthetic-sciences"
     },
     {
@@ -3493,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/297363890?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "ai4s-research"
     },
     {
@@ -3508,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299849304?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "pocket-stack"
     },
     {
@@ -3538,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1278,
       "user": "MaximeRivest"
     },
     {
@@ -3553,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 772,
       "user": "514-labs"
     },
     {
@@ -3568,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "yynxxxxx"
     },
     {
@@ -3647,20 +3720,36 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Google will now disclose which ads are made with AI",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "published_at": "2026-07-09T18:40:51.000Z",
-      "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
+      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
+      "published_at": "2026-07-09T16:41:35.000Z",
+      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
       "tags": [
-        "AI",
-        "Commerce",
-        "Adtech",
-        "advertising",
-        "Generative AI"
+        "lms",
+        "onboarding",
+        "training",
+        "upskilling",
+        "Learning Management System"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
+      "published_at": "2026-07-09T16:04:02.000Z",
+      "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
+      "tags": [
+        "mcp server",
+        "llm",
+        "Artificial Intelligence",
+        "AI",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abdurrahman Rajab"
     },
     {
       "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
@@ -3690,20 +3779,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Gidudu Nicholas"
-    },
-    {
-      "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
-      "published_at": "2026-07-07T20:08:59.000Z",
-      "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
-      "tags": [
-        "AI",
-        "ai agents",
-        "tool calling"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
     }
   ]
 }
