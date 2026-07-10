@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
+      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
+      "published_at": "2026-07-10T03:33:28Z",
+      "description": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
       "tags": [
+        "agents",
         "ai",
-        "webdev",
-        "discuss",
-        "productivity"
+        "agenticarchitect",
+        "googleantigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
       "source": "Dev.to",
-      "user": "Web Developer Hyper"
+      "user": "leslysandra"
     },
     {
       "title": "Guarding the till while autonomous data agents do the digging",
@@ -30,19 +30,48 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
+      "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5",
+      "published_at": "2026-07-10T14:12:20Z",
+      "description": "Most of us have seen a coding agent fail to complete a task we know it can do. We just don't...",
       "tags": [
         "ai",
-        "llm",
-        "machinelearning",
-        "rag"
+        "programming",
+        "agentskills"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fia2qvwmkdkgt6abx42ld.jpg",
       "source": "Dev.to",
-      "user": "ValeryKot"
+      "user": "James O'Reilly"
+    },
+    {
+      "title": "Parallel Compliance Engine: Drive-to-Sheets Multi-Agent Orchestration",
+      "url": "https://dev.to/gde/parallel-compliance-engine-drive-to-sheets-multi-agent-orchestration-4o",
+      "published_at": "2026-07-10T08:19:13Z",
+      "description": "When building Generative AI applications, developers often encounter a massive bottleneck: sequential...",
+      "tags": [
+        "googlecloud",
+        "antigravitysdk",
+        "googleworkspace",
+        "dataextraction"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flnkghk62fbsstwfim3by.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem",
@@ -103,20 +132,6 @@
       "user": "Yurii Serhiichuk"
     },
     {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "published_at": "2026-06-29T16:06:30Z",
-      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "tags": [
-        "aie",
-        "ai",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
       "published_at": "2026-07-07T01:44:15Z",
@@ -132,19 +147,18 @@
       "user": "bebechien"
     },
     {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
+      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
+      "published_at": "2026-06-29T16:06:30Z",
+      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
       "tags": [
+        "aie",
         "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
+        "hackathon"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
       "source": "Dev.to",
-      "user": "Andrew Bone"
+      "user": "Iain Thomson"
     },
     {
       "title": "A New Developer Platform for Agent-Human Collaboration",
@@ -160,6 +174,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
       "source": "Dev.to",
       "user": "Rizèl Scarlett"
+    },
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
@@ -189,6 +218,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "published_at": "2026-07-08T10:23:41Z",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "source": "Dev.to",
+      "user": "ValeryKot"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -234,36 +278,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Omni Flash Preview with Codex",
-      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
-      "published_at": "2026-07-05T02:28:00Z",
-      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "tags": [
-        "omniflash",
-        "xcode",
-        "aivideogenerator",
-        "mcpserver"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
     },
     {
       "title": "The biggest World’s Fair yet powers down for the moment",
@@ -706,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "nexu-io"
     },
     {
@@ -721,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "Robbyant"
     },
     {
@@ -766,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78592816?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 49,
       "user": "Mr-In4inci3le"
     },
     {
@@ -781,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 639,
       "user": "simonlin1212"
     },
     {
@@ -796,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 398,
       "user": "xiaotianfotos"
     },
     {
@@ -811,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "lxh77721"
     },
     {
@@ -826,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 362,
       "user": "jiguang132"
     },
     {
@@ -841,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 269,
       "user": "wassermanproductions"
     },
     {
@@ -897,6 +911,69 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MARK LUFT"
+    },
+    {
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "published_at": "2026-07-10T15:00:09.000Z",
+      "description": "The new startup raised $300 million co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Arch Venture Partners",
+        "deep tech",
+        "Khosla Ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Netflix could be planning ‘always-on’ live TV channels",
+      "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+      "published_at": "2026-07-10T14:53:08.000Z",
+      "description": "Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
+      "tags": [
+        "Media & Entertainment",
+        "In Brief",
+        "live tv",
+        "Netflix",
+        "streaming"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "published_at": "2026-07-10T14:19:40.000Z",
+      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "digital services act",
+        "eu"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "published_at": "2026-07-10T14:11:03.000Z",
+      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "ransomware",
+        "extortion"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
@@ -959,69 +1036,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "published_at": "2026-07-09T22:03:54.000Z",
-      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "tags": [
-        "AI",
-        "AI browser",
-        "atlas",
-        "chatgpt atlas",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "published_at": "2026-07-09T21:57:42.000Z",
-      "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Anthropic",
-        "Elon Musk",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Can AI answer the $3 trillion question?",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "published_at": "2026-07-09T21:47:50.000Z",
-      "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "tags": [
-        "AI",
-        "apollo",
-        "CAPEX",
-        "Sequioa"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "published_at": "2026-07-09T19:40:45.000Z",
-      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Mark Zuckerberg",
-        "Meta",
-        "muse spark"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1306,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1844,
+      "stars": 1916,
       "user": "withmarbleapp"
     },
     {
@@ -1321,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1624,
+      "stars": 1645,
       "user": "Shpigford"
     },
     {
@@ -1336,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 522,
       "user": "oso95"
     },
     {
@@ -1366,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "nexu-io"
     },
     {
@@ -1381,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 639,
       "user": "simonlin1212"
     },
     {
@@ -1396,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 398,
       "user": "xiaotianfotos"
     },
     {
@@ -1411,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "lxh77721"
     },
     {
@@ -1426,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 362,
       "user": "jiguang132"
     },
     {
@@ -1441,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 269,
       "user": "wassermanproductions"
     },
     {
@@ -1473,10 +1487,24 @@
       "user": "veqq"
     },
     {
+      "title": "File path not being returned on listing of files in my local server but is returned on live site",
+      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
+      "published_at": "2026-07-10T14:29:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary Dale"
+    },
+    {
       "title": "Import a JSON file to JS code, compatible with old and current browsers",
       "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
       "published_at": "2026-07-10T09:33:16.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "json",
@@ -1546,7 +1574,7 @@
       "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
       "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
       "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1602,19 +1630,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Furqan"
-    },
-    {
-      "title": "How do I place this code within description of XMLs' description",
-      "url": "https://stackoverflow.com/questions/79978199/how-do-i-place-this-code-within-description-of-xmls-description",
-      "published_at": "2026-07-09T08:44:24.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "javascript",
-        "namespaces"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elise Citron"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1841,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3670,
+      "stars": 3759,
       "user": "x4gKing"
     },
     {
@@ -1856,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 673,
       "user": "Robbyant"
     },
     {
@@ -1871,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "Robbyant"
     },
     {
@@ -1886,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "Robbyant"
     },
     {
@@ -1901,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "nagisanzenin"
     },
     {
@@ -1918,23 +1933,51 @@
       "user": "veqq"
     },
     {
-      "title": "Python class instance not re-instantiated?",
-      "url": "https://stackoverflow.com/questions/79979609/python-class-instance-not-re-instantiated",
-      "published_at": "2026-07-10T10:12:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Python \"generate_chk\" function",
+      "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
+      "published_at": "2026-07-10T14:12:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "class"
+        "python-3.x",
+        "encryption",
+        "server"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Duncan"
+      "user": "y8v"
+    },
+    {
+      "title": "Replacing one string inside another but without interfering with a second replace",
+      "url": "https://stackoverflow.com/questions/79979652/replacing-one-string-inside-another-but-without-interfering-with-a-second-replac",
+      "published_at": "2026-07-10T12:46:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "Why Feroxbuster tool is typing all of URLs 403",
+      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
+      "published_at": "2026-07-10T13:21:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "The Godfather of Programming"
     },
     {
       "title": "How can I boxplot values that wrap around using matplotlib?",
       "url": "https://stackoverflow.com/questions/79979626/how-can-i-boxplot-values-that-wrap-around-using-matplotlib",
       "published_at": "2026-07-10T10:52:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -1950,7 +1993,7 @@
       "title": "Data Modeling for Relational database, read-only access",
       "url": "https://stackoverflow.com/questions/79979542/data-modeling-for-relational-database-read-only-access",
       "published_at": "2026-07-10T05:42:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "best-practices",
         "python",
@@ -1976,6 +2019,18 @@
       "user": "WatcherOfAll"
     },
     {
+      "title": "How do I use this __something__ and what does it do?",
+      "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-and-what-does-it-do",
+      "published_at": "2026-07-08T15:47:00.000Z",
+      "description": "Stack Overflow question · 6 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
+    },
+    {
       "title": "Race condition between events in an EDA system",
       "url": "https://stackoverflow.com/questions/79978472/race-condition-between-events-in-an-eda-system",
       "published_at": "2026-07-09T20:50:14.000Z",
@@ -1990,18 +2045,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Touge128345"
-    },
-    {
-      "title": "How do I use this __something__ and what does it do?",
-      "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-and-what-does-it-do",
-      "published_at": "2026-07-08T15:47:00.000Z",
-      "description": "Stack Overflow question · 6 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32917238"
     },
     {
       "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
@@ -2030,35 +2073,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel"
-    },
-    {
-      "title": "How can I preserve PNG transparency when displaying an image in Tkinter?",
-      "url": "https://stackoverflow.com/questions/79978298/how-can-i-preserve-png-transparency-when-displaying-an-image-in-tkinter",
-      "published_at": "2026-07-09T12:06:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "image",
-        "tkinter",
-        "png",
-        "transparency"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Mubbashir Idrees"
-    },
-    {
-      "title": "How to display the contents of a CSV file, with rows filtered by the value in the timestamp column",
-      "url": "https://stackoverflow.com/questions/79978144/how-to-display-the-contents-of-a-csv-file-with-rows-filtered-by-the-value-in-th",
-      "published_at": "2026-07-09T05:51:21.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "python",
-        "csv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jas"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2092,21 +2106,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
-      "published_at": "2026-06-29T16:12:25Z",
-      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
     {
       "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
       "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
@@ -2343,6 +2342,20 @@
       "user": "veqq"
     },
     {
+      "title": "File path not being returned on listing of files in my local server but is returned on live site",
+      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
+      "published_at": "2026-07-10T14:29:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary Dale"
+    },
+    {
       "title": "Why is my website Contact Form Not Functioning?",
       "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
       "published_at": "2026-07-10T05:28:19.000Z",
@@ -2362,7 +2375,7 @@
       "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
       "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
       "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2482,6 +2495,21 @@
       "user": "Sireesha Pulipati"
     },
     {
+      "title": "Parallel Compliance Engine: Drive-to-Sheets Multi-Agent Orchestration",
+      "url": "https://dev.to/gde/parallel-compliance-engine-drive-to-sheets-multi-agent-orchestration-4o",
+      "published_at": "2026-07-10T08:19:13Z",
+      "description": "When building Generative AI applications, developers often encounter a massive bottleneck: sequential...",
+      "tags": [
+        "googlecloud",
+        "antigravitysdk",
+        "googleworkspace",
+        "dataextraction"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flnkghk62fbsstwfim3by.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2555,21 +2583,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
-      "published_at": "2026-06-29T16:12:25Z",
-      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
@@ -2753,7 +2766,7 @@
       "title": "Data Modeling for Relational database, read-only access",
       "url": "https://stackoverflow.com/questions/79979542/data-modeling-for-relational-database-read-only-access",
       "published_at": "2026-07-10T05:42:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "best-practices",
         "python",
@@ -2939,6 +2952,50 @@
       "user": "veqq"
     },
     {
+      "title": "Python \"generate_chk\" function",
+      "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
+      "published_at": "2026-07-10T14:12:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "encryption",
+        "server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "y8v"
+    },
+    {
+      "title": "Why Feroxbuster tool is typing all of URLs 403",
+      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
+      "published_at": "2026-07-10T13:21:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "The Godfather of Programming"
+    },
+    {
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "published_at": "2026-07-10T14:11:03.000Z",
+      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "ransomware",
+        "extortion"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "OpenAI launches its new family of models with GPT-5.6",
       "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "published_at": "2026-07-09T22:24:24.000Z",
@@ -3004,21 +3061,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
       "title": "Your Career Matters. So Does the Person Building It.",
       "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
       "published_at": "2026-07-06T15:50:31Z",
@@ -3032,6 +3074,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "A New Developer Platform for Agent-Human Collaboration",
@@ -3062,21 +3119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
       "source": "Dev.to",
       "user": "Alexandra"
-    },
-    {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -3258,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1844,
+      "stars": 1916,
       "user": "withmarbleapp"
     },
     {
@@ -3273,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1624,
+      "stars": 1645,
       "user": "Shpigford"
     },
     {
@@ -3288,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 522,
       "user": "oso95"
     },
     {
@@ -3318,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "nexu-io"
     },
     {
@@ -3333,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3670,
+      "stars": 3759,
       "user": "x4gKing"
     },
     {
@@ -3348,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 673,
       "user": "Robbyant"
     },
     {
@@ -3363,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "Robbyant"
     },
     {
@@ -3378,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 613,
       "user": "Robbyant"
     },
     {
@@ -3393,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "nagisanzenin"
     },
     {
@@ -3408,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "programmersd21"
     },
     {
@@ -3468,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78592816?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 49,
       "user": "Mr-In4inci3le"
     },
     {
@@ -3483,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 639,
       "user": "simonlin1212"
     },
     {
@@ -3498,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 398,
       "user": "xiaotianfotos"
     },
     {
@@ -3513,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "lxh77721"
     },
     {
@@ -3528,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 362,
       "user": "jiguang132"
     },
     {
@@ -3543,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 269,
       "user": "wassermanproductions"
     },
     {
@@ -3558,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1319,
       "user": "MaximeRivest"
     },
     {
@@ -3573,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 786,
       "user": "514-labs"
     },
     {
@@ -3588,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 738,
       "user": "yynxxxxx"
     },
     {
@@ -3633,6 +3675,36 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Why Feroxbuster tool is typing all of URLs 403",
+      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
+      "published_at": "2026-07-10T13:21:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "The Godfather of Programming"
+    },
+    {
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "published_at": "2026-07-10T14:19:40.000Z",
+      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "digital services act",
+        "eu"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
