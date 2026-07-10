@@ -267,6 +267,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Omni Flash Preview with Codex",
+      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
+      "published_at": "2026-07-05T02:28:00Z",
+      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "tags": [
+        "omniflash",
+        "xcode",
+        "aivideogenerator",
+        "mcpserver"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -340,21 +370,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
       "source": "Dev.to",
       "user": "bredmond1019"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "I Am Fired Up Again",
@@ -465,6 +480,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Someone Else Pays for Your AI Access",
       "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
       "published_at": "2026-06-30T07:22:16Z",
@@ -508,36 +538,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "For AI coding, the kids are alright",
-      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
-      "published_at": "2026-06-29T16:06:12Z",
-      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
-      "tags": [
-        "aie",
-        "beginners",
-        "softwaredevelopment",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "Robbyant"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 60,
       "user": "GreyGunG"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 659,
       "user": "simonlin1212"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "xiaotianfotos"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "wassermanproductions"
     },
     {
@@ -900,24 +900,10 @@
       "user": "MARK LUFT"
     },
     {
-      "title": "Do AI can replace a real working employee or not",
-      "url": "https://stackoverflow.com/questions/79979749/do-ai-can-replace-a-real-working-employee-or-not",
-      "published_at": "2026-07-10T18:31:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "artificial-intelligence"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shiva sai"
-    },
-    {
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -1192,21 +1178,6 @@
       "user": "Gil Barbara"
     },
     {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1338,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2020,
+      "stars": 2044,
       "user": "withmarbleapp"
     },
     {
@@ -1353,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1675,
       "user": "Shpigford"
     },
     {
@@ -1368,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 565,
       "user": "oso95"
     },
     {
@@ -1383,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "majidmanzarpour"
     },
     {
@@ -1413,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 659,
       "user": "simonlin1212"
     },
     {
@@ -1428,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "xiaotianfotos"
     },
     {
@@ -1473,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "wassermanproductions"
     },
     {
@@ -1503,6 +1474,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "React sourcemap warns it can't find components in nested directories",
+      "url": "https://stackoverflow.com/questions/79979739/react-sourcemap-warns-it-cant-find-components-in-nested-directories",
+      "published_at": "2026-07-10T17:52:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "source-maps"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hora"
+    },
+    {
+      "title": "Probable solution for A2UI React normalized cards rendering issue",
+      "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
+      "published_at": "2026-07-10T17:43:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "agent"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DAALROTI_SDG"
     },
     {
       "title": "File path not being returned on listing of files in my local server but is returned on live site",
@@ -1618,37 +1617,6 @@
       "user": "MindaMan"
     },
     {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "express",
-        "axios",
-        "multer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
-    },
-    {
-      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
-      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
-      "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "react-hook-form"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furqan"
-    },
-    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -1666,6 +1634,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
+      "published_at": "2026-07-09T13:12:41Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "antigravitycli",
+        "python",
+        "mcps",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
@@ -1873,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3874,
+      "stars": 3927,
       "user": "x4gKing"
     },
     {
@@ -1888,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 686,
       "user": "Robbyant"
     },
     {
@@ -1903,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "Robbyant"
     },
     {
@@ -1950,20 +1933,6 @@
       "user": "veqq"
     },
     {
-      "title": "Do AI can replace a real working employee or not",
-      "url": "https://stackoverflow.com/questions/79979749/do-ai-can-replace-a-real-working-employee-or-not",
-      "published_at": "2026-07-10T18:31:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "artificial-intelligence"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shiva sai"
-    },
-    {
       "title": "Why Feroxbuster tool is typing all of URLs 403",
       "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
       "published_at": "2026-07-10T13:21:02.000Z",
@@ -1980,7 +1949,7 @@
       "title": "Python \"generate_chk\" function",
       "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
       "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "encryption",
@@ -1994,7 +1963,7 @@
       "title": "Replacing one string inside another but without interfering with a second replace",
       "url": "https://stackoverflow.com/questions/79979652/replacing-one-string-inside-another-but-without-interfering-with-a-second-replac",
       "published_at": "2026-07-10T12:46:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python"
       ],
@@ -2006,7 +1975,7 @@
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -2091,6 +2060,21 @@
       "user": "Touge128345"
     },
     {
+      "title": "Command line option with variable number of args with a terminator",
+      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
+      "published_at": "2026-07-09T11:06:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "command-line",
+        "argparse",
+        "optparse"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel"
+    },
+    {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
       "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
       "published_at": "2026-07-09T17:06:32.000Z",
@@ -2122,6 +2106,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
+      "published_at": "2026-06-29T16:12:25Z",
+      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
     {
       "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
       "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
@@ -2448,22 +2447,6 @@
       "user": "veqq"
     },
     {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "express",
-        "axios",
-        "multer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
-    },
-    {
       "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
       "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
       "published_at": "2026-07-10T17:11:51.000Z",
@@ -2513,6 +2496,21 @@
   ],
   "Cloud": [
     {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
+      "published_at": "2026-07-09T13:12:41Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "antigravitycli",
+        "python",
+        "mcps",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Guarding the till while autonomous data agents do the digging",
       "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
       "published_at": "2026-07-09T22:24:23Z",
@@ -2525,6 +2523,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
+      "published_at": "2026-07-08T13:26:02Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "googleantigravity",
+        "googletpu",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Parallel Compliance Engine: Drive-to-Sheets Multi-Agent Orchestration",
@@ -2617,6 +2630,21 @@
       "user": "xbill"
     },
     {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
+      "published_at": "2026-06-29T16:12:25Z",
+      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -2707,19 +2735,6 @@
       "user": "xbill"
     },
     {
-      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
-      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
-      "published_at": "2026-07-02T02:53:02Z",
-      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
-      "tags": [
-        "cloud",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
       "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
       "published_at": "2026-07-09T22:51:46.000Z",
@@ -2737,7 +2752,7 @@
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -2826,6 +2841,19 @@
       "user": "iancarroll"
     },
     {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "published_at": "2026-07-10T14:05:12.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Vaelatern"
+    },
+    {
       "title": "Data Modeling for Relational database, read-only access",
       "url": "https://stackoverflow.com/questions/79979542/data-modeling-for-relational-database-read-only-access",
       "published_at": "2026-07-10T05:42:24.000Z",
@@ -2855,19 +2883,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
-      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
-      "published_at": "2026-07-02T02:53:02Z",
-      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
-      "tags": [
-        "cloud",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3031,7 +3046,7 @@
       "title": "Python \"generate_chk\" function",
       "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
       "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "encryption",
@@ -3166,6 +3181,21 @@
       "user": "Alexandra"
     },
     {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
       "published_at": "2026-06-29T16:05:56Z",
@@ -3179,21 +3209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
@@ -3240,6 +3255,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
+      "published_at": "2026-07-02T22:04:04Z",
+      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "After a long journey, I've reached a deep burnout",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
       "published_at": "2026-06-28T09:04:04Z",
@@ -3268,34 +3298,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
       "source": "Dev.to",
       "user": "Gil Barbara"
-    },
-    {
-      "title": "My First Year at DEV Recap",
-      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
-      "published_at": "2026-07-01T13:46:22Z",
-      "description": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...",
-      "tags": [
-        "community",
-        "learning",
-        "productivity",
-        "writing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsqhxhnwj8i2sei9zk9y.png",
-      "source": "Dev.to",
-      "user": "Julien Avezou"
-    },
-    {
-      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
-      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
-      "published_at": "2026-07-02T02:53:02Z",
-      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
-      "tags": [
-        "cloud",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3345,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2020,
+      "stars": 2044,
       "user": "withmarbleapp"
     },
     {
@@ -3360,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1675,
       "user": "Shpigford"
     },
     {
@@ -3375,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 565,
       "user": "oso95"
     },
     {
@@ -3390,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "majidmanzarpour"
     },
     {
@@ -3420,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3874,
+      "stars": 3927,
       "user": "x4gKing"
     },
     {
@@ -3435,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 686,
       "user": "Robbyant"
     },
     {
@@ -3450,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "Robbyant"
     },
     {
@@ -3495,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 212,
       "user": "programmersd21"
     },
     {
@@ -3529,21 +3531,6 @@
       "user": "uf-hy"
     },
     {
-      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "url": "https://github.com/MaximeRivest/remagic",
-      "published_at": "2026-07-05T18:32:02Z",
-      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
-      "source": "GitHub",
-      "stars": 58,
-      "user": "MaximeRivest"
-    },
-    {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
       "url": "https://github.com/GreyGunG/grokbuild-proxy",
       "published_at": "2026-07-09T23:28:51Z",
@@ -3555,8 +3542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 60,
       "user": "GreyGunG"
+    },
+    {
+      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
+      "url": "https://github.com/MaximeRivest/remagic",
+      "published_at": "2026-07-05T18:32:02Z",
+      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "MaximeRivest"
     },
     {
       "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
@@ -3570,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 659,
       "user": "simonlin1212"
     },
     {
@@ -3585,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "xiaotianfotos"
     },
     {
@@ -3630,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "wassermanproductions"
     },
     {
@@ -3645,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1333,
       "user": "MaximeRivest"
     },
     {
@@ -3660,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 793,
       "user": "514-labs"
     },
     {
@@ -3675,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 751,
       "user": "yynxxxxx"
     },
     {
