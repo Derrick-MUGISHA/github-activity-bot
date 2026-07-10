@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "nexu-io"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "Robbyant"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 662,
       "user": "simonlin1212"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "xiaotianfotos"
     },
     {
@@ -884,20 +884,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ninakali"
-    },
-    {
-      "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
-      "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
-      "published_at": "2026-07-09T22:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-cloud-messaging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MARK LUFT"
     },
     {
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
@@ -1025,22 +1011,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "published_at": "2026-07-10T14:19:40.000Z",
-      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "digital services act",
-        "eu"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1310,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2083,
       "user": "withmarbleapp"
     },
     {
@@ -1325,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1690,
       "user": "Shpigford"
     },
     {
@@ -1340,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 587,
       "user": "oso95"
     },
     {
@@ -1370,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "nexu-io"
     },
     {
@@ -1385,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 662,
       "user": "simonlin1212"
     },
     {
@@ -1400,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "xiaotianfotos"
     },
     {
@@ -1477,6 +1447,22 @@
       "user": "veqq"
     },
     {
+      "title": "Best practice for using Cloudflare workers to serve images from R2",
+      "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
+      "published_at": "2026-07-10T20:55:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs",
+        "cloudflare",
+        "cloudflare-workers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "abc"
+    },
+    {
       "title": "React sourcemap warns it can't find components in nested directories",
       "url": "https://stackoverflow.com/questions/79979739/react-sourcemap-warns-it-cant-find-components-in-nested-directories",
       "published_at": "2026-07-10T17:52:03.000Z",
@@ -1533,6 +1519,21 @@
       "user": "nhaggen"
     },
     {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
+    },
+    {
       "title": "How can I make the docs js library draw a border when I move a table?",
       "url": "https://stackoverflow.com/questions/79979602/how-can-i-make-the-docs-js-library-draw-a-border-when-i-move-a-table",
       "published_at": "2026-07-10T09:36:38.000Z",
@@ -1587,35 +1588,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "eng.ragy"
-    },
-    {
-      "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
-      "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
-      "published_at": "2026-07-09T22:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-cloud-messaging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MARK LUFT"
-    },
-    {
-      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
-      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
-      "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "react-hook-form"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furqan"
     },
     {
       "title": "Understanding json()",
@@ -1870,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3958,
+      "stars": 4000,
       "user": "x4gKing"
     },
     {
@@ -1885,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 689,
       "user": "Robbyant"
     },
     {
@@ -1900,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "Robbyant"
     },
     {
@@ -1915,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "Robbyant"
     },
     {
@@ -1960,17 +1932,19 @@
       "user": "shiva sai"
     },
     {
-      "title": "Why Feroxbuster tool is typing all of URLs 403",
-      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
-      "published_at": "2026-07-10T13:21:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "GCP Agent Platform pipelines ModelGetOp issue",
+      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
+      "published_at": "2026-07-10T14:56:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
-        "security"
+        "google-cloud-platform",
+        "mlops",
+        "vertex-ai-pipeline"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "The Godfather of Programming"
+      "user": "nenord"
     },
     {
       "title": "Python \"generate_chk\" function",
@@ -1997,21 +1971,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "GCP Agent Platform pipelines ModelGetOp issue",
-      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
-      "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "google-cloud-platform",
-        "mlops",
-        "vertex-ai-pipeline"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nenord"
     },
     {
       "title": "How can I boxplot values that wrap around using matplotlib?",
@@ -2082,6 +2041,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
+    },
+    {
+      "title": "Command line option with variable number of args with a terminator",
+      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
+      "published_at": "2026-07-09T11:06:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "command-line",
+        "argparse",
+        "optparse"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2378,6 +2352,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary Dale"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "Why is my website Contact Form Not Functioning?",
@@ -2729,18 +2718,20 @@
       "user": "xbill"
     },
     {
-      "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
-      "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
-      "published_at": "2026-07-09T22:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Best practice for using Cloudflare workers to serve images from R2",
+      "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
+      "published_at": "2026-07-10T20:55:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
+        "best-practices",
         "javascript",
-        "firebase",
-        "firebase-cloud-messaging"
+        "reactjs",
+        "cloudflare",
+        "cloudflare-workers"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "MARK LUFT"
+      "user": "abc"
     },
     {
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
@@ -3022,19 +3013,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "Why Feroxbuster tool is typing all of URLs 403",
-      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
-      "published_at": "2026-07-10T13:21:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Godfather of Programming"
     },
     {
       "title": "Python \"generate_chk\" function",
@@ -3326,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2083,
       "user": "withmarbleapp"
     },
     {
@@ -3341,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1690,
       "user": "Shpigford"
     },
     {
@@ -3356,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 587,
       "user": "oso95"
     },
     {
@@ -3386,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "nexu-io"
     },
     {
@@ -3401,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3958,
+      "stars": 4000,
       "user": "x4gKing"
     },
     {
@@ -3416,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 689,
       "user": "Robbyant"
     },
     {
@@ -3431,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "Robbyant"
     },
     {
@@ -3446,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "Robbyant"
     },
     {
@@ -3551,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 662,
       "user": "simonlin1212"
     },
     {
@@ -3566,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "xiaotianfotos"
     },
     {
@@ -3701,35 +3679,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "Why Feroxbuster tool is typing all of URLs 403",
-      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
-      "published_at": "2026-07-10T13:21:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Godfather of Programming"
-    },
-    {
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "published_at": "2026-07-10T14:19:40.000Z",
-      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "digital services act",
-        "eu"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
