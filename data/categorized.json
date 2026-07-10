@@ -132,21 +132,6 @@
       "user": "bebechien"
     },
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
       "title": "A Pragmatic Look at AI in 2030",
       "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
       "published_at": "2026-07-08T15:01:47Z",
@@ -160,6 +145,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
     },
     {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 357,
       "user": "nexu-io"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 625,
       "user": "Robbyant"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 620,
       "user": "simonlin1212"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "xiaotianfotos"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 382,
       "user": "lxh77721"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "jiguang132"
     },
     {
@@ -841,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "wassermanproductions"
     },
     {
@@ -885,20 +885,6 @@
       "user": "ninakali"
     },
     {
-      "title": "Interview: Drew DeVault on an AI-free version of Vim",
-      "url": "https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free",
-      "published_at": "2026-07-08T19:43:32.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "person",
-        "vibecoding",
-        "vim"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "runxiyu"
-    },
-    {
       "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
       "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
       "published_at": "2026-07-09T22:51:46.000Z",
@@ -921,20 +907,22 @@
         "AI",
         "Copilot",
         "gpt-5.6",
-        "Microsoft",
-        "OpenAI"
+        "In Brief",
+        "Microsoft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
     },
     {
-      "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI&#8217;s No. 2 role",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "published_at": "2026-07-09T23:38:00.000Z",
       "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
       "tags": [
-        "AI"
+        "AI",
+        "Fidji Simo",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1318,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1776,
+      "stars": 1844,
       "user": "withmarbleapp"
     },
     {
@@ -1333,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1624,
       "user": "Shpigford"
     },
     {
@@ -1348,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 498,
       "user": "oso95"
     },
     {
@@ -1363,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "majidmanzarpour"
     },
     {
@@ -1378,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 357,
       "user": "nexu-io"
     },
     {
@@ -1393,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 620,
       "user": "simonlin1212"
     },
     {
@@ -1408,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "xiaotianfotos"
     },
     {
@@ -1423,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 382,
       "user": "lxh77721"
     },
     {
@@ -1438,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "jiguang132"
     },
     {
@@ -1453,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "wassermanproductions"
     },
     {
@@ -1485,6 +1473,20 @@
       "user": "veqq"
     },
     {
+      "title": "Import a JSON file to JS code, compatible with old and current browsers",
+      "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
+      "published_at": "2026-07-10T09:33:16.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "json",
+        "es6-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nhaggen"
+    },
+    {
       "title": "How can I make the docs js library draw a border when I move a table?",
       "url": "https://stackoverflow.com/questions/79979602/how-can-i-make-the-docs-js-library-draw-a-border-when-i-move-a-table",
       "published_at": "2026-07-10T09:36:38.000Z",
@@ -1499,24 +1501,10 @@
       "user": "dimson d"
     },
     {
-      "title": "Import a JSON file to JS code, compatible with old and current browsers",
-      "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
-      "published_at": "2026-07-10T09:33:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "json",
-        "es6-modules"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nhaggen"
-    },
-    {
       "title": "Why is my website Contact Form Not Functioning?",
       "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
       "published_at": "2026-07-10T05:28:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1541,6 +1529,20 @@
       "user": "eng.ragy"
     },
     {
+      "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
+      "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
+      "published_at": "2026-07-09T22:51:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-cloud-messaging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MARK LUFT"
+    },
+    {
       "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
       "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
       "published_at": "2026-07-10T02:54:24.000Z",
@@ -1556,18 +1558,20 @@
       "user": "MindaMan"
     },
     {
-      "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
-      "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
-      "published_at": "2026-07-09T22:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
-        "firebase",
-        "firebase-cloud-messaging"
+        "reactjs",
+        "express",
+        "axios",
+        "multer"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "MARK LUFT"
+      "user": "bahar betvan"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
@@ -1598,19 +1602,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Furqan"
-    },
-    {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "axios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
     },
     {
       "title": "How do I place this code within description of XMLs' description",
@@ -1850,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3568,
+      "stars": 3670,
       "user": "x4gKing"
     },
     {
@@ -1865,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 668,
       "user": "Robbyant"
     },
     {
@@ -1880,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 625,
       "user": "Robbyant"
     },
     {
@@ -1895,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 609,
       "user": "Robbyant"
     },
     {
@@ -1910,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "nagisanzenin"
     },
     {
@@ -1925,6 +1916,35 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Python class instance not re-instantiated?",
+      "url": "https://stackoverflow.com/questions/79979609/python-class-instance-not-re-instantiated",
+      "published_at": "2026-07-10T10:12:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Duncan"
+    },
+    {
+      "title": "How can I boxplot values that wrap around using matplotlib?",
+      "url": "https://stackoverflow.com/questions/79979626/how-can-i-boxplot-values-that-wrap-around-using-matplotlib",
+      "published_at": "2026-07-10T10:52:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "angle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "M.X"
     },
     {
       "title": "Data Modeling for Relational database, read-only access",
@@ -1944,7 +1964,7 @@
       "title": "TerminateProcess() Windows API call from Python",
       "url": "https://stackoverflow.com/questions/79978486/terminateprocess-windows-api-call-from-python",
       "published_at": "2026-07-09T22:44:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "windows",
@@ -2000,7 +2020,7 @@
       "title": "Command line option with variable number of args with a terminator",
       "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
       "published_at": "2026-07-09T11:06:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "command-line",
@@ -2039,34 +2059,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jas"
-    },
-    {
-      "title": "How do I plot this function for all values of the numpy array?",
-      "url": "https://stackoverflow.com/questions/79978246/how-do-i-plot-this-function-for-all-values-of-the-numpy-array",
-      "published_at": "2026-07-09T10:22:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "numpy",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "samrad Tangestani"
-    },
-    {
-      "title": "How to have transparency working in linux Tkinter?",
-      "url": "https://stackoverflow.com/questions/79978295/how-to-have-transparency-working-in-linux-tkinter",
-      "published_at": "2026-07-09T11:59:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "tkinter",
-        "transparency"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peur Pioche"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2354,7 +2346,7 @@
       "title": "Why is my website Contact Form Not Functioning?",
       "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
       "published_at": "2026-07-10T05:28:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2433,7 +2425,10 @@
       "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
-        "axios"
+        "reactjs",
+        "express",
+        "axios",
+        "multer"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -3263,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1776,
+      "stars": 1844,
       "user": "withmarbleapp"
     },
     {
@@ -3278,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1624,
       "user": "Shpigford"
     },
     {
@@ -3293,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 498,
       "user": "oso95"
     },
     {
@@ -3308,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "majidmanzarpour"
     },
     {
@@ -3323,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 357,
       "user": "nexu-io"
     },
     {
@@ -3338,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3568,
+      "stars": 3670,
       "user": "x4gKing"
     },
     {
@@ -3353,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 668,
       "user": "Robbyant"
     },
     {
@@ -3368,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 625,
       "user": "Robbyant"
     },
     {
@@ -3383,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 609,
       "user": "Robbyant"
     },
     {
@@ -3398,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "nagisanzenin"
     },
     {
@@ -3413,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "programmersd21"
     },
     {
@@ -3488,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 620,
       "user": "simonlin1212"
     },
     {
@@ -3503,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "xiaotianfotos"
     },
     {
@@ -3518,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 382,
       "user": "lxh77721"
     },
     {
@@ -3533,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 356,
       "user": "jiguang132"
     },
     {
@@ -3548,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "wassermanproductions"
     },
     {
@@ -3563,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1301,
+      "stars": 1310,
       "user": "MaximeRivest"
     },
     {
@@ -3578,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 780,
       "user": "514-labs"
     },
     {
@@ -3593,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 732,
       "user": "yynxxxxx"
     },
     {
@@ -3648,8 +3643,8 @@
         "AI",
         "Copilot",
         "gpt-5.6",
-        "Microsoft",
-        "OpenAI"
+        "In Brief",
+        "Microsoft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
