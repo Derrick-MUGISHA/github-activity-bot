@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Guarding the till while autonomous data agents do the digging",
       "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
       "published_at": "2026-07-09T22:24:23Z",
@@ -104,19 +119,6 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
-      "url": "https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j",
-      "published_at": "2026-07-07T17:28:25Z",
-      "description": "In this episode of the Agent Factory, I sat down with Rody Davis, one of Google's top agentic...",
-      "tags": [
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxtoem9pfc064jrfkawx.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Building an Autonomous SRE Agent with Google ADK and the Antigravity SDK",
       "url": "https://dev.to/gde/building-an-autonomous-sre-agent-with-google-adk-and-the-antigravity-sdk-1fgl",
       "published_at": "2026-07-09T16:58:44Z",
@@ -132,6 +134,20 @@
       "user": "Yurii Serhiichuk"
     },
     {
+      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
+      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
+      "published_at": "2026-06-29T16:06:30Z",
+      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
+      "tags": [
+        "aie",
+        "ai",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
       "published_at": "2026-07-07T01:44:15Z",
@@ -145,20 +161,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fmaster-local-fine-tuning-with-gemma-trainer.png",
       "source": "Dev.to",
       "user": "bebechien"
-    },
-    {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "published_at": "2026-06-29T16:06:30Z",
-      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "tags": [
-        "aie",
-        "ai",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -705,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "nexu-io"
     },
     {
@@ -720,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 638,
       "user": "Robbyant"
     },
     {
@@ -765,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 55,
       "user": "GreyGunG"
     },
     {
@@ -780,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "simonlin1212"
     },
     {
@@ -795,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "xiaotianfotos"
     },
     {
@@ -840,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "wassermanproductions"
     },
     {
@@ -898,10 +900,24 @@
       "user": "MARK LUFT"
     },
     {
+      "title": "Do AI can replace a real working employee or not",
+      "url": "https://stackoverflow.com/questions/79979749/do-ai-can-replace-a-real-working-employee-or-not",
+      "published_at": "2026-07-10T18:31:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shiva sai"
+    },
+    {
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -913,16 +929,32 @@
       "user": "nenord"
     },
     {
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "published_at": "2026-07-10T17:42:36.000Z",
+      "description": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "tags": [
+        "Apps",
+        "Fundraising",
+        "Social",
+        "Venture",
+        "fizz"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "published_at": "2026-07-10T17:17:12.000Z",
-      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
       "tags": [
         "AI",
         "Enterprise",
         "Hardware",
         "AI chips",
-        "Artificial Intelligence (AI)"
+        "initial public offering"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -935,10 +967,10 @@
       "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
       "tags": [
         "Apps",
-        "TC",
         "Exclusive",
         "hypertexting",
-        "Mobile"
+        "Mobile",
+        "RSS"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1306,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1982,
+      "stars": 2020,
       "user": "withmarbleapp"
     },
     {
@@ -1321,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1668,
       "user": "Shpigford"
     },
     {
@@ -1336,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 552,
       "user": "oso95"
     },
     {
@@ -1351,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "majidmanzarpour"
     },
     {
@@ -1366,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "nexu-io"
     },
     {
@@ -1381,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "simonlin1212"
     },
     {
@@ -1396,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "xiaotianfotos"
     },
     {
@@ -1441,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "wassermanproductions"
     },
     {
@@ -1841,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3817,
+      "stars": 3874,
       "user": "x4gKing"
     },
     {
@@ -1856,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 681,
       "user": "Robbyant"
     },
     {
@@ -1871,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 638,
       "user": "Robbyant"
     },
     {
@@ -1918,13 +1950,39 @@
       "user": "veqq"
     },
     {
+      "title": "Do AI can replace a real working employee or not",
+      "url": "https://stackoverflow.com/questions/79979749/do-ai-can-replace-a-real-working-employee-or-not",
+      "published_at": "2026-07-10T18:31:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shiva sai"
+    },
+    {
+      "title": "Why Feroxbuster tool is typing all of URLs 403",
+      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
+      "published_at": "2026-07-10T13:21:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "The Godfather of Programming"
+    },
+    {
       "title": "Python \"generate_chk\" function",
       "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
       "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "python-3.x",
         "encryption",
         "server"
       ],
@@ -1936,7 +1994,7 @@
       "title": "Replacing one string inside another but without interfering with a second replace",
       "url": "https://stackoverflow.com/questions/79979652/replacing-one-string-inside-another-but-without-interfering-with-a-second-replac",
       "published_at": "2026-07-10T12:46:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python"
       ],
@@ -1948,7 +2006,7 @@
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -1958,20 +2016,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nenord"
-    },
-    {
-      "title": "Why Feroxbuster tool is typing all of URLs 403",
-      "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
-      "published_at": "2026-07-10T13:21:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Godfather of Programming"
     },
     {
       "title": "How can I boxplot values that wrap around using matplotlib?",
@@ -2045,21 +2089,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Touge128345"
-    },
-    {
-      "title": "Command line option with variable number of args with a terminator",
-      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
-      "published_at": "2026-07-09T11:06:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "command-line",
-        "argparse",
-        "optparse"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2441,10 +2470,10 @@
       "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
       "tags": [
         "Apps",
-        "TC",
         "Exclusive",
         "hypertexting",
-        "Mobile"
+        "Mobile",
+        "RSS"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2708,7 +2737,7 @@
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -2718,6 +2747,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nenord"
+    },
+    {
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "published_at": "2026-07-10T17:42:36.000Z",
+      "description": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "tags": [
+        "Apps",
+        "Fundraising",
+        "Social",
+        "Venture",
+        "fizz"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
@@ -2970,33 +3015,31 @@
       "user": "veqq"
     },
     {
-      "title": "Python \"generate_chk\" function",
-      "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
-      "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "encryption",
-        "server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "y8v"
-    },
-    {
       "title": "Why Feroxbuster tool is typing all of URLs 403",
       "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
       "published_at": "2026-07-10T13:21:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "tooling-recommendation",
         "python",
         "security"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "The Godfather of Programming"
+    },
+    {
+      "title": "Python \"generate_chk\" function",
+      "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
+      "published_at": "2026-07-10T14:12:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "encryption",
+        "server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "y8v"
     },
     {
       "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
@@ -3061,6 +3104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
+    },
+    {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3287,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1982,
+      "stars": 2020,
       "user": "withmarbleapp"
     },
     {
@@ -3302,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1668,
       "user": "Shpigford"
     },
     {
@@ -3317,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 552,
       "user": "oso95"
     },
     {
@@ -3332,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "majidmanzarpour"
     },
     {
@@ -3347,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "nexu-io"
     },
     {
@@ -3362,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3817,
+      "stars": 3874,
       "user": "x4gKing"
     },
     {
@@ -3377,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 681,
       "user": "Robbyant"
     },
     {
@@ -3392,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 638,
       "user": "Robbyant"
     },
     {
@@ -3437,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "programmersd21"
     },
     {
@@ -3482,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "MaximeRivest"
     },
     {
@@ -3497,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 55,
       "user": "GreyGunG"
     },
     {
@@ -3512,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "simonlin1212"
     },
     {
@@ -3527,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "xiaotianfotos"
     },
     {
@@ -3572,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "wassermanproductions"
     },
     {
@@ -3587,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1328,
       "user": "MaximeRivest"
     },
     {
@@ -3602,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 792,
       "user": "514-labs"
     },
     {
@@ -3617,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 747,
       "user": "yynxxxxx"
     },
     {
@@ -3667,9 +3725,8 @@
       "title": "Why Feroxbuster tool is typing all of URLs 403",
       "url": "https://stackoverflow.com/questions/79979660/why-feroxbuster-tool-is-typing-all-of-urls-403",
       "published_at": "2026-07-10T13:21:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "tooling-recommendation",
         "python",
         "security"
       ],
