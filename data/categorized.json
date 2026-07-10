@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Guarding the till while autonomous data agents do the digging",
+      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
+      "published_at": "2026-07-09T22:24:23Z",
+      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
+      "tags": [
+        "agenticarchitect",
+        "antigravity",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
       "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
       "published_at": "2026-07-10T03:33:28Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
       "source": "Dev.to",
       "user": "leslysandra"
-    },
-    {
-      "title": "Guarding the till while autonomous data agents do the digging",
-      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
-      "published_at": "2026-07-09T22:24:23Z",
-      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
-      "tags": [
-        "agenticarchitect",
-        "antigravity",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
     },
     {
       "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
@@ -159,21 +159,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "nexu-io"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 637,
       "user": "Robbyant"
     },
     {
@@ -769,19 +754,19 @@
       "user": "uf-hy"
     },
     {
-      "title": "Mr-In4inci3le/sliver-gui - A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
-      "url": "https://github.com/Mr-In4inci3le/sliver-gui",
-      "published_at": "2026-07-07T15:01:31Z",
-      "description": "A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
+      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "url": "https://github.com/GreyGunG/grokbuild-proxy",
+      "published_at": "2026-07-09T23:28:51Z",
+      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78592816?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "Mr-In4inci3le"
+      "stars": 51,
+      "user": "GreyGunG"
     },
     {
       "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
@@ -795,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 654,
       "user": "simonlin1212"
     },
     {
@@ -810,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "xiaotianfotos"
     },
     {
@@ -825,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "lxh77721"
     },
     {
@@ -840,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "jiguang132"
     },
     {
@@ -855,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "wassermanproductions"
     },
     {
@@ -913,10 +898,73 @@
       "user": "MARK LUFT"
     },
     {
+      "title": "GCP Agent Platform pipelines ModelGetOp issue",
+      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
+      "published_at": "2026-07-10T14:56:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "mlops",
+        "vertex-ai-pipeline"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nenord"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "published_at": "2026-07-10T17:17:12.000Z",
+      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Hardware",
+        "AI chips",
+        "Artificial Intelligence (AI)"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "published_at": "2026-07-10T17:11:51.000Z",
+      "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "tags": [
+        "Apps",
+        "TC",
+        "Exclusive",
+        "hypertexting",
+        "Mobile"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Disney+ is considering a free streaming tier, report says",
+      "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "published_at": "2026-07-10T16:29:05.000Z",
+      "description": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Disney",
+        "Disney Plus",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
       "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
       "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
       "published_at": "2026-07-10T15:00:09.000Z",
-      "description": "The new startup raised $300 million co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+      "description": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
       "tags": [
         "Fundraising",
         "Startups",
@@ -974,68 +1022,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "published_at": "2026-07-10T00:16:54.000Z",
-      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "tags": [
-        "AI",
-        "Copilot",
-        "gpt-5.6",
-        "In Brief",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI&#8217;s No. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "published_at": "2026-07-09T23:38:00.000Z",
-      "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "tags": [
-        "AI",
-        "Fidji Simo",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "published_at": "2026-07-09T22:24:24.000Z",
-      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "gpt-5.6",
-        "OpenAI",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "published_at": "2026-07-09T22:08:58.000Z",
-      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "ai agent",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1320,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1916,
+      "stars": 1982,
       "user": "withmarbleapp"
     },
     {
@@ -1335,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1654,
       "user": "Shpigford"
     },
     {
@@ -1350,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 538,
       "user": "oso95"
     },
     {
@@ -1365,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "majidmanzarpour"
     },
     {
@@ -1380,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "nexu-io"
     },
     {
@@ -1395,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 654,
       "user": "simonlin1212"
     },
     {
@@ -1410,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "xiaotianfotos"
     },
     {
@@ -1425,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "lxh77721"
     },
     {
@@ -1440,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "jiguang132"
     },
     {
@@ -1455,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "wassermanproductions"
     },
     {
@@ -1557,6 +1543,20 @@
       "user": "eng.ragy"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 20 answers · score 13",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
       "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
       "published_at": "2026-07-09T22:51:46.000Z",
@@ -1602,29 +1602,14 @@
       "user": "bahar betvan"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 20 answers · score 12",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
       "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
       "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "best-practices",
         "javascript",
         "reactjs",
-        "typescript",
         "react-hook-form"
       ],
       "cover_image": null,
@@ -1856,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3759,
+      "stars": 3817,
       "user": "x4gKing"
     },
     {
@@ -1871,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 680,
       "user": "Robbyant"
     },
     {
@@ -1886,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 637,
       "user": "Robbyant"
     },
     {
@@ -1901,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "Robbyant"
     },
     {
@@ -1936,7 +1921,7 @@
       "title": "Python \"generate_chk\" function",
       "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
       "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -1958,6 +1943,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "GCP Agent Platform pipelines ModelGetOp issue",
+      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
+      "published_at": "2026-07-10T14:56:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "mlops",
+        "vertex-ai-pipeline"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nenord"
     },
     {
       "title": "Why Feroxbuster tool is typing all of URLs 403",
@@ -2045,19 +2045,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Touge128345"
-    },
-    {
-      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
-      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
-      "published_at": "2026-07-09T06:56:42.000Z",
-      "description": "Stack Overflow question · 6 answers · score 1",
-      "tags": [
-        "python",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32880109"
     },
     {
       "title": "Command line option with variable number of args with a terminator",
@@ -2372,6 +2359,20 @@
       "user": "user30865975"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 20 answers · score 13",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
       "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
       "published_at": "2026-07-10T02:54:24.000Z",
@@ -2385,20 +2386,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MindaMan"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 20 answers · score 12",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -2446,6 +2433,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bahar betvan"
+    },
+    {
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "published_at": "2026-07-10T17:11:51.000Z",
+      "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "tags": [
+        "Apps",
+        "TC",
+        "Exclusive",
+        "hypertexting",
+        "Mobile"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
@@ -2702,6 +2705,21 @@
       "user": "MARK LUFT"
     },
     {
+      "title": "GCP Agent Platform pipelines ModelGetOp issue",
+      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
+      "published_at": "2026-07-10T14:56:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "mlops",
+        "vertex-ai-pipeline"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nenord"
+    },
+    {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
       "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
       "published_at": "2026-07-09T16:41:35.000Z",
@@ -2955,7 +2973,7 @@
       "title": "Python \"generate_chk\" function",
       "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
       "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -2994,22 +3012,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "published_at": "2026-07-09T22:24:24.000Z",
-      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "gpt-5.6",
-        "OpenAI",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
@@ -3061,21 +3063,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3091,19 +3078,19 @@
       "user": "Web Developer Hyper"
     },
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "published_at": "2026-07-06T15:50:31Z",
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
       "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
+        "discuss",
+        "career",
+        "productivity",
+        "mentalhealth"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
-      "user": "Rizèl Scarlett"
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -3300,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1916,
+      "stars": 1982,
       "user": "withmarbleapp"
     },
     {
@@ -3315,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1654,
       "user": "Shpigford"
     },
     {
@@ -3330,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 538,
       "user": "oso95"
     },
     {
@@ -3345,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "majidmanzarpour"
     },
     {
@@ -3360,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "nexu-io"
     },
     {
@@ -3375,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3759,
+      "stars": 3817,
       "user": "x4gKing"
     },
     {
@@ -3390,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 680,
       "user": "Robbyant"
     },
     {
@@ -3405,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 637,
       "user": "Robbyant"
     },
     {
@@ -3420,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "Robbyant"
     },
     {
@@ -3499,19 +3486,19 @@
       "user": "MaximeRivest"
     },
     {
-      "title": "Mr-In4inci3le/sliver-gui - A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
-      "url": "https://github.com/Mr-In4inci3le/sliver-gui",
-      "published_at": "2026-07-07T15:01:31Z",
-      "description": "A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
+      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "url": "https://github.com/GreyGunG/grokbuild-proxy",
+      "published_at": "2026-07-09T23:28:51Z",
+      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78592816?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "Mr-In4inci3le"
+      "stars": 51,
+      "user": "GreyGunG"
     },
     {
       "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
@@ -3525,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 654,
       "user": "simonlin1212"
     },
     {
@@ -3540,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "xiaotianfotos"
     },
     {
@@ -3555,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "lxh77721"
     },
     {
@@ -3570,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "jiguang132"
     },
     {
@@ -3585,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "wassermanproductions"
     },
     {
@@ -3600,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1319,
+      "stars": 1326,
       "user": "MaximeRivest"
     },
     {
@@ -3615,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 791,
       "user": "514-labs"
     },
     {
@@ -3630,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 745,
       "user": "yynxxxxx"
     },
     {
@@ -3705,22 +3692,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "published_at": "2026-07-10T00:16:54.000Z",
-      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "tags": [
-        "AI",
-        "Copilot",
-        "gpt-5.6",
-        "In Brief",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
