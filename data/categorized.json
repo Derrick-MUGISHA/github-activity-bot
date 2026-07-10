@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "nexu-io"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "GreyGunG"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 660,
       "user": "simonlin1212"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 406,
       "user": "xiaotianfotos"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "wassermanproductions"
     },
     {
@@ -913,6 +913,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nenord"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published_at": "2026-07-10T21:00:29.000Z",
+      "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "Apple",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
@@ -1025,21 +1041,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "published_at": "2026-07-10T14:11:03.000Z",
-      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "ransomware",
-        "extortion"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1309,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2069,
       "user": "withmarbleapp"
     },
     {
@@ -1324,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1675,
+      "stars": 1682,
       "user": "Shpigford"
     },
     {
@@ -1339,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 575,
       "user": "oso95"
     },
     {
@@ -1369,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "nexu-io"
     },
     {
@@ -1384,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 660,
       "user": "simonlin1212"
     },
     {
@@ -1399,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 406,
       "user": "xiaotianfotos"
     },
     {
@@ -1444,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "wassermanproductions"
     },
     {
@@ -1479,10 +1480,10 @@
       "title": "React sourcemap warns it can't find components in nested directories",
       "url": "https://stackoverflow.com/questions/79979739/react-sourcemap-warns-it-cant-find-components-in-nested-directories",
       "published_at": "2026-07-10T17:52:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "best-practices",
         "javascript",
+        "webpack-dev-server",
         "source-maps"
       ],
       "cover_image": null,
@@ -1562,18 +1563,6 @@
       "user": "user30865975"
     },
     {
-      "title": "javascript importing with absolute path",
-      "url": "https://stackoverflow.com/questions/79979531/javascript-importing-with-absolute-path",
-      "published_at": "2026-07-10T04:47:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eng.ragy"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1586,6 +1575,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "javascript importing with absolute path",
+      "url": "https://stackoverflow.com/questions/79979531/javascript-importing-with-absolute-path",
+      "published_at": "2026-07-10T04:47:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eng.ragy"
     },
     {
       "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
@@ -1602,19 +1603,32 @@
       "user": "MARK LUFT"
     },
     {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
+      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
+      "published_at": "2026-07-09T07:47:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
+        "best-practices",
         "javascript",
-        "html",
-        "css",
-        "z-index"
+        "reactjs",
+        "react-hook-form"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "MindaMan"
+      "user": "Furqan"
+    },
+    {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 15 answers · score 2",
+      "tags": [
+        "python",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1856,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3927,
+      "stars": 3958,
       "user": "x4gKing"
     },
     {
@@ -1871,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 687,
       "user": "Robbyant"
     },
     {
@@ -1916,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 492,
       "user": "nagisanzenin"
     },
     {
@@ -1931,6 +1945,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Struck to how to learn coding",
+      "url": "https://stackoverflow.com/questions/79979768/struck-to-how-to-learn-coding",
+      "published_at": "2026-07-10T20:15:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shiva sai"
     },
     {
       "title": "Why Feroxbuster tool is typing all of URLs 403",
@@ -2032,6 +2059,19 @@
       "user": "WatcherOfAll"
     },
     {
+      "title": "Understanding json()",
+      "url": "https://stackoverflow.com/questions/79976681/understanding-json",
+      "published_at": "2026-07-08T01:00:11.000Z",
+      "description": "Stack Overflow question · 15 answers · score 2",
+      "tags": [
+        "python",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32917238"
+    },
+    {
       "title": "How do I use this __something__ and what does it do?",
       "url": "https://stackoverflow.com/questions/79977951/how-do-i-use-this-something-and-what-does-it-do",
       "published_at": "2026-07-08T15:47:00.000Z",
@@ -2042,37 +2082,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
-    },
-    {
-      "title": "Race condition between events in an EDA system",
-      "url": "https://stackoverflow.com/questions/79978472/race-condition-between-events-in-an-eda-system",
-      "published_at": "2026-07-09T20:50:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "architecture",
-        "rabbitmq",
-        "race-condition",
-        "eda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Touge128345"
-    },
-    {
-      "title": "Command line option with variable number of args with a terminator",
-      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
-      "published_at": "2026-07-09T11:06:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "command-line",
-        "argparse",
-        "optparse"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2399,21 +2408,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "z-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MindaMan"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -3057,21 +3051,6 @@
       "user": "y8v"
     },
     {
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "published_at": "2026-07-10T14:11:03.000Z",
-      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "ransomware",
-        "extortion"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
       "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
       "published_at": "2026-07-09T16:41:35.000Z",
@@ -3347,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2069,
       "user": "withmarbleapp"
     },
     {
@@ -3362,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1675,
+      "stars": 1682,
       "user": "Shpigford"
     },
     {
@@ -3377,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 575,
       "user": "oso95"
     },
     {
@@ -3407,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "nexu-io"
     },
     {
@@ -3422,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3927,
+      "stars": 3958,
       "user": "x4gKing"
     },
     {
@@ -3437,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 687,
       "user": "Robbyant"
     },
     {
@@ -3482,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 492,
       "user": "nagisanzenin"
     },
     {
@@ -3542,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "GreyGunG"
     },
     {
@@ -3572,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 660,
       "user": "simonlin1212"
     },
     {
@@ -3587,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 406,
       "user": "xiaotianfotos"
     },
     {
@@ -3632,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "wassermanproductions"
     },
     {
@@ -3647,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1336,
       "user": "MaximeRivest"
     },
     {
@@ -3677,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "yynxxxxx"
     },
     {
