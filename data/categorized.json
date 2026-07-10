@@ -45,21 +45,6 @@
       "user": "Andrew Bone"
     },
     {
-      "title": "Building an Autonomous SRE Agent with Google ADK and the Antigravity SDK",
-      "url": "https://dev.to/gde/building-an-autonomous-sre-agent-with-google-adk-and-the-antigravity-sdk-1fgl",
-      "published_at": "2026-07-09T16:58:44Z",
-      "description": "One of the most stressful parts of being an on-call engineer is triaging a production incident in the...",
-      "tags": [
-        "ai",
-        "agents",
-        "sre",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2tb4o4x0dzr3dudvzsox.png",
-      "source": "Dev.to",
-      "user": "Yurii Serhiichuk"
-    },
-    {
       "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
       "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
       "published_at": "2026-07-08T10:23:41Z",
@@ -118,18 +103,19 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "I Contain Multitudes (and Also Three Git Repos)",
-      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
-      "published_at": "2026-07-06T01:17:28Z",
-      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.",
+      "title": "Building an Autonomous SRE Agent with Google ADK and the Antigravity SDK",
+      "url": "https://dev.to/gde/building-an-autonomous-sre-agent-with-google-adk-and-the-antigravity-sdk-1fgl",
+      "published_at": "2026-07-09T16:58:44Z",
+      "description": "One of the most stressful parts of being an on-call engineer is triaging a production incident in the...",
       "tags": [
-        "astro",
-        "webdev",
-        "showdev"
+        "ai",
+        "agents",
+        "sre",
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2tb4o4x0dzr3dudvzsox.png",
       "source": "Dev.to",
-      "user": "Matty Stratton"
+      "user": "Yurii Serhiichuk"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -263,6 +249,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
     },
     {
       "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
@@ -705,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "nexu-io"
     },
     {
@@ -720,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 597,
       "user": "Robbyant"
     },
     {
@@ -735,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "olemeyer"
     },
     {
@@ -780,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 600,
       "user": "simonlin1212"
     },
     {
@@ -795,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 378,
       "user": "lxh77721"
     },
     {
@@ -810,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 376,
       "user": "xiaotianfotos"
     },
     {
@@ -825,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 342,
       "user": "jiguang132"
     },
     {
@@ -840,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 250,
       "user": "wassermanproductions"
     },
     {
@@ -910,22 +911,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MARK LUFT"
-    },
-    {
-      "title": "the usefulness of await on my async login method",
-      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
-      "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 10 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "bcrypt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Reda ait"
     },
     {
       "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
@@ -1322,21 +1307,6 @@
       "user": "velmu"
     },
     {
-      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "url": "https://github.com/Shpigford/knockoff",
-      "published_at": "2026-07-06T15:06:06Z",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
-      "source": "GitHub",
-      "stars": 1571,
-      "user": "Shpigford"
-    },
-    {
       "title": "withmarbleapp/os-taxonomy - GitHub Repository",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "published_at": "2026-07-08T09:27:48Z",
@@ -1348,8 +1318,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1446,
+      "stars": 1629,
       "user": "withmarbleapp"
+    },
+    {
+      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "url": "https://github.com/Shpigford/knockoff",
+      "published_at": "2026-07-06T15:06:06Z",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
+      "source": "GitHub",
+      "stars": 1585,
+      "user": "Shpigford"
     },
     {
       "title": "oso95/scroll-world - A skill that turn any brand into a scrollable 3D world",
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 467,
       "user": "oso95"
     },
     {
@@ -1378,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "majidmanzarpour"
     },
     {
@@ -1393,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "nexu-io"
     },
     {
@@ -1408,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 600,
       "user": "simonlin1212"
     },
     {
@@ -1423,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 378,
       "user": "lxh77721"
     },
     {
@@ -1438,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 376,
       "user": "xiaotianfotos"
     },
     {
@@ -1453,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 342,
       "user": "jiguang132"
     },
     {
@@ -1468,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 250,
       "user": "wassermanproductions"
     },
     {
@@ -1483,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "lucid-softworks"
     },
     {
@@ -1513,6 +1498,49 @@
       "user": "evert"
     },
     {
+      "title": "Why is my website Contact Form Not Functioning?",
+      "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
+      "published_at": "2026-07-10T05:28:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "bootstrap-5",
+        "contact-form"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user30865975"
+    },
+    {
+      "title": "javascript importing with absolute path",
+      "url": "https://stackoverflow.com/questions/79979531/javascript-importing-with-absolute-path",
+      "published_at": "2026-07-10T04:47:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eng.ragy"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
+    },
+    {
       "title": "FCM getToken() fails with 401 Unauthorized on fcmregistrations.googleapis.com (messaging/token-subscribe-failed)",
       "url": "https://stackoverflow.com/questions/79978487/fcm-gettoken-fails-with-401-unauthorized-on-fcmregistrations-googleapis-com-m",
       "published_at": "2026-07-09T22:51:46.000Z",
@@ -1527,19 +1555,6 @@
       "user": "MARK LUFT"
     },
     {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "axios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1552,6 +1567,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "axios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bahar betvan"
     },
     {
       "title": "How do I place this code within description of XMLs' description",
@@ -1609,51 +1637,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Claus Svalekj&#230;r"
-    },
-    {
-      "title": "project cover is not removing itself / returning to genre default after removal",
-      "url": "https://stackoverflow.com/questions/79977897/project-cover-is-not-removing-itself-returning-to-genre-default-after-removal",
-      "published_at": "2026-07-08T13:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "wordpress"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VineHallow Crookshanks"
-    },
-    {
-      "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
-      "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
-      "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "performance-testing",
-        "browser-cache",
-        "indexeddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Valere"
-    },
-    {
-      "title": "the usefulness of await on my async login method",
-      "url": "https://stackoverflow.com/questions/79972826/the-usefulness-of-await-on-my-async-login-method",
-      "published_at": "2026-07-03T00:56:33.000Z",
-      "description": "Stack Overflow question · 10 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "bcrypt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Reda ait"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1895,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3409,
+      "stars": 3443,
       "user": "x4gKing"
     },
     {
@@ -1910,22 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 585,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
-      "url": "https://github.com/Robbyant/lingbot-vision",
-      "published_at": "2026-07-06T14:09:42Z",
-      "description": "Self-supervised learning for spatial perception",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 582,
+      "stars": 626,
       "user": "Robbyant"
     },
     {
@@ -1940,7 +1908,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 597,
+      "user": "Robbyant"
+    },
+    {
+      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "published_at": "2026-07-06T14:09:42Z",
+      "description": "Self-supervised learning for spatial perception",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 592,
       "user": "Robbyant"
     },
     {
@@ -1955,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "nagisanzenin"
     },
     {
@@ -1970,6 +1953,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Python: Data Modeling for Relational database, read-only access",
+      "url": "https://stackoverflow.com/questions/79979542/python-data-modeling-for-relational-database-read-only-access",
+      "published_at": "2026-07-10T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "best-practices",
+        "python",
+        "relational-database"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "beginner_"
     },
     {
       "title": "TerminateProcess() Windows API call from Python",
@@ -1990,7 +1987,7 @@
       "title": "Race condition between events in an EDA system",
       "url": "https://stackoverflow.com/questions/79978472/race-condition-between-events-in-an-eda-system",
       "published_at": "2026-07-09T20:50:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "architecture",
@@ -2098,21 +2095,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32917238"
-    },
-    {
-      "title": "Is there a way to change the colours of sns.boxplot's boxes according to their mean values?",
-      "url": "https://stackoverflow.com/questions/79978029/is-there-a-way-to-change-the-colours-of-sns-boxplots-boxes-according-to-their-m",
-      "published_at": "2026-07-08T20:40:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "seaborn",
-        "boxplot",
-        "colormap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shrympe"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2323,7 +2305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "olemeyer"
     },
     {
@@ -2395,6 +2377,37 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Why is my website Contact Form Not Functioning?",
+      "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
+      "published_at": "2026-07-10T05:28:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "bootstrap-5",
+        "contact-form"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user30865975"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
@@ -2783,6 +2796,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Python: Data Modeling for Relational database, read-only access",
+      "url": "https://stackoverflow.com/questions/79979542/python-data-modeling-for-relational-database-read-only-access",
+      "published_at": "2026-07-10T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "best-practices",
+        "python",
+        "relational-database"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "beginner_"
     }
   ],
   "Security": [
@@ -3069,20 +3096,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "I Contain Multitudes (and Also Three Git Repos)",
-      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf",
-      "published_at": "2026-07-06T01:17:28Z",
-      "description": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.to sync tool, twenty years of blog posts, and the pipeline that crossposts posts like this one.",
-      "tags": [
-        "astro",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmattstratton%2Fmattstratton-web%2Fmaster%2Fmattstratton-dev-to%2Fposts%2Fassets%2Fmattstratton-com-stack-cover.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "A New Developer Platform for Agent-Human Collaboration",
       "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
       "published_at": "2026-07-08T14:49:51Z",
@@ -3111,6 +3124,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvy1gz4lkjmray9qhre6.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -3296,21 +3324,6 @@
       "user": "pabs3"
     },
     {
-      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "url": "https://github.com/Shpigford/knockoff",
-      "published_at": "2026-07-06T15:06:06Z",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
-      "source": "GitHub",
-      "stars": 1571,
-      "user": "Shpigford"
-    },
-    {
       "title": "withmarbleapp/os-taxonomy - GitHub Repository",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "published_at": "2026-07-08T09:27:48Z",
@@ -3322,8 +3335,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 1446,
+      "stars": 1629,
       "user": "withmarbleapp"
+    },
+    {
+      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "url": "https://github.com/Shpigford/knockoff",
+      "published_at": "2026-07-06T15:06:06Z",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
+      "source": "GitHub",
+      "stars": 1585,
+      "user": "Shpigford"
     },
     {
       "title": "oso95/scroll-world - A skill that turn any brand into a scrollable 3D world",
@@ -3337,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 467,
       "user": "oso95"
     },
     {
@@ -3352,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "majidmanzarpour"
     },
     {
@@ -3367,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "nexu-io"
     },
     {
@@ -3382,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 3409,
+      "stars": 3443,
       "user": "x4gKing"
     },
     {
@@ -3397,22 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 585,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
-      "url": "https://github.com/Robbyant/lingbot-vision",
-      "published_at": "2026-07-06T14:09:42Z",
-      "description": "Self-supervised learning for spatial perception",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 582,
+      "stars": 626,
       "user": "Robbyant"
     },
     {
@@ -3427,7 +3440,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 597,
+      "user": "Robbyant"
+    },
+    {
+      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "published_at": "2026-07-06T14:09:42Z",
+      "description": "Self-supervised learning for spatial perception",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 592,
       "user": "Robbyant"
     },
     {
@@ -3442,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "nagisanzenin"
     },
     {
@@ -3457,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "programmersd21"
     },
     {
@@ -3472,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "olemeyer"
     },
     {
@@ -3502,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "MaximeRivest"
     },
     {
@@ -3532,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 600,
       "user": "simonlin1212"
     },
     {
@@ -3547,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 378,
       "user": "lxh77721"
     },
     {
@@ -3562,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 376,
       "user": "xiaotianfotos"
     },
     {
@@ -3577,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 342,
       "user": "jiguang132"
     },
     {
@@ -3592,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 250,
       "user": "wassermanproductions"
     },
     {
@@ -3607,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1293,
       "user": "MaximeRivest"
     },
     {
@@ -3622,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 776,
       "user": "514-labs"
     },
     {
@@ -3637,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 716,
       "user": "yynxxxxx"
     },
     {
@@ -3667,7 +3695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "lucid-softworks"
     },
     {
@@ -3682,22 +3710,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "How to programmatically clear browser/OS disk cache affecting client-side storage operation latency measurements?",
-      "url": "https://stackoverflow.com/questions/79976572/how-to-programmatically-clear-browser-os-disk-cache-affecting-client-side-storag",
-      "published_at": "2026-07-07T17:08:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "performance-testing",
-        "browser-cache",
-        "indexeddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Valere"
     },
     {
       "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
