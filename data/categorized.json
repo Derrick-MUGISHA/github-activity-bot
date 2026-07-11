@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Guarding the till while autonomous data agents do the digging",
       "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
       "published_at": "2026-07-09T22:24:23Z",
@@ -43,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
       "source": "Dev.to",
       "user": "leslysandra"
+    },
+    {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 367,
       "user": "nexu-io"
     },
     {
@@ -737,8 +737,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "olemeyer"
+    },
+    {
+      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "url": "https://github.com/GreyGunG/grokbuild-proxy",
+      "published_at": "2026-07-09T23:28:51Z",
+      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
+      "source": "GitHub",
+      "stars": 66,
+      "user": "GreyGunG"
     },
     {
       "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
@@ -756,19 +771,19 @@
       "user": "uf-hy"
     },
     {
-      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "url": "https://github.com/GreyGunG/grokbuild-proxy",
-      "published_at": "2026-07-09T23:28:51Z",
-      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "title": "Mr-In4inci3le/sliver-gui - A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
+      "url": "https://github.com/Mr-In4inci3le/sliver-gui",
+      "published_at": "2026-07-07T15:01:31Z",
+      "description": "A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78592816?v=4",
       "source": "GitHub",
-      "stars": 61,
-      "user": "GreyGunG"
+      "stars": 49,
+      "user": "Mr-In4inci3le"
     },
     {
       "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
@@ -782,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 671,
       "user": "simonlin1212"
     },
     {
@@ -797,23 +812,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 414,
       "user": "xiaotianfotos"
-    },
-    {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "lxh77721"
     },
     {
       "title": "jiguang132/storyai-3d-director-desk - A browser-based 3D director desk demo built with React, Vite, and Three.js.",
@@ -842,8 +842,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "wassermanproductions"
+    },
+    {
+      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "published_at": "2026-07-08T06:06:31Z",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "bkingfilm"
     },
     {
       "title": "avifenesh/bw24 - From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
@@ -859,6 +874,21 @@
       "source": "GitHub",
       "stars": 259,
       "user": "avifenesh"
+    },
+    {
+      "title": "HaochengLu/contextvc - Git-native context control plane for AI coding agents",
+      "url": "https://github.com/HaochengLu/contextvc",
+      "published_at": "2026-07-05T14:06:39Z",
+      "description": "Git-native context control plane for AI coding agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268841012?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "HaochengLu"
     },
     {
       "title": "Lobsters Interview with mitchellh",
@@ -901,16 +931,46 @@
       "user": "nenord"
     },
     {
+      "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published_at": "2026-07-11T01:01:28.000Z",
+      "description": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "tags": [
+        "Security",
+        "CISA",
+        "cybersecurity",
+        "us government"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published_at": "2026-07-10T23:55:07.000Z",
+      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "tags": [
+        "AI",
+        "Instagram",
+        "Meta",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "published_at": "2026-07-10T21:00:29.000Z",
-      "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "tags": [
         "AI",
         "Apps",
-        "TC",
         "Apple",
-        "OpenAI"
+        "OpenAI",
+        "trade secret theft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -979,38 +1039,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-      "published_at": "2026-07-10T15:00:09.000Z",
-      "description": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Arch Venture Partners",
-        "deep tech",
-        "Khosla Ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Netflix could be planning ‘always-on’ live TV channels",
-      "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
-      "published_at": "2026-07-10T14:53:08.000Z",
-      "description": "Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
-      "tags": [
-        "Media & Entertainment",
-        "In Brief",
-        "live tv",
-        "Netflix",
-        "streaming"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1280,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2101,
+      "stars": 2131,
       "user": "withmarbleapp"
     },
     {
@@ -1295,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1704,
       "user": "Shpigford"
     },
     {
@@ -1310,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 621,
       "user": "oso95"
     },
     {
@@ -1340,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 367,
       "user": "nexu-io"
     },
     {
@@ -1355,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 671,
       "user": "simonlin1212"
     },
     {
@@ -1370,23 +1398,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 414,
       "user": "xiaotianfotos"
-    },
-    {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "lxh77721"
     },
     {
       "title": "jiguang132/storyai-3d-director-desk - A browser-based 3D director desk demo built with React, Vite, and Three.js.",
@@ -1415,8 +1428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "wassermanproductions"
+    },
+    {
+      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "published_at": "2026-07-08T06:06:31Z",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "bkingfilm"
     },
     {
       "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
@@ -1450,7 +1478,7 @@
       "title": "Best practice for using Cloudflare workers to serve images from R2",
       "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
       "published_at": "2026-07-10T20:55:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1519,10 +1547,24 @@
       "user": "nhaggen"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 20 answers · score 13",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
       "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
       "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -1546,20 +1588,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dimson d"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 20 answers · score 13",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "Why is my website Contact Form Not Functioning?",
@@ -1831,21 +1859,6 @@
       "user": "arathore"
     },
     {
-      "title": "x4gKing/X4G - GitHub Repository",
-      "url": "https://github.com/x4gKing/X4G",
-      "published_at": "2026-07-04T06:43:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 4016,
-      "user": "x4gKing"
-    },
-    {
       "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
       "url": "https://github.com/Robbyant/lingbot-world-v2",
       "published_at": "2026-07-08T09:24:50Z",
@@ -1857,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 700,
       "user": "Robbyant"
     },
     {
@@ -1887,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "Robbyant"
     },
     {
@@ -1902,8 +1915,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "nagisanzenin"
+    },
+    {
+      "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2",
+      "published_at": "2026-07-07T16:48:56Z",
+      "description": "From Foundation to Application",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 428,
+      "user": "Robbyant"
     },
     {
       "title": "Lobsters Interview with mitchellh",
@@ -1977,7 +2005,7 @@
       "title": "Replacing one string inside another but without interfering with a second replace",
       "url": "https://stackoverflow.com/questions/79979652/replacing-one-string-inside-another-but-without-interfering-with-a-second-replac",
       "published_at": "2026-07-10T12:46:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python"
       ],
@@ -2019,7 +2047,7 @@
       "title": "TerminateProcess() Windows API call from Python",
       "url": "https://stackoverflow.com/questions/79978486/terminateprocess-windows-api-call-from-python",
       "published_at": "2026-07-09T22:44:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "windows",
@@ -2279,7 +2307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "olemeyer"
     },
     {
@@ -2367,21 +2395,6 @@
       "user": "Gary Dale"
     },
     {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "z-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MindaMan"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -2394,6 +2407,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "Why is my website Contact Form Not Functioning?",
@@ -2734,7 +2762,7 @@
       "title": "Best practice for using Cloudflare workers to serve images from R2",
       "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
       "published_at": "2026-07-10T20:55:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "javascript",
@@ -3055,6 +3083,21 @@
       "user": "y8v"
     },
     {
+      "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published_at": "2026-07-11T01:01:28.000Z",
+      "description": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "tags": [
+        "Security",
+        "CISA",
+        "cybersecurity",
+        "us government"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
       "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
       "published_at": "2026-07-09T16:41:35.000Z",
@@ -3330,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2101,
+      "stars": 2131,
       "user": "withmarbleapp"
     },
     {
@@ -3345,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1704,
       "user": "Shpigford"
     },
     {
@@ -3360,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 621,
       "user": "oso95"
     },
     {
@@ -3390,23 +3433,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 367,
       "user": "nexu-io"
-    },
-    {
-      "title": "x4gKing/X4G - GitHub Repository",
-      "url": "https://github.com/x4gKing/X4G",
-      "published_at": "2026-07-04T06:43:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 4016,
-      "user": "x4gKing"
     },
     {
       "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
@@ -3420,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 700,
       "user": "Robbyant"
     },
     {
@@ -3450,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "Robbyant"
     },
     {
@@ -3465,23 +3493,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "nagisanzenin"
     },
     {
-      "title": "programmersd21/flow - 🌊 see your network breathe",
-      "url": "https://github.com/programmersd21/flow",
-      "published_at": "2026-07-04T10:09:41Z",
-      "description": "🌊 see your network breathe",
+      "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2",
+      "published_at": "2026-07-07T16:48:56Z",
+      "description": "From Foundation to Application",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 212,
-      "user": "programmersd21"
+      "stars": 428,
+      "user": "Robbyant"
     },
     {
       "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
@@ -3495,8 +3523,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "olemeyer"
+    },
+    {
+      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "url": "https://github.com/GreyGunG/grokbuild-proxy",
+      "published_at": "2026-07-09T23:28:51Z",
+      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
+      "source": "GitHub",
+      "stars": 66,
+      "user": "GreyGunG"
     },
     {
       "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
@@ -3514,21 +3557,6 @@
       "user": "uf-hy"
     },
     {
-      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "url": "https://github.com/GreyGunG/grokbuild-proxy",
-      "published_at": "2026-07-09T23:28:51Z",
-      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
-      "source": "GitHub",
-      "stars": 61,
-      "user": "GreyGunG"
-    },
-    {
       "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
       "url": "https://github.com/MaximeRivest/remagic",
       "published_at": "2026-07-05T18:32:02Z",
@@ -3540,8 +3568,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "MaximeRivest"
+    },
+    {
+      "title": "Mr-In4inci3le/sliver-gui - A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
+      "url": "https://github.com/Mr-In4inci3le/sliver-gui",
+      "published_at": "2026-07-07T15:01:31Z",
+      "description": "A desktop operator console for Sliver C2, built with Wails. Provides a native, lightweight GUI interface for Sliver by directly interfacing with its gRPC service no proxies or protocol reimplementations required.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78592816?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "Mr-In4inci3le"
     },
     {
       "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
@@ -3555,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 671,
       "user": "simonlin1212"
     },
     {
@@ -3570,23 +3613,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 414,
       "user": "xiaotianfotos"
-    },
-    {
-      "title": "lxh77721/k12-reg - 多线程全自动注册free 强上K12空间 gmail版",
-      "url": "https://github.com/lxh77721/k12-reg",
-      "published_at": "2026-07-04T01:47:38Z",
-      "description": "多线程全自动注册free 强上K12空间 gmail版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57002321?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "lxh77721"
     },
     {
       "title": "jiguang132/storyai-3d-director-desk - A browser-based 3D director desk demo built with React, Vite, and Three.js.",
@@ -3615,8 +3643,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "wassermanproductions"
+    },
+    {
+      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "published_at": "2026-07-08T06:06:31Z",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "bkingfilm"
     },
     {
       "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
@@ -3649,21 +3692,6 @@
       "user": "514-labs"
     },
     {
-      "title": "yynxxxxx/Codex-X - Codex Switch & Instruct desktop manager",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "published_at": "2026-07-04T03:28:35Z",
-      "description": "Codex Switch & Instruct desktop manager",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139136586?v=4",
-      "source": "GitHub",
-      "stars": 753,
-      "user": "yynxxxxx"
-    },
-    {
       "title": "avifenesh/bw24 - From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
       "url": "https://github.com/avifenesh/bw24",
       "published_at": "2026-07-05T20:45:33Z",
@@ -3694,6 +3722,21 @@
       "user": "lucid-softworks"
     },
     {
+      "title": "HaochengLu/contextvc - Git-native context control plane for AI coding agents",
+      "url": "https://github.com/HaochengLu/contextvc",
+      "published_at": "2026-07-05T14:06:39Z",
+      "description": "Git-native context control plane for AI coding agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268841012?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "HaochengLu"
+    },
+    {
       "title": "Lobsters Interview with mitchellh",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
       "published_at": "2026-07-09T10:41:15.000-05:00",
@@ -3705,6 +3748,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published_at": "2026-07-10T23:55:07.000Z",
+      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "tags": [
+        "AI",
+        "Instagram",
+        "Meta",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
