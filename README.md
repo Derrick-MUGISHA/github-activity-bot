@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-11 12:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-11 13:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle) | Dev.to |
 | 20 | [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5) | Dev.to |
 
-<sub>Last fetched: Sat, 11 Jul 2026 12:07:43 CAT</sub>
+<sub>Last fetched: Sat, 11 Jul 2026 13:20:44 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**1. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Sliding window, hash map, two pointers
 
 </details>
 
-**2. `Java` — What are Java Streams and how do they work?**
+**2. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Sliding window, hash map, two pointers
 
 </details>
 
-**3. `SystemDesign` — How would you design a rate limiter?**
+**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -164,7 +164,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 80 | 43.7% | `████████████████████` |
+| **AI** | 79 | 43.2% | `████████████████████` |
 | **Tools** | 48 | 26.2% | `████████████░░░░░░░░` |
 | **JavaScript** | 35 | 19.1% | `█████████░░░░░░░░░░░` |
 | **Python** | 34 | 18.6% | `█████████░░░░░░░░░░░` |
@@ -194,14 +194,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 23.6%
-Python          █████████████████████████████ 23.0%
-Go              ████████████████████████████ 22.3%
-Java            █████████████████████████ 19.6%
-Rust            ████████ 6.1%
+JavaScript      ██████████████████████████████ 23.5%
+Python          █████████████████████████████ 22.8%
+Go              █████████████████████████████ 22.8%
+Java            █████████████████████████ 19.5%
+Rust            ████████ 6.0%
 Swift           ███ 2.0%
-Kotlin          ██ 1.4%
-PHP             ██ 1.4%
+Kotlin          ██ 1.3%
+PHP             ██ 1.3%
 Ruby            █ 0.7%
 
 ```
@@ -210,7 +210,7 @@ Ruby            █ 0.7%
 pie title Programming Languages Distribution
     "JavaScript" : 35
     "Python" : 34
-    "Go" : 33
+    "Go" : 34
     "Java" : 29
     "Rust" : 9
     "Swift" : 3
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 10:07:43 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 11:20:44 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
