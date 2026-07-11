@@ -193,20 +193,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
       "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
       "published_at": "2026-07-08T10:23:41Z",
@@ -220,6 +206,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
       "source": "Dev.to",
       "user": "ValeryKot"
+    },
+    {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Being an engineer in the AI era",
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "nexu-io"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 651,
       "user": "Robbyant"
     },
     {
@@ -752,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 80,
       "user": "GreyGunG"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "simonlin1212"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 425,
       "user": "xiaotianfotos"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "jiguang132"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 272,
       "user": "yusukebe"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2188,
+      "stars": 2229,
       "user": "withmarbleapp"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1714,
+      "stars": 1717,
       "user": "Shpigford"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 699,
       "user": "oso95"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "nexu-io"
     },
     {
@@ -1338,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "simonlin1212"
     },
     {
@@ -1353,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 425,
       "user": "xiaotianfotos"
     },
     {
@@ -1368,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "jiguang132"
     },
     {
@@ -1398,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 272,
       "user": "yusukebe"
     },
     {
@@ -1441,6 +1441,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Takeshi Tokugawa YD"
+    },
+    {
+      "title": "File path not being returned on listing of files in my local server but is returned on live site",
+      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
+      "published_at": "2026-07-10T14:29:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary Dale"
     },
     {
       "title": "Best practice for using Cloudflare workers to serve images from R2",
@@ -1487,18 +1501,18 @@
       "user": "hora"
     },
     {
-      "title": "File path not being returned on listing of files in my local server but is returned on live site",
-      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
-      "published_at": "2026-07-10T14:29:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 20 answers · score 13",
       "tags": [
         "javascript",
         "html",
-        "dom"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Gary Dale"
+      "user": "aaron"
     },
     {
       "title": "Import a JSON file to JS code, compatible with old and current browsers",
@@ -1515,20 +1529,6 @@
       "user": "nhaggen"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 20 answers · score 13",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "How can I make the docs js library draw a border when I move a table?",
       "url": "https://stackoverflow.com/questions/79979602/how-can-i-make-the-docs-js-library-draw-a-border-when-i-move-a-table",
       "published_at": "2026-07-10T09:36:38.000Z",
@@ -1541,21 +1541,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dimson d"
-    },
-    {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "z-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MindaMan"
     },
     {
       "title": "Why is my website Contact Form Not Functioning?",
@@ -1572,6 +1557,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user30865975"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "Understanding json()",
@@ -1826,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 717,
       "user": "Robbyant"
     },
     {
@@ -1841,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 651,
       "user": "Robbyant"
     },
     {
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "Robbyant"
     },
     {
@@ -1871,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 502,
       "user": "nagisanzenin"
     },
     {
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "Robbyant"
     },
     {
@@ -1903,32 +1903,6 @@
       "user": "veqq"
     },
     {
-      "title": "What Every Python Developer Should Know About the CPython ABI",
-      "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-      "published_at": "2026-07-10T12:17:58.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "c",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ngoldbaum"
-    },
-    {
-      "title": "Struck to how to learn coding",
-      "url": "https://stackoverflow.com/questions/79979768/struck-to-how-to-learn-coding",
-      "published_at": "2026-07-10T20:15:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "artificial-intelligence"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shiva sai"
-    },
-    {
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
       "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
       "published_at": "2026-07-10T14:56:22.000Z",
@@ -1942,6 +1916,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nenord"
+    },
+    {
+      "title": "TerminateProcess() Windows API call from Python",
+      "url": "https://stackoverflow.com/questions/79978486/terminateprocess-windows-api-call-from-python",
+      "published_at": "2026-07-09T22:44:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "winapi",
+        "win32-process"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "WatcherOfAll"
     },
     {
       "title": "Python \"generate_chk\" function",
@@ -1984,21 +1973,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "TerminateProcess() Windows API call from Python",
-      "url": "https://stackoverflow.com/questions/79978486/terminateprocess-windows-api-call-from-python",
-      "published_at": "2026-07-09T22:44:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "windows",
-        "winapi",
-        "win32-process"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "WatcherOfAll"
     },
     {
       "title": "Data Modeling for Relational database, read-only access",
@@ -2051,6 +2025,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32880109"
+    },
+    {
+      "title": "Command line option with variable number of args with a terminator",
+      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args-with-a-terminator",
+      "published_at": "2026-07-09T11:06:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "command-line",
+        "argparse",
+        "optparse"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2338,7 +2327,7 @@
       "title": "File path not being returned on listing of files in my local server but is returned on live site",
       "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
       "published_at": "2026-07-10T14:29:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2363,21 +2352,6 @@
       "user": "aaron"
     },
     {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "z-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MindaMan"
-    },
-    {
       "title": "Why is my website Contact Form Not Functioning?",
       "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
       "published_at": "2026-07-10T05:28:19.000Z",
@@ -2392,6 +2366,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user30865975"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -2423,6 +2412,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "I converted an Android app to a webpage",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "published_at": "2026-07-11T00:24:30.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "mobile",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abhin4v"
     },
     {
       "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
@@ -3327,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2188,
+      "stars": 2229,
       "user": "withmarbleapp"
     },
     {
@@ -3342,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1714,
+      "stars": 1717,
       "user": "Shpigford"
     },
     {
@@ -3357,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 699,
       "user": "oso95"
     },
     {
@@ -3387,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 373,
       "user": "nexu-io"
     },
     {
@@ -3402,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 717,
       "user": "Robbyant"
     },
     {
@@ -3417,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 651,
       "user": "Robbyant"
     },
     {
@@ -3432,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "Robbyant"
     },
     {
@@ -3447,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 502,
       "user": "nagisanzenin"
     },
     {
@@ -3462,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "Robbyant"
     },
     {
@@ -3492,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 80,
       "user": "GreyGunG"
     },
     {
@@ -3522,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "MaximeRivest"
     },
     {
@@ -3537,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 58,
       "user": "Foxemsx"
     },
     {
@@ -3552,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "simonlin1212"
     },
     {
@@ -3567,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 425,
       "user": "xiaotianfotos"
     },
     {
@@ -3582,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "jiguang132"
     },
     {
@@ -3612,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 272,
       "user": "yusukebe"
     },
     {
@@ -3627,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1354,
       "user": "MaximeRivest"
     },
     {
@@ -3642,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 799,
       "user": "514-labs"
     },
     {
@@ -3687,7 +3689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 155,
       "user": "thatmagicalcat"
     },
     {
