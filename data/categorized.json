@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "nexu-io"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 670,
       "user": "Robbyant"
     },
     {
@@ -752,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "simonlin1212"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 441,
       "user": "xiaotianfotos"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "jiguang132"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "yusukebe"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "wassermanproductions"
     },
     {
@@ -1260,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2323,
       "user": "withmarbleapp"
     },
     {
@@ -1275,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1746,
       "user": "Shpigford"
     },
     {
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 801,
       "user": "oso95"
     },
     {
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "majidmanzarpour"
     },
     {
@@ -1320,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "nexu-io"
     },
     {
@@ -1335,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "simonlin1212"
     },
     {
@@ -1350,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 441,
       "user": "xiaotianfotos"
     },
     {
@@ -1365,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "jiguang132"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "yusukebe"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "wassermanproductions"
     },
     {
@@ -1425,6 +1425,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "How can I accurately convert Bangla Unicode text to Bijoy encoding using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79979915/how-can-i-accurately-convert-bangla-unicode-text-to-bijoy-encoding-using-javascr",
+      "published_at": "2026-07-11T13:53:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "unicode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noor Fatima"
     },
     {
       "title": "How to run a PHP JS Query?",
@@ -1468,6 +1481,20 @@
       "user": "Gary Dale"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 20 answers · score 13",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Best practice for using Cloudflare workers to serve images from R2",
       "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
       "published_at": "2026-07-10T20:55:31.000Z",
@@ -1482,20 +1509,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "abc"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 20 answers · score 13",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "javascript importing with absolute path",
@@ -1550,20 +1563,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nhaggen"
-    },
-    {
-      "title": "How can I make the docs js library draw a border when I move a table?",
-      "url": "https://stackoverflow.com/questions/79979602/how-can-i-make-the-docs-js-library-draw-a-border-when-i-move-a-table",
-      "published_at": "2026-07-10T09:36:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "docx"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dimson d"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1805,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 769,
       "user": "Robbyant"
     },
     {
@@ -1820,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 670,
       "user": "Robbyant"
     },
     {
@@ -1880,6 +1879,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "Behaviour of close button",
+      "url": "https://stackoverflow.com/questions/79979926/behaviour-of-close-button",
+      "published_at": "2026-07-11T14:48:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter",
+        "button",
+        "window"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ras_Al_Ghul"
     },
     {
       "title": "\"session not created\" error with Selenium ChromeDriver started by Django",
@@ -2008,18 +2022,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "M.X"
-    },
-    {
-      "title": "Replacing one string inside another but without interfering with a second replace",
-      "url": "https://stackoverflow.com/questions/79979652/replacing-one-string-inside-another-but-without-interfering-with-a-second-replac",
-      "published_at": "2026-07-10T12:46:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -3301,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2323,
       "user": "withmarbleapp"
     },
     {
@@ -3316,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1746,
       "user": "Shpigford"
     },
     {
@@ -3331,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 801,
       "user": "oso95"
     },
     {
@@ -3346,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "majidmanzarpour"
     },
     {
@@ -3361,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "nexu-io"
     },
     {
@@ -3376,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 769,
       "user": "Robbyant"
     },
     {
@@ -3391,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 670,
       "user": "Robbyant"
     },
     {
@@ -3526,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "simonlin1212"
     },
     {
@@ -3541,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 441,
       "user": "xiaotianfotos"
     },
     {
@@ -3556,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "jiguang132"
     },
     {
@@ -3571,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "yusukebe"
     },
     {
@@ -3586,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250948388?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "wassermanproductions"
     },
     {
@@ -3601,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1383,
       "user": "MaximeRivest"
     },
     {
@@ -3616,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 810,
       "user": "514-labs"
     },
     {
@@ -3661,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "thatmagicalcat"
     },
     {
