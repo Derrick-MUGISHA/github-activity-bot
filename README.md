@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-11 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-11 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
 | 20 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
 
-<sub>Last fetched: Sat, 11 Jul 2026 22:30:42 CAT</sub>
+<sub>Last fetched: Sat, 11 Jul 2026 23:29:36 CAT</sub>
 
 
 ---
@@ -122,7 +122,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `Database` — Explain database indexing and when to use it**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> B-tree, trade-offs, query performance
+
+</details>
+
+**2. `Java` — Explain the Java memory model**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Heap, stack, garbage collection
+
+</details>
+
+**3. `Database` — What is the difference between SQL and NoSQL databases?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
@@ -130,28 +152,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Schema, scalability, ACID vs BASE
-
-</details>
-
-**2. `Python` — Implement a context manager using __enter__ and __exit__**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> with statement, setup/teardown, exception handling
-
-</details>
-
-**3. `NodeJS` — Implement rate limiting for an API**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Token bucket, sliding window, Redis
 
 </details>
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 23.9%
-Python          █████████████████████████████ 23.2%
-JavaScript      █████████████████████████████ 23.2%
-Java            █████████████████████████ 19.7%
+Go              ██████████████████████████████ 24.5%
+Python          ████████████████████████████ 23.1%
+JavaScript      ████████████████████████████ 23.1%
+Java            ████████████████████████ 19.6%
 Rust            ███████ 5.6%
 Swift           ███ 2.1%
 PHP             ██ 1.4%
@@ -207,7 +207,7 @@ Kotlin          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 34
+    "Go" : 35
     "Python" : 33
     "JavaScript" : 33
     "Java" : 28
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 20:30:42 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 21:29:36 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
