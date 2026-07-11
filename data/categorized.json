@@ -15,21 +15,6 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -102,6 +87,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2tb4o4x0dzr3dudvzsox.png",
       "source": "Dev.to",
       "user": "Yurii Serhiichuk"
+    },
+    {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "nexu-io"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 674,
       "user": "Robbyant"
     },
     {
@@ -737,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "simonlin1212"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "jiguang132"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "yusukebe"
     },
     {
@@ -816,23 +816,10 @@
       "user": "avifenesh"
     },
     {
-      "title": "Working With AI: A Concrete Example",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "published_at": "2026-07-11T04:58:57.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eduard"
-    },
-    {
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
       "url": "https://stackoverflow.com/questions/79979965/pwa-installation-guidance-modal-is-invisible-on-deployed-vite-react-tailwind",
       "published_at": "2026-07-11T17:51:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "css",
@@ -860,7 +847,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql"
@@ -1230,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2370,
+      "stars": 2378,
       "user": "withmarbleapp"
     },
     {
@@ -1245,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1767,
       "user": "Shpigford"
     },
     {
@@ -1260,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 872,
       "user": "oso95"
     },
     {
@@ -1275,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "nexu-io"
     },
     {
@@ -1290,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "majidmanzarpour"
     },
     {
@@ -1305,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "simonlin1212"
     },
     {
@@ -1335,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "jiguang132"
     },
     {
@@ -1350,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "yusukebe"
     },
     {
@@ -1387,7 +1374,7 @@
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
       "url": "https://stackoverflow.com/questions/79979965/pwa-installation-guidance-modal-is-invisible-on-deployed-vite-react-tailwind",
       "published_at": "2026-07-11T17:51:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "css",
@@ -1402,7 +1389,7 @@
       "title": "How can I accurately convert Bangla Unicode text to Bijoy encoding using JavaScript?",
       "url": "https://stackoverflow.com/questions/79979915/how-can-i-accurately-convert-bangla-unicode-text-to-bijoy-encoding-using-javascr",
       "published_at": "2026-07-11T13:53:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "unicode"
@@ -1763,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 790,
       "user": "Robbyant"
     },
     {
@@ -1778,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 674,
       "user": "Robbyant"
     },
     {
@@ -1793,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 633,
       "user": "Robbyant"
     },
     {
@@ -1843,7 +1830,7 @@
       "title": "Behaviour of close button",
       "url": "https://stackoverflow.com/questions/79979926/behaviour-of-close-button",
       "published_at": "2026-07-11T14:48:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "tkinter",
@@ -1885,7 +1872,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql"
@@ -2224,7 +2211,7 @@
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
       "url": "https://stackoverflow.com/questions/79979965/pwa-installation-guidance-modal-is-invisible-on-deployed-vite-react-tailwind",
       "published_at": "2026-07-11T17:51:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "css",
@@ -2312,7 +2299,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql"
@@ -2731,7 +2718,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql"
@@ -2967,21 +2954,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -2995,6 +2967,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
       "user": "Web Developer Hyper"
+    },
+    {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
@@ -3178,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2370,
+      "stars": 2378,
       "user": "withmarbleapp"
     },
     {
@@ -3193,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1767,
       "user": "Shpigford"
     },
     {
@@ -3208,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 872,
       "user": "oso95"
     },
     {
@@ -3223,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "nexu-io"
     },
     {
@@ -3238,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "majidmanzarpour"
     },
     {
@@ -3253,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 790,
       "user": "Robbyant"
     },
     {
@@ -3268,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 674,
       "user": "Robbyant"
     },
     {
@@ -3283,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 633,
       "user": "Robbyant"
     },
     {
@@ -3358,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "Foxemsx"
     },
     {
@@ -3373,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "MaximeRivest"
     },
     {
@@ -3403,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "simonlin1212"
     },
     {
@@ -3433,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "jiguang132"
     },
     {
@@ -3448,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "yusukebe"
     },
     {
@@ -3478,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1402,
       "user": "MaximeRivest"
     },
     {
