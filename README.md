@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-11 18:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-11 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5) | Dev.to |
 | 20 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
 
-<sub>Last fetched: Sat, 11 Jul 2026 18:10:31 CAT</sub>
+<sub>Last fetched: Sat, 11 Jul 2026 19:18:38 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain decorators in Python with an example**
+**1. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> useState, useEffect, loading states, error handling
 
 </details>
 
-**2. `SystemDesign` — Design Twitter's timeline feature**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**3. `JavaScript` — Implement a debounce function from scratch**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,11 +164,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 43.1% | `████████████████████` |
+| **AI** | 77 | 42.5% | `████████████████████` |
 | **Tools** | 48 | 26.5% | `████████████░░░░░░░░` |
 | **JavaScript** | 34 | 18.8% | `█████████░░░░░░░░░░░` |
 | **Python** | 34 | 18.8% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 20 | 11.0% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 21 | 11.6% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 18 | 9.9% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 16:10:31 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 17:18:38 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
