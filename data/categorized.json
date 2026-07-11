@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 671,
       "user": "Robbyant"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "GreyGunG"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 444,
       "user": "xiaotianfotos"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "yusukebe"
     },
     {
@@ -842,20 +842,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "AI Surveillance and Social Progress",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "published_at": "2026-07-11T04:40:40.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "culture",
-        "privacy"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cyplo"
     },
     {
       "title": "How to get body of the query using aiosql module?",
@@ -1260,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2323,
+      "stars": 2335,
       "user": "withmarbleapp"
     },
     {
@@ -1275,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1746,
+      "stars": 1750,
       "user": "Shpigford"
     },
     {
@@ -1350,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 444,
       "user": "xiaotianfotos"
     },
     {
@@ -1380,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "yusukebe"
     },
     {
@@ -1430,7 +1416,7 @@
       "title": "How can I accurately convert Bangla Unicode text to Bijoy encoding using JavaScript?",
       "url": "https://stackoverflow.com/questions/79979915/how-can-i-accurately-convert-bangla-unicode-text-to-bijoy-encoding-using-javascr",
       "published_at": "2026-07-11T13:53:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "unicode"
@@ -1467,20 +1453,6 @@
       "user": "Takeshi Tokugawa YD"
     },
     {
-      "title": "File path not being returned on listing of files in my local server but is returned on live site",
-      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
-      "published_at": "2026-07-10T14:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary Dale"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1493,6 +1465,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "File path not being returned on listing of files in my local server but is returned on live site",
+      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
+      "published_at": "2026-07-10T14:29:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary Dale"
     },
     {
       "title": "Best practice for using Cloudflare workers to serve images from R2",
@@ -1804,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 777,
       "user": "Robbyant"
     },
     {
@@ -1819,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 671,
       "user": "Robbyant"
     },
     {
@@ -1834,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "Robbyant"
     },
     {
@@ -1948,21 +1934,6 @@
       "user": "Jas"
     },
     {
-      "title": "GCP Agent Platform pipelines ModelGetOp issue",
-      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
-      "published_at": "2026-07-10T14:56:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "google-cloud-platform",
-        "mlops",
-        "vertex-ai-pipeline"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nenord"
-    },
-    {
       "title": "TerminateProcess() Windows API call from Python",
       "url": "https://stackoverflow.com/questions/79978486/terminateprocess-windows-api-call-from-python",
       "published_at": "2026-07-09T22:44:43.000Z",
@@ -1976,6 +1947,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "WatcherOfAll"
+    },
+    {
+      "title": "GCP Agent Platform pipelines ModelGetOp issue",
+      "url": "https://stackoverflow.com/questions/79979691/gcp-agent-platform-pipelines-modelgetop-issue",
+      "published_at": "2026-07-10T14:56:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "mlops",
+        "vertex-ai-pipeline"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nenord"
     },
     {
       "title": "Race condition between events in an EDA system",
@@ -2306,20 +2292,6 @@
       "user": "veqq"
     },
     {
-      "title": "File path not being returned on listing of files in my local server but is returned on live site",
-      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
-      "published_at": "2026-07-10T14:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary Dale"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -2332,6 +2304,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "File path not being returned on listing of files in my local server but is returned on live site",
+      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
+      "published_at": "2026-07-10T14:29:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary Dale"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -2675,6 +2661,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "xiaozhou26/icloud-hme - GitHub Repository",
+      "url": "https://github.com/xiaozhou26/icloud-hme",
+      "published_at": "2026-07-08T11:04:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "xiaozhou26"
     },
     {
       "title": "Best practice for using Cloudflare workers to serve images from R2",
@@ -3303,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2323,
+      "stars": 2335,
       "user": "withmarbleapp"
     },
     {
@@ -3318,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1746,
+      "stars": 1750,
       "user": "Shpigford"
     },
     {
@@ -3378,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 777,
       "user": "Robbyant"
     },
     {
@@ -3393,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 671,
       "user": "Robbyant"
     },
     {
@@ -3408,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "Robbyant"
     },
     {
@@ -3468,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "GreyGunG"
     },
     {
@@ -3502,19 +3503,19 @@
       "user": "uf-hy"
     },
     {
-      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "url": "https://github.com/MaximeRivest/remagic",
-      "published_at": "2026-07-05T18:32:02Z",
-      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
+      "title": "xiaozhou26/icloud-hme - GitHub Repository",
+      "url": "https://github.com/xiaozhou26/icloud-hme",
+      "published_at": "2026-07-08T11:04:56Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 62,
-      "user": "MaximeRivest"
+      "stars": 64,
+      "user": "xiaozhou26"
     },
     {
       "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
@@ -3543,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 444,
       "user": "xiaotianfotos"
     },
     {
@@ -3573,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "yusukebe"
     },
     {
@@ -3603,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1389,
       "user": "MaximeRivest"
     },
     {
@@ -3618,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 811,
       "user": "514-labs"
     },
     {
@@ -3637,6 +3638,21 @@
       "user": "avifenesh"
     },
     {
+      "title": "thatmagicalcat/txm - Terminal Math rendering engine",
+      "url": "https://github.com/thatmagicalcat/txm",
+      "published_at": "2026-07-09T03:24:59Z",
+      "description": "Terminal Math rendering engine",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
+      "source": "GitHub",
+      "stars": 215,
+      "user": "thatmagicalcat"
+    },
+    {
       "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
       "url": "https://github.com/lucid-softworks/lumen",
       "published_at": "2026-07-05T10:24:00Z",
@@ -3650,21 +3666,6 @@
       "source": "GitHub",
       "stars": 211,
       "user": "lucid-softworks"
-    },
-    {
-      "title": "thatmagicalcat/txm - Terminal Math rendering engine",
-      "url": "https://github.com/thatmagicalcat/txm",
-      "published_at": "2026-07-09T03:24:59Z",
-      "description": "Terminal Math rendering engine",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
-      "source": "GitHub",
-      "stars": 206,
-      "user": "thatmagicalcat"
     },
     {
       "title": "Lobsters Interview with mitchellh",
