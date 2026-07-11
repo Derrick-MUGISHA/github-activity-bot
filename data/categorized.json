@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "nexu-io"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "yusukebe"
     },
     {
@@ -814,6 +814,19 @@
       "source": "GitHub",
       "stars": 260,
       "user": "avifenesh"
+    },
+    {
+      "title": "Working With AI: A Concrete Example",
+      "url": "https://htmx.org/essays/working-with-ai/",
+      "published_at": "2026-07-11T04:58:57.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eduard"
     },
     {
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
@@ -1233,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2347,
+      "stars": 2356,
       "user": "withmarbleapp"
     },
     {
@@ -1263,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 837,
       "user": "oso95"
     },
     {
@@ -1278,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "nexu-io"
     },
     {
@@ -1353,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "yusukebe"
     },
     {
@@ -1484,6 +1497,21 @@
       "user": "eng.ragy"
     },
     {
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "express",
+        "axios",
+        "multer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bahar betvan"
+    },
+    {
       "title": "Probable solution for A2UI React normalized cards rendering issue",
       "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
       "published_at": "2026-07-10T17:43:14.000Z",
@@ -1510,20 +1538,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hora"
-    },
-    {
-      "title": "Import a JSON file to JS code, compatible with old and current browsers",
-      "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
-      "published_at": "2026-07-10T09:33:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "json",
-        "es6-modules"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nhaggen"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1765,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 786,
       "user": "Robbyant"
     },
     {
@@ -1827,6 +1841,19 @@
       "source": "GitHub",
       "stars": 446,
       "user": "Robbyant"
+    },
+    {
+      "title": "I got a \"cannot import name '__version__' from 'pydantic_core' (unknown location)\" error during ComfyUI bootup",
+      "url": "https://stackoverflow.com/questions/79979987/i-got-a-cannot-import-name-version-from-pydantic-core-unknown-location",
+      "published_at": "2026-07-11T19:31:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pydantic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "robfi"
     },
     {
       "title": "Behaviour of close button",
@@ -1940,20 +1967,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Touge128345"
-    },
-    {
-      "title": "Python \"generate_chk\" function",
-      "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
-      "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "encryption",
-        "server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "y8v"
     },
     {
       "title": "How can I boxplot values that wrap around using matplotlib?",
@@ -2286,6 +2299,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abhin4v"
+    },
+    {
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "express",
+        "axios",
+        "multer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bahar betvan"
     },
     {
       "title": "How to get body of the query using aiosql module?",
@@ -2896,20 +2924,6 @@
       "user": "fanf"
     },
     {
-      "title": "Python \"generate_chk\" function",
-      "url": "https://stackoverflow.com/questions/79979674/python-generate-chk-function",
-      "published_at": "2026-07-10T14:12:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "encryption",
-        "server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "y8v"
-    },
-    {
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
       "published_at": "2026-07-11T01:01:28.000Z",
@@ -3200,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2347,
+      "stars": 2356,
       "user": "withmarbleapp"
     },
     {
@@ -3230,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 837,
       "user": "oso95"
     },
     {
@@ -3245,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "nexu-io"
     },
     {
@@ -3275,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 786,
       "user": "Robbyant"
     },
     {
@@ -3380,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "Foxemsx"
     },
     {
@@ -3395,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "MaximeRivest"
     },
     {
@@ -3470,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "yusukebe"
     },
     {
@@ -3500,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1395,
+      "stars": 1397,
       "user": "MaximeRivest"
     },
     {
@@ -3545,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "thatmagicalcat"
     },
     {

@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-11 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-11 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
 | 20 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
 
-<sub>Last fetched: Sat, 11 Jul 2026 21:37:29 CAT</sub>
+<sub>Last fetched: Sat, 11 Jul 2026 22:30:42 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What are Java Streams and how do they work?**
+**1. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Schema, scalability, ACID vs BASE
 
 </details>
 
-**2. `Database` — What is database normalization and denormalization?**
+**2. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> with statement, setup/teardown, exception handling
 
 </details>
 
-**3. `JavaScript` — What is the event loop and how does it work?**
+**3. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> Token bucket, sliding window, Redis
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 42.2% | `████████████████████` |
+| **AI** | 77 | 42.8% | `████████████████████` |
 | **Tools** | 49 | 27.2% | `█████████████░░░░░░░` |
 | **JavaScript** | 33 | 18.3% | `█████████░░░░░░░░░░░` |
 | **Python** | 33 | 18.3% | `█████████░░░░░░░░░░░` |
 | **Cloud** | 20 | 11.1% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.4% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.9% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.8% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,26 +194,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 23.6%
-Go              ██████████████████████████████ 23.6%
-JavaScript      ██████████████████████████████ 23.6%
-Java            █████████████████████████ 20.0%
-Rust            ███████ 5.7%
+Go              ██████████████████████████████ 23.9%
+Python          █████████████████████████████ 23.2%
+JavaScript      █████████████████████████████ 23.2%
+Java            █████████████████████████ 19.7%
+Rust            ███████ 5.6%
+Swift           ███ 2.1%
 PHP             ██ 1.4%
-Swift           ██ 1.4%
 Kotlin          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 34
     "Python" : 33
-    "Go" : 33
     "JavaScript" : 33
     "Java" : 28
     "Rust" : 8
+    "Swift" : 3
     "PHP" : 2
-    "Swift" : 2
     "Kotlin" : 1
 ```
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 19:37:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 20:30:42 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
