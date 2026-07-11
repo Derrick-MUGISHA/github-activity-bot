@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 76,
+    "AI": 75,
     "JavaScript": 33,
     "Python": 33,
     "DevOps": 14,
@@ -23,7 +23,7 @@
   },
   "by_language": {
     "Python": 33,
-    "Go": 36,
+    "Go": 37,
     "Rust": 8,
     "JavaScript": 33,
     "Java": 28,
@@ -124,11 +124,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.9",
-    "Go": "25.0",
-    "Rust": "5.6",
-    "JavaScript": "22.9",
-    "Java": "19.4",
+    "Python": "22.8",
+    "Go": "25.5",
+    "Rust": "5.5",
+    "JavaScript": "22.8",
+    "Java": "19.3",
     "Kotlin": "0.7",
     "PHP": "1.4",
     "Swift": "2.1"
