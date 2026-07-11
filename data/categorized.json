@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "Robbyant"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "simonlin1212"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "jiguang132"
     },
     {
@@ -827,7 +827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "yusukebe"
     },
     {
@@ -890,7 +890,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "postgresql"
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2283,
+      "stars": 2284,
       "user": "withmarbleapp"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1729,
+      "stars": 1731,
       "user": "Shpigford"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 761,
       "user": "oso95"
     },
     {
@@ -1352,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "simonlin1212"
     },
     {
@@ -1382,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "jiguang132"
     },
     {
@@ -1397,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "yusukebe"
     },
     {
@@ -1513,20 +1513,6 @@
       "user": "eng.ragy"
     },
     {
-      "title": "Probable solution for A2UI React normalized cards rendering issue",
-      "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
-      "published_at": "2026-07-10T17:43:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DAALROTI_SDG"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1539,6 +1525,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Probable solution for A2UI React normalized cards rendering issue",
+      "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
+      "published_at": "2026-07-10T17:43:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "agent"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DAALROTI_SDG"
     },
     {
       "title": "React sourcemap warns it can't find components in nested directories",
@@ -1569,20 +1569,18 @@
       "user": "nhaggen"
     },
     {
-      "title": "Why is my website Contact Form Not Functioning?",
-      "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
-      "published_at": "2026-07-10T05:28:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "How can I make the docs js library draw a border when I move a table?",
+      "url": "https://stackoverflow.com/questions/79979602/how-can-i-make-the-docs-js-library-draw-a-border-when-i-move-a-table",
+      "published_at": "2026-07-10T09:36:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "html",
-        "css",
-        "bootstrap-5",
-        "contact-form"
+        "node.js",
+        "docx"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user30865975"
+      "user": "dimson d"
     },
     {
       "title": "Understanding json()",
@@ -1837,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 748,
       "user": "Robbyant"
     },
     {
@@ -1852,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "Robbyant"
     },
     {
@@ -1897,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "Robbyant"
     },
     {
@@ -1930,7 +1928,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "postgresql"
@@ -2361,22 +2359,6 @@
       "user": "aaron"
     },
     {
-      "title": "Why is my website Contact Form Not Functioning?",
-      "url": "https://stackoverflow.com/questions/79979539/why-is-my-website-contact-form-not-functioning",
-      "published_at": "2026-07-10T05:28:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "bootstrap-5",
-        "contact-form"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user30865975"
-    },
-    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -2437,7 +2419,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "postgresql"
@@ -2872,7 +2854,7 @@
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
       "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
       "published_at": "2026-07-11T08:23:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "postgresql"
@@ -3375,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2283,
+      "stars": 2284,
       "user": "withmarbleapp"
     },
     {
@@ -3390,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1729,
+      "stars": 1731,
       "user": "Shpigford"
     },
     {
@@ -3405,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 761,
       "user": "oso95"
     },
     {
@@ -3450,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 748,
       "user": "Robbyant"
     },
     {
@@ -3465,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "Robbyant"
     },
     {
@@ -3510,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "Robbyant"
     },
     {
@@ -3600,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "simonlin1212"
     },
     {
@@ -3630,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "jiguang132"
     },
     {
@@ -3645,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "yusukebe"
     },
     {
@@ -3675,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
       "source": "GitHub",
-      "stars": 1367,
+      "stars": 1370,
       "user": "MaximeRivest"
     },
     {
@@ -3735,7 +3717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 188,
       "user": "thatmagicalcat"
     },
     {
