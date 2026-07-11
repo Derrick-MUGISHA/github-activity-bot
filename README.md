@@ -5,9 +5,9 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-181-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-180-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--11-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-11 20:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-11 21:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -102,18 +102,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 8 | [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec) | Dev.to |
 | 9 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
 | 10 | [Context bankruptcy: The case for strategic forgetting for AI Agents](https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5) | Dev.to |
-| 11 | [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f) | Dev.to |
-| 12 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
-| 13 | [Has the audience for technical articles dropped?](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) | Dev.to |
-| 14 | [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg) | Dev.to |
-| 15 | [The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits](https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e) | Dev.to |
-| 16 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b) | Dev.to |
-| 17 | [Building an Autonomous SRE Agent with Google ADK and the Antigravity SDK](https://dev.to/gde/building-an-autonomous-sre-agent-with-google-adk-and-the-antigravity-sdk-1fgl) | Dev.to |
-| 18 | [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle) | Dev.to |
-| 19 | [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5) | Dev.to |
-| 20 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
+| 11 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
+| 12 | [Has the audience for technical articles dropped?](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) | Dev.to |
+| 13 | [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg) | Dev.to |
+| 14 | [The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits](https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e) | Dev.to |
+| 15 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b) | Dev.to |
+| 16 | [Building an Autonomous SRE Agent with Google ADK and the Antigravity SDK](https://dev.to/gde/building-an-autonomous-sre-agent-with-google-adk-and-the-antigravity-sdk-1fgl) | Dev.to |
+| 17 | [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle) | Dev.to |
+| 18 | [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5) | Dev.to |
+| 19 | [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d) | Dev.to |
+| 20 | [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h) | Dev.to |
 
-<sub>Last fetched: Sat, 11 Jul 2026 20:14:32 CAT</sub>
+<sub>Last fetched: Sat, 11 Jul 2026 21:37:29 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Implement a debounce function from scratch**
+**1. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**2. `JavaScript` — Implement a debounce function from scratch**
+**2. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
-**3. `JavaScript` — What are closures and provide a practical example?**
+**3. `JavaScript` — What is the event loop and how does it work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Call stack, callback queue, microtask queue
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 42.5% | `████████████████████` |
-| **Tools** | 50 | 27.6% | `█████████████░░░░░░░` |
-| **JavaScript** | 34 | 18.8% | `█████████░░░░░░░░░░░` |
-| **Python** | 34 | 18.8% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 21 | 11.6% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.9% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **AI** | 76 | 42.2% | `████████████████████` |
+| **Tools** | 49 | 27.2% | `█████████████░░░░░░░` |
+| **JavaScript** | 33 | 18.3% | `█████████░░░░░░░░░░░` |
+| **Python** | 33 | 18.3% | `█████████░░░░░░░░░░░` |
+| **Cloud** | 20 | 11.1% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.4% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.8% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 57 |
+| Dev.to | 56 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,34 +194,33 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 23.5%
-Python          █████████████████████████████ 22.8%
-JavaScript      █████████████████████████████ 22.8%
-Java            █████████████████████████ 19.5%
-Rust            ████████ 6.0%
-Swift           ███ 2.0%
-Kotlin          ██ 1.3%
-PHP             ██ 1.3%
-Ruby            █ 0.7%
+Python          ██████████████████████████████ 23.6%
+Go              ██████████████████████████████ 23.6%
+JavaScript      ██████████████████████████████ 23.6%
+Java            █████████████████████████ 20.0%
+Rust            ███████ 5.7%
+PHP             ██ 1.4%
+Swift           ██ 1.4%
+Kotlin          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 35
-    "Python" : 34
-    "JavaScript" : 34
-    "Java" : 29
-    "Rust" : 9
-    "Swift" : 3
-    "Kotlin" : 2
+    "Python" : 33
+    "Go" : 33
+    "JavaScript" : 33
+    "Java" : 28
+    "Rust" : 8
     "PHP" : 2
+    "Swift" : 2
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-44-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-9-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-6-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 18:14:32 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 11 Jul 2026 19:37:29 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
