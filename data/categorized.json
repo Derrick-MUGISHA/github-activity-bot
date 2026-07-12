@@ -15,21 +15,6 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
       "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
       "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5",
       "published_at": "2026-07-10T14:12:20Z",
@@ -130,6 +115,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -632,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "nexu-io"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 353,
       "user": "ronak-create"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 114,
       "user": "GreyGunG"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "xiaotianfotos"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "jiguang132"
     },
     {
@@ -737,23 +737,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 390,
       "user": "yusukebe"
     },
     {
-      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "published_at": "2026-07-08T06:06:31Z",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 275,
-      "user": "bkingfilm"
+      "stars": 278,
+      "user": "yetone"
     },
     {
       "title": "aclfe/inertia - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
@@ -789,7 +789,7 @@
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
       "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
       "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tensorflow",
@@ -1157,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2585,
+      "stars": 2603,
       "user": "withmarbleapp"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1056,
       "user": "oso95"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "nexu-io"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 353,
       "user": "ronak-create"
     },
     {
@@ -1232,8 +1232,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 406,
       "user": "vinhhien112"
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "published_at": "2026-07-12T10:35:44Z",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
+      "source": "GitHub",
+      "stars": 635,
+      "user": "mereyabdenbekuly-ctrl"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -1247,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "xiaotianfotos"
     },
     {
@@ -1262,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "jiguang132"
     },
     {
@@ -1277,38 +1292,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 390,
       "user": "yusukebe"
     },
     {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "published_at": "2026-07-12T10:35:44Z",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 353,
-      "user": "mereyabdenbekuly-ctrl"
-    },
-    {
-      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "published_at": "2026-07-08T06:06:31Z",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "bkingfilm"
+      "stars": 278,
+      "user": "yetone"
     },
     {
       "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
@@ -1321,6 +1321,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "fanf"
+    },
+    {
+      "title": "Flowing ideas across a page",
+      "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
+      "published_at": "2026-07-12T14:12:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "animation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sarah"
     },
     {
       "title": "Probable solution for A2UI React normalized cards rendering issue",
@@ -1444,21 +1459,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hora"
-    },
-    {
-      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
-      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
-      "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "react-hook-form"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furqan"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1700,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 890,
       "user": "Robbyant"
     },
     {
@@ -1730,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 659,
       "user": "Robbyant"
     },
     {
@@ -1760,14 +1760,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 406,
       "user": "vinhhien112"
+    },
+    {
+      "title": "Excel file gets corrupted when updating destination workbook using Python for large Excel files",
+      "url": "https://stackoverflow.com/questions/79980095/excel-file-gets-corrupted-when-updating-destination-workbook-using-python-for-la",
+      "published_at": "2026-07-12T13:46:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "excel",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dhimesh Parmar"
     },
     {
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
       "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
       "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tensorflow",
@@ -1884,20 +1898,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
-      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
-      "published_at": "2026-07-09T06:56:42.000Z",
-      "description": "Stack Overflow question · 6 answers · score 1",
-      "tags": [
-        "python",
-        "pyinstaller",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2154,6 +2154,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "Flowing ideas across a page",
+      "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
+      "published_at": "2026-07-12T14:12:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "animation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sarah"
     },
     {
       "title": "File path not being returned on listing of files in my local server but is returned on live site",
@@ -2512,7 +2527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "xiaozhou26"
     },
     {
@@ -2591,6 +2606,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Excel file gets corrupted when updating destination workbook using Python for large Excel files",
+      "url": "https://stackoverflow.com/questions/79980095/excel-file-gets-corrupted-when-updating-destination-workbook-using-python-for-la",
+      "published_at": "2026-07-12T13:46:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "excel",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dhimesh Parmar"
     },
     {
       "title": "How to get body of the query using aiosql module?",
@@ -2857,21 +2886,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
       "title": "Your Career Matters. So Does the Person Building It.",
       "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
       "published_at": "2026-07-06T15:50:31Z",
@@ -2900,6 +2914,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
       "source": "Dev.to",
       "user": "christine"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3068,7 +3097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2585,
+      "stars": 2603,
       "user": "withmarbleapp"
     },
     {
@@ -3098,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1056,
       "user": "oso95"
     },
     {
@@ -3113,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "nexu-io"
     },
     {
@@ -3128,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 353,
       "user": "ronak-create"
     },
     {
@@ -3143,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 890,
       "user": "Robbyant"
     },
     {
@@ -3173,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 659,
       "user": "Robbyant"
     },
     {
@@ -3203,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 406,
       "user": "vinhhien112"
     },
     {
@@ -3218,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 204,
       "user": "cosmtrek"
     },
     {
@@ -3248,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 114,
       "user": "GreyGunG"
     },
     {
@@ -3263,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "Foxemsx"
     },
     {
@@ -3278,8 +3307,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "published_at": "2026-07-12T10:35:44Z",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
+      "source": "GitHub",
+      "stars": 635,
+      "user": "mereyabdenbekuly-ctrl"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -3293,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "xiaotianfotos"
     },
     {
@@ -3308,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "jiguang132"
     },
     {
@@ -3323,38 +3367,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 390,
       "user": "yusukebe"
     },
     {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "published_at": "2026-07-12T10:35:44Z",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 353,
-      "user": "mereyabdenbekuly-ctrl"
-    },
-    {
-      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "published_at": "2026-07-08T06:06:31Z",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "bkingfilm"
+      "stars": 278,
+      "user": "yetone"
     },
     {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
@@ -3368,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "thatmagicalcat"
     },
     {
@@ -3398,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "gnomeria"
     },
     {
