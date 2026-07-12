@@ -118,21 +118,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
-      "tags": [
-        "ai",
-        "llm",
-        "machinelearning",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
-      "source": "Dev.to",
-      "user": "ValeryKot"
-    },
-    {
       "title": "What's Next for AI?",
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
       "published_at": "2026-06-29T07:18:48Z",
@@ -647,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "nexu-io"
     },
     {
@@ -662,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 351,
       "user": "ronak-create"
     },
     {
@@ -677,23 +662,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 705,
       "user": "Robbyant"
-    },
-    {
-      "title": "Doriandarko/texts-to-transformer - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "published_at": "2026-07-08T08:12:17Z",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "Doriandarko"
     },
     {
       "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
@@ -722,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "GreyGunG"
     },
     {
@@ -737,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "xiaotianfotos"
     },
     {
@@ -752,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 393,
       "user": "jiguang132"
     },
     {
@@ -767,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 384,
       "user": "yusukebe"
     },
     {
@@ -782,23 +752,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "bkingfilm"
-    },
-    {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 267,
-      "user": "yetone"
     },
     {
       "title": "aclfe/inertia - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
@@ -812,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "aclfe"
     },
     {
@@ -834,7 +789,7 @@
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
       "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
       "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "tensorflow",
@@ -1202,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2557,
+      "stars": 2585,
       "user": "withmarbleapp"
     },
     {
@@ -1217,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1796,
+      "stars": 1800,
       "user": "Shpigford"
     },
     {
@@ -1232,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1036,
       "user": "oso95"
     },
     {
@@ -1247,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "nexu-io"
     },
     {
@@ -1262,8 +1217,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 351,
       "user": "ronak-create"
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
+      "source": "GitHub",
+      "stars": 387,
+      "user": "vinhhien112"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -1277,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "xiaotianfotos"
     },
     {
@@ -1292,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 393,
       "user": "jiguang132"
     },
     {
@@ -1307,8 +1277,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 384,
       "user": "yusukebe"
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "published_at": "2026-07-12T10:35:44Z",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "mereyabdenbekuly-ctrl"
     },
     {
       "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
@@ -1322,23 +1307,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "bkingfilm"
-    },
-    {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 267,
-      "user": "yetone"
     },
     {
       "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
@@ -1730,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 880,
       "user": "Robbyant"
     },
     {
@@ -1745,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 705,
       "user": "Robbyant"
     },
     {
@@ -1760,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 658,
       "user": "Robbyant"
     },
     {
@@ -1775,29 +1745,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Robbyant"
     },
     {
-      "title": "Doriandarko/texts-to-transformer - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "published_at": "2026-07-08T08:12:17Z",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 358,
-      "user": "Doriandarko"
+      "stars": 387,
+      "user": "vinhhien112"
     },
     {
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
       "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
       "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "tensorflow",
@@ -1916,16 +1886,18 @@
       "user": "NickC"
     },
     {
-      "title": "How to find and replace specific values/text from a variable?",
-      "url": "https://stackoverflow.com/questions/79979852/how-to-find-and-replace-specific-values-text-from-a-variable",
-      "published_at": "2026-07-11T07:39:17.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "published_at": "2026-07-09T06:56:42.000Z",
+      "description": "Stack Overflow question · 6 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "pyinstaller",
+        "playwright-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jas"
+      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -3096,7 +3068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2557,
+      "stars": 2585,
       "user": "withmarbleapp"
     },
     {
@@ -3111,7 +3083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1796,
+      "stars": 1800,
       "user": "Shpigford"
     },
     {
@@ -3126,7 +3098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1036,
       "user": "oso95"
     },
     {
@@ -3141,7 +3113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "nexu-io"
     },
     {
@@ -3156,7 +3128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 351,
       "user": "ronak-create"
     },
     {
@@ -3171,7 +3143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 880,
       "user": "Robbyant"
     },
     {
@@ -3186,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 705,
       "user": "Robbyant"
     },
     {
@@ -3201,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 658,
       "user": "Robbyant"
     },
     {
@@ -3216,23 +3188,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Robbyant"
     },
     {
-      "title": "Doriandarko/texts-to-transformer - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "published_at": "2026-07-08T08:12:17Z",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 358,
-      "user": "Doriandarko"
+      "stars": 387,
+      "user": "vinhhien112"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3246,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 185,
       "user": "cosmtrek"
     },
     {
@@ -3276,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "GreyGunG"
     },
     {
@@ -3291,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "Foxemsx"
     },
     {
@@ -3321,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "xiaotianfotos"
     },
     {
@@ -3336,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 393,
       "user": "jiguang132"
     },
     {
@@ -3351,8 +3323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 384,
       "user": "yusukebe"
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "published_at": "2026-07-12T10:35:44Z",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "mereyabdenbekuly-ctrl"
     },
     {
       "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
@@ -3366,23 +3353,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "bkingfilm"
-    },
-    {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 267,
-      "user": "yetone"
     },
     {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
@@ -3396,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "thatmagicalcat"
     },
     {
@@ -3426,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 111,
       "user": "gnomeria"
     },
     {
@@ -3441,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "aclfe"
     },
     {
