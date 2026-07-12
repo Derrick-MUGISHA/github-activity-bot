@@ -1,7 +1,7 @@
 {
-  "total": 178,
+  "total": 177,
   "by_source": {
-    "Dev.to": 54,
+    "Dev.to": 53,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,8 +10,8 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 74,
-    "JavaScript": 33,
+    "AI": 71,
+    "JavaScript": 34,
     "Python": 33,
     "DevOps": 14,
     "WebDev": 5,
@@ -23,17 +23,17 @@
   },
   "by_language": {
     "Python": 33,
-    "Go": 35,
-    "Rust": 7,
-    "JavaScript": 33,
+    "Go": 34,
+    "Rust": 8,
+    "JavaScript": 34,
     "Java": 27,
     "PHP": 2,
     "Swift": 3
   },
   "by_date": {
-    "2026-07-09": 15,
-    "2026-07-08": 17,
-    "2026-07-10": 17,
+    "2026-07-09": 17,
+    "2026-07-08": 15,
+    "2026-07-10": 16,
     "2026-07-07": 6,
     "2026-07-06": 14,
     "2026-06-29": 6,
@@ -97,13 +97,13 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2022-08-01": 1,
-    "2026-07-11": 19,
-    "2026-07-12": 8
+    "2026-07-12": 10,
+    "2026-07-11": 17
   },
   "top_tags": {
     "github": 25,
     "open-source": 25,
-    "ai": 23,
+    "ai": 22,
     "python": 21,
     "AI": 18,
     "javascript": 16,
@@ -118,17 +118,17 @@
     "go": 6,
     "antigravity": 5,
     "webdev": 5,
-    "llm": 5,
     "typescript": 5,
-    "rust": 5
+    "rust": 5,
+    "antigravitycli": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "23.6",
-    "Go": "25.0",
-    "Rust": "5.0",
-    "JavaScript": "23.6",
-    "Java": "19.3",
+    "Python": "23.4",
+    "Go": "24.1",
+    "Rust": "5.7",
+    "JavaScript": "24.1",
+    "Java": "19.1",
     "PHP": "1.4",
     "Swift": "2.1"
   }
