@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-176-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-175-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--12-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-12 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-12 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -110,10 +110,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 16 | [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) | Dev.to |
 | 17 | [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec) | Dev.to |
 | 18 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
-| 19 | [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) | Dev.to |
-| 20 | [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg) | Dev.to |
+| 19 | [The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits](https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e) | Dev.to |
+| 20 | [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) | Dev.to |
 
-<sub>Last fetched: Sun, 12 Jul 2026 19:49:42 CAT</sub>
+<sub>Last fetched: Sun, 12 Jul 2026 20:44:22 CAT</sub>
 
 
 ---
@@ -122,29 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What are Java Streams and how do they work?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-**2. `React` — What are hooks and why were they introduced?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> State in functional components, reusable logic, cleaner code
-
-</details>
-
-**3. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `Database` — What is the difference between SQL and NoSQL databases?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
@@ -152,6 +130,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Schema, scalability, ACID vs BASE
+
+</details>
+
+**2. `Java` — Explain the Java memory model**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Heap, stack, garbage collection
+
+</details>
+
+**3. `DataStructures` — Find the median of two sorted arrays**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,13 +164,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 70 | 39.8% | `████████████████████` |
-| **Tools** | 48 | 27.3% | `██████████████░░░░░░` |
-| **JavaScript** | 35 | 19.9% | `██████████░░░░░░░░░░` |
-| **Python** | 33 | 18.8% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 19 | 10.8% | `█████░░░░░░░░░░░░░░░` |
+| **AI** | 69 | 39.4% | `████████████████████` |
+| **Tools** | 48 | 27.4% | `██████████████░░░░░░` |
+| **JavaScript** | 35 | 20.0% | `██████████░░░░░░░░░░` |
+| **Python** | 33 | 18.9% | `██████████░░░░░░░░░░` |
+| **Cloud** | 18 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 16 | 9.1% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 8.0% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 13 | 7.4% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.3% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.3% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 52 |
+| Dev.to | 51 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 24.6%
-Go              █████████████████████████████ 23.9%
-Python          ████████████████████████████ 23.2%
-Java            ████████████████████████ 19.7%
-Rust            ███████ 5.6%
+JavaScript      ██████████████████████████████ 24.8%
+Python          ████████████████████████████ 23.4%
+Go              ████████████████████████████ 23.4%
+Java            ████████████████████████ 19.9%
+Rust            ███████ 5.7%
 PHP             ██ 1.4%
 Swift           ██ 1.4%
 
@@ -207,8 +207,8 @@ Swift           ██ 1.4%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 35
-    "Go" : 34
     "Python" : 33
+    "Go" : 33
     "Java" : 28
     "Rust" : 8
     "PHP" : 2
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 17:49:42 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 18:44:22 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
