@@ -59,21 +59,6 @@
       "user": "xbill"
     },
     {
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
-      "published_at": "2026-07-10T03:33:28Z",
-      "description": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
-      "tags": [
-        "agents",
-        "ai",
-        "agenticarchitect",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
       "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
       "published_at": "2026-07-09T22:12:22Z",
@@ -190,6 +175,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
+      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
+      "published_at": "2026-07-10T03:33:28Z",
+      "description": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
+      "tags": [
+        "agents",
+        "ai",
+        "agenticarchitect",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Omni Flash Preview with Codex",
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "nexu-io"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "ronak-create"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 703,
       "user": "Robbyant"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Doriandarko"
     },
     {
@@ -722,23 +722,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "GreyGunG"
-    },
-    {
-      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
-      "published_at": "2026-07-07T04:15:04Z",
-      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "uf-hy"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -752,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 462,
       "user": "xiaotianfotos"
     },
     {
@@ -782,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 366,
       "user": "yusukebe"
     },
     {
@@ -812,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "yetone"
     },
     {
@@ -1201,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2533,
+      "stars": 2549,
       "user": "withmarbleapp"
     },
     {
@@ -1216,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1791,
       "user": "Shpigford"
     },
     {
@@ -1231,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 1003,
       "user": "oso95"
     },
     {
@@ -1246,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "nexu-io"
     },
     {
@@ -1261,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "ronak-create"
     },
     {
@@ -1276,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 462,
       "user": "xiaotianfotos"
     },
     {
@@ -1306,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 366,
       "user": "yusukebe"
     },
     {
@@ -1336,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "yetone"
     },
     {
@@ -1379,6 +1364,19 @@
       "user": "nhaggen"
     },
     {
+      "title": "How to preserve interim filename extensions when specifying `output.filename` in Webpack?",
+      "url": "https://stackoverflow.com/questions/79979806/how-to-preserve-interim-filename-extensions-when-specifying-output-filename-in",
+      "published_at": "2026-07-11T01:20:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "webpack"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Takeshi Tokugawa YD"
+    },
+    {
       "title": "How to run a PHP JS Query?",
       "url": "https://stackoverflow.com/questions/79979846/how-to-run-a-php-js-query",
       "published_at": "2026-07-11T06:49:43.000Z",
@@ -1391,19 +1389,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Oblique"
-    },
-    {
-      "title": "How to preserve interim filename extensions when specifying `output.filename` in Webpack?",
-      "url": "https://stackoverflow.com/questions/79979806/how-to-preserve-interim-filename-extensions-when-specifying-output-filename-in",
-      "published_at": "2026-07-11T01:20:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "webpack"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Takeshi Tokugawa YD"
     },
     {
       "title": "File path not being returned on listing of files in my local server but is returned on live site",
@@ -1475,18 +1460,19 @@
       "user": "hora"
     },
     {
-      "title": "How can I make the docs js library draw a border when I move a table?",
-      "url": "https://stackoverflow.com/questions/79979602/how-can-i-make-the-docs-js-library-draw-a-border-when-i-move-a-table",
-      "published_at": "2026-07-10T09:36:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
-        "node.js",
-        "docx"
+        "html",
+        "css",
+        "z-index"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "dimson d"
+      "user": "MindaMan"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1728,7 +1714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 863,
       "user": "Robbyant"
     },
     {
@@ -1743,7 +1729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 703,
       "user": "Robbyant"
     },
     {
@@ -1758,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 651,
       "user": "Robbyant"
     },
     {
@@ -1773,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 460,
       "user": "Robbyant"
     },
     {
@@ -1788,14 +1774,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Doriandarko"
     },
     {
       "title": "Limit character count in tkinter window?",
       "url": "https://stackoverflow.com/questions/79980038/limit-character-count-in-tkinter-window",
       "published_at": "2026-07-12T04:36:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "tkinter",
@@ -1846,19 +1832,6 @@
       "user": "Ras_Al_Ghul"
     },
     {
-      "title": "How to get body of the query using aiosql module?",
-      "url": "https://stackoverflow.com/questions/79979858/how-to-get-body-of-the-query-using-aiosql-module",
-      "published_at": "2026-07-11T08:17:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "postgresql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user22099079"
-    },
-    {
       "title": "\"session not created\" error with Selenium ChromeDriver started by Django",
       "url": "https://stackoverflow.com/questions/79979907/session-not-created-error-with-selenium-chromedriver-started-by-django",
       "published_at": "2026-07-11T13:18:01.000Z",
@@ -1871,6 +1844,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JAK Zero"
+    },
+    {
+      "title": "How to get body of the query using aiosql module?",
+      "url": "https://stackoverflow.com/questions/79979858/how-to-get-body-of-the-query-using-aiosql-module",
+      "published_at": "2026-07-11T08:17:56.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22099079"
     },
     {
       "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
@@ -2193,6 +2179,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary Dale"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -2550,7 +2551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "xiaozhou26"
     },
     {
@@ -3106,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2533,
+      "stars": 2549,
       "user": "withmarbleapp"
     },
     {
@@ -3121,7 +3122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1791,
       "user": "Shpigford"
     },
     {
@@ -3136,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 1003,
       "user": "oso95"
     },
     {
@@ -3151,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "nexu-io"
     },
     {
@@ -3166,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "ronak-create"
     },
     {
@@ -3181,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 863,
       "user": "Robbyant"
     },
     {
@@ -3196,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 703,
       "user": "Robbyant"
     },
     {
@@ -3211,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 651,
       "user": "Robbyant"
     },
     {
@@ -3226,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 460,
       "user": "Robbyant"
     },
     {
@@ -3241,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Doriandarko"
     },
     {
@@ -3260,6 +3261,21 @@
       "user": "olemeyer"
     },
     {
+      "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "published_at": "2026-07-09T11:41:46Z",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "cosmtrek"
+    },
+    {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
       "url": "https://github.com/GreyGunG/grokbuild-proxy",
       "published_at": "2026-07-09T23:28:51Z",
@@ -3271,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "GreyGunG"
     },
     {
@@ -3286,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 90,
       "user": "Foxemsx"
     },
     {
@@ -3301,23 +3317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "xiaozhou26"
-    },
-    {
-      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
-      "published_at": "2026-07-07T04:15:04Z",
-      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "uf-hy"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -3331,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 462,
       "user": "xiaotianfotos"
     },
     {
@@ -3361,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 366,
       "user": "yusukebe"
     },
     {
@@ -3391,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "yetone"
     },
     {
@@ -3406,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "thatmagicalcat"
     },
     {
