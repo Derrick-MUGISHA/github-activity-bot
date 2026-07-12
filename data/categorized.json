@@ -313,6 +313,20 @@
       "user": "xbill"
     },
     {
+      "title": "Guarding the till while autonomous data agents do the digging",
+      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
+      "published_at": "2026-07-09T22:24:23Z",
+      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
+      "tags": [
+        "agenticarchitect",
+        "antigravity",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "Visitors get some serious puppy love",
       "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
       "published_at": "2026-07-01T13:47:36Z",
@@ -434,6 +448,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "For AI coding, the kids are alright",
+      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
+      "published_at": "2026-06-29T16:06:12Z",
+      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
+      "tags": [
+        "aie",
+        "beginners",
+        "softwaredevelopment",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
+    },
+    {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "published_at": "2026-07-08T10:23:41Z",
+      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
+      "source": "Dev.to",
+      "user": "ValeryKot"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -603,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "nexu-io"
     },
     {
@@ -618,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 361,
       "user": "ronak-create"
     },
     {
@@ -633,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 710,
       "user": "Robbyant"
     },
     {
@@ -648,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "GreyGunG"
     },
     {
@@ -678,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "xiaotianfotos"
     },
     {
@@ -693,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "yusukebe"
     },
     {
@@ -708,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "jiguang132"
     },
     {
@@ -723,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "yetone"
     },
     {
@@ -755,6 +829,19 @@
       "source": "GitHub",
       "stars": 70,
       "user": "l0ng-ai"
+    },
+    {
+      "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+      "url": "https://xandergos.github.io/terrain-diffusion/",
+      "published_at": "2026-07-12T14:56:07.100-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cogsci",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
     },
     {
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
@@ -997,6 +1084,21 @@
       "user": "Gil Barbara"
     },
     {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
+      "published_at": "2026-06-23T12:33:46Z",
+      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "tags": [
+        "ai",
+        "agents",
+        "multiplatform",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
+      "source": "Dev.to",
+      "user": "Ahmad Ra'fat"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1128,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2664,
       "user": "withmarbleapp"
     },
     {
@@ -1143,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1813,
+      "stars": 1817,
       "user": "Shpigford"
     },
     {
@@ -1158,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1184,
       "user": "oso95"
     },
     {
@@ -1173,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "nexu-io"
     },
     {
@@ -1188,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 361,
       "user": "ronak-create"
     },
     {
@@ -1203,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "vinhhien112"
     },
     {
@@ -1218,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 638,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1233,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "xiaotianfotos"
     },
     {
@@ -1248,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "yusukebe"
     },
     {
@@ -1263,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "jiguang132"
     },
     {
@@ -1278,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "yetone"
     },
     {
@@ -1405,30 +1507,35 @@
       "user": "Gary Dale"
     },
     {
-      "title": "javascript importing with absolute path",
-      "url": "https://stackoverflow.com/questions/79979531/javascript-importing-with-absolute-path",
-      "published_at": "2026-07-10T04:47:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eng.ragy"
-    },
-    {
-      "title": "React sourcemap warns it can't find components in nested directories",
-      "url": "https://stackoverflow.com/questions/79979739/react-sourcemap-warns-it-cant-find-components-in-nested-directories",
-      "published_at": "2026-07-10T17:52:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
-        "webpack-dev-server",
-        "source-maps"
+        "html",
+        "css",
+        "z-index"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "hora"
+      "user": "MindaMan"
+    },
+    {
+      "title": "How to set consistent font fallback for mixed English/Hindi text in PptxGenJS?",
+      "url": "https://stackoverflow.com/questions/79972485/how-to-set-consistent-font-fallback-for-mixed-english-hindi-text-in-pptxgenjs",
+      "published_at": "2026-07-02T07:31:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "unicode",
+        "powerpoint",
+        "pptxgenjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CloudMigrationGuy"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1670,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 913,
       "user": "Robbyant"
     },
     {
@@ -1685,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 710,
       "user": "Robbyant"
     },
     {
@@ -1715,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "vinhhien112"
     },
     {
@@ -2139,6 +2246,21 @@
       "user": "Gary Dale"
     },
     {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
+    },
+    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -2426,6 +2548,20 @@
       "user": "xbill"
     },
     {
+      "title": "Guarding the till while autonomous data agents do the digging",
+      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
+      "published_at": "2026-07-09T22:24:23Z",
+      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
+      "tags": [
+        "agenticarchitect",
+        "antigravity",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
       "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0",
       "published_at": "2026-06-21T14:34:08Z",
@@ -2439,6 +2575,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
+      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
+      "published_at": "2026-07-02T02:53:02Z",
+      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
+      "tags": [
+        "cloud",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "xiaozhou26/icloud-hme - GitHub Repository",
@@ -2573,6 +2722,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
+      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
+      "published_at": "2026-07-02T02:53:02Z",
+      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
+      "tags": [
+        "cloud",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2947,6 +3109,34 @@
       "user": "Gil Barbara"
     },
     {
+      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
+      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
+      "published_at": "2026-07-02T02:53:02Z",
+      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
+      "tags": [
+        "cloud",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
+      "published_at": "2026-07-08T14:49:51Z",
+      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
+      "tags": [
+        "ai",
+        "agents",
+        "git",
+        "entire"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
+      "source": "Dev.to",
+      "user": "Rizèl Scarlett"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -2994,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2664,
       "user": "withmarbleapp"
     },
     {
@@ -3009,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1813,
+      "stars": 1817,
       "user": "Shpigford"
     },
     {
@@ -3024,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1184,
       "user": "oso95"
     },
     {
@@ -3039,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "nexu-io"
     },
     {
@@ -3054,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 361,
       "user": "ronak-create"
     },
     {
@@ -3069,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 913,
       "user": "Robbyant"
     },
     {
@@ -3084,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 710,
       "user": "Robbyant"
     },
     {
@@ -3114,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "vinhhien112"
     },
     {
@@ -3144,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 294,
       "user": "cosmtrek"
     },
     {
@@ -3159,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "GreyGunG"
     },
     {
@@ -3219,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 638,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3234,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "xiaotianfotos"
     },
     {
@@ -3249,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "yusukebe"
     },
     {
@@ -3264,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "jiguang132"
     },
     {
@@ -3279,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "yetone"
     },
     {
@@ -3309,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "gnomeria"
     },
     {
