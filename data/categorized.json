@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "nexu-io"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 368,
       "user": "ronak-create"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 420,
       "user": "yusukebe"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "jiguang132"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "yetone"
     },
     {
@@ -829,6 +829,31 @@
       "source": "GitHub",
       "stars": 70,
       "user": "l0ng-ai"
+    },
+    {
+      "title": "Know thine enemy: A critical engagement with AI-assisted software development",
+      "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "published_at": "2026-07-12T17:12:06.524-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "projectgus"
+    },
+    {
+      "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+      "url": "https://xandergos.github.io/terrain-diffusion/",
+      "published_at": "2026-07-12T14:56:07.100-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cogsci",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
     },
     {
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
@@ -1217,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2674,
+      "stars": 2683,
       "user": "withmarbleapp"
     },
     {
@@ -1232,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1821,
+      "stars": 1822,
       "user": "Shpigford"
     },
     {
@@ -1247,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1217,
+      "stars": 1233,
       "user": "oso95"
     },
     {
@@ -1262,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "nexu-io"
     },
     {
@@ -1277,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 368,
       "user": "ronak-create"
     },
     {
@@ -1292,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 573,
       "user": "vinhhien112"
     },
     {
@@ -1337,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 420,
       "user": "yusukebe"
     },
     {
@@ -1352,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "jiguang132"
     },
     {
@@ -1367,8 +1392,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "yetone"
+    },
+    {
+      "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
+      "url": "https://framagit.org/ppom/reaction",
+      "published_at": "2026-07-11T20:15:49.049-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
@@ -1751,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 918,
       "user": "Robbyant"
     },
     {
@@ -1781,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "Robbyant"
     },
     {
@@ -1796,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 573,
       "user": "vinhhien112"
     },
     {
@@ -1811,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "Robbyant"
     },
     {
@@ -2828,6 +2865,18 @@
       "user": "2352500"
     },
     {
+      "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
+      "url": "https://framagit.org/ppom/reaction",
+      "published_at": "2026-07-11T20:15:49.049-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
+    },
+    {
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
       "published_at": "2026-07-11T01:01:28.000Z",
@@ -3131,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2674,
+      "stars": 2683,
       "user": "withmarbleapp"
     },
     {
@@ -3146,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1821,
+      "stars": 1822,
       "user": "Shpigford"
     },
     {
@@ -3161,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1217,
+      "stars": 1233,
       "user": "oso95"
     },
     {
@@ -3176,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "nexu-io"
     },
     {
@@ -3191,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 368,
       "user": "ronak-create"
     },
     {
@@ -3206,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 918,
       "user": "Robbyant"
     },
     {
@@ -3236,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "Robbyant"
     },
     {
@@ -3251,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 573,
       "user": "vinhhien112"
     },
     {
@@ -3266,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "Robbyant"
     },
     {
@@ -3281,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "cosmtrek"
     },
     {
@@ -3386,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 420,
       "user": "yusukebe"
     },
     {
@@ -3401,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "jiguang132"
     },
     {
@@ -3416,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "yetone"
     },
     {
@@ -3431,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "thatmagicalcat"
     },
     {
@@ -3446,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "gnomeria"
     },
     {
