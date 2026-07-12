@@ -662,8 +662,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "nexu-io"
+    },
+    {
+      "title": "ronak-create/FableCut - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "url": "https://github.com/ronak-create/FableCut",
+      "published_at": "2026-07-06T16:18:57Z",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
+      "source": "GitHub",
+      "stars": 339,
+      "user": "ronak-create"
     },
     {
       "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
@@ -677,8 +692,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 679,
       "user": "Robbyant"
+    },
+    {
+      "title": "Doriandarko/texts-to-transformer - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "published_at": "2026-07-08T08:12:17Z",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
+      "source": "GitHub",
+      "stars": 352,
+      "user": "Doriandarko"
     },
     {
       "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
@@ -692,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "olemeyer"
     },
     {
@@ -707,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "GreyGunG"
     },
     {
@@ -724,21 +754,6 @@
       "source": "GitHub",
       "stars": 68,
       "user": "uf-hy"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "published_at": "2026-07-05T06:30:55Z",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
-      "source": "GitHub",
-      "stars": 725,
-      "user": "simonlin1212"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -767,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 387,
       "user": "jiguang132"
     },
     {
@@ -782,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 330,
       "user": "yusukebe"
     },
     {
@@ -797,23 +812,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "bkingfilm"
     },
     {
-      "title": "avifenesh/bw24 - From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
-      "url": "https://github.com/avifenesh/bw24",
-      "published_at": "2026-07-05T20:45:33Z",
-      "description": "From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 234,
+      "user": "yetone"
+    },
+    {
+      "title": "aclfe/inertia - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
+      "url": "https://github.com/aclfe/inertia",
+      "published_at": "2026-07-06T18:26:13Z",
+      "description": "A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 260,
-      "user": "avifenesh"
+      "stars": 78,
+      "user": "aclfe"
+    },
+    {
+      "title": "l0ng-ai/tty7 - A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "url": "https://github.com/l0ng-ai/tty7",
+      "published_at": "2026-07-06T12:51:10Z",
+      "description": "A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24760907?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "l0ng-ai"
     },
     {
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
@@ -932,22 +977,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "published_at": "2026-07-10T17:17:12.000Z",
-      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Hardware",
-        "AI chips",
-        "initial public offering"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1217,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2378,
+      "stars": 2398,
       "user": "withmarbleapp"
     },
     {
@@ -1232,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1772,
       "user": "Shpigford"
     },
     {
@@ -1247,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 888,
       "user": "oso95"
     },
     {
@@ -1262,38 +1291,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "nexu-io"
     },
     {
-      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
-      "published_at": "2026-07-05T21:15:08Z",
-      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "title": "ronak-create/FableCut - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "url": "https://github.com/ronak-create/FableCut",
+      "published_at": "2026-07-06T16:18:57Z",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 388,
-      "user": "majidmanzarpour"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "published_at": "2026-07-05T06:30:55Z",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
-      "source": "GitHub",
-      "stars": 725,
-      "user": "simonlin1212"
+      "stars": 339,
+      "user": "ronak-create"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -1322,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 387,
       "user": "jiguang132"
     },
     {
@@ -1337,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 330,
       "user": "yusukebe"
     },
     {
@@ -1352,23 +1366,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "bkingfilm"
     },
     {
-      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
-      "url": "https://github.com/lucid-softworks/lumen",
-      "published_at": "2026-07-05T10:24:00Z",
-      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "lucid-softworks"
+      "stars": 234,
+      "user": "yetone"
     },
     {
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
@@ -1468,6 +1482,20 @@
       "user": "eng.ragy"
     },
     {
+      "title": "Probable solution for A2UI React normalized cards rendering issue",
+      "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
+      "published_at": "2026-07-10T17:43:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "agent"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DAALROTI_SDG"
+    },
+    {
       "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
       "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
       "published_at": "2026-07-09T18:58:08.000Z",
@@ -1481,20 +1509,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bahar betvan"
-    },
-    {
-      "title": "Probable solution for A2UI React normalized cards rendering issue",
-      "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
-      "published_at": "2026-07-10T17:43:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DAALROTI_SDG"
     },
     {
       "title": "React sourcemap warns it can't find components in nested directories",
@@ -1750,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 795,
       "user": "Robbyant"
     },
     {
@@ -1765,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 679,
       "user": "Robbyant"
     },
     {
@@ -1780,23 +1794,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "Robbyant"
-    },
-    {
-      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "url": "https://github.com/nagisanzenin/engram",
-      "published_at": "2026-07-05T09:53:10Z",
-      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
-      "source": "GitHub",
-      "stars": 511,
-      "user": "nagisanzenin"
     },
     {
       "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
@@ -1810,8 +1809,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 449,
       "user": "Robbyant"
+    },
+    {
+      "title": "Doriandarko/texts-to-transformer - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "published_at": "2026-07-08T08:12:17Z",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
+      "source": "GitHub",
+      "stars": 352,
+      "user": "Doriandarko"
+    },
+    {
+      "title": "Printing list of zip-object prohibits conversion into dictionary",
+      "url": "https://stackoverflow.com/questions/79980004/printing-list-of-zip-object-prohibits-conversion-into-dictionary",
+      "published_at": "2026-07-11T23:10:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SandwichX"
     },
     {
       "title": "I got a \"cannot import name '__version__' from 'pydantic_core' (unknown location)\" error during ComfyUI bootup",
@@ -1934,22 +1960,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nenord"
-    },
-    {
-      "title": "Race condition between events in an EDA system",
-      "url": "https://stackoverflow.com/questions/79978472/race-condition-between-events-in-an-eda-system",
-      "published_at": "2026-07-09T20:50:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "architecture",
-        "rabbitmq",
-        "race-condition",
-        "eda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Touge128345"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2160,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "olemeyer"
     }
   ],
@@ -2581,6 +2591,21 @@
       "user": "xbill"
     },
     {
+      "title": "xiaozhou26/icloud-hme - GitHub Repository",
+      "url": "https://github.com/xiaozhou26/icloud-hme",
+      "published_at": "2026-07-08T11:04:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "xiaozhou26"
+    },
+    {
       "title": "Best practice for using Cloudflare workers to serve images from R2",
       "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
       "published_at": "2026-07-10T20:55:31.000Z",
@@ -2687,19 +2712,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "published_at": "2026-07-10T14:05:12.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Vaelatern"
     },
     {
       "title": "How to get body of the query using aiosql module?",
@@ -3165,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2378,
+      "stars": 2398,
       "user": "withmarbleapp"
     },
     {
@@ -3180,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1772,
       "user": "Shpigford"
     },
     {
@@ -3195,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 888,
       "user": "oso95"
     },
     {
@@ -3210,23 +3222,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "nexu-io"
     },
     {
-      "title": "majidmanzarpour/threejs-procedural-dungeon - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
-      "published_at": "2026-07-05T21:15:08Z",
-      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
+      "title": "ronak-create/FableCut - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "url": "https://github.com/ronak-create/FableCut",
+      "published_at": "2026-07-06T16:18:57Z",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13189110?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 388,
-      "user": "majidmanzarpour"
+      "stars": 339,
+      "user": "ronak-create"
     },
     {
       "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
@@ -3240,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 795,
       "user": "Robbyant"
     },
     {
@@ -3255,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 679,
       "user": "Robbyant"
     },
     {
@@ -3270,23 +3282,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "Robbyant"
-    },
-    {
-      "title": "nagisanzenin/engram - Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "url": "https://github.com/nagisanzenin/engram",
-      "published_at": "2026-07-05T09:53:10Z",
-      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
-      "source": "GitHub",
-      "stars": 511,
-      "user": "nagisanzenin"
     },
     {
       "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
@@ -3300,8 +3297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 449,
       "user": "Robbyant"
+    },
+    {
+      "title": "Doriandarko/texts-to-transformer - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "published_at": "2026-07-08T08:12:17Z",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1247180?v=4",
+      "source": "GitHub",
+      "stars": 352,
+      "user": "Doriandarko"
     },
     {
       "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
@@ -3315,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "olemeyer"
     },
     {
@@ -3330,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "GreyGunG"
     },
     {
@@ -3345,23 +3357,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "Foxemsx"
-    },
-    {
-      "title": "MaximeRivest/remagic - Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "url": "https://github.com/MaximeRivest/remagic",
-      "published_at": "2026-07-05T18:32:02Z",
-      "description": "Make your reMarkable Paper Pro magical — one-command developer-mode → AppLoad installer for builders and tinkerers.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
-      "source": "GitHub",
-      "stars": 71,
-      "user": "MaximeRivest"
     },
     {
       "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
@@ -3379,19 +3376,19 @@
       "user": "uf-hy"
     },
     {
-      "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "published_at": "2026-07-05T06:30:55Z",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "title": "xiaozhou26/icloud-hme - GitHub Repository",
+      "url": "https://github.com/xiaozhou26/icloud-hme",
+      "published_at": "2026-07-08T11:04:56Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 725,
-      "user": "simonlin1212"
+      "stars": 68,
+      "user": "xiaozhou26"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -3420,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 387,
       "user": "jiguang132"
     },
     {
@@ -3435,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 330,
       "user": "yusukebe"
     },
     {
@@ -3450,53 +3447,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "bkingfilm"
     },
     {
-      "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "url": "https://github.com/MaximeRivest/riddle",
-      "published_at": "2026-07-05T15:48:08Z",
-      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10967951?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1402,
-      "user": "MaximeRivest"
-    },
-    {
-      "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "url": "https://github.com/514-labs/dnsglobe",
-      "published_at": "2026-07-05T01:03:37Z",
-      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/140028474?v=4",
-      "source": "GitHub",
-      "stars": 815,
-      "user": "514-labs"
-    },
-    {
-      "title": "avifenesh/bw24 - From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
-      "url": "https://github.com/avifenesh/bw24",
-      "published_at": "2026-07-05T20:45:33Z",
-      "description": "From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55848801?v=4",
-      "source": "GitHub",
-      "stars": 260,
-      "user": "avifenesh"
+      "stars": 234,
+      "user": "yetone"
     },
     {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
@@ -3514,19 +3481,64 @@
       "user": "thatmagicalcat"
     },
     {
-      "title": "lucid-softworks/lumen - A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
-      "url": "https://github.com/lucid-softworks/lumen",
-      "published_at": "2026-07-05T10:24:00Z",
-      "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, three tiers incl. an ARM64 JIT, 100% test262 (53,400/53,400)",
+      "title": "ActiveTK/VRAMDISK - VRAMDISK: Create VRAM disk on Windows",
+      "url": "https://github.com/ActiveTK/VRAMDISK",
+      "published_at": "2026-07-07T18:05:01Z",
+      "description": "VRAMDISK: Create VRAM disk on Windows",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235966165?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68322433?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "lucid-softworks"
+      "stars": 112,
+      "user": "ActiveTK"
+    },
+    {
+      "title": "gnomeria/usbtree - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.",
+      "url": "https://github.com/gnomeria/usbtree",
+      "published_at": "2026-07-07T14:19:23Z",
+      "description": "Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "gnomeria"
+    },
+    {
+      "title": "aclfe/inertia - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
+      "url": "https://github.com/aclfe/inertia",
+      "published_at": "2026-07-06T18:26:13Z",
+      "description": "A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "aclfe"
+    },
+    {
+      "title": "l0ng-ai/tty7 - A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "url": "https://github.com/l0ng-ai/tty7",
+      "published_at": "2026-07-06T12:51:10Z",
+      "description": "A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24760907?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "l0ng-ai"
     },
     {
       "title": "Good Tools Are Invisible",
