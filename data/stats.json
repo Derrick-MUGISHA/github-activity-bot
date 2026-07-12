@@ -1,7 +1,7 @@
 {
-  "total": 175,
+  "total": 174,
   "by_source": {
-    "Dev.to": 51,
+    "Dev.to": 50,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -11,27 +11,27 @@
   },
   "by_category": {
     "AI": 69,
-    "JavaScript": 35,
+    "JavaScript": 34,
     "Python": 33,
     "DevOps": 13,
     "WebDev": 6,
-    "Mobile": 4,
-    "Cloud": 18,
-    "Database": 4,
+    "Mobile": 5,
+    "Cloud": 17,
+    "Database": 5,
     "Security": 16,
     "Tools": 48
   },
   "by_language": {
     "Python": 33,
-    "Go": 33,
-    "Rust": 8,
-    "JavaScript": 35,
-    "Java": 28,
-    "PHP": 2,
-    "Swift": 2
+    "Go": 31,
+    "Rust": 9,
+    "JavaScript": 34,
+    "Java": 27,
+    "Swift": 3,
+    "PHP": 1
   },
   "by_date": {
-    "2026-07-09": 15,
+    "2026-07-09": 14,
     "2026-07-08": 14,
     "2026-07-07": 7,
     "2026-07-10": 12,
@@ -97,8 +97,8 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2022-08-01": 1,
-    "2026-07-12": 16,
-    "2026-07-11": 16
+    "2026-07-12": 18,
+    "2026-07-11": 14
   },
   "top_tags": {
     "github": 25,
@@ -106,7 +106,7 @@
     "ai": 22,
     "python": 21,
     "AI": 18,
-    "javascript": 17,
+    "javascript": 16,
     "Security": 12,
     "JavaScript": 11,
     "Python": 11,
@@ -116,20 +116,20 @@
     "productivity": 8,
     "aie": 8,
     "go": 6,
-    "antigravity": 5,
+    "rust": 6,
     "webdev": 5,
     "typescript": 5,
-    "rust": 5,
-    "antigravitycli": 4
+    "antigravitycli": 4,
+    "gemma4": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "23.4",
-    "Go": "23.4",
-    "Rust": "5.7",
-    "JavaScript": "24.8",
-    "Java": "19.9",
-    "PHP": "1.4",
-    "Swift": "1.4"
+    "Python": "23.9",
+    "Go": "22.5",
+    "Rust": "6.5",
+    "JavaScript": "24.6",
+    "Java": "19.6",
+    "Swift": "2.2",
+    "PHP": "0.7"
   }
 }

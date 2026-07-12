@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Guarding the till while autonomous data agents do the digging",
-      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
-      "published_at": "2026-07-09T22:24:23Z",
-      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
-      "tags": [
-        "agenticarchitect",
-        "antigravity",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
       "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
       "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5",
       "published_at": "2026-07-10T14:12:20Z",
@@ -617,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "nexu-io"
     },
     {
@@ -647,7 +633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 709,
       "user": "Robbyant"
     },
     {
@@ -662,7 +648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "GreyGunG"
     },
     {
@@ -692,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "xiaotianfotos"
     },
     {
@@ -707,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "yusukebe"
     },
     {
@@ -737,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "yetone"
     },
     {
@@ -791,6 +777,19 @@
       "url": "https://stackoverflow.com/questions/79979858/how-to-get-body-of-the-query-using-aiosql-module",
       "published_at": "2026-07-11T08:17:56.000Z",
       "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22099079"
+    },
+    {
+      "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
+      "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
+      "published_at": "2026-07-11T08:23:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql"
@@ -1129,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2647,
+      "stars": 2652,
       "user": "withmarbleapp"
     },
     {
@@ -1144,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1813,
       "user": "Shpigford"
     },
     {
@@ -1159,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1160,
       "user": "oso95"
     },
     {
@@ -1174,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "nexu-io"
     },
     {
@@ -1204,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 541,
       "user": "vinhhien112"
     },
     {
@@ -1234,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "xiaotianfotos"
     },
     {
@@ -1249,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "yusukebe"
     },
     {
@@ -1279,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "yetone"
     },
     {
@@ -1295,23 +1294,23 @@
       "user": "fanf"
     },
     {
-      "title": "Ant, a lightweight JavaScript runtime",
-      "url": "https://antjs.org/",
-      "published_at": "2026-07-12T02:11:23.547-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "What are Wrappers in ReactJS?",
+      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
+      "published_at": "2026-07-12T18:26:25.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "vibecoding"
+        "reactjs"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "loige"
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
     },
     {
       "title": "Flowing ideas across a page",
       "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
       "published_at": "2026-07-12T14:12:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1321,21 +1320,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sarah"
-    },
-    {
-      "title": "How to run a PHP JS Query?",
-      "url": "https://stackoverflow.com/questions/79979846/how-to-run-a-php-js-query",
-      "published_at": "2026-07-11T06:49:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "php",
-        "json"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oblique"
     },
     {
       "title": "Probable solution for A2UI React normalized cards rendering issue",
@@ -1686,7 +1670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 910,
       "user": "Robbyant"
     },
     {
@@ -1701,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 709,
       "user": "Robbyant"
     },
     {
@@ -1716,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "Robbyant"
     },
     {
@@ -1731,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 541,
       "user": "vinhhien112"
     },
     {
@@ -1746,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "Robbyant"
     },
     {
@@ -1765,7 +1749,7 @@
       "title": "Do I have to learn all types of functions in python",
       "url": "https://stackoverflow.com/questions/79980125/do-i-have-to-learn-all-types-of-functions-in-python",
       "published_at": "2026-07-12T16:21:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python"
       ],
@@ -1872,18 +1856,17 @@
       "user": "user22099079"
     },
     {
-      "title": "\"session not created\" error with Selenium ChromeDriver started by Django",
-      "url": "https://stackoverflow.com/questions/79979907/session-not-created-error-with-selenium-chromedriver-started-by-django",
-      "published_at": "2026-07-11T13:18:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
+      "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
+      "published_at": "2026-07-11T08:23:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "django",
-        "selenium-chromedriver"
+        "postgresql"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JAK Zero"
+      "user": "user22099079"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2130,7 +2113,7 @@
       "title": "Flowing ideas across a page",
       "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
       "published_at": "2026-07-12T14:12:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2202,6 +2185,19 @@
       "user": "user22099079"
     },
     {
+      "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
+      "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
+      "published_at": "2026-07-11T08:23:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "postgresql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22099079"
+    },
+    {
       "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
       "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
       "published_at": "2026-07-09T16:04:02.000Z",
@@ -2248,20 +2244,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Guarding the till while autonomous data agents do the digging",
-      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
-      "published_at": "2026-07-09T22:24:23Z",
-      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
-      "tags": [
-        "agenticarchitect",
-        "antigravity",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
     },
     {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
@@ -2554,6 +2536,19 @@
       "url": "https://stackoverflow.com/questions/79979858/how-to-get-body-of-the-query-using-aiosql-module",
       "published_at": "2026-07-11T08:17:56.000Z",
       "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22099079"
+    },
+    {
+      "title": "How to set the cursor of aiosql to use real dictionary instead of tuple of tuples?",
+      "url": "https://stackoverflow.com/questions/79979860/how-to-set-the-cursor-of-aiosql-to-use-real-dictionary-instead-of-tuple-of-tuple",
+      "published_at": "2026-07-11T08:23:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql"
@@ -2999,7 +2994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2647,
+      "stars": 2652,
       "user": "withmarbleapp"
     },
     {
@@ -3014,7 +3009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1813,
       "user": "Shpigford"
     },
     {
@@ -3029,7 +3024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1160,
       "user": "oso95"
     },
     {
@@ -3044,7 +3039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "nexu-io"
     },
     {
@@ -3074,7 +3069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 910,
       "user": "Robbyant"
     },
     {
@@ -3089,7 +3084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 709,
       "user": "Robbyant"
     },
     {
@@ -3104,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "Robbyant"
     },
     {
@@ -3119,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 541,
       "user": "vinhhien112"
     },
     {
@@ -3134,7 +3129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "Robbyant"
     },
     {
@@ -3149,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 288,
       "user": "cosmtrek"
     },
     {
@@ -3164,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "GreyGunG"
     },
     {
@@ -3179,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "Foxemsx"
     },
     {
@@ -3239,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "xiaotianfotos"
     },
     {
@@ -3254,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "yusukebe"
     },
     {
@@ -3284,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "yetone"
     },
     {
@@ -3299,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "thatmagicalcat"
     },
     {
