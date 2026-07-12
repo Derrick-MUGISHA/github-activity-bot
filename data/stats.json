@@ -11,21 +11,21 @@
   },
   "by_category": {
     "AI": 77,
-    "JavaScript": 32,
+    "JavaScript": 33,
     "Python": 33,
     "DevOps": 14,
     "WebDev": 6,
     "Mobile": 6,
-    "Cloud": 22,
+    "Cloud": 21,
     "Database": 4,
-    "Security": 16,
+    "Security": 17,
     "Tools": 48
   },
   "by_language": {
     "Python": 33,
     "Go": 38,
     "Rust": 7,
-    "JavaScript": 32,
+    "JavaScript": 33,
     "Java": 27,
     "Kotlin": 1,
     "PHP": 2,
@@ -34,7 +34,7 @@
   "by_date": {
     "2026-07-09": 15,
     "2026-07-08": 17,
-    "2026-07-10": 20,
+    "2026-07-10": 19,
     "2026-07-07": 7,
     "2026-07-06": 14,
     "2026-06-29": 6,
@@ -99,7 +99,7 @@
     "2024-10-09": 1,
     "2022-08-01": 1,
     "2026-07-11": 23,
-    "2026-07-12": 2
+    "2026-07-12": 3
   },
   "top_tags": {
     "github": 25,
@@ -125,11 +125,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "23.1",
-    "Go": "26.6",
+    "Python": "22.9",
+    "Go": "26.4",
     "Rust": "4.9",
-    "JavaScript": "22.4",
-    "Java": "18.9",
+    "JavaScript": "22.9",
+    "Java": "18.8",
     "Kotlin": "0.7",
     "PHP": "1.4",
     "Swift": "2.1"
