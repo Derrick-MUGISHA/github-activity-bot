@@ -147,21 +147,6 @@
       "user": "xbill"
     },
     {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "tags": [
-        "aie",
-        "gamedev",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
       "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
       "published_at": "2026-07-10T03:33:28Z",
@@ -177,6 +162,21 @@
       "user": "leslysandra"
     },
     {
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "published_at": "2026-06-29T20:00:00Z",
+      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
+      "tags": [
+        "aie",
+        "gamedev",
+        "ai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Omni Flash Preview with Codex",
       "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
       "published_at": "2026-07-05T02:28:00Z",
@@ -190,21 +190,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Parallel Compliance Engine: Drive-to-Sheets Multi-Agent Orchestration",
-      "url": "https://dev.to/gde/parallel-compliance-engine-drive-to-sheets-multi-agent-orchestration-4o",
-      "published_at": "2026-07-10T08:19:13Z",
-      "description": "When building Generative AI applications, developers often encounter a massive bottleneck: sequential...",
-      "tags": [
-        "googlecloud",
-        "antigravitysdk",
-        "googleworkspace",
-        "dataextraction"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flnkghk62fbsstwfim3by.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -632,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "nexu-io"
     },
     {
@@ -647,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "ronak-create"
     },
     {
@@ -666,21 +651,6 @@
       "user": "Robbyant"
     },
     {
-      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "url": "https://github.com/olemeyer/rocketplaneIO",
-      "published_at": "2026-07-06T11:24:01Z",
-      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "olemeyer"
-    },
-    {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
       "url": "https://github.com/GreyGunG/grokbuild-proxy",
       "published_at": "2026-07-09T23:28:51Z",
@@ -692,8 +662,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "GreyGunG"
+    },
+    {
+      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
+      "published_at": "2026-07-07T04:15:04Z",
+      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "uf-hy"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -722,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "yusukebe"
     },
     {
@@ -737,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "jiguang132"
     },
     {
@@ -752,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "yetone"
     },
     {
@@ -767,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "aclfe"
     },
     {
@@ -1144,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2638,
+      "stars": 2647,
       "user": "withmarbleapp"
     },
     {
@@ -1159,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1810,
       "user": "Shpigford"
     },
     {
@@ -1174,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1135,
       "user": "oso95"
     },
     {
@@ -1189,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "nexu-io"
     },
     {
@@ -1204,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "ronak-create"
     },
     {
@@ -1219,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 527,
       "user": "vinhhien112"
     },
     {
@@ -1234,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1264,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "yusukebe"
     },
     {
@@ -1279,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "jiguang132"
     },
     {
@@ -1294,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "yetone"
     },
     {
@@ -1394,6 +1379,21 @@
       "user": "nhaggen"
     },
     {
+      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
+      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
+      "published_at": "2026-07-09T18:58:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "express",
+        "axios",
+        "multer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bahar betvan"
+    },
+    {
       "title": "How to preserve interim filename extensions when specifying `output.filename` in Webpack?",
       "url": "https://stackoverflow.com/questions/79979806/how-to-preserve-interim-filename-extensions-when-specifying-output-filename-in",
       "published_at": "2026-07-11T01:20:59.000Z",
@@ -1431,21 +1431,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "eng.ragy"
-    },
-    {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "express",
-        "axios",
-        "multer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
     },
     {
       "title": "React sourcemap warns it can't find components in nested directories",
@@ -1701,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 905,
       "user": "Robbyant"
     },
     {
@@ -1731,7 +1716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 667,
       "user": "Robbyant"
     },
     {
@@ -1746,7 +1731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 527,
       "user": "vinhhien112"
     },
     {
@@ -1761,7 +1746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "Robbyant"
     },
     {
@@ -2096,21 +2081,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "url": "https://github.com/olemeyer/rocketplaneIO",
-      "published_at": "2026-07-06T11:24:01Z",
-      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "olemeyer"
     }
   ],
   "WebDev": [
@@ -2397,21 +2367,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Parallel Compliance Engine: Drive-to-Sheets Multi-Agent Orchestration",
-      "url": "https://dev.to/gde/parallel-compliance-engine-drive-to-sheets-multi-agent-orchestration-4o",
-      "published_at": "2026-07-10T08:19:13Z",
-      "description": "When building Generative AI applications, developers often encounter a massive bottleneck: sequential...",
-      "tags": [
-        "googlecloud",
-        "antigravitysdk",
-        "googleworkspace",
-        "dataextraction"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flnkghk62fbsstwfim3by.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
@@ -3044,7 +2999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2638,
+      "stars": 2647,
       "user": "withmarbleapp"
     },
     {
@@ -3059,7 +3014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1810,
       "user": "Shpigford"
     },
     {
@@ -3074,7 +3029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1135,
       "user": "oso95"
     },
     {
@@ -3089,7 +3044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "nexu-io"
     },
     {
@@ -3104,7 +3059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "ronak-create"
     },
     {
@@ -3119,7 +3074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 905,
       "user": "Robbyant"
     },
     {
@@ -3149,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 667,
       "user": "Robbyant"
     },
     {
@@ -3164,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 527,
       "user": "vinhhien112"
     },
     {
@@ -3179,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "Robbyant"
     },
     {
@@ -3194,23 +3149,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 273,
       "user": "cosmtrek"
-    },
-    {
-      "title": "olemeyer/rocketplaneIO - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "url": "https://github.com/olemeyer/rocketplaneIO",
-      "published_at": "2026-07-06T11:24:01Z",
-      "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "olemeyer"
     },
     {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
@@ -3224,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "GreyGunG"
     },
     {
@@ -3258,6 +3198,21 @@
       "user": "xiaozhou26"
     },
     {
+      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
+      "published_at": "2026-07-07T04:15:04Z",
+      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "uf-hy"
+    },
+    {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "published_at": "2026-07-12T10:35:44Z",
@@ -3269,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3299,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "yusukebe"
     },
     {
@@ -3314,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "jiguang132"
     },
     {
@@ -3329,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "yetone"
     },
     {
@@ -3344,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "thatmagicalcat"
     },
     {
@@ -3359,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "gnomeria"
     },
     {
@@ -3389,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "aclfe"
     },
     {
