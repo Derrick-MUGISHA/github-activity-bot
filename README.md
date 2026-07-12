@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-174-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--12-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-12 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-13 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) | Dev.to |
 | 20 | [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg) | Dev.to |
 
-<sub>Last fetched: Sun, 12 Jul 2026 23:47:15 CAT</sub>
+<sub>Last fetched: Mon, 13 Jul 2026 00:36:56 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What are closures and provide a practical example?**
+**1. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Token bucket, sliding window, Redis
 
 </details>
 
-**2. `SystemDesign` — Design Twitter's timeline feature**
+**2. `JavaScript` — Implement a debounce function from scratch**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
-**3. `Java` — Explain the Java memory model**
+**3. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 40.8% | `████████████████████` |
-| **Tools** | 50 | 27.2% | `█████████████░░░░░░░` |
-| **JavaScript** | 35 | 19.0% | `█████████░░░░░░░░░░░` |
-| **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 74 | 42.5% | `████████████████████` |
+| **Tools** | 49 | 28.2% | `█████████████░░░░░░░` |
+| **JavaScript** | 34 | 19.5% | `█████████░░░░░░░░░░░` |
+| **Python** | 33 | 19.0% | `█████████░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 13 | 7.5% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.9% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.9% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -185,7 +185,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
-| Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
 | freeCodeCamp | 10 |
@@ -195,22 +194,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ```
 JavaScript      ██████████████████████████████ 24.6%
-Go              █████████████████████████████ 23.9%
-Python          ████████████████████████████ 23.2%
-Java            ███████████████████████ 19.0%
-Rust            ████████ 6.3%
-Swift           ███ 2.1%
+Python          █████████████████████████████ 23.9%
+Go              ████████████████████████████ 23.2%
+Java            ████████████████████████ 19.6%
+Rust            ███████ 5.8%
+Swift           ███ 2.2%
 PHP             █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 35
-    "Go" : 34
+    "JavaScript" : 34
     "Python" : 33
+    "Go" : 32
     "Java" : 27
-    "Rust" : 9
+    "Rust" : 8
     "Swift" : 3
     "PHP" : 1
 ```
@@ -270,6 +269,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 21:47:15 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 22:36:56 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
