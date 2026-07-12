@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-12 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-12 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Need a break? Play today's game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli) | Dev.to |
 | 20 | [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg) | Dev.to |
 
-<sub>Last fetched: Sun, 12 Jul 2026 22:55:37 CAT</sub>
+<sub>Last fetched: Sun, 12 Jul 2026 23:47:15 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — How do you handle errors in async/await?**
+**1. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**2. `JavaScript` — What is the event loop and how does it work?**
+**2. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
-**3. `Python` — Explain GIL and its implications for multithreading**
+**3. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Heap, stack, garbage collection
 
 </details>
 
@@ -171,7 +171,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 20:55:37 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 21:47:15 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
