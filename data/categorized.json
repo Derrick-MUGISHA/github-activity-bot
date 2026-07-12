@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "nexu-io"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "ronak-create"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 685,
       "user": "Robbyant"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "olemeyer"
     },
     {
@@ -737,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "GreyGunG"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 453,
       "user": "xiaotianfotos"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "jiguang132"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 339,
       "user": "yusukebe"
     },
     {
@@ -827,7 +827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "yetone"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "aclfe"
     },
     {
@@ -857,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24760907?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "l0ng-ai"
     },
     {
@@ -1246,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2398,
+      "stars": 2465,
       "user": "withmarbleapp"
     },
     {
@@ -1261,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1772,
+      "stars": 1779,
       "user": "Shpigford"
     },
     {
@@ -1276,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 921,
       "user": "oso95"
     },
     {
@@ -1291,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "nexu-io"
     },
     {
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "ronak-create"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 453,
       "user": "xiaotianfotos"
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "jiguang132"
     },
     {
@@ -1351,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 339,
       "user": "yusukebe"
     },
     {
@@ -1381,8 +1381,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "yetone"
+    },
+    {
+      "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
+      "url": "https://framagit.org/ppom/reaction",
+      "published_at": "2026-07-11T20:15:49.049-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "PWA Installation Guidance Modal is Invisible on Deployed Vite + React + Tailwind App on Vercel",
@@ -1454,22 +1466,6 @@
       "user": "Gary Dale"
     },
     {
-      "title": "Best practice for using Cloudflare workers to serve images from R2",
-      "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
-      "published_at": "2026-07-10T20:55:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "cloudflare",
-        "cloudflare-workers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "abc"
-    },
-    {
       "title": "javascript importing with absolute path",
       "url": "https://stackoverflow.com/questions/79979531/javascript-importing-with-absolute-path",
       "published_at": "2026-07-10T04:47:13.000Z",
@@ -1523,6 +1519,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hora"
+    },
+    {
+      "title": "Import a JSON file to JS code, compatible with old and current browsers",
+      "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
+      "published_at": "2026-07-10T09:33:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "json",
+        "es6-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nhaggen"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1764,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 815,
       "user": "Robbyant"
     },
     {
@@ -1779,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 685,
       "user": "Robbyant"
     },
     {
@@ -1794,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 638,
       "user": "Robbyant"
     },
     {
@@ -1809,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "Robbyant"
     },
     {
@@ -1831,7 +1841,7 @@
       "title": "Printing list of zip-object prohibits conversion into dictionary",
       "url": "https://stackoverflow.com/questions/79980004/printing-list-of-zip-object-prohibits-conversion-into-dictionary",
       "published_at": "2026-07-11T23:10:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python"
       ],
@@ -1843,7 +1853,7 @@
       "title": "I got a \"cannot import name '__version__' from 'pydantic_core' (unknown location)\" error during ComfyUI bootup",
       "url": "https://stackoverflow.com/questions/79979987/i-got-a-cannot-import-name-version-from-pydantic-core-unknown-location",
       "published_at": "2026-07-11T19:31:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "pydantic"
@@ -2170,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "olemeyer"
     }
   ],
@@ -2602,24 +2612,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 73,
       "user": "xiaozhou26"
-    },
-    {
-      "title": "Best practice for using Cloudflare workers to serve images from R2",
-      "url": "https://stackoverflow.com/questions/79979777/best-practice-for-using-cloudflare-workers-to-serve-images-from-r2",
-      "published_at": "2026-07-10T20:55:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "cloudflare",
-        "cloudflare-workers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "abc"
     },
     {
       "title": "GCP Agent Platform pipelines ModelGetOp issue",
@@ -2887,6 +2881,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "2352500"
+    },
+    {
+      "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
+      "url": "https://framagit.org/ppom/reaction",
+      "published_at": "2026-07-11T20:15:49.049-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "An update on the scraper situation",
@@ -3177,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2398,
+      "stars": 2465,
       "user": "withmarbleapp"
     },
     {
@@ -3192,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
       "source": "GitHub",
-      "stars": 1772,
+      "stars": 1779,
       "user": "Shpigford"
     },
     {
@@ -3207,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 921,
       "user": "oso95"
     },
     {
@@ -3222,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "nexu-io"
     },
     {
@@ -3237,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "ronak-create"
     },
     {
@@ -3252,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 815,
       "user": "Robbyant"
     },
     {
@@ -3267,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 685,
       "user": "Robbyant"
     },
     {
@@ -3282,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 638,
       "user": "Robbyant"
     },
     {
@@ -3297,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "Robbyant"
     },
     {
@@ -3327,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "olemeyer"
     },
     {
@@ -3342,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "GreyGunG"
     },
     {
@@ -3361,6 +3367,21 @@
       "user": "Foxemsx"
     },
     {
+      "title": "xiaozhou26/icloud-hme - GitHub Repository",
+      "url": "https://github.com/xiaozhou26/icloud-hme",
+      "published_at": "2026-07-08T11:04:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "xiaozhou26"
+    },
+    {
       "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
       "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
       "published_at": "2026-07-07T04:15:04Z",
@@ -3376,21 +3397,6 @@
       "user": "uf-hy"
     },
     {
-      "title": "xiaozhou26/icloud-hme - GitHub Repository",
-      "url": "https://github.com/xiaozhou26/icloud-hme",
-      "published_at": "2026-07-08T11:04:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "xiaozhou26"
-    },
-    {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
       "url": "https://github.com/xiaotianfotos/homerail",
       "published_at": "2026-07-07T12:11:18Z",
@@ -3402,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 453,
       "user": "xiaotianfotos"
     },
     {
@@ -3417,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "jiguang132"
     },
     {
@@ -3432,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 339,
       "user": "yusukebe"
     },
     {
@@ -3462,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "yetone"
     },
     {
@@ -3477,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 233,
       "user": "thatmagicalcat"
     },
     {
@@ -3492,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68322433?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "ActiveTK"
     },
     {
@@ -3522,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "aclfe"
     },
     {
@@ -3537,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24760907?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "l0ng-ai"
     },
     {
