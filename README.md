@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-178-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--12-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-12 12:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-12 14:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i) | Dev.to |
 | 20 | [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b) | Dev.to |
 
-<sub>Last fetched: Sun, 12 Jul 2026 12:56:20 CAT</sub>
+<sub>Last fetched: Sun, 12 Jul 2026 14:00:41 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is database normalization and denormalization?**
+**1. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Function wrappers, @syntax, practical uses
 
 </details>
 
-**2. `DataStructures` — Find the longest substring without repeating characters**
+**2. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**3. `React` — How would you optimize a React app's performance?**
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 73 | 41.0% | `████████████████████` |
+| **AI** | 74 | 41.6% | `████████████████████` |
 | **Tools** | 48 | 27.0% | `█████████████░░░░░░░` |
 | **JavaScript** | 33 | 18.5% | `█████████░░░░░░░░░░░` |
 | **Python** | 33 | 18.5% | `█████████░░░░░░░░░░░` |
 | **Cloud** | 20 | 11.2% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 17 | 9.6% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.9% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 5 | 2.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.8% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,14 +194,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 24.8%
-Python          ████████████████████████████ 23.4%
-JavaScript      ████████████████████████████ 23.4%
-Java            ███████████████████████ 19.1%
+Go              ██████████████████████████████ 25.0%
+Python          ████████████████████████████ 23.6%
+JavaScript      ████████████████████████████ 23.6%
+Java            ███████████████████████ 19.3%
 Rust            ██████ 5.0%
 Swift           ███ 2.1%
 PHP             ██ 1.4%
-Kotlin          █ 0.7%
 
 ```
 
@@ -214,7 +213,6 @@ pie title Programming Languages Distribution
     "Rust" : 7
     "Swift" : 3
     "PHP" : 2
-    "Kotlin" : 1
 ```
 
 
@@ -272,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 10:56:20 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 12 Jul 2026 12:00:41 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
