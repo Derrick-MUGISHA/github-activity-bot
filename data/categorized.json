@@ -1,6 +1,66 @@
 {
   "AI": [
     {
+      "title": "The Myth of the Post-Documentation Era",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+      "published_at": "2026-07-13T15:59:11Z",
+      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "tags": [
+        "ai",
+        "documentation",
+        "opensource",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
+      "published_at": "2026-07-13T15:17:02Z",
+      "description": "antirez.com",
+      "tags": [
+        "ai",
+        "llm",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
+      "published_at": "2026-07-12T15:09:09Z",
+      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "tags": [
+        "ai",
+        "cloud",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
       "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5",
       "published_at": "2026-07-10T14:12:20Z",
@@ -191,6 +251,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
+    },
+    {
+      "title": "GRIND404: I turned my \"Passion\" for LeetCode into a playable arcade game",
+      "url": "https://dev.to/gde/grind404-i-turned-my-passion-for-leetcode-into-a-playable-arcade-game-1hnl",
+      "published_at": "2026-07-10T20:21:25Z",
+      "description": "This is a submission for the DEV Weekend Challenge: Passion Edition.           What I Built   My...",
+      "tags": [
+        "weekendchallenge",
+        "googleai",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft9s0x8q2d8oowubc9ssz.gif",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "The biggest World’s Fair yet powers down for the moment",
@@ -435,81 +510,6 @@
       "user": "EmberNoGlow"
     },
     {
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
-      "published_at": "2026-06-29T11:50:14Z",
-      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
-      "tags": [
-        "ai",
-        "rag",
-        "mcp",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
-      "title": "For AI coding, the kids are alright",
-      "url": "https://dev.to/dailycontext/for-ai-coding-the-kids-are-alright-29ld",
-      "published_at": "2026-06-29T16:06:12Z",
-      "description": "The AI Engineer World's Fair has attracted a lot of adults, and they brought their kids too, for...",
-      "tags": [
-        "aie",
-        "beginners",
-        "softwaredevelopment",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddyvjid1bpaackc5m8ta.png",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
-    },
-    {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
-      "published_at": "2026-07-08T10:23:41Z",
-      "description": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
-      "tags": [
-        "ai",
-        "llm",
-        "machinelearning",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs5jv6uzg786j6dobl2d4.png",
-      "source": "Dev.to",
-      "user": "ValeryKot"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "Robbyant"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 614,
       "user": "MDX-Tom"
     },
     {
@@ -741,6 +741,21 @@
       "user": "GreyGunG"
     },
     {
+      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
+      "published_at": "2026-07-07T04:15:04Z",
+      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "uf-hy"
+    },
+    {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
       "url": "https://github.com/xiaotianfotos/homerail",
       "published_at": "2026-07-07T12:11:18Z",
@@ -752,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "xiaotianfotos"
     },
     {
@@ -767,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 387,
       "user": "yetone"
     },
     {
@@ -782,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "bkingfilm"
     },
     {
@@ -797,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "opencoredev"
     },
     {
@@ -811,6 +826,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "projectgus"
+    },
+    {
+      "title": "IPv6 over drainage pipe",
+      "url": "https://chaos.social/@marble/116720125530089009",
+      "published_at": "2026-07-13T04:28:38.321-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "culture",
+        "hardware",
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lvmbdv"
     },
     {
       "title": "How to redirect from index.html to main.html after animation ends?",
@@ -842,6 +871,68 @@
       "user": "leakie"
     },
     {
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "published_at": "2026-07-13T15:49:42.000Z",
+      "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "social network",
+        "television"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "published_at": "2026-07-13T15:34:59.000Z",
+      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "India"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "published_at": "2026-07-13T14:19:44.000Z",
+      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "tags": [
+        "Space",
+        "Transportation",
+        "SpaceX",
+        "Starship"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "published_at": "2026-07-13T14:18:16.000Z",
+      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Maps",
+        "navigation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
       "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
       "published_at": "2026-07-12T16:07:00.000Z",
@@ -856,36 +947,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "published_at": "2026-07-11T14:13:00.000Z",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "tags": [
-        "AI",
-        "Exclusive",
-        "OpenAI",
-        "ChatGPT"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "published_at": "2026-07-10T23:55:07.000Z",
-      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "tags": [
-        "AI",
-        "Instagram",
-        "Meta",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1024,21 +1085,6 @@
       "user": "Gil Barbara"
     },
     {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2",
-      "published_at": "2026-06-23T12:33:46Z",
-      "description": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "tags": [
-        "ai",
-        "agents",
-        "multiplatform",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxz9cii8o301ieaz6cmt.png",
-      "source": "Dev.to",
-      "user": "Ahmad Ra'fat"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1170,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2848,
+      "stars": 2862,
       "user": "withmarbleapp"
     },
     {
@@ -1185,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 221,
       "user": "Jane-xiaoer"
     },
     {
@@ -1245,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 812,
       "user": "vinhhien112"
     },
     {
@@ -1260,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1275,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "xiaotianfotos"
     },
     {
@@ -1290,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 387,
       "user": "yetone"
     },
     {
@@ -1305,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "bkingfilm"
     },
     {
@@ -1320,14 +1366,60 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "opencoredev"
+    },
+    {
+      "title": "Just Let Me Write Digits",
+      "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+      "published_at": "2026-07-13T11:01:28.347-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "a11y",
+        "javascript",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gendx"
+    },
+    {
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "published_at": "2026-07-13T14:33:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
+    },
+    {
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
     },
     {
       "title": "What are ways to Draw Rectangle on Image? Image display. But Rectangle does not display. Canvas element JavaScript",
       "url": "https://stackoverflow.com/questions/79980231/what-are-ways-to-draw-rectangle-on-image-image-display-but-rectangle-does-not",
       "published_at": "2026-07-13T06:50:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript"
       ],
@@ -1349,23 +1441,10 @@
       "user": "Mughees Shan"
     },
     {
-      "title": "How to set the condition of loop",
-      "url": "https://stackoverflow.com/questions/79980216/how-to-set-the-condition-of-loop",
-      "published_at": "2026-07-13T05:46:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "loops"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sarfaraz Zulfiqar"
-    },
-    {
       "title": "What are Wrappers in ReactJS?",
       "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
       "published_at": "2026-07-12T18:26:25.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "javascript",
         "reactjs"
@@ -1373,6 +1452,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad Falak Sher"
+    },
+    {
+      "title": "How to set the condition of loop",
+      "url": "https://stackoverflow.com/questions/79980216/how-to-set-the-condition-of-loop",
+      "published_at": "2026-07-13T05:46:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
+      "tags": [
+        "javascript",
+        "loops"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sarfaraz Zulfiqar"
     },
     {
       "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
@@ -1432,34 +1524,6 @@
       "user": "nhaggen"
     },
     {
-      "title": "How can I accurately convert Bangla Unicode text to Bijoy encoding using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79979915/how-can-i-accurately-convert-bangla-unicode-text-to-bijoy-encoding-using-javascr",
-      "published_at": "2026-07-11T13:53:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "unicode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noor Fatima"
-    },
-    {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "z-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MindaMan"
-    },
-    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -1477,6 +1541,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
@@ -1699,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1000,
       "user": "Robbyant"
     },
     {
@@ -1714,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 812,
       "user": "vinhhien112"
     },
     {
@@ -1729,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "Robbyant"
     },
     {
@@ -1744,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 614,
       "user": "MDX-Tom"
     },
     {
@@ -1759,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "Robbyant"
     },
     {
@@ -1897,19 +1976,18 @@
       "user": "robfi"
     },
     {
-      "title": "Behaviour of close button",
-      "url": "https://stackoverflow.com/questions/79979926/behaviour-of-close-button",
-      "published_at": "2026-07-11T14:48:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "published_at": "2026-07-09T06:56:42.000Z",
+      "description": "Stack Overflow question · 6 answers · score 1",
       "tags": [
         "python",
-        "tkinter",
-        "button",
-        "window"
+        "pyinstaller",
+        "playwright-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ras_Al_Ghul"
+      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1943,6 +2021,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
+      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4",
+      "published_at": "2026-07-13T06:21:32Z",
+      "description": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS servers at runtime.",
+      "tags": [
+        "docker",
+        "go",
+        "coredns",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi6e87r15xnm9dzepxauj.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
       "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
@@ -2167,6 +2260,38 @@
       "user": "aka_dude"
     },
     {
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "published_at": "2026-07-13T14:33:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
+    },
+    {
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
+    },
+    {
       "title": "How to redirect from index.html to main.html after animation ends?",
       "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
       "published_at": "2026-07-13T05:29:02.000Z",
@@ -2193,21 +2318,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sarah"
-    },
-    {
-      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
-      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
-      "published_at": "2026-07-10T02:54:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "z-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MindaMan"
     },
     {
       "title": "Flask form submission returns 405 Method Not Allowed even though the route exists",
@@ -2289,6 +2399,21 @@
   ],
   "Cloud": [
     {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2302,6 +2427,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
+      "published_at": "2026-07-12T15:09:09Z",
+      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "tags": [
+        "ai",
+        "cloud",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
@@ -2513,19 +2653,6 @@
       "user": "xbill"
     },
     {
-      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
-      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
-      "published_at": "2026-07-02T02:53:02Z",
-      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
-      "tags": [
-        "cloud",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "xiaozhou26/icloud-hme - GitHub Repository",
       "url": "https://github.com/xiaozhou26/icloud-hme",
       "published_at": "2026-07-08T11:04:56Z",
@@ -2537,7 +2664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "xiaozhou26"
     },
     {
@@ -2646,19 +2773,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
       "source": "Dev.to",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
-      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
-      "published_at": "2026-07-02T02:53:02Z",
-      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
-      "tags": [
-        "cloud",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2793,15 +2907,16 @@
       "user": "2352500"
     },
     {
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "published_at": "2026-07-11T01:01:28.000Z",
-      "description": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing &#8216;serious concerns&#8217; over civil liberties and privacy",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "published_at": "2026-07-13T14:13:38.000Z",
+      "description": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
       "tags": [
+        "Privacy",
         "Security",
-        "CISA",
+        "Transportation",
         "cybersecurity",
-        "us government"
+        "data exposure"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2841,6 +2956,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
+      "published_at": "2026-07-13T15:17:02Z",
+      "description": "antirez.com",
+      "tags": [
+        "ai",
+        "llm",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
@@ -3021,34 +3151,6 @@
       "user": "Gil Barbara"
     },
     {
-      "title": "🚀 Securing Agentic Coding: Announcing the Claude Apps Gateway for Google Cloud",
-      "url": "https://dev.to/googleai/securing-agentic-coding-announcing-the-claude-apps-gateway-for-google-cloud-2co7",
-      "published_at": "2026-07-02T02:53:02Z",
-      "description": "As agentic coding tools like Claude Code scale across engineering teams, platform and security...",
-      "tags": [
-        "cloud",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o8n0bfb7kvm5l5lrxjq.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
-      "published_at": "2026-07-08T14:49:51Z",
-      "description": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "entire"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzkfm7wq951ki5hkhp6d.png",
-      "source": "Dev.to",
-      "user": "Rizèl Scarlett"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3096,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2848,
+      "stars": 2862,
       "user": "withmarbleapp"
     },
     {
@@ -3111,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 221,
       "user": "Jane-xiaoer"
     },
     {
@@ -3171,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1000,
       "user": "Robbyant"
     },
     {
@@ -3186,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 812,
       "user": "vinhhien112"
     },
     {
@@ -3201,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "Robbyant"
     },
     {
@@ -3216,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 614,
       "user": "MDX-Tom"
     },
     {
@@ -3231,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "Robbyant"
     },
     {
@@ -3246,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 442,
       "user": "cosmtrek"
     },
     {
@@ -3276,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105978905?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 118,
       "user": "melqtx"
     },
     {
@@ -3291,23 +3393,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "xiaozhou26"
     },
     {
-      "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
-      "url": "https://github.com/intmian/gorm-d1-adapter",
-      "published_at": "2026-07-10T11:49:55Z",
-      "description": "Make your Go-to-D1 connection 2–18× faster.",
+      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
+      "published_at": "2026-07-07T04:15:04Z",
+      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
       "source": "GitHub",
       "stars": 70,
-      "user": "intmian"
+      "user": "uf-hy"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3321,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3336,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "xiaotianfotos"
     },
     {
@@ -3351,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 387,
       "user": "yetone"
     },
     {
@@ -3366,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "bkingfilm"
     },
     {
@@ -3381,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "opencoredev"
     },
     {
@@ -3396,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "thatmagicalcat"
     },
     {
@@ -3411,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 134,
       "user": "gnomeria"
     },
     {
@@ -3441,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283625033?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 68,
       "user": "iptvorganization"
     },
     {
@@ -3460,6 +3562,20 @@
       "user": "ellie"
     },
     {
+      "title": "Just Let Me Write Digits",
+      "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+      "published_at": "2026-07-13T11:01:28.347-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "a11y",
+        "javascript",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gendx"
+    },
+    {
       "title": "Github Regressions: Private dataset to Github",
       "url": "https://stackoverflow.com/questions/79980190/github-regressions-private-dataset-to-github",
       "published_at": "2026-07-13T03:15:23.000Z",
@@ -3476,49 +3592,35 @@
       "user": "squashCorgi"
     },
     {
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "published_at": "2026-07-13T14:19:44.000Z",
+      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "tags": [
+        "Space",
+        "Transportation",
+        "SpaceX",
+        "Starship"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
       "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
       "published_at": "2026-07-11T17:30:00.000Z",
       "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
       "tags": [
         "Gadgets",
+        "Hardware",
+        "Even Realities",
         "review",
-        "SMART Glasses",
-        "Even Realities"
+        "SMART Glasses"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "published_at": "2026-07-11T01:01:28.000Z",
-      "description": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
-      "tags": [
-        "Security",
-        "CISA",
-        "cybersecurity",
-        "us government"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "published_at": "2026-07-10T23:55:07.000Z",
-      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "tags": [
-        "AI",
-        "Instagram",
-        "Meta",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
