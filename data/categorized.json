@@ -61,20 +61,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
-      "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5",
-      "published_at": "2026-07-10T14:12:20Z",
-      "description": "Most of us have seen a coding agent fail to complete a task we know it can do. We just don't...",
-      "tags": [
-        "ai",
-        "programming",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fia2qvwmkdkgt6abx42ld.jpg",
-      "source": "Dev.to",
-      "user": "James O'Reilly"
-    },
-    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -510,6 +496,21 @@
       "user": "EmberNoGlow"
     },
     {
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "published_at": "2026-06-29T11:50:14Z",
+      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "tags": [
+        "ai",
+        "rag",
+        "mcp",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -707,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "Robbyant"
     },
     {
@@ -722,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 637,
       "user": "MDX-Tom"
     },
     {
@@ -767,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "xiaotianfotos"
     },
     {
@@ -782,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "yetone"
     },
     {
@@ -797,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "bkingfilm"
     },
     {
@@ -812,34 +813,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "opencoredev"
     },
     {
-      "title": "Know thine enemy: A critical engagement with AI-assisted software development",
-      "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
-      "published_at": "2026-07-12T17:12:06.524-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Human Emacs",
+      "url": "https://human-emacs.org/",
+      "published_at": "2026-07-13T11:18:36.108-05:00",
+      "description": "LLM-generated contributions free (possible) fork of GNU Emacs.",
       "tags": [
-        "vibecoding"
+        "emacs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "projectgus"
-    },
-    {
-      "title": "IPv6 over drainage pipe",
-      "url": "https://chaos.social/@marble/116720125530089009",
-      "published_at": "2026-07-13T04:28:38.321-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "culture",
-        "hardware",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvmbdv"
+      "user": "tusharhero"
     },
     {
       "title": "How to redirect from index.html to main.html after animation ends?",
@@ -871,6 +858,52 @@
       "user": "leakie"
     },
     {
+      "title": "Sam Altman&#8217;s space data center trash talk is what most experts already believe",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "published_at": "2026-07-13T17:28:37.000Z",
+      "description": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "tags": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "sam altman",
+        "space data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "12 states sue to block Paramount&#8217;s $110B Warner Bros. deal",
+      "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "published_at": "2026-07-13T17:00:14.000Z",
+      "description": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Mergers and Acquisitions",
+        "Paramount",
+        "Warner Bros"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "published_at": "2026-07-13T16:31:23.000Z",
+      "description": "What does a world of total user-aligned AI actually look like?",
+      "tags": [
+        "AI",
+        "alignment",
+        "George Hotz"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
       "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
       "published_at": "2026-07-13T15:49:42.000Z",
@@ -894,8 +927,7 @@
       "tags": [
         "AI",
         "Anthropic",
-        "Claude",
-        "India"
+        "Claude"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -933,20 +965,35 @@
       "user": "Aisha Malik"
     },
     {
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
-      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "published_at": "2026-07-12T16:07:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
+      "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
+      "published_at": "2026-07-13T14:29:12.000Z",
+      "description": "Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows",
       "tags": [
-        "Transportation",
-        "Elon Musk",
-        "Uber",
-        "Waymo",
-        "Rivian"
+        "ai-agent",
+        "agentic AI",
+        "AI",
+        "dotnet"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "source": "freeCodeCamp",
+      "user": "Gopinath Karunanithi"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
+      "published_at": "2026-07-13T14:12:57.000Z",
+      "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "webdev"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -1039,33 +1086,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
-      "url": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/",
-      "published_at": "2026-07-08T18:56:26.000Z",
-      "description": "In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "mcp"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "AI Paper Review: Self-Consistency Improves Chain of Thought Reasoning in Language Models",
-      "url": "https://www.freecodecamp.org/news/ai-paper-review-self-consistency-improves-chain-of-thought-reasoning-in-language-models/",
-      "published_at": "2026-07-08T18:55:53.000Z",
-      "description": "When Chain-of-Thought Prompting was introduced, it showed that large language models could solve many difficult reasoning problems simply by thinking step by step before producing an answer. It was a",
-      "tags": [
-        "AI",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mohammed Fahd Abrah"
     }
   ],
   "JavaScript": [
@@ -1216,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2862,
+      "stars": 2872,
       "user": "withmarbleapp"
     },
     {
@@ -1231,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "Jane-xiaoer"
     },
     {
@@ -1291,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 826,
       "user": "vinhhien112"
     },
     {
@@ -1321,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "xiaotianfotos"
     },
     {
@@ -1336,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "yetone"
     },
     {
@@ -1351,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "bkingfilm"
     },
     {
@@ -1366,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "opencoredev"
     },
     {
@@ -1384,10 +1404,10 @@
       "user": "gendx"
     },
     {
-      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
-      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
-      "published_at": "2026-07-13T14:33:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1400,10 +1420,10 @@
       "user": "stonypaul"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "published_at": "2026-07-13T14:33:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1441,19 +1461,6 @@
       "user": "Mughees Shan"
     },
     {
-      "title": "What are Wrappers in ReactJS?",
-      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
-      "published_at": "2026-07-12T18:26:25.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Falak Sher"
-    },
-    {
       "title": "How to set the condition of loop",
       "url": "https://stackoverflow.com/questions/79980216/how-to-set-the-condition-of-loop",
       "published_at": "2026-07-13T05:46:22.000Z",
@@ -1465,6 +1472,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sarfaraz Zulfiqar"
+    },
+    {
+      "title": "What are Wrappers in ReactJS?",
+      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
+      "published_at": "2026-07-12T18:26:25.000Z",
+      "description": "Stack Overflow question · 4 answers · score 2",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
     },
     {
       "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
@@ -1522,6 +1542,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nhaggen"
+    },
+    {
+      "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
+      "published_at": "2026-07-13T14:13:49.000Z",
+      "description": "A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe",
+      "tags": [
+        "shadcn",
+        "React",
+        "components",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
+      "published_at": "2026-07-13T14:12:57.000Z",
+      "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "webdev"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1778,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1014,
       "user": "Robbyant"
     },
     {
@@ -1793,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 826,
       "user": "vinhhien112"
     },
     {
@@ -1808,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "Robbyant"
     },
     {
@@ -1823,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 637,
       "user": "MDX-Tom"
     },
     {
@@ -1838,8 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Robbyant"
+    },
+    {
+      "title": "How to create a custom dataset and dataloader in pytorch geometric for files with different dimensions?",
+      "url": "https://stackoverflow.com/questions/79980408/how-to-create-a-custom-dataset-and-dataloader-in-pytorch-geometric-for-files-wit",
+      "published_at": "2026-07-13T16:06:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pytorch",
+        "pytorch-dataloader",
+        "pytorch-geometric"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "User240326"
     },
     {
       "title": "Flask form submission returns 405 Method Not Allowed even though the route exists",
@@ -1861,7 +1927,7 @@
       "title": "OSError: exception: access violation reading 0x0000000000000000",
       "url": "https://stackoverflow.com/questions/79980182/oserror-exception-access-violation-reading-0x0000000000000000",
       "published_at": "2026-07-13T00:27:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "dll",
@@ -1974,20 +2040,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "robfi"
-    },
-    {
-      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
-      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
-      "published_at": "2026-07-09T06:56:42.000Z",
-      "description": "Stack Overflow question · 6 answers · score 1",
-      "tags": [
-        "python",
-        "pyinstaller",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2200,6 +2252,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
+      "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
+      "published_at": "2026-07-13T14:29:12.000Z",
+      "description": "Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows",
+      "tags": [
+        "ai-agent",
+        "agentic AI",
+        "AI",
+        "dotnet"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Gopinath Karunanithi"
     }
   ],
   "WebDev": [
@@ -2246,24 +2313,10 @@
       "user": "velmu"
     },
     {
-      "title": "WebExtension to query any HTML table with PRQL",
-      "url": "https://avlasov.cabal.run/notes/001/index.html",
-      "published_at": "2026-07-13T02:41:04.068-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers",
-        "databases",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aka_dude"
-    },
-    {
-      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
-      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
-      "published_at": "2026-07-13T14:33:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2276,10 +2329,10 @@
       "user": "stonypaul"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "published_at": "2026-07-13T14:33:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2336,6 +2389,37 @@
       "user": "Ainulhaqsde"
     },
     {
+      "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
+      "published_at": "2026-07-13T14:13:49.000Z",
+      "description": "A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe",
+      "tags": [
+        "shadcn",
+        "React",
+        "components",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
+      "published_at": "2026-07-13T14:12:57.000Z",
+      "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "webdev"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -2380,21 +2464,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Abdurrahman Rajab"
-    },
-    {
-      "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
-      "published_at": "2026-07-08T15:47:35.000Z",
-      "description": "Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f",
-      "tags": [
-        "Flutter",
-        "jank",
-        "devtools",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gidudu Nicholas"
     }
   ],
   "Cloud": [
@@ -2664,7 +2733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 101,
       "user": "xiaozhou26"
     },
     {
@@ -2727,20 +2796,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "WebExtension to query any HTML table with PRQL",
-      "url": "https://avlasov.cabal.run/notes/001/index.html",
-      "published_at": "2026-07-13T02:41:04.068-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers",
-        "databases",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aka_dude"
     },
     {
       "title": "Excel file gets corrupted when updating destination workbook using Python for large Excel files",
@@ -3198,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2862,
+      "stars": 2872,
       "user": "withmarbleapp"
     },
     {
@@ -3213,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "Jane-xiaoer"
     },
     {
@@ -3273,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1014,
       "user": "Robbyant"
     },
     {
@@ -3288,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 826,
       "user": "vinhhien112"
     },
     {
@@ -3303,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "Robbyant"
     },
     {
@@ -3318,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 637,
       "user": "MDX-Tom"
     },
     {
@@ -3333,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Robbyant"
     },
     {
@@ -3348,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 454,
       "user": "cosmtrek"
     },
     {
@@ -3378,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105978905?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "melqtx"
     },
     {
@@ -3393,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 101,
       "user": "xiaozhou26"
     },
     {
@@ -3438,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "xiaotianfotos"
     },
     {
@@ -3453,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "yetone"
     },
     {
@@ -3468,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "bkingfilm"
     },
     {
@@ -3483,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "opencoredev"
     },
     {
@@ -3498,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "thatmagicalcat"
     },
     {
@@ -3558,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53315310?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "ellie"
     },
     {
@@ -3607,22 +3662,6 @@
       "user": "Sean O'Kane"
     },
     {
-      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "published_at": "2026-07-11T17:30:00.000Z",
-      "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "Even Realities",
-        "review",
-        "SMART Glasses"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
       "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
       "published_at": "2026-07-09T16:41:35.000Z",
@@ -3653,35 +3692,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Abdurrahman Rajab"
-    },
-    {
-      "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
-      "url": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/",
-      "published_at": "2026-07-08T18:56:26.000Z",
-      "description": "In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "mcp"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
-      "published_at": "2026-07-08T15:47:35.000Z",
-      "description": "Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f",
-      "tags": [
-        "Flutter",
-        "jank",
-        "devtools",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gidudu Nicholas"
     }
   ]
 }
