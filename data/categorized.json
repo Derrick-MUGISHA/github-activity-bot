@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "Robbyant"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 646,
       "user": "MDX-Tom"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "yetone"
     },
     {
@@ -856,6 +856,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leakie"
+    },
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "published_at": "2026-07-13T18:22:10.000Z",
+      "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Sam Altman&#8217;s space data center trash talk is what most experts already believe",
@@ -1236,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2872,
+      "stars": 2883,
       "user": "withmarbleapp"
     },
     {
@@ -1251,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "Jane-xiaoer"
     },
     {
@@ -1311,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 830,
       "user": "vinhhien112"
     },
     {
@@ -1356,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "yetone"
     },
     {
@@ -1404,10 +1418,10 @@
       "user": "gendx"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "published_at": "2026-07-13T14:33:25.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1420,10 +1434,10 @@
       "user": "stonypaul"
     },
     {
-      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
-      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
-      "published_at": "2026-07-13T14:33:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1461,19 +1475,6 @@
       "user": "Mughees Shan"
     },
     {
-      "title": "How to set the condition of loop",
-      "url": "https://stackoverflow.com/questions/79980216/how-to-set-the-condition-of-loop",
-      "published_at": "2026-07-13T05:46:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "javascript",
-        "loops"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sarfaraz Zulfiqar"
-    },
-    {
       "title": "What are Wrappers in ReactJS?",
       "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
       "published_at": "2026-07-12T18:26:25.000Z",
@@ -1485,6 +1486,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad Falak Sher"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 21 answers · score 13",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
@@ -1829,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "Robbyant"
     },
     {
@@ -1844,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 830,
       "user": "vinhhien112"
     },
     {
@@ -1859,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "Robbyant"
     },
     {
@@ -1874,23 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 646,
       "user": "MDX-Tom"
     },
     {
-      "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
-      "url": "https://github.com/Robbyant/lingbot-vla-v2",
-      "published_at": "2026-07-07T16:48:56Z",
-      "description": "From Foundation to Application",
+      "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "published_at": "2026-07-13T05:13:00Z",
+      "description": "Intercept any app, then call it from Python like a library",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "Robbyant"
+      "stars": 545,
+      "user": "littledivy"
     },
     {
       "title": "How to create a custom dataset and dataloader in pytorch geometric for files with different dimensions?",
@@ -2029,17 +2044,18 @@
       "user": "SandwichX"
     },
     {
-      "title": "I got a \"cannot import name '__version__' from 'pydantic_core' (unknown location)\" error during ComfyUI bootup",
-      "url": "https://stackoverflow.com/questions/79979987/i-got-a-cannot-import-name-version-from-pydantic-core-unknown-location",
-      "published_at": "2026-07-11T19:31:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "published_at": "2026-07-09T06:56:42.000Z",
+      "description": "Stack Overflow question · 6 answers · score 1",
       "tags": [
         "python",
-        "pydantic"
+        "pyinstaller",
+        "playwright-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "robfi"
+      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2313,10 +2329,10 @@
       "user": "velmu"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "published_at": "2026-07-13T14:33:25.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2329,10 +2345,10 @@
       "user": "stonypaul"
     },
     {
-      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
-      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
-      "published_at": "2026-07-13T14:33:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2356,6 +2372,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mughees Shan"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 21 answers · score 13",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "Flowing ideas across a page",
@@ -2733,8 +2763,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "published_at": "2026-07-13T18:22:10.000Z",
+      "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
@@ -3253,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2872,
+      "stars": 2883,
       "user": "withmarbleapp"
     },
     {
@@ -3268,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "Jane-xiaoer"
     },
     {
@@ -3328,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "Robbyant"
     },
     {
@@ -3343,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 830,
       "user": "vinhhien112"
     },
     {
@@ -3358,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "Robbyant"
     },
     {
@@ -3373,23 +3417,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 646,
       "user": "MDX-Tom"
     },
     {
-      "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
-      "url": "https://github.com/Robbyant/lingbot-vla-v2",
-      "published_at": "2026-07-07T16:48:56Z",
-      "description": "From Foundation to Application",
+      "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "published_at": "2026-07-13T05:13:00Z",
+      "description": "Intercept any app, then call it from Python like a library",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "Robbyant"
+      "stars": 545,
+      "user": "littledivy"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3403,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 463,
       "user": "cosmtrek"
     },
     {
@@ -3433,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105978905?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 123,
       "user": "melqtx"
     },
     {
@@ -3448,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "xiaozhou26"
     },
     {
@@ -3508,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "yetone"
     },
     {
