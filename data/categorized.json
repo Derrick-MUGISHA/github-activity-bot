@@ -45,6 +45,21 @@
       "user": "christine"
     },
     {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
+    },
+    {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
       "published_at": "2026-06-29T16:06:30Z",
@@ -101,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -666,34 +666,34 @@
       "user": "caseyf7"
     },
     {
-      "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "url": "https://github.com/nexu-io/motion-anything",
-      "published_at": "2026-07-06T14:56:20Z",
-      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "published_at": "2026-07-09T07:08:09Z",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "nexu-io"
+      "stars": 153,
+      "user": "Matchameleon"
     },
     {
-      "title": "ronak-create/FableCut - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "url": "https://github.com/ronak-create/FableCut",
-      "published_at": "2026-07-06T16:18:57Z",
-      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "title": "angieruiz17/codex-gpt-plugin - codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "published_at": "2026-07-08T14:53:58Z",
+      "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
-      "stars": 368,
-      "user": "ronak-create"
+      "stars": 152,
+      "user": "angieruiz17"
     },
     {
       "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
@@ -707,8 +707,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "Robbyant"
+    },
+    {
+      "title": "CoscoAI/luxy-aisre - AISRE for Cosco",
+      "url": "https://github.com/CoscoAI/luxy-aisre",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AISRE for Cosco",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301984372?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "CoscoAI"
     },
     {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
@@ -722,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "GreyGunG"
     },
     {
@@ -756,36 +771,6 @@
       "user": "xiaotianfotos"
     },
     {
-      "title": "yusukebe/ax - The AI-era curl",
-      "url": "https://github.com/yusukebe/ax",
-      "published_at": "2026-07-06T09:39:01Z",
-      "description": "The AI-era curl",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
-      "source": "GitHub",
-      "stars": 420,
-      "user": "yusukebe"
-    },
-    {
-      "title": "jiguang132/storyai-3d-director-desk - A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-      "url": "https://github.com/jiguang132/storyai-3d-director-desk",
-      "published_at": "2026-07-06T01:52:14Z",
-      "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "jiguang132"
-    },
-    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -797,38 +782,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 313,
       "user": "yetone"
     },
     {
-      "title": "aclfe/inertia - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
-      "url": "https://github.com/aclfe/inertia",
-      "published_at": "2026-07-06T18:26:13Z",
-      "description": "A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
+      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "published_at": "2026-07-08T06:06:31Z",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 84,
-      "user": "aclfe"
+      "stars": 286,
+      "user": "bkingfilm"
     },
     {
-      "title": "l0ng-ai/tty7 - A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
-      "url": "https://github.com/l0ng-ai/tty7",
-      "published_at": "2026-07-06T12:51:10Z",
-      "description": "A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
+      "url": "https://github.com/opencoredev/login-with-chatgpt",
+      "published_at": "2026-07-08T03:29:48Z",
+      "description": "A simple SDK that lets your users log in with their ChatGPT account.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24760907?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "l0ng-ai"
+      "stars": 240,
+      "user": "opencoredev"
     },
     {
       "title": "Know thine enemy: A critical engagement with AI-assisted software development",
@@ -848,7 +833,7 @@
       "published_at": "2026-07-12T14:56:07.100-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "cogsci",
+        "compsci",
         "programming"
       ],
       "cover_image": null,
@@ -1242,68 +1227,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2683,
+      "stars": 2700,
       "user": "withmarbleapp"
     },
     {
-      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "url": "https://github.com/Shpigford/knockoff",
-      "published_at": "2026-07-06T15:06:06Z",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "published_at": "2026-07-10T05:50:11Z",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 1822,
-      "user": "Shpigford"
+      "stars": 200,
+      "user": "Jane-xiaoer"
     },
     {
-      "title": "oso95/scroll-world - A skill that turn any brand into a scrollable 3D world",
-      "url": "https://github.com/oso95/scroll-world",
-      "published_at": "2026-07-06T21:28:58Z",
-      "description": "A skill that turn any brand into a scrollable 3D world",
+      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "published_at": "2026-07-09T07:08:09Z",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
       "source": "GitHub",
-      "stars": 1233,
-      "user": "oso95"
+      "stars": 153,
+      "user": "Matchameleon"
     },
     {
-      "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "url": "https://github.com/nexu-io/motion-anything",
-      "published_at": "2026-07-06T14:56:20Z",
-      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "title": "angieruiz17/claude-fintech-skills - claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
+      "url": "https://github.com/angieruiz17/claude-fintech-skills",
+      "published_at": "2026-07-08T14:40:04Z",
+      "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "nexu-io"
+      "stars": 152,
+      "user": "angieruiz17"
     },
     {
-      "title": "ronak-create/FableCut - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "url": "https://github.com/ronak-create/FableCut",
-      "published_at": "2026-07-06T16:18:57Z",
-      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "title": "angieruiz17/codex-gpt-plugin - codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "published_at": "2026-07-08T14:53:58Z",
+      "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
-      "stars": 368,
-      "user": "ronak-create"
+      "stars": 152,
+      "user": "angieruiz17"
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
@@ -1317,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 604,
       "user": "vinhhien112"
     },
     {
@@ -1332,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1351,36 +1336,6 @@
       "user": "xiaotianfotos"
     },
     {
-      "title": "yusukebe/ax - The AI-era curl",
-      "url": "https://github.com/yusukebe/ax",
-      "published_at": "2026-07-06T09:39:01Z",
-      "description": "The AI-era curl",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
-      "source": "GitHub",
-      "stars": 420,
-      "user": "yusukebe"
-    },
-    {
-      "title": "jiguang132/storyai-3d-director-desk - A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-      "url": "https://github.com/jiguang132/storyai-3d-director-desk",
-      "published_at": "2026-07-06T01:52:14Z",
-      "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "jiguang132"
-    },
-    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -1392,8 +1347,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 313,
       "user": "yetone"
+    },
+    {
+      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "published_at": "2026-07-08T06:06:31Z",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "bkingfilm"
+    },
+    {
+      "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
+      "url": "https://github.com/opencoredev/login-with-chatgpt",
+      "published_at": "2026-07-08T03:29:48Z",
+      "description": "A simple SDK that lets your users log in with their ChatGPT account.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 240,
+      "user": "opencoredev"
     },
     {
       "title": "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
@@ -1491,6 +1476,21 @@
       "user": "nhaggen"
     },
     {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
+    },
+    {
       "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
       "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
       "published_at": "2026-07-09T18:58:08.000Z",
@@ -1531,22 +1531,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary Dale"
-    },
-    {
-      "title": "How to set consistent font fallback for mixed English/Hindi text in PptxGenJS?",
-      "url": "https://stackoverflow.com/questions/79972485/how-to-set-consistent-font-fallback-for-mixed-english-hindi-text-in-pptxgenjs",
-      "published_at": "2026-07-02T07:31:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "unicode",
-        "powerpoint",
-        "pptxgenjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CloudMigrationGuy"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1788,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 925,
       "user": "Robbyant"
     },
     {
@@ -1803,22 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 710,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
-      "url": "https://github.com/Robbyant/lingbot-vision",
-      "published_at": "2026-07-06T14:09:42Z",
-      "description": "Self-supervised learning for spatial perception",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 673,
+      "stars": 711,
       "user": "Robbyant"
     },
     {
@@ -1833,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 604,
       "user": "vinhhien112"
     },
     {
@@ -1848,8 +1817,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "Robbyant"
+    },
+    {
+      "title": "CoscoAI/luxy-aisre - AISRE for Cosco",
+      "url": "https://github.com/CoscoAI/luxy-aisre",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AISRE for Cosco",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301984372?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "CoscoAI"
     },
     {
       "title": "are data sturctures can that much methods for mapping",
@@ -2241,6 +2225,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sarah"
+    },
+    {
+      "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
+      "url": "https://stackoverflow.com/questions/79978519/how-can-i-get-an-html-element-to-react-to-hover-at-a-z-index-under-0",
+      "published_at": "2026-07-10T02:54:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "z-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MindaMan"
     },
     {
       "title": "File path not being returned on listing of files in my local server but is returned on live site",
@@ -3180,68 +3179,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2683,
+      "stars": 2700,
       "user": "withmarbleapp"
     },
     {
-      "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "url": "https://github.com/Shpigford/knockoff",
-      "published_at": "2026-07-06T15:06:06Z",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "published_at": "2026-07-10T05:50:11Z",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35243?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 1822,
-      "user": "Shpigford"
+      "stars": 200,
+      "user": "Jane-xiaoer"
     },
     {
-      "title": "oso95/scroll-world - A skill that turn any brand into a scrollable 3D world",
-      "url": "https://github.com/oso95/scroll-world",
-      "published_at": "2026-07-06T21:28:58Z",
-      "description": "A skill that turn any brand into a scrollable 3D world",
+      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "published_at": "2026-07-09T07:08:09Z",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86410452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
       "source": "GitHub",
-      "stars": 1233,
-      "user": "oso95"
+      "stars": 153,
+      "user": "Matchameleon"
     },
     {
-      "title": "nexu-io/motion-anything - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "url": "https://github.com/nexu-io/motion-anything",
-      "published_at": "2026-07-06T14:56:20Z",
-      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "title": "angieruiz17/claude-fintech-skills - claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
+      "url": "https://github.com/angieruiz17/claude-fintech-skills",
+      "published_at": "2026-07-08T14:40:04Z",
+      "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "nexu-io"
+      "stars": 152,
+      "user": "angieruiz17"
     },
     {
-      "title": "ronak-create/FableCut - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "url": "https://github.com/ronak-create/FableCut",
-      "published_at": "2026-07-06T16:18:57Z",
-      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "title": "angieruiz17/codex-gpt-plugin - codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "published_at": "2026-07-08T14:53:58Z",
+      "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84374383?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
-      "stars": 368,
-      "user": "ronak-create"
+      "stars": 152,
+      "user": "angieruiz17"
     },
     {
       "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
@@ -3255,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 925,
       "user": "Robbyant"
     },
     {
@@ -3270,22 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 710,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-vision - Self-supervised learning for spatial perception",
-      "url": "https://github.com/Robbyant/lingbot-vision",
-      "published_at": "2026-07-06T14:09:42Z",
-      "description": "Self-supervised learning for spatial perception",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 673,
+      "stars": 711,
       "user": "Robbyant"
     },
     {
@@ -3300,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 604,
       "user": "vinhhien112"
     },
     {
@@ -3315,8 +3299,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "Robbyant"
+    },
+    {
+      "title": "CoscoAI/luxy-aisre - AISRE for Cosco",
+      "url": "https://github.com/CoscoAI/luxy-aisre",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AISRE for Cosco",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301984372?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "CoscoAI"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3330,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "cosmtrek"
     },
     {
@@ -3345,23 +3344,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "GreyGunG"
-    },
-    {
-      "title": "Foxemsx/riptide - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals.",
-      "url": "https://github.com/Foxemsx/riptide",
-      "published_at": "2026-07-06T11:47:48Z",
-      "description": "A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133228093?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "Foxemsx"
     },
     {
       "title": "xiaozhou26/icloud-hme - GitHub Repository",
@@ -3377,6 +3361,21 @@
       "source": "GitHub",
       "stars": 80,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
+      "url": "https://github.com/intmian/gorm-d1-adapter",
+      "published_at": "2026-07-10T11:49:55Z",
+      "description": "Make your Go-to-D1 connection 2–18× faster.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "intmian"
     },
     {
       "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
@@ -3405,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3424,36 +3423,6 @@
       "user": "xiaotianfotos"
     },
     {
-      "title": "yusukebe/ax - The AI-era curl",
-      "url": "https://github.com/yusukebe/ax",
-      "published_at": "2026-07-06T09:39:01Z",
-      "description": "The AI-era curl",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10682?v=4",
-      "source": "GitHub",
-      "stars": 420,
-      "user": "yusukebe"
-    },
-    {
-      "title": "jiguang132/storyai-3d-director-desk - A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-      "url": "https://github.com/jiguang132/storyai-3d-director-desk",
-      "published_at": "2026-07-06T01:52:14Z",
-      "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300280003?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "jiguang132"
-    },
-    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -3465,8 +3434,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 313,
       "user": "yetone"
+    },
+    {
+      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "published_at": "2026-07-08T06:06:31Z",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "bkingfilm"
+    },
+    {
+      "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
+      "url": "https://github.com/opencoredev/login-with-chatgpt",
+      "published_at": "2026-07-08T03:29:48Z",
+      "description": "A simple SDK that lets your users log in with their ChatGPT account.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 240,
+      "user": "opencoredev"
     },
     {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
@@ -3480,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 263,
       "user": "thatmagicalcat"
     },
     {
@@ -3495,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "gnomeria"
     },
     {
@@ -3514,34 +3513,34 @@
       "user": "ActiveTK"
     },
     {
-      "title": "aclfe/inertia - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
-      "url": "https://github.com/aclfe/inertia",
-      "published_at": "2026-07-06T18:26:13Z",
-      "description": "A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU.",
+      "title": "iptvorganization/dv-hls-gateway - Live stream gateway",
+      "url": "https://github.com/iptvorganization/dv-hls-gateway",
+      "published_at": "2026-07-07T06:59:10Z",
+      "description": "Live stream gateway",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210241585?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/283625033?v=4",
       "source": "GitHub",
-      "stars": 84,
-      "user": "aclfe"
+      "stars": 66,
+      "user": "iptvorganization"
     },
     {
-      "title": "l0ng-ai/tty7 - A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
-      "url": "https://github.com/l0ng-ai/tty7",
-      "published_at": "2026-07-06T12:51:10Z",
-      "description": "A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "title": "ellie/lgtm - GitHub Repository",
+      "url": "https://github.com/ellie/lgtm",
+      "published_at": "2026-07-10T19:29:42Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24760907?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/53315310?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "l0ng-ai"
+      "stars": 59,
+      "user": "ellie"
     },
     {
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
