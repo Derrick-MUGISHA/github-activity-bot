@@ -159544,3 +159544,1085 @@ The AI Engineer World's Fair here in San Francisco is fundamentally a conference
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-13 22:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (76 articles)
+
+#### 1. [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al)
+📅 Mon, 13 Jul 2026 15:59:11 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![The Myth of the Post-Documentation Era](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png)
+
+There is a growing sentiment in engineering circles right now that documentation is a relic of the...
+
+🏷️ Tags: `ai`, `documentation`, `opensource`, `codequality`
+
+---
+
+#### 2. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 3. [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f)
+📅 Mon, 13 Jul 2026 15:17:02 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![A lot of good points here https://antirez.com/news/169](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png)
+
+antirez.com
+
+🏷️ Tags: `ai`, `llm`, `productivity`, `programming`
+
+---
+
+#### 4. [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok)
+📅 Sun, 12 Jul 2026 15:09:09 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png)
+
+Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...
+
+🏷️ Tags: `ai`, `cloud`, `google`, `llm`
+
+---
+
+#### 5. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 6. [Return on Attention: Why AI Code Reviews Are Wearing Us Out](https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0)
+📅 Thu, 09 Jul 2026 22:12:22 GMT
+👤 By: christine | 📌 Source: Dev.to
+
+![Return on Attention: Why AI Code Reviews Are Wearing Us Out](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png)
+
+PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.
+
+🏷️ Tags: `ai`, `codereview`, `productivity`, `softwareengineering`
+
+---
+
+#### 7. [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+📅 Wed, 08 Jul 2026 12:25:01 GMT
+👤 By: Web Developer Hyper | 📌 Source: Dev.to
+
+![✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png)
+
+Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+
+🏷️ Tags: `ai`, `webdev`, `discuss`, `productivity`
+
+---
+
+#### 8. [Two-day hackathon kicks off AI Engineer World’s Fair](https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d)
+📅 Mon, 29 Jun 2026 16:06:30 GMT
+👤 By: Iain Thomson | 📌 Source: Dev.to
+
+![Two-day hackathon kicks off AI Engineer World’s Fair](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg)
+
+While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...
+
+🏷️ Tags: `aie`, `ai`, `hackathon`
+
+---
+
+#### 9. [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h)
+📅 Wed, 08 Jul 2026 15:01:47 GMT
+👤 By: Andrew Bone | 📌 Source: Dev.to
+
+![A Pragmatic Look at AI in 2030](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png)
+
+I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...
+
+🏷️ Tags: `ai`, `softwareengineering`, `discuss`, `webdev`
+
+---
+
+#### 10. [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl)
+📅 Wed, 08 Jul 2026 13:02:03 GMT
+👤 By: Jen Looper | 📌 Source: Dev.to
+
+![Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png)
+
+At conference booths, developers often ask whether we support image generation at Cloudinary, given...
+
+🏷️ Tags: `ai`, `nanobanana`, `codenewbie`, `images`
+
+---
+
+### 🏷️ JavaScript (37 articles)
+
+#### 1. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 2. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (34 articles)
+
+#### 1. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 3. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 4. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 5. [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h)
+📅 Fri, 03 Jul 2026 02:55:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `python`, `tpu`, `mcps`
+
+---
+
+#### 6. [Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b)
+📅 Thu, 09 Jul 2026 13:12:41 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `antigravitycli`, `python`, `mcps`, `gemma`
+
+---
+
+#### 7. [Omni Flash Preview with Claude Code](https://dev.to/gde/omni-flash-preview-with-claude-code-53a5)
+📅 Mon, 06 Jul 2026 16:34:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Omni Flash Preview with Claude Code](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsq661jlwkupaop15sa.png)
+
+This article covers the MCP setup and configuration for using Google Omni Preview and underlying...
+
+🏷️ Tags: `cli`, `googleomni`, `mcps`, `python`
+
+---
+
+#### 8. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (15 articles)
+
+#### 1. [Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4)
+📅 Mon, 13 Jul 2026 06:21:32 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi6e87r15xnm9dzepxauj.png)
+
+How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS servers at runtime.
+
+🏷️ Tags: `docker`, `go`, `coredns`, `antigravity`
+
+---
+
+#### 2. [Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9)
+📅 Mon, 29 Jun 2026 16:12:25 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png)
+
+Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...
+
+🏷️ Tags: `antigravity`, `googlecloud`, `kubernetes`, `cloud`
+
+---
+
+#### 3. [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2)
+📅 Tue, 23 Jun 2026 18:38:11 GMT
+👤 By: bredmond1019 | 📌 Source: Dev.to
+
+![Multi-Agent Observability: See Everything Your AI Agents Do](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png)
+
+Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.
+
+🏷️ Tags: `ai`, `claudecode`, `devops`, `tutorial`
+
+---
+
+#### 4. [Minimalist EKS: The Easy Way](https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph)
+📅 Fri, 26 Jun 2026 19:56:54 GMT
+👤 By: Joaquin Menchaca | 📌 Source: Dev.to
+
+![Minimalist EKS: The Easy Way](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png)
+
+Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...
+
+🏷️ Tags: `kubernetes`, `aws`, `devops`, `beginners`
+
+---
+
+#### 5. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (13 articles)
+
+#### 1. [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h)
+📅 Wed, 08 Jul 2026 15:01:47 GMT
+👤 By: Andrew Bone | 📌 Source: Dev.to
+
+![A Pragmatic Look at AI in 2030](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png)
+
+I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...
+
+🏷️ Tags: `ai`, `softwareengineering`, `discuss`, `webdev`
+
+---
+
+#### 2. [I stopped generating color scales and started shaping them](https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm)
+📅 Tue, 23 Jun 2026 13:53:17 GMT
+👤 By: Gil Barbara | 📌 Source: Dev.to
+
+![I stopped generating color scales and started shaping them](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png)
+
+Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...
+
+🏷️ Tags: `javascript`, `webdev`, `css`, `opensource`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
+📅 Mon, 13 Jul 2026 20:03:24 GMT
+👤 By: thomas0 | 📌 Source: Lobste.rs
+
+This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.
+We were waiting till this morning to see how it would react to the Monday traffic spike before making this post.
+Needless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally ["We're having a quiet Monday."](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).
+Finally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.
+
+Let us know if you have any questions about the migration.
+
+Background Story:
+
+I got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.
+
+Fast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked "Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.
+
+I officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.
+
+In [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.
+
+Then came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.
+
+Two days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.
+
+Then came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.
+
+Monday came and the site is stil happy so we're calling this a win and moving on.
+
+
+SQLite lessons:
+1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.
+2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.
+3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.
+4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.
+
+
+Rails lessons:
+1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.
+2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.
+
+
+Lobsters codebase lessons:
+1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.
+2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.
+3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.
+
+
+Overall lessons:
+1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.
+2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.
+
+
+Wishes:
+1. I wish we could say in a test, "Fail if you encounter any full table scans". Which would have caught the perf issues we experienced during the first deploy.
+2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.
+
+🏷️ Tags: `meta`
+
+---
+
+#### 5. [Restricting the droppable vicinity of dynamically generated draggable div](https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div)
+📅 Mon, 13 Jul 2026 14:33:25 GMT
+👤 By: stonypaul | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `jquery`, `draggable`, `droppable`
+
+---
+
+#### 6. [Dynamically created divs not draggable](https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable)
+📅 Mon, 13 Jul 2026 13:37:16 GMT
+👤 By: stonypaul | 📌 Source: StackOverflow
+
+Stack Overflow question · 3 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `jquery`, `draggable`, `droppable`
+
+---
+
+#### 7. [How to redirect from index.html to main.html after animation ends?](https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends)
+📅 Mon, 13 Jul 2026 05:29:02 GMT
+👤 By: Mughees Shan | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+#### 8. [I get stuck learning HTML, CSS, and JavaScript (I am a student)](https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student)
+📅 Mon, 06 Jul 2026 11:23:54 GMT
+👤 By: aaron | 📌 Source: StackOverflow
+
+Stack Overflow question · 21 answers · score 13
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 9. [Flowing ideas across a page](https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page)
+📅 Sun, 12 Jul 2026 14:12:35 GMT
+👤 By: Sarah | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `css`, `animation`
+
+---
+
+#### 10. [Flask form submission returns 405 Method Not Allowed even though the route exists](https://stackoverflow.com/questions/79980339/flask-form-submission-returns-405-method-not-allowed-even-though-the-route-exist)
+📅 Mon, 13 Jul 2026 12:20:05 GMT
+👤 By: Ainulhaqsde | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -1
+
+🏷️ Tags: `python`, `html`, `forms`, `http`, `flask`
+
+---
+
+### 🏷️ Mobile (2 articles)
+
+#### 1. [A WWDC 26 Update on Building a Mac-assed App with SwiftUI](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/)
+📅 Mon, 13 Jul 2026 06:55:28 GMT
+👤 By: diktomat | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `swift`
+
+---
+
+#### 2. [How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean](https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/)
+📅 Thu, 09 Jul 2026 16:04:02 GMT
+👤 By: Abdurrahman Rajab | 📌 Source: freeCodeCamp
+
+A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le
+
+🏷️ Tags: `mcp server`, `llm`, `Artificial Intelligence`, `AI`, `ai agents`
+
+---
+
+### 🏷️ Cloud (22 articles)
+
+#### 1. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3)
+📅 Wed, 08 Jul 2026 13:26:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `mcps`, `googleantigravity`, `googletpu`, `gemma4`
+
+---
+
+#### 3. [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok)
+📅 Sun, 12 Jul 2026 15:09:09 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png)
+
+Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...
+
+🏷️ Tags: `ai`, `cloud`, `google`, `llm`
+
+---
+
+#### 4. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 5. [TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia)
+📅 Sat, 11 Jul 2026 21:21:38 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `mcps`, `tpu`, `31b`
+
+---
+
+#### 6. [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl)
+📅 Wed, 08 Jul 2026 13:02:03 GMT
+👤 By: Jen Looper | 📌 Source: Dev.to
+
+![Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png)
+
+At conference booths, developers often ask whether we support image generation at Cloudinary, given...
+
+🏷️ Tags: `ai`, `nanobanana`, `codenewbie`, `images`
+
+---
+
+#### 7. [Midsommer Madness with WASM, Rust, and Azure Container Apps](https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b)
+📅 Thu, 02 Jul 2026 19:14:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Midsommer Madness with WASM, Rust, and Azure Container Apps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png)
+
+This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...
+
+🏷️ Tags: `webassembly`, `midsommer`, `azurecontainerapps`, `azure`
+
+---
+
+#### 8. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6)
+📅 Tue, 23 Jun 2026 03:39:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `speculativedecoding`, `antigravitycli`, `qat`, `blackwell6000`
+
+---
+
+#### 9. [12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn)
+📅 Mon, 22 Jun 2026 02:44:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `gemma4`, `mcps`, `antigravity`, `blackwell`
+
+---
+
+#### 10. [Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9)
+📅 Mon, 29 Jun 2026 16:12:25 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png)
+
+Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...
+
+🏷️ Tags: `antigravity`, `googlecloud`, `kubernetes`, `cloud`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
+📅 Mon, 13 Jul 2026 20:03:24 GMT
+👤 By: thomas0 | 📌 Source: Lobste.rs
+
+This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.
+We were waiting till this morning to see how it would react to the Monday traffic spike before making this post.
+Needless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally ["We're having a quiet Monday."](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).
+Finally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.
+
+Let us know if you have any questions about the migration.
+
+Background Story:
+
+I got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.
+
+Fast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked "Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.
+
+I officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.
+
+In [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.
+
+Then came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.
+
+Two days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.
+
+Then came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.
+
+Monday came and the site is stil happy so we're calling this a win and moving on.
+
+
+SQLite lessons:
+1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.
+2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.
+3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.
+4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.
+
+
+Rails lessons:
+1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.
+2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.
+
+
+Lobsters codebase lessons:
+1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.
+2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.
+3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.
+
+
+Overall lessons:
+1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.
+2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.
+
+
+Wishes:
+1. I wish we could say in a test, "Fail if you encounter any full table scans". Which would have caught the perf issues we experienced during the first deploy.
+2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.
+
+🏷️ Tags: `meta`
+
+---
+
+#### 4. [Excel file gets corrupted when updating destination workbook using Python for large Excel files](https://stackoverflow.com/questions/79980095/excel-file-gets-corrupted-when-updating-destination-workbook-using-python-for-la)
+📅 Sun, 12 Jul 2026 13:46:29 GMT
+👤 By: Dhimesh Parmar | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -5
+
+🏷️ Tags: `python`, `excel`, `flask`, `flask-sqlalchemy`
+
+---
+
+### 🏷️ Security (15 articles)
+
+#### 1. [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+📅 Tue, 30 Jun 2026 07:22:16 GMT
+👤 By: Daniel Nwaneri | 📌 Source: Dev.to
+
+![Someone Else Pays for Your AI Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg)
+
+you probably didn't think about this when you signed up.  you entered your card details, verified...
+
+🏷️ Tags: `ai`, `webdev`, `security`, `discuss`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Senators push to ditch social security numbers in light of Equifax hack](https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/)
+📅 Wed, 08 Nov 2017 22:49:56 GMT
+👤 By: Varcht | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (46 articles)
+
+#### 1. [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f)
+📅 Mon, 13 Jul 2026 15:17:02 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![A lot of good points here https://antirez.com/news/169](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png)
+
+antirez.com
+
+🏷️ Tags: `ai`, `llm`, `productivity`, `programming`
+
+---
+
+#### 2. [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng)
+📅 Thu, 09 Jul 2026 14:44:40 GMT
+👤 By: Klaudia Grzondziel | 📌 Source: Dev.to
+
+![Should I quit IT or just live through the burnout?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png)
+
+Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....
+
+🏷️ Tags: `mentalhealth`, `career`, `productivity`, `discuss`
+
+---
+
+#### 3. [Return on Attention: Why AI Code Reviews Are Wearing Us Out](https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0)
+📅 Thu, 09 Jul 2026 22:12:22 GMT
+👤 By: christine | 📌 Source: Dev.to
+
+![Return on Attention: Why AI Code Reviews Are Wearing Us Out](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png)
+
+PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.
+
+🏷️ Tags: `ai`, `codereview`, `productivity`, `softwareengineering`
+
+---
+
+#### 4. [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle)
+📅 Mon, 06 Jul 2026 15:50:31 GMT
+👤 By: Hemapriya Kanagala | 📌 Source: Dev.to
+
+![Your Career Matters. So Does the Person Building It.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png)
+
+TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...
+
+🏷️ Tags: `discuss`, `career`, `productivity`, `mentalhealth`
+
+---
+
+#### 5. [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+📅 Wed, 08 Jul 2026 12:25:01 GMT
+👤 By: Web Developer Hyper | 📌 Source: Dev.to
+
+![✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png)
+
+Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+
+🏷️ Tags: `ai`, `webdev`, `discuss`, `productivity`
+
+---
+
+#### 6. [Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd)
+📅 Mon, 29 Jun 2026 16:05:56 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png)
+
+Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....
+
+🏷️ Tags: `ai`, `aie`, `productivity`, `leadership`
+
+---
+
+#### 7. [gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn)
+📅 Tue, 23 Jun 2026 14:46:09 GMT
+👤 By: Inhere | 📌 Source: Dev.to
+
+![gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg)
+
+GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...
+
+🏷️ Tags: `programming`, `go`, `opensource`, `cli`
+
+---
+
+#### 8. [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i)
+📅 Tue, 23 Jun 2026 13:29:11 GMT
+👤 By: Jenuel Oras Ganawed | 📌 Source: Dev.to
+
+![I Am Fired Up Again](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png)
+
+A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.
+
+🏷️ Tags: `career`, `motivation`, `productivity`, `life`
+
+---
+
+#### 9. [Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj)
+📅 Wed, 01 Jul 2026 13:51:51 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Bottleneck Resolution is, In Fact, All the Rage in AI Engineering](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg)
+
+The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...
+
+🏷️ Tags: `aie`, `productivity`, `ai`
+
+---
+
+#### 10. [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h)
+📅 Thu, 02 Jul 2026 22:04:04 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png)
+
+We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...
+
+🏷️ Tags: `githubchallenge`, `devchallenge`, `githubcopilot`, `ai`
+
+---
+
