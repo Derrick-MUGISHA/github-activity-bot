@@ -510,6 +510,21 @@
       "user": "ValeryKot"
     },
     {
+      "title": "Beyond Context",
+      "url": "https://dev.to/dailycontext/beyond-context-4b0g",
+      "published_at": "2026-07-02T14:02:11Z",
+      "description": "The models are getting better. As you may have seen on multiple graphs presented here at the World's...",
+      "tags": [
+        "aie",
+        "ai",
+        "development",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lr29ge655fe1rv7772v.png",
+      "source": "Dev.to",
+      "user": "Ryan Palo"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -707,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 730,
       "user": "Robbyant"
     },
     {
@@ -722,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301984372?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 423,
       "user": "CoscoAI"
     },
     {
@@ -737,23 +752,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 135,
       "user": "GreyGunG"
-    },
-    {
-      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
-      "published_at": "2026-07-07T04:15:04Z",
-      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "uf-hy"
     },
     {
       "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "xiaotianfotos"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 352,
       "user": "yetone"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "bkingfilm"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "opencoredev"
     },
     {
@@ -828,17 +828,17 @@
       "user": "projectgus"
     },
     {
-      "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-      "url": "https://xandergos.github.io/terrain-diffusion/",
-      "published_at": "2026-07-12T14:56:07.100-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to redirect from index.html to main.html after animation ends?",
+      "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
+      "published_at": "2026-07-13T05:29:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "compsci",
-        "programming"
+        "javascript",
+        "html"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Yogthos"
+      "source": "StackOverflow",
+      "user": "Mughees Shan"
     },
     {
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2800,
       "user": "withmarbleapp"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 213,
       "user": "Jane-xiaoer"
     },
     {
@@ -1276,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 735,
       "user": "vinhhien112"
     },
     {
@@ -1291,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 691,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "xiaotianfotos"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 352,
       "user": "yetone"
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "bkingfilm"
     },
     {
@@ -1351,14 +1351,65 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "opencoredev"
+    },
+    {
+      "title": "What are ways to Draw Rectangle on Image? Image display. But Rectangle does not display. Canvas element JavaScript",
+      "url": "https://stackoverflow.com/questions/79980231/what-are-ways-to-draw-rectangle-on-image-image-display-but-rectangle-does-not",
+      "published_at": "2026-07-13T06:50:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32932767"
+    },
+    {
+      "title": "How to redirect from index.html to main.html after animation ends?",
+      "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
+      "published_at": "2026-07-13T05:29:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mughees Shan"
+    },
+    {
+      "title": "How to set the condition of loop",
+      "url": "https://stackoverflow.com/questions/79980216/how-to-set-the-condition-of-loop",
+      "published_at": "2026-07-13T05:46:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "loops"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sarfaraz Zulfiqar"
+    },
+    {
+      "title": "What are Wrappers in ReactJS?",
+      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
+      "published_at": "2026-07-12T18:26:25.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
     },
     {
       "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
       "url": "https://stackoverflow.com/questions/79980164/how-to-make-vite-add-react-icons-to-a-separate-js-file-when-executing-npm-run",
       "published_at": "2026-07-12T21:11:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "reactjs",
@@ -1367,19 +1418,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Viktor"
-    },
-    {
-      "title": "What are Wrappers in ReactJS?",
-      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
-      "published_at": "2026-07-12T18:26:25.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Falak Sher"
     },
     {
       "title": "Flowing ideas across a page",
@@ -1411,19 +1449,6 @@
       "user": "DAALROTI_SDG"
     },
     {
-      "title": "How can I accurately convert Bangla Unicode text to Bijoy encoding using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79979915/how-can-i-accurately-convert-bangla-unicode-text-to-bijoy-encoding-using-javascr",
-      "published_at": "2026-07-11T13:53:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "unicode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noor Fatima"
-    },
-    {
       "title": "Import a JSON file to JS code, compatible with old and current browsers",
       "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
       "published_at": "2026-07-10T09:33:16.000Z",
@@ -1436,6 +1461,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nhaggen"
+    },
+    {
+      "title": "How can I accurately convert Bangla Unicode text to Bijoy encoding using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79979915/how-can-i-accurately-convert-bangla-unicode-text-to-bijoy-encoding-using-javascr",
+      "published_at": "2026-07-11T13:53:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "unicode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noor Fatima"
     },
     {
       "title": "How can I get an HTML element to react to :hover at a z-index under 0?",
@@ -1451,51 +1489,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MindaMan"
-    },
-    {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "express",
-        "axios",
-        "multer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
-    },
-    {
-      "title": "File path not being returned on listing of files in my local server but is returned on live site",
-      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
-      "published_at": "2026-07-10T14:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary Dale"
-    },
-    {
-      "title": "How to set consistent font fallback for mixed English/Hindi text in PptxGenJS?",
-      "url": "https://stackoverflow.com/questions/79972485/how-to-set-consistent-font-fallback-for-mixed-english-hindi-text-in-pptxgenjs",
-      "published_at": "2026-07-02T07:31:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "unicode",
-        "powerpoint",
-        "pptxgenjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CloudMigrationGuy"
     },
     {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
@@ -1737,22 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 952,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 718,
+      "stars": 970,
       "user": "Robbyant"
     },
     {
@@ -1767,8 +1745,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 735,
       "user": "vinhhien112"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 730,
+      "user": "Robbyant"
     },
     {
       "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
@@ -1782,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 495,
       "user": "Robbyant"
     },
     {
@@ -1797,8 +1790,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301984372?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 423,
       "user": "CoscoAI"
+    },
+    {
+      "title": "OSError: exception: access violation reading 0x0000000000000000",
+      "url": "https://stackoverflow.com/questions/79980182/oserror-exception-access-violation-reading-0x0000000000000000",
+      "published_at": "2026-07-13T00:27:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "dll",
+        "driver",
+        "access-violation",
+        "oserror"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "luiz_iniciante"
     },
     {
       "title": "Github Regressions: Private dataset to Github",
@@ -1833,6 +1842,22 @@
       "user": "Ayush Saini"
     },
     {
+      "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
+      "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
+      "published_at": "2026-07-12T11:18:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "tensorflow",
+        "validation",
+        "deep-learning",
+        "neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leakie"
+    },
+    {
       "title": "are data sturctures can that much methods for mapping",
       "url": "https://stackoverflow.com/questions/79980123/are-data-sturctures-can-that-much-methods-for-mapping",
       "published_at": "2026-07-12T16:16:53.000Z",
@@ -1843,18 +1868,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shivam Patel"
-    },
-    {
-      "title": "Do I have to learn all types of functions in python",
-      "url": "https://stackoverflow.com/questions/79980125/do-i-have-to-learn-all-types-of-functions-in-python",
-      "published_at": "2026-07-12T16:21:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohib Haider"
     },
     {
       "title": "Excel file gets corrupted when updating destination workbook using Python for large Excel files",
@@ -1872,20 +1885,16 @@
       "user": "Dhimesh Parmar"
     },
     {
-      "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
-      "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
-      "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "Do I have to learn all types of functions in python",
+      "url": "https://stackoverflow.com/questions/79980125/do-i-have-to-learn-all-types-of-functions-in-python",
+      "published_at": "2026-07-12T16:21:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
-        "python",
-        "tensorflow",
-        "validation",
-        "deep-learning",
-        "neural-network"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "leakie"
+      "user": "Mohib Haider"
     },
     {
       "title": "Limit character count in tkinter window?",
@@ -1925,21 +1934,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "robfi"
-    },
-    {
-      "title": "Behaviour of close button",
-      "url": "https://stackoverflow.com/questions/79979926/behaviour-of-close-button",
-      "published_at": "2026-07-11T14:48:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter",
-        "button",
-        "window"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ras_Al_Ghul"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2183,6 +2177,19 @@
       "user": "velmu"
     },
     {
+      "title": "How to redirect from index.html to main.html after animation ends?",
+      "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
+      "published_at": "2026-07-13T05:29:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mughees Shan"
+    },
+    {
       "title": "Flowing ideas across a page",
       "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
       "published_at": "2026-07-12T14:12:35.000Z",
@@ -2213,20 +2220,6 @@
       "user": "MindaMan"
     },
     {
-      "title": "File path not being returned on listing of files in my local server but is returned on live site",
-      "url": "https://stackoverflow.com/questions/79979680/file-path-not-being-returned-on-listing-of-files-in-my-local-server-but-is-retur",
-      "published_at": "2026-07-10T14:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary Dale"
-    },
-    {
       "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
       "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
       "published_at": "2026-07-09T14:46:47.000Z",
@@ -2245,19 +2238,16 @@
   ],
   "Mobile": [
     {
-      "title": "Express + Multer returns \"Multipart: Boundary not found\" when uploading FormData from React Axios",
-      "url": "https://stackoverflow.com/questions/79978449/express-multer-returns-multipart-boundary-not-found-when-uploading-formdata",
-      "published_at": "2026-07-09T18:58:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "A WWDC 27 Update on Building a Mac-assed App with SwiftUI",
+      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+      "published_at": "2026-07-13T01:55:28.958-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "express",
-        "axios",
-        "multer"
+        "swift"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bahar betvan"
+      "source": "Lobste.rs",
+      "user": "diktomat"
     },
     {
       "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
@@ -2541,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 92,
       "user": "xiaozhou26"
     },
     {
@@ -3086,7 +3076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2800,
       "user": "withmarbleapp"
     },
     {
@@ -3101,7 +3091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 213,
       "user": "Jane-xiaoer"
     },
     {
@@ -3161,22 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 952,
-      "user": "Robbyant"
-    },
-    {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 718,
+      "stars": 970,
       "user": "Robbyant"
     },
     {
@@ -3191,8 +3166,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 735,
       "user": "vinhhien112"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 730,
+      "user": "Robbyant"
     },
     {
       "title": "Robbyant/lingbot-vla-v2 - From Foundation to Application",
@@ -3206,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 495,
       "user": "Robbyant"
     },
     {
@@ -3221,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301984372?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 423,
       "user": "CoscoAI"
     },
     {
@@ -3236,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 368,
       "user": "cosmtrek"
     },
     {
@@ -3251,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 135,
       "user": "GreyGunG"
     },
     {
@@ -3266,8 +3256,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 92,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "melqtx/tork - cli for searching and downloading torrents",
+      "url": "https://github.com/melqtx/tork",
+      "published_at": "2026-07-07T06:56:57Z",
+      "description": "cli for searching and downloading torrents",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/105978905?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "melqtx"
     },
     {
       "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
@@ -3285,21 +3290,6 @@
       "user": "intmian"
     },
     {
-      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
-      "published_at": "2026-07-07T04:15:04Z",
-      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "uf-hy"
-    },
-    {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "published_at": "2026-07-12T10:35:44Z",
@@ -3311,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 691,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3326,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "xiaotianfotos"
     },
     {
@@ -3341,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 352,
       "user": "yetone"
     },
     {
@@ -3356,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "bkingfilm"
     },
     {
@@ -3371,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "opencoredev"
     },
     {
@@ -3386,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "thatmagicalcat"
     },
     {
@@ -3401,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "gnomeria"
     },
     {
@@ -3446,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53315310?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 61,
       "user": "ellie"
     },
     {
