@@ -209,6 +209,51 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Omni Flash Preview with Codex",
+      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
+      "published_at": "2026-07-05T02:28:00Z",
+      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "tags": [
+        "omniflash",
+        "xcode",
+        "aivideogenerator",
+        "mcpserver"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
+      "title": "GRIND404: I turned my \"Passion\" for LeetCode into a playable arcade game",
+      "url": "https://dev.to/gde/grind404-i-turned-my-passion-for-leetcode-into-a-playable-arcade-game-1hnl",
+      "published_at": "2026-07-10T20:21:25Z",
+      "description": "This is a submission for the DEV Weekend Challenge: Passion Edition.           What I Built   My...",
+      "tags": [
+        "weekendchallenge",
+        "googleai",
+        "showdev",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft9s0x8q2d8oowubc9ssz.gif",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -436,36 +481,6 @@
       "user": "Daniel Nwaneri"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
-    },
-    {
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
-      "published_at": "2026-06-29T11:50:14Z",
-      "description": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
-      "tags": [
-        "ai",
-        "rag",
-        "mcp",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwcg6kvwnc12ucisofuzc.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -678,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 650,
       "user": "MDX-Tom"
     },
     {
@@ -738,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 397,
       "user": "yetone"
     },
     {
@@ -768,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "opencoredev"
     },
     {
@@ -828,13 +843,13 @@
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
       "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
       "published_at": "2026-07-13T20:59:00.000Z",
-      "description": "In a surprising blog post on Monday, Microsoft CEO is warning enterprises of the dangers of using proprietary models like Anthropic's and OpenAI's.",
+      "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
       "tags": [
         "AI",
         "Enterprise",
-        "TC",
         "Microsoft",
-        "open source ai"
+        "open source ai",
+        "Satya Nadella"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1087,21 +1102,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I stopped generating color scales and started shaping them",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
-      "published_at": "2026-06-23T13:53:17Z",
-      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "css",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
-      "source": "Dev.to",
-      "user": "Gil Barbara"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2888,
+      "stars": 2895,
       "user": "withmarbleapp"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "Jane-xiaoer"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 840,
       "user": "vinhhien112"
     },
     {
@@ -1353,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 397,
       "user": "yetone"
     },
     {
@@ -1383,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "opencoredev"
     },
     {
@@ -1473,7 +1473,7 @@
       "title": "What are Wrappers in ReactJS?",
       "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
       "published_at": "2026-07-12T18:26:25.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
         "reactjs"
@@ -1693,21 +1693,6 @@
       "user": "xbill"
     },
     {
-      "title": "Omni Flash Preview with Claude Code",
-      "url": "https://dev.to/gde/omni-flash-preview-with-claude-code-53a5",
-      "published_at": "2026-07-06T16:34:02Z",
-      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "tags": [
-        "cli",
-        "googleomni",
-        "mcps",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsq661jlwkupaop15sa.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1839,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1025,
       "user": "Robbyant"
     },
     {
@@ -1854,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 840,
       "user": "vinhhien112"
     },
     {
@@ -1884,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 650,
       "user": "MDX-Tom"
     },
     {
@@ -1899,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 610,
       "user": "littledivy"
     },
     {
@@ -2295,21 +2280,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
-      "published_at": "2026-06-23T13:53:17Z",
-      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "css",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
-      "source": "Dev.to",
-      "user": "Gil Barbara"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2759,17 +2729,17 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
-      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0",
-      "published_at": "2026-06-21T14:34:08Z",
-      "description": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
+      "title": "TPU Deployments with Gemma 26B, v6e-4, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-26b-v6e-4-and-antigravity-cli-o5i",
+      "published_at": "2026-07-10T13:23:44Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
       "tags": [
-        "antigravity",
-        "mcps",
-        "speculativedecoding",
-        "qat"
+        "tpu",
+        "gemma",
+        "v6e4",
+        "antigravitycli"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2kx2byw0ujag8vspbq9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkp6wfzj097u3ej041o30.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2785,7 +2755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "xiaozhou26"
     },
     {
@@ -3165,6 +3135,21 @@
       "user": "Web Developer Hyper"
     },
     {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
       "published_at": "2026-06-29T16:05:56Z",
@@ -3239,36 +3224,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "After a long journey, I've reached a deep burnout",
-      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-      "published_at": "2026-06-28T09:04:04Z",
-      "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-      "tags": [
-        "discuss",
-        "ai",
-        "learning",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ut2wv9wl72srzsi0ofc.png",
-      "source": "Dev.to",
-      "user": "EmberNoGlow"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm",
-      "published_at": "2026-06-23T13:53:17Z",
-      "description": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "css",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3egh3iovzlun0zndqg6.png",
-      "source": "Dev.to",
-      "user": "Gil Barbara"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3316,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2888,
+      "stars": 2895,
       "user": "withmarbleapp"
     },
     {
@@ -3331,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "Jane-xiaoer"
     },
     {
@@ -3391,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1025,
       "user": "Robbyant"
     },
     {
@@ -3406,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 840,
       "user": "vinhhien112"
     },
     {
@@ -3436,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 650,
       "user": "MDX-Tom"
     },
     {
@@ -3451,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 610,
       "user": "littledivy"
     },
     {
@@ -3466,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 477,
       "user": "cosmtrek"
     },
     {
@@ -3511,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "xiaozhou26"
     },
     {
@@ -3571,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 397,
       "user": "yetone"
     },
     {
@@ -3601,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "opencoredev"
     },
     {
@@ -3616,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "thatmagicalcat"
     },
     {
@@ -3631,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 137,
       "user": "gnomeria"
     },
     {
@@ -3676,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53315310?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "ellie"
     },
     {
