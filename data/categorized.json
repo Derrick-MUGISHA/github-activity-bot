@@ -667,21 +667,6 @@
       "user": "Matchameleon"
     },
     {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 765,
-      "user": "Robbyant"
-    },
-    {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "published_at": "2026-07-11T09:44:24Z",
@@ -693,8 +678,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 774,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 768,
+      "user": "Robbyant"
     },
     {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "GreyGunG"
     },
     {
@@ -723,14 +723,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "yetone"
     },
     {
-      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "title": "bkingfilm/lapian-notes - AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "url": "https://github.com/bkingfilm/lapian-notes",
       "published_at": "2026-07-08T06:06:31Z",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "tags": [
         "typescript",
         "github",
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "bkingfilm"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "opencoredev"
     },
     {
@@ -932,6 +932,21 @@
       "user": "Tim Fernholz"
     },
     {
+      "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
+      "url": "https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/",
+      "published_at": "2026-07-14T00:18:43.000Z",
+      "description": "Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask",
+      "tags": [
+        "Deep Learning",
+        "neural networks",
+        "transformers",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Roland Sankara"
+    },
+    {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
       "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
       "published_at": "2026-07-13T21:36:24.000Z",
@@ -1039,22 +1054,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Abdurrahman Rajab"
-    },
-    {
-      "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
-      "url": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
-      "published_at": "2026-07-08T23:21:21.000Z",
-      "description": "Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo",
-      "tags": [
-        "AI",
-        "healthcare",
-        "Machine Learning",
-        "ollama",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
     }
   ],
   "JavaScript": [
@@ -1190,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2943,
+      "stars": 2957,
       "user": "withmarbleapp"
     },
     {
@@ -1205,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 229,
       "user": "Jane-xiaoer"
     },
     {
@@ -1265,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 903,
       "user": "vinhhien112"
     },
     {
@@ -1280,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 699,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1295,14 +1294,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "yetone"
     },
     {
-      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "title": "bkingfilm/lapian-notes - AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "url": "https://github.com/bkingfilm/lapian-notes",
       "published_at": "2026-07-08T06:06:31Z",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "tags": [
         "typescript",
         "github",
@@ -1310,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "bkingfilm"
     },
     {
@@ -1325,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "opencoredev"
     },
     {
@@ -1340,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "change-42-yhmm"
     },
     {
@@ -1368,6 +1367,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "Why would one use WebAssembly in the Backend?",
+      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
+      "published_at": "2026-07-14T04:26:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "javascript",
+        "webassembly",
+        "web-development-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Femi"
     },
     {
       "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
@@ -1497,20 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sarah"
-    },
-    {
-      "title": "Probable solution for A2UI React normalized cards rendering issue",
-      "url": "https://stackoverflow.com/questions/79979734/probable-solution-for-a2ui-react-normalized-cards-rendering-issue",
-      "published_at": "2026-07-10T17:43:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DAALROTI_SDG"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1799,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1055,
       "user": "Robbyant"
     },
     {
@@ -1814,23 +1814,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 903,
       "user": "vinhhien112"
-    },
-    {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 765,
-      "user": "Robbyant"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -1844,8 +1829,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 774,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 768,
+      "user": "Robbyant"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -1859,8 +1859,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 766,
       "user": "littledivy"
+    },
+    {
+      "title": "Discord Selfbot/User API",
+      "url": "https://stackoverflow.com/questions/79980524/discord-selfbot-user-api",
+      "published_at": "2026-07-14T05:03:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "python",
+        "discord"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jordon"
     },
     {
       "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
@@ -2001,20 +2015,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "M.X"
-    },
-    {
-      "title": "Limit character count in tkinter window?",
-      "url": "https://stackoverflow.com/questions/79980038/limit-character-count-in-tkinter-window",
-      "published_at": "2026-07-12T04:36:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "tkinter",
-        "calculator"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iz39"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2283,6 +2283,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "Why would one use WebAssembly in the Backend?",
+      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
+      "published_at": "2026-07-14T04:26:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "javascript",
+        "webassembly",
+        "web-development-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Femi"
     },
     {
       "title": "Restricting the droppable vicinity of dynamically generated draggable div",
@@ -2738,7 +2753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "xiaozhou26"
     },
     {
@@ -2770,22 +2785,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
-      "url": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
-      "published_at": "2026-07-08T23:21:21.000Z",
-      "description": "Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo",
-      "tags": [
-        "AI",
-        "healthcare",
-        "Machine Learning",
-        "ollama",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
     }
   ],
   "Database": [
@@ -3254,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2943,
+      "stars": 2957,
       "user": "withmarbleapp"
     },
     {
@@ -3269,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 229,
       "user": "Jane-xiaoer"
     },
     {
@@ -3329,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1055,
       "user": "Robbyant"
     },
     {
@@ -3344,23 +3343,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 903,
       "user": "vinhhien112"
-    },
-    {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 765,
-      "user": "Robbyant"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3374,8 +3358,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 774,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "published_at": "2026-07-08T13:52:08Z",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 768,
+      "user": "Robbyant"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -3389,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 766,
       "user": "littledivy"
     },
     {
@@ -3404,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 512,
       "user": "cosmtrek"
     },
     {
@@ -3419,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "GreyGunG"
     },
     {
@@ -3434,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "xiaozhou26"
     },
     {
@@ -3479,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 699,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3494,14 +3493,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "yetone"
     },
     {
-      "title": "bkingfilm/lapian-notes - 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "title": "bkingfilm/lapian-notes - AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "url": "https://github.com/bkingfilm/lapian-notes",
       "published_at": "2026-07-08T06:06:31Z",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "tags": [
         "typescript",
         "github",
@@ -3509,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "bkingfilm"
     },
     {
@@ -3524,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "opencoredev"
     },
     {
@@ -3539,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "change-42-yhmm"
     },
     {
@@ -3569,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 130,
       "user": "m-novotny"
     },
     {
@@ -3584,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 91,
       "user": "AyagamiDev"
     },
     {
@@ -3614,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 65,
       "user": "RongleCat"
     },
     {
