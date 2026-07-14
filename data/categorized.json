@@ -180,21 +180,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
       "published_at": "2026-06-29T20:00:00Z",
@@ -664,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 987,
       "user": "MDX-Tom"
     },
     {
@@ -739,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 266,
       "user": "opencoredev"
     },
     {
@@ -765,6 +750,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "published_at": "2026-07-14T12:00:52.604-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "mac",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "Human Emacs",
@@ -820,6 +819,54 @@
       "user": "flamant"
     },
     {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "published_at": "2026-07-14T19:42:27.000Z",
+      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Apple",
+        "siri",
+        "siri ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic&#8217;s newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "published_at": "2026-07-14T19:41:27.000Z",
+      "description": "Anthropic's latest advert is stirring up high emotions — which is undoubtedly what it was designed to do.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "OpenAI",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "published_at": "2026-07-14T19:39:39.000Z",
+      "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "tags": [
+        "AI",
+        "AI dating",
+        "dating",
+        "dating app",
+        "Hinge"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "Lucid Motors denies report it&#8217;s considering bankruptcy",
       "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
       "published_at": "2026-07-14T18:47:14.000Z",
@@ -841,6 +888,7 @@
       "tags": [
         "AI",
         "Google",
+        "google gemini",
         "lawsuit"
       ],
       "cover_image": null,
@@ -922,22 +970,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "published_at": "2026-07-14T14:37:48.000Z",
-      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "AI compute deals",
-        "compute",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
@@ -1180,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3031,
+      "stars": 3037,
       "user": "withmarbleapp"
     },
     {
@@ -1195,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "Jane-xiaoer"
     },
     {
@@ -1210,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "vybenetwork"
     },
     {
@@ -1255,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 961,
       "user": "vinhhien112"
     },
     {
@@ -1270,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 801,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1315,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "JexTradesLab"
     },
     {
@@ -1330,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 266,
       "user": "opencoredev"
     },
     {
@@ -1358,6 +1390,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "Add controlling properties to make drag and drop experience smoother",
+      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
+      "published_at": "2026-07-14T19:35:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -1389,19 +1436,6 @@
       "user": "Wasted_Coder"
     },
     {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
-    },
-    {
       "title": "How to programatically export data from Excel to Photoshop?",
       "url": "https://stackoverflow.com/questions/79980618/how-to-programatically-export-data-from-excel-to-photoshop",
       "published_at": "2026-07-14T10:26:46.000Z",
@@ -1417,10 +1451,23 @@
       "user": "zilmi flawless"
     },
     {
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
+    },
+    {
       "title": "Why would one use WebAssembly in the Backend?",
       "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
       "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "advice",
         "javascript",
@@ -1490,20 +1537,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "shunpeng gao"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
@@ -1792,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1100,
       "user": "Robbyant"
     },
     {
@@ -1807,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 987,
       "user": "MDX-Tom"
     },
     {
@@ -1822,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 961,
       "user": "vinhhien112"
     },
     {
@@ -1837,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 896,
       "user": "littledivy"
     },
     {
@@ -1952,6 +1985,20 @@
       "user": "Jordon"
     },
     {
+      "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
+      "url": "https://stackoverflow.com/questions/79980456/how-to-properly-deal-with-nan-values-when-using-scipy-stats-pearsonr",
+      "published_at": "2026-07-13T19:58:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "scipy",
+        "pearson"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Caterina"
+    },
+    {
       "title": "How to create a custom dataset and dataloader in pytorch geometric for files with different dimensions?",
       "url": "https://stackoverflow.com/questions/79980408/how-to-create-a-custom-dataset-and-dataloader-in-pytorch-geometric-for-files-wit",
       "published_at": "2026-07-13T16:06:33.000Z",
@@ -1965,20 +2012,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "User240326"
-    },
-    {
-      "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
-      "url": "https://stackoverflow.com/questions/79980456/how-to-properly-deal-with-nan-values-when-using-scipy-stats-pearsonr",
-      "published_at": "2026-07-13T19:58:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "scipy",
-        "pearson"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Caterina"
     },
     {
       "title": "OSError: exception: access violation reading 0x0000000000000000",
@@ -2270,21 +2303,6 @@
   ],
   "WebDev": [
     {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2312,7 +2330,7 @@
       "title": "Why would one use WebAssembly in the Backend?",
       "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
       "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "advice",
         "javascript",
@@ -2351,20 +2369,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "yummybuns"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2432,20 +2436,20 @@
       "user": "shunpeng gao"
     },
     {
-      "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
-      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
-      "published_at": "2026-07-14T15:14:40.000Z",
-      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "published_at": "2026-07-14T19:42:27.000Z",
+      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
       "tags": [
-        "Security",
-        "cellular networks",
-        "In Brief",
-        "Iran War",
-        "surveillance"
+        "AI",
+        "Apps",
+        "Apple",
+        "siri",
+        "siri ai"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "user": "Sarah Perez"
     },
     {
       "title": "A Deep Dive into Gabeldorsche: The Bluetooth Stack Android Rebuilt on Purpose",
@@ -2716,7 +2720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "xiaozhou26"
     },
     {
@@ -2727,27 +2731,12 @@
       "tags": [
         "AI",
         "Google",
+        "google gemini",
         "lawsuit"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
-      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
-      "published_at": "2026-07-14T15:14:40.000Z",
-      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
-      "tags": [
-        "Security",
-        "cellular networks",
-        "In Brief",
-        "Iran War",
-        "surveillance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Database": [
@@ -2965,22 +2954,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "2352500"
-    },
-    {
-      "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
-      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
-      "published_at": "2026-07-14T15:14:40.000Z",
-      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
-      "tags": [
-        "Security",
-        "cellular networks",
-        "In Brief",
-        "Iran War",
-        "surveillance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3211,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3031,
+      "stars": 3037,
       "user": "withmarbleapp"
     },
     {
@@ -3226,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "Jane-xiaoer"
     },
     {
@@ -3241,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "vybenetwork"
     },
     {
@@ -3286,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1100,
       "user": "Robbyant"
     },
     {
@@ -3301,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 987,
       "user": "MDX-Tom"
     },
     {
@@ -3316,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 961,
       "user": "vinhhien112"
     },
     {
@@ -3331,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 896,
       "user": "littledivy"
     },
     {
@@ -3361,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 565,
       "user": "cosmtrek"
     },
     {
@@ -3376,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "xiaozhou26"
     },
     {
@@ -3436,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 801,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3481,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "JexTradesLab"
     },
     {
@@ -3496,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 266,
       "user": "opencoredev"
     },
     {
@@ -3511,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 580,
       "user": "modiqo"
     },
     {
@@ -3541,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "AyagamiDev"
     },
     {
@@ -3571,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "RongleCat"
     },
     {
@@ -3601,18 +3574,6 @@
       "user": "thomas0"
     },
     {
-      "title": "The git history command deserves more attention",
-      "url": "https://lalitm.com/post/git-history/",
-      "published_at": "2026-07-13T22:21:08.852-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gnyeki"
-    },
-    {
       "title": "git-absorb: git commit --fixup, but automatic",
       "url": "https://github.com/tummychow/git-absorb",
       "published_at": "2026-07-14T03:45:13.309-05:00",
@@ -3623,6 +3584,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "krig"
+    },
+    {
+      "title": "The git history command deserves more attention",
+      "url": "https://lalitm.com/post/git-history/",
+      "published_at": "2026-07-13T22:21:08.852-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gnyeki"
     },
     {
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
