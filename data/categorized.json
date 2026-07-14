@@ -76,6 +76,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
+      "published_at": "2026-07-14T15:06:56Z",
+      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "tags": [
+        "gemma",
+        "google",
+        "llm",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
+    },
+    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -192,21 +207,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
-      "published_at": "2026-07-10T03:33:28Z",
-      "description": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
-      "tags": [
-        "agents",
-        "ai",
-        "agenticarchitect",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 970,
       "user": "MDX-Tom"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 783,
       "user": "Robbyant"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "GreyGunG"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "yetone"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "bkingfilm"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "opencoredev"
     },
     {
@@ -782,19 +782,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
-    },
-    {
-      "title": "Hating AI in 2026",
-      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-      "published_at": "2026-07-14T06:34:45.475-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mtset"
     },
     {
       "title": "Jurassic Park computers in excruciating detail",
@@ -819,6 +806,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tusharhero"
+    },
+    {
+      "title": "Hating AI in 2026",
+      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+      "published_at": "2026-07-14T06:34:45.475-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rant",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mtset"
     },
     {
       "title": "How to queue microtask at tail end?",
@@ -847,16 +847,62 @@
       "user": "flamant"
     },
     {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "published_at": "2026-07-14T16:22:15.000Z",
+      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "tags": [
+        "AI",
+        "Meta",
+        "tokenmaxxing",
+        "tokens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "published_at": "2026-07-14T16:00:00.000Z",
+      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Search",
+        "imagess"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "published_at": "2026-07-14T15:17:59.000Z",
+      "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "new york state"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
       "title": "Reflection inks $1B compute deal with Nebius",
       "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
       "published_at": "2026-07-14T14:37:48.000Z",
-      "description": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
       "tags": [
         "AI",
         "Enterprise",
         "AI compute deals",
         "compute",
-        "Nebius"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -868,9 +914,9 @@
       "published_at": "2026-07-14T14:24:53.000Z",
       "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
       "tags": [
-        "Enterprise",
         "AI",
-        "open source",
+        "Enterprise",
+        "Clem Delangue",
         "Hugging Face",
         "open models"
       ],
@@ -925,35 +971,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "published_at": "2026-07-14T02:46:42.000Z",
-      "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-      "tags": [
-        "AI",
-        "founders"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8216;everything for everyone&#8217;",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "published_at": "2026-07-14T00:45:00.000Z",
-      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "tags": [
-        "AI",
-        "TC",
-        "Transportation",
-        "Sachin Kansal",
-        "Uber"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
@@ -1213,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3017,
+      "stars": 3021,
       "user": "withmarbleapp"
     },
     {
@@ -1228,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "Jane-xiaoer"
     },
     {
@@ -1288,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 955,
       "user": "vinhhien112"
     },
     {
@@ -1303,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 800,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1318,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "yetone"
     },
     {
@@ -1333,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "bkingfilm"
     },
     {
@@ -1348,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 277,
       "user": "JexTradesLab"
     },
     {
@@ -1363,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "opencoredev"
     },
     {
@@ -1393,6 +1410,21 @@
       "user": "thomas0"
     },
     {
+      "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
+      "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
+      "published_at": "2026-07-14T12:51:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "express",
+        "npm",
+        "visual-studio-2026"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Wasted_Coder"
+    },
+    {
       "title": "How to queue microtask at tail end?",
       "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
       "published_at": "2026-07-14T10:57:55.000Z",
@@ -1406,25 +1438,10 @@
       "user": "David Callanan"
     },
     {
-      "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
-      "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
-      "published_at": "2026-07-14T12:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "express",
-        "npm",
-        "visual-studio-2026"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wasted_Coder"
-    },
-    {
       "title": "How to programatically export data from Excel to Photoshop?",
       "url": "https://stackoverflow.com/questions/79980618/how-to-programatically-export-data-from-excel-to-photoshop",
       "published_at": "2026-07-14T10:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "excel",
@@ -1511,6 +1528,20 @@
       "user": "shunpeng gao"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Restricting the droppable vicinity of dynamically generated draggable div",
       "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
       "published_at": "2026-07-13T14:33:25.000Z",
@@ -1525,20 +1556,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1827,23 +1844,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1093,
       "user": "Robbyant"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 954,
-      "user": "vinhhien112"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -1857,8 +1859,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 970,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
+      "source": "GitHub",
+      "stars": 955,
+      "user": "vinhhien112"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -1872,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 876,
       "user": "littledivy"
     },
     {
@@ -1887,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 783,
       "user": "Robbyant"
     },
     {
@@ -2363,6 +2380,20 @@
       "user": "yummybuns"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Restricting the droppable vicinity of dynamically generated draggable div",
       "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
       "published_at": "2026-07-13T14:33:25.000Z",
@@ -2377,20 +2408,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2488,6 +2505,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "shunpeng gao"
+    },
+    {
+      "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
+      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "published_at": "2026-07-14T15:14:40.000Z",
+      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "tags": [
+        "Security",
+        "cellular networks",
+        "In Brief",
+        "Iran War",
+        "surveillance"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
@@ -2773,8 +2806,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 141,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
+      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "published_at": "2026-07-14T15:14:40.000Z",
+      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "tags": [
+        "Security",
+        "cellular networks",
+        "In Brief",
+        "Iran War",
+        "surveillance"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
@@ -3008,6 +3057,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "2352500"
+    },
+    {
+      "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
+      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "published_at": "2026-07-14T15:14:40.000Z",
+      "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "tags": [
+        "Security",
+        "cellular networks",
+        "In Brief",
+        "Iran War",
+        "surveillance"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Telegram&#8217;s shortlink domain is back online after day-long suspension",
@@ -3286,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3017,
+      "stars": 3021,
       "user": "withmarbleapp"
     },
     {
@@ -3301,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "Jane-xiaoer"
     },
     {
@@ -3361,23 +3426,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1093,
       "user": "Robbyant"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 954,
-      "user": "vinhhien112"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3391,8 +3441,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 970,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
+      "source": "GitHub",
+      "stars": 955,
+      "user": "vinhhien112"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -3406,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 876,
       "user": "littledivy"
     },
     {
@@ -3421,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 783,
       "user": "Robbyant"
     },
     {
@@ -3436,23 +3501,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 554,
       "user": "cosmtrek"
-    },
-    {
-      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "url": "https://github.com/GreyGunG/grokbuild-proxy",
-      "published_at": "2026-07-09T23:28:51Z",
-      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
-      "source": "GitHub",
-      "stars": 139,
-      "user": "GreyGunG"
     },
     {
       "title": "xiaozhou26/icloud-hme - GitHub Repository",
@@ -3466,8 +3516,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 141,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "url": "https://github.com/GreyGunG/grokbuild-proxy",
+      "published_at": "2026-07-09T23:28:51Z",
+      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
+      "source": "GitHub",
+      "stars": 140,
+      "user": "GreyGunG"
     },
     {
       "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
@@ -3485,10 +3550,10 @@
       "user": "intmian"
     },
     {
-      "title": "pax-beehive/paxm - GitHub Repository",
+      "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
       "url": "https://github.com/pax-beehive/paxm",
       "published_at": "2026-07-09T02:40:57Z",
-      "description": "Trending GitHub Repository",
+      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
       "tags": [
         "go",
         "github",
@@ -3511,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 800,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3526,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "yetone"
     },
     {
@@ -3541,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "bkingfilm"
     },
     {
@@ -3556,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 277,
       "user": "JexTradesLab"
     },
     {
@@ -3571,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "opencoredev"
     },
     {
@@ -3586,7 +3651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 521,
       "user": "modiqo"
     },
     {
@@ -3601,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "thatmagicalcat"
     },
     {
@@ -3616,7 +3681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "AyagamiDev"
     },
     {
@@ -3646,7 +3711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 85,
       "user": "RongleCat"
     },
     {
@@ -3727,6 +3792,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Santhosh Testing"
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "published_at": "2026-07-14T16:22:15.000Z",
+      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "tags": [
+        "AI",
+        "Meta",
+        "tokenmaxxing",
+        "tokens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Superhuman&#8217;s new auto-draft feature almost makes me like AI replies",
