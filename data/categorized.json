@@ -16,6 +16,36 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+      "published_at": "2026-07-14T09:57:26Z",
+      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "tags": [
+        "ai",
+        "agents",
+        "adk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
+    {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
       "published_at": "2026-07-13T13:36:03Z",
@@ -373,18 +403,6 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "Visitors get some serious puppy love",
-      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
-      "published_at": "2026-07-01T13:47:36Z",
-      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
-      "tags": [
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
       "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
       "published_at": "2026-07-09T22:12:22Z",
@@ -398,6 +416,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
       "source": "Dev.to",
       "user": "christine"
+    },
+    {
+      "title": "Visitors get some serious puppy love",
+      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
+      "published_at": "2026-07-01T13:47:36Z",
+      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
+      "tags": [
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Fable is Back, Baby.",
@@ -437,20 +467,6 @@
       "user": "Samir"
     },
     {
-      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
-      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
-      "published_at": "2026-07-01T13:51:51Z",
-      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
-      "tags": [
-        "aie",
-        "productivity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -466,19 +482,18 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
+      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
+      "published_at": "2026-07-01T13:51:51Z",
+      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
       "tags": [
-        "ai",
-        "webdev",
-        "security",
-        "discuss"
+        "aie",
+        "productivity",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Ben Halpern"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -678,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 952,
       "user": "MDX-Tom"
     },
     {
@@ -693,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "Robbyant"
     },
     {
@@ -708,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 139,
       "user": "GreyGunG"
     },
     {
@@ -723,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "yetone"
     },
     {
@@ -738,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "bkingfilm"
     },
     {
@@ -753,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "opencoredev"
     },
     {
@@ -769,16 +784,17 @@
       "user": "thomas0"
     },
     {
-      "title": "Human Emacs",
-      "url": "https://human-emacs.org/",
-      "published_at": "2026-07-13T11:18:36.108-05:00",
-      "description": "LLM-generated contributions free (possible) fork of GNU Emacs.",
+      "title": "Hating AI in 2026",
+      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+      "published_at": "2026-07-14T06:34:45.475-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "emacs"
+        "practices",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "tusharhero"
+      "user": "mtset"
     },
     {
       "title": "Jurassic Park computers in excruciating detail",
@@ -793,10 +809,22 @@
       "user": "jbauer"
     },
     {
+      "title": "Human Emacs",
+      "url": "https://human-emacs.org/",
+      "published_at": "2026-07-13T11:18:36.108-05:00",
+      "description": "LLM-generated contributions free (possible) fork of GNU Emacs.",
+      "tags": [
+        "emacs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tusharhero"
+    },
+    {
       "title": "How to queue microtask at tail end?",
       "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
       "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "event-loop"
@@ -817,6 +845,86 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "flamant"
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "published_at": "2026-07-14T14:37:48.000Z",
+      "description": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "AI compute deals",
+        "compute",
+        "Nebius"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "published_at": "2026-07-14T14:24:53.000Z",
+      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "tags": [
+        "Enterprise",
+        "AI",
+        "open source",
+        "Hugging Face",
+        "open models"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Telegram&#8217;s shortlink domain is back online after day-long suspension",
+      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "published_at": "2026-07-14T14:10:13.000Z",
+      "description": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+      "tags": [
+        "Apps",
+        "Security",
+        "cybersecurity",
+        "Sanctions",
+        "Telegram"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "published_at": "2026-07-14T14:06:47.000Z",
+      "description": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "TC",
+        "Music"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Superhuman&#8217;s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "published_at": "2026-07-14T14:00:00.000Z",
+      "description": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "tags": [
+        "AI",
+        "Apps",
+        "AI assistant",
+        "email",
+        "superhuman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -846,100 +954,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "published_at": "2026-07-14T00:00:00.000Z",
-      "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "alibaba",
-        "pixverse",
-        "video generation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "published_at": "2026-07-13T23:31:18.000Z",
-      "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "iRobot Ventures",
-        "unicorn"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta, Marina Temkin"
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "published_at": "2026-07-13T20:59:00.000Z",
-      "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Microsoft",
-        "open source ai",
-        "Satya Nadella"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Apple says former employee exploited &#8216;rare&#8217; bug to download confidential files after leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "published_at": "2026-07-13T20:00:17.000Z",
-      "description": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-      "tags": [
-        "Security",
-        "Apple",
-        "cybersecurity",
-        "data breach",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "published_at": "2026-07-13T18:22:10.000Z",
-      "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "tags": [
-        "AI",
-        "Apple",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Sam Altman&#8217;s space data center trash talk is what most experts already believe",
-      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "published_at": "2026-07-13T17:28:37.000Z",
-      "description": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "tags": [
-        "AI",
-        "Space",
-        "Elon Musk",
-        "sam altman",
-        "space data centers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
@@ -1199,7 +1213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3010,
+      "stars": 3017,
       "user": "withmarbleapp"
     },
     {
@@ -1214,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 241,
       "user": "Jane-xiaoer"
     },
     {
@@ -1274,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 954,
       "user": "vinhhien112"
     },
     {
@@ -1304,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "yetone"
     },
     {
@@ -1319,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "bkingfilm"
     },
     {
@@ -1334,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 270,
       "user": "JexTradesLab"
     },
     {
@@ -1349,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "opencoredev"
     },
     {
@@ -1379,10 +1393,23 @@
       "user": "thomas0"
     },
     {
-      "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026",
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
+    },
+    {
+      "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
       "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
       "published_at": "2026-07-14T12:51:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "express",
@@ -1397,7 +1424,7 @@
       "title": "How to programatically export data from Excel to Photoshop?",
       "url": "https://stackoverflow.com/questions/79980618/how-to-programatically-export-data-from-excel-to-photoshop",
       "published_at": "2026-07-14T10:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "excel",
@@ -1407,19 +1434,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zilmi flawless"
-    },
-    {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
     },
     {
       "title": "Why would one use WebAssembly in the Backend?",
@@ -1439,7 +1453,7 @@
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
       "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
       "published_at": "2026-07-14T01:38:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "google-chrome",
@@ -1449,6 +1463,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmbroseChapel"
+    },
+    {
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
     },
     {
       "title": "Updating Cshtml page without reloading it",
@@ -1500,7 +1530,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 22 answers · score 15",
+      "description": "Stack Overflow question · 23 answers · score 15",
       "tags": [
         "javascript",
         "html",
@@ -1509,22 +1539,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "draggable",
-        "droppable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1813,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1085,
       "user": "Robbyant"
     },
     {
@@ -1828,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 954,
       "user": "vinhhien112"
     },
     {
@@ -1843,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 952,
       "user": "MDX-Tom"
     },
     {
@@ -1858,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 867,
       "user": "littledivy"
     },
     {
@@ -1873,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "Robbyant"
     },
     {
@@ -1907,7 +1921,7 @@
       "title": "How can I preserve tables, images, and nested lists when converting DOCX WORD to Markdown?",
       "url": "https://stackoverflow.com/questions/79980616/how-can-i-preserve-tables-images-and-nested-lists-when-converting-docx-word-to",
       "published_at": "2026-07-14T10:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "markdown"
@@ -2319,6 +2333,22 @@
       "user": "Femi"
     },
     {
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
+    },
+    {
       "title": "Updating Cshtml page without reloading it",
       "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
       "published_at": "2026-07-13T18:43:30.000Z",
@@ -2352,7 +2382,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 22 answers · score 15",
+      "description": "Stack Overflow question · 23 answers · score 15",
       "tags": [
         "javascript",
         "html",
@@ -2361,22 +2391,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "draggable",
-        "droppable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2748,21 +2762,6 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "TPU Deployments with Gemma 26B, v6e-4, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-26b-v6e-4-and-antigravity-cli-o5i",
-      "published_at": "2026-07-10T13:23:44Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "tpu",
-        "gemma",
-        "v6e4",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkp6wfzj097u3ej041o30.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "xiaozhou26/icloud-hme - GitHub Repository",
       "url": "https://github.com/xiaozhou26/icloud-hme",
       "published_at": "2026-07-08T11:04:56Z",
@@ -2774,22 +2773,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "xiaozhou26"
-    },
-    {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "published_at": "2026-07-13T18:22:10.000Z",
-      "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "tags": [
-        "AI",
-        "Apple",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
@@ -2878,19 +2863,19 @@
   ],
   "Security": [
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "published_at": "2026-06-30T07:22:16Z",
-      "description": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
       "tags": [
         "ai",
-        "webdev",
-        "security",
-        "discuss"
+        "rust",
+        "cli",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj889ziljqry8p43elfc0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
-      "user": "Daniel Nwaneri"
+      "user": "Don Johnson"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3025,16 +3010,16 @@
       "user": "2352500"
     },
     {
-      "title": "Apple says former employee exploited &#8216;rare&#8217; bug to download confidential files after leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "published_at": "2026-07-13T20:00:17.000Z",
-      "description": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+      "title": "Telegram&#8217;s shortlink domain is back online after day-long suspension",
+      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "published_at": "2026-07-14T14:10:13.000Z",
+      "description": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
       "tags": [
+        "Apps",
         "Security",
-        "Apple",
         "cybersecurity",
-        "data breach",
-        "OpenAI"
+        "Sanctions",
+        "Telegram"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3074,6 +3059,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
     {
       "title": "A lot of good points here https://antirez.com/news/169",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
@@ -3210,20 +3210,6 @@
       "user": "christine"
     },
     {
-      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
-      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
-      "published_at": "2026-07-01T13:51:51Z",
-      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
-      "tags": [
-        "aie",
-        "productivity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
       "published_at": "2026-07-02T22:04:04Z",
@@ -3237,6 +3223,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
+      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
+      "published_at": "2026-07-01T13:51:51Z",
+      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
+      "tags": [
+        "aie",
+        "productivity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3286,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3010,
+      "stars": 3017,
       "user": "withmarbleapp"
     },
     {
@@ -3301,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 241,
       "user": "Jane-xiaoer"
     },
     {
@@ -3361,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1085,
       "user": "Robbyant"
     },
     {
@@ -3376,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 954,
       "user": "vinhhien112"
     },
     {
@@ -3391,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 952,
       "user": "MDX-Tom"
     },
     {
@@ -3406,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 867,
       "user": "littledivy"
     },
     {
@@ -3421,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "Robbyant"
     },
     {
@@ -3436,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 551,
       "user": "cosmtrek"
     },
     {
@@ -3451,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 139,
       "user": "GreyGunG"
     },
     {
@@ -3466,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "xiaozhou26"
     },
     {
@@ -3526,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "yetone"
     },
     {
@@ -3541,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "bkingfilm"
     },
     {
@@ -3556,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 270,
       "user": "JexTradesLab"
     },
     {
@@ -3571,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "opencoredev"
     },
     {
@@ -3586,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 473,
       "user": "modiqo"
     },
     {
@@ -3605,6 +3605,21 @@
       "user": "thatmagicalcat"
     },
     {
+      "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
+      "url": "https://github.com/AyagamiDev/ayagami",
+      "published_at": "2026-07-11T13:51:22Z",
+      "description": "2D puppet model renderer compatible with Live2D",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "AyagamiDev"
+    },
+    {
       "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
       "url": "https://github.com/m-novotny/memguard-rs",
       "published_at": "2026-07-13T21:08:48Z",
@@ -3620,21 +3635,6 @@
       "user": "m-novotny"
     },
     {
-      "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
-      "url": "https://github.com/AyagamiDev/ayagami",
-      "published_at": "2026-07-11T13:51:22Z",
-      "description": "2D puppet model renderer compatible with Live2D",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "AyagamiDev"
-    },
-    {
       "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
       "url": "https://github.com/RongleCat/grok-go",
       "published_at": "2026-07-11T18:30:24Z",
@@ -3646,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 81,
       "user": "RongleCat"
     },
     {
@@ -3703,7 +3703,7 @@
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
       "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
       "published_at": "2026-07-14T01:38:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "google-chrome",
@@ -3727,6 +3727,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Santhosh Testing"
+    },
+    {
+      "title": "Superhuman&#8217;s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "published_at": "2026-07-14T14:00:00.000Z",
+      "description": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "tags": [
+        "AI",
+        "Apps",
+        "AI assistant",
+        "email",
+        "superhuman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
