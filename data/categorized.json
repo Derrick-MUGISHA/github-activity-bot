@@ -412,6 +412,21 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
       "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce",
       "published_at": "2026-06-23T05:04:55Z",
@@ -449,21 +464,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "Someone Else Pays for Your AI Access",
@@ -648,23 +648,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "Matchameleon"
     },
     {
-      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
-      "published_at": "2026-07-09T06:47:16Z",
-      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "title": "angieruiz17/codex-gpt-plugin - codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "published_at": "2026-07-08T14:53:58Z",
+      "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
-      "stars": 132,
-      "user": "Matchameleon"
+      "stars": 133,
+      "user": "angieruiz17"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 918,
       "user": "MDX-Tom"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 780,
       "user": "Robbyant"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "GreyGunG"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "yetone"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "bkingfilm"
     },
     {
@@ -793,20 +793,17 @@
       "user": "jbauer"
     },
     {
-      "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
-      "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
-      "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python",
-        "tensorflow",
-        "validation",
-        "deep-learning",
-        "neural-network"
+        "javascript",
+        "event-loop"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "leakie"
+      "user": "David Callanan"
     },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -1188,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2991,
+      "stars": 3005,
       "user": "withmarbleapp"
     },
     {
@@ -1203,8 +1200,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "Jane-xiaoer"
+    },
+    {
+      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "published_at": "2026-07-09T07:08:09Z",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "Matchameleon"
     },
     {
       "title": "angieruiz17/claude-fintech-skills - claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
@@ -1222,34 +1234,19 @@
       "user": "angieruiz17"
     },
     {
-      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "published_at": "2026-07-09T07:08:09Z",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "title": "angieruiz17/codex-gpt-plugin - codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "published_at": "2026-07-08T14:53:58Z",
+      "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
       "stars": 133,
-      "user": "Matchameleon"
-    },
-    {
-      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
-      "published_at": "2026-07-09T06:47:16Z",
-      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "Matchameleon"
+      "user": "angieruiz17"
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
@@ -1263,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 943,
       "user": "vinhhien112"
     },
     {
@@ -1293,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "yetone"
     },
     {
@@ -1308,8 +1305,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "bkingfilm"
+    },
+    {
+      "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
+      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
+      "published_at": "2026-07-09T17:01:06Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "JexTradesLab"
     },
     {
       "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
@@ -1325,21 +1337,6 @@
       "source": "GitHub",
       "stars": 254,
       "user": "opencoredev"
-    },
-    {
-      "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
-      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
-      "published_at": "2026-07-09T17:01:06Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "JexTradesLab"
     },
     {
       "title": "Just Let Me Write Digits",
@@ -1368,15 +1365,41 @@
       "user": "thomas0"
     },
     {
+      "title": "Excel to Photoshop automatically",
+      "url": "https://stackoverflow.com/questions/79980618/excel-to-photoshop-automatically",
+      "published_at": "2026-07-14T10:26:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "excel",
+        "photoshop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "zilmi flawless"
+    },
+    {
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
+    },
+    {
       "title": "Why would one use WebAssembly in the Backend?",
       "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
       "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "advice",
         "javascript",
-        "webassembly",
-        "web-development-server"
+        "webassembly"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1486,31 +1509,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Viktor"
-    },
-    {
-      "title": "What are Wrappers in ReactJS?",
-      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
-      "published_at": "2026-07-12T18:26:25.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Falak Sher"
-    },
-    {
-      "title": "What are ways to Draw Rectangle on Image? Image display. But Rectangle does not display. Canvas element JavaScript",
-      "url": "https://stackoverflow.com/questions/79980231/what-are-ways-to-draw-rectangle-on-image-image-display-but-rectangle-does-not",
-      "published_at": "2026-07-13T06:50:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32932767"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1799,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "Robbyant"
     },
     {
@@ -1814,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 943,
       "user": "vinhhien112"
     },
     {
@@ -1829,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 918,
       "user": "MDX-Tom"
     },
     {
@@ -1844,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 836,
       "user": "littledivy"
     },
     {
@@ -1859,8 +1857,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 780,
       "user": "Robbyant"
+    },
+    {
+      "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
+      "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
+      "published_at": "2026-07-14T11:29:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "db-browser-sqlite",
+        "sqlite-browser"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hacker"
+    },
+    {
+      "title": "How can I preserve tables, images, and nested lists when converting DOCX WORD to Markdown?",
+      "url": "https://stackoverflow.com/questions/79980616/how-can-i-preserve-tables-images-and-nested-lists-when-converting-docx-word-to",
+      "published_at": "2026-07-14T10:25:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "markdown"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Letgo"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -1882,7 +1907,7 @@
       "title": "Kiwi TCMS Scalability compared to other testing tools",
       "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
       "published_at": "2026-07-14T07:12:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -1907,20 +1932,6 @@
       "user": "Jordon"
     },
     {
-      "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
-      "url": "https://stackoverflow.com/questions/79980456/how-to-properly-deal-with-nan-values-when-using-scipy-stats-pearsonr",
-      "published_at": "2026-07-13T19:58:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "scipy",
-        "pearson"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Caterina"
-    },
-    {
       "title": "How to create a custom dataset and dataloader in pytorch geometric for files with different dimensions?",
       "url": "https://stackoverflow.com/questions/79980408/how-to-create-a-custom-dataset-and-dataloader-in-pytorch-geometric-for-files-wit",
       "published_at": "2026-07-13T16:06:33.000Z",
@@ -1934,6 +1945,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "User240326"
+    },
+    {
+      "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
+      "url": "https://stackoverflow.com/questions/79980456/how-to-properly-deal-with-nan-values-when-using-scipy-stats-pearsonr",
+      "published_at": "2026-07-13T19:58:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "scipy",
+        "pearson"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Caterina"
     },
     {
       "title": "OSError: exception: access violation reading 0x0000000000000000",
@@ -1982,38 +2007,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "squashCorgi"
-    },
-    {
-      "title": "skl2onnx conversion for standalone RandomForestClassifier results in massive 41% accuracy drop due to list unpacking shape mismatch",
-      "url": "https://stackoverflow.com/questions/79980188/skl2onnx-conversion-for-standalone-randomforestclassifier-results-in-massive-41",
-      "published_at": "2026-07-13T02:49:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "machine-learning",
-        "scikit-learn",
-        "onnx",
-        "onnxruntime"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayush Saini"
-    },
-    {
-      "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
-      "url": "https://stackoverflow.com/questions/79980075/what-is-causing-irregular-spiking-on-training-and-validation-loss-with-an-ann-mo",
-      "published_at": "2026-07-12T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "tensorflow",
-        "validation",
-        "deep-learning",
-        "neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "leakie"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2287,12 +2280,11 @@
       "title": "Why would one use WebAssembly in the Backend?",
       "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
       "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "advice",
         "javascript",
-        "webassembly",
-        "web-development-server"
+        "webassembly"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2827,6 +2819,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
+      "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
+      "published_at": "2026-07-14T11:29:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "db-browser-sqlite",
+        "sqlite-browser"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hacker"
     }
   ],
   "Security": [
@@ -3148,6 +3154,21 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
       "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
       "published_at": "2026-07-01T13:51:51Z",
@@ -3175,21 +3196,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3239,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2991,
+      "stars": 3005,
       "user": "withmarbleapp"
     },
     {
@@ -3254,8 +3260,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "Jane-xiaoer"
+    },
+    {
+      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "published_at": "2026-07-09T07:08:09Z",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "Matchameleon"
     },
     {
       "title": "angieruiz17/claude-fintech-skills - claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
@@ -3273,34 +3294,19 @@
       "user": "angieruiz17"
     },
     {
-      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "published_at": "2026-07-09T07:08:09Z",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "title": "angieruiz17/codex-gpt-plugin - codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+      "url": "https://github.com/angieruiz17/codex-gpt-plugin",
+      "published_at": "2026-07-08T14:53:58Z",
+      "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
       "source": "GitHub",
       "stars": 133,
-      "user": "Matchameleon"
-    },
-    {
-      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
-      "published_at": "2026-07-09T06:47:16Z",
-      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "Matchameleon"
+      "user": "angieruiz17"
     },
     {
       "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
@@ -3314,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "Robbyant"
     },
     {
@@ -3329,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 943,
       "user": "vinhhien112"
     },
     {
@@ -3344,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 918,
       "user": "MDX-Tom"
     },
     {
@@ -3359,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 836,
       "user": "littledivy"
     },
     {
@@ -3374,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 780,
       "user": "Robbyant"
     },
     {
@@ -3389,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 539,
       "user": "cosmtrek"
     },
     {
@@ -3404,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "GreyGunG"
     },
     {
@@ -3479,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "yetone"
     },
     {
@@ -3494,8 +3500,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "bkingfilm"
+    },
+    {
+      "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
+      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
+      "published_at": "2026-07-09T17:01:06Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "JexTradesLab"
     },
     {
       "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
@@ -3513,21 +3534,6 @@
       "user": "opencoredev"
     },
     {
-      "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
-      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
-      "published_at": "2026-07-09T17:01:06Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "JexTradesLab"
-    },
-    {
       "title": "modiqo/waggle - Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
       "url": "https://github.com/modiqo/waggle",
       "published_at": "2026-07-08T04:33:09Z",
@@ -3539,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 353,
       "user": "modiqo"
     },
     {
@@ -3584,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 123,
       "user": "AyagamiDev"
     },
     {
@@ -3599,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 73,
       "user": "RongleCat"
     },
     {
@@ -3641,6 +3647,18 @@
       "user": "gnyeki"
     },
     {
+      "title": "git-absorb: git commit --fixup, but automatic",
+      "url": "https://github.com/tummychow/git-absorb",
+      "published_at": "2026-07-14T03:45:13.309-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "krig"
+    },
+    {
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
       "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
       "published_at": "2026-07-14T01:38:04.000Z",
@@ -3659,7 +3677,7 @@
       "title": "Kiwi TCMS Scalability compared to other testing tools",
       "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
       "published_at": "2026-07-14T07:12:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "tooling-recommendation",
         "python",
