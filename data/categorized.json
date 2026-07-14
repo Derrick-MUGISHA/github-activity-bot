@@ -385,6 +385,21 @@
       "user": "Iain Thomson"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Fable is Back, Baby.",
       "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
       "published_at": "2026-07-01T14:53:47Z",
@@ -410,21 +425,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 927,
       "user": "MDX-Tom"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "yetone"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "bkingfilm"
     },
     {
@@ -806,28 +806,42 @@
       "user": "David Callanan"
     },
     {
+      "title": "not null constraint failed",
+      "url": "https://stackoverflow.com/questions/79980647/not-null-constraint-failed",
+      "published_at": "2026-07-14T12:07:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "flamant"
+    },
+    {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "published_at": "2026-07-14T02:46:42.000Z",
       "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
       "tags": [
-        "AI"
+        "AI",
+        "founders"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
     },
     {
-      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8220;everything for everyone&#8221;",
+      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8216;everything for everyone&#8217;",
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "published_at": "2026-07-14T00:45:00.000Z",
-      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
       "tags": [
+        "AI",
         "TC",
         "Transportation",
-        "AI",
-        "Uber",
-        "Sachin Kansal"
+        "Sachin Kansal",
+        "Uber"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1185,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3010,
       "user": "withmarbleapp"
     },
     {
@@ -1260,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 950,
       "user": "vinhhien112"
     },
     {
@@ -1275,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 799,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1290,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "yetone"
     },
     {
@@ -1305,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "bkingfilm"
     },
     {
@@ -1320,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 266,
       "user": "JexTradesLab"
     },
     {
@@ -1365,14 +1379,30 @@
       "user": "thomas0"
     },
     {
-      "title": "Excel to Photoshop automatically",
-      "url": "https://stackoverflow.com/questions/79980618/excel-to-photoshop-automatically",
+      "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026",
+      "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
+      "published_at": "2026-07-14T12:51:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "express",
+        "npm",
+        "visual-studio-2026"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Wasted_Coder"
+    },
+    {
+      "title": "How to programatically export data from Excel to Photoshop?",
+      "url": "https://stackoverflow.com/questions/79980618/how-to-programatically-export-data-from-excel-to-photoshop",
       "published_at": "2026-07-14T10:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "excel",
-        "photoshop"
+        "photoshop",
+        "extendscript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1467,22 +1497,6 @@
       "user": "stonypaul"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "draggable",
-        "droppable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1497,18 +1511,20 @@
       "user": "aaron"
     },
     {
-      "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
-      "url": "https://stackoverflow.com/questions/79980164/how-to-make-vite-add-react-icons-to-a-separate-js-file-when-executing-npm-run",
-      "published_at": "2026-07-12T21:11:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Dynamically created divs not draggable",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "published_at": "2026-07-13T13:37:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "reactjs",
-        "vite"
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Viktor"
+      "user": "stonypaul"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1797,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1081,
       "user": "Robbyant"
     },
     {
@@ -1812,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 950,
       "user": "vinhhien112"
     },
     {
@@ -1827,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 927,
       "user": "MDX-Tom"
     },
     {
@@ -1842,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 850,
       "user": "littledivy"
     },
     {
@@ -1861,10 +1877,23 @@
       "user": "Robbyant"
     },
     {
+      "title": "not null constraint failed",
+      "url": "https://stackoverflow.com/questions/79980647/not-null-constraint-failed",
+      "published_at": "2026-07-14T12:07:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "flamant"
+    },
+    {
       "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
       "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
       "published_at": "2026-07-14T11:29:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "db-browser-sqlite",
@@ -1921,7 +1950,7 @@
       "title": "Discord Selfbot/User API",
       "url": "https://stackoverflow.com/questions/79980524/discord-selfbot-user-api",
       "published_at": "2026-07-14T05:03:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -1993,22 +2022,6 @@
       "user": "Ainulhaqsde"
     },
     {
-      "title": "Github Regressions: Private dataset to Github",
-      "url": "https://stackoverflow.com/questions/79980190/github-regressions-private-dataset-to-github",
-      "published_at": "2026-07-13T03:15:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "advice",
-        "python",
-        "github",
-        "server",
-        "data-connections"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "squashCorgi"
-    },
-    {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
       "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
       "published_at": "2026-07-09T17:06:32.000Z",
@@ -2040,6 +2053,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
+      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
+      "published_at": "2026-07-14T11:59:15Z",
+      "description": "...",
+      "tags": [
+        "api",
+        "networking",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
       "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4",
@@ -2321,6 +2349,20 @@
       "user": "stonypaul"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 22 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Dynamically created divs not draggable",
       "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
       "published_at": "2026-07-13T13:37:16.000Z",
@@ -2335,20 +2377,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 22 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2746,7 +2774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "xiaozhou26"
     },
     {
@@ -2821,10 +2849,23 @@
       "user": "thomas0"
     },
     {
+      "title": "not null constraint failed",
+      "url": "https://stackoverflow.com/questions/79980647/not-null-constraint-failed",
+      "published_at": "2026-07-14T12:07:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "flamant"
+    },
+    {
       "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
       "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
       "published_at": "2026-07-14T11:29:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "db-browser-sqlite",
@@ -3245,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3010,
       "user": "withmarbleapp"
     },
     {
@@ -3320,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1081,
       "user": "Robbyant"
     },
     {
@@ -3335,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 950,
       "user": "vinhhien112"
     },
     {
@@ -3350,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 927,
       "user": "MDX-Tom"
     },
     {
@@ -3365,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 850,
       "user": "littledivy"
     },
     {
@@ -3395,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 544,
       "user": "cosmtrek"
     },
     {
@@ -3425,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "xiaozhou26"
     },
     {
@@ -3470,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 799,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3485,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "yetone"
     },
     {
@@ -3500,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "bkingfilm"
     },
     {
@@ -3515,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 266,
       "user": "JexTradesLab"
     },
     {
@@ -3545,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 409,
       "user": "modiqo"
     },
     {
@@ -3560,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 288,
       "user": "thatmagicalcat"
     },
     {
@@ -3590,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 126,
       "user": "AyagamiDev"
     },
     {
@@ -3605,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "RongleCat"
     },
     {
@@ -3686,22 +3727,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Santhosh Testing"
-    },
-    {
-      "title": "Github Regressions: Private dataset to Github",
-      "url": "https://stackoverflow.com/questions/79980190/github-regressions-private-dataset-to-github",
-      "published_at": "2026-07-13T03:15:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "advice",
-        "python",
-        "github",
-        "server",
-        "data-connections"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "squashCorgi"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
