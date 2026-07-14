@@ -31,19 +31,19 @@
       "user": "Zachary Lee"
     },
     {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
-      "published_at": "2026-07-14T09:57:26Z",
-      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
       "tags": [
+        "devops",
+        "docker",
         "ai",
-        "agents",
-        "adk",
-        "programming"
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
       "source": "Dev.to",
-      "user": "Remigiusz Samborski"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
@@ -59,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
       "user": "Don Johnson"
+    },
+    {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+      "published_at": "2026-07-14T09:57:26Z",
+      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "tags": [
+        "ai",
+        "agents",
+        "adk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
@@ -178,21 +193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
-    },
-    {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
-      "published_at": "2026-07-08T13:02:03Z",
-      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "codenewbie",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -664,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 985,
       "user": "MDX-Tom"
     },
     {
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "yetone"
     },
     {
@@ -724,14 +724,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "bkingfilm"
     },
     {
-      "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
-      "url": "https://github.com/opencoredev/login-with-chatgpt",
-      "published_at": "2026-07-08T03:29:48Z",
-      "description": "A simple SDK that lets your users log in with their ChatGPT account.",
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "tags": [
         "typescript",
         "github",
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "opencoredev"
     },
     {
@@ -782,7 +782,7 @@
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
       "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
       "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "reactjs",
@@ -820,14 +820,57 @@
       "user": "flamant"
     },
     {
+      "title": "Lucid Motors denies report it&#8217;s considering bankruptcy",
+      "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+      "published_at": "2026-07-14T18:47:14.000Z",
+      "description": "The company said the \"rumors are completely false\" after its stock sank more than 50% on a report that it was weighing the option.",
+      "tags": [
+        "Transportation",
+        "electric vehicles",
+        "Lucid Motors"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "published_at": "2026-07-14T18:33:31.000Z",
+      "description": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "tags": [
+        "AI",
+        "Google",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "published_at": "2026-07-14T17:45:55.000Z",
+      "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "tags": [
+        "AI",
+        "AI regulation",
+        "DeepMind",
+        "Demis Hassabis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
       "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
       "published_at": "2026-07-14T16:45:23.000Z",
       "description": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
       "tags": [
         "Startups",
-        "China",
-        "deepseek"
+        "deepseek",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -858,8 +901,8 @@
         "AI",
         "Apps",
         "Google",
-        "Search",
-        "imagess"
+        "google images",
+        "Search"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -895,54 +938,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "published_at": "2026-07-14T14:24:53.000Z",
-      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Clem Delangue",
-        "Hugging Face",
-        "open models"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Telegram&#8217;s shortlink domain is back online after day-long suspension",
-      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-      "published_at": "2026-07-14T14:10:13.000Z",
-      "description": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
-      "tags": [
-        "Apps",
-        "Security",
-        "cybersecurity",
-        "Sanctions",
-        "Telegram"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "published_at": "2026-07-14T14:06:47.000Z",
-      "description": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "TC",
-        "Music"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
@@ -1035,41 +1030,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Mikhail Golikov"
-    },
-    {
-      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
-      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
-      "published_at": "2026-07-09T16:41:35.000Z",
-      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
-      "tags": [
-        "lms",
-        "onboarding",
-        "training",
-        "upskilling",
-        "Learning Management System"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
-      "published_at": "2026-07-09T16:04:02.000Z",
-      "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
-      "tags": [
-        "mcp server",
-        "llm",
-        "Artificial Intelligence",
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Abdurrahman Rajab"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
@@ -1202,7 +1180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3027,
+      "stars": 3031,
       "user": "withmarbleapp"
     },
     {
@@ -1232,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 157,
       "user": "vybenetwork"
     },
     {
@@ -1277,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 960,
       "user": "vinhhien112"
     },
     {
@@ -1307,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "yetone"
     },
     {
@@ -1322,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "bkingfilm"
     },
     {
@@ -1337,14 +1315,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "JexTradesLab"
     },
     {
-      "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
-      "url": "https://github.com/opencoredev/login-with-chatgpt",
-      "published_at": "2026-07-08T03:29:48Z",
-      "description": "A simple SDK that lets your users log in with their ChatGPT account.",
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "tags": [
         "typescript",
         "github",
@@ -1352,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "opencoredev"
     },
     {
@@ -1385,7 +1363,7 @@
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
       "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
       "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1400,11 +1378,10 @@
       "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
       "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
       "published_at": "2026-07-14T12:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "express",
-        "npm",
+        "visual-studio",
         "visual-studio-2026"
       ],
       "cover_image": null,
@@ -1529,6 +1506,22 @@
       "user": "aaron"
     },
     {
+      "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
+      "url": "https://www.freecodecamp.org/news/react-native-live-activities-handbook/",
+      "published_at": "2026-07-14T16:06:42.000Z",
+      "description": "A Live Activity is the card that sits on your lock screen while a delivery rider approaches, updating itself without you opening the app. Apple shipped the API in iOS 16.1. Google shipped its own vers",
+      "tags": [
+        "React Native",
+        "Expo",
+        "iOS",
+        "Android",
+        "push notifications"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Farouq Seriki"
+    },
+    {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
       "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
       "published_at": "2026-07-13T21:36:24.000Z",
@@ -1574,22 +1567,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
-      "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
-      "published_at": "2026-07-09T14:46:47.000Z",
-      "description": "The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha",
-      "tags": [
-        "Node.js",
-        "JavaScript",
-        "Security",
-        "Web Development",
-        "api"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Python": [
@@ -1815,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1097,
       "user": "Robbyant"
     },
     {
@@ -1830,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 985,
       "user": "MDX-Tom"
     },
     {
@@ -1845,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 960,
       "user": "vinhhien112"
     },
     {
@@ -1860,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 890,
       "user": "littledivy"
     },
     {
@@ -1882,7 +1859,7 @@
       "title": "print of debug des not print",
       "url": "https://stackoverflow.com/questions/79980746/print-of-debug-des-not-print",
       "published_at": "2026-07-14T17:27:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "pytest"
@@ -1961,20 +1938,6 @@
       "user": "Sohail R"
     },
     {
-      "title": "Kiwi TCMS Scalability compared to other testing tools",
-      "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
-      "published_at": "2026-07-14T07:12:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "kiwi-tcms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Santhosh Testing"
-    },
-    {
       "title": "Discord Selfbot/User API",
       "url": "https://stackoverflow.com/questions/79980524/discord-selfbot-user-api",
       "published_at": "2026-07-14T05:03:00.000Z",
@@ -2018,6 +1981,36 @@
       "user": "Caterina"
     },
     {
+      "title": "OSError: exception: access violation reading 0x0000000000000000",
+      "url": "https://stackoverflow.com/questions/79980182/oserror-exception-access-violation-reading-0x0000000000000000",
+      "published_at": "2026-07-13T00:27:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "dll",
+        "driver",
+        "access-violation",
+        "oserror"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "luiz_iniciante"
+    },
+    {
+      "title": "How to Analyze Insider Transactions with Python: A CEO Buying Case Study",
+      "url": "https://www.freecodecamp.org/news/how-to-analyze-insider-transactions-with-python-a-ceo-buying-case-study/",
+      "published_at": "2026-07-14T16:15:49.000Z",
+      "description": "When a CEO buys shares after their company’s stock has fallen hard, it's tempting to read the purchase as a vote of confidence. The person running the business knows more than the average investor, so",
+      "tags": [
+        "Python",
+        "#Stock market",
+        "trading,"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Nikhil Adithyan"
+    },
+    {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
       "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
       "published_at": "2026-07-09T17:06:32.000Z",
@@ -2049,6 +2042,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
       "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
@@ -2404,22 +2412,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
-      "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
-      "published_at": "2026-07-09T14:46:47.000Z",
-      "description": "The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha",
-      "tags": [
-        "Node.js",
-        "JavaScript",
-        "Security",
-        "Web Development",
-        "api"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Mobile": [
@@ -2456,20 +2448,35 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
-      "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
-      "published_at": "2026-07-09T16:04:02.000Z",
-      "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
+      "title": "A Deep Dive into Gabeldorsche: The Bluetooth Stack Android Rebuilt on Purpose",
+      "url": "https://www.freecodecamp.org/news/a-deep-dive-into-gabeldorsche-the-bluetooth-stack-android-rebuilt-on-purpose/",
+      "published_at": "2026-07-14T16:16:36.000Z",
+      "description": "The Android Bluetooth stack spent about a decade being the reason your headphones disconnected during the good part of a song. Gabeldorsche is Google's attempt to fix that at the architectural level,",
       "tags": [
-        "mcp server",
-        "llm",
-        "Artificial Intelligence",
-        "AI",
-        "ai agents"
+        "bluetooth",
+        "Android",
+        "Gabeldorsche",
+        "architecture"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Abdurrahman Rajab"
+      "user": "Nikheel Vishwas Savant"
+    },
+    {
+      "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
+      "url": "https://www.freecodecamp.org/news/react-native-live-activities-handbook/",
+      "published_at": "2026-07-14T16:06:42.000Z",
+      "description": "A Live Activity is the card that sits on your lock screen while a delivery rider approaches, updating itself without you opening the app. Apple shipped the API in iOS 16.1. Google shipped its own vers",
+      "tags": [
+        "React Native",
+        "Expo",
+        "iOS",
+        "Android",
+        "push notifications"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Farouq Seriki"
     }
   ],
   "Cloud": [
@@ -2547,21 +2554,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
-      "published_at": "2026-07-08T13:02:03Z",
-      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "codenewbie",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
     },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
@@ -2724,8 +2716,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "published_at": "2026-07-14T18:33:31.000Z",
+      "description": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "tags": [
+        "AI",
+        "Google",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
@@ -2742,22 +2748,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
-      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
-      "published_at": "2026-07-09T16:41:35.000Z",
-      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
-      "tags": [
-        "lms",
-        "onboarding",
-        "training",
-        "upskilling",
-        "Learning Management System"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Database": [
@@ -2991,54 +2981,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Telegram&#8217;s shortlink domain is back online after day-long suspension",
-      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-      "published_at": "2026-07-14T14:10:13.000Z",
-      "description": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
-      "tags": [
-        "Apps",
-        "Security",
-        "cybersecurity",
-        "Sanctions",
-        "Telegram"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
-      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
-      "published_at": "2026-07-09T16:41:35.000Z",
-      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
-      "tags": [
-        "lms",
-        "onboarding",
-        "training",
-        "upskilling",
-        "Learning Management System"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
-      "url": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
-      "published_at": "2026-07-09T14:46:47.000Z",
-      "description": "The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha",
-      "tags": [
-        "Node.js",
-        "JavaScript",
-        "Security",
-        "Web Development",
-        "api"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Tools": [
@@ -3269,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3027,
+      "stars": 3031,
       "user": "withmarbleapp"
     },
     {
@@ -3299,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 157,
       "user": "vybenetwork"
     },
     {
@@ -3344,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1097,
       "user": "Robbyant"
     },
     {
@@ -3359,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 985,
       "user": "MDX-Tom"
     },
     {
@@ -3374,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 960,
       "user": "vinhhien112"
     },
     {
@@ -3389,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 890,
       "user": "littledivy"
     },
     {
@@ -3419,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 563,
       "user": "cosmtrek"
     },
     {
@@ -3434,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "xiaozhou26"
     },
     {
@@ -3509,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "yetone"
     },
     {
@@ -3524,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "bkingfilm"
     },
     {
@@ -3539,14 +3481,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "JexTradesLab"
     },
     {
-      "title": "opencoredev/login-with-chatgpt - A simple SDK that lets your users log in with their ChatGPT account.",
-      "url": "https://github.com/opencoredev/login-with-chatgpt",
-      "published_at": "2026-07-08T03:29:48Z",
-      "description": "A simple SDK that lets your users log in with their ChatGPT account.",
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "tags": [
         "typescript",
         "github",
@@ -3554,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "opencoredev"
     },
     {
@@ -3569,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 561,
       "user": "modiqo"
     },
     {
@@ -3629,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "RongleCat"
     },
     {
@@ -3698,20 +3640,6 @@
       "user": "AmbroseChapel"
     },
     {
-      "title": "Kiwi TCMS Scalability compared to other testing tools",
-      "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
-      "published_at": "2026-07-14T07:12:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "kiwi-tcms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Santhosh Testing"
-    },
-    {
       "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
       "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
       "published_at": "2026-07-14T16:22:15.000Z",
@@ -3726,38 +3654,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "How an LMS Software Helps Technical Teams Upskill Faster",
-      "url": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
-      "published_at": "2026-07-09T16:41:35.000Z",
-      "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
-      "tags": [
-        "lms",
-        "onboarding",
-        "training",
-        "upskilling",
-        "Learning Management System"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
-      "published_at": "2026-07-09T16:04:02.000Z",
-      "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
-      "tags": [
-        "mcp server",
-        "llm",
-        "Artificial Intelligence",
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Abdurrahman Rajab"
     }
   ]
 }
