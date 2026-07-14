@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 889,
       "user": "MDX-Tom"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 778,
       "user": "Robbyant"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 425,
       "user": "yetone"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "bkingfilm"
     },
     {
@@ -781,17 +781,16 @@
       "user": "tusharhero"
     },
     {
-      "title": "How to redirect from index.html to main.html after animation ends?",
-      "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
-      "published_at": "2026-07-13T05:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "published_at": "2026-07-14T04:24:36.813-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "html"
+        "historical"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mughees Shan"
+      "source": "Lobste.rs",
+      "user": "jbauer"
     },
     {
       "title": "What is causing irregular spiking on training and validation loss with an ANN model tuned with HyberBand?",
@@ -1189,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2976,
+      "stars": 2991,
       "user": "withmarbleapp"
     },
     {
@@ -1264,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 932,
       "user": "vinhhien112"
     },
     {
@@ -1279,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 700,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1294,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 425,
       "user": "yetone"
     },
     {
@@ -1309,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "bkingfilm"
     },
     {
@@ -1339,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "JexTradesLab"
     },
     {
@@ -1384,10 +1383,39 @@
       "user": "Femi"
     },
     {
+      "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
+      "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
+      "published_at": "2026-07-14T01:38:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "google-chrome-devtools",
+        "bookmarklet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AmbroseChapel"
+    },
+    {
+      "title": "Updating Cshtml page without reloading it",
+      "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
+      "published_at": "2026-07-13T18:43:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "c#",
+        "asp.net-mvc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "yummybuns"
+    },
+    {
       "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
       "url": "https://stackoverflow.com/questions/79980489/facebook-ios-in-app-browser-converts-a-page-url-to-fb-profile-but-shows-a-blan",
       "published_at": "2026-07-14T01:55:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "ios",
@@ -1483,34 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32932767"
-    },
-    {
-      "title": "How to redirect from index.html to main.html after animation ends?",
-      "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
-      "published_at": "2026-07-13T05:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mughees Shan"
-    },
-    {
-      "title": "Flowing ideas across a page",
-      "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
-      "published_at": "2026-07-12T14:12:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "animation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sarah"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1799,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1077,
       "user": "Robbyant"
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 932,
       "user": "vinhhien112"
     },
     {
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 889,
       "user": "MDX-Tom"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 817,
       "user": "littledivy"
     },
     {
@@ -1859,22 +1859,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 778,
       "user": "Robbyant"
-    },
-    {
-      "title": "Kiwi TCMS Scalability compared to other testing tools",
-      "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
-      "published_at": "2026-07-14T07:12:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "kiwi-tcms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Santhosh Testing"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -1893,10 +1879,24 @@
       "user": "Sohail R"
     },
     {
+      "title": "Kiwi TCMS Scalability compared to other testing tools",
+      "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
+      "published_at": "2026-07-14T07:12:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "kiwi-tcms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Santhosh Testing"
+    },
+    {
       "title": "Discord Selfbot/User API",
       "url": "https://stackoverflow.com/questions/79980524/discord-selfbot-user-api",
       "published_at": "2026-07-14T05:03:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "python",
@@ -1939,7 +1939,7 @@
       "title": "OSError: exception: access violation reading 0x0000000000000000",
       "url": "https://stackoverflow.com/questions/79980182/oserror-exception-access-violation-reading-0x0000000000000000",
       "published_at": "2026-07-13T00:27:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "dll",
@@ -2299,6 +2299,20 @@
       "user": "Femi"
     },
     {
+      "title": "Updating Cshtml page without reloading it",
+      "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
+      "published_at": "2026-07-13T18:43:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "c#",
+        "asp.net-mvc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "yummybuns"
+    },
+    {
       "title": "Restricting the droppable vicinity of dynamically generated draggable div",
       "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
       "published_at": "2026-07-13T14:33:25.000Z",
@@ -2343,34 +2357,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "How to redirect from index.html to main.html after animation ends?",
-      "url": "https://stackoverflow.com/questions/79980211/how-to-redirect-from-index-html-to-main-html-after-animation-ends",
-      "published_at": "2026-07-13T05:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mughees Shan"
-    },
-    {
-      "title": "Flowing ideas across a page",
-      "url": "https://stackoverflow.com/questions/79980103/flowing-ideas-across-a-page",
-      "published_at": "2026-07-12T14:12:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "animation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sarah"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2457,7 +2443,7 @@
       "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
       "url": "https://stackoverflow.com/questions/79980489/facebook-ios-in-app-browser-converts-a-page-url-to-fb-profile-but-shows-a-blan",
       "published_at": "2026-07-14T01:55:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "ios",
@@ -2768,7 +2754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 130,
       "user": "xiaozhou26"
     },
     {
@@ -3253,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2976,
+      "stars": 2991,
       "user": "withmarbleapp"
     },
     {
@@ -3328,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1077,
       "user": "Robbyant"
     },
     {
@@ -3343,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 932,
       "user": "vinhhien112"
     },
     {
@@ -3358,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 889,
       "user": "MDX-Tom"
     },
     {
@@ -3373,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 817,
       "user": "littledivy"
     },
     {
@@ -3388,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 778,
       "user": "Robbyant"
     },
     {
@@ -3403,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 534,
       "user": "cosmtrek"
     },
     {
@@ -3433,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 130,
       "user": "xiaozhou26"
     },
     {
@@ -3478,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 700,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3493,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 425,
       "user": "yetone"
     },
     {
@@ -3508,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "bkingfilm"
     },
     {
@@ -3538,8 +3524,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "JexTradesLab"
+    },
+    {
+      "title": "modiqo/waggle - Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+      "url": "https://github.com/modiqo/waggle",
+      "published_at": "2026-07-08T04:33:09Z",
+      "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
+      "source": "GitHub",
+      "stars": 290,
+      "user": "modiqo"
     },
     {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
@@ -3553,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "thatmagicalcat"
     },
     {
@@ -3583,23 +3584,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 119,
       "user": "AyagamiDev"
-    },
-    {
-      "title": "modiqo/waggle - Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-      "url": "https://github.com/modiqo/waggle",
-      "published_at": "2026-07-08T04:33:09Z",
-      "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "modiqo"
     },
     {
       "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
@@ -3613,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "RongleCat"
     },
     {
@@ -3655,10 +3641,25 @@
       "user": "gnyeki"
     },
     {
+      "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
+      "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
+      "published_at": "2026-07-14T01:38:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "google-chrome-devtools",
+        "bookmarklet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AmbroseChapel"
+    },
+    {
       "title": "Kiwi TCMS Scalability compared to other testing tools",
       "url": "https://stackoverflow.com/questions/79980564/kiwi-tcms-scalability-compared-to-other-testing-tools",
       "published_at": "2026-07-14T07:12:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "tooling-recommendation",
         "python",
