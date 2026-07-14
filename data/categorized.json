@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 765,
       "user": "Robbyant"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 736,
       "user": "MDX-Tom"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "GreyGunG"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 405,
       "user": "yetone"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "bkingfilm"
     },
     {
@@ -753,35 +753,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "opencoredev"
-    },
-    {
-      "title": "LiteLLM-Labs/litellm-relay - Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
-      "url": "https://github.com/LiteLLM-Labs/litellm-relay",
-      "published_at": "2026-07-09T16:46:55Z",
-      "description": "Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/288467443?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "LiteLLM-Labs"
-    },
-    {
-      "title": "Human Emacs",
-      "url": "https://human-emacs.org/",
-      "published_at": "2026-07-13T11:18:36.108-05:00",
-      "description": "LLM-generated contributions free (possible) fork of GNU Emacs.",
-      "tags": [
-        "emacs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tusharhero"
     },
     {
       "title": "lobste.rs is now running on SQLite",
@@ -794,6 +767,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "Human Emacs",
+      "url": "https://human-emacs.org/",
+      "published_at": "2026-07-13T11:18:36.108-05:00",
+      "description": "LLM-generated contributions free (possible) fork of GNU Emacs.",
+      "tags": [
+        "emacs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tusharhero"
     },
     {
       "title": "How to redirect from index.html to main.html after animation ends?",
@@ -825,16 +810,44 @@
       "user": "leakie"
     },
     {
-      "title": "Video generation startup PixVerse raises $439M, valuation soars past $2B",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "published_at": "2026-07-14T02:46:42.000Z",
+      "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8220;everything for everyone&#8221;",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "published_at": "2026-07-14T00:45:00.000Z",
+      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "tags": [
+        "TC",
+        "Transportation",
+        "AI",
+        "Uber",
+        "Sachin Kansal"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
       "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
       "published_at": "2026-07-14T00:00:00.000Z",
-      "description": "Singapore-based video generation startup PixVerse closed a Series C extension on the strength of 15 million monthly active users, it said.",
+      "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
       "tags": [
         "AI",
         "Fundraising",
         "alibaba",
-        "Funding",
-        "pixverse"
+        "pixverse",
+        "video generation"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -844,7 +857,7 @@
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
       "published_at": "2026-07-13T23:31:18.000Z",
-      "description": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+      "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
       "tags": [
         "AI",
         "Startups",
@@ -917,36 +930,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "12 states sue to block Paramount&#8217;s $110B Warner Bros. deal",
-      "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-      "published_at": "2026-07-13T17:00:14.000Z",
-      "description": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "Mergers and Acquisitions",
-        "Paramount",
-        "Warner Bros"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Should AI help you get away with killing your spouse?",
-      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "published_at": "2026-07-13T16:31:23.000Z",
-      "description": "What does a world of total user-aligned AI actually look like?",
-      "tags": [
-        "AI",
-        "alignment",
-        "George Hotz"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1207,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2907,
+      "stars": 2943,
       "user": "withmarbleapp"
     },
     {
@@ -1222,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "Jane-xiaoer"
     },
     {
@@ -1282,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 880,
       "user": "vinhhien112"
     },
     {
@@ -1297,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1312,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 405,
       "user": "yetone"
     },
     {
@@ -1327,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "bkingfilm"
     },
     {
@@ -1342,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "opencoredev"
     },
     {
@@ -1357,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "change-42-yhmm"
     },
     {
@@ -1385,6 +1368,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thomas0"
+    },
+    {
+      "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
+      "url": "https://stackoverflow.com/questions/79980489/facebook-ios-in-app-browser-converts-a-page-url-to-fb-profile-but-shows-a-blan",
+      "published_at": "2026-07-14T01:55:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "ios",
+        "facebook",
+        "webview",
+        "deep-linking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shunpeng gao"
     },
     {
       "title": "Restricting the droppable vicinity of dynamically generated draggable div",
@@ -1419,6 +1418,33 @@
       "user": "stonypaul"
     },
     {
+      "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
+      "url": "https://stackoverflow.com/questions/79980164/how-to-make-vite-add-react-icons-to-a-separate-js-file-when-executing-npm-run",
+      "published_at": "2026-07-12T21:11:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "vite"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Viktor"
+    },
+    {
+      "title": "What are Wrappers in ReactJS?",
+      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
+      "published_at": "2026-07-12T18:26:25.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
+    },
+    {
       "title": "What are ways to Draw Rectangle on Image? Image display. But Rectangle does not display. Canvas element JavaScript",
       "url": "https://stackoverflow.com/questions/79980231/what-are-ways-to-draw-rectangle-on-image-image-display-but-rectangle-does-not",
       "published_at": "2026-07-13T06:50:56.000Z",
@@ -1444,19 +1470,6 @@
       "user": "Mughees Shan"
     },
     {
-      "title": "What are Wrappers in ReactJS?",
-      "url": "https://stackoverflow.com/questions/79980144/what-are-wrappers-in-reactjs",
-      "published_at": "2026-07-12T18:26:25.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Falak Sher"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1469,20 +1482,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "How to make Vite add react-icons to a separate .js file when executing 'npm run dev'?",
-      "url": "https://stackoverflow.com/questions/79980164/how-to-make-vite-add-react-icons-to-a-separate-js-file-when-executing-npm-run",
-      "published_at": "2026-07-12T21:11:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Viktor"
     },
     {
       "title": "Flowing ideas across a page",
@@ -1512,20 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DAALROTI_SDG"
-    },
-    {
-      "title": "Import a JSON file to JS code, compatible with old and current browsers",
-      "url": "https://stackoverflow.com/questions/79979600/import-a-json-file-to-js-code-compatible-with-old-and-current-browsers",
-      "published_at": "2026-07-10T09:33:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "json",
-        "es6-modules"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nhaggen"
     },
     {
       "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
@@ -1814,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1046,
       "user": "Robbyant"
     },
     {
@@ -1829,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 880,
       "user": "vinhhien112"
     },
     {
@@ -1844,23 +1829,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 765,
       "user": "Robbyant"
-    },
-    {
-      "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
-      "url": "https://github.com/littledivy/mimic",
-      "published_at": "2026-07-13T05:13:00Z",
-      "description": "Intercept any app, then call it from Python like a library",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
-      "source": "GitHub",
-      "stars": 662,
-      "user": "littledivy"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -1874,8 +1844,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 736,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "published_at": "2026-07-13T05:13:00Z",
+      "description": "Intercept any app, then call it from Python like a library",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
+      "source": "GitHub",
+      "stars": 726,
+      "user": "littledivy"
     },
     {
       "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
@@ -1910,7 +1895,7 @@
       "title": "Flask form submission returns 405 Method Not Allowed even though the route exists",
       "url": "https://stackoverflow.com/questions/79980339/flask-form-submission-returns-405-method-not-allowed-even-though-the-route-exist",
       "published_at": "2026-07-13T12:20:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "html",
@@ -2002,6 +1987,22 @@
       "user": "Dhimesh Parmar"
     },
     {
+      "title": "How can I boxplot values that wrap around using matplotlib?",
+      "url": "https://stackoverflow.com/questions/79979626/how-can-i-boxplot-values-that-wrap-around-using-matplotlib",
+      "published_at": "2026-07-10T10:52:53.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "angle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "M.X"
+    },
+    {
       "title": "Limit character count in tkinter window?",
       "url": "https://stackoverflow.com/questions/79980038/limit-character-count-in-tkinter-window",
       "published_at": "2026-07-12T04:36:51.000Z",
@@ -2014,20 +2015,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iz39"
-    },
-    {
-      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
-      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
-      "published_at": "2026-07-09T06:56:42.000Z",
-      "description": "Stack Overflow question · 6 answers · score 1",
-      "tags": [
-        "python",
-        "pyinstaller",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2242,21 +2229,6 @@
       "user": "jknupp"
     },
     {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "berkayyytech"
-    },
-    {
       "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
       "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
       "published_at": "2026-07-13T14:29:12.000Z",
@@ -2390,7 +2362,7 @@
       "title": "Flask form submission returns 405 Method Not Allowed even though the route exists",
       "url": "https://stackoverflow.com/questions/79980339/flask-form-submission-returns-405-method-not-allowed-even-though-the-route-exist",
       "published_at": "2026-07-13T12:20:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "html",
@@ -2452,16 +2424,20 @@
   ],
   "Mobile": [
     {
-      "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI",
-      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
-      "published_at": "2026-07-13T01:55:28.958-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
+      "url": "https://stackoverflow.com/questions/79980489/facebook-ios-in-app-browser-converts-a-page-url-to-fb-profile-but-shows-a-blan",
+      "published_at": "2026-07-14T01:55:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "swift"
+        "javascript",
+        "ios",
+        "facebook",
+        "webview",
+        "deep-linking"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "diktomat"
+      "source": "StackOverflow",
+      "user": "shunpeng gao"
     },
     {
       "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
@@ -2762,7 +2738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 108,
       "user": "xiaozhou26"
     },
     {
@@ -3278,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2907,
+      "stars": 2943,
       "user": "withmarbleapp"
     },
     {
@@ -3293,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "Jane-xiaoer"
     },
     {
@@ -3353,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1046,
       "user": "Robbyant"
     },
     {
@@ -3368,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 880,
       "user": "vinhhien112"
     },
     {
@@ -3383,23 +3359,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 765,
       "user": "Robbyant"
-    },
-    {
-      "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
-      "url": "https://github.com/littledivy/mimic",
-      "published_at": "2026-07-13T05:13:00Z",
-      "description": "Intercept any app, then call it from Python like a library",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
-      "source": "GitHub",
-      "stars": 662,
-      "user": "littledivy"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3413,8 +3374,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 736,
       "user": "MDX-Tom"
+    },
+    {
+      "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "published_at": "2026-07-13T05:13:00Z",
+      "description": "Intercept any app, then call it from Python like a library",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
+      "source": "GitHub",
+      "stars": 726,
+      "user": "littledivy"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3428,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 498,
       "user": "cosmtrek"
     },
     {
@@ -3443,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "GreyGunG"
     },
     {
@@ -3458,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 108,
       "user": "xiaozhou26"
     },
     {
@@ -3477,19 +3453,19 @@
       "user": "intmian"
     },
     {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "title": "pax-beehive/paxm - GitHub Repository",
+      "url": "https://github.com/pax-beehive/paxm",
+      "published_at": "2026-07-09T02:40:57Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 68,
-      "user": "berkayyytech"
+      "stars": 77,
+      "user": "pax-beehive"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3503,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3518,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 405,
       "user": "yetone"
     },
     {
@@ -3533,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "bkingfilm"
     },
     {
@@ -3548,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "opencoredev"
     },
     {
@@ -3563,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "change-42-yhmm"
     },
     {
@@ -3578,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "thatmagicalcat"
     },
     {
@@ -3593,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 122,
       "user": "m-novotny"
     },
     {
@@ -3608,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 80,
       "user": "AyagamiDev"
     },
     {
@@ -3627,19 +3603,19 @@
       "user": "ellie"
     },
     {
-      "title": "LiteLLM-Labs/litellm-relay - Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
-      "url": "https://github.com/LiteLLM-Labs/litellm-relay",
-      "published_at": "2026-07-09T16:46:55Z",
-      "description": "Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
+      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "url": "https://github.com/RongleCat/grok-go",
+      "published_at": "2026-07-11T18:30:24Z",
+      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/288467443?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 53,
-      "user": "LiteLLM-Labs"
+      "stars": 59,
+      "user": "RongleCat"
     },
     {
       "title": "Just Let Me Write Digits",
