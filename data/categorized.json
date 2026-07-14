@@ -46,21 +46,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
-    {
       "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
       "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
       "published_at": "2026-07-14T09:57:26Z",
@@ -134,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -649,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 992,
       "user": "MDX-Tom"
     },
     {
@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "yetone"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "opencoredev"
     },
     {
@@ -740,18 +740,6 @@
       "user": "jbauer"
     },
     {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
-    },
-    {
       "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
       "url": "https://github.com/darrylmorley/whatcable",
       "published_at": "2026-07-14T12:00:52.604-05:00",
@@ -764,6 +752,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "fanf"
+    },
+    {
+      "title": "lobste.rs is now running on SQLite",
+      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
+      "published_at": "2026-07-13T15:03:24.403-05:00",
+      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
+      "tags": [
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "thomas0"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -805,6 +805,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "flamant"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "published_at": "2026-07-14T22:07:42.000Z",
+      "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "OpenAI&#8217;s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "published_at": "2026-07-14T21:50:11.000Z",
+      "description": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "tags": [
+        "AI",
+        "TC",
+        "gpt-5.6 sol",
+        "OpenAI",
+        "openai safety"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
@@ -926,37 +956,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "published_at": "2026-07-14T16:00:00.000Z",
-      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Google",
-        "google images",
-        "Search"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "published_at": "2026-07-14T15:17:59.000Z",
-      "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-      "tags": [
-        "AI",
-        "Climate",
-        "data centers",
-        "new york state"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
@@ -1199,7 +1198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3037,
+      "stars": 3040,
       "user": "withmarbleapp"
     },
     {
@@ -1229,7 +1228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "vybenetwork"
     },
     {
@@ -1274,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 964,
       "user": "vinhhien112"
     },
     {
@@ -1304,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "yetone"
     },
     {
@@ -1334,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "JexTradesLab"
     },
     {
@@ -1349,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "opencoredev"
     },
     {
@@ -1810,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1103,
       "user": "Robbyant"
     },
     {
@@ -1825,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 992,
       "user": "MDX-Tom"
     },
     {
@@ -1840,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 964,
       "user": "vinhhien112"
     },
     {
@@ -1855,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 903,
       "user": "littledivy"
     },
     {
@@ -2701,8 +2700,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "xiaozhou26"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "published_at": "2026-07-14T22:07:42.000Z",
+      "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Google faces another AI training lawsuit from major publishers",
@@ -2939,21 +2952,6 @@
   ],
   "Tools": [
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
-    {
       "title": "A lot of good points here https://antirez.com/news/169",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
       "published_at": "2026-07-13T15:17:02Z",
@@ -2982,6 +2980,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
+    },
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
@@ -3165,7 +3178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3037,
+      "stars": 3040,
       "user": "withmarbleapp"
     },
     {
@@ -3195,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "vybenetwork"
     },
     {
@@ -3240,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1103,
       "user": "Robbyant"
     },
     {
@@ -3255,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 992,
       "user": "MDX-Tom"
     },
     {
@@ -3270,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 964,
       "user": "vinhhien112"
     },
     {
@@ -3285,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 903,
       "user": "littledivy"
     },
     {
@@ -3315,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "cosmtrek"
     },
     {
@@ -3330,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "xiaozhou26"
     },
     {
@@ -3405,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "yetone"
     },
     {
@@ -3435,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "JexTradesLab"
     },
     {
@@ -3450,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "opencoredev"
     },
     {
@@ -3465,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 598,
       "user": "modiqo"
     },
     {
@@ -3510,23 +3523,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "m-novotny"
     },
     {
-      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "url": "https://github.com/RongleCat/grok-go",
-      "published_at": "2026-07-11T18:30:24Z",
-      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "title": "CluvexStudio/Aether - GitHub Repository",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "published_at": "2026-07-14T14:20:44Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 92,
-      "user": "RongleCat"
+      "stars": 93,
+      "user": "CluvexStudio"
     },
     {
       "title": "Just Let Me Write Digits",
