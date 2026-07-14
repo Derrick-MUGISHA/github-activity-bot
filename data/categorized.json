@@ -649,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 991,
       "user": "MDX-Tom"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 271,
       "user": "opencoredev"
     },
     {
@@ -764,18 +764,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "fanf"
-    },
-    {
-      "title": "Human Emacs",
-      "url": "https://human-emacs.org/",
-      "published_at": "2026-07-13T11:18:36.108-05:00",
-      "description": "LLM-generated contributions free (possible) fork of GNU Emacs.",
-      "tags": [
-        "emacs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tusharhero"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -827,8 +815,8 @@
         "AI",
         "Apps",
         "Apple",
-        "siri",
-        "siri ai"
+        "iOS 27",
+        "siri"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -838,10 +826,9 @@
       "title": "Anthropic&#8217;s newest ad is creeping people out",
       "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
       "published_at": "2026-07-14T19:41:27.000Z",
-      "description": "Anthropic's latest advert is stirring up high emotions — which is undoubtedly what it was designed to do.",
+      "description": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
       "tags": [
         "AI",
-        "TC",
         "Anthropic",
         "OpenAI",
         "sam altman"
@@ -1242,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "vybenetwork"
     },
     {
@@ -1287,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 962,
       "user": "vinhhien112"
     },
     {
@@ -1362,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 271,
       "user": "opencoredev"
     },
     {
@@ -1523,20 +1510,18 @@
       "user": "yummybuns"
     },
     {
-      "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
-      "url": "https://stackoverflow.com/questions/79980489/facebook-ios-in-app-browser-converts-a-page-url-to-fb-profile-but-shows-a-blan",
-      "published_at": "2026-07-14T01:55:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
       "tags": [
         "javascript",
-        "ios",
-        "facebook",
-        "webview",
-        "deep-linking"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "shunpeng gao"
+      "user": "aaron"
     },
     {
       "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
@@ -1825,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1101,
       "user": "Robbyant"
     },
     {
@@ -1840,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 991,
       "user": "MDX-Tom"
     },
     {
@@ -1855,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 962,
       "user": "vinhhien112"
     },
     {
@@ -1870,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 900,
       "user": "littledivy"
     },
     {
@@ -1887,6 +1872,35 @@
       "source": "GitHub",
       "stars": 784,
       "user": "Robbyant"
+    },
+    {
+      "title": "venv not activating with source",
+      "url": "https://stackoverflow.com/questions/79980787/venv-not-activating-with-source",
+      "published_at": "2026-07-14T20:40:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "advice",
+        "python",
+        "pip",
+        "python-venv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32938535"
+    },
+    {
+      "title": "Catch KeyboardInterrupt but not asyncio.CancelledError",
+      "url": "https://stackoverflow.com/questions/79980782/catch-keyboardinterrupt-but-not-asyncio-cancellederror",
+      "published_at": "2026-07-14T20:13:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "exception",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Филя Усков"
     },
     {
       "title": "print of debug des not print",
@@ -1997,37 +2011,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Caterina"
-    },
-    {
-      "title": "How to create a custom dataset and dataloader in pytorch geometric for files with different dimensions?",
-      "url": "https://stackoverflow.com/questions/79980408/how-to-create-a-custom-dataset-and-dataloader-in-pytorch-geometric-for-files-wit",
-      "published_at": "2026-07-13T16:06:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "pytorch",
-        "pytorch-dataloader",
-        "pytorch-geometric"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "User240326"
-    },
-    {
-      "title": "OSError: exception: access violation reading 0x0000000000000000",
-      "url": "https://stackoverflow.com/questions/79980182/oserror-exception-access-violation-reading-0x0000000000000000",
-      "published_at": "2026-07-13T00:27:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "dll",
-        "driver",
-        "access-violation",
-        "oserror"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "luiz_iniciante"
     },
     {
       "title": "How to Analyze Insider Transactions with Python: A CEO Buying Case Study",
@@ -2371,6 +2354,20 @@
       "user": "yummybuns"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
       "url": "https://stackoverflow.com/questions/79980563/how-can-i-vertically-align-a-plotly-chart-and-a-custom-html-card-in-adjacent-str",
       "published_at": "2026-07-14T07:11:57.000Z",
@@ -2420,22 +2417,6 @@
   ],
   "Mobile": [
     {
-      "title": "Facebook iOS in-app browser converts a Page URL to fb://profile but shows a blank page",
-      "url": "https://stackoverflow.com/questions/79980489/facebook-ios-in-app-browser-converts-a-page-url-to-fb-profile-but-shows-a-blan",
-      "published_at": "2026-07-14T01:55:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "ios",
-        "facebook",
-        "webview",
-        "deep-linking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shunpeng gao"
-    },
-    {
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
       "published_at": "2026-07-14T19:42:27.000Z",
@@ -2444,8 +2425,8 @@
         "AI",
         "Apps",
         "Apple",
-        "siri",
-        "siri ai"
+        "iOS 27",
+        "siri"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3214,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "vybenetwork"
     },
     {
@@ -3259,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1101,
       "user": "Robbyant"
     },
     {
@@ -3274,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 991,
       "user": "MDX-Tom"
     },
     {
@@ -3289,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 962,
       "user": "vinhhien112"
     },
     {
@@ -3304,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 900,
       "user": "littledivy"
     },
     {
@@ -3334,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 568,
       "user": "cosmtrek"
     },
     {
@@ -3469,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 271,
       "user": "opencoredev"
     },
     {
@@ -3484,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 593,
       "user": "modiqo"
     },
     {
