@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--14-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,26 +21,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-14 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-14 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/the-myth-of-the-post-documentation-era-39al">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png" width="200" alt="The Myth of the Post-Documentation Era" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6xeiwqgih7kd460kkly.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>The Myth of the Post-Documentation Era</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6xeiwqgih7kd460kkly.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/ben/the-myth-of-the-post-documentation-era-39al">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png" width="200" alt="The Myth of the Post-Documentation Era" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>The Myth of the Post-Documentation Era</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -66,10 +66,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fop2iniz3q968yq5mazmi.png" width="200" alt="Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have." />
+    <a href="https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop" width="200" alt="Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster" />
       <br/>
-      <b>Chasing the Sentry prize for DEV's Summer Bug Smas...</b>
+      <b>Building a Hybrid Docker Orchestrator in Go: The J...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -94,32 +94,32 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al) | Dev.to |
-| 2 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815) | Dev.to |
+| 1 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815) | Dev.to |
+| 2 | [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al) | Dev.to |
 | 3 | [I Finally Built the Dev Opportunity Radar Website ❤️](https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi) | Dev.to |
 | 4 | [How I made a Rust hot path 27x faster, and the AI fix I refused to merge](https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg) | Dev.to |
-| 5 | [Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506) | Dev.to |
+| 5 | [Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster](https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m) | Dev.to |
 | 6 | [HTTP gets a QUERY method so complex searches can stop pretending to be POST
 
 https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28) | Dev.to |
 | 7 | [This is remarkable
 
 https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0) | Dev.to |
-| 8 | [The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent](https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3) | Dev.to |
-| 9 | [A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe) | Dev.to |
-| 10 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
-| 11 | [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf) | Dev.to |
-| 12 | [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd) | Dev.to |
-| 13 | [2B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/2b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-4p7) | Dev.to |
-| 14 | [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f) | Dev.to |
-| 15 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
-| 16 | [Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI](https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43) | Dev.to |
-| 17 | [Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4) | Dev.to |
-| 18 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
-| 19 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
-| 20 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 8 | [A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe) | Dev.to |
+| 9 | [The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent](https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3) | Dev.to |
+| 10 | [Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506) | Dev.to |
+| 11 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
+| 12 | [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf) | Dev.to |
+| 13 | [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd) | Dev.to |
+| 14 | [2B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/2b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-4p7) | Dev.to |
+| 15 | [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f) | Dev.to |
+| 16 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
+| 17 | [Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI](https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43) | Dev.to |
+| 18 | [Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4) | Dev.to |
+| 19 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
+| 20 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
 
-<sub>Last fetched: Tue, 14 Jul 2026 19:44:36 CAT</sub>
+<sub>Last fetched: Tue, 14 Jul 2026 20:52:56 CAT</sub>
 
 
 ---
@@ -139,25 +139,25 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 </details>
 
-**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**2. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Ownership, mutability, data flow direction
 
 </details>
 
-**3. `JavaScript` — What are closures and provide a practical example?**
+**3. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -170,16 +170,16 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 40.8% | `████████████████████` |
-| **Tools** | 49 | 26.6% | `█████████████░░░░░░░` |
-| **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
-| **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **AI** | 73 | 39.7% | `████████████████████` |
+| **Tools** | 46 | 25.0% | `█████████████░░░░░░░` |
+| **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **Python** | 34 | 18.5% | `█████████░░░░░░░░░░░` |
+| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -200,33 +200,34 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.3%
-JavaScript      ████████████████████████████ 24.3%
-Python          █████████████████████████ 21.7%
-Java            █████████████████████ 18.4%
-Rust            ████████ 6.6%
+Go              ██████████████████████████████ 27.5%
+JavaScript      ██████████████████████████ 23.8%
+Python          ███████████████████████ 21.3%
+Java            ██████████████████ 16.9%
+Rust            ███████ 6.3%
 CSharp          █ 1.3%
-Ruby            █ 0.7%
-Swift           █ 0.7%
+Swift           █ 1.3%
+Kotlin          █ 1.3%
+Ruby            █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 40
-    "JavaScript" : 37
-    "Python" : 33
-    "Java" : 28
+    "Go" : 44
+    "JavaScript" : 38
+    "Python" : 34
+    "Java" : 27
     "Rust" : 10
     "CSharp" : 2
-    "Ruby" : 1
-    "Swift" : 1
+    "Swift" : 2
+    "Kotlin" : 2
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-8-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-8-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-8-0969da?style=flat-square) 
 
 
 ---
@@ -278,6 +279,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 14 Jul 2026 17:44:36 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 14 Jul 2026 18:52:56 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
