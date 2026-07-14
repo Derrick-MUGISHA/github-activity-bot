@@ -46,21 +46,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
-      "published_at": "2026-07-14T09:57:26Z",
-      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
-      "tags": [
-        "ai",
-        "agents",
-        "adk",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
       "published_at": "2026-07-13T13:36:03Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+      "published_at": "2026-07-14T09:57:26Z",
+      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "tags": [
+        "ai",
+        "agents",
+        "adk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -164,20 +164,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
       "user": "Web Developer Hyper"
-    },
-    {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "published_at": "2026-06-29T16:06:30Z",
-      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "tags": [
-        "aie",
-        "ai",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -649,7 +635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 994,
       "user": "MDX-Tom"
     },
     {
@@ -679,7 +665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "GreyGunG"
     },
     {
@@ -807,6 +793,35 @@
       "user": "flamant"
     },
     {
+      "title": "Lorde says AI glasses are &#8220;not sexy&#8221;",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "published_at": "2026-07-14T23:10:02.000Z",
+      "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+      "tags": [
+        "AI",
+        "lorde",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "published_at": "2026-07-14T22:22:24.000Z",
+      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "tags": [
+        "AI",
+        "Apple",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
       "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
       "published_at": "2026-07-14T22:07:42.000Z",
@@ -827,7 +842,6 @@
       "description": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
       "tags": [
         "AI",
-        "TC",
         "gpt-5.6 sol",
         "OpenAI",
         "openai safety"
@@ -926,36 +940,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "published_at": "2026-07-14T16:45:23.000Z",
-      "description": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
-      "tags": [
-        "Startups",
-        "deepseek",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "published_at": "2026-07-14T16:22:15.000Z",
-      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-      "tags": [
-        "AI",
-        "adam mosseri",
-        "Meta",
-        "tokenmaxxing",
-        "tokens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
@@ -1198,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3040,
+      "stars": 3045,
       "user": "withmarbleapp"
     },
     {
@@ -1228,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 167,
       "user": "vybenetwork"
     },
     {
@@ -1333,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 285,
       "user": "JexTradesLab"
     },
     {
@@ -1809,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1108,
       "user": "Robbyant"
     },
     {
@@ -1824,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 994,
       "user": "MDX-Tom"
     },
     {
@@ -1854,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 908,
       "user": "littledivy"
     },
     {
@@ -2700,7 +2684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "xiaozhou26"
     },
     {
@@ -2948,6 +2932,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "2352500"
+    },
+    {
+      "title": "You should probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "published_at": "2026-07-14T17:02:25.512-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cadey"
     }
   ],
   "Tools": [
@@ -3178,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 3040,
+      "stars": 3045,
       "user": "withmarbleapp"
     },
     {
@@ -3208,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 167,
       "user": "vybenetwork"
     },
     {
@@ -3253,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1108,
       "user": "Robbyant"
     },
     {
@@ -3268,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 994,
       "user": "MDX-Tom"
     },
     {
@@ -3298,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 908,
       "user": "littledivy"
     },
     {
@@ -3328,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 575,
       "user": "cosmtrek"
     },
     {
@@ -3343,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "xiaozhou26"
     },
     {
@@ -3358,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "GreyGunG"
     },
     {
@@ -3373,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 110,
       "user": "intmian"
     },
     {
@@ -3448,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 285,
       "user": "JexTradesLab"
     },
     {
@@ -3478,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 604,
       "user": "modiqo"
     },
     {
@@ -3508,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "AyagamiDev"
     },
     {
@@ -3538,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 100,
       "user": "CluvexStudio"
     },
     {
@@ -3605,22 +3602,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmbroseChapel"
-    },
-    {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "published_at": "2026-07-14T16:22:15.000Z",
-      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-      "tags": [
-        "AI",
-        "adam mosseri",
-        "Meta",
-        "tokenmaxxing",
-        "tokens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ]
 }
