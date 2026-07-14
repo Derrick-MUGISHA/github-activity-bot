@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 656,
       "user": "MDX-Tom"
     },
     {
@@ -710,36 +710,6 @@
       "source": "GitHub",
       "stars": 136,
       "user": "GreyGunG"
-    },
-    {
-      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
-      "published_at": "2026-07-07T04:15:04Z",
-      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "uf-hy"
-    },
-    {
-      "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "url": "https://github.com/xiaotianfotos/homerail",
-      "published_at": "2026-07-07T12:11:18Z",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
-      "source": "GitHub",
-      "stars": 506,
-      "user": "xiaotianfotos"
     },
     {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
@@ -785,6 +755,21 @@
       "source": "GitHub",
       "stars": 248,
       "user": "opencoredev"
+    },
+    {
+      "title": "LiteLLM-Labs/litellm-relay - Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
+      "url": "https://github.com/LiteLLM-Labs/litellm-relay",
+      "published_at": "2026-07-09T16:46:55Z",
+      "description": "Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/288467443?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "LiteLLM-Labs"
     },
     {
       "title": "Human Emacs",
@@ -838,6 +823,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leakie"
+    },
+    {
+      "title": "Video generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "published_at": "2026-07-14T00:00:00.000Z",
+      "description": "Singapore-based video generation startup PixVerse closed a Series C extension on the strength of 15 million monthly active users, it said.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "alibaba",
+        "Funding",
+        "pixverse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "published_at": "2026-07-13T23:31:18.000Z",
+      "description": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "iRobot Ventures",
+        "unicorn"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta, Marina Temkin"
     },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
@@ -932,49 +949,20 @@
       "user": "Russell Brandom"
     },
     {
-      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
-      "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
-      "published_at": "2026-07-13T15:49:42.000Z",
-      "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "social network",
-        "television"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "published_at": "2026-07-13T15:34:59.000Z",
-      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
+      "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
+      "published_at": "2026-07-13T21:36:24.000Z",
+      "description": "Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate",
       "tags": [
         "AI",
-        "Anthropic",
-        "Claude"
+        "ai-agent",
+        "ollama",
+        "automation",
+        "cron"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-      "published_at": "2026-07-13T14:19:44.000Z",
-      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
-      "tags": [
-        "Space",
-        "Transportation",
-        "SpaceX",
-        "Starship"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
@@ -1084,20 +1072,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Lakshmi Mahabaleshwara"
-    },
-    {
-      "title": "How MCP Is Changing WordPress Development",
-      "url": "https://www.freecodecamp.org/news/how-mcp-is-changing-wordpress-development/",
-      "published_at": "2026-07-08T23:18:17.000Z",
-      "description": "For years, the promise of AI-assisted development felt just out of reach for WordPress developers. You could ask a chatbot to generate a block of PHP, paste it into your editor, run into a conflict, c",
-      "tags": [
-        "mcp",
-        "WordPress",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1233,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2900,
+      "stars": 2907,
       "user": "withmarbleapp"
     },
     {
@@ -1308,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 851,
       "user": "vinhhien112"
     },
     {
@@ -1325,21 +1299,6 @@
       "source": "GitHub",
       "stars": 696,
       "user": "mereyabdenbekuly-ctrl"
-    },
-    {
-      "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "url": "https://github.com/xiaotianfotos/homerail",
-      "published_at": "2026-07-07T12:11:18Z",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
-      "source": "GitHub",
-      "stars": 506,
-      "user": "xiaotianfotos"
     },
     {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
@@ -1385,6 +1344,21 @@
       "source": "GitHub",
       "stars": 248,
       "user": "opencoredev"
+    },
+    {
+      "title": "change-42-yhmm/quota-float - A plug-in for easy viewing of credit limits",
+      "url": "https://github.com/change-42-yhmm/quota-float",
+      "published_at": "2026-07-09T08:33:45Z",
+      "description": "A plug-in for easy viewing of credit limits",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "change-42-yhmm"
     },
     {
       "title": "Just Let Me Write Digits",
@@ -1552,6 +1526,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "nhaggen"
+    },
+    {
+      "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
+      "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
+      "published_at": "2026-07-13T21:36:24.000Z",
+      "description": "Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate",
+      "tags": [
+        "AI",
+        "ai-agent",
+        "ollama",
+        "automation",
+        "cron"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
@@ -1824,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1028,
       "user": "Robbyant"
     },
     {
@@ -1839,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 851,
       "user": "vinhhien112"
     },
     {
@@ -1858,21 +1848,6 @@
       "user": "Robbyant"
     },
     {
-      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "published_at": "2026-07-11T09:44:24Z",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
-      "source": "GitHub",
-      "stars": 654,
-      "user": "MDX-Tom"
-    },
-    {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
       "published_at": "2026-07-13T05:13:00Z",
@@ -1884,8 +1859,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 662,
       "user": "littledivy"
+    },
+    {
+      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "published_at": "2026-07-11T09:44:24Z",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
+      "source": "GitHub",
+      "stars": 656,
+      "user": "MDX-Tom"
     },
     {
       "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
@@ -2026,16 +2016,18 @@
       "user": "iz39"
     },
     {
-      "title": "Printing list of zip-object prohibits conversion into dictionary",
-      "url": "https://stackoverflow.com/questions/79980004/printing-list-of-zip-object-prohibits-conversion-into-dictionary",
-      "published_at": "2026-07-11T23:10:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "published_at": "2026-07-09T06:56:42.000Z",
+      "description": "Stack Overflow question · 6 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "pyinstaller",
+        "playwright-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "SandwichX"
+      "user": "user32880109"
     },
     {
       "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
@@ -2250,6 +2242,21 @@
       "user": "jknupp"
     },
     {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "berkayyytech"
+    },
+    {
       "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
       "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
       "published_at": "2026-07-13T14:29:12.000Z",
@@ -2444,6 +2451,18 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI",
+      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+      "published_at": "2026-07-13T01:55:28.958-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "swift"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "diktomat"
+    },
     {
       "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
       "url": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
@@ -3259,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
       "source": "GitHub",
-      "stars": 2900,
+      "stars": 2907,
       "user": "withmarbleapp"
     },
     {
@@ -3334,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1028,
       "user": "Robbyant"
     },
     {
@@ -3349,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 851,
       "user": "vinhhien112"
     },
     {
@@ -3368,21 +3387,6 @@
       "user": "Robbyant"
     },
     {
-      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "published_at": "2026-07-11T09:44:24Z",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
-      "source": "GitHub",
-      "stars": 654,
-      "user": "MDX-Tom"
-    },
-    {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
       "published_at": "2026-07-13T05:13:00Z",
@@ -3394,8 +3398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 662,
       "user": "littledivy"
+    },
+    {
+      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "published_at": "2026-07-11T09:44:24Z",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
+      "source": "GitHub",
+      "stars": 656,
+      "user": "MDX-Tom"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3409,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 484,
       "user": "cosmtrek"
     },
     {
@@ -3428,21 +3447,6 @@
       "user": "GreyGunG"
     },
     {
-      "title": "melqtx/tork - cli for searching and downloading torrents",
-      "url": "https://github.com/melqtx/tork",
-      "published_at": "2026-07-07T06:56:57Z",
-      "description": "cli for searching and downloading torrents",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105978905?v=4",
-      "source": "GitHub",
-      "stars": 124,
-      "user": "melqtx"
-    },
-    {
       "title": "xiaozhou26/icloud-hme - GitHub Repository",
       "url": "https://github.com/xiaozhou26/icloud-hme",
       "published_at": "2026-07-08T11:04:56Z",
@@ -3458,19 +3462,34 @@
       "user": "xiaozhou26"
     },
     {
-      "title": "uf-hy/cpa-plugin-codexcomp - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
-      "url": "https://github.com/uf-hy/cpa-plugin-codexcomp",
-      "published_at": "2026-07-07T04:15:04Z",
-      "description": "CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding",
+      "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
+      "url": "https://github.com/intmian/gorm-d1-adapter",
+      "published_at": "2026-07-10T11:49:55Z",
+      "description": "Make your Go-to-D1 connection 2–18× faster.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41638541?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "uf-hy"
+      "stars": 90,
+      "user": "intmian"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "berkayyytech"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3486,21 +3505,6 @@
       "source": "GitHub",
       "stars": 696,
       "user": "mereyabdenbekuly-ctrl"
-    },
-    {
-      "title": "xiaotianfotos/homerail - Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "url": "https://github.com/xiaotianfotos/homerail",
-      "published_at": "2026-07-07T12:11:18Z",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25025807?v=4",
-      "source": "GitHub",
-      "stars": 506,
-      "user": "xiaotianfotos"
     },
     {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
@@ -3548,6 +3552,21 @@
       "user": "opencoredev"
     },
     {
+      "title": "change-42-yhmm/quota-float - A plug-in for easy viewing of credit limits",
+      "url": "https://github.com/change-42-yhmm/quota-float",
+      "published_at": "2026-07-09T08:33:45Z",
+      "description": "A plug-in for easy viewing of credit limits",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "change-42-yhmm"
+    },
+    {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
       "url": "https://github.com/thatmagicalcat/txm",
       "published_at": "2026-07-09T03:24:59Z",
@@ -3563,49 +3582,34 @@
       "user": "thatmagicalcat"
     },
     {
-      "title": "gnomeria/usbtree - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.",
-      "url": "https://github.com/gnomeria/usbtree",
-      "published_at": "2026-07-07T14:19:23Z",
-      "description": "Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.",
+      "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+      "url": "https://github.com/m-novotny/memguard-rs",
+      "published_at": "2026-07-13T21:08:48Z",
+      "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3047437?v=4",
-      "source": "GitHub",
-      "stars": 137,
-      "user": "gnomeria"
-    },
-    {
-      "title": "ActiveTK/VRAMDISK - VRAMDISK: Create VRAM disk on Windows",
-      "url": "https://github.com/ActiveTK/VRAMDISK",
-      "published_at": "2026-07-07T18:05:01Z",
-      "description": "VRAMDISK: Create VRAM disk on Windows",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68322433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
       "source": "GitHub",
       "stars": 113,
-      "user": "ActiveTK"
+      "user": "m-novotny"
     },
     {
-      "title": "iptvorganization/dv-hls-gateway - Live stream gateway",
-      "url": "https://github.com/iptvorganization/dv-hls-gateway",
-      "published_at": "2026-07-07T06:59:10Z",
-      "description": "Live stream gateway",
+      "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
+      "url": "https://github.com/AyagamiDev/ayagami",
+      "published_at": "2026-07-11T13:51:22Z",
+      "description": "2D puppet model renderer compatible with Live2D",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283625033?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 68,
-      "user": "iptvorganization"
+      "stars": 66,
+      "user": "AyagamiDev"
     },
     {
       "title": "ellie/lgtm - GitHub Repository",
@@ -3621,6 +3625,21 @@
       "source": "GitHub",
       "stars": 65,
       "user": "ellie"
+    },
+    {
+      "title": "LiteLLM-Labs/litellm-relay - Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
+      "url": "https://github.com/LiteLLM-Labs/litellm-relay",
+      "published_at": "2026-07-09T16:46:55Z",
+      "description": "Catch shadow AI. A proxy for employee machines that routes all AI usage to your LiteLLM AI Gateway.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/288467443?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "LiteLLM-Labs"
     },
     {
       "title": "Just Let Me Write Digits",
@@ -3663,21 +3682,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "squashCorgi"
-    },
-    {
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-      "published_at": "2026-07-13T14:19:44.000Z",
-      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
-      "tags": [
-        "Space",
-        "Transportation",
-        "SpaceX",
-        "Starship"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How an LMS Software Helps Technical Teams Upskill Faster",
