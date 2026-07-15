@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-15 12:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-15 14:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -123,7 +123,7 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 | 19 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
 | 20 | [A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe) | Dev.to |
 
-<sub>Last fetched: Wed, 15 Jul 2026 12:29:02 CAT</sub>
+<sub>Last fetched: Wed, 15 Jul 2026 14:05:17 CAT</sub>
 
 
 ---
@@ -132,7 +132,18 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Explain event delegation and why it's useful**
+**1. `JavaScript` — What are closures and provide a practical example?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Function + lexical environment, data privacy, callbacks
+
+</details>
+
+**2. `JavaScript` — Explain event delegation and why it's useful**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
@@ -143,25 +154,14 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 
 </details>
 
-**2. `NodeJS` — How do you handle errors in async/await?**
+**3. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> try/catch, .catch(), error middleware
-
-</details>
-
-**3. `SystemDesign` — How would you design a rate limiter?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -175,14 +175,14 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 72 | 39.1% | `████████████████████` |
-| **Tools** | 43 | 23.4% | `████████████░░░░░░░░` |
-| **JavaScript** | 39 | 21.2% | `███████████░░░░░░░░░` |
+| **Tools** | 41 | 22.3% | `███████████░░░░░░░░░` |
+| **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
 | **DevOps** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -204,13 +204,13 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.6%
-JavaScript      ████████████████████████████ 24.7%
-Python          ████████████████████████ 20.9%
-Java            ███████████████████ 17.1%
-Rust            █████████ 7.6%
-Swift           █ 1.3%
+Go              ██████████████████████████████ 26.9%
+JavaScript      █████████████████████████████ 25.6%
+Python          ████████████████████████ 21.2%
+Java            ███████████████████ 16.7%
+Rust            ████████ 7.1%
 Kotlin          █ 1.3%
+Swift           █ 0.6%
 CSharp          █ 0.6%
 
 ```
@@ -218,19 +218,19 @@ CSharp          █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 42
-    "JavaScript" : 39
+    "JavaScript" : 40
     "Python" : 33
-    "Java" : 27
-    "Rust" : 12
-    "Swift" : 2
+    "Java" : 26
+    "Rust" : 11
     "Kotlin" : 2
+    "Swift" : 1
     "CSharp" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) 
 
 
 ---
@@ -282,6 +282,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 15 Jul 2026 10:29:02 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 15 Jul 2026 12:05:17 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
