@@ -28,7 +28,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
-      "user": "Zachary Lee"
+      "user": "Zach"
     },
     {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
@@ -344,21 +344,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "tags": [
-        "ai",
-        "aie",
-        "productivity",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -461,6 +446,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
+    },
+    {
+      "title": "Visitors get some serious puppy love",
+      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
+      "published_at": "2026-07-01T13:47:36Z",
+      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
+      "tags": [
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -660,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1057,
       "user": "MDX-Tom"
     },
     {
@@ -675,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 717,
       "user": "AlephAITech"
     },
     {
@@ -690,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "William-Lu-stack"
     },
     {
@@ -720,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "yetone"
     },
     {
@@ -735,20 +732,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "opencoredev"
-    },
-    {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "published_at": "2026-07-14T04:24:36.813-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "historical"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jbauer"
     },
     {
       "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
@@ -763,6 +748,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "fanf"
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "published_at": "2026-07-14T04:24:36.813-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "historical"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jbauer"
     },
     {
       "title": "lobste.rs is now running on SQLite",
@@ -780,7 +777,7 @@
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
       "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
       "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "reactjs",
@@ -795,7 +792,7 @@
       "title": "How to queue microtask at tail end?",
       "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
       "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "event-loop"
@@ -818,14 +815,32 @@
       "user": "flamant"
     },
     {
-      "title": "Lorde says AI glasses are &#8220;not sexy&#8221;",
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "published_at": "2026-07-14T23:10:02.000Z",
-      "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "published_at": "2026-07-15T00:27:04.000Z",
+      "description": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
       "tags": [
         "AI",
+        "Biotech & Health",
+        "Venture",
+        "drug discovery",
+        "lightspeed"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Lorde says AI glasses are &#8216;not sexy&#8217;",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "published_at": "2026-07-14T23:10:02.000Z",
+      "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "tags": [
+        "AI",
+        "AI smart glasses",
         "lorde",
-        "Meta"
+        "Meta",
+        "ray-ban meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -950,21 +965,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "published_at": "2026-07-14T17:45:55.000Z",
-      "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "tags": [
-        "AI",
-        "AI regulation",
-        "DeepMind",
-        "Demis Hassabis"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -1209,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 258,
       "user": "Jane-xiaoer"
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 179,
       "user": "vybenetwork"
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "vinhhien112"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "yetone"
     },
     {
@@ -1329,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 300,
       "user": "JexTradesLab"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "opencoredev"
     },
     {
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 237,
       "user": "change-42-yhmm"
     },
     {
@@ -1392,7 +1392,7 @@
       "title": "Add controlling properties to make drag and drop experience smoother",
       "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
       "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "jquery",
@@ -1407,7 +1407,7 @@
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
       "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
       "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "reactjs",
@@ -1417,6 +1417,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David Brierton"
+    },
+    {
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
     },
     {
       "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
@@ -1446,19 +1459,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zilmi flawless"
-    },
-    {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
     },
     {
       "title": "Why would one use WebAssembly in the Backend?",
@@ -1506,20 +1506,6 @@
       "user": "stonypaul"
     },
     {
-      "title": "Updating Cshtml page without reloading it",
-      "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
-      "published_at": "2026-07-13T18:43:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "c#",
-        "asp.net-mvc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "yummybuns"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1532,6 +1518,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Updating Cshtml page without reloading it",
+      "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
+      "published_at": "2026-07-13T18:43:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "c#",
+        "asp.net-mvc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "yummybuns"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -1852,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1057,
       "user": "MDX-Tom"
     },
     {
@@ -1867,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "vinhhien112"
     },
     {
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 912,
       "user": "littledivy"
     },
     {
@@ -1897,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 717,
       "user": "AlephAITech"
     },
     {
@@ -1912,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "William-Lu-stack"
     },
     {
@@ -1932,7 +1932,7 @@
       "title": "venv not activating with source",
       "url": "https://stackoverflow.com/questions/79980787/venv-not-activating-with-source",
       "published_at": "2026-07-14T20:40:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "python",
@@ -1997,6 +1997,19 @@
       "user": "flamant"
     },
     {
+      "title": "How can I preserve tables, images, and nested lists when converting DOCX WORD to Markdown?",
+      "url": "https://stackoverflow.com/questions/79980616/how-can-i-preserve-tables-images-and-nested-lists-when-converting-docx-word-to",
+      "published_at": "2026-07-14T10:25:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "markdown"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Letgo"
+    },
+    {
       "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
       "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
       "published_at": "2026-07-14T11:29:39.000Z",
@@ -2009,19 +2022,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hacker"
-    },
-    {
-      "title": "How can I preserve tables, images, and nested lists when converting DOCX WORD to Markdown?",
-      "url": "https://stackoverflow.com/questions/79980616/how-can-i-preserve-tables-images-and-nested-lists-when-converting-docx-word-to",
-      "published_at": "2026-07-14T10:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "markdown"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Letgo"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2086,21 +2086,6 @@
   ],
   "DevOps": [
     {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
       "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
       "published_at": "2026-07-14T11:59:15Z",
@@ -2114,6 +2099,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
@@ -2307,7 +2307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "William-Lu-stack"
     },
     {
@@ -2322,7 +2322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "berkayyytech"
     },
     {
@@ -2428,20 +2428,6 @@
       "user": "stonypaul"
     },
     {
-      "title": "Updating Cshtml page without reloading it",
-      "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
-      "published_at": "2026-07-13T18:43:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "c#",
-        "asp.net-mvc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "yummybuns"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -2454,6 +2440,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Updating Cshtml page without reloading it",
+      "url": "https://stackoverflow.com/questions/79980439/updating-cshtml-page-without-reloading-it",
+      "published_at": "2026-07-13T18:43:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "c#",
+        "asp.net-mvc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "yummybuns"
     },
     {
       "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
@@ -2819,7 +2819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "William-Lu-stack"
     },
     {
@@ -3174,21 +3174,6 @@
       "user": "Kate Pond"
     },
     {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd",
-      "published_at": "2026-06-29T16:05:56Z",
-      "description": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "tags": [
-        "ai",
-        "aie",
-        "productivity",
-        "leadership"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft45ojftor7zqwf8gjqor.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
       "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
       "published_at": "2026-06-23T14:46:09Z",
@@ -3281,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 258,
       "user": "Jane-xiaoer"
     },
     {
@@ -3296,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 179,
       "user": "vybenetwork"
     },
     {
@@ -3356,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1057,
       "user": "MDX-Tom"
     },
     {
@@ -3371,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "vinhhien112"
     },
     {
@@ -3386,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 912,
       "user": "littledivy"
     },
     {
@@ -3401,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 717,
       "user": "AlephAITech"
     },
     {
@@ -3416,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "William-Lu-stack"
     },
     {
@@ -3431,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 584,
       "user": "cosmtrek"
     },
     {
@@ -3465,21 +3450,6 @@
       "user": "intmian"
     },
     {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 78,
-      "user": "berkayyytech"
-    },
-    {
       "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
       "url": "https://github.com/pax-beehive/paxm",
       "published_at": "2026-07-09T02:40:57Z",
@@ -3491,8 +3461,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 95,
       "user": "pax-beehive"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "berkayyytech"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3521,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "yetone"
     },
     {
@@ -3536,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 300,
       "user": "JexTradesLab"
     },
     {
@@ -3551,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "opencoredev"
     },
     {
@@ -3566,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 237,
       "user": "change-42-yhmm"
     },
     {
@@ -3581,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "thatmagicalcat"
     },
     {
@@ -3596,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "AyagamiDev"
     },
     {
@@ -3626,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 111,
       "user": "CluvexStudio"
     },
     {
@@ -3641,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 103,
       "user": "RongleCat"
     },
     {
@@ -3659,18 +3644,6 @@
       "user": "gendx"
     },
     {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
-    },
-    {
       "title": "git-absorb: git commit --fixup, but automatic",
       "url": "https://github.com/tummychow/git-absorb",
       "published_at": "2026-07-14T03:45:13.309-05:00",
@@ -3681,6 +3654,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "krig"
+    },
+    {
+      "title": "lobste.rs is now running on SQLite",
+      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
+      "published_at": "2026-07-13T15:03:24.403-05:00",
+      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
+      "tags": [
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "thomas0"
     },
     {
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
