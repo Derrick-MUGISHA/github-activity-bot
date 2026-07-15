@@ -16,21 +16,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
       "published_at": "2026-07-14T16:38:47Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "DiffusionGemma: 4x faster text generation",
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1124,
       "user": "MDX-Tom"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 747,
       "user": "AlephAITech"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "yetone"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "opencoredev"
     },
     {
@@ -745,18 +745,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jbauer"
-    },
-    {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -787,17 +775,20 @@
       "user": "David Callanan"
     },
     {
-      "title": "not null constraint failed",
-      "url": "https://stackoverflow.com/questions/79980647/not-null-constraint-failed",
-      "published_at": "2026-07-14T12:07:41.000Z",
+      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
+      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
+      "published_at": "2026-07-15T06:43:29.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "sqlalchemy"
+        "tensorflow",
+        "flask",
+        "keras",
+        "conv-neural-network"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "flamant"
+      "user": "KimKim"
     },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -1194,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "Jane-xiaoer"
     },
     {
@@ -1209,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 198,
       "user": "vybenetwork"
     },
     {
@@ -1269,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 978,
       "user": "vinhhien112"
     },
     {
@@ -1284,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 803,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1299,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "yetone"
     },
     {
@@ -1314,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "JexTradesLab"
     },
     {
@@ -1329,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "opencoredev"
     },
     {
@@ -1344,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 242,
       "user": "change-42-yhmm"
     },
     {
@@ -1362,22 +1353,10 @@
       "user": "gendx"
     },
     {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
-    },
-    {
       "title": "Add controlling properties to make drag and drop experience smoother",
       "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
       "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "jquery",
@@ -1460,6 +1439,20 @@
       "user": "Femi"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
       "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
       "published_at": "2026-07-14T01:38:04.000Z",
@@ -1473,20 +1466,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmbroseChapel"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "Dynamically created divs not draggable",
@@ -1837,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1124,
       "user": "MDX-Tom"
     },
     {
@@ -1852,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 978,
       "user": "vinhhien112"
     },
     {
@@ -1867,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 919,
       "user": "littledivy"
     },
     {
@@ -1882,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 747,
       "user": "AlephAITech"
     },
     {
@@ -1897,8 +1876,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 650,
       "user": "Kappaemme-git"
+    },
+    {
+      "title": "How can I prevent users from scan with a face shown over a video call in a Flutter + Python face recognition system?",
+      "url": "https://stackoverflow.com/questions/79980898/how-can-i-prevent-users-from-scan-with-a-face-shown-over-a-video-call-in-a-flutt",
+      "published_at": "2026-07-15T07:56:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "flutter",
+        "face-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BBBB"
+    },
+    {
+      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
+      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
+      "published_at": "2026-07-15T06:43:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "tensorflow",
+        "flask",
+        "keras",
+        "conv-neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KimKim"
+    },
+    {
+      "title": "How do I clear Warning Message When Using SHM C to Python",
+      "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
+      "published_at": "2026-07-15T06:15:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "c",
+        "shared-memory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tomdean1939"
+    },
+    {
+      "title": "Passed timeout not overriding default timeout in GET/POST request",
+      "url": "https://stackoverflow.com/questions/79980856/passed-timeout-not-overriding-default-timeout-in-get-post-request",
+      "published_at": "2026-07-15T05:08:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "playwright-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lino Asmolo Jr"
     },
     {
       "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
@@ -1917,13 +1954,13 @@
       "user": "BBBB"
     },
     {
-      "title": "Full Str not Added to Dictionary in Loop",
-      "url": "https://stackoverflow.com/questions/79980803/full-str-not-added-to-dictionary-in-loop",
+      "title": "Full string not added to dictionary in loop",
+      "url": "https://stackoverflow.com/questions/79980803/full-string-not-added-to-dictionary-in-loop",
       "published_at": "2026-07-14T23:19:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
-        "python-3.x"
+        "numpy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1933,7 +1970,7 @@
       "title": "venv not activating with source",
       "url": "https://stackoverflow.com/questions/79980787/venv-not-activating-with-source",
       "published_at": "2026-07-14T20:40:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -1959,19 +1996,6 @@
       "user": "Филя Усков"
     },
     {
-      "title": "print of debug des not print",
-      "url": "https://stackoverflow.com/questions/79980746/print-of-debug-des-not-print",
-      "published_at": "2026-07-14T17:27:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "pytest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "flamant"
-    },
-    {
       "title": "Using Spyder without .py extension",
       "url": "https://stackoverflow.com/questions/79980730/using-spyder-without-py-extension",
       "published_at": "2026-07-14T16:33:14.000Z",
@@ -1985,60 +2009,17 @@
       "user": "user1625344"
     },
     {
-      "title": "not null constraint failed",
-      "url": "https://stackoverflow.com/questions/79980647/not-null-constraint-failed",
-      "published_at": "2026-07-14T12:07:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "print of debug des not print",
+      "url": "https://stackoverflow.com/questions/79980746/print-of-debug-des-not-print",
+      "published_at": "2026-07-14T17:27:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
-        "sqlalchemy"
+        "pytest"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "flamant"
-    },
-    {
-      "title": "How can I preserve tables, images, and nested lists when converting DOCX WORD to Markdown?",
-      "url": "https://stackoverflow.com/questions/79980616/how-can-i-preserve-tables-images-and-nested-lists-when-converting-docx-word-to",
-      "published_at": "2026-07-14T10:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "markdown"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Letgo"
-    },
-    {
-      "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
-      "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
-      "published_at": "2026-07-14T11:29:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "db-browser-sqlite",
-        "sqlite-browser"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hacker"
-    },
-    {
-      "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
-      "url": "https://stackoverflow.com/questions/79980563/how-can-i-vertically-align-a-plotly-chart-and-a-custom-html-card-in-adjacent-str",
-      "published_at": "2026-07-14T07:11:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "css",
-        "layout",
-        "plotly",
-        "streamlit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sohail R"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -2294,7 +2275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "berkayyytech"
     },
     {
@@ -2358,18 +2339,6 @@
       "user": "velmu"
     },
     {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
-    },
-    {
       "title": "Why would one use WebAssembly in the Backend?",
       "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
       "published_at": "2026-07-14T04:26:15.000Z",
@@ -2428,22 +2397,6 @@
       "user": "yummybuns"
     },
     {
-      "title": "How can I vertically align a Plotly chart and a custom HTML card in adjacent Streamlit columns?",
-      "url": "https://stackoverflow.com/questions/79980563/how-can-i-vertically-align-a-plotly-chart-and-a-custom-html-card-in-adjacent-str",
-      "published_at": "2026-07-14T07:11:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "css",
-        "layout",
-        "plotly",
-        "streamlit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sohail R"
-    },
-    {
       "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
       "published_at": "2026-07-13T14:13:49.000Z",
@@ -2476,6 +2429,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "How can I prevent users from scan with a face shown over a video call in a Flutter + Python face recognition system?",
+      "url": "https://stackoverflow.com/questions/79980898/how-can-i-prevent-users-from-scan-with-a-face-shown-over-a-video-call-in-a-flutt",
+      "published_at": "2026-07-15T07:56:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "flutter",
+        "face-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BBBB"
+    },
     {
       "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
       "url": "https://stackoverflow.com/questions/79980857/how-can-i-prevent-users-from-enrolling-with-a-face-shown-over-a-video-call-in-a",
@@ -2852,45 +2820,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
-    },
-    {
-      "title": "not null constraint failed",
-      "url": "https://stackoverflow.com/questions/79980647/not-null-constraint-failed",
-      "published_at": "2026-07-14T12:07:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "flamant"
-    },
-    {
-      "title": "DB Browser for SQLite returns 0 rows for sqlite_master after opening a databasemessage in a Python UI automation test?",
-      "url": "https://stackoverflow.com/questions/79980634/db-browser-for-sqlite-returns-0-rows-for-sqlite-master-after-opening-a-databasem",
-      "published_at": "2026-07-14T11:29:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "db-browser-sqlite",
-        "sqlite-browser"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hacker"
     }
   ],
   "Security": [
@@ -3239,7 +3168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "Jane-xiaoer"
     },
     {
@@ -3254,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 198,
       "user": "vybenetwork"
     },
     {
@@ -3314,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1124,
       "user": "MDX-Tom"
     },
     {
@@ -3329,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 978,
       "user": "vinhhien112"
     },
     {
@@ -3344,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 919,
       "user": "littledivy"
     },
     {
@@ -3359,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 747,
       "user": "AlephAITech"
     },
     {
@@ -3374,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 650,
       "user": "Kappaemme-git"
     },
     {
@@ -3389,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 603,
       "user": "cosmtrek"
     },
     {
@@ -3434,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "pax-beehive"
     },
     {
@@ -3449,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "berkayyytech"
     },
     {
@@ -3464,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 803,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3479,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "yetone"
     },
     {
@@ -3494,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "JexTradesLab"
     },
     {
@@ -3509,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "opencoredev"
     },
     {
@@ -3524,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 242,
       "user": "change-42-yhmm"
     },
     {
@@ -3539,23 +3468,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "thatmagicalcat"
-    },
-    {
-      "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
-      "url": "https://github.com/AyagamiDev/ayagami",
-      "published_at": "2026-07-11T13:51:22Z",
-      "description": "2D puppet model renderer compatible with Live2D",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "AyagamiDev"
     },
     {
       "title": "CluvexStudio/Aether - GitHub Repository",
@@ -3569,8 +3483,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 187,
       "user": "CluvexStudio"
+    },
+    {
+      "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
+      "url": "https://github.com/AyagamiDev/ayagami",
+      "published_at": "2026-07-11T13:51:22Z",
+      "description": "2D puppet model renderer compatible with Live2D",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "AyagamiDev"
     },
     {
       "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
@@ -3599,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "RongleCat"
     },
     {
@@ -3629,18 +3558,6 @@
       "user": "krig"
     },
     {
-      "title": "lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
-      "published_at": "2026-07-13T15:03:24.403-05:00",
-      "description": "This past Saturday, @pushcx and I deployed the [SQLite pull request](https://github.com/lobsters/lobsters/pull/1927) to production.\r\nWe were waiting till this morning to see how it would react to the Monday traffic spike before making this post.\r\nNeedless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally [\"We're having a quiet Monday.\"](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610).\r\nFinally [#539 Migrate to SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) was closed this morning.\r\n\r\nLet us know if you have any questions about the migration.\r\n\r\nBackground Story:\r\n\r\nI got involved with this migration because back in 2019 I stumbled upon [#539](https://github.com/lobsters/lobsters/issues/539) and because I had lots of experience working with, managing and migrating largish databases, I left a [comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532) suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.\r\n\r\nFast forward to 2025, [Rahul left a comment](https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262) mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, [Rahul asked \"Can lobsters run on sqlite?](https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884) which included a very detailed post around SQLite.\r\n\r\nI officially showed interest in taking on this project in [June 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922). I think this somehow got mentioned in [lobsters office hours](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) but it has been so long since then that I don't rememeber for certain.\r\n\r\nIn [August 2025](https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051) I opened my [first pull request attempt](https://github.com/lobsters/lobsters/pull/1705) when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The [second PR attempt](https://github.com/lobsters/lobsters/pull/1871) included some performance testing, a [database x to database y script](https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake) (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.\r\n\r\nThen came the first deploy on Feb 21st. @pushcx and I got on a call, came up with a [checklist](https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c) for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to [revert](https://github.com/lobsters/lobsters/pull/1924). I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.\r\n\r\nTwo days after the failed deploy I opened the [3rd and final pr attempt](https://github.com/lobsters/lobsters/pull/1927). I fixed some [minor issues with search](https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407) that were discovered during the failed deploy, created a [bulk data creation script](https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8) which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: [1](https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1), [2](https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b), [3](https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39). The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a [slow query log](https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00) just in case there were more performance issues during the deployment.\r\n\r\nThen came the second deploy on July 11th. @pushcx and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then @pushcx merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: [1](https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691), [2](https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75). Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.\r\n\r\nMonday came and the site is stil happy so we're calling this a win and moving on.\r\n\r\n\r\nSQLite lessons:\r\n1. The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like [regexp, if and stddev](https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb) so that we wouldn't have to deal with too many sql migration workarounds.\r\n2. SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.\r\n3. Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used [NOCASE](https://www.sqlite.org/datatype3.html#collating_sequences) in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.\r\n4. Use the preferred [Contentless-Delete Tables in SQLite](https://www.sqlite.org/fts5.html#contentless_delete_tables) for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.\r\n\r\n\r\nRails lessons:\r\n1. The [default PRAGMAs in Rails](https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91) seem to be working for lobsters.\r\n2. You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an [old migrations](https://github.com/lobsters/lobsters/tree/main/db/old_migrations) directory so that db:migrate would continue to work.\r\n\r\n\r\nLobsters codebase lessons:\r\n1. There is a [search parser](https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb) in the lobsters codebase.\r\n2. I learned about [heinous_inline_partials](https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb) which is a hack to speed up rendering.\r\n3. The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.\r\n\r\n\r\nOverall lessons:\r\n1. I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.\r\n2. Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.\r\n\r\n\r\nWishes:\r\n1. I wish we could say in a test, \"Fail if you encounter any full table scans\". Which would have caught the perf issues we experienced during the first deploy.\r\n2. I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.",
-      "tags": [
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thomas0"
-    },
-    {
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
       "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
       "published_at": "2026-07-14T01:38:04.000Z",
@@ -3654,6 +3571,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmbroseChapel"
+    },
+    {
+      "title": "How can I prevent users from scan with a face shown over a video call in a Flutter + Python face recognition system?",
+      "url": "https://stackoverflow.com/questions/79980898/how-can-i-prevent-users-from-scan-with-a-face-shown-over-a-video-call-in-a-flutt",
+      "published_at": "2026-07-15T07:56:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "flutter",
+        "face-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BBBB"
+    },
+    {
+      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
+      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
+      "published_at": "2026-07-15T06:43:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "tensorflow",
+        "flask",
+        "keras",
+        "conv-neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KimKim"
     },
     {
       "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
