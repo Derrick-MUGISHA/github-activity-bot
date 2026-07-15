@@ -16,6 +16,21 @@
       "user": "Zach"
     },
     {
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6",
+      "published_at": "2026-07-14T23:21:21Z",
+      "description": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...",
+      "tags": [
+        "agents",
+        "ai",
+        "news",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213Be9%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
+    },
+    {
       "title": "A lot of good points here https://antirez.com/news/169",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
       "published_at": "2026-07-13T15:17:02Z",
@@ -434,32 +449,6 @@
       "user": "xbill"
     },
     {
-      "title": "Guarding the till while autonomous data agents do the digging",
-      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
-      "published_at": "2026-07-09T22:24:23Z",
-      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
-      "tags": [
-        "agenticarchitect",
-        "antigravity",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "Visitors get some serious puppy love",
-      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
-      "published_at": "2026-07-01T13:47:36Z",
-      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
-      "tags": [
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -657,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1299,
       "user": "MDX-Tom"
     },
     {
@@ -672,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 780,
       "user": "AlephAITech"
     },
     {
@@ -717,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 304,
       "user": "MatinSenPai"
     },
     {
@@ -732,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "opencoredev"
     },
     {
@@ -808,6 +797,51 @@
       "user": "KimKim"
     },
     {
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "published_at": "2026-07-15T18:06:05.000Z",
+      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "tags": [
+        "AI",
+        "Space",
+        "SpaceX"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "published_at": "2026-07-15T18:04:06.000Z",
+      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "tags": [
+        "AI",
+        "TC",
+        "Mira Murati",
+        "thinking machine labs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "published_at": "2026-07-15T17:39:54.000Z",
+      "description": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.",
+      "tags": [
+        "Climate",
+        "energy storage",
+        "Google",
+        "Solar Power",
+        "xAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
       "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
       "published_at": "2026-07-15T17:00:34.000Z",
@@ -815,6 +849,8 @@
       "tags": [
         "AI",
         "Media & Entertainment",
+        "Security",
+        "In Brief",
         "suno"
       ],
       "cover_image": null,
@@ -847,7 +883,7 @@
         "Security",
         "cyberattack",
         "cybersecurity",
-        "sharepoint"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -857,91 +893,33 @@
       "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
       "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "published_at": "2026-07-15T15:29:33.000Z",
-      "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "tags": [
         "AI",
-        "Apple"
+        "alibaba",
+        "Apple",
+        "Apple Intelligence",
+        "qwen"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "Spotify expands parent-managed accounts to users on its free tier",
-      "url": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
-      "published_at": "2026-07-15T14:42:10.000Z",
-      "description": "The feature was previously only available to paid subscribers.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "India bets billions on breaking China&#8217;s grip on smartphone manufacturing",
-      "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
-      "published_at": "2026-07-15T14:39:52.000Z",
-      "description": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "Xiaomi",
-        "Smartphone manufacturing"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "US charges Russian &#8216;bulletproof&#8217; web hosts over cyberattacks that netted $62M from cybercrime victims",
-      "url": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
-      "published_at": "2026-07-15T14:21:49.000Z",
-      "description": "The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.",
-      "tags": [
-        "Security",
-        "russia",
-        "Sanctions",
-        "cybersecurity",
-        "cyberattacks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "published_at": "2026-07-15T13:10:47.000Z",
-      "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "published_at": "2026-07-15T15:00:00.000Z",
+      "description": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs",
       "tags": [
         "AI",
-        "Enterprise",
         "Startups",
-        "ai services",
-        "Anthropic"
+        "Anthropic",
+        "Blackstone",
+        "FDE"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "published_at": "2026-07-15T13:00:00.000Z",
-      "description": "Rime is handling over 100 million calls each month across multiple companies.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "M13 Ventures",
-        "Rime",
-        "voice AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -1201,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "vybenetwork"
     },
     {
@@ -1261,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1001,
       "user": "vinhhien112"
     },
     {
@@ -1276,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 810,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1306,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "JexTradesLab"
     },
     {
@@ -1321,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 304,
       "user": "MatinSenPai"
     },
     {
@@ -1336,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "opencoredev"
     },
     {
@@ -1830,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1299,
       "user": "MDX-Tom"
     },
     {
@@ -1845,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1001,
       "user": "vinhhien112"
     },
     {
@@ -1860,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 978,
       "user": "littledivy"
     },
     {
@@ -1875,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 780,
       "user": "AlephAITech"
     },
     {
@@ -1890,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 695,
       "user": "Kappaemme-git"
     },
     {
@@ -1957,7 +1935,7 @@
       "title": "How do I clear Warning Message When Using SHM C to Python",
       "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
       "published_at": "2026-07-15T06:15:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "c",
@@ -1966,22 +1944,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tomdean1939"
-    },
-    {
-      "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
-      "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
-      "published_at": "2026-07-15T09:24:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "cuda",
-        "gpu",
-        "large-language-model",
-        "onnxruntime"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furkan &#214;ztekin"
     },
     {
       "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
@@ -1998,6 +1960,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KimKim"
+    },
+    {
+      "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
+      "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
+      "published_at": "2026-07-15T09:24:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "cuda",
+        "gpu",
+        "large-language-model",
+        "onnxruntime"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Furkan &#214;ztekin"
     },
     {
       "title": "Full string not added to dictionary in loop",
@@ -2724,20 +2702,6 @@
       "user": "xbill"
     },
     {
-      "title": "Guarding the till while autonomous data agents do the digging",
-      "url": "https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi",
-      "published_at": "2026-07-09T22:24:23Z",
-      "description": "Autonomous agents are genuinely good at answering messy business questions. Give one an LLM and a set...",
-      "tags": [
-        "agenticarchitect",
-        "antigravity",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -2944,6 +2908,35 @@
       "user": "cadey"
     },
     {
+      "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing",
+      "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+      "published_at": "2026-07-15T10:36:16.621-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "raymii"
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "published_at": "2026-07-15T17:00:34.000Z",
+      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Security",
+        "In Brief",
+        "suno"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
       "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
       "published_at": "2026-07-15T16:20:18.000Z",
@@ -2953,23 +2946,7 @@
         "Security",
         "cyberattack",
         "cybersecurity",
-        "sharepoint"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "US charges Russian &#8216;bulletproof&#8217; web hosts over cyberattacks that netted $62M from cybercrime victims",
-      "url": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
-      "published_at": "2026-07-15T14:21:49.000Z",
-      "description": "The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.",
-      "tags": [
-        "Security",
-        "russia",
-        "Sanctions",
-        "cybersecurity",
-        "cyberattacks"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3175,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "vybenetwork"
     },
     {
@@ -3235,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 1299,
       "user": "MDX-Tom"
     },
     {
@@ -3250,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1001,
       "user": "vinhhien112"
     },
     {
@@ -3265,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 978,
       "user": "littledivy"
     },
     {
@@ -3280,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 780,
       "user": "AlephAITech"
     },
     {
@@ -3295,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 695,
       "user": "Kappaemme-git"
     },
     {
@@ -3310,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 674,
       "user": "cosmtrek"
     },
     {
@@ -3385,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 810,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3415,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "JexTradesLab"
     },
     {
@@ -3430,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 304,
       "user": "MatinSenPai"
     },
     {
@@ -3445,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "opencoredev"
     },
     {
@@ -3460,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 475,
       "user": "CluvexStudio"
     },
     {
@@ -3490,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "AyagamiDev"
     },
     {
@@ -3554,6 +3531,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BBBB"
+    },
+    {
+      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
+      "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
+      "published_at": "2026-07-15T15:30:26.000Z",
+      "description": "If completed, the acquisition would unite two of the biggest names in digital payments.",
+      "tags": [
+        "Apps",
+        "Fintech",
+        "In Brief",
+        "Mergers and Acquisitions",
+        "PayPal"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
