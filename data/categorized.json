@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
-      "published_at": "2026-07-14T16:38:47Z",
-      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "tags": [
-        "rust",
-        "ai",
-        "performance",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
-      "source": "Dev.to",
-      "user": "Zach"
-    },
-    {
       "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
       "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6",
       "published_at": "2026-07-14T23:21:21Z",
@@ -106,6 +91,21 @@
       "user": "Gemini Team"
     },
     {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+      "published_at": "2026-07-14T16:38:47Z",
+      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "tags": [
+        "rust",
+        "ai",
+        "performance",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
+      "source": "Dev.to",
+      "user": "Zach"
+    },
+    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -119,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -194,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
+      "source": "Dev.to",
+      "user": "Web Developer Hyper"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -419,66 +419,6 @@
       "user": "bredmond1019"
     },
     {
-      "title": "I Am Fired Up Again",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
-      "published_at": "2026-06-23T13:29:11Z",
-      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
-      "tags": [
-        "career",
-        "motivation",
-        "productivity",
-        "life"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
-      "title": "Minimalist EKS: The Easy Way",
-      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
-      "published_at": "2026-06-26T19:56:54Z",
-      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
-      "tags": [
-        "kubernetes",
-        "aws",
-        "devops",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
-      "source": "Dev.to",
-      "user": "Joaquin Menchaca"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
-      "published_at": "2026-06-22T17:13:03Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "qat",
-        "gemma4",
-        "mcps",
-        "azurecontainerapps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -676,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1317,
       "user": "MDX-Tom"
     },
     {
@@ -691,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 784,
       "user": "AlephAITech"
     },
     {
@@ -721,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "yetone"
     },
     {
@@ -736,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 351,
       "user": "MatinSenPai"
     },
     {
@@ -751,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 1563,
       "user": "xai-org"
     },
     {
@@ -1221,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 218,
       "user": "KubeezMedia"
     },
     {
@@ -1266,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1009,
       "user": "vinhhien112"
     },
     {
@@ -1285,21 +1225,6 @@
       "user": "mereyabdenbekuly-ctrl"
     },
     {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 456,
-      "user": "yetone"
-    },
-    {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
       "published_at": "2026-07-13T07:42:51Z",
@@ -1311,8 +1236,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 463,
       "user": "pixel-point"
+    },
+    {
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 458,
+      "user": "yetone"
     },
     {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
@@ -1326,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 351,
       "user": "MatinSenPai"
     },
     {
@@ -1345,6 +1285,21 @@
       "user": "JexTradesLab"
     },
     {
+      "title": "How do browser-based website builders like Framer or Webflow communicate with a cross-origin iframe in real time?",
+      "url": "https://stackoverflow.com/questions/79981124/how-do-browser-based-website-builders-like-framer-or-webflow-communicate-with-a",
+      "published_at": "2026-07-15T21:32:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript",
+        "iframe",
+        "postmessage"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sadhin"
+    },
+    {
       "title": "How can I set an object's property value depending on a condition using if statements?",
       "url": "https://stackoverflow.com/questions/79981087/how-can-i-set-an-objects-property-value-depending-on-a-condition-using-if-state",
       "published_at": "2026-07-15T18:51:47.000Z",
@@ -1355,19 +1310,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AdjoinQuinoa68"
-    },
-    {
-      "title": "setInterval always logs the initial React state even though the component re-renders",
-      "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
-      "published_at": "2026-07-15T15:59:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
     },
     {
       "title": "How to implement partial function in JavaScript - three-way sum partial application",
@@ -1381,6 +1323,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qxzsilver"
+    },
+    {
+      "title": "setInterval always logs the initial React state even though the component re-renders",
+      "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
+      "published_at": "2026-07-15T15:59:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
@@ -1470,20 +1425,6 @@
       "user": "zilmi flawless"
     },
     {
-      "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
-      "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
-      "published_at": "2026-07-14T12:51:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "visual-studio",
-        "visual-studio-2026"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wasted_Coder"
-    },
-    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -1502,7 +1443,7 @@
       "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
       "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
       "published_at": "2026-07-15T10:40:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "json",
@@ -1847,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1317,
       "user": "MDX-Tom"
     },
     {
@@ -1862,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1009,
       "user": "vinhhien112"
     },
     {
@@ -1877,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1008,
       "user": "littledivy"
     },
     {
@@ -1892,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 784,
       "user": "AlephAITech"
     },
     {
@@ -1907,14 +1848,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 706,
       "user": "Kappaemme-git"
     },
     {
       "title": "FastAPI event loop blocked by Scikit-Learn Joblib thread-pool exhaustion during concurrent async inference",
       "url": "https://stackoverflow.com/questions/79981101/fastapi-event-loop-blocked-by-scikit-learn-joblib-thread-pool-exhaustion-during",
       "published_at": "2026-07-15T19:47:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "scikit-learn",
@@ -1989,7 +1930,7 @@
       "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
       "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
       "published_at": "2026-07-15T10:40:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "json",
@@ -2032,6 +1973,19 @@
       "user": "KimKim"
     },
     {
+      "title": "Full string not added to dictionary in loop",
+      "url": "https://stackoverflow.com/questions/79980803/full-string-not-added-to-dictionary-in-loop",
+      "published_at": "2026-07-14T23:19:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "numpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lili Hauser"
+    },
+    {
       "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
       "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
       "published_at": "2026-07-15T09:24:13.000Z",
@@ -2046,19 +2000,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Furkan &#214;ztekin"
-    },
-    {
-      "title": "Full string not added to dictionary in loop",
-      "url": "https://stackoverflow.com/questions/79980803/full-string-not-added-to-dictionary-in-loop",
-      "published_at": "2026-07-14T23:19:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lili Hauser"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2182,21 +2123,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
       "source": "Dev.to",
       "user": "bredmond1019"
-    },
-    {
-      "title": "Minimalist EKS: The Easy Way",
-      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
-      "published_at": "2026-06-26T19:56:54Z",
-      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
-      "tags": [
-        "kubernetes",
-        "aws",
-        "devops",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
-      "source": "Dev.to",
-      "user": "Joaquin Menchaca"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2503,6 +2429,21 @@
       "user": "xbill"
     },
     {
+      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
+      "published_at": "2026-07-11T21:21:38Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "gemma4",
+        "mcps",
+        "tpu",
+        "31b"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
       "published_at": "2026-07-13T13:36:03Z",
@@ -2653,36 +2594,6 @@
       "user": "xbill"
     },
     {
-      "title": "Minimalist EKS: The Easy Way",
-      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
-      "published_at": "2026-06-26T19:56:54Z",
-      "description": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
-      "tags": [
-        "kubernetes",
-        "aws",
-        "devops",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk70spqvc7mpu9j93e5ez.png",
-      "source": "Dev.to",
-      "user": "Joaquin Menchaca"
-    },
-    {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
-      "published_at": "2026-06-22T17:13:03Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "tags": [
-        "qat",
-        "gemma4",
-        "mcps",
-        "azurecontainerapps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3byp4e6yimnxjn3sscla.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -2756,21 +2667,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -3009,19 +2905,34 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "published_at": "2026-07-06T15:50:31Z",
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "tags": [
+        "discuss",
+        "career",
+        "productivity",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "published_at": "2026-07-08T12:25:01Z",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
       "tags": [
         "ai",
-        "rust",
-        "cli",
-        "security"
+        "webdev",
+        "discuss",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
-      "user": "Don Johnson"
+      "user": "Web Developer Hyper"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3052,36 +2963,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
       "source": "Dev.to",
       "user": "Inhere"
-    },
-    {
-      "title": "I Am Fired Up Again",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
-      "published_at": "2026-06-23T13:29:11Z",
-      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
-      "tags": [
-        "career",
-        "motivation",
-        "productivity",
-        "life"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3161,7 +3042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 218,
       "user": "KubeezMedia"
     },
     {
@@ -3206,7 +3087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1317,
       "user": "MDX-Tom"
     },
     {
@@ -3221,7 +3102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1009,
       "user": "vinhhien112"
     },
     {
@@ -3236,7 +3117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1008,
       "user": "littledivy"
     },
     {
@@ -3251,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 784,
       "user": "AlephAITech"
     },
     {
@@ -3266,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 706,
       "user": "Kappaemme-git"
     },
     {
@@ -3296,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 176,
       "user": "vshulcz"
     },
     {
@@ -3360,21 +3241,6 @@
       "user": "mereyabdenbekuly-ctrl"
     },
     {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 456,
-      "user": "yetone"
-    },
-    {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
       "published_at": "2026-07-13T07:42:51Z",
@@ -3386,8 +3252,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 463,
       "user": "pixel-point"
+    },
+    {
+      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "published_at": "2026-07-10T08:59:16Z",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 458,
+      "user": "yetone"
     },
     {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
@@ -3401,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 351,
       "user": "MatinSenPai"
     },
     {
@@ -3431,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 1563,
       "user": "xai-org"
     },
     {
@@ -3446,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 528,
       "user": "CluvexStudio"
     },
     {
