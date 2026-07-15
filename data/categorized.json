@@ -31,21 +31,6 @@
       "user": "Richard MacManus"
     },
     {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "The Myth of the Post-Documentation Era",
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
       "published_at": "2026-07-13T15:59:11Z",
@@ -57,6 +42,21 @@
         "codequality"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
+      "published_at": "2026-07-13T15:17:02Z",
+      "description": "antirez.com",
+      "tags": [
+        "ai",
+        "llm",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
     },
@@ -181,6 +181,21 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -282,21 +297,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
-      "published_at": "2026-07-10T03:33:28Z",
-      "description": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
-      "tags": [
-        "agents",
-        "ai",
-        "agenticarchitect",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -417,6 +417,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
       "source": "Dev.to",
       "user": "bredmond1019"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -616,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1321,
       "user": "MDX-Tom"
     },
     {
@@ -631,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "AlephAITech"
     },
     {
@@ -661,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "yetone"
     },
     {
@@ -676,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 360,
       "user": "MatinSenPai"
     },
     {
@@ -691,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 2042,
       "user": "xai-org"
     },
     {
@@ -700,11 +715,23 @@
       "published_at": "2026-07-15T11:49:43.066-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "philosophy"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "adamcstephens"
+    },
+    {
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "published_at": "2026-07-15T16:06:48.467-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "brn"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -1135,6 +1162,21 @@
       "user": "Jane-xiaoer"
     },
     {
+      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "published_at": "2026-07-13T23:32:54Z",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
+      "source": "GitHub",
+      "stars": 227,
+      "user": "KubeezMedia"
+    },
+    {
       "title": "vybenetwork/solana-defi-positions-api - Solana DeFi Positions API",
       "url": "https://github.com/vybenetwork/solana-defi-positions-api",
       "published_at": "2026-07-09T21:17:40Z",
@@ -1148,21 +1190,6 @@
       "source": "GitHub",
       "stars": 220,
       "user": "vybenetwork"
-    },
-    {
-      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
-      "published_at": "2026-07-13T23:32:54Z",
-      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "KubeezMedia"
     },
     {
       "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
@@ -1206,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1010,
       "user": "vinhhien112"
     },
     {
@@ -1236,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 501,
       "user": "pixel-point"
     },
     {
@@ -1251,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "yetone"
     },
     {
@@ -1266,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 360,
       "user": "MatinSenPai"
     },
     {
@@ -1328,7 +1355,7 @@
       "title": "setInterval always logs the initial React state even though the component re-renders",
       "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
       "published_at": "2026-07-15T15:59:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "reactjs"
@@ -1383,19 +1410,6 @@
       "user": "David Brierton"
     },
     {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1408,6 +1422,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
     },
     {
       "title": "How to programatically export data from Excel to Photoshop?",
@@ -1788,23 +1815,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1321,
       "user": "MDX-Tom"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 1009,
-      "user": "vinhhien112"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -1818,8 +1830,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1008,
+      "stars": 1013,
       "user": "littledivy"
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
+      "source": "GitHub",
+      "stars": 1010,
+      "user": "vinhhien112"
     },
     {
       "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
@@ -1833,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "AlephAITech"
     },
     {
@@ -2668,6 +2695,21 @@
   ],
   "Security": [
     {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2920,6 +2962,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -2963,6 +3020,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
       "source": "Dev.to",
       "user": "Inhere"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3016,6 +3088,21 @@
       "user": "Jane-xiaoer"
     },
     {
+      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "published_at": "2026-07-13T23:32:54Z",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
+      "source": "GitHub",
+      "stars": 227,
+      "user": "KubeezMedia"
+    },
+    {
       "title": "vybenetwork/solana-defi-positions-api - Solana DeFi Positions API",
       "url": "https://github.com/vybenetwork/solana-defi-positions-api",
       "published_at": "2026-07-09T21:17:40Z",
@@ -3029,21 +3116,6 @@
       "source": "GitHub",
       "stars": 220,
       "user": "vybenetwork"
-    },
-    {
-      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
-      "published_at": "2026-07-13T23:32:54Z",
-      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "KubeezMedia"
     },
     {
       "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
@@ -3087,23 +3159,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1321,
       "user": "MDX-Tom"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 1009,
-      "user": "vinhhien112"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -3117,8 +3174,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1008,
+      "stars": 1013,
       "user": "littledivy"
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "published_at": "2026-07-09T16:23:29Z",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
+      "source": "GitHub",
+      "stars": 1010,
+      "user": "vinhhien112"
     },
     {
       "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
@@ -3132,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "AlephAITech"
     },
     {
@@ -3162,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 683,
       "user": "cosmtrek"
     },
     {
@@ -3177,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 185,
       "user": "vshulcz"
     },
     {
@@ -3207,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "pax-beehive"
     },
     {
@@ -3252,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 501,
       "user": "pixel-point"
     },
     {
@@ -3267,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "yetone"
     },
     {
@@ -3282,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 360,
       "user": "MatinSenPai"
     },
     {
@@ -3312,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 2042,
       "user": "xai-org"
     },
     {
@@ -3327,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 536,
       "user": "CluvexStudio"
     },
     {
@@ -3381,7 +3453,7 @@
       "published_at": "2026-07-15T11:49:43.066-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "philosophy"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
