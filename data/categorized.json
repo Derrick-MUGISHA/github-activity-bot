@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Myth of the Post-Documentation Era",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "published_at": "2026-07-13T15:59:11Z",
-      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "tags": [
-        "ai",
-        "documentation",
-        "opensource",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
       "published_at": "2026-07-14T16:38:47Z",
@@ -42,6 +27,21 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "The Myth of the Post-Documentation Era",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+      "published_at": "2026-07-13T15:59:11Z",
+      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "tags": [
+        "ai",
+        "documentation",
+        "opensource",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
     },
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1277,
       "user": "MDX-Tom"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 775,
       "user": "AlephAITech"
     },
     {
@@ -702,23 +702,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "yetone"
-    },
-    {
-      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "published_at": "2026-07-12T16:03:52Z",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "opencoredev"
     },
     {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
@@ -732,8 +717,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 290,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "opencoredev"
     },
     {
       "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
@@ -806,6 +806,52 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KimKim"
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "published_at": "2026-07-15T17:00:34.000Z",
+      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "suno"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "published_at": "2026-07-15T17:00:00.000Z",
+      "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Apps",
+        "Commerce",
+        "e-commerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "published_at": "2026-07-15T16:20:18.000Z",
+      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "tags": [
+        "AI",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "sharepoint"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
@@ -896,53 +942,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Reelful&#8217;s AI turns your camera roll into short-form videos for social media",
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "published_at": "2026-07-15T13:00:00.000Z",
-      "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Startups",
-        "reelful"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "published_at": "2026-07-15T12:00:00.000Z",
-      "description": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Claypond",
-        "Creaegis",
-        "emergent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "published_at": "2026-07-15T12:00:00.000Z",
-      "description": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "tags": [
-        "AI",
-        "Exclusive",
-        "Vint Cerf",
-        "ai agent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -1187,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Jane-xiaoer"
     },
     {
@@ -1202,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "vybenetwork"
     },
     {
@@ -1262,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 994,
       "user": "vinhhien112"
     },
     {
@@ -1292,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "yetone"
     },
     {
@@ -1311,21 +1310,6 @@
       "user": "JexTradesLab"
     },
     {
-      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "published_at": "2026-07-12T16:03:52Z",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "opencoredev"
-    },
-    {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "url": "https://github.com/MatinSenPai/Aether-GUI",
       "published_at": "2026-07-14T20:13:18Z",
@@ -1337,14 +1321,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 290,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "opencoredev"
+    },
+    {
+      "title": "setInterval always logs the initial React state even though the component re-renders",
+      "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
+      "published_at": "2026-07-15T15:59:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "How to implement partial function in JavaScript - three-way sum partial application",
       "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
       "published_at": "2026-07-15T12:45:23.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "partial-application"
@@ -1372,7 +1384,7 @@
       "title": "Add controlling properties to make drag and drop experience smoother",
       "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
       "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "jquery",
@@ -1412,6 +1424,20 @@
       "user": "David Callanan"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How to use the \"JavaScript Express Application\" project type in Visual Studio 2026?",
       "url": "https://stackoverflow.com/questions/79980662/how-to-use-the-javascript-express-application-project-type-in-visual-studio-20",
       "published_at": "2026-07-14T12:51:46.000Z",
@@ -1441,20 +1467,6 @@
       "user": "zilmi flawless"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "Why would one use WebAssembly in the Backend?",
       "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
       "published_at": "2026-07-14T04:26:15.000Z",
@@ -1467,19 +1479,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Femi"
-    },
-    {
-      "title": "Why is my rectangle not showing on an HTML5 canvas over an image?",
-      "url": "https://stackoverflow.com/questions/79980231/why-is-my-rectangle-not-showing-on-an-html5-canvas-over-an-image",
-      "published_at": "2026-07-13T06:50:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32932767"
     },
     {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
@@ -1831,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1277,
       "user": "MDX-Tom"
     },
     {
@@ -1846,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 994,
       "user": "vinhhien112"
     },
     {
@@ -1861,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 971,
       "user": "littledivy"
     },
     {
@@ -1876,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 775,
       "user": "AlephAITech"
     },
     {
@@ -1891,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 692,
       "user": "Kappaemme-git"
     },
     {
@@ -1955,6 +1954,20 @@
       "user": "Masum Abbas"
     },
     {
+      "title": "How do I clear Warning Message When Using SHM C to Python",
+      "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
+      "published_at": "2026-07-15T06:15:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "c",
+        "shared-memory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tomdean1939"
+    },
+    {
       "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
       "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
       "published_at": "2026-07-15T09:24:13.000Z",
@@ -1971,20 +1984,6 @@
       "user": "Furkan &#214;ztekin"
     },
     {
-      "title": "How do I clear Warning Message When Using SHM C to Python",
-      "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
-      "published_at": "2026-07-15T06:15:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "c",
-        "shared-memory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tomdean1939"
-    },
-    {
       "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
       "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
       "published_at": "2026-07-15T06:43:29.000Z",
@@ -1999,19 +1998,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KimKim"
-    },
-    {
-      "title": "Passed timeout not overriding default timeout in GET/POST request",
-      "url": "https://stackoverflow.com/questions/79980856/passed-timeout-not-overriding-default-timeout-in-get-post-request",
-      "published_at": "2026-07-15T05:08:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lino Asmolo Jr"
     },
     {
       "title": "Full string not added to dictionary in loop",
@@ -2041,6 +2027,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BBBB"
+    },
+    {
+      "title": "Passed timeout not overriding default timeout in GET/POST request",
+      "url": "https://stackoverflow.com/questions/79980856/passed-timeout-not-overriding-default-timeout-in-get-post-request",
+      "published_at": "2026-07-15T05:08:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "playwright-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lino Asmolo Jr"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -2401,19 +2400,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Femi"
-    },
-    {
-      "title": "Why is my rectangle not showing on an HTML5 canvas over an image?",
-      "url": "https://stackoverflow.com/questions/79980231/why-is-my-rectangle-not-showing-on-an-html5-canvas-over-an-image",
-      "published_at": "2026-07-13T06:50:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32932767"
     },
     {
       "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
@@ -2958,6 +2944,22 @@
       "user": "cadey"
     },
     {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "published_at": "2026-07-15T16:20:18.000Z",
+      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "tags": [
+        "AI",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "sharepoint"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "US charges Russian &#8216;bulletproof&#8217; web hosts over cyberattacks that netted $62M from cybercrime victims",
       "url": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
       "published_at": "2026-07-15T14:21:49.000Z",
@@ -3158,7 +3160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Jane-xiaoer"
     },
     {
@@ -3173,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "vybenetwork"
     },
     {
@@ -3233,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1277,
       "user": "MDX-Tom"
     },
     {
@@ -3248,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 994,
       "user": "vinhhien112"
     },
     {
@@ -3263,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 971,
       "user": "littledivy"
     },
     {
@@ -3278,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 775,
       "user": "AlephAITech"
     },
     {
@@ -3293,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 692,
       "user": "Kappaemme-git"
     },
     {
@@ -3308,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 665,
       "user": "cosmtrek"
     },
     {
@@ -3327,6 +3329,21 @@
       "user": "GreyGunG"
     },
     {
+      "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+      "url": "https://github.com/pax-beehive/paxm",
+      "published_at": "2026-07-09T02:40:57Z",
+      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "pax-beehive"
+    },
+    {
       "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
       "url": "https://github.com/intmian/gorm-d1-adapter",
       "published_at": "2026-07-10T11:49:55Z",
@@ -3340,21 +3357,6 @@
       "source": "GitHub",
       "stars": 110,
       "user": "intmian"
-    },
-    {
-      "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "url": "https://github.com/pax-beehive/paxm",
-      "published_at": "2026-07-09T02:40:57Z",
-      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "pax-beehive"
     },
     {
       "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
@@ -3398,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "yetone"
     },
     {
@@ -3417,21 +3419,6 @@
       "user": "JexTradesLab"
     },
     {
-      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "published_at": "2026-07-12T16:03:52Z",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "opencoredev"
-    },
-    {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "url": "https://github.com/MatinSenPai/Aether-GUI",
       "published_at": "2026-07-14T20:13:18Z",
@@ -3443,8 +3430,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 290,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "opencoredev"
     },
     {
       "title": "CluvexStudio/Aether - GitHub Repository",
@@ -3458,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 453,
       "user": "CluvexStudio"
     },
     {
@@ -3473,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 292,
       "user": "thatmagicalcat"
     },
     {
@@ -3518,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "RongleCat"
     },
     {
@@ -3552,22 +3554,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BBBB"
-    },
-    {
-      "title": "Reelful&#8217;s AI turns your camera roll into short-form videos for social media",
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "published_at": "2026-07-15T13:00:00.000Z",
-      "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Startups",
-        "reelful"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
