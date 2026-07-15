@@ -16,21 +16,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
-      "published_at": "2026-07-14T16:38:47Z",
-      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "tags": [
-        "rust",
-        "ai",
-        "performance",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
-      "source": "Dev.to",
-      "user": "Zach"
-    },
-    {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
       "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
       "published_at": "2026-07-14T17:54:10Z",
@@ -46,19 +31,19 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
-      "published_at": "2026-07-14T15:06:56Z",
-      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+      "published_at": "2026-07-14T16:38:47Z",
+      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
       "tags": [
-        "gemma",
-        "google",
-        "llm",
-        "ai"
+        "rust",
+        "ai",
+        "performance",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
-      "user": "Gemini Team"
+      "user": "Zach"
     },
     {
       "title": "A lot of good points here https://antirez.com/news/169",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
+      "published_at": "2026-07-14T15:06:56Z",
+      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "tags": [
+        "gemma",
+        "google",
+        "llm",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1080,
       "user": "MDX-Tom"
     },
     {
@@ -672,23 +672,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 728,
       "user": "AlephAITech"
-    },
-    {
-      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "published_at": "2026-07-10T05:57:02Z",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
-      "source": "GitHub",
-      "stars": 618,
-      "user": "William-Lu-stack"
     },
     {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "GreyGunG"
     },
     {
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "yetone"
     },
     {
@@ -732,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "opencoredev"
     },
     {
@@ -1209,7 +1194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "Jane-xiaoer"
     },
     {
@@ -1224,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 188,
       "user": "vybenetwork"
     },
     {
@@ -1284,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "vinhhien112"
     },
     {
@@ -1299,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 802,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1314,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "yetone"
     },
     {
@@ -1329,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 309,
       "user": "JexTradesLab"
     },
     {
@@ -1344,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "opencoredev"
     },
     {
@@ -1359,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "change-42-yhmm"
     },
     {
@@ -1392,7 +1377,7 @@
       "title": "Add controlling properties to make drag and drop experience smoother",
       "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
       "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "jquery",
@@ -1490,6 +1475,20 @@
       "user": "AmbroseChapel"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Dynamically created divs not draggable",
       "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
       "published_at": "2026-07-13T13:37:16.000Z",
@@ -1504,20 +1503,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "Updating Cshtml page without reloading it",
@@ -1852,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1080,
       "user": "MDX-Tom"
     },
     {
@@ -1867,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "vinhhien112"
     },
     {
@@ -1882,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 916,
       "user": "littledivy"
     },
     {
@@ -1897,29 +1882,45 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 728,
       "user": "AlephAITech"
     },
     {
-      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "published_at": "2026-07-10T05:57:02Z",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "title": "Kappaemme-git/codex-first-customer-finder-skill - A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "published_at": "2026-07-12T14:24:33Z",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 618,
-      "user": "William-Lu-stack"
+      "stars": 632,
+      "user": "Kappaemme-git"
+    },
+    {
+      "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
+      "url": "https://stackoverflow.com/questions/79980857/how-can-i-prevent-users-from-enrolling-with-a-face-shown-over-a-video-call-in-a",
+      "published_at": "2026-07-15T05:18:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "flutter",
+        "video-streaming",
+        "face-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BBBB"
     },
     {
       "title": "Full Str not Added to Dictionary in Loop",
       "url": "https://stackoverflow.com/questions/79980803/full-str-not-added-to-dictionary-in-loop",
       "published_at": "2026-07-14T23:19:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x"
@@ -1974,7 +1975,7 @@
       "title": "Using Spyder without .py extension",
       "url": "https://stackoverflow.com/questions/79980730/using-spyder-without-py-extension",
       "published_at": "2026-07-14T16:33:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "spyder"
@@ -2038,20 +2039,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sohail R"
-    },
-    {
-      "title": "Discord Selfbot/User API",
-      "url": "https://stackoverflow.com/questions/79980524/discord-selfbot-user-api",
-      "published_at": "2026-07-14T05:03:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "discord"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jordon"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -2296,21 +2283,6 @@
       "user": "jknupp"
     },
     {
-      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "published_at": "2026-07-10T05:57:02Z",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
-      "source": "GitHub",
-      "stars": 618,
-      "user": "William-Lu-stack"
-    },
-    {
       "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
       "url": "https://github.com/berkayyytech/vortex",
       "published_at": "2026-07-11T00:35:53Z",
@@ -2412,6 +2384,20 @@
       "user": "Femi"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Dynamically created divs not draggable",
       "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
       "published_at": "2026-07-13T13:37:16.000Z",
@@ -2426,20 +2412,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "Updating Cshtml page without reloading it",
@@ -2504,6 +2476,22 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
+      "url": "https://stackoverflow.com/questions/79980857/how-can-i-prevent-users-from-enrolling-with-a-face-shown-over-a-video-call-in-a",
+      "published_at": "2026-07-15T05:18:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "flutter",
+        "video-streaming",
+        "face-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BBBB"
+    },
     {
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
@@ -2806,21 +2794,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "published_at": "2026-07-10T05:57:02Z",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
-      "source": "GitHub",
-      "stars": 618,
-      "user": "William-Lu-stack"
     },
     {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
@@ -3266,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "Jane-xiaoer"
     },
     {
@@ -3281,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 188,
       "user": "vybenetwork"
     },
     {
@@ -3341,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1080,
       "user": "MDX-Tom"
     },
     {
@@ -3356,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "vinhhien112"
     },
     {
@@ -3371,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 916,
       "user": "littledivy"
     },
     {
@@ -3386,23 +3359,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 728,
       "user": "AlephAITech"
     },
     {
-      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "published_at": "2026-07-10T05:57:02Z",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "title": "Kappaemme-git/codex-first-customer-finder-skill - A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "published_at": "2026-07-12T14:24:33Z",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 618,
-      "user": "William-Lu-stack"
+      "stars": 632,
+      "user": "Kappaemme-git"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3416,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 592,
       "user": "cosmtrek"
     },
     {
@@ -3431,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "GreyGunG"
     },
     {
@@ -3461,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 105,
       "user": "pax-beehive"
     },
     {
@@ -3491,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 802,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3506,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "yetone"
     },
     {
@@ -3521,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 309,
       "user": "JexTradesLab"
     },
     {
@@ -3536,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "opencoredev"
     },
     {
@@ -3551,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "change-42-yhmm"
     },
     {
@@ -3581,8 +3554,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "AyagamiDev"
+    },
+    {
+      "title": "CluvexStudio/Aether - GitHub Repository",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "published_at": "2026-07-14T14:20:44Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "CluvexStudio"
     },
     {
       "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
@@ -3600,21 +3588,6 @@
       "user": "m-novotny"
     },
     {
-      "title": "CluvexStudio/Aether - GitHub Repository",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "published_at": "2026-07-14T14:20:44Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
-      "source": "GitHub",
-      "stars": 111,
-      "user": "CluvexStudio"
-    },
-    {
       "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
       "url": "https://github.com/RongleCat/grok-go",
       "published_at": "2026-07-11T18:30:24Z",
@@ -3626,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "RongleCat"
     },
     {
@@ -3681,6 +3654,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmbroseChapel"
+    },
+    {
+      "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
+      "url": "https://stackoverflow.com/questions/79980857/how-can-i-prevent-users-from-enrolling-with-a-face-shown-over-a-video-call-in-a",
+      "published_at": "2026-07-15T05:18:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "flutter",
+        "video-streaming",
+        "face-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BBBB"
     },
     {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
