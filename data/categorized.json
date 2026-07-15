@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
+      "published_at": "2026-07-15T18:56:45Z",
+      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "tags": [
+        "bugsmash",
+        "debugging",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
       "published_at": "2026-07-14T16:38:47Z",
@@ -121,6 +136,36 @@
       "user": "Don Johnson"
     },
     {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
+      "published_at": "2026-07-15T06:50:10Z",
+      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "tags": [
+        "ai",
+        "angular",
+        "agenticarchitect",
+        "antigravitycli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
+      "url": "https://dev.to/gde/stop-your-llms-from-forgetting-part-2-how-a-graph-anchor-pyramid-cures-ais-relational-blindspots-4m33",
+      "published_at": "2026-07-15T03:22:14Z",
+      "description": "Have you ever had a brilliant solution get completely crushed by a single comment on a technical blog...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6slbtjo06iji52xyb5mi.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -149,21 +194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -646,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1312,
       "user": "MDX-Tom"
     },
     {
@@ -706,8 +736,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 326,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "url": "https://github.com/xai-org/grok-build",
+      "published_at": "2026-07-14T20:04:23Z",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "xai-org"
     },
     {
       "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
@@ -782,13 +827,31 @@
       "user": "KimKim"
     },
     {
+      "title": "Daniel Ek&#8217;s body-scanning startup Neko Health raises another $700M",
+      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "published_at": "2026-07-15T19:46:54.000Z",
+      "description": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "tags": [
+        "Biotech & Health",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "daniel ek"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
       "published_at": "2026-07-15T19:41:38.000Z",
       "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
       "tags": [
-        "TC",
         "AI",
+        "Hardware",
+        "TC",
+        "codex",
         "OpenAI"
       ],
       "cover_image": null,
@@ -796,8 +859,8 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "published_at": "2026-07-15T18:06:05.000Z",
       "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
       "tags": [
@@ -857,38 +920,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "published_at": "2026-07-15T17:00:00.000Z",
-      "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "Startups",
-        "e-commerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "published_at": "2026-07-15T16:20:18.000Z",
-      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "tags": [
-        "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How I Used Harness Engineering to Make Our Company AI-Native",
@@ -1015,6 +1046,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
+      "published_at": "2026-07-15T06:50:10Z",
+      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "tags": [
+        "ai",
+        "angular",
+        "agenticarchitect",
+        "antigravitycli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1178,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 175,
       "user": "KubeezMedia"
     },
     {
@@ -1223,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1004,
       "user": "vinhhien112"
     },
     {
@@ -1268,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 395,
       "user": "pixel-point"
     },
     {
@@ -1283,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "JexTradesLab"
     },
     {
@@ -1298,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 326,
       "user": "MatinSenPai"
     },
     {
@@ -1538,6 +1584,51 @@
   ],
   "Python": [
     {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
+      "published_at": "2026-07-15T18:56:09Z",
+      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "tags": [
+        "bugsmash",
+        "python",
+        "go",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
+      "published_at": "2026-07-15T18:56:45Z",
+      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "tags": [
+        "bugsmash",
+        "debugging",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
+      "published_at": "2026-07-15T13:04:39Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "python",
+        "tpu",
+        "antigravitycli",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -1759,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1312,
       "user": "MDX-Tom"
     },
     {
@@ -1774,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1004,
       "user": "vinhhien112"
     },
     {
@@ -1789,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 992,
       "user": "littledivy"
     },
     {
@@ -1819,8 +1910,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 703,
       "user": "Kappaemme-git"
+    },
+    {
+      "title": "FastAPI event loop blocked by Scikit-Learn Joblib thread-pool exhaustion during concurrent async inference",
+      "url": "https://stackoverflow.com/questions/79981101/fastapi-event-loop-blocked-by-scikit-learn-joblib-thread-pool-exhaustion-during",
+      "published_at": "2026-07-15T19:47:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "scikit-learn",
+        "python-asyncio",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Masum Abbas"
     },
     {
       "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
@@ -1956,19 +2062,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BBBB"
-    },
-    {
-      "title": "Passed timeout not overriding default timeout in GET/POST request",
-      "url": "https://stackoverflow.com/questions/79980856/passed-timeout-not-overriding-default-timeout-in-get-post-request",
-      "published_at": "2026-07-15T05:08:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lino Asmolo Jr"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2354,6 +2447,21 @@
   ],
   "Cloud": [
     {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
+      "published_at": "2026-07-15T13:04:39Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "python",
+        "tpu",
+        "antigravitycli",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2384,6 +2492,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
+      "published_at": "2026-07-15T06:50:10Z",
+      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "tags": [
+        "ai",
+        "angular",
+        "agenticarchitect",
+        "antigravitycli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2395,21 +2518,6 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
-      "published_at": "2026-07-11T21:21:38Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "mcps",
-        "tpu",
-        "31b"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2638,6 +2746,18 @@
       "user": "iancarroll"
     },
     {
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "published_at": "2026-07-15T14:34:54.182-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mort"
+    },
+    {
       "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
       "url": "https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/",
       "published_at": "2026-07-15T15:26:34.000Z",
@@ -2859,25 +2979,24 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "published_at": "2026-07-15T16:20:18.000Z",
-      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "tags": [
-        "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
+    {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
+      "published_at": "2026-07-15T18:56:09Z",
+      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "tags": [
+        "bugsmash",
+        "python",
+        "go",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "A lot of good points here https://antirez.com/news/169",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
@@ -2922,36 +3041,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
       "user": "Don Johnson"
-    },
-    {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3091,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 175,
       "user": "KubeezMedia"
     },
     {
@@ -3136,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1312,
       "user": "MDX-Tom"
     },
     {
@@ -3151,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1004,
       "user": "vinhhien112"
     },
     {
@@ -3166,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 992,
       "user": "littledivy"
     },
     {
@@ -3196,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 703,
       "user": "Kappaemme-git"
     },
     {
@@ -3241,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 141,
       "user": "vshulcz"
     },
     {
@@ -3316,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 395,
       "user": "pixel-point"
     },
     {
@@ -3331,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 331,
       "user": "JexTradesLab"
     },
     {
@@ -3346,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 326,
       "user": "MatinSenPai"
     },
     {
@@ -3361,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 510,
       "user": "CluvexStudio"
     },
     {
@@ -3395,6 +3484,21 @@
       "user": "AyagamiDev"
     },
     {
+      "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "url": "https://github.com/xai-org/grok-build",
+      "published_at": "2026-07-14T20:04:23Z",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "xai-org"
+    },
+    {
       "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
       "url": "https://github.com/m-novotny/memguard-rs",
       "published_at": "2026-07-13T21:08:48Z",
@@ -3408,21 +3512,6 @@
       "source": "GitHub",
       "stars": 131,
       "user": "m-novotny"
-    },
-    {
-      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "url": "https://github.com/RongleCat/grok-go",
-      "published_at": "2026-07-11T18:30:24Z",
-      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
-      "source": "GitHub",
-      "stars": 116,
-      "user": "RongleCat"
     },
     {
       "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
