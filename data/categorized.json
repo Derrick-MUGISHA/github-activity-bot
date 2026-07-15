@@ -121,21 +121,6 @@
       "user": "Don Johnson"
     },
     {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -193,6 +178,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
+    },
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1307,
       "user": "MDX-Tom"
     },
     {
@@ -706,37 +706,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 318,
       "user": "MatinSenPai"
     },
     {
-      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "published_at": "2026-07-12T16:03:52Z",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+      "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+      "published_at": "2026-07-15T09:12:05.069-05:00",
+      "description": "The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\".  It is Open Access so the link to the PDF is [here](https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf)\r\n\r\nThe book has a companion [site](findingeliza.org) - I was monitoring this since I first heard the [episode](https://corecursive.com/eliza-with-jeff-shrager/) on CoRecursive.",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "opencoredev"
-    },
-    {
-      "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "published_at": "2026-07-14T12:00:52.604-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware",
-        "mac",
-        "vibecoding"
+        "ai",
+        "book",
+        "pdf"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "fanf"
+      "user": "adamo"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -770,7 +755,7 @@
       "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
       "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
       "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "python-3.x",
@@ -797,6 +782,20 @@
       "user": "KimKim"
     },
     {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "published_at": "2026-07-15T19:41:38.000Z",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "tags": [
+        "TC",
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
       "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
       "published_at": "2026-07-15T18:06:05.000Z",
@@ -804,7 +803,9 @@
       "tags": [
         "AI",
         "Space",
-        "SpaceX"
+        "Elon Musk",
+        "SpaceX",
+        "spacex ipo"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -863,10 +864,10 @@
       "published_at": "2026-07-15T17:00:00.000Z",
       "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
       "tags": [
-        "Startups",
         "AI",
         "Apps",
         "Commerce",
+        "Startups",
         "e-commerce"
       ],
       "cover_image": null,
@@ -890,36 +891,66 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "published_at": "2026-07-15T15:29:33.000Z",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "title": "How I Used Harness Engineering to Make Our Company AI-Native",
+      "url": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
+      "published_at": "2026-07-15T15:34:41.000Z",
+      "description": "Most companies say they want to \"adopt AI\". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b",
       "tags": [
         "AI",
-        "alibaba",
-        "Apple",
-        "Apple Intelligence",
-        "qwen"
+        "mcp",
+        "Software Engineering",
+        "documentation",
+        "harnessengineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Tech With RJ"
     },
     {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "published_at": "2026-07-15T15:00:00.000Z",
-      "description": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs",
+      "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
+      "url": "https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/",
+      "published_at": "2026-07-15T15:26:34.000Z",
+      "description": "I was helping a team that had a 200-page API documentation PDF. Every new engineer spent their first two weeks Ctrl+F-ing through it, asking the same questions in Slack, getting redirected to the same",
       "tags": [
+        "Node.js",
         "AI",
-        "Startups",
-        "Anthropic",
-        "Blackstone",
-        "FDE"
+        "PostgreSQL",
+        "Tutorial",
+        "JavaScript"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
+    },
+    {
+      "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
+      "url": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
+      "published_at": "2026-07-15T15:25:14.000Z",
+      "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
+    },
+    {
+      "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+      "url": "https://www.freecodecamp.org/news/ai-paper-review-deep-unsupervised-learning-using-nonequilibrium-thermodynamics/",
+      "published_at": "2026-07-15T15:23:43.000Z",
+      "description": "Today, diffusion models power some of the most impressive AI systems ever built. They generate photorealistic images, create videos, synthesize speech, design proteins, and increasingly influence fiel",
+      "tags": [
+        "AI",
+        "MathJax",
+        "Deep Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mohammed Fahd Abrah"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -967,53 +998,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Roland Sankara"
-    },
-    {
-      "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
-      "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
-      "published_at": "2026-07-13T21:36:24.000Z",
-      "description": "Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "ollama",
-        "automation",
-        "cron"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
-      "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
-      "published_at": "2026-07-13T14:29:12.000Z",
-      "description": "Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows",
-      "tags": [
-        "ai-agent",
-        "agentic AI",
-        "AI",
-        "dotnet"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gopinath Karunanithi"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
-      "published_at": "2026-07-13T14:12:57.000Z",
-      "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "webdev"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "JavaScript": [
@@ -1179,8 +1163,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "vybenetwork"
+    },
+    {
+      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "published_at": "2026-07-13T23:32:54Z",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
+      "source": "GitHub",
+      "stars": 148,
+      "user": "KubeezMedia"
     },
     {
       "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
@@ -1213,21 +1212,6 @@
       "user": "Matchameleon"
     },
     {
-      "title": "Weebapp003/tradingview-mcp - tradingview mcp which connect claude code via chrome devtools protocol",
-      "url": "https://github.com/Weebapp003/tradingview-mcp",
-      "published_at": "2026-07-09T14:21:39Z",
-      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120244099?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "Weebapp003"
-    },
-    {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
       "published_at": "2026-07-09T16:23:29Z",
@@ -1239,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1003,
       "user": "vinhhien112"
     },
     {
@@ -1273,6 +1257,21 @@
       "user": "yetone"
     },
     {
+      "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "url": "https://github.com/pixel-point/aval",
+      "published_at": "2026-07-13T07:42:51Z",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
+      "source": "GitHub",
+      "stars": 351,
+      "user": "pixel-point"
+    },
+    {
       "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
       "url": "https://github.com/JexTradesLab/scaling-octo-engine",
       "published_at": "2026-07-09T17:01:06Z",
@@ -1299,29 +1298,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 318,
       "user": "MatinSenPai"
     },
     {
-      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "published_at": "2026-07-12T16:03:52Z",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "title": "How can I set an object's property value depending on a condition using if statements?",
+      "url": "https://stackoverflow.com/questions/79981087/how-can-i-set-an-objects-property-value-depending-on-a-condition-using-if-state",
+      "published_at": "2026-07-15T18:51:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "opencoredev"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AdjoinQuinoa68"
     },
     {
       "title": "setInterval always logs the initial React state even though the component re-renders",
       "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
       "published_at": "2026-07-15T15:59:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs"
@@ -1445,20 +1441,6 @@
       "user": "zilmi flawless"
     },
     {
-      "title": "Why would one use WebAssembly in the Backend?",
-      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
-      "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "advice",
-        "javascript",
-        "webassembly"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Femi"
-    },
-    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -1488,6 +1470,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Masum Abbas"
+    },
+    {
+      "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
+      "url": "https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/",
+      "published_at": "2026-07-15T15:26:34.000Z",
+      "description": "I was helping a team that had a 200-page API documentation PDF. Every new engineer spent their first two weeks Ctrl+F-ing through it, asking the same questions in Slack, getting redirected to the same",
+      "tags": [
+        "Node.js",
+        "AI",
+        "PostgreSQL",
+        "Tutorial",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -1536,71 +1534,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Farouq Seriki"
-    },
-    {
-      "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
-      "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
-      "published_at": "2026-07-13T21:36:24.000Z",
-      "description": "Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "ollama",
-        "automation",
-        "cron"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
-      "published_at": "2026-07-13T14:13:49.000Z",
-      "description": "A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe",
-      "tags": [
-        "shadcn",
-        "React",
-        "components",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
-      "published_at": "2026-07-13T14:12:57.000Z",
-      "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "webdev"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
@@ -1628,6 +1564,21 @@
         "antigravitycli"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1808,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1307,
       "user": "MDX-Tom"
     },
     {
@@ -1823,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1003,
       "user": "vinhhien112"
     },
     {
@@ -1838,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 988,
       "user": "littledivy"
     },
     {
@@ -1868,14 +1819,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 699,
       "user": "Kappaemme-git"
     },
     {
       "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
       "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
       "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "python-3.x",
@@ -2018,6 +1969,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lino Asmolo Jr"
+    },
+    {
+      "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
+      "url": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
+      "published_at": "2026-07-15T15:25:14.000Z",
+      "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -2262,21 +2229,6 @@
       "user": "jknupp"
     },
     {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "berkayyytech"
-    },
-    {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
       "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
       "published_at": "2026-07-14T20:27:08.000Z",
@@ -2291,21 +2243,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
-      "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
-      "published_at": "2026-07-13T14:29:12.000Z",
-      "description": "Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows",
-      "tags": [
-        "ai-agent",
-        "agentic AI",
-        "AI",
-        "dotnet"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gopinath Karunanithi"
     }
   ],
   "WebDev": [
@@ -2364,51 +2301,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Why would one use WebAssembly in the Backend?",
-      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
-      "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "advice",
-        "javascript",
-        "webassembly"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Femi"
-    },
-    {
-      "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
-      "published_at": "2026-07-13T14:13:49.000Z",
-      "description": "A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe",
-      "tags": [
-        "shadcn",
-        "React",
-        "components",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
-      "published_at": "2026-07-13T14:12:57.000Z",
-      "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "webdev"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2492,21 +2384,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2533,6 +2410,21 @@
         "31b"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2744,6 +2636,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
+      "url": "https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/",
+      "published_at": "2026-07-15T15:26:34.000Z",
+      "description": "I was helping a team that had a 200-page API documentation PDF. Every new engineer spent their first two weeks Ctrl+F-ing through it, asking the same questions in Slack, getting redirected to the same",
+      "tags": [
+        "Node.js",
+        "AI",
+        "PostgreSQL",
+        "Tutorial",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     }
   ],
   "Security": [
@@ -2919,6 +2827,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "raymii"
+    },
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "published_at": "2026-07-15T18:47:01.000Z",
+      "description": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
+      "tags": [
+        "Security",
+        "Age of Empires",
+        "Age of Empires II",
+        "cybersecurity",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
@@ -3152,8 +3076,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "vybenetwork"
+    },
+    {
+      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "published_at": "2026-07-13T23:32:54Z",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
+      "source": "GitHub",
+      "stars": 148,
+      "user": "KubeezMedia"
     },
     {
       "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
@@ -3186,21 +3125,6 @@
       "user": "Matchameleon"
     },
     {
-      "title": "Weebapp003/tradingview-mcp - tradingview mcp which connect claude code via chrome devtools protocol",
-      "url": "https://github.com/Weebapp003/tradingview-mcp",
-      "published_at": "2026-07-09T14:21:39Z",
-      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120244099?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "Weebapp003"
-    },
-    {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "published_at": "2026-07-11T09:44:24Z",
@@ -3212,7 +3136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1307,
       "user": "MDX-Tom"
     },
     {
@@ -3227,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1003,
       "user": "vinhhien112"
     },
     {
@@ -3242,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 988,
       "user": "littledivy"
     },
     {
@@ -3272,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 699,
       "user": "Kappaemme-git"
     },
     {
@@ -3287,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 676,
       "user": "cosmtrek"
     },
     {
@@ -3306,6 +3230,21 @@
       "user": "GreyGunG"
     },
     {
+      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "published_at": "2026-07-14T07:45:44Z",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "vshulcz"
+    },
+    {
       "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
       "url": "https://github.com/pax-beehive/paxm",
       "published_at": "2026-07-09T02:40:57Z",
@@ -3317,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "pax-beehive"
     },
     {
@@ -3334,21 +3273,6 @@
       "source": "GitHub",
       "stars": 110,
       "user": "intmian"
-    },
-    {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "berkayyytech"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3381,6 +3305,21 @@
       "user": "yetone"
     },
     {
+      "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "url": "https://github.com/pixel-point/aval",
+      "published_at": "2026-07-13T07:42:51Z",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
+      "source": "GitHub",
+      "stars": 351,
+      "user": "pixel-point"
+    },
+    {
       "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
       "url": "https://github.com/JexTradesLab/scaling-octo-engine",
       "published_at": "2026-07-09T17:01:06Z",
@@ -3407,23 +3346,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 318,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "published_at": "2026-07-12T16:03:52Z",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "opencoredev"
     },
     {
       "title": "CluvexStudio/Aether - GitHub Repository",
@@ -3437,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 500,
       "user": "CluvexStudio"
     },
     {
@@ -3452,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "thatmagicalcat"
     },
     {
@@ -3533,20 +3457,20 @@
       "user": "BBBB"
     },
     {
-      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-      "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "published_at": "2026-07-15T15:30:26.000Z",
-      "description": "If completed, the acquisition would unite two of the biggest names in digital payments.",
+      "title": "How I Used Harness Engineering to Make Our Company AI-Native",
+      "url": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
+      "published_at": "2026-07-15T15:34:41.000Z",
+      "description": "Most companies say they want to \"adopt AI\". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b",
       "tags": [
-        "Apps",
-        "Fintech",
-        "In Brief",
-        "Mergers and Acquisitions",
-        "PayPal"
+        "AI",
+        "mcp",
+        "Software Engineering",
+        "documentation",
+        "harnessengineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "source": "freeCodeCamp",
+      "user": "Tech With RJ"
     },
     {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
