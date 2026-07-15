@@ -46,21 +46,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "DiffusionGemma: 4x faster text generation",
       "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
       "published_at": "2026-07-14T15:06:56Z",
@@ -136,6 +121,21 @@
       "user": "Don Johnson"
     },
     {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -164,6 +164,94 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
       "user": "Web Developer Hyper"
+    },
+    {
+      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
+      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
+      "published_at": "2026-06-29T16:06:30Z",
+      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
+      "tags": [
+        "aie",
+        "ai",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
+      "source": "Dev.to",
+      "user": "Iain Thomson"
+    },
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
+    {
+      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
+      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
+      "published_at": "2026-07-08T13:02:03Z",
+      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "codenewbie",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+      "published_at": "2026-07-02T19:14:36Z",
+      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
+      "tags": [
+        "webassembly",
+        "midsommer",
+        "azurecontainerapps",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
+      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
+      "published_at": "2026-07-10T03:33:28Z",
+      "description": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
+      "tags": [
+        "agents",
+        "ai",
+        "agenticarchitect",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0fyszelzmo58hb753y1.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -331,6 +419,21 @@
       "user": "Joaquin Menchaca"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
       "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4",
       "published_at": "2026-06-22T17:13:03Z",
@@ -358,99 +461,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft95h3rh64ay22zn0pos3.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "Visitors get some serious puppy love",
-      "url": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
-      "published_at": "2026-07-01T13:47:36Z",
-      "description": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more...",
-      "tags": [
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7xmnra72str0kqtl2a0.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Fable is Back, Baby.",
-      "url": "https://dev.to/dailycontext/fable-is-back-baby-2o5n",
-      "published_at": "2026-07-01T14:53:47Z",
-      "description": "Fable is back. The Commerce Department announced yesterday it has lifted the export controls it...",
-      "tags": [
-        "aie",
-        "ai",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqojuhmllrytoe9xn5wyy.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "The Vertical Turn",
-      "url": "https://dev.to/dailycontext/the-vertical-turn-1pcm",
-      "published_at": "2026-07-01T14:41:07Z",
-      "description": "Look at tomorrow's track list and count the rooms that have absolutely nothing to do with...",
-      "tags": [
-        "aie",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmvlc6fabhxwxgwx0aueg.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
-      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce",
-      "published_at": "2026-06-23T05:04:55Z",
-      "description": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsn6gx1nmzp3msf8wtnxi.png",
-      "source": "Dev.to",
-      "user": "Samir"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
-      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
-      "published_at": "2026-07-01T13:51:51Z",
-      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
-      "tags": [
-        "aie",
-        "productivity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -624,6 +634,21 @@
       "user": "Matchameleon"
     },
     {
+      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
+      "published_at": "2026-07-09T06:47:16Z",
+      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "Matchameleon"
+    },
+    {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "published_at": "2026-07-11T09:44:24Z",
@@ -635,23 +660,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 996,
       "user": "MDX-Tom"
     },
     {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "published_at": "2026-07-10T04:13:51Z",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 784,
-      "user": "Robbyant"
+      "stars": 682,
+      "user": "AlephAITech"
+    },
+    {
+      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "William-Lu-stack"
     },
     {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
@@ -684,21 +724,6 @@
       "user": "yetone"
     },
     {
-      "title": "bkingfilm/lapian-notes - AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "published_at": "2026-07-08T06:06:31Z",
-      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
-      "source": "GitHub",
-      "stars": 327,
-      "user": "bkingfilm"
-    },
-    {
       "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "url": "https://github.com/opencoredev/domain-sdk",
       "published_at": "2026-07-12T16:03:52Z",
@@ -710,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "opencoredev"
     },
     {
@@ -942,6 +967,38 @@
       "user": "Russell Brandom"
     },
     {
+      "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
+      "published_at": "2026-07-14T21:32:24.000Z",
+      "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
+      "tags": [
+        "AI",
+        "multi-agent",
+        "ollama",
+        "ai agents",
+        "#qwen"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
+      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
+      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
+      "published_at": "2026-07-14T20:27:08.000Z",
+      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
+      "tags": [
+        "Docker",
+        "Node.js",
+        "GitHub Actions",
+        "Devops",
+        "ci-cd"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
+    },
+    {
       "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
       "url": "https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/",
       "published_at": "2026-07-14T00:18:43.000Z",
@@ -1002,36 +1059,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
-      "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
-      "published_at": "2026-07-09T17:06:32.000Z",
-      "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Turn a Postman Collection into a Maintainable pytest Suite",
-      "url": "https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/",
-      "published_at": "2026-07-09T16:43:39.000Z",
-      "description": "A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes",
-      "tags": [
-        "pytest",
-        "Python",
-        "Postman"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mikhail Golikov"
     }
   ],
   "JavaScript": [
@@ -1171,21 +1198,6 @@
       "user": "velmu"
     },
     {
-      "title": "withmarbleapp/os-taxonomy - GitHub Repository",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "published_at": "2026-07-08T09:27:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
-      "source": "GitHub",
-      "stars": 3045,
-      "user": "withmarbleapp"
-    },
-    {
       "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
       "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
       "published_at": "2026-07-10T05:50:11Z",
@@ -1212,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "vybenetwork"
     },
     {
@@ -1231,19 +1243,34 @@
       "user": "Matchameleon"
     },
     {
-      "title": "angieruiz17/claude-fintech-skills - claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
-      "url": "https://github.com/angieruiz17/claude-fintech-skills",
-      "published_at": "2026-07-08T14:40:04Z",
-      "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
+      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
+      "published_at": "2026-07-09T06:47:16Z",
+      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "angieruiz17"
+      "stars": 133,
+      "user": "Matchameleon"
+    },
+    {
+      "title": "Weebapp003/tradingview-mcp - tradingview mcp which connect claude code via chrome devtools protocol",
+      "url": "https://github.com/Weebapp003/tradingview-mcp",
+      "published_at": "2026-07-09T14:21:39Z",
+      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120244099?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "Weebapp003"
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
@@ -1291,21 +1318,6 @@
       "user": "yetone"
     },
     {
-      "title": "bkingfilm/lapian-notes - AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "published_at": "2026-07-08T06:06:31Z",
-      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
-      "source": "GitHub",
-      "stars": 327,
-      "user": "bkingfilm"
-    },
-    {
       "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
       "url": "https://github.com/JexTradesLab/scaling-octo-engine",
       "published_at": "2026-07-09T17:01:06Z",
@@ -1317,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "JexTradesLab"
     },
     {
@@ -1332,8 +1344,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "opencoredev"
+    },
+    {
+      "title": "change-42-yhmm/quota-float - A plug-in for easy viewing of credit limits",
+      "url": "https://github.com/change-42-yhmm/quota-float",
+      "published_at": "2026-07-09T08:33:45Z",
+      "description": "A plug-in for easy viewing of credit limits",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
+      "source": "GitHub",
+      "stars": 232,
+      "user": "change-42-yhmm"
     },
     {
       "title": "Just Let Me Write Digits",
@@ -1505,6 +1532,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
+      "published_at": "2026-07-14T21:32:24.000Z",
+      "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
+      "tags": [
+        "AI",
+        "multi-agent",
+        "ollama",
+        "ai agents",
+        "#qwen"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
+      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
+      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
+      "published_at": "2026-07-14T20:27:08.000Z",
+      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
+      "tags": [
+        "Docker",
+        "Node.js",
+        "GitHub Actions",
+        "Devops",
+        "ci-cd"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
@@ -1782,21 +1841,6 @@
       "user": "arathore"
     },
     {
-      "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
-      "url": "https://github.com/Robbyant/lingbot-world-v2",
-      "published_at": "2026-07-08T09:24:50Z",
-      "description": "Infinite Worlds with Versatile Interactions",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 1108,
-      "user": "Robbyant"
-    },
-    {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "published_at": "2026-07-11T09:44:24Z",
@@ -1808,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 996,
       "user": "MDX-Tom"
     },
     {
@@ -1838,23 +1882,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 909,
       "user": "littledivy"
     },
     {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "published_at": "2026-07-10T04:13:51Z",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 784,
-      "user": "Robbyant"
+      "stars": 682,
+      "user": "AlephAITech"
+    },
+    {
+      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "William-Lu-stack"
+    },
+    {
+      "title": "Full Str not Added to Dictionary in Loop",
+      "url": "https://stackoverflow.com/questions/79980803/full-str-not-added-to-dictionary-in-loop",
+      "published_at": "2026-07-14T23:19:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lili Hauser"
     },
     {
       "title": "venv not activating with source",
@@ -1982,18 +2054,20 @@
       "user": "Jordon"
     },
     {
-      "title": "How to properly deal with nan values when using scipy.stats.pearsonr?",
-      "url": "https://stackoverflow.com/questions/79980456/how-to-properly-deal-with-nan-values-when-using-scipy-stats-pearsonr",
-      "published_at": "2026-07-13T19:58:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
+      "published_at": "2026-07-14T21:32:24.000Z",
+      "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
       "tags": [
-        "python",
-        "scipy",
-        "pearson"
+        "AI",
+        "multi-agent",
+        "ollama",
+        "ai agents",
+        "#qwen"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Caterina"
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "How to Analyze Insider Transactions with Python: A CEO Buying Case Study",
@@ -2008,36 +2082,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Nikhil Adithyan"
-    },
-    {
-      "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
-      "url": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
-      "published_at": "2026-07-09T17:06:32.000Z",
-      "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Turn a Postman Collection into a Maintainable pytest Suite",
-      "url": "https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/",
-      "published_at": "2026-07-09T16:43:39.000Z",
-      "description": "A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes",
-      "tags": [
-        "pytest",
-        "Python",
-        "Postman"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mikhail Golikov"
     }
   ],
   "DevOps": [
@@ -2252,6 +2296,52 @@
       "user": "jknupp"
     },
     {
+      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "William-Lu-stack"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "berkayyytech"
+    },
+    {
+      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
+      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
+      "published_at": "2026-07-14T20:27:08.000Z",
+      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
+      "tags": [
+        "Docker",
+        "Node.js",
+        "GitHub Actions",
+        "Devops",
+        "ci-cd"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
+    },
+    {
       "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
       "url": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
       "published_at": "2026-07-13T14:29:12.000Z",
@@ -2268,6 +2358,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
+    },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
@@ -2449,21 +2554,6 @@
   ],
   "Cloud": [
     {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2494,6 +2584,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2520,6 +2625,36 @@
         "31b"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
+      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
+      "published_at": "2026-07-08T13:02:03Z",
+      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "codenewbie",
+        "images"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
+      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+      "published_at": "2026-07-02T19:14:36Z",
+      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
+      "tags": [
+        "webassembly",
+        "midsommer",
+        "azurecontainerapps",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2673,19 +2808,19 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "xiaozhou26/icloud-hme - GitHub Repository",
-      "url": "https://github.com/xiaozhou26/icloud-hme",
-      "published_at": "2026-07-08T11:04:56Z",
-      "description": "Trending GitHub Repository",
+      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "source": "GitHub",
-      "stars": 150,
-      "user": "xiaozhou26"
+      "stars": 616,
+      "user": "William-Lu-stack"
     },
     {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
@@ -3099,35 +3234,6 @@
       "user": "christine"
     },
     {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h",
-      "published_at": "2026-07-02T22:04:04Z",
-      "description": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftq24cf4rl7hma9x9xq6n.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Bottleneck Resolution is, In Fact, All the Rage in AI Engineering",
-      "url": "https://dev.to/dailycontext/bottleneck-resolution-is-in-fact-all-the-rage-in-ai-engineering-21cj",
-      "published_at": "2026-07-01T13:51:51Z",
-      "description": "The AI Engineer World's Fair here in San Francisco is fundamentally a conference for practitioners —...",
-      "tags": [
-        "aie",
-        "productivity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvk68n3t7haj7n9z63ic.jpg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3164,21 +3270,6 @@
       "user": "pabs3"
     },
     {
-      "title": "withmarbleapp/os-taxonomy - GitHub Repository",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "published_at": "2026-07-08T09:27:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233045934?v=4",
-      "source": "GitHub",
-      "stars": 3045,
-      "user": "withmarbleapp"
-    },
-    {
       "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
       "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
       "published_at": "2026-07-10T05:50:11Z",
@@ -3205,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "vybenetwork"
     },
     {
@@ -3224,34 +3315,34 @@
       "user": "Matchameleon"
     },
     {
-      "title": "angieruiz17/claude-fintech-skills - claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
-      "url": "https://github.com/angieruiz17/claude-fintech-skills",
-      "published_at": "2026-07-08T14:40:04Z",
-      "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
+      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
+      "published_at": "2026-07-09T06:47:16Z",
+      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108318194?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "angieruiz17"
+      "stars": 133,
+      "user": "Matchameleon"
     },
     {
-      "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
-      "url": "https://github.com/Robbyant/lingbot-world-v2",
-      "published_at": "2026-07-08T09:24:50Z",
-      "description": "Infinite Worlds with Versatile Interactions",
+      "title": "Weebapp003/tradingview-mcp - tradingview mcp which connect claude code via chrome devtools protocol",
+      "url": "https://github.com/Weebapp003/tradingview-mcp",
+      "published_at": "2026-07-09T14:21:39Z",
+      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/120244099?v=4",
       "source": "GitHub",
-      "stars": 1108,
-      "user": "Robbyant"
+      "stars": 132,
+      "user": "Weebapp003"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3265,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 996,
       "user": "MDX-Tom"
     },
     {
@@ -3295,23 +3386,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 909,
       "user": "littledivy"
     },
     {
-      "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "published_at": "2026-07-08T13:52:08Z",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "published_at": "2026-07-10T04:13:51Z",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 784,
-      "user": "Robbyant"
+      "stars": 682,
+      "user": "AlephAITech"
+    },
+    {
+      "title": "William-Lu-stack/Flawless - AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "published_at": "2026-07-10T05:57:02Z",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66623266?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "William-Lu-stack"
     },
     {
       "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
@@ -3325,23 +3431,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 574,
       "user": "cosmtrek"
-    },
-    {
-      "title": "xiaozhou26/icloud-hme - GitHub Repository",
-      "url": "https://github.com/xiaozhou26/icloud-hme",
-      "published_at": "2026-07-08T11:04:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122727418?v=4",
-      "source": "GitHub",
-      "stars": 150,
-      "user": "xiaozhou26"
     },
     {
       "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
@@ -3372,6 +3463,21 @@
       "source": "GitHub",
       "stars": 110,
       "user": "intmian"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "berkayyytech"
     },
     {
       "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
@@ -3419,21 +3525,6 @@
       "user": "yetone"
     },
     {
-      "title": "bkingfilm/lapian-notes - AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "published_at": "2026-07-08T06:06:31Z",
-      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256981124?v=4",
-      "source": "GitHub",
-      "stars": 327,
-      "user": "bkingfilm"
-    },
-    {
       "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
       "url": "https://github.com/JexTradesLab/scaling-octo-engine",
       "published_at": "2026-07-09T17:01:06Z",
@@ -3445,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "JexTradesLab"
     },
     {
@@ -3460,23 +3551,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "opencoredev"
     },
     {
-      "title": "modiqo/waggle - Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-      "url": "https://github.com/modiqo/waggle",
-      "published_at": "2026-07-08T04:33:09Z",
-      "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+      "title": "change-42-yhmm/quota-float - A plug-in for easy viewing of credit limits",
+      "url": "https://github.com/change-42-yhmm/quota-float",
+      "published_at": "2026-07-09T08:33:45Z",
+      "description": "A plug-in for easy viewing of credit limits",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172510440?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 604,
-      "user": "modiqo"
+      "stars": 232,
+      "user": "change-42-yhmm"
     },
     {
       "title": "thatmagicalcat/txm - Terminal Math rendering engine",
@@ -3535,8 +3626,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "CluvexStudio"
+    },
+    {
+      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "url": "https://github.com/RongleCat/grok-go",
+      "published_at": "2026-07-11T18:30:24Z",
+      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "RongleCat"
     },
     {
       "title": "Just Let Me Write Digits",
@@ -3577,18 +3683,6 @@
       "user": "krig"
     },
     {
-      "title": "The git history command deserves more attention",
-      "url": "https://lalitm.com/post/git-history/",
-      "published_at": "2026-07-13T22:21:08.852-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gnyeki"
-    },
-    {
       "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
       "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
       "published_at": "2026-07-14T01:38:04.000Z",
@@ -3602,6 +3696,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmbroseChapel"
+    },
+    {
+      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
+      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
+      "published_at": "2026-07-14T20:27:08.000Z",
+      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
+      "tags": [
+        "Docker",
+        "Node.js",
+        "GitHub Actions",
+        "Devops",
+        "ci-cd"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     }
   ]
 }
