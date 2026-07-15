@@ -46,21 +46,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
-      "published_at": "2026-07-14T09:57:26Z",
-      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
-      "tags": [
-        "ai",
-        "agents",
-        "adk",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
       "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
       "published_at": "2026-07-14T17:54:10Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+      "published_at": "2026-07-14T09:57:26Z",
+      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "tags": [
+        "ai",
+        "agents",
+        "adk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1215,
       "user": "MDX-Tom"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 764,
       "user": "AlephAITech"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "GreyGunG"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 454,
       "user": "yetone"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "opencoredev"
     },
     {
@@ -733,31 +733,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "fanf"
-    },
-    {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "published_at": "2026-07-14T04:24:36.813-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "historical"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jbauer"
-    },
-    {
-      "title": "The Memory Heist",
-      "url": "https://ayush.digital/blog/the-memory-heist",
-      "published_at": "2026-07-14T19:11:45.046-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "videah"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -804,16 +779,64 @@
       "user": "KimKim"
     },
     {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "published_at": "2026-07-15T13:10:47.000Z",
+      "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "ai services",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "published_at": "2026-07-15T13:00:00.000Z",
+      "description": "Rime is handling over 100 million calls each month across multiple companies.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "M13 Ventures",
+        "Rime",
+        "voice AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Reelful&#8217;s AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "published_at": "2026-07-15T13:00:00.000Z",
+      "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Startups",
+        "reelful"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
       "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
       "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
       "published_at": "2026-07-15T12:00:00.000Z",
       "description": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
       "tags": [
-        "Startups",
         "AI",
-        "emergent",
+        "Startups",
+        "Claypond",
         "Creaegis",
-        "vibe coding"
+        "emergent"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -826,7 +849,9 @@
       "description": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
       "tags": [
         "AI",
-        "Exclusive"
+        "Exclusive",
+        "Vint Cerf",
+        "ai agent"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -836,7 +861,7 @@
       "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
       "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
       "published_at": "2026-07-15T11:00:00.000Z",
-      "description": "Cofounded by senior entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
+      "description": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
       "tags": [
         "Enterprise",
         "Startups",
@@ -854,8 +879,11 @@
       "published_at": "2026-07-15T10:30:00.000Z",
       "description": "Someone has to bundle all the wires that go into rockets, missiles, and satellites.",
       "tags": [
+        "Hardware",
         "Space",
-        "Hardware"
+        "Interlagos",
+        "Lowercarbon",
+        "space tech"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -892,50 +920,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "published_at": "2026-07-14T22:22:24.000Z",
-      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
-      "tags": [
-        "AI",
-        "Apple",
-        "ChatGPT",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "published_at": "2026-07-14T22:07:42.000Z",
-      "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "tags": [
-        "AI",
-        "Apple",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "OpenAI&#8217;s new flagship model deletes files on its own, people keep warning",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "published_at": "2026-07-14T21:50:11.000Z",
-      "description": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "tags": [
-        "AI",
-        "gpt-5.6 sol",
-        "OpenAI",
-        "openai safety"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -1195,7 +1179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 214,
       "user": "vybenetwork"
     },
     {
@@ -1255,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 990,
       "user": "vinhhien112"
     },
     {
@@ -1270,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1285,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 454,
       "user": "yetone"
     },
     {
@@ -1300,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 323,
       "user": "JexTradesLab"
     },
     {
@@ -1315,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "opencoredev"
     },
     {
@@ -1330,8 +1314,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "change-42-yhmm"
+    },
+    {
+      "title": "How to implement partial function in JavaScript - three-way sum partial application",
+      "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
+      "published_at": "2026-07-15T12:45:23.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "partial-application"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "qxzsilver"
     },
     {
       "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
@@ -1449,35 +1446,32 @@
       "user": "aaron"
     },
     {
-      "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
-      "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
-      "published_at": "2026-07-14T01:38:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Why is my rectangle not showing on an HTML5 canvas over an image?",
+      "url": "https://stackoverflow.com/questions/79980231/why-is-my-rectangle-not-showing-on-an-html5-canvas-over-an-image",
+      "published_at": "2026-07-13T06:50:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "google-chrome",
-        "google-chrome-devtools",
-        "bookmarklet"
+        "html"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AmbroseChapel"
+      "user": "user32932767"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
+      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
+      "published_at": "2026-07-15T12:55:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "draggable",
-        "droppable"
+        "python",
+        "google-cloud-platform",
+        "bucket",
+        "hetzner"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stonypaul"
+      "user": "Ayush"
     },
     {
       "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
@@ -1499,7 +1493,7 @@
       "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
       "url": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
       "published_at": "2026-07-15T12:00:00.000Z",
-      "description": "An old Oscar Meyer factory in Wisconsin will become America's latest fusion power research and development hub.",
+      "description": "An old Oscar Mayer factory in Wisconsin will become America's latest fusion power research and development hub.",
       "tags": [
         "Climate",
         "fusion power",
@@ -1828,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1215,
       "user": "MDX-Tom"
     },
     {
@@ -1843,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 990,
       "user": "vinhhien112"
     },
     {
@@ -1858,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 947,
       "user": "littledivy"
     },
     {
@@ -1873,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 764,
       "user": "AlephAITech"
     },
     {
@@ -1888,14 +1882,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 678,
       "user": "Kappaemme-git"
+    },
+    {
+      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
+      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
+      "published_at": "2026-07-15T12:55:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "bucket",
+        "hetzner"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayush"
     },
     {
       "title": "How to make my voxel rasteriser run faster?",
       "url": "https://stackoverflow.com/questions/79980969/how-to-make-my-voxel-rasteriser-run-faster",
       "published_at": "2026-07-15T11:35:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "graphics",
@@ -1939,6 +1948,20 @@
       "user": "Furkan &#214;ztekin"
     },
     {
+      "title": "How do I clear Warning Message When Using SHM C to Python",
+      "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
+      "published_at": "2026-07-15T06:15:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "c",
+        "shared-memory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tomdean1939"
+    },
+    {
       "title": "Passed timeout not overriding default timeout in GET/POST request",
       "url": "https://stackoverflow.com/questions/79980856/passed-timeout-not-overriding-default-timeout-in-get-post-request",
       "published_at": "2026-07-15T05:08:40.000Z",
@@ -1966,20 +1989,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KimKim"
-    },
-    {
-      "title": "How do I clear Warning Message When Using SHM C to Python",
-      "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
-      "published_at": "2026-07-15T06:15:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "c",
-        "shared-memory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tomdean1939"
     },
     {
       "title": "How can I prevent users from enrolling with a face shown over a video call in a Flutter + Python face recognition system?",
@@ -2024,20 +2033,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32938535"
-    },
-    {
-      "title": "Catch KeyboardInterrupt but not asyncio.CancelledError",
-      "url": "https://stackoverflow.com/questions/79980782/catch-keyboardinterrupt-but-not-asyncio-cancellederror",
-      "published_at": "2026-07-14T20:13:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "exception",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Филя Усков"
     },
     {
       "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
@@ -2293,7 +2288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "berkayyytech"
     },
     {
@@ -2400,20 +2395,17 @@
       "user": "aaron"
     },
     {
-      "title": "Dynamically created divs not draggable",
-      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
-      "published_at": "2026-07-13T13:37:16.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "title": "Why is my rectangle not showing on an HTML5 canvas over an image?",
+      "url": "https://stackoverflow.com/questions/79980231/why-is-my-rectangle-not-showing-on-an-html5-canvas-over-an-image",
+      "published_at": "2026-07-13T06:50:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "html",
-        "jquery",
-        "draggable",
-        "droppable"
+        "html"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stonypaul"
+      "user": "user32932767"
     },
     {
       "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
@@ -2752,18 +2744,19 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "published_at": "2026-07-14T22:07:42.000Z",
-      "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
+      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
+      "published_at": "2026-07-15T12:55:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
-        "AI",
-        "Apple",
-        "OpenAI"
+        "python",
+        "google-cloud-platform",
+        "bucket",
+        "hetzner"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "source": "StackOverflow",
+      "user": "Ayush"
     }
   ],
   "Database": [
@@ -2955,19 +2948,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cadey"
-    },
-    {
-      "title": "The Memory Heist",
-      "url": "https://ayush.digital/blog/the-memory-heist",
-      "published_at": "2026-07-14T19:11:45.046-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "videah"
     }
   ],
   "Tools": [
@@ -3169,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 214,
       "user": "vybenetwork"
     },
     {
@@ -3229,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1215,
       "user": "MDX-Tom"
     },
     {
@@ -3244,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 990,
       "user": "vinhhien112"
     },
     {
@@ -3259,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 947,
       "user": "littledivy"
     },
     {
@@ -3274,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 764,
       "user": "AlephAITech"
     },
     {
@@ -3289,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 678,
       "user": "Kappaemme-git"
     },
     {
@@ -3304,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 643,
       "user": "cosmtrek"
     },
     {
@@ -3319,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "GreyGunG"
     },
     {
@@ -3349,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "pax-beehive"
     },
     {
@@ -3364,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "berkayyytech"
     },
     {
@@ -3379,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3394,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 454,
       "user": "yetone"
     },
     {
@@ -3409,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 323,
       "user": "JexTradesLab"
     },
     {
@@ -3424,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "opencoredev"
     },
     {
@@ -3439,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285651948?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "change-42-yhmm"
     },
     {
@@ -3454,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 383,
       "user": "CluvexStudio"
     },
     {
@@ -3484,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "AyagamiDev"
     },
     {
@@ -3514,23 +3494,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "RongleCat"
-    },
-    {
-      "title": "How to remove contextmenu event without using getEventListeners() in bookmarklet?",
-      "url": "https://stackoverflow.com/questions/79980578/how-to-remove-contextmenu-event-without-using-geteventlisteners-in-bookmarklet",
-      "published_at": "2026-07-14T01:38:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "google-chrome-devtools",
-        "bookmarklet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AmbroseChapel"
     },
     {
       "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
@@ -3563,6 +3528,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BBBB"
+    },
+    {
+      "title": "Reelful&#8217;s AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "published_at": "2026-07-15T13:00:00.000Z",
+      "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Startups",
+        "reelful"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
