@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-15 10:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-15 12:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -123,7 +123,7 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 | 19 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
 | 20 | [A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe) | Dev.to |
 
-<sub>Last fetched: Wed, 15 Jul 2026 10:33:15 CAT</sub>
+<sub>Last fetched: Wed, 15 Jul 2026 12:29:02 CAT</sub>
 
 
 ---
@@ -132,36 +132,36 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — What are hooks and why were they introduced?**
+**1. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**2. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> try/catch, .catch(), error middleware
 
 </details>
 
-**3. `Python` — Explain GIL and its implications for multithreading**
+**3. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -175,7 +175,7 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 72 | 39.1% | `████████████████████` |
-| **Tools** | 44 | 23.9% | `████████████░░░░░░░░` |
+| **Tools** | 43 | 23.4% | `████████████░░░░░░░░` |
 | **JavaScript** | 39 | 21.2% | `███████████░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
 | **DevOps** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
@@ -204,14 +204,14 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.4%
-JavaScript      ████████████████████████████ 24.5%
-Python          ████████████████████████ 20.8%
-Java            ███████████████████ 17.0%
-Rust            █████████ 7.5%
-CSharp          █ 1.3%
+Go              ██████████████████████████████ 26.6%
+JavaScript      ████████████████████████████ 24.7%
+Python          ████████████████████████ 20.9%
+Java            ███████████████████ 17.1%
+Rust            █████████ 7.6%
 Swift           █ 1.3%
 Kotlin          █ 1.3%
+CSharp          █ 0.6%
 
 ```
 
@@ -222,9 +222,9 @@ pie title Programming Languages Distribution
     "Python" : 33
     "Java" : 27
     "Rust" : 12
-    "CSharp" : 2
     "Swift" : 2
     "Kotlin" : 2
+    "CSharp" : 1
 ```
 
 
@@ -282,6 +282,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 15 Jul 2026 08:33:15 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 15 Jul 2026 10:29:02 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
