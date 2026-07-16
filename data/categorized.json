@@ -136,21 +136,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
-      "url": "https://dev.to/gde/stop-your-llms-from-forgetting-part-2-how-a-graph-anchor-pyramid-cures-ais-relational-blindspots-4m33",
-      "published_at": "2026-07-15T03:22:14Z",
-      "description": "Have you ever had a brilliant solution get completely crushed by a single comment on a technical blog...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "llm",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6slbtjo06iji52xyb5mi.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -194,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
       "user": "Don Johnson"
+    },
+    {
+      "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
+      "url": "https://dev.to/gde/stop-your-llms-from-forgetting-part-2-how-a-graph-anchor-pyramid-cures-ais-relational-blindspots-4m33",
+      "published_at": "2026-07-15T03:22:14Z",
+      "description": "Have you ever had a brilliant solution get completely crushed by a single comment on a technical blog...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6slbtjo06iji52xyb5mi.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -419,21 +419,6 @@
       "user": "bredmond1019"
     },
     {
-      "title": "I Am Fired Up Again",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
-      "published_at": "2026-06-23T13:29:11Z",
-      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
-      "tags": [
-        "career",
-        "motivation",
-        "productivity",
-        "life"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -590,6 +575,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "published_at": "2026-07-16T06:17:00Z",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "tandpfun"
+    },
+    {
       "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
       "url": "https://github.com/yeet-src/sigwire",
       "published_at": "2026-07-13T19:26:32Z",
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1465,
+      "stars": 1519,
       "user": "MDX-Tom"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 928,
       "user": "AlephAITech"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 699,
       "user": "pengchujin"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "ywddd"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 509,
       "user": "yetone"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 423,
       "user": "MatinSenPai"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "opencoredev"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 7032,
+      "stars": 8245,
       "user": "xai-org"
     },
     {
@@ -750,6 +750,20 @@
       "user": "adamcstephens"
     },
     {
+      "title": "The Long Tail of Work Left Until ActivityPub Has E2EE",
+      "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
+      "published_at": "2026-07-15T20:13:20.807-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cryptography",
+        "distributed",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "PuercoPop"
+    },
+    {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
       "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
       "published_at": "2026-07-14T17:21:57.000Z",
@@ -768,7 +782,7 @@
       "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
       "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
       "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "python-3.x",
@@ -777,6 +791,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Carl Witthoft"
+    },
+    {
+      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
+      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
+      "published_at": "2026-07-15T06:43:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "tensorflow",
+        "flask",
+        "keras",
+        "conv-neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KimKim"
     },
     {
       "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
@@ -1161,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 391,
       "user": "KubeezMedia"
     },
     {
@@ -1176,8 +1206,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "Jane-xiaoer"
+    },
+    {
+      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "published_at": "2026-07-16T06:17:00Z",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "tandpfun"
     },
     {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
@@ -1210,19 +1255,19 @@
       "user": "yeet-src"
     },
     {
-      "title": "blitzdotdev/blitzos - BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-      "url": "https://github.com/blitzdotdev/blitzos",
-      "published_at": "2026-07-13T23:44:04Z",
-      "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
+      "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "url": "https://github.com/pixel-point/aval",
+      "published_at": "2026-07-13T07:42:51Z",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "tags": [
-        "javascript",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 113,
-      "user": "blitzdotdev"
+      "stars": 814,
+      "user": "pixel-point"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -1240,21 +1285,6 @@
       "user": "mereyabdenbekuly-ctrl"
     },
     {
-      "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "url": "https://github.com/pixel-point/aval",
-      "published_at": "2026-07-13T07:42:51Z",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
-      "source": "GitHub",
-      "stars": 751,
-      "user": "pixel-point"
-    },
-    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -1266,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 509,
       "user": "yetone"
     },
     {
@@ -1281,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 423,
       "user": "MatinSenPai"
     },
     {
@@ -1296,8 +1326,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "opencoredev"
+    },
+    {
+      "title": "What features and technology stack would you recommend for building a Smart Campus Management System as a beginner?",
+      "url": "https://stackoverflow.com/questions/79981224/what-features-and-technology-stack-would-you-recommend-for-building-a-smart-camp",
+      "published_at": "2026-07-16T09:03:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "javascript",
+        "mysql",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ashish Saha"
     },
     {
       "title": "Audio blobs and objectURL: is there a create/load delay in Firefox?",
@@ -1330,28 +1376,13 @@
       "title": "How can I set an object's property value depending on a condition using if statements?",
       "url": "https://stackoverflow.com/questions/79981087/how-can-i-set-an-objects-property-value-depending-on-a-condition-using-if-state",
       "published_at": "2026-07-15T18:51:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AdjoinQuinoa68"
-    },
-    {
-      "title": "How do browser-based website builders like Framer or Webflow communicate with a cross-origin iframe in real time?",
-      "url": "https://stackoverflow.com/questions/79981124/how-do-browser-based-website-builders-like-framer-or-webflow-communicate-with-a",
-      "published_at": "2026-07-15T21:32:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "advice",
-        "javascript",
-        "iframe",
-        "postmessage"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sadhin"
     },
     {
       "title": "How to implement partial function in JavaScript - three-way sum partial application",
@@ -1365,6 +1396,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qxzsilver"
+    },
+    {
+      "title": "Add controlling properties to make drag and drop experience smoother",
+      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
+      "published_at": "2026-07-14T19:35:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
     },
     {
       "title": "setInterval always logs the initial React state even though the component re-renders",
@@ -1407,21 +1453,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Add controlling properties to make drag and drop experience smoother",
-      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
-      "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "jquery",
-        "draggable",
-        "droppable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -1534,21 +1565,6 @@
   ],
   "Python": [
     {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
-      "published_at": "2026-07-15T18:56:09Z",
-      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
-      "tags": [
-        "bugsmash",
-        "python",
-        "go",
-        "debugging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
       "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
       "published_at": "2026-07-15T18:56:45Z",
@@ -1560,6 +1576,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
+      "published_at": "2026-07-15T18:56:09Z",
+      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "tags": [
+        "bugsmash",
+        "python",
+        "go",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1800,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1465,
+      "stars": 1519,
       "user": "MDX-Tom"
     },
     {
@@ -1815,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1060,
       "user": "littledivy"
     },
     {
@@ -1830,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 928,
       "user": "AlephAITech"
     },
     {
@@ -1845,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 726,
       "user": "Kappaemme-git"
     },
     {
@@ -1860,8 +1891,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 699,
       "user": "pengchujin"
+    },
+    {
+      "title": "The term 'Get-FileHash' is not recognized as the name of a cmdlet, function, script file, or operable program",
+      "url": "https://stackoverflow.com/questions/79981200/the-term-get-filehash-is-not-recognized-as-the-name-of-a-cmdlet-function-scr",
+      "published_at": "2026-07-16T07:11:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Srinivas Iyer"
     },
     {
       "title": "How do I allow my program to edit its configuration files in /usr/local/etc?",
@@ -1878,10 +1921,24 @@
       "user": "ThatAviationGuy"
     },
     {
+      "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
+      "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
+      "published_at": "2026-07-15T14:56:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "gimp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Carl Witthoft"
+    },
+    {
       "title": "FastAPI event loop blocked by Scikit-Learn Joblib thread-pool exhaustion during concurrent async inference",
       "url": "https://stackoverflow.com/questions/79981101/fastapi-event-loop-blocked-by-scikit-learn-joblib-thread-pool-exhaustion-during",
       "published_at": "2026-07-15T19:47:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "scikit-learn",
@@ -1891,6 +1948,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Masum Abbas"
+    },
+    {
+      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
+      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
+      "published_at": "2026-07-15T06:43:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "tensorflow",
+        "flask",
+        "keras",
+        "conv-neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KimKim"
     },
     {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
@@ -1966,49 +2039,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lino Asmolo Jr"
-    },
-    {
-      "title": "How to make my voxel rasteriser run faster?",
-      "url": "https://stackoverflow.com/questions/79980969/how-to-make-my-voxel-rasteriser-run-faster",
-      "published_at": "2026-07-15T11:35:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "graphics",
-        "python-turtle",
-        "rasterizing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "auzifriend"
-    },
-    {
-      "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
-      "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
-      "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "gimp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Carl Witthoft"
-    },
-    {
-      "title": "How do I clear Warning Message When Using SHM C to Python",
-      "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
-      "published_at": "2026-07-15T06:15:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "c",
-        "shared-memory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tomdean1939"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2265,7 +2295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "berkayyytech"
     },
     {
@@ -2615,21 +2645,6 @@
       "user": "xbill"
     },
     {
-      "title": "blitzdotdev/blitzos - BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-      "url": "https://github.com/blitzdotdev/blitzos",
-      "published_at": "2026-07-13T23:44:04Z",
-      "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "blitzdotdev"
-    },
-    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -2697,6 +2712,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "alexpls"
+    },
+    {
+      "title": "What features and technology stack would you recommend for building a Smart Campus Management System as a beginner?",
+      "url": "https://stackoverflow.com/questions/79981224/what-features-and-technology-stack-would-you-recommend-for-building-a-smart-camp",
+      "published_at": "2026-07-16T09:03:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "javascript",
+        "mysql",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ashish Saha"
     },
     {
       "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
@@ -3042,21 +3073,6 @@
       "user": "Inhere"
     },
     {
-      "title": "I Am Fired Up Again",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
-      "published_at": "2026-06-23T13:29:11Z",
-      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
-      "tags": [
-        "career",
-        "motivation",
-        "productivity",
-        "life"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3104,7 +3120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 391,
       "user": "KubeezMedia"
     },
     {
@@ -3119,8 +3135,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "Jane-xiaoer"
+    },
+    {
+      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "published_at": "2026-07-16T06:17:00Z",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "tandpfun"
     },
     {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
@@ -3153,21 +3184,6 @@
       "user": "yeet-src"
     },
     {
-      "title": "blitzdotdev/blitzos - BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-      "url": "https://github.com/blitzdotdev/blitzos",
-      "published_at": "2026-07-13T23:44:04Z",
-      "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "blitzdotdev"
-    },
-    {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "published_at": "2026-07-11T09:44:24Z",
@@ -3179,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1465,
+      "stars": 1519,
       "user": "MDX-Tom"
     },
     {
@@ -3194,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1060,
       "user": "littledivy"
     },
     {
@@ -3209,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 928,
       "user": "AlephAITech"
     },
     {
@@ -3224,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 726,
       "user": "Kappaemme-git"
     },
     {
@@ -3239,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 699,
       "user": "pengchujin"
     },
     {
@@ -3254,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 244,
       "user": "vshulcz"
     },
     {
@@ -3284,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "berkayyytech"
     },
     {
@@ -3299,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "ywddd"
     },
     {
@@ -3314,8 +3330,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212332204?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "AminMGMT"
+    },
+    {
+      "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "url": "https://github.com/pixel-point/aval",
+      "published_at": "2026-07-13T07:42:51Z",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
+      "source": "GitHub",
+      "stars": 814,
+      "user": "pixel-point"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3333,21 +3364,6 @@
       "user": "mereyabdenbekuly-ctrl"
     },
     {
-      "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "url": "https://github.com/pixel-point/aval",
-      "published_at": "2026-07-13T07:42:51Z",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
-      "source": "GitHub",
-      "stars": 751,
-      "user": "pixel-point"
-    },
-    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -3359,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 509,
       "user": "yetone"
     },
     {
@@ -3374,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 423,
       "user": "MatinSenPai"
     },
     {
@@ -3389,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "opencoredev"
     },
     {
@@ -3404,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 7032,
+      "stars": 8245,
       "user": "xai-org"
     },
     {
@@ -3419,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 628,
       "user": "CluvexStudio"
     },
     {
@@ -3449,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "RongleCat"
     },
     {
@@ -3478,6 +3494,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "adamcstephens"
+    },
+    {
+      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
+      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
+      "published_at": "2026-07-15T06:43:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "tensorflow",
+        "flask",
+        "keras",
+        "conv-neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KimKim"
     },
     {
       "title": "How I Used Harness Engineering to Make Our Company AI-Native",
