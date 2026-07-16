@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 577,
       "user": "tandpfun"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 228,
       "user": "Blueturboguy07"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1659,
       "user": "MDX-Tom"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 983,
       "user": "AlephAITech"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 714,
       "user": "pengchujin"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 551,
       "user": "yetone"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 474,
       "user": "MatinSenPai"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "opencoredev"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11557,
+      "stars": 11712,
       "user": "xai-org"
     },
     {
@@ -821,13 +821,14 @@
       "user": "hongminhee"
     },
     {
-      "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
-      "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
+      "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
+      "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
       "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "iframe"
+        "iframe",
+        "postmessage"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -863,12 +864,27 @@
       "user": "Subramanian"
     },
     {
-      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "published_at": "2026-07-16T21:22:31.000Z",
+      "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+      "tags": [
+        "Security",
+        "TC",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her &#8216;Mafia&#8217; skills)",
       "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
       "published_at": "2026-07-16T20:07:14.000Z",
       "description": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
       "tags": [
-        "TC",
         "Venture",
         "Founders Fund"
       ],
@@ -967,21 +983,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "published_at": "2026-07-16T16:00:00.000Z",
-      "description": "Google said users can soon access their notebooks through AI Mode in Search.",
-      "tags": [
-        "Apps",
-        "gemini",
-        "Google",
-        "notebooklm"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1227,21 +1228,6 @@
       "user": "velmu"
     },
     {
-      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
-      "published_at": "2026-07-13T23:32:54Z",
-      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
-      "source": "GitHub",
-      "stars": 564,
-      "user": "KubeezMedia"
-    },
-    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -1253,8 +1239,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 577,
       "user": "tandpfun"
+    },
+    {
+      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "published_at": "2026-07-13T23:32:54Z",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
+      "source": "GitHub",
+      "stars": 568,
+      "user": "KubeezMedia"
     },
     {
       "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
@@ -1283,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 228,
       "user": "Blueturboguy07"
     },
     {
@@ -1298,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 149,
       "user": "ucsandman"
     },
     {
@@ -1313,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1020,
       "user": "pixel-point"
     },
     {
@@ -1343,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 551,
       "user": "yetone"
     },
     {
@@ -1358,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 474,
       "user": "MatinSenPai"
     },
     {
@@ -1373,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "opencoredev"
     },
     {
@@ -1408,7 +1409,7 @@
       "title": "Escaping a PCRE pattern manually",
       "url": "https://stackoverflow.com/questions/79981372/escaping-a-pcre-pattern-manually",
       "published_at": "2026-07-16T17:05:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "regex",
@@ -1419,13 +1420,14 @@
       "user": "InSync"
     },
     {
-      "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
-      "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
+      "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
+      "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
       "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "iframe"
+        "iframe",
+        "postmessage"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1839,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1659,
       "user": "MDX-Tom"
     },
     {
@@ -1854,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1099,
       "user": "littledivy"
     },
     {
@@ -1869,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 983,
       "user": "AlephAITech"
     },
     {
@@ -1884,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 758,
       "user": "Kappaemme-git"
     },
     {
@@ -1899,14 +1901,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 714,
       "user": "pengchujin"
+    },
+    {
+      "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
+      "url": "https://stackoverflow.com/questions/79981415/can-i-mix-raw-text-queries-and-precomputed-vectors-when-using-a-milvus-text-embe",
+      "published_at": "2026-07-16T21:08:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "vector",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chloe Williams"
     },
     {
       "title": "How can i solve this pip wfuzz package instalation error?",
       "url": "https://stackoverflow.com/questions/79981379/how-can-i-solve-this-pip-wfuzz-package-instalation-error",
       "published_at": "2026-07-16T18:06:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "linux",
@@ -1921,10 +1937,9 @@
       "title": "How to declare generic PySide6 signal?",
       "url": "https://stackoverflow.com/questions/79981380/how-to-declare-generic-pyside6-signal",
       "published_at": "2026-07-16T18:12:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "python-3.x",
         "python-typing",
         "pyside6"
       ],
@@ -2029,20 +2044,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "khabib73"
-    },
-    {
-      "title": "How do I allow my program to edit its configuration files in /usr/local/etc?",
-      "url": "https://stackoverflow.com/questions/79981149/how-do-i-allow-my-program-to-edit-its-configuration-files-in-usr-local-etc",
-      "published_at": "2026-07-16T00:08:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "linux",
-        "raspberry-pi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ThatAviationGuy"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2859,6 +2860,22 @@
       "user": "2352500"
     },
     {
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "published_at": "2026-07-16T21:22:31.000Z",
+      "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+      "tags": [
+        "Security",
+        "TC",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
       "published_at": "2026-07-15T23:48:53.000Z",
@@ -3016,21 +3033,6 @@
       "user": "pabs3"
     },
     {
-      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
-      "published_at": "2026-07-13T23:32:54Z",
-      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
-      "source": "GitHub",
-      "stars": 564,
-      "user": "KubeezMedia"
-    },
-    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -3042,8 +3044,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 577,
       "user": "tandpfun"
+    },
+    {
+      "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "published_at": "2026-07-13T23:32:54Z",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
+      "source": "GitHub",
+      "stars": 568,
+      "user": "KubeezMedia"
     },
     {
       "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
@@ -3072,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 228,
       "user": "Blueturboguy07"
     },
     {
@@ -3087,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 149,
       "user": "ucsandman"
     },
     {
@@ -3102,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1659,
       "user": "MDX-Tom"
     },
     {
@@ -3117,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1099,
       "user": "littledivy"
     },
     {
@@ -3132,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 983,
       "user": "AlephAITech"
     },
     {
@@ -3147,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 758,
       "user": "Kappaemme-git"
     },
     {
@@ -3162,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 714,
       "user": "pengchujin"
     },
     {
@@ -3177,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "vshulcz"
     },
     {
@@ -3207,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "shibadogcap"
     },
     {
@@ -3252,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1020,
       "user": "pixel-point"
     },
     {
@@ -3282,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 551,
       "user": "yetone"
     },
     {
@@ -3297,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 474,
       "user": "MatinSenPai"
     },
     {
@@ -3312,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "opencoredev"
     },
     {
@@ -3327,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11557,
+      "stars": 11712,
       "user": "xai-org"
     },
     {
@@ -3342,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 900,
       "user": "CluvexStudio"
     },
     {
