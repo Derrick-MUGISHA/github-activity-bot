@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
+    },
+    {
       "title": "Claude might be saturating your machine",
       "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07",
       "published_at": "2026-07-16T17:53:53Z",
@@ -91,21 +106,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
-      "published_at": "2026-07-14T16:38:47Z",
-      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "tags": [
-        "rust",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
-      "source": "Dev.to",
-      "user": "Zach"
-    },
-    {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
       "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
       "published_at": "2026-07-14T17:54:10Z",
@@ -166,19 +166,19 @@
       "user": "xbill"
     },
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+      "published_at": "2026-07-14T16:38:47Z",
+      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
       "tags": [
-        "ai",
         "rust",
-        "cli",
-        "security"
+        "ai",
+        "webdev",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
-      "user": "Don Johnson"
+      "user": "Zach"
     },
     {
       "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 559,
       "user": "tandpfun"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 205,
       "user": "Blueturboguy07"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1657,
       "user": "MDX-Tom"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 713,
       "user": "pengchujin"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "yetone"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 469,
       "user": "MatinSenPai"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "opencoredev"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11439,
+      "stars": 11557,
       "user": "xai-org"
     },
     {
@@ -809,10 +809,22 @@
       "user": "kghose"
     },
     {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "published_at": "2026-07-16T08:27:20.761-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hongminhee"
+    },
+    {
       "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
       "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "iframe"
@@ -851,6 +863,20 @@
       "user": "Subramanian"
     },
     {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "published_at": "2026-07-16T20:07:14.000Z",
+      "description": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+      "tags": [
+        "TC",
+        "Venture",
+        "Founders Fund"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Google Vids now lets you star in your own AI videos",
       "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "published_at": "2026-07-16T18:32:54.000Z",
@@ -859,6 +885,7 @@
         "AI",
         "Apps",
         "Google",
+        "Google Vids",
         "Video"
       ],
       "cover_image": null,
@@ -866,7 +893,7 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "published_at": "2026-07-16T18:22:06.000Z",
       "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
@@ -955,21 +982,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "published_at": "2026-07-16T15:38:55.000Z",
-      "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "DoorDash",
-        "eCommerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1078,6 +1090,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
+      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
+      "published_at": "2026-07-15T04:30:47Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "productivity",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
+      "source": "Dev.to",
+      "user": "Tahira Muhammad"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1211,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 564,
       "user": "KubeezMedia"
     },
     {
@@ -1226,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 559,
       "user": "tandpfun"
     },
     {
@@ -1256,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 205,
       "user": "Blueturboguy07"
     },
     {
@@ -1271,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "ucsandman"
     },
     {
@@ -1286,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1016,
       "user": "pixel-point"
     },
     {
@@ -1301,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1316,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "yetone"
     },
     {
@@ -1331,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 469,
       "user": "MatinSenPai"
     },
     {
@@ -1346,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "opencoredev"
     },
     {
@@ -1361,20 +1388,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ben Roriz-Dasilva"
-    },
-    {
-      "title": "Escaping a PCRE pattern manually",
-      "url": "https://stackoverflow.com/questions/79981372/escaping-a-pcre-pattern-manually",
-      "published_at": "2026-07-16T17:05:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "regex",
-        "pcre"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "InSync"
     },
     {
       "title": "How can I make my page scroll past three elements?",
@@ -1392,10 +1405,24 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
+      "title": "Escaping a PCRE pattern manually",
+      "url": "https://stackoverflow.com/questions/79981372/escaping-a-pcre-pattern-manually",
+      "published_at": "2026-07-16T17:05:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "regex",
+        "pcre"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "InSync"
+    },
+    {
       "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
       "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "iframe"
@@ -1403,20 +1430,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sadhin"
-    },
-    {
-      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
-      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
-      "published_at": "2026-07-16T11:56:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "database",
-        "mongodb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harshit"
     },
     {
       "title": "Audio blobs and objectURL: is there a create/load delay in Firefox?",
@@ -1431,6 +1444,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
+      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
+      "published_at": "2026-07-16T11:56:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "database",
+        "mongodb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harshit"
     },
     {
       "title": "Why is toggle() not working on the images I want to hide/show?",
@@ -1812,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1657,
       "user": "MDX-Tom"
     },
     {
@@ -1827,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1096,
       "user": "littledivy"
     },
     {
@@ -1872,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 713,
       "user": "pengchujin"
     },
     {
@@ -1897,6 +1924,7 @@
       "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
+        "python-3.x",
         "python-typing",
         "pyside6"
       ],
@@ -1908,7 +1936,7 @@
       "title": "PyTorch/Captum: RuntimeError: gather(): Expected dtype int32/int64 for index",
       "url": "https://stackoverflow.com/questions/79981390/pytorch-captum-runtimeerror-gather-expected-dtype-int32-int64-for-index",
       "published_at": "2026-07-16T18:57:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "machine-learning",
@@ -2254,7 +2282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "berkayyytech"
     }
   ],
@@ -2343,7 +2371,7 @@
   ],
   "Mobile": [
     {
-      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "published_at": "2026-07-16T18:22:06.000Z",
       "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
@@ -2372,6 +2400,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
+    },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
@@ -2684,21 +2727,6 @@
   ],
   "Security": [
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2877,6 +2905,21 @@
       "user": "Klaudia Grzondziel"
     },
     {
+      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
+      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
+      "published_at": "2026-07-15T04:30:47Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "productivity",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
+      "source": "Dev.to",
+      "user": "Tahira Muhammad"
+    },
+    {
       "title": "Your Career Matters. So Does the Person Building It.",
       "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
       "published_at": "2026-07-06T15:50:31Z",
@@ -2890,21 +2933,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -2999,7 +3027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 564,
       "user": "KubeezMedia"
     },
     {
@@ -3014,7 +3042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 559,
       "user": "tandpfun"
     },
     {
@@ -3044,7 +3072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 205,
       "user": "Blueturboguy07"
     },
     {
@@ -3059,7 +3087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "ucsandman"
     },
     {
@@ -3074,7 +3102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1657,
       "user": "MDX-Tom"
     },
     {
@@ -3089,7 +3117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1096,
       "user": "littledivy"
     },
     {
@@ -3134,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 713,
       "user": "pengchujin"
     },
     {
@@ -3194,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "berkayyytech"
     },
     {
@@ -3224,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1016,
       "user": "pixel-point"
     },
     {
@@ -3239,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3254,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "yetone"
     },
     {
@@ -3269,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 469,
       "user": "MatinSenPai"
     },
     {
@@ -3284,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "opencoredev"
     },
     {
@@ -3299,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11439,
+      "stars": 11557,
       "user": "xai-org"
     },
     {
@@ -3314,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 886,
       "user": "CluvexStudio"
     },
     {
@@ -3371,22 +3399,8 @@
         "AI",
         "Apps",
         "Google",
+        "Google Vids",
         "Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "published_at": "2026-07-16T15:38:55.000Z",
-      "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "DoorDash",
-        "eCommerce"
       ],
       "cover_image": null,
       "source": "TechCrunch",

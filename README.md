@@ -21,12 +21,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-16 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-16 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png" width="200" alt="Did You Know TLDs Can Be Websites?" />
+      <br/>
+      <b>Did You Know TLDs Can Be Websites?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png" width="200" alt="My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs" />
@@ -45,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3q5ydqrjrfayog8lxagt.png" width="200" alt="26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI" />
@@ -54,8 +65,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png" width="200" alt="Smash Story: The Demo Script That Out-Debugged My Test Suite" />
@@ -74,15 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp" width="200" alt="DiffusionGemma: The Developer Guide" />
-      <br/>
-      <b>DiffusionGemma: The Developer Guide</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -92,16 +92,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) | Dev.to |
-| 2 | [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07) | Dev.to |
-| 3 | [26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd) | Dev.to |
-| 4 | [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k) | Dev.to |
-| 5 | [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) | Dev.to |
-| 6 | [DiffusionGemma: The Developer Guide](https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l) | Dev.to |
-| 7 | [5 Trends That Defined AI Engineering at World’s Fair 2026](https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6) | Dev.to |
-| 8 | [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al) | Dev.to |
-| 9 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
-| 10 | [How I made a Rust hot path 27x faster, and the AI fix I refused to merge](https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg) | Dev.to |
+| 1 | [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13) | Dev.to |
+| 2 | [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) | Dev.to |
+| 3 | [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07) | Dev.to |
+| 4 | [26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd) | Dev.to |
+| 5 | [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k) | Dev.to |
+| 6 | [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) | Dev.to |
+| 7 | [DiffusionGemma: The Developer Guide](https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l) | Dev.to |
+| 8 | [5 Trends That Defined AI Engineering at World’s Fair 2026](https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6) | Dev.to |
+| 9 | [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al) | Dev.to |
+| 10 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
 | 11 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
 | 12 | [Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster](https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m) | Dev.to |
 | 13 | [Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4) | Dev.to |
@@ -115,7 +115,7 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 | 19 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
 | 20 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
 
-<sub>Last fetched: Thu, 16 Jul 2026 21:21:46 CAT</sub>
+<sub>Last fetched: Thu, 16 Jul 2026 22:19:16 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — Explain the difference between state and props**
+**1. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Heap, stack, garbage collection
 
 </details>
 
-**2. `Database` — What is database normalization and denormalization?**
+**2. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-**3. `SystemDesign` — Design a distributed cache system**
+**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Execution timing, event loop phases
 
 </details>
 
@@ -166,13 +166,13 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 73 | 39.7% | `████████████████████` |
-| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 36 | 19.6% | `██████████░░░░░░░░░░` |
+| **AI** | 74 | 40.2% | `████████████████████` |
+| **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
+| **Tools** | 37 | 20.1% | `██████████░░░░░░░░░░` |
 | **Python** | 36 | 19.6% | `██████████░░░░░░░░░░` |
+| **Cloud** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -197,26 +197,26 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 ```
 Go              ██████████████████████████████ 28.9%
+JavaScript      ████████████████████████ 23.3%
 Python          ███████████████████████ 22.6%
-JavaScript      ███████████████████████ 22.6%
 Java            ██████████████████ 17.0%
-Rust            █████████ 8.8%
+Rust            █████████ 8.2%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 46
+    "JavaScript" : 37
     "Python" : 36
-    "JavaScript" : 36
     "Java" : 27
-    "Rust" : 14
+    "Rust" : 13
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-44-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 19:21:46 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 20:19:16 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
