@@ -31,6 +31,21 @@
       "user": "xbill"
     },
     {
+      "title": "DiffusionGemma: The Developer Guide",
+      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
+      "published_at": "2026-07-16T14:27:09Z",
+      "description": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
+      "tags": [
+        "gemma",
+        "google",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
+    },
+    {
       "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
       "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6",
       "published_at": "2026-07-14T23:21:21Z",
@@ -59,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "DiffusionGemma: The Developer Guide",
-      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
-      "published_at": "2026-07-16T14:27:09Z",
-      "description": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
-      "tags": [
-        "gemma",
-        "google",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
     },
     {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
@@ -149,21 +149,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
-      "published_at": "2026-07-14T09:57:26Z",
-      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
-      "tags": [
-        "ai",
-        "agents",
-        "adk",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "DiffusionGemma: 4x faster text generation",
@@ -616,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 451,
       "user": "tandpfun"
     },
     {
@@ -631,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "yeet-src"
     },
     {
@@ -646,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1613,
       "user": "MDX-Tom"
     },
     {
@@ -661,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 973,
       "user": "AlephAITech"
     },
     {
@@ -676,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 708,
       "user": "pengchujin"
     },
     {
@@ -691,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "ywddd"
     },
     {
@@ -706,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 541,
       "user": "yetone"
     },
     {
@@ -721,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 460,
       "user": "MatinSenPai"
     },
     {
@@ -736,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "opencoredev"
     },
     {
@@ -751,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 10448,
+      "stars": 10952,
       "user": "xai-org"
     },
     {
@@ -797,7 +782,7 @@
       "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
       "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "iframe"
@@ -805,6 +790,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sadhin"
+    },
+    {
+      "title": "Why does useEffect show an old external store value after React Activity is shown again?",
+      "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
+      "published_at": "2026-07-14T17:21:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "react-state-management"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Brierton"
+    },
+    {
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
     },
     {
       "title": "How to create prompt version in vertex ai prompt library using python",
@@ -850,6 +863,112 @@
       "user": "KimKim"
     },
     {
+      "title": "X cracks down on creators who steal content",
+      "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "published_at": "2026-07-16T16:40:36.000Z",
+      "description": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
+      "tags": [
+        "Social",
+        "Creators",
+        "social media",
+        "X"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "published_at": "2026-07-16T16:08:40.000Z",
+      "description": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "unicorn"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "published_at": "2026-07-16T16:00:00.000Z",
+      "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "ai mode"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "published_at": "2026-07-16T16:00:00.000Z",
+      "description": "Google said users can soon access their notebooks through AI Mode in Search.",
+      "tags": [
+        "Apps",
+        "Google",
+        "gemini",
+        "notebooklm"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "published_at": "2026-07-16T15:38:55.000Z",
+      "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "DoorDash",
+        "eCommerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+      "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
+      "published_at": "2026-07-16T15:37:47.000Z",
+      "description": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybercrime",
+        "cybersecurity",
+        "London Underground"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "published_at": "2026-07-16T15:31:09.000Z",
+      "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "Exclusive",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
       "published_at": "2026-07-16T15:02:00.000Z",
@@ -870,125 +989,15 @@
       "published_at": "2026-07-16T15:00:00.000Z",
       "description": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
       "tags": [
+        "Fundraising",
         "Startups",
         "Transportation",
-        "Fundraising",
         "Sheryl Sandberg",
         "Exclusive"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sean O'Kane"
-    },
-    {
-      "title": "Why AMI Labs’ Alexandre LeBrun won&#8217;t call his AI &#8216;AGI&#8217; or &#8216;superintelligence&#8217;",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "published_at": "2026-07-16T14:40:00.000Z",
-      "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Alexandre LeBrun",
-        "AMI Labs",
-        "superintelligence"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Moonshot&#8217;s upcoming Kimi 3 is expected to close the gap with Anthropic&#8217;s Opus 4.8",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "published_at": "2026-07-16T14:26:29.000Z",
-      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "China",
-        "In Brief",
-        "moonshot"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "published_at": "2026-07-16T13:17:59.000Z",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "tags": [
-        "AI",
-        "alibaba",
-        "Apple",
-        "Apple Intelligence",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Ultrahuman&#8217;s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "published_at": "2026-07-16T11:30:00.000Z",
-      "description": "Aina is going to pilot a new device in the coming weeks.",
-      "tags": [
-        "Apps",
-        "Startups",
-        "AI agents",
-        "dune"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
-      "published_at": "2026-07-16T11:00:00.000Z",
-      "description": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
-      "tags": [
-        "Apps",
-        "Social",
-        "meta ai",
-        "self harm"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-      "published_at": "2026-07-16T04:00:00.000Z",
-      "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
-      "tags": [
-        "Climate",
-        "Fundraising",
-        "Startups",
-        "recycling",
-        "lululemon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "published_at": "2026-07-16T04:00:00.000Z",
-      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "tags": [
-        "Startups",
-        "AI",
-        "Fundraising",
-        "energy",
-        "oil and gas"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1065,38 +1074,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Mohammed Fahd Abrah"
-    },
-    {
-      "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
-      "published_at": "2026-07-14T21:32:24.000Z",
-      "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
-      "tags": [
-        "AI",
-        "multi-agent",
-        "ollama",
-        "ai agents",
-        "#qwen"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
-      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
-      "published_at": "2026-07-14T20:27:08.000Z",
-      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
-      "tags": [
-        "Docker",
-        "Node.js",
-        "GitHub Actions",
-        "Devops",
-        "ci-cd"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "JavaScript": [
@@ -1262,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 527,
       "user": "KubeezMedia"
     },
     {
@@ -1277,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 451,
       "user": "tandpfun"
     },
     {
@@ -1307,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 139,
       "user": "ucsandman"
     },
     {
@@ -1322,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "yeet-src"
     },
     {
@@ -1337,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 968,
       "user": "pixel-point"
     },
     {
@@ -1352,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 819,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1367,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 541,
       "user": "yetone"
     },
     {
@@ -1382,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 460,
       "user": "MatinSenPai"
     },
     {
@@ -1397,14 +1374,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "opencoredev"
     },
     {
       "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
       "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "iframe"
@@ -1426,22 +1403,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harshit"
-    },
-    {
-      "title": "MCP server basic prototype build and using Javascript for learning",
-      "url": "https://stackoverflow.com/questions/79981233/mcp-server-basic-prototype-build-and-using-javascript-for-learning",
-      "published_at": "2026-07-16T09:25:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "advice",
-        "javascript",
-        "typescript",
-        "prototype",
-        "model-context-protocol"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alagu sundaram"
     },
     {
       "title": "Audio blobs and objectURL: is there a create/load delay in Firefox?",
@@ -1526,32 +1487,59 @@
       "user": "learning&#39;s_a_process"
     },
     {
-      "title": "setInterval always logs the initial React state even though the component re-renders",
-      "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
-      "published_at": "2026-07-15T15:59:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
-    },
-    {
-      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
-      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
-      "published_at": "2026-07-15T12:55:38.000Z",
+      "title": "Why does useEffect show an old external store value after React Activity is shown again?",
+      "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
+      "published_at": "2026-07-14T17:21:57.000Z",
       "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "python",
-        "google-cloud-platform",
-        "bucket",
-        "hetzner"
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "react-state-management"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ayush"
+      "user": "David Brierton"
+    },
+    {
+      "title": "How to queue microtask at tail end?",
+      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
+      "published_at": "2026-07-14T10:57:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "event-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Callanan"
+    },
+    {
+      "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
+      "url": "https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/",
+      "published_at": "2026-07-16T11:35:18.000Z",
+      "description": "Are you ready to unlock the true rendering power of your computer and create breathtaking visuals? We just published a new course on the freeCodeCamp.org YouTube channel that will teach you the fundam",
+      "tags": [
+        "p5.js",
+        "JavaScript",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "Master Full-Stack Mobile Development with React Native",
+      "url": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
+      "published_at": "2026-07-16T11:32:57.000Z",
+      "description": "Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build",
+      "tags": [
+        "React Native",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
@@ -1578,38 +1566,6 @@
         "PostgreSQL",
         "Tutorial",
         "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
-      "published_at": "2026-07-14T21:32:24.000Z",
-      "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
-      "tags": [
-        "AI",
-        "multi-agent",
-        "ollama",
-        "ai agents",
-        "#qwen"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
-      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
-      "published_at": "2026-07-14T20:27:08.000Z",
-      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
-      "tags": [
-        "Docker",
-        "Node.js",
-        "GitHub Actions",
-        "Devops",
-        "ci-cd"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -1884,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1613,
       "user": "MDX-Tom"
     },
     {
@@ -1899,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1083,
       "user": "littledivy"
     },
     {
@@ -1914,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 973,
       "user": "AlephAITech"
     },
     {
@@ -1929,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 748,
       "user": "Kappaemme-git"
     },
     {
@@ -1944,42 +1900,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 708,
       "user": "pengchujin"
-    },
-    {
-      "title": "Bring modern package management to Meson's native wrap ecosystem",
-      "url": "https://collider.ee/1.5.1/",
-      "published_at": "2026-07-16T03:29:26.763-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "c",
-        "c++",
-        "programming",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Mackou"
-    },
-    {
-      "title": "How do you link a specific .py script to an input field, label, and button in Tkinter/Python3?",
-      "url": "https://stackoverflow.com/questions/79981343/how-do-you-link-a-specific-py-script-to-an-input-field-label-and-button-in-tk",
-      "published_at": "2026-07-16T14:55:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jas"
     },
     {
       "title": "Can't install keyboard package because pip won't work",
       "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
       "published_at": "2026-07-16T14:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "ubuntu",
@@ -1989,6 +1917,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "King Of Noobs"
+    },
+    {
+      "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
+      "url": "https://stackoverflow.com/questions/79981356/why-do-c-and-fortran-ordered-numpy-arrays-show-the-same-l1-cache-miss-percentag",
+      "published_at": "2026-07-16T15:42:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "arrays",
+        "numpy",
+        "perf"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
+    },
+    {
+      "title": "How do you link a specific .py script to an input field, label, and button in Tkinter/Python3?",
+      "url": "https://stackoverflow.com/questions/79981343/how-do-you-link-a-specific-py-script-to-an-input-field-label-and-button-in-tk",
+      "published_at": "2026-07-16T14:55:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jas"
     },
     {
       "title": "How to create prompt version in vertex ai prompt library using python",
@@ -2089,19 +2045,17 @@
       "user": "Masum Abbas"
     },
     {
-      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
-      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
-      "published_at": "2026-07-15T12:55:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
+      "url": "https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/",
+      "published_at": "2026-07-16T11:39:24.000Z",
+      "description": "Have you been wanting to learn how to code but found it a bit too overwhelming or confusing? We just published a brand new course on the freeCodeCamp.org YouTube channel that is designed specifically",
       "tags": [
-        "python",
-        "google-cloud-platform",
-        "bucket",
-        "hetzner"
+        "Python",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayush"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2118,36 +2072,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
-      "published_at": "2026-07-14T21:32:24.000Z",
-      "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
-      "tags": [
-        "AI",
-        "multi-agent",
-        "ollama",
-        "ai agents",
-        "#qwen"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Analyze Insider Transactions with Python: A CEO Buying Case Study",
-      "url": "https://www.freecodecamp.org/news/how-to-analyze-insider-transactions-with-python-a-ceo-buying-case-study/",
-      "published_at": "2026-07-14T16:15:49.000Z",
-      "description": "When a CEO buys shares after their company’s stock has fallen hard, it's tempting to read the purchase as a vote of confidence. The person running the business knows more than the average investor, so",
-      "tags": [
-        "Python",
-        "#Stock market",
-        "trading,"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikhil Adithyan"
     }
   ],
   "DevOps": [
@@ -2343,24 +2267,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "berkayyytech"
-    },
-    {
-      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
-      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
-      "published_at": "2026-07-14T20:27:08.000Z",
-      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
-      "tags": [
-        "Docker",
-        "Node.js",
-        "GitHub Actions",
-        "Devops",
-        "ci-cd"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "WebDev": [
@@ -2435,19 +2343,17 @@
   ],
   "Mobile": [
     {
-      "title": "A Deep Dive into Gabeldorsche: The Bluetooth Stack Android Rebuilt on Purpose",
-      "url": "https://www.freecodecamp.org/news/a-deep-dive-into-gabeldorsche-the-bluetooth-stack-android-rebuilt-on-purpose/",
-      "published_at": "2026-07-14T16:16:36.000Z",
-      "description": "The Android Bluetooth stack spent about a decade being the reason your headphones disconnected during the good part of a song. Gabeldorsche is Google's attempt to fix that at the architectural level,",
+      "title": "Master Full-Stack Mobile Development with React Native",
+      "url": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
+      "published_at": "2026-07-16T11:32:57.000Z",
+      "description": "Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build",
       "tags": [
-        "bluetooth",
-        "Android",
-        "Gabeldorsche",
-        "architecture"
+        "React Native",
+        "youtube"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Nikheel Vishwas Savant"
+      "user": "Beau Carnes"
     }
   ],
   "Cloud": [
@@ -2703,21 +2609,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Subramanian"
-    },
-    {
-      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
-      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
-      "published_at": "2026-07-15T12:55:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "google-cloud-platform",
-        "bucket",
-        "hetzner"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayush"
     }
   ],
   "Database": [
@@ -2953,6 +2844,38 @@
       "user": "2352500"
     },
     {
+      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+      "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
+      "published_at": "2026-07-16T15:37:47.000Z",
+      "description": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybercrime",
+        "cybersecurity",
+        "London Underground"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Period tracker Stardust shares users&#8217; health data with analytics firm, says Mozilla research",
+      "url": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
+      "published_at": "2026-07-16T15:33:28.000Z",
+      "description": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
+      "tags": [
+        "Biotech & Health",
+        "Privacy",
+        "Security",
+        "cybersecurity",
+        "period trackers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
       "published_at": "2026-07-16T15:02:00.000Z",
@@ -3136,7 +3059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 527,
       "user": "KubeezMedia"
     },
     {
@@ -3151,7 +3074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 451,
       "user": "tandpfun"
     },
     {
@@ -3181,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 139,
       "user": "ucsandman"
     },
     {
@@ -3196,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "yeet-src"
     },
     {
@@ -3211,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1613,
       "user": "MDX-Tom"
     },
     {
@@ -3226,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1083,
       "user": "littledivy"
     },
     {
@@ -3241,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 973,
       "user": "AlephAITech"
     },
     {
@@ -3256,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 748,
       "user": "Kappaemme-git"
     },
     {
@@ -3271,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 708,
       "user": "pengchujin"
     },
     {
@@ -3286,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 285,
       "user": "vshulcz"
     },
     {
@@ -3316,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 103,
       "user": "shibadogcap"
     },
     {
@@ -3331,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "berkayyytech"
     },
     {
@@ -3346,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "ywddd"
     },
     {
@@ -3361,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 968,
       "user": "pixel-point"
     },
     {
@@ -3376,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 819,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3391,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 541,
       "user": "yetone"
     },
     {
@@ -3406,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 460,
       "user": "MatinSenPai"
     },
     {
@@ -3421,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "opencoredev"
     },
     {
@@ -3436,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 10448,
+      "stars": 10952,
       "user": "xai-org"
     },
     {
@@ -3451,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 811,
       "user": "CluvexStudio"
     },
     {
@@ -3466,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "AyagamiDev"
     },
     {
@@ -3481,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "RongleCat"
     },
     {
@@ -3516,6 +3439,21 @@
       "user": "KimKim"
     },
     {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "published_at": "2026-07-16T15:38:55.000Z",
+      "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "DoorDash",
+        "eCommerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "How I Used Harness Engineering to Make Our Company AI-Native",
       "url": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
       "published_at": "2026-07-15T15:34:41.000Z",
@@ -3530,22 +3468,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Tech With RJ"
-    },
-    {
-      "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
-      "url": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
-      "published_at": "2026-07-14T20:27:08.000Z",
-      "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
-      "tags": [
-        "Docker",
-        "Node.js",
-        "GitHub Actions",
-        "Devops",
-        "ci-cd"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ]
 }
