@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
+      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k",
+      "published_at": "2026-07-15T23:58:42Z",
+      "description": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug that mocks never could.",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "ai",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
       "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
       "published_at": "2026-07-15T18:56:45Z",
@@ -46,19 +61,19 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "title": "DiffusionGemma: The Developer Guide",
+      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
+      "published_at": "2026-07-16T14:27:09Z",
+      "description": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
       "tags": [
-        "devops",
-        "docker",
+        "gemma",
+        "google",
         "ai",
-        "antigravity"
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
       "source": "Dev.to",
-      "user": "Mario Ezquerro"
+      "user": "Gemini Team"
     },
     {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
@@ -74,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
       "user": "Zach"
+    },
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -586,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 401,
       "user": "tandpfun"
     },
     {
@@ -601,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "yeet-src"
     },
     {
@@ -616,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1596,
       "user": "MDX-Tom"
     },
     {
@@ -631,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 971,
       "user": "AlephAITech"
     },
     {
@@ -646,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "pengchujin"
     },
     {
@@ -676,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 536,
       "user": "yetone"
     },
     {
@@ -691,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 454,
       "user": "MatinSenPai"
     },
     {
@@ -706,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "opencoredev"
     },
     {
@@ -721,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 9553,
+      "stars": 10448,
       "user": "xai-org"
     },
     {
@@ -743,11 +773,38 @@
       "published_at": "2026-07-16T05:01:50.813-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "release"
+        "release",
+        "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hugoarnal"
+    },
+    {
+      "title": "What gdb frontend do you prefer (linux)",
+      "url": "https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux",
+      "published_at": "2026-07-16T08:12:52.708-05:00",
+      "description": "I found the basic gdb ui painful and gdb -tui confusing. I love dlv for golang debugging.\r\n\r\nBefore I drop back to printf debugging is there a frontend I should try?",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kghose"
+    },
+    {
+      "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
+      "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
+      "published_at": "2026-07-16T14:19:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "iframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sadhin"
     },
     {
       "title": "How to create prompt version in vertex ai prompt library using python",
@@ -791,6 +848,85 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KimKim"
+    },
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "published_at": "2026-07-16T15:02:00.000Z",
+      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "tags": [
+        "Security",
+        "AI",
+        "Build Mode",
+        "Build Mode Video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Maggie Nye"
+    },
+    {
+      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+      "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+      "published_at": "2026-07-16T15:00:00.000Z",
+      "description": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "Fundraising",
+        "Sheryl Sandberg",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Why AMI Labs’ Alexandre LeBrun won&#8217;t call his AI &#8216;AGI&#8217; or &#8216;superintelligence&#8217;",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "published_at": "2026-07-16T14:40:00.000Z",
+      "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Alexandre LeBrun",
+        "AMI Labs",
+        "superintelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Moonshot&#8217;s upcoming Kimi 3 is expected to close the gap with Anthropic&#8217;s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "published_at": "2026-07-16T14:26:29.000Z",
+      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "China",
+        "In Brief",
+        "moonshot"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "published_at": "2026-07-16T13:17:59.000Z",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "tags": [
+        "AI",
+        "alibaba",
+        "Apple",
+        "Apple Intelligence",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Ultrahuman&#8217;s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
@@ -853,69 +989,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ram Iyer"
-    },
-    {
-      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "published_at": "2026-07-16T00:20:42.000Z",
-      "description": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
-      "tags": [
-        "Fundraising",
-        "Venture",
-        "Anthropic",
-        "Greylock Partners",
-        "Saam Motamedi"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "published_at": "2026-07-15T23:59:44.000Z",
-      "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Microsoft",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Daniel Ek&#8217;s body-scanning startup Neko Health raises another $700M",
-      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "published_at": "2026-07-15T19:46:54.000Z",
-      "description": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "tags": [
-        "Biotech & Health",
-        "Fundraising",
-        "Startups",
-        "TC",
-        "daniel ek"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "published_at": "2026-07-15T19:41:38.000Z",
-      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "TC",
-        "codex",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1189,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 491,
       "user": "KubeezMedia"
     },
     {
@@ -1204,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 401,
       "user": "tandpfun"
     },
     {
@@ -1219,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "Jane-xiaoer"
     },
     {
@@ -1234,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 137,
       "user": "ucsandman"
     },
     {
@@ -1249,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "yeet-src"
     },
     {
@@ -1264,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 935,
       "user": "pixel-point"
     },
     {
@@ -1279,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 816,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1294,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 536,
       "user": "yetone"
     },
     {
@@ -1309,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 454,
       "user": "MatinSenPai"
     },
     {
@@ -1324,8 +1397,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "opencoredev"
+    },
+    {
+      "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
+      "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
+      "published_at": "2026-07-16T14:19:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "iframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sadhin"
     },
     {
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
@@ -1358,19 +1444,6 @@
       "user": "Alagu sundaram"
     },
     {
-      "title": "Why is toggle() not working on the images I want to hide/show?",
-      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
-      "published_at": "2026-07-16T06:30:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eden Leadbeatter"
-    },
-    {
       "title": "Audio blobs and objectURL: is there a create/load delay in Firefox?",
       "url": "https://stackoverflow.com/questions/79981183/audio-blobs-and-objecturl-is-there-a-create-load-delay-in-firefox",
       "published_at": "2026-07-16T06:08:45.000Z",
@@ -1383,6 +1456,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "Why is toggle() not working on the images I want to hide/show?",
+      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
+      "published_at": "2026-07-16T06:30:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eden Leadbeatter"
     },
     {
       "title": "How can I set an object's property value depending on a condition using if statements?",
@@ -1425,19 +1511,6 @@
       "user": "stonypaul"
     },
     {
-      "title": "setInterval always logs the initial React state even though the component re-renders",
-      "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
-      "published_at": "2026-07-15T15:59:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
-    },
-    {
       "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
       "url": "https://stackoverflow.com/questions/79980907/how-can-i-retrieve-the-text-from-my-search-bar-and-use-it-in-my-event-listener-w",
       "published_at": "2026-07-15T08:24:28.000Z",
@@ -1453,18 +1526,17 @@
       "user": "learning&#39;s_a_process"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
+      "title": "setInterval always logs the initial React state even though the component re-renders",
+      "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
+      "published_at": "2026-07-15T15:59:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
-        "html",
-        "css"
+        "reactjs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "aaron"
+      "user": "Ehan Siddique"
     },
     {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
@@ -1480,22 +1552,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ayush"
-    },
-    {
-      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
-      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
-      "published_at": "2026-07-15T10:40:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "json",
-        "pandas",
-        "fastapi",
-        "nan"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Masum Abbas"
     },
     {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
@@ -1828,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1596,
       "user": "MDX-Tom"
     },
     {
@@ -1843,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1071,
       "user": "littledivy"
     },
     {
@@ -1858,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 971,
       "user": "AlephAITech"
     },
     {
@@ -1873,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 743,
       "user": "Kappaemme-git"
     },
     {
@@ -1888,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "pengchujin"
     },
     {
@@ -1905,6 +1961,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Mackou"
+    },
+    {
+      "title": "How do you link a specific .py script to an input field, label, and button in Tkinter/Python3?",
+      "url": "https://stackoverflow.com/questions/79981343/how-do-you-link-a-specific-py-script-to-an-input-field-label-and-button-in-tk",
+      "published_at": "2026-07-16T14:55:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jas"
+    },
+    {
+      "title": "Can't install keyboard package because pip won't work",
+      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
+      "published_at": "2026-07-16T14:25:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "ubuntu",
+        "pip",
+        "windows-subsystem-for-linux"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "King Of Noobs"
     },
     {
       "title": "How to create prompt version in vertex ai prompt library using python",
@@ -2020,37 +2104,6 @@
       "user": "Ayush"
     },
     {
-      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
-      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
-      "published_at": "2026-07-15T10:40:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "json",
-        "pandas",
-        "fastapi",
-        "nan"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Masum Abbas"
-    },
-    {
-      "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
-      "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
-      "published_at": "2026-07-15T09:24:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "gpu",
-        "large-language-model",
-        "onnxruntime"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furkan &#214;ztekin"
-    },
-    {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
       "url": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
       "published_at": "2026-07-15T15:25:14.000Z",
@@ -2098,21 +2151,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
-      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
-      "published_at": "2026-07-14T11:59:15Z",
-      "description": "...",
-      "tags": [
-        "api",
-        "networking",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
     {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
       "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
@@ -2354,6 +2392,19 @@
       "user": "velmu"
     },
     {
+      "title": "What gdb frontend do you prefer (linux)",
+      "url": "https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux",
+      "published_at": "2026-07-16T08:12:52.708-05:00",
+      "description": "I found the basic gdb ui painful and gdb -tui confusing. I love dlv for golang debugging.\r\n\r\nBefore I drop back to printf debugging is there a frontend I should try?",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kghose"
+    },
+    {
       "title": "Why is toggle() not working on the images I want to hide/show?",
       "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
       "published_at": "2026-07-16T06:30:45.000Z",
@@ -2380,20 +2431,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "learning&#39;s_a_process"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     }
   ],
   "Mobile": [
@@ -2916,6 +2953,21 @@
       "user": "2352500"
     },
     {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "published_at": "2026-07-16T15:02:00.000Z",
+      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "tags": [
+        "Security",
+        "AI",
+        "Build Mode",
+        "Build Mode Video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Maggie Nye"
+    },
+    {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
       "published_at": "2026-07-15T23:48:53.000Z",
@@ -3037,21 +3089,6 @@
       "user": "Kate Pond"
     },
     {
-      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
-      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
-      "published_at": "2026-06-23T14:46:09Z",
-      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
-      "tags": [
-        "programming",
-        "go",
-        "opensource",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
-      "source": "Dev.to",
-      "user": "Inhere"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3099,7 +3136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 491,
       "user": "KubeezMedia"
     },
     {
@@ -3114,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 401,
       "user": "tandpfun"
     },
     {
@@ -3129,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "Jane-xiaoer"
     },
     {
@@ -3144,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 137,
       "user": "ucsandman"
     },
     {
@@ -3159,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "yeet-src"
     },
     {
@@ -3174,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1596,
       "user": "MDX-Tom"
     },
     {
@@ -3189,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1071,
       "user": "littledivy"
     },
     {
@@ -3204,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 971,
       "user": "AlephAITech"
     },
     {
@@ -3219,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 743,
       "user": "Kappaemme-git"
     },
     {
@@ -3234,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "pengchujin"
     },
     {
@@ -3249,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 277,
       "user": "vshulcz"
     },
     {
@@ -3268,6 +3305,21 @@
       "user": "intmian"
     },
     {
+      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
+      "url": "https://github.com/shibadogcap/dpgk",
+      "published_at": "2026-07-15T14:10:03Z",
+      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "shibadogcap"
+    },
+    {
       "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
       "url": "https://github.com/berkayyytech/vortex",
       "published_at": "2026-07-11T00:35:53Z",
@@ -3281,21 +3333,6 @@
       "source": "GitHub",
       "stars": 89,
       "user": "berkayyytech"
-    },
-    {
-      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "url": "https://github.com/shibadogcap/dpgk",
-      "published_at": "2026-07-15T14:10:03Z",
-      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "shibadogcap"
     },
     {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
@@ -3324,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 935,
       "user": "pixel-point"
     },
     {
@@ -3339,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 816,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3354,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 536,
       "user": "yetone"
     },
     {
@@ -3369,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 454,
       "user": "MatinSenPai"
     },
     {
@@ -3384,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "opencoredev"
     },
     {
@@ -3399,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 9553,
+      "stars": 10448,
       "user": "xai-org"
     },
     {
@@ -3414,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 783,
       "user": "CluvexStudio"
     },
     {
@@ -3444,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "RongleCat"
     },
     {
