@@ -46,21 +46,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
       "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
       "published_at": "2026-07-14T17:54:10Z",
@@ -83,8 +68,8 @@
       "tags": [
         "rust",
         "ai",
-        "performance",
-        "opensource"
+        "webdev",
+        "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
@@ -297,6 +282,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
+      "published_at": "2026-07-13T15:17:02Z",
+      "description": "antirez.com",
+      "tags": [
+        "ai",
+        "llm",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 321,
       "user": "tandpfun"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 129,
       "user": "yeet-src"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1572,
       "user": "MDX-Tom"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 961,
       "user": "AlephAITech"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "pengchujin"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 522,
       "user": "yetone"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 445,
       "user": "MatinSenPai"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "opencoredev"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 8938,
+      "stars": 9553,
       "user": "xai-org"
     },
     {
@@ -750,31 +750,17 @@
       "user": "hugoarnal"
     },
     {
-      "title": "Your AI Is Not a Tool",
-      "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-      "published_at": "2026-07-15T11:49:43.066-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to create prompt version in vertex ai prompt library using python",
+      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
+      "published_at": "2026-07-16T11:15:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "adamcstephens"
-    },
-    {
-      "title": "Why does useEffect show an old external store value after React Activity is shown again?",
-      "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
-      "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-hooks",
-        "react-state-management"
+        "python",
+        "google-cloud-vertex-ai"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "David Brierton"
+      "user": "Subramanian"
     },
     {
       "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
@@ -807,6 +793,21 @@
       "user": "KimKim"
     },
     {
+      "title": "Ultrahuman&#8217;s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "published_at": "2026-07-16T11:30:00.000Z",
+      "description": "Aina is going to pilot a new device in the coming weeks.",
+      "tags": [
+        "Apps",
+        "Startups",
+        "AI agents",
+        "dune"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
       "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
       "published_at": "2026-07-16T11:00:00.000Z",
@@ -814,7 +815,8 @@
       "tags": [
         "Apps",
         "Social",
-        "meta ai"
+        "meta ai",
+        "self harm"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1187,8 +1189,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 461,
       "user": "KubeezMedia"
+    },
+    {
+      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "published_at": "2026-07-16T06:17:00Z",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
+      "source": "GitHub",
+      "stars": 321,
+      "user": "tandpfun"
     },
     {
       "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
@@ -1206,21 +1223,6 @@
       "user": "Jane-xiaoer"
     },
     {
-      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "published_at": "2026-07-16T06:17:00Z",
-      "description": "Your clothes, extracted and organized with gpt-image.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
-      "source": "GitHub",
-      "stars": 243,
-      "user": "tandpfun"
-    },
-    {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
       "url": "https://github.com/ucsandman/marketing-studio",
       "published_at": "2026-07-10T08:00:22Z",
@@ -1232,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "ucsandman"
     },
     {
@@ -1247,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 129,
       "user": "yeet-src"
     },
     {
@@ -1262,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 889,
       "user": "pixel-point"
     },
     {
@@ -1277,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 814,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1292,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 522,
       "user": "yetone"
     },
     {
@@ -1307,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 445,
       "user": "MatinSenPai"
     },
     {
@@ -1322,14 +1324,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "opencoredev"
+    },
+    {
+      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
+      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
+      "published_at": "2026-07-16T11:56:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "database",
+        "mongodb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harshit"
     },
     {
       "title": "MCP server basic prototype build and using Javascript for learning",
       "url": "https://stackoverflow.com/questions/79981233/mcp-server-basic-prototype-build-and-using-javascript-for-learning",
       "published_at": "2026-07-16T09:25:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "advice",
         "javascript",
@@ -1345,7 +1361,7 @@
       "title": "Why is toggle() not working on the images I want to hide/show?",
       "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
       "published_at": "2026-07-16T06:30:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html"
@@ -1372,7 +1388,7 @@
       "title": "How can I set an object's property value depending on a condition using if statements?",
       "url": "https://stackoverflow.com/questions/79981087/how-can-i-set-an-objects-property-value-depending-on-a-condition-using-if-state",
       "published_at": "2026-07-15T18:51:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript"
       ],
@@ -1449,21 +1465,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Why does useEffect show an old external store value after React Activity is shown again?",
-      "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
-      "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-hooks",
-        "react-state-management"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Brierton"
     },
     {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
@@ -1561,21 +1562,6 @@
   ],
   "Python": [
     {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "published_at": "2026-07-15T18:56:45Z",
-      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "tags": [
-        "bugsmash",
-        "debugging",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
       "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
       "published_at": "2026-07-15T18:56:09Z",
@@ -1587,6 +1573,21 @@
         "debugging"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
+      "published_at": "2026-07-15T18:56:45Z",
+      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "tags": [
+        "bugsmash",
+        "debugging",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1827,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1572,
       "user": "MDX-Tom"
     },
     {
@@ -1842,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1068,
       "user": "littledivy"
     },
     {
@@ -1857,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 961,
       "user": "AlephAITech"
     },
     {
@@ -1872,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 734,
       "user": "Kappaemme-git"
     },
     {
@@ -1887,14 +1888,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "pengchujin"
+    },
+    {
+      "title": "Bring modern package management to Meson's native wrap ecosystem",
+      "url": "https://collider.ee/1.5.1/",
+      "published_at": "2026-07-16T03:29:26.763-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "c",
+        "c++",
+        "programming",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Mackou"
+    },
+    {
+      "title": "How to create prompt version in vertex ai prompt library using python",
+      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
+      "published_at": "2026-07-16T11:15:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "google-cloud-vertex-ai"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Subramanian"
     },
     {
       "title": "The term 'Get-FileHash' is not recognized as the name of a cmdlet, function, script file, or operable program",
       "url": "https://stackoverflow.com/questions/79981200/the-term-get-filehash-is-not-recognized-as-the-name-of-a-cmdlet-function-scr",
       "published_at": "2026-07-16T07:11:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "powershell"
@@ -1907,7 +1936,7 @@
       "title": "How to make a Python package with multiple modules importing from Rust?",
       "url": "https://stackoverflow.com/questions/79981223/how-to-make-a-python-package-with-multiple-modules-importing-from-rust",
       "published_at": "2026-07-16T08:53:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "maturin"
@@ -2020,22 +2049,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Furkan &#214;ztekin"
-    },
-    {
-      "title": "ArduinoRouterBridge and arduino.app_utils Troubleshoot",
-      "url": "https://stackoverflow.com/questions/79981095/arduinorouterbridge-and-arduino-app-utils-troubleshoot",
-      "published_at": "2026-07-15T19:33:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "arduino",
-        "stm32",
-        "bridge",
-        "qualcomm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "LUIS FERNANDO LOPEZ AVELAR"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2292,7 +2305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "berkayyytech"
     },
     {
@@ -2344,7 +2357,7 @@
       "title": "Why is toggle() not working on the images I want to hide/show?",
       "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
       "published_at": "2026-07-16T06:30:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html"
@@ -2642,6 +2655,19 @@
       "user": "xbill"
     },
     {
+      "title": "How to create prompt version in vertex ai prompt library using python",
+      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
+      "published_at": "2026-07-16T11:15:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "google-cloud-vertex-ai"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Subramanian"
+    },
+    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -2709,6 +2735,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "alexpls"
+    },
+    {
+      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
+      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
+      "published_at": "2026-07-16T11:56:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "database",
+        "mongodb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harshit"
     },
     {
       "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
@@ -2876,35 +2916,6 @@
       "user": "2352500"
     },
     {
-      "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing",
-      "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
-      "published_at": "2026-07-15T10:36:16.621-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "windows"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
-    },
-    {
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "published_at": "2026-07-15T18:47:01.000Z",
-      "description": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-      "tags": [
-        "Security",
-        "Age of Empires",
-        "Age of Empires II",
-        "cybersecurity",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
       "published_at": "2026-07-15T23:48:53.000Z",
@@ -2934,21 +2945,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3009,6 +3005,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
       "user": "Web Developer Hyper"
+    },
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
+      "published_at": "2026-07-13T15:17:02Z",
+      "description": "antirez.com",
+      "tags": [
+        "ai",
+        "llm",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
@@ -3088,8 +3099,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 461,
       "user": "KubeezMedia"
+    },
+    {
+      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "published_at": "2026-07-16T06:17:00Z",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
+      "source": "GitHub",
+      "stars": 321,
+      "user": "tandpfun"
     },
     {
       "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
@@ -3107,21 +3133,6 @@
       "user": "Jane-xiaoer"
     },
     {
-      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "published_at": "2026-07-16T06:17:00Z",
-      "description": "Your clothes, extracted and organized with gpt-image.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
-      "source": "GitHub",
-      "stars": 243,
-      "user": "tandpfun"
-    },
-    {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
       "url": "https://github.com/ucsandman/marketing-studio",
       "published_at": "2026-07-10T08:00:22Z",
@@ -3133,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "ucsandman"
     },
     {
@@ -3148,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 129,
       "user": "yeet-src"
     },
     {
@@ -3163,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1572,
       "user": "MDX-Tom"
     },
     {
@@ -3178,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1068,
       "user": "littledivy"
     },
     {
@@ -3193,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 961,
       "user": "AlephAITech"
     },
     {
@@ -3208,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 734,
       "user": "Kappaemme-git"
     },
     {
@@ -3223,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "pengchujin"
     },
     {
@@ -3238,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 265,
       "user": "vshulcz"
     },
     {
@@ -3268,8 +3279,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "berkayyytech"
+    },
+    {
+      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
+      "url": "https://github.com/shibadogcap/dpgk",
+      "published_at": "2026-07-15T14:10:03Z",
+      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "shibadogcap"
     },
     {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
@@ -3287,21 +3313,6 @@
       "user": "ywddd"
     },
     {
-      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "url": "https://github.com/shibadogcap/dpgk",
-      "published_at": "2026-07-15T14:10:03Z",
-      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
-      "source": "GitHub",
-      "stars": 66,
-      "user": "shibadogcap"
-    },
-    {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
       "published_at": "2026-07-13T07:42:51Z",
@@ -3313,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 889,
       "user": "pixel-point"
     },
     {
@@ -3328,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 814,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3343,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 522,
       "user": "yetone"
     },
     {
@@ -3358,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 445,
       "user": "MatinSenPai"
     },
     {
@@ -3373,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "opencoredev"
     },
     {
@@ -3388,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 8938,
+      "stars": 9553,
       "user": "xai-org"
     },
     {
@@ -3403,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 742,
       "user": "CluvexStudio"
     },
     {
@@ -3433,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "RongleCat"
     },
     {
@@ -3450,18 +3461,6 @@
       "source": "GitHub",
       "stars": 131,
       "user": "m-novotny"
-    },
-    {
-      "title": "Your AI Is Not a Tool",
-      "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
-      "published_at": "2026-07-15T11:49:43.066-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "adamcstephens"
     },
     {
       "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
