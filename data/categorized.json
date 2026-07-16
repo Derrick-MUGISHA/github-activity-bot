@@ -61,21 +61,6 @@
       "user": "xbill"
     },
     {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "published_at": "2026-07-15T18:56:45Z",
-      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "tags": [
-        "bugsmash",
-        "debugging",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "DiffusionGemma: The Developer Guide",
       "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
       "published_at": "2026-07-16T14:27:09Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
+      "published_at": "2026-07-15T18:56:45Z",
+      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "tags": [
+        "bugsmash",
+        "debugging",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 606,
       "user": "tandpfun"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 266,
       "user": "Blueturboguy07"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1666,
       "user": "MDX-Tom"
     },
     {
@@ -710,6 +710,21 @@
       "user": "pengchujin"
     },
     {
+      "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
+      "url": "https://github.com/ywddd/grok-inspection",
+      "published_at": "2026-07-12T15:04:42Z",
+      "description": "CPA plugin for background xAI/Grok account inspection",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "ywddd"
+    },
+    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "MatinSenPai"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11810,
+      "stars": 11938,
       "user": "xai-org"
     },
     {
@@ -824,7 +839,7 @@
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
       "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "iframe",
@@ -833,22 +848,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sadhin"
-    },
-    {
-      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
-      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
-      "published_at": "2026-07-15T03:47:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "websocket",
-        "vite",
-        "reverse-proxy",
-        "hmr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elina"
     },
     {
       "title": "How to create prompt version in vertex ai prompt library using python",
@@ -951,37 +950,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-      "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-      "published_at": "2026-07-16T16:08:40.000Z",
-      "description": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "In Brief",
-        "unicorn"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "published_at": "2026-07-16T16:00:00.000Z",
-      "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ai mode",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1238,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 606,
       "user": "tandpfun"
     },
     {
@@ -1253,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "KubeezMedia"
     },
     {
@@ -1283,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 266,
       "user": "Blueturboguy07"
     },
     {
@@ -1298,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "ucsandman"
     },
     {
@@ -1313,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1037,
       "user": "pixel-point"
     },
     {
@@ -1328,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1358,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "MatinSenPai"
     },
     {
@@ -1377,6 +1345,21 @@
       "user": "opencoredev"
     },
     {
+      "title": "Textmate Scope custom HTML tag as JS like a script tag",
+      "url": "https://stackoverflow.com/questions/79981430/textmate-scope-custom-html-tag-as-js-like-a-script-tag",
+      "published_at": "2026-07-16T22:45:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "visual-studio-code",
+        "textmate"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Parker"
+    },
+    {
       "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
       "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
       "published_at": "2026-07-16T18:36:43.000Z",
@@ -1393,7 +1376,7 @@
       "title": "How can I make my page scroll past three elements?",
       "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
       "published_at": "2026-07-16T16:46:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1422,7 +1405,7 @@
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
       "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "iframe",
@@ -1499,22 +1482,6 @@
       "user": "qxzsilver"
     },
     {
-      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
-      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
-      "published_at": "2026-07-15T03:47:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "websocket",
-        "vite",
-        "reverse-proxy",
-        "hmr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elina"
-    },
-    {
       "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
       "url": "https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/",
       "published_at": "2026-07-16T11:35:18.000Z",
@@ -1589,21 +1556,6 @@
       "user": "xbill"
     },
     {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "published_at": "2026-07-15T18:56:45Z",
-      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "tags": [
-        "bugsmash",
-        "debugging",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -1615,6 +1567,21 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
+      "published_at": "2026-07-15T18:56:45Z",
+      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "tags": [
+        "bugsmash",
+        "debugging",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1840,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1666,
       "user": "MDX-Tom"
     },
     {
@@ -1855,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1102,
       "user": "littledivy"
     },
     {
@@ -1933,20 +1900,6 @@
       "user": "Jeff Bortniker"
     },
     {
-      "title": "How to declare generic PySide6 signal?",
-      "url": "https://stackoverflow.com/questions/79981380/how-to-declare-generic-pyside6-signal",
-      "published_at": "2026-07-16T18:12:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Basilevs"
-    },
-    {
       "title": "How can i solve this pip wfuzz package instalation error?",
       "url": "https://stackoverflow.com/questions/79981379/how-can-i-solve-this-pip-wfuzz-package-instalation-error",
       "published_at": "2026-07-16T18:06:42.000Z",
@@ -1960,6 +1913,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eduardo Silva"
+    },
+    {
+      "title": "How to declare generic PySide6 signal?",
+      "url": "https://stackoverflow.com/questions/79981380/how-to-declare-generic-pyside6-signal",
+      "published_at": "2026-07-16T18:12:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Basilevs"
     },
     {
       "title": "PyTorch/Captum: RuntimeError: gather(): Expected dtype int32/int64 for index",
@@ -2271,6 +2238,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "berkayyytech"
     }
   ],
   "WebDev": [
@@ -2315,6 +2297,21 @@
       "user": "kghose"
     },
     {
+      "title": "Textmate Scope custom HTML tag as JS like a script tag",
+      "url": "https://stackoverflow.com/questions/79981430/textmate-scope-custom-html-tag-as-js-like-a-script-tag",
+      "published_at": "2026-07-16T22:45:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "visual-studio-code",
+        "textmate"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Parker"
+    },
+    {
       "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
       "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
       "published_at": "2026-07-16T18:36:43.000Z",
@@ -2331,7 +2328,7 @@
       "title": "How can I make my page scroll past three elements?",
       "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
       "published_at": "2026-07-16T16:46:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -3014,7 +3011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 606,
       "user": "tandpfun"
     },
     {
@@ -3029,7 +3026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "KubeezMedia"
     },
     {
@@ -3059,7 +3056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 266,
       "user": "Blueturboguy07"
     },
     {
@@ -3074,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "ucsandman"
     },
     {
@@ -3089,7 +3086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1666,
       "user": "MDX-Tom"
     },
     {
@@ -3104,7 +3101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1102,
       "user": "littledivy"
     },
     {
@@ -3153,6 +3150,81 @@
       "user": "pengchujin"
     },
     {
+      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "published_at": "2026-07-14T07:45:44Z",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "vshulcz"
+    },
+    {
+      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
+      "url": "https://github.com/shibadogcap/dpgk",
+      "published_at": "2026-07-15T14:10:03Z",
+      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "shibadogcap"
+    },
+    {
+      "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
+      "url": "https://github.com/intmian/gorm-d1-adapter",
+      "published_at": "2026-07-10T11:49:55Z",
+      "description": "Make your Go-to-D1 connection 2–18× faster.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "intmian"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "berkayyytech"
+    },
+    {
+      "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
+      "url": "https://github.com/ywddd/grok-inspection",
+      "published_at": "2026-07-12T15:04:42Z",
+      "description": "CPA plugin for background xAI/Grok account inspection",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "ywddd"
+    },
+    {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
       "published_at": "2026-07-13T07:42:51Z",
@@ -3164,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1037,
       "user": "pixel-point"
     },
     {
@@ -3179,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3209,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "MatinSenPai"
     },
     {
@@ -3239,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11810,
+      "stars": 11938,
       "user": "xai-org"
     },
     {
@@ -3254,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 927,
       "user": "CluvexStudio"
     },
     {
