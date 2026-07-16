@@ -16,6 +16,21 @@
       "user": "Sean Boult"
     },
     {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Claude might be saturating your machine",
       "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07",
       "published_at": "2026-07-16T17:53:53Z",
@@ -631,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 595,
       "user": "tandpfun"
     },
     {
@@ -646,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 250,
       "user": "Blueturboguy07"
     },
     {
@@ -661,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1664,
       "user": "MDX-Tom"
     },
     {
@@ -676,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "AlephAITech"
     },
     {
@@ -695,21 +710,6 @@
       "user": "pengchujin"
     },
     {
-      "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
-      "url": "https://github.com/ywddd/grok-inspection",
-      "published_at": "2026-07-12T15:04:42Z",
-      "description": "CPA plugin for background xAI/Grok account inspection",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "ywddd"
-    },
-    {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
       "published_at": "2026-07-10T08:59:16Z",
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 553,
       "user": "yetone"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "MatinSenPai"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "opencoredev"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11712,
+      "stars": 11810,
       "user": "xai-org"
     },
     {
@@ -870,10 +870,9 @@
       "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
       "tags": [
         "Security",
-        "TC",
+        "coca-cola",
         "cyberattack",
-        "cybersecurity",
-        "data breach"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1239,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 595,
       "user": "tandpfun"
     },
     {
@@ -1254,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "KubeezMedia"
     },
     {
@@ -1284,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 250,
       "user": "Blueturboguy07"
     },
     {
@@ -1299,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "ucsandman"
     },
     {
@@ -1314,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1028,
       "user": "pixel-point"
     },
     {
@@ -1329,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1344,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 553,
       "user": "yetone"
     },
     {
@@ -1359,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "MatinSenPai"
     },
     {
@@ -1374,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "opencoredev"
     },
     {
@@ -1841,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1664,
       "user": "MDX-Tom"
     },
     {
@@ -1856,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1101,
       "user": "littledivy"
     },
     {
@@ -1871,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "AlephAITech"
     },
     {
@@ -1886,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 760,
       "user": "Kappaemme-git"
     },
     {
@@ -1919,19 +1918,19 @@
       "user": "Chloe Williams"
     },
     {
-      "title": "How can i solve this pip wfuzz package instalation error?",
-      "url": "https://stackoverflow.com/questions/79981379/how-can-i-solve-this-pip-wfuzz-package-instalation-error",
-      "published_at": "2026-07-16T18:06:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Possible to Add a Button to a Treeview Widget?",
+      "url": "https://stackoverflow.com/questions/79981418/possible-to-add-a-button-to-a-treeview-widget",
+      "published_at": "2026-07-16T21:41:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "linux",
-        "pip",
-        "debian"
+        "tkinter",
+        "treeview",
+        "ttk"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eduardo Silva"
+      "user": "Jeff Bortniker"
     },
     {
       "title": "How to declare generic PySide6 signal?",
@@ -1946,6 +1945,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Basilevs"
+    },
+    {
+      "title": "How can i solve this pip wfuzz package instalation error?",
+      "url": "https://stackoverflow.com/questions/79981379/how-can-i-solve-this-pip-wfuzz-package-instalation-error",
+      "published_at": "2026-07-16T18:06:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "linux",
+        "pip",
+        "debian"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eduardo Silva"
     },
     {
       "title": "PyTorch/Captum: RuntimeError: gather(): Expected dtype int32/int64 for index",
@@ -2031,19 +2045,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Srinivas Iyer"
-    },
-    {
-      "title": "How to make a Python package with multiple modules importing from Rust?",
-      "url": "https://stackoverflow.com/questions/79981223/how-to-make-a-python-package-with-multiple-modules-importing-from-rust",
-      "published_at": "2026-07-16T08:53:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "maturin"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "khabib73"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2270,21 +2271,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "berkayyytech"
     }
   ],
   "WebDev": [
@@ -2866,10 +2852,9 @@
       "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
       "tags": [
         "Security",
-        "TC",
+        "coca-cola",
         "cyberattack",
-        "cybersecurity",
-        "data breach"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2935,21 +2920,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
       "source": "Dev.to",
       "user": "Tahira Muhammad"
-    },
-    {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3044,7 +3014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 595,
       "user": "tandpfun"
     },
     {
@@ -3059,7 +3029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "KubeezMedia"
     },
     {
@@ -3089,7 +3059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 250,
       "user": "Blueturboguy07"
     },
     {
@@ -3104,7 +3074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "ucsandman"
     },
     {
@@ -3119,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1664,
       "user": "MDX-Tom"
     },
     {
@@ -3134,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1101,
       "user": "littledivy"
     },
     {
@@ -3149,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "AlephAITech"
     },
     {
@@ -3164,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 760,
       "user": "Kappaemme-git"
     },
     {
@@ -3183,81 +3153,6 @@
       "user": "pengchujin"
     },
     {
-      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "published_at": "2026-07-14T07:45:44Z",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
-      "source": "GitHub",
-      "stars": 293,
-      "user": "vshulcz"
-    },
-    {
-      "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
-      "url": "https://github.com/intmian/gorm-d1-adapter",
-      "published_at": "2026-07-10T11:49:55Z",
-      "description": "Make your Go-to-D1 connection 2–18× faster.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
-      "source": "GitHub",
-      "stars": 110,
-      "user": "intmian"
-    },
-    {
-      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "url": "https://github.com/shibadogcap/dpgk",
-      "published_at": "2026-07-15T14:10:03Z",
-      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "shibadogcap"
-    },
-    {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "berkayyytech"
-    },
-    {
-      "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
-      "url": "https://github.com/ywddd/grok-inspection",
-      "published_at": "2026-07-12T15:04:42Z",
-      "description": "CPA plugin for background xAI/Grok account inspection",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "ywddd"
-    },
-    {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
       "published_at": "2026-07-13T07:42:51Z",
@@ -3269,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1028,
       "user": "pixel-point"
     },
     {
@@ -3284,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3299,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 553,
       "user": "yetone"
     },
     {
@@ -3314,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 475,
       "user": "MatinSenPai"
     },
     {
@@ -3329,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "opencoredev"
     },
     {
@@ -3344,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11712,
+      "stars": 11810,
       "user": "xai-org"
     },
     {
@@ -3359,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 913,
       "user": "CluvexStudio"
     },
     {
