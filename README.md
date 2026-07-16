@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-16 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-16 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,19 +37,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png" width="200" alt="My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs" />
+    <a href="https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png" width="200" alt="Claude might be saturating your machine" />
       <br/>
-      <b>My benchmark's Python column was N/A for a year — ...</b>
+      <b>Claude might be saturating your machine</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png" width="200" alt="Claude might be saturating your machine" />
+    <a href="https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png" width="200" alt="My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs" />
       <br/>
-      <b>Claude might be saturating your machine</b>
+      <b>My benchmark's Python column was N/A for a year — ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,8 +93,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13) | Dev.to |
-| 2 | [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) | Dev.to |
-| 3 | [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07) | Dev.to |
+| 2 | [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07) | Dev.to |
+| 3 | [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) | Dev.to |
 | 4 | [26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd) | Dev.to |
 | 5 | [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k) | Dev.to |
 | 6 | [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) | Dev.to |
@@ -115,7 +115,7 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 | 19 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
 | 20 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
 
-<sub>Last fetched: Thu, 16 Jul 2026 22:19:16 CAT</sub>
+<sub>Last fetched: Thu, 16 Jul 2026 23:32:45 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — Explain the Java memory model**
+**1. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Request/response cycle, next(), chain of functions
 
 </details>
 
-**2. `React` — What is the Virtual DOM and how does React use it?**
+**2. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Ownership, mutability, data flow direction
 
 </details>
 
-**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**3. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -172,7 +172,7 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 | **Python** | 36 | 19.6% | `██████████░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Security** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -196,17 +196,17 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.9%
-JavaScript      ████████████████████████ 23.3%
-Python          ███████████████████████ 22.6%
-Java            ██████████████████ 17.0%
+Go              ██████████████████████████████ 28.5%
+JavaScript      █████████████████████████ 23.4%
+Python          ████████████████████████ 22.8%
+Java            ██████████████████ 17.1%
 Rust            █████████ 8.2%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 46
+    "Go" : 45
     "JavaScript" : 37
     "Python" : 36
     "Java" : 27
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 20:19:16 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 21:32:45 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

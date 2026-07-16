@@ -18,12 +18,12 @@
     "Mobile": 2,
     "Cloud": 17,
     "Database": 5,
-    "Security": 12,
+    "Security": 13,
     "Tools": 37
   },
   "by_language": {
     "Python": 36,
-    "Go": 46,
+    "Go": 45,
     "JavaScript": 37,
     "Rust": 13,
     "Java": 27
@@ -105,15 +105,15 @@
     "python": 24,
     "AI": 16,
     "javascript": 15,
+    "Security": 12,
     "JavaScript": 12,
-    "Security": 11,
     "Python": 11,
     "mcps": 10,
     "DevOps": 10,
     "discuss": 8,
     "webdev": 7,
-    "go": 7,
     "llm": 7,
+    "go": 7,
     "antigravity": 7,
     "rust": 7,
     "programming": 6,
@@ -122,10 +122,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.6",
-    "Go": "28.9",
-    "JavaScript": "23.3",
+    "Python": "22.8",
+    "Go": "28.5",
+    "JavaScript": "23.4",
     "Rust": "8.2",
-    "Java": "17.0"
+    "Java": "17.1"
   }
 }
