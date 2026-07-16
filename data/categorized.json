@@ -601,23 +601,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 484,
       "user": "tandpfun"
     },
     {
-      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "url": "https://github.com/yeet-src/sigwire",
-      "published_at": "2026-07-13T19:26:32Z",
-      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "published_at": "2026-07-15T22:17:25Z",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 132,
-      "user": "yeet-src"
+      "stars": 156,
+      "user": "Blueturboguy07"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1626,
       "user": "MDX-Tom"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "AlephAITech"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 710,
       "user": "pengchujin"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "yetone"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 463,
       "user": "MatinSenPai"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "opencoredev"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 10952,
+      "stars": 11227,
       "user": "xai-org"
     },
     {
@@ -792,34 +792,6 @@
       "user": "Sadhin"
     },
     {
-      "title": "Why does useEffect show an old external store value after React Activity is shown again?",
-      "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
-      "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-hooks",
-        "react-state-management"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Brierton"
-    },
-    {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
-    },
-    {
       "title": "How to create prompt version in vertex ai prompt library using python",
       "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
       "published_at": "2026-07-16T11:15:56.000Z",
@@ -863,6 +835,21 @@
       "user": "KimKim"
     },
     {
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "published_at": "2026-07-16T17:00:00.000Z",
+      "description": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
+      "tags": [
+        "Apps",
+        "beehiiv",
+        "community",
+        "newsletter"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "X cracks down on creators who steal content",
       "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
       "published_at": "2026-07-16T16:40:36.000Z",
@@ -886,6 +873,7 @@
         "Fundraising",
         "Startups",
         "Venture",
+        "In Brief",
         "unicorn"
       ],
       "cover_image": null,
@@ -900,8 +888,8 @@
       "tags": [
         "AI",
         "Apps",
-        "Google",
-        "ai mode"
+        "ai mode",
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -914,8 +902,8 @@
       "description": "Google said users can soon access their notebooks through AI Mode in Search.",
       "tags": [
         "Apps",
-        "Google",
         "gemini",
+        "Google",
         "notebooklm"
       ],
       "cover_image": null,
@@ -952,52 +940,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "published_at": "2026-07-16T15:31:09.000Z",
-      "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "Exclusive",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "published_at": "2026-07-16T15:02:00.000Z",
-      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "tags": [
-        "Security",
-        "AI",
-        "Build Mode",
-        "Build Mode Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Maggie Nye"
-    },
-    {
-      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-      "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
-      "published_at": "2026-07-16T15:00:00.000Z",
-      "description": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "Sheryl Sandberg",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1239,7 +1181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 543,
       "user": "KubeezMedia"
     },
     {
@@ -1254,7 +1196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 484,
       "user": "tandpfun"
     },
     {
@@ -1273,6 +1215,21 @@
       "user": "Jane-xiaoer"
     },
     {
+      "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "published_at": "2026-07-15T22:17:25Z",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "Blueturboguy07"
+    },
+    {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
       "url": "https://github.com/ucsandman/marketing-studio",
       "published_at": "2026-07-10T08:00:22Z",
@@ -1284,23 +1241,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "ucsandman"
-    },
-    {
-      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "url": "https://github.com/yeet-src/sigwire",
-      "published_at": "2026-07-13T19:26:32Z",
-      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "yeet-src"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -1314,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 987,
       "user": "pixel-point"
     },
     {
@@ -1329,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 822,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1344,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "yetone"
     },
     {
@@ -1359,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 463,
       "user": "MatinSenPai"
     },
     {
@@ -1374,8 +1316,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "opencoredev"
+    },
+    {
+      "title": "Escaping a PCRE pattern manually",
+      "url": "https://stackoverflow.com/questions/79981372/escaping-a-pcre-pattern-manually",
+      "published_at": "2026-07-16T17:05:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "regex",
+        "pcre"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "InSync"
+    },
+    {
+      "title": "How can I make my page scroll past three elements?",
+      "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
+      "published_at": "2026-07-16T16:46:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "horizontal-scrolling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How Framer.com's editor/main window and canvas/preview of website passes data internally?",
@@ -1485,34 +1456,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "learning&#39;s_a_process"
-    },
-    {
-      "title": "Why does useEffect show an old external store value after React Activity is shown again?",
-      "url": "https://stackoverflow.com/questions/79980745/why-does-useeffect-show-an-old-external-store-value-after-react-activity-is-show",
-      "published_at": "2026-07-14T17:21:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-hooks",
-        "react-state-management"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Brierton"
-    },
-    {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
     },
     {
       "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
@@ -1840,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1626,
       "user": "MDX-Tom"
     },
     {
@@ -1855,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1086,
       "user": "littledivy"
     },
     {
@@ -1870,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "AlephAITech"
     },
     {
@@ -1885,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 752,
       "user": "Kappaemme-git"
     },
     {
@@ -1900,23 +1843,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 710,
       "user": "pengchujin"
-    },
-    {
-      "title": "Can't install keyboard package because pip won't work",
-      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
-      "published_at": "2026-07-16T14:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "ubuntu",
-        "pip",
-        "windows-subsystem-for-linux"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "King Of Noobs"
     },
     {
       "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
@@ -1932,6 +1860,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FluidMechanics Potential Flows"
+    },
+    {
+      "title": "Can't install keyboard package because pip won't work",
+      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
+      "published_at": "2026-07-16T14:25:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "ubuntu",
+        "pip",
+        "windows-subsystem-for-linux"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "King Of Noobs"
     },
     {
       "title": "How do you link a specific .py script to an input field, label, and button in Tkinter/Python3?",
@@ -1976,7 +1919,7 @@
       "title": "How to make a Python package with multiple modules importing from Rust?",
       "url": "https://stackoverflow.com/questions/79981223/how-to-make-a-python-package-with-multiple-modules-importing-from-rust",
       "published_at": "2026-07-16T08:53:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "maturin"
@@ -2311,6 +2254,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kghose"
+    },
+    {
+      "title": "How can I make my page scroll past three elements?",
+      "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
+      "published_at": "2026-07-16T16:46:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "horizontal-scrolling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Why is toggle() not working on the images I want to hide/show?",
@@ -2876,21 +2834,6 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "published_at": "2026-07-16T15:02:00.000Z",
-      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "tags": [
-        "Security",
-        "AI",
-        "Build Mode",
-        "Build Mode Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Maggie Nye"
-    },
-    {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
       "published_at": "2026-07-15T23:48:53.000Z",
@@ -3059,7 +3002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 543,
       "user": "KubeezMedia"
     },
     {
@@ -3074,7 +3017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 484,
       "user": "tandpfun"
     },
     {
@@ -3093,6 +3036,21 @@
       "user": "Jane-xiaoer"
     },
     {
+      "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "published_at": "2026-07-15T22:17:25Z",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "Blueturboguy07"
+    },
+    {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
       "url": "https://github.com/ucsandman/marketing-studio",
       "published_at": "2026-07-10T08:00:22Z",
@@ -3104,23 +3062,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "ucsandman"
-    },
-    {
-      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "url": "https://github.com/yeet-src/sigwire",
-      "published_at": "2026-07-13T19:26:32Z",
-      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "yeet-src"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3134,7 +3077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1626,
       "user": "MDX-Tom"
     },
     {
@@ -3149,7 +3092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1086,
       "user": "littledivy"
     },
     {
@@ -3164,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "AlephAITech"
     },
     {
@@ -3179,7 +3122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 752,
       "user": "Kappaemme-git"
     },
     {
@@ -3194,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 710,
       "user": "pengchujin"
     },
     {
@@ -3209,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 288,
       "user": "vshulcz"
     },
     {
@@ -3239,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "shibadogcap"
     },
     {
@@ -3284,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 987,
       "user": "pixel-point"
     },
     {
@@ -3299,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 822,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3314,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "yetone"
     },
     {
@@ -3329,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 463,
       "user": "MatinSenPai"
     },
     {
@@ -3344,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "opencoredev"
     },
     {
@@ -3359,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 10952,
+      "stars": 11227,
       "user": "xai-org"
     },
     {
@@ -3374,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 834,
       "user": "CluvexStudio"
     },
     {
