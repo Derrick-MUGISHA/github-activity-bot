@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "yeet-src"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1465,
       "user": "MDX-Tom"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 889,
       "user": "AlephAITech"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 693,
       "user": "pengchujin"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "ywddd"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 480,
       "user": "yetone"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 404,
       "user": "MatinSenPai"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 5578,
+      "stars": 7032,
       "user": "xai-org"
     },
     {
@@ -730,7 +730,8 @@
       "published_at": "2026-07-15T22:19:34.042-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "linux"
+        "linux",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -764,19 +765,6 @@
       "user": "David Brierton"
     },
     {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "event-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Callanan"
-    },
-    {
       "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
       "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
       "published_at": "2026-07-15T14:56:59.000Z",
@@ -791,14 +779,14 @@
       "user": "Carl Witthoft"
     },
     {
-      "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
       "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
       "published_at": "2026-07-16T04:00:00.000Z",
       "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
       "tags": [
-        "Startups",
         "Climate",
         "Fundraising",
+        "Startups",
         "recycling",
         "lululemon"
       ],
@@ -845,7 +833,6 @@
       "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
       "tags": [
         "AI",
-        "TC",
         "Anthropic",
         "Microsoft",
         "OpenAI"
@@ -1163,21 +1150,6 @@
       "user": "velmu"
     },
     {
-      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
-      "published_at": "2026-07-10T05:50:11Z",
-      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 274,
-      "user": "Jane-xiaoer"
-    },
-    {
       "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
       "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
       "published_at": "2026-07-13T23:32:54Z",
@@ -1189,8 +1161,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 334,
       "user": "KubeezMedia"
+    },
+    {
+      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "published_at": "2026-07-10T05:50:11Z",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "Jane-xiaoer"
     },
     {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
@@ -1219,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "yeet-src"
     },
     {
@@ -1234,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "blitzdotdev"
     },
     {
@@ -1249,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1264,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 751,
       "user": "pixel-point"
     },
     {
@@ -1279,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 480,
       "user": "yetone"
     },
     {
@@ -1294,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 404,
       "user": "MatinSenPai"
     },
     {
@@ -1313,6 +1300,45 @@
       "user": "opencoredev"
     },
     {
+      "title": "Audio blobs and objectURL: is there a create/load delay in Firefox?",
+      "url": "https://stackoverflow.com/questions/79981183/audio-blobs-and-objecturl-is-there-a-create-load-delay-in-firefox",
+      "published_at": "2026-07-16T06:08:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "audio",
+        "createobjecturl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
+      "title": "Why is toggle() not working on the images I want to hide/show?",
+      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
+      "published_at": "2026-07-16T06:30:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eden Leadbeatter"
+    },
+    {
+      "title": "How can I set an object's property value depending on a condition using if statements?",
+      "url": "https://stackoverflow.com/questions/79981087/how-can-i-set-an-objects-property-value-depending-on-a-condition-using-if-state",
+      "published_at": "2026-07-15T18:51:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AdjoinQuinoa68"
+    },
+    {
       "title": "How do browser-based website builders like Framer or Webflow communicate with a cross-origin iframe in real time?",
       "url": "https://stackoverflow.com/questions/79981124/how-do-browser-based-website-builders-like-framer-or-webflow-communicate-with-a",
       "published_at": "2026-07-15T21:32:06.000Z",
@@ -1326,18 +1352,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sadhin"
-    },
-    {
-      "title": "How can I set an object's property value depending on a condition using if statements?",
-      "url": "https://stackoverflow.com/questions/79981087/how-can-i-set-an-objects-property-value-depending-on-a-condition-using-if-state",
-      "published_at": "2026-07-15T18:51:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AdjoinQuinoa68"
     },
     {
       "title": "How to implement partial function in JavaScript - three-way sum partial application",
@@ -1398,7 +1412,7 @@
       "title": "Add controlling properties to make drag and drop experience smoother",
       "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
       "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "jquery",
@@ -1425,32 +1439,19 @@
       "user": "David Brierton"
     },
     {
-      "title": "How to queue microtask at tail end?",
-      "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
-      "published_at": "2026-07-14T10:57:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
+      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
+      "published_at": "2026-07-15T12:55:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "javascript",
-        "event-loop"
+        "python",
+        "google-cloud-platform",
+        "bucket",
+        "hetzner"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "David Callanan"
-    },
-    {
-      "title": "How to programatically export data from Excel to Photoshop?",
-      "url": "https://stackoverflow.com/questions/79980618/how-to-programatically-export-data-from-excel-to-photoshop",
-      "published_at": "2026-07-14T10:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "javascript",
-        "excel",
-        "photoshop",
-        "extendscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "zilmi flawless"
+      "user": "Ayush"
     },
     {
       "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
@@ -1469,19 +1470,18 @@
       "user": "Masum Abbas"
     },
     {
-      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
-      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
-      "published_at": "2026-07-15T12:55:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
+      "published_at": "2026-07-15T23:48:53.000Z",
+      "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
       "tags": [
-        "python",
-        "google-cloud-platform",
-        "bucket",
-        "hetzner"
+        "Node.js",
+        "Security",
+        "owasp"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayush"
+      "source": "freeCodeCamp",
+      "user": "Hackita"
     },
     {
       "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
@@ -1530,22 +1530,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
-      "url": "https://www.freecodecamp.org/news/react-native-live-activities-handbook/",
-      "published_at": "2026-07-14T16:06:42.000Z",
-      "description": "A Live Activity is the card that sits on your lock screen while a delivery rider approaches, updating itself without you opening the app. Apple shipped the API in iOS 16.1. Google shipped its own vers",
-      "tags": [
-        "React Native",
-        "Expo",
-        "iOS",
-        "Android",
-        "push notifications"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Farouq Seriki"
     }
   ],
   "Python": [
@@ -1816,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1465,
       "user": "MDX-Tom"
     },
     {
@@ -1831,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1055,
       "user": "littledivy"
     },
     {
@@ -1846,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 889,
       "user": "AlephAITech"
     },
     {
@@ -1861,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 718,
       "user": "Kappaemme-git"
     },
     {
@@ -1876,26 +1860,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 693,
       "user": "pengchujin"
-    },
-    {
-      "title": "How to create a Python-project while being organised with it and also being efficient?",
-      "url": "https://stackoverflow.com/questions/79981160/how-to-create-a-python-project-while-being-organised-with-it-and-also-being-effi",
-      "published_at": "2026-07-16T03:28:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kolobo_jr"
     },
     {
       "title": "How do I allow my program to edit its configuration files in /usr/local/etc?",
       "url": "https://stackoverflow.com/questions/79981149/how-do-i-allow-my-program-to-edit-its-configuration-files-in-usr-local-etc",
       "published_at": "2026-07-16T00:08:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "linux",
@@ -1909,7 +1881,7 @@
       "title": "FastAPI event loop blocked by Scikit-Learn Joblib thread-pool exhaustion during concurrent async inference",
       "url": "https://stackoverflow.com/questions/79981101/fastapi-event-loop-blocked-by-scikit-learn-joblib-thread-pool-exhaustion-during",
       "published_at": "2026-07-15T19:47:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "scikit-learn",
@@ -1919,6 +1891,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Masum Abbas"
+    },
+    {
+      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
+      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
+      "published_at": "2026-07-15T12:55:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "bucket",
+        "hetzner"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayush"
     },
     {
       "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
@@ -1937,6 +1924,21 @@
       "user": "Masum Abbas"
     },
     {
+      "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
+      "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
+      "published_at": "2026-07-15T09:24:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "gpu",
+        "large-language-model",
+        "onnxruntime"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Furkan &#214;ztekin"
+    },
+    {
       "title": "ArduinoRouterBridge and arduino.app_utils Troubleshoot",
       "url": "https://stackoverflow.com/questions/79981095/arduinorouterbridge-and-arduino-app-utils-troubleshoot",
       "published_at": "2026-07-15T19:33:10.000Z",
@@ -1953,18 +1955,17 @@
       "user": "LUIS FERNANDO LOPEZ AVELAR"
     },
     {
-      "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
-      "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
-      "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Passed timeout not overriding default timeout in GET/POST request",
+      "url": "https://stackoverflow.com/questions/79980856/passed-timeout-not-overriding-default-timeout-in-get-post-request",
+      "published_at": "2026-07-15T05:08:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "python-3.x",
-        "gimp"
+        "playwright-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Carl Witthoft"
+      "user": "Lino Asmolo Jr"
     },
     {
       "title": "How to make my voxel rasteriser run faster?",
@@ -1982,19 +1983,18 @@
       "user": "auzifriend"
     },
     {
-      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
-      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
-      "published_at": "2026-07-15T12:55:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
+      "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
+      "published_at": "2026-07-15T14:56:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
-        "google-cloud-platform",
-        "bucket",
-        "hetzner"
+        "python-3.x",
+        "gimp"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ayush"
+      "user": "Carl Witthoft"
     },
     {
       "title": "How do I clear Warning Message When Using SHM C to Python",
@@ -2009,19 +2009,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tomdean1939"
-    },
-    {
-      "title": "Full string not added to dictionary in loop",
-      "url": "https://stackoverflow.com/questions/79980803/full-string-not-added-to-dictionary-in-loop",
-      "published_at": "2026-07-14T23:19:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lili Hauser"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2278,7 +2265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "berkayyytech"
     },
     {
@@ -2327,6 +2314,19 @@
       "user": "velmu"
     },
     {
+      "title": "Why is toggle() not working on the images I want to hide/show?",
+      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
+      "published_at": "2026-07-16T06:30:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eden Leadbeatter"
+    },
+    {
       "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
       "url": "https://stackoverflow.com/questions/79980907/how-can-i-retrieve-the-text-from-my-search-bar-and-use-it-in-my-event-listener-w",
       "published_at": "2026-07-15T08:24:28.000Z",
@@ -2371,22 +2371,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Nikheel Vishwas Savant"
-    },
-    {
-      "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
-      "url": "https://www.freecodecamp.org/news/react-native-live-activities-handbook/",
-      "published_at": "2026-07-14T16:06:42.000Z",
-      "description": "A Live Activity is the card that sits on your lock screen while a delivery rider approaches, updating itself without you opening the app. Apple shipped the API in iOS 16.1. Google shipped its own vers",
-      "tags": [
-        "React Native",
-        "Expo",
-        "iOS",
-        "Android",
-        "push notifications"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Farouq Seriki"
     }
   ],
   "Cloud": [
@@ -2642,14 +2626,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "blitzdotdev"
     },
     {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "google-cloud-platform",
@@ -2920,6 +2904,20 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
+      "published_at": "2026-07-15T23:48:53.000Z",
+      "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
+      "tags": [
+        "Node.js",
+        "Security",
+        "owasp"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hackita"
     }
   ],
   "Tools": [
@@ -3095,21 +3093,6 @@
       "user": "pabs3"
     },
     {
-      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
-      "published_at": "2026-07-10T05:50:11Z",
-      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 274,
-      "user": "Jane-xiaoer"
-    },
-    {
       "title": "KubeezMedia/kubeez-scroll-world-video - Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
       "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
       "published_at": "2026-07-13T23:32:54Z",
@@ -3121,8 +3104,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 334,
       "user": "KubeezMedia"
+    },
+    {
+      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "published_at": "2026-07-10T05:50:11Z",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "Jane-xiaoer"
     },
     {
       "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
@@ -3151,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "yeet-src"
     },
     {
@@ -3166,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "blitzdotdev"
     },
     {
@@ -3181,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1465,
       "user": "MDX-Tom"
     },
     {
@@ -3196,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1055,
       "user": "littledivy"
     },
     {
@@ -3211,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 889,
       "user": "AlephAITech"
     },
     {
@@ -3226,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 718,
       "user": "Kappaemme-git"
     },
     {
@@ -3241,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 693,
       "user": "pengchujin"
     },
     {
@@ -3256,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 232,
       "user": "vshulcz"
     },
     {
@@ -3286,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "berkayyytech"
     },
     {
@@ -3301,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "ywddd"
     },
     {
@@ -3331,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3346,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 751,
       "user": "pixel-point"
     },
     {
@@ -3361,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 480,
       "user": "yetone"
     },
     {
@@ -3376,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 404,
       "user": "MatinSenPai"
     },
     {
@@ -3406,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 5578,
+      "stars": 7032,
       "user": "xai-org"
     },
     {
@@ -3421,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 582,
       "user": "CluvexStudio"
     },
     {
@@ -3436,8 +3434,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "AyagamiDev"
+    },
+    {
+      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "url": "https://github.com/RongleCat/grok-go",
+      "published_at": "2026-07-11T18:30:24Z",
+      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "RongleCat"
     },
     {
       "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
@@ -3453,21 +3466,6 @@
       "source": "GitHub",
       "stars": 131,
       "user": "m-novotny"
-    },
-    {
-      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "url": "https://github.com/RongleCat/grok-go",
-      "published_at": "2026-07-11T18:30:24Z",
-      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
-      "source": "GitHub",
-      "stars": 128,
-      "user": "RongleCat"
     },
     {
       "title": "Your AI Is Not a Tool",
