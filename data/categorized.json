@@ -590,34 +590,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "published_at": "2026-07-09T07:08:09Z",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "url": "https://github.com/yeet-src/sigwire",
+      "published_at": "2026-07-13T19:26:32Z",
+      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "Matchameleon"
-    },
-    {
-      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
-      "published_at": "2026-07-09T06:47:16Z",
-      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "Matchameleon"
+      "stars": 124,
+      "user": "yeet-src"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -631,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1337,
       "user": "MDX-Tom"
     },
     {
@@ -646,23 +631,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 801,
       "user": "AlephAITech"
     },
     {
-      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "url": "https://github.com/GreyGunG/grokbuild-proxy",
-      "published_at": "2026-07-09T23:28:51Z",
-      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
+      "title": "pengchujin/jzsub - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "url": "https://github.com/pengchujin/jzsub",
+      "published_at": "2026-07-10T15:10:00Z",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "pengchujin"
+    },
+    {
+      "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
+      "url": "https://github.com/ywddd/grok-inspection",
+      "published_at": "2026-07-12T15:04:42Z",
+      "description": "CPA plugin for background xAI/Grok account inspection",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 144,
-      "user": "GreyGunG"
+      "stars": 67,
+      "user": "ywddd"
     },
     {
       "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 464,
       "user": "yetone"
     },
     {
@@ -691,8 +691,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 370,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "opencoredev"
     },
     {
       "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
@@ -706,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2929,
       "user": "xai-org"
     },
     {
@@ -792,6 +807,38 @@
       "user": "KimKim"
     },
     {
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "published_at": "2026-07-16T00:20:42.000Z",
+      "description": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "tags": [
+        "Fundraising",
+        "Venture",
+        "Anthropic",
+        "Greylock Partners",
+        "Saam Motamedi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "published_at": "2026-07-15T23:59:44.000Z",
+      "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Daniel Ek&#8217;s body-scanning startup Neko Health raises another $700M",
       "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
       "published_at": "2026-07-15T19:46:54.000Z",
@@ -853,38 +900,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
-      "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
-      "published_at": "2026-07-15T17:39:54.000Z",
-      "description": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.",
-      "tags": [
-        "Climate",
-        "energy storage",
-        "Google",
-        "Solar Power",
-        "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "published_at": "2026-07-15T17:00:34.000Z",
-      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Security",
-        "In Brief",
-        "suno"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1158,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "Jane-xiaoer"
     },
     {
@@ -1173,68 +1188,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 237,
       "user": "KubeezMedia"
     },
     {
-      "title": "vybenetwork/solana-defi-positions-api - Solana DeFi Positions API",
-      "url": "https://github.com/vybenetwork/solana-defi-positions-api",
-      "published_at": "2026-07-09T21:17:40Z",
-      "description": "Solana DeFi Positions API",
+      "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+      "url": "https://github.com/ucsandman/marketing-studio",
+      "published_at": "2026-07-10T08:00:22Z",
+      "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 220,
-      "user": "vybenetwork"
+      "stars": 129,
+      "user": "ucsandman"
     },
     {
-      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "published_at": "2026-07-09T07:08:09Z",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "url": "https://github.com/yeet-src/sigwire",
+      "published_at": "2026-07-13T19:26:32Z",
+      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "Matchameleon"
+      "stars": 124,
+      "user": "yeet-src"
     },
     {
-      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
-      "published_at": "2026-07-09T06:47:16Z",
-      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "title": "blitzdotdev/blitzos - BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
+      "url": "https://github.com/blitzdotdev/blitzos",
+      "published_at": "2026-07-13T23:44:04Z",
+      "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 133,
-      "user": "Matchameleon"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 1010,
-      "user": "vinhhien112"
+      "stars": 109,
+      "user": "blitzdotdev"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 553,
       "user": "pixel-point"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 464,
       "user": "yetone"
     },
     {
@@ -1293,23 +1293,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 370,
       "user": "MatinSenPai"
     },
     {
-      "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
-      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
-      "published_at": "2026-07-09T17:01:06Z",
-      "description": "Trending GitHub Repository",
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 331,
-      "user": "JexTradesLab"
+      "stars": 294,
+      "user": "opencoredev"
     },
     {
       "title": "How do browser-based website builders like Framer or Webflow communicate with a cross-origin iframe in real time?",
@@ -1342,7 +1342,7 @@
       "title": "How to implement partial function in JavaScript - three-way sum partial application",
       "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
       "published_at": "2026-07-15T12:45:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "partial-application"
@@ -1355,7 +1355,7 @@
       "title": "setInterval always logs the initial React state even though the component re-renders",
       "url": "https://stackoverflow.com/questions/79981048/setinterval-always-logs-the-initial-react-state-even-though-the-component-re-ren",
       "published_at": "2026-07-15T15:59:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs"
@@ -1815,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1337,
       "user": "MDX-Tom"
     },
     {
@@ -1830,23 +1830,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1020,
       "user": "littledivy"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 1010,
-      "user": "vinhhien112"
     },
     {
       "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
@@ -1860,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 801,
       "user": "AlephAITech"
     },
     {
@@ -1875,8 +1860,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 707,
       "user": "Kappaemme-git"
+    },
+    {
+      "title": "pengchujin/jzsub - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "url": "https://github.com/pengchujin/jzsub",
+      "published_at": "2026-07-10T15:10:00Z",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "pengchujin"
+    },
+    {
+      "title": "How do I allow my program to edit its configuration files in /usr/local/etc?",
+      "url": "https://stackoverflow.com/questions/79981149/how-do-i-allow-my-program-to-edit-its-configuration-files-in-usr-local-etc",
+      "published_at": "2026-07-16T00:08:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "linux",
+        "raspberry-pi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ThatAviationGuy"
     },
     {
       "title": "FastAPI event loop blocked by Scikit-Learn Joblib thread-pool exhaustion during concurrent async inference",
@@ -1984,6 +1998,19 @@
       "user": "tomdean1939"
     },
     {
+      "title": "Full string not added to dictionary in loop",
+      "url": "https://stackoverflow.com/questions/79980803/full-string-not-added-to-dictionary-in-loop",
+      "published_at": "2026-07-14T23:19:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "numpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lili Hauser"
+    },
+    {
       "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
       "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
       "published_at": "2026-07-15T06:43:29.000Z",
@@ -1998,35 +2025,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KimKim"
-    },
-    {
-      "title": "Full string not added to dictionary in loop",
-      "url": "https://stackoverflow.com/questions/79980803/full-string-not-added-to-dictionary-in-loop",
-      "published_at": "2026-07-14T23:19:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lili Hauser"
-    },
-    {
-      "title": "Foundry Local SDK ignores CUDAExecutionProvider, forces CPUExecutionProvider on Windows",
-      "url": "https://stackoverflow.com/questions/79980928/foundry-local-sdk-ignores-cudaexecutionprovider-forces-cpuexecutionprovider-on",
-      "published_at": "2026-07-15T09:24:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "cuda",
-        "gpu",
-        "large-language-model",
-        "onnxruntime"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furkan &#214;ztekin"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2270,6 +2268,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "berkayyytech"
     },
     {
       "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
@@ -2621,6 +2634,21 @@
       "user": "xbill"
     },
     {
+      "title": "blitzdotdev/blitzos - BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
+      "url": "https://github.com/blitzdotdev/blitzos",
+      "published_at": "2026-07-13T23:44:04Z",
+      "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "blitzdotdev"
+    },
+    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -2842,19 +2870,6 @@
       "user": "2352500"
     },
     {
-      "title": "You should probably check on your smart appliances",
-      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "published_at": "2026-07-14T17:02:25.512-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cadey"
-    },
-    {
       "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing",
       "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
       "published_at": "2026-07-15T10:36:16.621-05:00",
@@ -2866,6 +2881,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "raymii"
+    },
+    {
+      "title": "You should probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "published_at": "2026-07-14T17:02:25.512-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cadey"
     },
     {
       "title": "Microsoft patches bug in video game Age of Empires II",
@@ -2882,22 +2910,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "published_at": "2026-07-15T17:00:34.000Z",
-      "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Security",
-        "In Brief",
-        "suno"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     }
   ],
   "Tools": [
@@ -3084,7 +3096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "Jane-xiaoer"
     },
     {
@@ -3099,53 +3111,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 237,
       "user": "KubeezMedia"
     },
     {
-      "title": "vybenetwork/solana-defi-positions-api - Solana DeFi Positions API",
-      "url": "https://github.com/vybenetwork/solana-defi-positions-api",
-      "published_at": "2026-07-09T21:17:40Z",
-      "description": "Solana DeFi Positions API",
+      "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+      "url": "https://github.com/ucsandman/marketing-studio",
+      "published_at": "2026-07-10T08:00:22Z",
+      "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98365936?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 220,
-      "user": "vybenetwork"
+      "stars": 129,
+      "user": "ucsandman"
     },
     {
-      "title": "Matchameleon/moneyclaw - openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "published_at": "2026-07-09T07:08:09Z",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "url": "https://github.com/yeet-src/sigwire",
+      "published_at": "2026-07-13T19:26:32Z",
+      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 134,
-      "user": "Matchameleon"
+      "stars": 124,
+      "user": "yeet-src"
     },
     {
-      "title": "Matchameleon/gpt-codex-plugin - gpt codex plugin that prompts from codex to chatgpt through chrome session",
-      "url": "https://github.com/Matchameleon/gpt-codex-plugin",
-      "published_at": "2026-07-09T06:47:16Z",
-      "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
+      "title": "blitzdotdev/blitzos - BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
+      "url": "https://github.com/blitzdotdev/blitzos",
+      "published_at": "2026-07-13T23:44:04Z",
+      "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90712212?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 133,
-      "user": "Matchameleon"
+      "stars": 109,
+      "user": "blitzdotdev"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3159,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1337,
       "user": "MDX-Tom"
     },
     {
@@ -3174,23 +3186,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1020,
       "user": "littledivy"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "published_at": "2026-07-09T16:23:29Z",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38987783?v=4",
-      "source": "GitHub",
-      "stars": 1010,
-      "user": "vinhhien112"
     },
     {
       "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
@@ -3204,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 801,
       "user": "AlephAITech"
     },
     {
@@ -3219,23 +3216,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 707,
       "user": "Kappaemme-git"
     },
     {
-      "title": "cosmtrek/mindwalk - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "published_at": "2026-07-09T11:41:46Z",
-      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "title": "pengchujin/jzsub - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "url": "https://github.com/pengchujin/jzsub",
+      "published_at": "2026-07-10T15:10:00Z",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8832222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 683,
-      "user": "cosmtrek"
+      "stars": 675,
+      "user": "pengchujin"
     },
     {
       "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
@@ -3249,38 +3246,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 199,
       "user": "vshulcz"
-    },
-    {
-      "title": "GreyGunG/grokbuild-proxy - 本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "url": "https://github.com/GreyGunG/grokbuild-proxy",
-      "published_at": "2026-07-09T23:28:51Z",
-      "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6110905?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "GreyGunG"
-    },
-    {
-      "title": "pax-beehive/paxm - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "url": "https://github.com/pax-beehive/paxm",
-      "published_at": "2026-07-09T02:40:57Z",
-      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292671531?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "pax-beehive"
     },
     {
       "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
@@ -3296,6 +3263,51 @@
       "source": "GitHub",
       "stars": 110,
       "user": "intmian"
+    },
+    {
+      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "url": "https://github.com/berkayyytech/vortex",
+      "published_at": "2026-07-11T00:35:53Z",
+      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "berkayyytech"
+    },
+    {
+      "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
+      "url": "https://github.com/ywddd/grok-inspection",
+      "published_at": "2026-07-12T15:04:42Z",
+      "description": "CPA plugin for background xAI/Grok account inspection",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
+      "source": "GitHub",
+      "stars": 67,
+      "user": "ywddd"
+    },
+    {
+      "title": "AminMGMT/BackPack - high-performance reverse tunnel engine written entirely in Go",
+      "url": "https://github.com/AminMGMT/BackPack",
+      "published_at": "2026-07-11T23:44:40Z",
+      "description": "high-performance reverse tunnel engine written entirely in Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212332204?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "AminMGMT"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
@@ -3324,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 553,
       "user": "pixel-point"
     },
     {
@@ -3339,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 464,
       "user": "yetone"
     },
     {
@@ -3354,23 +3366,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 370,
       "user": "MatinSenPai"
     },
     {
-      "title": "JexTradesLab/scaling-octo-engine - GitHub Repository",
-      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
-      "published_at": "2026-07-09T17:01:06Z",
-      "description": "Trending GitHub Repository",
+      "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "published_at": "2026-07-12T16:03:52Z",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301822610?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 331,
-      "user": "JexTradesLab"
+      "stars": 294,
+      "user": "opencoredev"
     },
     {
       "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
@@ -3384,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2929,
       "user": "xai-org"
     },
     {
@@ -3399,23 +3411,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 544,
       "user": "CluvexStudio"
-    },
-    {
-      "title": "thatmagicalcat/txm - Terminal Math rendering engine",
-      "url": "https://github.com/thatmagicalcat/txm",
-      "published_at": "2026-07-09T03:24:59Z",
-      "description": "Terminal Math rendering engine",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85670037?v=4",
-      "source": "GitHub",
-      "stars": 293,
-      "user": "thatmagicalcat"
     },
     {
       "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
@@ -3429,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 147,
       "user": "AyagamiDev"
     },
     {
@@ -3446,6 +3443,21 @@
       "source": "GitHub",
       "stars": 131,
       "user": "m-novotny"
+    },
+    {
+      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "url": "https://github.com/RongleCat/grok-go",
+      "published_at": "2026-07-11T18:30:24Z",
+      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "RongleCat"
     },
     {
       "title": "Your AI Is Not a Tool",
