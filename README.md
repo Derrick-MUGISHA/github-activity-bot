@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--16-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-16 6:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-16 9:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -117,7 +117,7 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 | 19 | [I Finally Built the Dev Opportunity Radar Website ❤️](https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi) | Dev.to |
 | 20 | [Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots](https://dev.to/gde/stop-your-llms-from-forgetting-part-2-how-a-graph-anchor-pyramid-cures-ais-relational-blindspots-4m33) | Dev.to |
 
-<sub>Last fetched: Thu, 16 Jul 2026 06:31:08 CAT</sub>
+<sub>Last fetched: Thu, 16 Jul 2026 09:08:06 CAT</sub>
 
 
 ---
@@ -126,36 +126,36 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the longest substring without repeating characters**
+**1. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Mutability, performance, use cases
 
 </details>
 
-**2. `React` — How would you optimize a React app's performance?**
+**2. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Token bucket, sliding window, Redis
 
 </details>
 
@@ -168,16 +168,16 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 70 | 38.0% | `████████████████████` |
-| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **AI** | 69 | 37.5% | `████████████████████` |
+| **Tools** | 40 | 21.7% | `████████████░░░░░░░░` |
 | **JavaScript** | 38 | 20.7% | `███████████░░░░░░░░░` |
 | **Python** | 37 | 20.1% | `███████████░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
+| **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 1 | 0.5% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -198,33 +198,31 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.9%
-JavaScript      ███████████████████████████ 23.8%
-Python          ██████████████████████████ 23.1%
-Java            ██████████████████ 16.3%
-Rust            ████████ 7.5%
-Kotlin          █ 1.3%
+Go              ██████████████████████████████ 26.8%
+JavaScript      ███████████████████████████ 24.2%
+Python          ██████████████████████████ 23.6%
+Java            ███████████████████ 16.6%
+Rust            █████████ 7.6%
 Ruby            █ 0.6%
-Swift           █ 0.6%
+Kotlin          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 43
+    "Go" : 42
     "JavaScript" : 38
     "Python" : 37
     "Java" : 26
     "Rust" : 12
-    "Kotlin" : 2
     "Ruby" : 1
-    "Swift" : 1
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
 
 
 ---
@@ -276,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 04:31:08 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 07:08:06 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
