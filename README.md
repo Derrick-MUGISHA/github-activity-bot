@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-16 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-16 13:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -108,18 +108,18 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 | 10 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
 | 11 | [Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster](https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m) | Dev.to |
 | 12 | [How I made a Rust hot path 27x faster, and the AI fix I refused to merge](https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg) | Dev.to |
-| 13 | [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd) | Dev.to |
-| 14 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
-| 15 | [Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4) | Dev.to |
-| 16 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
-| 17 | [I Finally Built the Dev Opportunity Radar Website ❤️](https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi) | Dev.to |
-| 18 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
-| 19 | [This is remarkable
+| 13 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
+| 14 | [Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator](https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4) | Dev.to |
+| 15 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
+| 16 | [I Finally Built the Dev Opportunity Radar Website ❤️](https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi) | Dev.to |
+| 17 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
+| 18 | [This is remarkable
 
 https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0) | Dev.to |
-| 20 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 19 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 20 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
 
-<sub>Last fetched: Thu, 16 Jul 2026 11:29:29 CAT</sub>
+<sub>Last fetched: Thu, 16 Jul 2026 13:21:34 CAT</sub>
 
 
 ---
@@ -128,36 +128,36 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
+**1. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Scope, hoisting, and reassignment capabilities
+> Heap, stack, garbage collection
 
 </details>
 
-**2. `Database` — Explain database indexing and when to use it**
+**2. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**3. `DataStructures` — Find the longest substring without repeating characters**
+**3. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Heap, stack, garbage collection
 
 </details>
 
@@ -176,9 +176,9 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 | **Python** | 37 | 20.1% | `██████████░░░░░░░░░░` |
 | **DevOps** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
-| **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 1 | 0.5% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -200,11 +200,11 @@ https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehtt
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.8%
-JavaScript      ███████████████████████████ 24.2%
-Python          ██████████████████████████ 23.6%
+Go              ██████████████████████████████ 26.1%
+JavaScript      ████████████████████████████ 24.2%
+Python          ███████████████████████████ 23.6%
 Java            ███████████████████ 16.6%
-Rust            █████████ 7.6%
+Rust            ██████████ 8.3%
 Ruby            █ 0.6%
 Kotlin          █ 0.6%
 
@@ -212,11 +212,11 @@ Kotlin          █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 42
+    "Go" : 41
     "JavaScript" : 38
     "Python" : 37
     "Java" : 26
-    "Rust" : 12
+    "Rust" : 13
     "Ruby" : 1
     "Kotlin" : 1
 ```
@@ -224,7 +224,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![antigravity](https://img.shields.io/badge/antigravity-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
 
 
 ---
@@ -276,6 +276,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 09:29:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 16 Jul 2026 11:21:34 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
