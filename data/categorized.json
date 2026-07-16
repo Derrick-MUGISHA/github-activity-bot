@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Claude might be saturating your machine",
+      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07",
+      "published_at": "2026-07-16T17:53:53Z",
+      "description": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
+      "tags": [
+        "ai",
+        "programming",
+        "claude",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png",
+      "source": "Dev.to",
+      "user": "Sidhant Panda"
+    },
+    {
       "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
       "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k",
       "published_at": "2026-07-15T23:58:42Z",
@@ -151,21 +166,6 @@
       "user": "xbill"
     },
     {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
-      "published_at": "2026-07-14T15:06:56Z",
-      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "tags": [
-        "gemma",
-        "google",
-        "llm",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
       "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
       "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
       "published_at": "2026-07-13T19:37:38Z",
@@ -196,6 +196,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -223,21 +238,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
       "source": "Dev.to",
       "user": "Iain Thomson"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -329,6 +329,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+      "published_at": "2026-07-14T09:57:26Z",
+      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "tags": [
+        "ai",
+        "agents",
+        "adk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Omni Flash Preview with Codex",
       "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
       "published_at": "2026-07-05T02:28:00Z",
@@ -357,6 +372,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
+      "published_at": "2026-07-14T15:06:56Z",
+      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "tags": [
+        "gemma",
+        "google",
+        "llm",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
     },
     {
       "title": "GRIND404: I turned my \"Passion\" for LeetCode into a playable arcade game",
@@ -601,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 533,
       "user": "tandpfun"
     },
     {
@@ -616,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 188,
       "user": "Blueturboguy07"
     },
     {
@@ -631,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1652,
       "user": "MDX-Tom"
     },
     {
@@ -646,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 981,
       "user": "AlephAITech"
     },
     {
@@ -661,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "pengchujin"
     },
     {
@@ -706,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "MatinSenPai"
     },
     {
@@ -721,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "opencoredev"
     },
     {
@@ -736,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11227,
+      "stars": 11439,
       "user": "xai-org"
     },
     {
@@ -792,6 +822,22 @@
       "user": "Sadhin"
     },
     {
+      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
+      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
+      "published_at": "2026-07-15T03:47:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "websocket",
+        "vite",
+        "reverse-proxy",
+        "hmr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elina"
+    },
+    {
       "title": "How to create prompt version in vertex ai prompt library using python",
       "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
       "published_at": "2026-07-16T11:15:56.000Z",
@@ -805,40 +851,40 @@
       "user": "Subramanian"
     },
     {
-      "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
-      "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
-      "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "published_at": "2026-07-16T18:32:54.000Z",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
       "tags": [
-        "python",
-        "python-3.x",
-        "gimp"
+        "AI",
+        "Apps",
+        "Google",
+        "Video"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Carl Witthoft"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
-      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
-      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
-      "published_at": "2026-07-15T06:43:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published_at": "2026-07-16T18:22:06.000Z",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
       "tags": [
-        "python",
-        "tensorflow",
-        "flask",
-        "keras",
-        "conv-neural-network"
+        "AI",
+        "Apps",
+        "Gaming",
+        "Roblox"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KimKim"
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
       "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
       "published_at": "2026-07-16T17:00:00.000Z",
-      "description": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
+      "description": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
       "tags": [
         "Apps",
         "beehiiv",
@@ -924,22 +970,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-      "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
-      "published_at": "2026-07-16T15:37:47.000Z",
-      "description": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybercrime",
-        "cybersecurity",
-        "London Underground"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1181,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 556,
       "user": "KubeezMedia"
     },
     {
@@ -1196,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 533,
       "user": "tandpfun"
     },
     {
@@ -1226,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 188,
       "user": "Blueturboguy07"
     },
     {
@@ -1241,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "ucsandman"
     },
     {
@@ -1256,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1007,
       "user": "pixel-point"
     },
     {
@@ -1271,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 823,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1301,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "MatinSenPai"
     },
     {
@@ -1316,8 +1346,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "opencoredev"
+    },
+    {
+      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
+      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
+      "published_at": "2026-07-16T18:36:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Escaping a PCRE pattern manually",
@@ -1337,7 +1380,7 @@
       "title": "How can I make my page scroll past three elements?",
       "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
       "published_at": "2026-07-16T16:46:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1428,34 +1471,20 @@
       "user": "qxzsilver"
     },
     {
-      "title": "Add controlling properties to make drag and drop experience smoother",
-      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
-      "published_at": "2026-07-14T19:35:53.000Z",
+      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
+      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
+      "published_at": "2026-07-15T03:47:27.000Z",
       "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "jquery",
-        "draggable",
-        "droppable"
+        "websocket",
+        "vite",
+        "reverse-proxy",
+        "hmr"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stonypaul"
-    },
-    {
-      "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
-      "url": "https://stackoverflow.com/questions/79980907/how-can-i-retrieve-the-text-from-my-search-bar-and-use-it-in-my-event-listener-w",
-      "published_at": "2026-07-15T08:24:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "node.js",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "learning&#39;s_a_process"
+      "user": "Elina"
     },
     {
       "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
@@ -1783,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1652,
       "user": "MDX-Tom"
     },
     {
@@ -1798,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1091,
       "user": "littledivy"
     },
     {
@@ -1813,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 981,
       "user": "AlephAITech"
     },
     {
@@ -1828,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 755,
       "user": "Kappaemme-git"
     },
     {
@@ -1843,8 +1872,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "pengchujin"
+    },
+    {
+      "title": "How can i solve this pip wfuzz package instalation error?",
+      "url": "https://stackoverflow.com/questions/79981379/how-can-i-solve-this-pip-wfuzz-package-instalation-error",
+      "published_at": "2026-07-16T18:06:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "linux",
+        "pip",
+        "debian"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eduardo Silva"
+    },
+    {
+      "title": "How to declare generic PySide6 signal?",
+      "url": "https://stackoverflow.com/questions/79981380/how-to-declare-generic-pyside6-signal",
+      "published_at": "2026-07-16T18:12:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Basilevs"
+    },
+    {
+      "title": "PyTorch/Captum: RuntimeError: gather(): Expected dtype int32/int64 for index",
+      "url": "https://stackoverflow.com/questions/79981390/pytorch-captum-runtimeerror-gather-expected-dtype-int32-int64-for-index",
+      "published_at": "2026-07-16T18:57:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "machine-learning",
+        "pytorch"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tessa"
+    },
+    {
+      "title": "Getting SSL error while fetching data from BLS",
+      "url": "https://stackoverflow.com/questions/79981376/getting-ssl-error-while-fetching-data-from-bls",
+      "published_at": "2026-07-16T17:47:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ssl",
+        "python-requests",
+        "ssl-certificate"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hayat"
     },
     {
       "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
@@ -1875,19 +1962,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "King Of Noobs"
-    },
-    {
-      "title": "How do you link a specific .py script to an input field, label, and button in Tkinter/Python3?",
-      "url": "https://stackoverflow.com/questions/79981343/how-do-you-link-a-specific-py-script-to-an-input-field-label-and-button-in-tk",
-      "published_at": "2026-07-16T14:55:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jas"
     },
     {
       "title": "How to create prompt version in vertex ai prompt library using python",
@@ -1941,51 +2015,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThatAviationGuy"
-    },
-    {
-      "title": "GIMP help install package: 'configure' fails due to not finding \"right\" python",
-      "url": "https://stackoverflow.com/questions/79981033/gimp-help-install-package-configure-fails-due-to-not-finding-right-python",
-      "published_at": "2026-07-15T14:56:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-3.x",
-        "gimp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Carl Witthoft"
-    },
-    {
-      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
-      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
-      "published_at": "2026-07-15T06:43:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "tensorflow",
-        "flask",
-        "keras",
-        "conv-neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KimKim"
-    },
-    {
-      "title": "FastAPI event loop blocked by Scikit-Learn Joblib thread-pool exhaustion during concurrent async inference",
-      "url": "https://stackoverflow.com/questions/79981101/fastapi-event-loop-blocked-by-scikit-learn-joblib-thread-pool-exhaustion-during",
-      "published_at": "2026-07-15T19:47:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "scikit-learn",
-        "python-asyncio",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Masum Abbas"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2047,6 +2076,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi6e87r15xnm9dzepxauj.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
+      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
+      "published_at": "2026-07-14T11:59:15Z",
+      "description": "...",
+      "tags": [
+        "api",
+        "networking",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
@@ -2256,10 +2300,23 @@
       "user": "kghose"
     },
     {
+      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
+      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
+      "published_at": "2026-07-16T18:36:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "How can I make my page scroll past three elements?",
       "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
       "published_at": "2026-07-16T16:46:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2282,24 +2339,24 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eden Leadbeatter"
-    },
-    {
-      "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
-      "url": "https://stackoverflow.com/questions/79980907/how-can-i-retrieve-the-text-from-my-search-bar-and-use-it-in-my-event-listener-w",
-      "published_at": "2026-07-15T08:24:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "node.js",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "learning&#39;s_a_process"
     }
   ],
   "Mobile": [
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published_at": "2026-07-16T18:22:06.000Z",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Gaming",
+        "Roblox"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
     {
       "title": "Master Full-Stack Mobile Development with React Native",
       "url": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
@@ -2541,21 +2598,6 @@
       "user": "xbill"
     },
     {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
-      "published_at": "2026-06-30T01:18:13Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "gemma",
-        "tpu",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How to create prompt version in vertex ai prompt library using python",
       "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
       "published_at": "2026-07-16T11:15:56.000Z",
@@ -2608,19 +2650,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mort"
-    },
-    {
-      "title": "Detecting Full Table Scans With SQLite",
-      "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
-      "published_at": "2026-07-15T18:57:58.186-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "ruby"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "alexpls"
     },
     {
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
@@ -2802,38 +2831,6 @@
       "user": "2352500"
     },
     {
-      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-      "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
-      "published_at": "2026-07-16T15:37:47.000Z",
-      "description": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybercrime",
-        "cybersecurity",
-        "London Underground"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Period tracker Stardust shares users&#8217; health data with analytics firm, says Mozilla research",
-      "url": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
-      "published_at": "2026-07-16T15:33:28.000Z",
-      "description": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
-      "tags": [
-        "Biotech & Health",
-        "Privacy",
-        "Security",
-        "cybersecurity",
-        "period trackers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
       "published_at": "2026-07-15T23:48:53.000Z",
@@ -3002,7 +2999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 556,
       "user": "KubeezMedia"
     },
     {
@@ -3017,7 +3014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 533,
       "user": "tandpfun"
     },
     {
@@ -3047,7 +3044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 188,
       "user": "Blueturboguy07"
     },
     {
@@ -3062,7 +3059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "ucsandman"
     },
     {
@@ -3077,7 +3074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1652,
       "user": "MDX-Tom"
     },
     {
@@ -3092,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1091,
       "user": "littledivy"
     },
     {
@@ -3107,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 981,
       "user": "AlephAITech"
     },
     {
@@ -3122,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 755,
       "user": "Kappaemme-git"
     },
     {
@@ -3137,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "pengchujin"
     },
     {
@@ -3152,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 290,
       "user": "vshulcz"
     },
     {
@@ -3182,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "shibadogcap"
     },
     {
@@ -3227,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1007,
       "user": "pixel-point"
     },
     {
@@ -3242,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 823,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3272,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "MatinSenPai"
     },
     {
@@ -3287,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "opencoredev"
     },
     {
@@ -3302,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11227,
+      "stars": 11439,
       "user": "xai-org"
     },
     {
@@ -3317,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 868,
       "user": "CluvexStudio"
     },
     {
@@ -3366,20 +3363,19 @@
       "user": "m-novotny"
     },
     {
-      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
-      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
-      "published_at": "2026-07-15T06:43:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "published_at": "2026-07-16T18:32:54.000Z",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
       "tags": [
-        "python",
-        "tensorflow",
-        "flask",
-        "keras",
-        "conv-neural-network"
+        "AI",
+        "Apps",
+        "Google",
+        "Video"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KimKim"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Yes, you can now order DoorDash from the command line",
