@@ -76,21 +76,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
-      "published_at": "2026-07-14T15:06:56Z",
-      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "tags": [
-        "gemma",
-        "google",
-        "llm",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
       "published_at": "2026-07-14T16:38:47Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
       "user": "Zach"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
+      "published_at": "2026-07-14T15:06:56Z",
+      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "tags": [
+        "gemma",
+        "google",
+        "llm",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "yeet-src"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1415,
       "user": "MDX-Tom"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 843,
       "user": "AlephAITech"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 685,
       "user": "pengchujin"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 72,
       "user": "ywddd"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "yetone"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 383,
       "user": "MatinSenPai"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "opencoredev"
     },
     {
@@ -721,8 +721,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 2929,
+      "stars": 5578,
       "user": "xai-org"
+    },
+    {
+      "title": "Linus Torvalds on LLM usage in kernel development",
+      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+      "published_at": "2026-07-15T22:19:34.042-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "thang"
     },
     {
       "title": "Your AI Is Not a Tool",
@@ -735,18 +747,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "adamcstephens"
-    },
-    {
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "published_at": "2026-07-15T16:06:48.467-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "brn"
     },
     {
       "title": "Why does useEffect show an old external store value after React Activity is shown again?",
@@ -791,20 +791,36 @@
       "user": "Carl Witthoft"
     },
     {
-      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
-      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
-      "published_at": "2026-07-15T06:43:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "published_at": "2026-07-16T04:00:00.000Z",
+      "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
       "tags": [
-        "python",
-        "tensorflow",
-        "flask",
-        "keras",
-        "conv-neural-network"
+        "Startups",
+        "Climate",
+        "Fundraising",
+        "recycling",
+        "lululemon"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KimKim"
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "published_at": "2026-07-16T04:00:00.000Z",
+      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "energy",
+        "oil and gas"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
@@ -885,21 +901,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sean O'Kane"
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "published_at": "2026-07-15T18:04:06.000Z",
-      "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "tags": [
-        "AI",
-        "TC",
-        "Mira Murati",
-        "thinking machine labs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
@@ -1173,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 274,
       "user": "Jane-xiaoer"
     },
     {
@@ -1188,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 269,
       "user": "KubeezMedia"
     },
     {
@@ -1218,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "yeet-src"
     },
     {
@@ -1233,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "blitzdotdev"
     },
     {
@@ -1248,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1263,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 665,
       "user": "pixel-point"
     },
     {
@@ -1278,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "yetone"
     },
     {
@@ -1293,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 383,
       "user": "MatinSenPai"
     },
     {
@@ -1308,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "opencoredev"
     },
     {
@@ -1380,6 +1381,20 @@
       "user": "learning&#39;s_a_process"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 23 answers · score 15",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Add controlling properties to make drag and drop experience smoother",
       "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
       "published_at": "2026-07-14T19:35:53.000Z",
@@ -1410,20 +1425,6 @@
       "user": "David Brierton"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 23 answers · score 15",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "How to queue microtask at tail end?",
       "url": "https://stackoverflow.com/questions/79980626/how-to-queue-microtask-at-tail-end",
       "published_at": "2026-07-14T10:57:55.000Z",
@@ -1452,6 +1453,22 @@
       "user": "zilmi flawless"
     },
     {
+      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
+      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
+      "published_at": "2026-07-15T10:40:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "fastapi",
+        "nan"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Masum Abbas"
+    },
+    {
       "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
       "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
       "published_at": "2026-07-15T12:55:38.000Z",
@@ -1465,22 +1482,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ayush"
-    },
-    {
-      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
-      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
-      "published_at": "2026-07-15T10:40:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "json",
-        "pandas",
-        "fastapi",
-        "nan"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Masum Abbas"
     },
     {
       "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
@@ -1815,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1415,
       "user": "MDX-Tom"
     },
     {
@@ -1830,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1035,
       "user": "littledivy"
     },
     {
@@ -1845,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 843,
       "user": "AlephAITech"
     },
     {
@@ -1860,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 713,
       "user": "Kappaemme-git"
     },
     {
@@ -1875,14 +1876,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 685,
       "user": "pengchujin"
+    },
+    {
+      "title": "How to create a Python-project while being organised with it and also being efficient?",
+      "url": "https://stackoverflow.com/questions/79981160/how-to-create-a-python-project-while-being-organised-with-it-and-also-being-effi",
+      "published_at": "2026-07-16T03:28:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kolobo_jr"
     },
     {
       "title": "How do I allow my program to edit its configuration files in /usr/local/etc?",
       "url": "https://stackoverflow.com/questions/79981149/how-do-i-allow-my-program-to-edit-its-configuration-files-in-usr-local-etc",
       "published_at": "2026-07-16T00:08:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "linux",
@@ -1902,6 +1915,22 @@
         "scikit-learn",
         "python-asyncio",
         "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Masum Abbas"
+    },
+    {
+      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
+      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
+      "published_at": "2026-07-15T10:40:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "fastapi",
+        "nan"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1968,22 +1997,6 @@
       "user": "Ayush"
     },
     {
-      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
-      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
-      "published_at": "2026-07-15T10:40:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "json",
-        "pandas",
-        "fastapi",
-        "nan"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Masum Abbas"
-    },
-    {
       "title": "How do I clear Warning Message When Using SHM C to Python",
       "url": "https://stackoverflow.com/questions/79980873/how-do-i-clear-warning-message-when-using-shm-c-to-python",
       "published_at": "2026-07-15T06:15:59.000Z",
@@ -2009,22 +2022,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lili Hauser"
-    },
-    {
-      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
-      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
-      "published_at": "2026-07-15T06:43:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "tensorflow",
-        "flask",
-        "keras",
-        "conv-neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KimKim"
     },
     {
       "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
@@ -2645,7 +2642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "blitzdotdev"
     },
     {
@@ -2703,6 +2700,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mort"
+    },
+    {
+      "title": "Detecting Full Table Scans With SQLite",
+      "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
+      "published_at": "2026-07-15T18:57:58.186-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "ruby"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "alexpls"
     },
     {
       "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
@@ -3096,7 +3106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 274,
       "user": "Jane-xiaoer"
     },
     {
@@ -3111,7 +3121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 269,
       "user": "KubeezMedia"
     },
     {
@@ -3141,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "yeet-src"
     },
     {
@@ -3156,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259449558?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "blitzdotdev"
     },
     {
@@ -3171,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1415,
       "user": "MDX-Tom"
     },
     {
@@ -3186,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1035,
       "user": "littledivy"
     },
     {
@@ -3201,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 843,
       "user": "AlephAITech"
     },
     {
@@ -3216,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 713,
       "user": "Kappaemme-git"
     },
     {
@@ -3231,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 685,
       "user": "pengchujin"
     },
     {
@@ -3246,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 222,
       "user": "vshulcz"
     },
     {
@@ -3291,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 72,
       "user": "ywddd"
     },
     {
@@ -3321,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3336,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 665,
       "user": "pixel-point"
     },
     {
@@ -3351,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "yetone"
     },
     {
@@ -3366,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 383,
       "user": "MatinSenPai"
     },
     {
@@ -3381,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "opencoredev"
     },
     {
@@ -3396,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 2929,
+      "stars": 5578,
       "user": "xai-org"
     },
     {
@@ -3411,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 555,
       "user": "CluvexStudio"
     },
     {
@@ -3456,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 128,
       "user": "RongleCat"
     },
     {
@@ -3470,22 +3480,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "adamcstephens"
-    },
-    {
-      "title": "CNN digit recognition model: high local accuracy but poor predictions after deployment (Flask API)",
-      "url": "https://stackoverflow.com/questions/79980878/cnn-digit-recognition-model-high-local-accuracy-but-poor-predictions-after-depl",
-      "published_at": "2026-07-15T06:43:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "tensorflow",
-        "flask",
-        "keras",
-        "conv-neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KimKim"
     },
     {
       "title": "How I Used Harness Engineering to Make Our Company AI-Native",
