@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 889,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 479,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "HeiGeAi"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "oil-oil"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 204,
       "user": "nethical6"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 530,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 16256,
+      "stars": 16341,
       "user": "xai-org"
     },
     {
@@ -863,6 +863,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sadhin"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "published_at": "2026-07-17T22:55:09.000Z",
+      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "ai agent",
+        "Hermes Agent",
+        "Vertu"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "published_at": "2026-07-17T22:12:56.000Z",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Startups",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
@@ -958,36 +990,20 @@
       "user": "Theresa Loconsolo"
     },
     {
-      "title": "FBI arrests man accused of using Steam games to drain victims&#8217; crypto wallets",
-      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-      "published_at": "2026-07-17T16:18:09.000Z",
-      "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+      "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
+      "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
+      "published_at": "2026-07-17T21:03:56.000Z",
+      "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
       "tags": [
-        "Gaming",
-        "Security",
-        "crypto",
-        "cryptocurrency",
-        "cybercrime"
+        "AI",
+        "ai agents",
+        "LLM-as-Judge",
+        "ollama",
+        "agent evaluation"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-      "published_at": "2026-07-17T15:29:21.000Z",
-      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
-      "tags": [
-        "Security",
-        "Amazon Web Services",
-        "AWS",
-        "In Brief",
-        "whoops"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
@@ -1020,36 +1036,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
-      "url": "https://www.freecodecamp.org/news/why-it-worked-on-my-machine-still-happens-in-2026/",
-      "published_at": "2026-07-15T18:18:11.000Z",
-      "description": "Every engineering team has said it at least once: \"It works on my machine.\" The phrase has become a running joke in software, but it's rarely funny when it happens in production. A feature passes ever",
-      "tags": [
-        "software development",
-        "PaaS",
-        "deployment"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How I Used Harness Engineering to Make Our Company AI-Native",
-      "url": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
-      "published_at": "2026-07-15T15:34:41.000Z",
-      "description": "Most companies say they want to \"adopt AI\". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b",
-      "tags": [
-        "AI",
-        "mcp",
-        "Software Engineering",
-        "documentation",
-        "harnessengineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Tech With RJ"
     }
   ],
   "JavaScript": [
@@ -1200,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8639,
+      "stars": 8648,
       "user": "Fei-Away"
     },
     {
@@ -1215,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 889,
       "user": "tandpfun"
     },
     {
@@ -1245,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 479,
       "user": "Blueturboguy07"
     },
     {
@@ -1260,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "HeiGeAi"
     },
     {
@@ -1275,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "pixel-point"
     },
     {
@@ -1305,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 530,
       "user": "MatinSenPai"
     },
     {
@@ -1320,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 408,
       "user": "pablostanley"
     },
     {
@@ -1399,7 +1385,7 @@
       "title": "Fetching particular class from the website for developing Browser extension",
       "url": "https://stackoverflow.com/questions/79981628/fetching-particular-class-from-the-website-for-developing-browser-extension",
       "published_at": "2026-07-17T14:04:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "dom",
@@ -1453,6 +1439,19 @@
       "user": "Gary"
     },
     {
+      "title": "Why is toggle() not working on the images I want to hide/show?",
+      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
+      "published_at": "2026-07-16T06:30:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eden Leadbeatter"
+    },
+    {
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
       "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
       "published_at": "2026-07-16T11:56:06.000Z",
@@ -1467,19 +1466,6 @@
       "user": "Harshit"
     },
     {
-      "title": "Why is toggle() not working on the images I want to hide/show?",
-      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
-      "published_at": "2026-07-16T06:30:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eden Leadbeatter"
-    },
-    {
       "title": "How to implement partial function in JavaScript - three-way sum partial application",
       "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
       "published_at": "2026-07-15T12:45:23.000Z",
@@ -1491,6 +1477,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qxzsilver"
+    },
+    {
+      "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
+      "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
+      "published_at": "2026-07-17T20:34:10.000Z",
+      "description": "Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or",
+      "tags": [
+        "anchor css",
+        "popup",
+        "modal",
+        "html modal",
+        "Accessibility"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "jabo Landry"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
+      "published_at": "2026-07-17T20:33:11.000Z",
+      "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "pdf tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
@@ -1566,20 +1584,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
-      "published_at": "2026-07-15T23:48:53.000Z",
-      "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
-      "tags": [
-        "Node.js",
-        "Security",
-        "owasp"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hackita"
     }
   ],
   "Python": [
@@ -1865,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1148,
       "user": "littledivy"
     },
     {
@@ -1895,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "oil-oil"
     },
     {
@@ -1930,7 +1934,7 @@
       "title": "Nested dictionary output",
       "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
       "published_at": "2026-07-17T21:05:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "dictionary"
@@ -2061,6 +2065,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThatAviationGuy"
+    },
+    {
+      "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
+      "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
+      "published_at": "2026-07-17T21:03:56.000Z",
+      "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
+      "tags": [
+        "AI",
+        "ai agents",
+        "LLM-as-Judge",
+        "ollama",
+        "agent evaluation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2258,6 +2278,22 @@
       "user": "berkayyytech"
     },
     {
+      "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
+      "published_at": "2026-07-17T20:31:41.000Z",
+      "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
+      "tags": [
+        "Platform Engineering",
+        "Devops",
+        "Kubernetes",
+        "gitops",
+        "Cloud Computing"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
+    },
+    {
       "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
       "url": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
       "published_at": "2026-07-16T22:56:30.000Z",
@@ -2342,6 +2378,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eden Leadbeatter"
+    },
+    {
+      "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
+      "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
+      "published_at": "2026-07-17T20:34:10.000Z",
+      "description": "Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or",
+      "tags": [
+        "anchor css",
+        "popup",
+        "modal",
+        "html modal",
+        "Accessibility"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "jabo Landry"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
+      "published_at": "2026-07-17T20:33:11.000Z",
+      "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "pdf tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2357,7 +2425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "ZethRise"
     },
     {
@@ -2372,20 +2440,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "published_at": "2026-07-17T16:12:46.000Z",
-      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "evergreens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
@@ -2717,20 +2771,20 @@
       "user": "Theresa Loconsolo"
     },
     {
-      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-      "published_at": "2026-07-17T15:29:21.000Z",
-      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+      "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
+      "published_at": "2026-07-17T20:31:41.000Z",
+      "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
       "tags": [
-        "Security",
-        "Amazon Web Services",
-        "AWS",
-        "In Brief",
-        "whoops"
+        "Platform Engineering",
+        "Devops",
+        "Kubernetes",
+        "gitops",
+        "Cloud Computing"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
     }
   ],
   "Database": [
@@ -2937,6 +2991,22 @@
       "user": "2352500"
     },
     {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "published_at": "2026-07-17T22:55:09.000Z",
+      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "ai agent",
+        "Hermes Agent",
+        "Vertu"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
       "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
       "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "published_at": "2026-07-17T21:20:47.000Z",
@@ -2950,52 +3020,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "FBI arrests man accused of using Steam games to drain victims&#8217; crypto wallets",
-      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-      "published_at": "2026-07-17T16:18:09.000Z",
-      "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
-      "tags": [
-        "Gaming",
-        "Security",
-        "crypto",
-        "cryptocurrency",
-        "cybercrime"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-      "published_at": "2026-07-17T15:29:21.000Z",
-      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
-      "tags": [
-        "Security",
-        "Amazon Web Services",
-        "AWS",
-        "In Brief",
-        "whoops"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
-      "published_at": "2026-07-15T23:48:53.000Z",
-      "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
-      "tags": [
-        "Node.js",
-        "Security",
-        "owasp"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hackita"
     }
   ],
   "Tools": [
@@ -3152,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8639,
+      "stars": 8648,
       "user": "Fei-Away"
     },
     {
@@ -3167,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 889,
       "user": "tandpfun"
     },
     {
@@ -3197,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 479,
       "user": "Blueturboguy07"
     },
     {
@@ -3212,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "HeiGeAi"
     },
     {
@@ -3242,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1148,
       "user": "littledivy"
     },
     {
@@ -3272,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "oil-oil"
     },
     {
@@ -3317,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 204,
       "user": "nethical6"
     },
     {
@@ -3377,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "pixel-point"
     },
     {
@@ -3407,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 530,
       "user": "MatinSenPai"
     },
     {
@@ -3422,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 408,
       "user": "pablostanley"
     },
     {
@@ -3452,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 16256,
+      "stars": 16341,
       "user": "xai-org"
     },
     {
@@ -3467,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1135,
       "user": "CluvexStudio"
     },
     {
@@ -3512,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "ZethRise"
     },
     {
@@ -3557,20 +3581,36 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "How I Used Harness Engineering to Make Our Company AI-Native",
-      "url": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
-      "published_at": "2026-07-15T15:34:41.000Z",
-      "description": "Most companies say they want to \"adopt AI\". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b",
+      "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
+      "published_at": "2026-07-17T20:33:11.000Z",
+      "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
       "tags": [
-        "AI",
-        "mcp",
-        "Software Engineering",
-        "documentation",
-        "harnessengineering"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "pdf tutorial"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Tech With RJ"
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
+      "published_at": "2026-07-17T20:31:41.000Z",
+      "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
+      "tags": [
+        "Platform Engineering",
+        "Devops",
+        "Kubernetes",
+        "gitops",
+        "Cloud Computing"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
     }
   ]
 }
