@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 635,
       "user": "tandpfun"
     },
     {
@@ -661,8 +661,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 284,
       "user": "Blueturboguy07"
+    },
+    {
+      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "url": "https://github.com/yeet-src/sigwire",
+      "published_at": "2026-07-13T19:26:32Z",
+      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "yeet-src"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -676,38 +691,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1672,
       "user": "MDX-Tom"
     },
     {
-      "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "published_at": "2026-07-10T04:13:51Z",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "title": "oil-oil/beautify-github-readme - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "published_at": "2026-07-13T07:31:56Z",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 984,
-      "user": "AlephAITech"
-    },
-    {
-      "title": "pengchujin/jzsub - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "url": "https://github.com/pengchujin/jzsub",
-      "published_at": "2026-07-10T15:10:00Z",
-      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
-      "source": "GitHub",
-      "stars": 714,
-      "user": "pengchujin"
+      "stars": 691,
+      "user": "oil-oil"
     },
     {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
@@ -725,21 +725,6 @@
       "user": "ywddd"
     },
     {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "yetone"
-    },
-    {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "url": "https://github.com/MatinSenPai/Aether-GUI",
       "published_at": "2026-07-14T20:13:18Z",
@@ -751,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "MatinSenPai"
     },
     {
@@ -766,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "opencoredev"
     },
     {
@@ -781,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11938,
+      "stars": 12236,
       "user": "xai-org"
     },
     {
@@ -839,7 +824,7 @@
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
       "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "iframe",
@@ -1195,6 +1180,21 @@
       "user": "velmu"
     },
     {
+      "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "published_at": "2026-07-15T12:34:51Z",
+      "description": "Codex Dream Skin",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
+      "source": "GitHub",
+      "stars": 5448,
+      "user": "Fei-Away"
+    },
+    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 635,
       "user": "tandpfun"
     },
     {
@@ -1221,23 +1221,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 580,
       "user": "KubeezMedia"
-    },
-    {
-      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
-      "published_at": "2026-07-10T05:50:11Z",
-      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 279,
-      "user": "Jane-xiaoer"
     },
     {
       "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
@@ -1251,23 +1236,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 284,
       "user": "Blueturboguy07"
     },
     {
-      "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
-      "url": "https://github.com/ucsandman/marketing-studio",
-      "published_at": "2026-07-10T08:00:22Z",
-      "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "url": "https://github.com/yeet-src/sigwire",
+      "published_at": "2026-07-13T19:26:32Z",
+      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 152,
-      "user": "ucsandman"
+      "stars": 137,
+      "user": "yeet-src"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -1281,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1045,
       "user": "pixel-point"
     },
     {
@@ -1296,23 +1281,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 829,
       "user": "mereyabdenbekuly-ctrl"
-    },
-    {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "yetone"
     },
     {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
@@ -1326,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "MatinSenPai"
     },
     {
@@ -1341,8 +1311,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "opencoredev"
+    },
+    {
+      "title": "gabriel-azara/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/gabriel-azara/hyperliquid-tracker",
+      "published_at": "2026-07-15T14:04:21Z",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39127363?v=4",
+      "source": "GitHub",
+      "stars": 257,
+      "user": "gabriel-azara"
     },
     {
       "title": "Textmate Scope custom HTML tag as JS like a script tag",
@@ -1405,7 +1390,7 @@
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
       "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "iframe",
@@ -1807,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1672,
       "user": "MDX-Tom"
     },
     {
@@ -1822,23 +1807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1104,
       "user": "littledivy"
-    },
-    {
-      "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "published_at": "2026-07-10T04:13:51Z",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
-      "source": "GitHub",
-      "stars": 984,
-      "user": "AlephAITech"
     },
     {
       "title": "Kappaemme-git/codex-first-customer-finder-skill - A Codex skill that finds evidence-backed potential first customers from recent public signals.",
@@ -1852,23 +1822,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "Kappaemme-git"
     },
     {
-      "title": "pengchujin/jzsub - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "url": "https://github.com/pengchujin/jzsub",
-      "published_at": "2026-07-10T15:10:00Z",
-      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "title": "oil-oil/beautify-github-readme - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "published_at": "2026-07-13T07:31:56Z",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 714,
-      "user": "pengchujin"
+      "stars": 691,
+      "user": "oil-oil"
+    },
+    {
+      "title": "Git-creat7/grokRegister-cpa - Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "url": "https://github.com/Git-creat7/grokRegister-cpa",
+      "published_at": "2026-07-11T09:46:31Z",
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202784495?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "Git-creat7"
     },
     {
       "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
@@ -2919,6 +2904,21 @@
       "user": "Tahira Muhammad"
     },
     {
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "published_at": "2026-07-06T15:50:31Z",
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "tags": [
+        "discuss",
+        "career",
+        "productivity",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3000,6 +3000,21 @@
       "user": "pabs3"
     },
     {
+      "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "published_at": "2026-07-15T12:34:51Z",
+      "description": "Codex Dream Skin",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
+      "source": "GitHub",
+      "stars": 5448,
+      "user": "Fei-Away"
+    },
+    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -3011,7 +3026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 635,
       "user": "tandpfun"
     },
     {
@@ -3026,23 +3041,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 580,
       "user": "KubeezMedia"
-    },
-    {
-      "title": "Jane-xiaoer/paper-collage-ad-codex - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
-      "published_at": "2026-07-10T05:50:11Z",
-      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175961422?v=4",
-      "source": "GitHub",
-      "stars": 279,
-      "user": "Jane-xiaoer"
     },
     {
       "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
@@ -3056,23 +3056,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 284,
       "user": "Blueturboguy07"
     },
     {
-      "title": "ucsandman/marketing-studio - Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
-      "url": "https://github.com/ucsandman/marketing-studio",
-      "published_at": "2026-07-10T08:00:22Z",
-      "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "url": "https://github.com/yeet-src/sigwire",
+      "published_at": "2026-07-13T19:26:32Z",
+      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128239567?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
       "source": "GitHub",
-      "stars": 152,
-      "user": "ucsandman"
+      "stars": 137,
+      "user": "yeet-src"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3086,7 +3086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1672,
       "user": "MDX-Tom"
     },
     {
@@ -3101,23 +3101,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1104,
       "user": "littledivy"
-    },
-    {
-      "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "published_at": "2026-07-10T04:13:51Z",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299104179?v=4",
-      "source": "GitHub",
-      "stars": 984,
-      "user": "AlephAITech"
     },
     {
       "title": "Kappaemme-git/codex-first-customer-finder-skill - A Codex skill that finds evidence-backed potential first customers from recent public signals.",
@@ -3131,23 +3116,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "Kappaemme-git"
     },
     {
-      "title": "pengchujin/jzsub - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "url": "https://github.com/pengchujin/jzsub",
-      "published_at": "2026-07-10T15:10:00Z",
-      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "title": "oil-oil/beautify-github-readme - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "published_at": "2026-07-13T07:31:56Z",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 714,
-      "user": "pengchujin"
+      "stars": 691,
+      "user": "oil-oil"
+    },
+    {
+      "title": "Git-creat7/grokRegister-cpa - Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "url": "https://github.com/Git-creat7/grokRegister-cpa",
+      "published_at": "2026-07-11T09:46:31Z",
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202784495?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "Git-creat7"
     },
     {
       "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
@@ -3161,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "vshulcz"
     },
     {
@@ -3176,23 +3176,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "shibadogcap"
-    },
-    {
-      "title": "intmian/gorm-d1-adapter - Make your Go-to-D1 connection 2–18× faster.",
-      "url": "https://github.com/intmian/gorm-d1-adapter",
-      "published_at": "2026-07-10T11:49:55Z",
-      "description": "Make your Go-to-D1 connection 2–18× faster.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38103855?v=4",
-      "source": "GitHub",
-      "stars": 110,
-      "user": "intmian"
     },
     {
       "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
@@ -3225,6 +3210,21 @@
       "user": "ywddd"
     },
     {
+      "title": "AminMGMT/BackPack - high-performance reverse tunnel engine written entirely in Go",
+      "url": "https://github.com/AminMGMT/BackPack",
+      "published_at": "2026-07-11T23:44:40Z",
+      "description": "high-performance reverse tunnel engine written entirely in Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212332204?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "AminMGMT"
+    },
+    {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
       "published_at": "2026-07-13T07:42:51Z",
@@ -3236,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1045,
       "user": "pixel-point"
     },
     {
@@ -3251,23 +3251,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 829,
       "user": "mereyabdenbekuly-ctrl"
-    },
-    {
-      "title": "yetone/kill-ai-slop - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "published_at": "2026-07-10T08:59:16Z",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "yetone"
     },
     {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
@@ -3281,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "MatinSenPai"
     },
     {
@@ -3296,8 +3281,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "opencoredev"
+    },
+    {
+      "title": "gabriel-azara/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/gabriel-azara/hyperliquid-tracker",
+      "published_at": "2026-07-15T14:04:21Z",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39127363?v=4",
+      "source": "GitHub",
+      "stars": 257,
+      "user": "gabriel-azara"
     },
     {
       "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
@@ -3311,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 11938,
+      "stars": 12236,
       "user": "xai-org"
     },
     {
@@ -3326,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 934,
       "user": "CluvexStudio"
     },
     {
