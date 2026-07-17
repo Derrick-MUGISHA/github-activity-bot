@@ -15,21 +15,6 @@
       "user": "Paulo Henrique"
     },
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Did You Know TLDs Can Be Websites?",
       "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
       "published_at": "2026-07-16T19:41:43Z",
@@ -43,6 +28,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
       "source": "Dev.to",
       "user": "Sean Boult"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Claude might be saturating your machine",
@@ -208,21 +208,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
       "user": "Zach"
-    },
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
     },
     {
       "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 821,
       "user": "tandpfun"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 445,
       "user": "Blueturboguy07"
     },
     {
@@ -705,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "HeiGeAi"
     },
     {
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1848,
+      "stars": 1855,
       "user": "MDX-Tom"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 744,
       "user": "oil-oil"
     },
     {
@@ -750,14 +735,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 466,
       "user": "PengZhang64"
     },
     {
-      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
+      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
       "url": "https://github.com/vshulcz/deja-vu",
       "published_at": "2026-07-14T07:45:44Z",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
       "tags": [
         "go",
         "github",
@@ -795,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 517,
       "user": "MatinSenPai"
     },
     {
@@ -825,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15446,
+      "stars": 15663,
       "user": "xai-org"
     },
     {
@@ -896,6 +881,22 @@
       "user": "Elina"
     },
     {
+      "title": "FBI arrests man accused of using Steam games to drain victims&#8217; crypto wallets",
+      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+      "published_at": "2026-07-17T16:18:09.000Z",
+      "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+      "tags": [
+        "Security",
+        "crypto",
+        "cryptocurrency",
+        "cybercrime",
+        "Gaming"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
       "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
       "published_at": "2026-07-17T15:29:21.000Z",
@@ -904,6 +905,7 @@
         "Security",
         "Amazon Web Services",
         "AWS",
+        "In Brief",
         "whoops"
       ],
       "cover_image": null,
@@ -953,34 +955,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-      "published_at": "2026-07-16T21:22:31.000Z",
-      "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-      "tags": [
-        "Security",
-        "coca-cola",
-        "cyberattack",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her &#8216;Mafia&#8217; skills)",
-      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-      "published_at": "2026-07-16T20:07:14.000Z",
-      "description": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
-      "tags": [
-        "Venture",
-        "Founders Fund"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
@@ -1208,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8449,
+      "stars": 8537,
       "user": "Fei-Away"
     },
     {
@@ -1223,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 821,
       "user": "tandpfun"
     },
     {
@@ -1238,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 638,
       "user": "KubeezMedia"
     },
     {
@@ -1253,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 445,
       "user": "Blueturboguy07"
     },
     {
@@ -1268,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "HeiGeAi"
     },
     {
@@ -1283,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1149,
       "user": "pixel-point"
     },
     {
@@ -1313,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 517,
       "user": "MatinSenPai"
     },
     {
@@ -1343,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 312,
       "user": "pablostanley"
     },
     {
@@ -1842,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1848,
+      "stars": 1855,
       "user": "MDX-Tom"
     },
     {
@@ -1857,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1135,
       "user": "littledivy"
     },
     {
@@ -1872,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 779,
       "user": "Kappaemme-git"
     },
     {
@@ -1887,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 744,
       "user": "oil-oil"
     },
     {
@@ -1902,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 466,
       "user": "PengZhang64"
     },
     {
@@ -2359,6 +2333,20 @@
   ],
   "Mobile": [
     {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "published_at": "2026-07-17T16:12:46.000Z",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "evergreens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
       "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
       "published_at": "2026-07-16T22:20:44.000Z",
@@ -2389,6 +2377,20 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
+      "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5",
+      "published_at": "2026-07-17T13:39:29Z",
+      "description": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
+      "tags": [
+        "gemma",
+        "aws",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitrl8gh3fyh01vpega3c.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Did You Know TLDs Can Be Websites?",
       "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
@@ -2638,6 +2640,7 @@
         "Security",
         "Amazon Web Services",
         "AWS",
+        "In Brief",
         "whoops"
       ],
       "cover_image": null,
@@ -2719,21 +2722,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2880,6 +2868,22 @@
       "user": "brn"
     },
     {
+      "title": "FBI arrests man accused of using Steam games to drain victims&#8217; crypto wallets",
+      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+      "published_at": "2026-07-17T16:18:09.000Z",
+      "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+      "tags": [
+        "Security",
+        "crypto",
+        "cryptocurrency",
+        "cybercrime",
+        "Gaming"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
       "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
       "published_at": "2026-07-17T15:29:21.000Z",
@@ -2888,22 +2892,8 @@
         "Security",
         "Amazon Web Services",
         "AWS",
+        "In Brief",
         "whoops"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-      "published_at": "2026-07-16T21:22:31.000Z",
-      "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-      "tags": [
-        "Security",
-        "coca-cola",
-        "cyberattack",
-        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2925,6 +2915,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Automated GitHub Code Reviews Using Google Gemini",
+      "url": "https://dev.to/gde/automated-github-code-reviews-using-google-gemini-4l0f",
+      "published_at": "2026-07-16T11:16:35Z",
+      "description": "I Built a Thing!   TL;DR — Google Gemini-based Pull Request reviews and Issue Triaging for...",
+      "tags": [
+        "githubactions",
+        "pullrequest",
+        "cicdpipeline",
+        "googlegemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2APYnfVcPz2Rm6WNA0mPYQPg.jpeg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
     {
       "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
       "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
@@ -2954,21 +2959,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3063,7 +3053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8449,
+      "stars": 8537,
       "user": "Fei-Away"
     },
     {
@@ -3078,7 +3068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 821,
       "user": "tandpfun"
     },
     {
@@ -3093,7 +3083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 638,
       "user": "KubeezMedia"
     },
     {
@@ -3108,7 +3098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 445,
       "user": "Blueturboguy07"
     },
     {
@@ -3123,7 +3113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "HeiGeAi"
     },
     {
@@ -3138,7 +3128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1848,
+      "stars": 1855,
       "user": "MDX-Tom"
     },
     {
@@ -3153,7 +3143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1135,
       "user": "littledivy"
     },
     {
@@ -3168,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 779,
       "user": "Kappaemme-git"
     },
     {
@@ -3183,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 744,
       "user": "oil-oil"
     },
     {
@@ -3198,14 +3188,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 466,
       "user": "PengZhang64"
     },
     {
-      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
+      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
       "url": "https://github.com/vshulcz/deja-vu",
       "published_at": "2026-07-14T07:45:44Z",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
       "tags": [
         "go",
         "github",
@@ -3288,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1149,
       "user": "pixel-point"
     },
     {
@@ -3318,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 517,
       "user": "MatinSenPai"
     },
     {
@@ -3348,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 312,
       "user": "pablostanley"
     },
     {
@@ -3363,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15446,
+      "stars": 15663,
       "user": "xai-org"
     },
     {
@@ -3378,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1059,
       "user": "CluvexStudio"
     },
     {
@@ -3408,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "RongleCat"
     },
     {
