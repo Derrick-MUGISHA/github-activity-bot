@@ -90,21 +90,6 @@
       "user": "Gemini Team"
     },
     {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 850,
       "user": "tandpfun"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 458,
       "user": "Blueturboguy07"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "HeiGeAi"
     },
     {
@@ -705,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1866,
       "user": "MDX-Tom"
     },
     {
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 748,
       "user": "oil-oil"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 474,
       "user": "PengZhang64"
     },
     {
@@ -810,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15839,
+      "stars": 15988,
       "user": "xai-org"
     },
     {
@@ -865,22 +850,6 @@
       "user": "Sadhin"
     },
     {
-      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
-      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
-      "published_at": "2026-07-15T03:47:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "websocket",
-        "vite",
-        "reverse-proxy",
-        "hmr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elina"
-    },
-    {
       "title": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
       "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "published_at": "2026-07-17T17:45:46.000Z",
@@ -901,11 +870,11 @@
       "published_at": "2026-07-17T16:18:09.000Z",
       "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
       "tags": [
+        "Gaming",
         "Security",
         "crypto",
         "cryptocurrency",
-        "cybercrime",
-        "Gaming"
+        "cybercrime"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1035,21 +1004,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
@@ -1197,7 +1151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8577,
+      "stars": 8606,
       "user": "Fei-Away"
     },
     {
@@ -1212,7 +1166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 850,
       "user": "tandpfun"
     },
     {
@@ -1227,7 +1181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "KubeezMedia"
     },
     {
@@ -1242,7 +1196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 458,
       "user": "Blueturboguy07"
     },
     {
@@ -1257,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "HeiGeAi"
     },
     {
@@ -1272,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1156,
       "user": "pixel-point"
     },
     {
@@ -1287,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 833,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1317,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 358,
       "user": "pablostanley"
     },
     {
@@ -1336,6 +1290,38 @@
       "user": "opencoredev"
     },
     {
+      "title": "Simple WebAuthn Credential Registration and Attestation?",
+      "url": "https://stackoverflow.com/questions/79981686/simple-webauthn-credential-registration-and-attestation",
+      "published_at": "2026-07-17T18:13:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "cross-browser",
+        "w3c",
+        "webauthn"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "midor"
+    },
+    {
+      "title": "React using a custom fetch hook, should you put data into state",
+      "url": "https://stackoverflow.com/questions/79981675/react-using-a-custom-fetch-hook-should-you-put-data-into-state",
+      "published_at": "2026-07-17T17:34:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "react-state"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tapialj"
+    },
+    {
       "title": "How to use a script Injector to Block Rufus on Amazon permanently",
       "url": "https://stackoverflow.com/questions/79981659/how-to-use-a-script-injector-to-block-rufus-on-amazon-permanently",
       "published_at": "2026-07-17T16:34:40.000Z",
@@ -1346,6 +1332,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kim Yoonmi--Surname first"
+    },
+    {
+      "title": "Fetching particular class from the website for developing Browser extension",
+      "url": "https://stackoverflow.com/questions/79981628/fetching-particular-class-from-the-website-for-developing-browser-extension",
+      "published_at": "2026-07-17T14:04:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "dom",
+        "google-chrome-extension"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ruturaj Rajwade"
     },
     {
       "title": "How can I make my page scroll past three elements?",
@@ -1428,50 +1428,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AdjoinQuinoa68"
-    },
-    {
-      "title": "How to implement partial function in JavaScript - three-way sum partial application",
-      "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
-      "published_at": "2026-07-15T12:45:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "partial-application"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "qxzsilver"
-    },
-    {
-      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
-      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
-      "published_at": "2026-07-15T03:47:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "websocket",
-        "vite",
-        "reverse-proxy",
-        "hmr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elina"
-    },
-    {
-      "title": "Add controlling properties to make drag and drop experience smoother",
-      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
-      "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "jquery",
-        "draggable",
-        "droppable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
     },
     {
       "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
@@ -1831,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1866,
       "user": "MDX-Tom"
     },
     {
@@ -1861,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 783,
       "user": "Kappaemme-git"
     },
     {
@@ -1876,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 748,
       "user": "oil-oil"
     },
     {
@@ -1891,14 +1847,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 474,
       "user": "PengZhang64"
+    },
+    {
+      "title": "Microsoft Graph TO DO API: checklistItems wrong sort order",
+      "url": "https://stackoverflow.com/questions/79981666/microsoft-graph-to-do-api-checklistitems-wrong-sort-order",
+      "published_at": "2026-07-17T17:10:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "microsoft-graph-api",
+        "microsoft-todo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mafu Josh"
     },
     {
       "title": "Default values not working in a sub-class",
       "url": "https://stackoverflow.com/questions/79981563/default-values-not-working-in-a-sub-class",
       "published_at": "2026-07-17T10:35:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1924,7 +1894,7 @@
       "title": "Lexical Translation with python",
       "url": "https://stackoverflow.com/questions/79981543/lexical-translation-with-python",
       "published_at": "2026-07-17T09:23:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "translation"
@@ -2021,20 +1991,6 @@
       "user": "Eduardo Silva"
     },
     {
-      "title": "How to declare generic PySide6 signal?",
-      "url": "https://stackoverflow.com/questions/79981380/how-to-declare-generic-pyside6-signal",
-      "published_at": "2026-07-16T18:12:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Basilevs"
-    },
-    {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
       "url": "https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/",
       "published_at": "2026-07-16T11:39:24.000Z",
@@ -2049,36 +2005,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
-      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4",
-      "published_at": "2026-07-13T06:21:32Z",
-      "description": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS servers at runtime.",
-      "tags": [
-        "docker",
-        "go",
-        "coredns",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi6e87r15xnm9dzepxauj.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
     {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
       "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
@@ -2256,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 94,
       "user": "berkayyytech"
     },
     {
@@ -2334,6 +2260,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
+      "url": "https://github.com/ZethRise/Aethery",
+      "published_at": "2026-07-15T16:30:13Z",
+      "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "ZethRise"
+    },
     {
       "title": "Parents want safer phones for kids. These companies are answering the call.",
       "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
@@ -2905,11 +2846,11 @@
       "published_at": "2026-07-17T16:18:09.000Z",
       "description": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
       "tags": [
+        "Gaming",
         "Security",
         "crypto",
         "cryptocurrency",
-        "cybercrime",
-        "Gaming"
+        "cybercrime"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2948,21 +2889,6 @@
   ],
   "Tools": [
     {
-      "title": "Automated GitHub Code Reviews Using Google Gemini",
-      "url": "https://dev.to/gde/automated-github-code-reviews-using-google-gemini-4l0f",
-      "published_at": "2026-07-16T11:16:35Z",
-      "description": "I Built a Thing!   TL;DR — Google Gemini-based Pull Request reviews and Issue Triaging for...",
-      "tags": [
-        "githubactions",
-        "pullrequest",
-        "cicdpipeline",
-        "googlegemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2APYnfVcPz2Rm6WNA0mPYQPg.jpeg",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
       "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
       "published_at": "2026-07-15T18:56:09Z",
@@ -2976,6 +2902,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Automated GitHub Code Reviews Using Google Gemini",
+      "url": "https://dev.to/gde/automated-github-code-reviews-using-google-gemini-4l0f",
+      "published_at": "2026-07-16T11:16:35Z",
+      "description": "I Built a Thing!   TL;DR — Google Gemini-based Pull Request reviews and Issue Triaging for...",
+      "tags": [
+        "githubactions",
+        "pullrequest",
+        "cicdpipeline",
+        "googlegemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2APYnfVcPz2Rm6WNA0mPYQPg.jpeg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3100,7 +3041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8577,
+      "stars": 8606,
       "user": "Fei-Away"
     },
     {
@@ -3115,7 +3056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 850,
       "user": "tandpfun"
     },
     {
@@ -3130,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "KubeezMedia"
     },
     {
@@ -3145,7 +3086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 458,
       "user": "Blueturboguy07"
     },
     {
@@ -3160,7 +3101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "HeiGeAi"
     },
     {
@@ -3175,7 +3116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1866,
       "user": "MDX-Tom"
     },
     {
@@ -3205,7 +3146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 783,
       "user": "Kappaemme-git"
     },
     {
@@ -3220,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 748,
       "user": "oil-oil"
     },
     {
@@ -3235,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 474,
       "user": "PengZhang64"
     },
     {
@@ -3280,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 94,
       "user": "berkayyytech"
     },
     {
@@ -3325,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1156,
       "user": "pixel-point"
     },
     {
@@ -3340,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 833,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3370,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 358,
       "user": "pablostanley"
     },
     {
@@ -3400,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15839,
+      "stars": 15988,
       "user": "xai-org"
     },
     {
@@ -3415,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1076,
       "user": "CluvexStudio"
     },
     {
@@ -3449,19 +3390,19 @@
       "user": "RongleCat"
     },
     {
-      "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
-      "url": "https://github.com/m-novotny/memguard-rs",
-      "published_at": "2026-07-13T21:08:48Z",
-      "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+      "title": "ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
+      "url": "https://github.com/ZethRise/Aethery",
+      "published_at": "2026-07-15T16:30:13Z",
+      "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "m-novotny"
+      "stars": 133,
+      "user": "ZethRise"
     },
     {
       "title": "We are Changing our Developer Productivity Experiment Design",
