@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Did You Know TLDs Can Be Websites?",
       "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
       "published_at": "2026-07-16T19:41:43Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
       "source": "Dev.to",
       "user": "Sean Boult"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Claude might be saturating your machine",
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 764,
       "user": "tandpfun"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 405,
       "user": "Blueturboguy07"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 203,
       "user": "HeiGeAi"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1811,
       "user": "MDX-Tom"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 728,
       "user": "oil-oil"
     },
     {
@@ -736,8 +736,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 433,
       "user": "PengZhang64"
+    },
+    {
+      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "published_at": "2026-07-14T07:45:44Z",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "vshulcz"
     },
     {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 501,
       "user": "MatinSenPai"
     },
     {
@@ -796,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 14056,
+      "stars": 14415,
       "user": "xai-org"
     },
     {
@@ -1210,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 7668,
+      "stars": 8029,
       "user": "Fei-Away"
     },
     {
@@ -1225,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 764,
       "user": "tandpfun"
     },
     {
@@ -1240,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 622,
       "user": "KubeezMedia"
     },
     {
@@ -1255,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 405,
       "user": "Blueturboguy07"
     },
     {
@@ -1270,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 203,
       "user": "HeiGeAi"
     },
     {
@@ -1285,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1112,
       "user": "pixel-point"
     },
     {
@@ -1315,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 501,
       "user": "MatinSenPai"
     },
     {
@@ -1349,17 +1364,18 @@
       "user": "gabriel-azara"
     },
     {
-      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
-      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
-      "published_at": "2026-07-16T18:36:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How can I learn Model Context Protocol (MCP) from scratch? Uisng Node.js / JavaScript",
+      "url": "https://stackoverflow.com/questions/79981530/how-can-i-learn-model-context-protocol-mcp-from-scratch-uisng-node-js-javas",
+      "published_at": "2026-07-17T08:51:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
-        "css"
+        "node.js",
+        "model-context-protocol"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
+      "user": "Alagu sundaram"
     },
     {
       "title": "How can I make my page scroll past three elements?",
@@ -1377,18 +1393,17 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
-      "title": "Escaping a PCRE pattern manually",
-      "url": "https://stackoverflow.com/questions/79981372/escaping-a-pcre-pattern-manually",
-      "published_at": "2026-07-16T17:05:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
+      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
+      "published_at": "2026-07-16T18:36:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
-        "regex",
-        "pcre"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "InSync"
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
@@ -1844,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1811,
       "user": "MDX-Tom"
     },
     {
@@ -1859,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1124,
       "user": "littledivy"
     },
     {
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 772,
       "user": "Kappaemme-git"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 728,
       "user": "oil-oil"
     },
     {
@@ -1904,14 +1919,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 433,
       "user": "PengZhang64"
+    },
+    {
+      "title": "Default values not working in a sub-class",
+      "url": "https://stackoverflow.com/questions/79981563/default-values-not-working-in-a-sub-class",
+      "published_at": "2026-07-17T10:35:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Martin"
+    },
+    {
+      "title": "Lexical Translation with python",
+      "url": "https://stackoverflow.com/questions/79981543/lexical-translation-with-python",
+      "published_at": "2026-07-17T09:23:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "translation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shahab khoram"
     },
     {
       "title": "Python Install Manager for offline installation in company environment",
       "url": "https://stackoverflow.com/questions/79981514/python-install-manager-for-offline-installation-in-company-environment",
       "published_at": "2026-07-17T07:42:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "installation",
@@ -1934,18 +1974,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shake"
-    },
-    {
-      "title": "In this code if you see this code is perfect directory also same",
-      "url": "https://stackoverflow.com/questions/79981467/in-this-code-if-you-see-this-code-is-perfect-directory-also-same",
-      "published_at": "2026-07-17T03:45:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "krishna pro"
     },
     {
       "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
@@ -2033,21 +2061,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tessa"
-    },
-    {
-      "title": "Getting SSL error while fetching data from BLS",
-      "url": "https://stackoverflow.com/questions/79981376/getting-ssl-error-while-fetching-data-from-bls",
-      "published_at": "2026-07-16T17:47:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "ssl",
-        "python-requests",
-        "ssl-certificate"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hayat"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2271,7 +2284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "berkayyytech"
     },
     {
@@ -2333,19 +2346,6 @@
       "user": "kghose"
     },
     {
-      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
-      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
-      "published_at": "2026-07-16T18:36:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
-    },
-    {
       "title": "How can I make my page scroll past three elements?",
       "url": "https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements",
       "published_at": "2026-07-16T16:46:11.000Z",
@@ -2355,6 +2355,19 @@
         "html",
         "css",
         "horizontal-scrolling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
+      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
+      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
+      "published_at": "2026-07-16T18:36:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2689,18 +2702,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "published_at": "2026-07-15T14:34:54.182-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mort"
     },
     {
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
@@ -3065,7 +3066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 7668,
+      "stars": 8029,
       "user": "Fei-Away"
     },
     {
@@ -3080,7 +3081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 764,
       "user": "tandpfun"
     },
     {
@@ -3095,7 +3096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 622,
       "user": "KubeezMedia"
     },
     {
@@ -3110,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 405,
       "user": "Blueturboguy07"
     },
     {
@@ -3125,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 203,
       "user": "HeiGeAi"
     },
     {
@@ -3140,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1811,
       "user": "MDX-Tom"
     },
     {
@@ -3155,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1124,
       "user": "littledivy"
     },
     {
@@ -3170,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 772,
       "user": "Kappaemme-git"
     },
     {
@@ -3185,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 728,
       "user": "oil-oil"
     },
     {
@@ -3200,14 +3201,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 433,
       "user": "PengZhang64"
     },
     {
-      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
       "url": "https://github.com/vshulcz/deja-vu",
       "published_at": "2026-07-14T07:45:44Z",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity and Grok Build already write. One zero-dep binary.",
       "tags": [
         "go",
         "github",
@@ -3215,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 320,
       "user": "vshulcz"
     },
     {
@@ -3230,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "shibadogcap"
     },
     {
@@ -3245,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "berkayyytech"
     },
     {
@@ -3290,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1112,
       "user": "pixel-point"
     },
     {
@@ -3320,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 501,
       "user": "MatinSenPai"
     },
     {
@@ -3365,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 14056,
+      "stars": 14415,
       "user": "xai-org"
     },
     {
@@ -3380,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 996,
       "user": "CluvexStudio"
     },
     {
