@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-182-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--17-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-17 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-17 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
 | 20 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
 
-<sub>Last fetched: Fri, 17 Jul 2026 22:19:14 CAT</sub>
+<sub>Last fetched: Fri, 17 Jul 2026 23:15:36 CAT</sub>
 
 
 ---
@@ -122,7 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What are Java Streams and how do they work?**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Hash function, database design, caching, analytics
+
+</details>
+
+**2. `Java` — What are Java Streams and how do they work?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
@@ -133,25 +144,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**2. `Database` — What is the difference between SQL and NoSQL databases?**
+**3. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Schema, scalability, ACID vs BASE
-
-</details>
-
-**3. `DataStructures` — Implement LRU Cache**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 71 | 39.0% | `████████████████████` |
-| **JavaScript** | 37 | 20.3% | `██████████░░░░░░░░░░` |
-| **Tools** | 37 | 20.3% | `██████████░░░░░░░░░░` |
-| **Python** | 35 | 19.2% | `██████████░░░░░░░░░░` |
-| **Cloud** | 20 | 11.0% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.8% | `█████░░░░░░░░░░░░░░░` |
+| **AI** | 74 | 40.7% | `████████████████████` |
+| **Tools** | 39 | 21.4% | `███████████░░░░░░░░░` |
+| **JavaScript** | 38 | 20.9% | `██████████░░░░░░░░░░` |
+| **Python** | 36 | 19.8% | `██████████░░░░░░░░░░` |
+| **Cloud** | 21 | 11.5% | `██████░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,29 +194,34 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.1%
-JavaScript      ██████████████████████████ 23.9%
-Python          █████████████████████████ 22.6%
-Java            ████████████████████ 18.1%
-Rust            █████████ 7.7%
-Kotlin          █ 0.6%
+Go              ██████████████████████████████ 25.6%
+JavaScript      ███████████████████████████ 23.2%
+Python          ██████████████████████████ 22.0%
+Java            █████████████████████ 17.7%
+Rust            ██████████ 8.5%
+Kotlin          █ 1.2%
+Ruby            █ 0.6%
+CSharp          █ 0.6%
+Swift           █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 42
-    "JavaScript" : 37
-    "Python" : 35
-    "Java" : 28
-    "Rust" : 12
-    "Kotlin" : 1
+    "JavaScript" : 38
+    "Python" : 36
+    "Java" : 29
+    "Rust" : 14
+    "Kotlin" : 2
+    "Ruby" : 1
+    "CSharp" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 17 Jul 2026 20:19:14 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 17 Jul 2026 21:15:36 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
