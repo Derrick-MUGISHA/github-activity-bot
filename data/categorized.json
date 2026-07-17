@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "What is an \"agentic harness,\" actually?",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "published_at": "2026-07-16T21:19:20Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
     },
     {
       "title": "Claude might be saturating your machine",
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 738,
       "user": "tandpfun"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 384,
       "user": "Blueturboguy07"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 197,
       "user": "HeiGeAi"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1752,
+      "stars": 1790,
       "user": "MDX-Tom"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 718,
       "user": "oil-oil"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 420,
       "user": "PengZhang64"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "ywddd"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "MatinSenPai"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 13568,
+      "stars": 14056,
       "user": "xai-org"
     },
     {
@@ -813,6 +813,18 @@
       "user": "thang"
     },
     {
+      "title": "Here's how I host my own AIM server",
+      "url": "https://veronicaexplains.net/open-oscar-server/",
+      "published_at": "2026-07-16T19:18:37.775-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
       "title": "Forgejo v16.0 is available",
       "url": "https://forgejo.org/2026-07-release-v16-0/",
       "published_at": "2026-07-16T05:01:50.813-05:00",
@@ -824,18 +836,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hugoarnal"
-    },
-    {
-      "title": "Here's how I host my own AIM server",
-      "url": "https://veronicaexplains.net/open-oscar-server/",
-      "published_at": "2026-07-16T19:18:37.775-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
     },
     {
       "title": "What gdb frontend do you prefer (linux)",
@@ -1210,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 7039,
+      "stars": 7668,
       "user": "Fei-Away"
     },
     {
@@ -1225,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 738,
       "user": "tandpfun"
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 614,
       "user": "KubeezMedia"
     },
     {
@@ -1255,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 384,
       "user": "Blueturboguy07"
     },
     {
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 197,
       "user": "HeiGeAi"
     },
     {
@@ -1285,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1106,
       "user": "pixel-point"
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 831,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "MatinSenPai"
     },
     {
@@ -1352,7 +1352,7 @@
       "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
       "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
       "published_at": "2026-07-16T18:36:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "css"
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1752,
+      "stars": 1790,
       "user": "MDX-Tom"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1120,
       "user": "littledivy"
     },
     {
@@ -1874,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 767,
       "user": "Kappaemme-git"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 718,
       "user": "oil-oil"
     },
     {
@@ -1904,11 +1904,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 420,
       "user": "PengZhang64"
     },
     {
-      "title": "how to fix pydantic wheel build",
+      "title": "Python Install Manager for offline installation in company environment",
+      "url": "https://stackoverflow.com/questions/79981514/python-install-manager-for-offline-installation-in-company-environment",
+      "published_at": "2026-07-17T07:42:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "installation",
+        "offline"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Michael Hecht"
+    },
+    {
+      "title": "How to fix Pydantic wheel build?",
       "url": "https://stackoverflow.com/questions/79981483/how-to-fix-pydantic-wheel-build",
       "published_at": "2026-07-17T05:39:50.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
@@ -1925,7 +1939,7 @@
       "title": "In this code if you see this code is perfect directory also same",
       "url": "https://stackoverflow.com/questions/79981467/in-this-code-if-you-see-this-code-is-perfect-directory-also-same",
       "published_at": "2026-07-17T03:45:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -9",
       "tags": [
         "python"
       ],
@@ -2034,21 +2048,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hayat"
-    },
-    {
-      "title": "Can't install keyboard package because pip won't work",
-      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
-      "published_at": "2026-07-16T14:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "ubuntu",
-        "pip",
-        "windows-subsystem-for-linux"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "King Of Noobs"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2272,7 +2271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "berkayyytech"
     },
     {
@@ -2337,7 +2336,7 @@
       "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
       "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
       "published_at": "2026-07-16T18:36:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "css"
@@ -3066,7 +3065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 7039,
+      "stars": 7668,
       "user": "Fei-Away"
     },
     {
@@ -3081,7 +3080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 738,
       "user": "tandpfun"
     },
     {
@@ -3096,7 +3095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 614,
       "user": "KubeezMedia"
     },
     {
@@ -3111,7 +3110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 384,
       "user": "Blueturboguy07"
     },
     {
@@ -3126,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 197,
       "user": "HeiGeAi"
     },
     {
@@ -3141,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1752,
+      "stars": 1790,
       "user": "MDX-Tom"
     },
     {
@@ -3156,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1120,
       "user": "littledivy"
     },
     {
@@ -3171,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 767,
       "user": "Kappaemme-git"
     },
     {
@@ -3186,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 718,
       "user": "oil-oil"
     },
     {
@@ -3201,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 420,
       "user": "PengZhang64"
     },
     {
@@ -3216,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 317,
       "user": "vshulcz"
     },
     {
@@ -3231,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 130,
       "user": "shibadogcap"
     },
     {
@@ -3246,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "berkayyytech"
     },
     {
@@ -3261,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "ywddd"
     },
     {
@@ -3291,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1106,
       "user": "pixel-point"
     },
     {
@@ -3306,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 831,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3321,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "MatinSenPai"
     },
     {
@@ -3366,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 13568,
+      "stars": 14056,
       "user": "xai-org"
     },
     {
@@ -3381,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 978,
       "user": "CluvexStudio"
     },
     {
@@ -3396,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "AyagamiDev"
     },
     {
@@ -3411,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "RongleCat"
     },
     {
