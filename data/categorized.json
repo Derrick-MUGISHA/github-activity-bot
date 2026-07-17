@@ -75,21 +75,6 @@
       "user": "Richard MacManus"
     },
     {
-      "title": "The Myth of the Post-Documentation Era",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "published_at": "2026-07-13T15:59:11Z",
-      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "tags": [
-        "ai",
-        "documentation",
-        "opensource",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "DiffusionGemma: The Developer Guide",
       "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
       "published_at": "2026-07-16T14:27:09Z",
@@ -208,6 +193,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
       "user": "Zach"
+    },
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
     },
     {
       "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 835,
       "user": "tandpfun"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 452,
       "user": "Blueturboguy07"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "HeiGeAi"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1861,
       "user": "MDX-Tom"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 745,
       "user": "oil-oil"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 471,
       "user": "PengZhang64"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "vshulcz"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15663,
+      "stars": 15839,
       "user": "xai-org"
     },
     {
@@ -879,6 +879,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elina"
+    },
+    {
+      "title": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "published_at": "2026-07-17T17:45:46.000Z",
+      "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
+      "tags": [
+        "AI",
+        "Apple",
+        "openai lawsuit",
+        "Satya Nadella"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
     },
     {
       "title": "FBI arrests man accused of using Steam games to drain victims&#8217; crypto wallets",
@@ -1182,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8537,
+      "stars": 8577,
       "user": "Fei-Away"
     },
     {
@@ -1197,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 835,
       "user": "tandpfun"
     },
     {
@@ -1212,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 637,
       "user": "KubeezMedia"
     },
     {
@@ -1227,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 452,
       "user": "Blueturboguy07"
     },
     {
@@ -1242,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "HeiGeAi"
     },
     {
@@ -1257,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1153,
       "user": "pixel-point"
     },
     {
@@ -1287,8 +1302,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "published_at": "2026-07-16T07:06:09Z",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
+      "source": "GitHub",
+      "stars": 328,
+      "user": "pablostanley"
     },
     {
       "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
@@ -1306,33 +1336,16 @@
       "user": "opencoredev"
     },
     {
-      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-      "url": "https://github.com/pablostanley/yoinks",
-      "published_at": "2026-07-16T07:06:09Z",
-      "description": "yoink any video from your terminal. no shady ads.",
+      "title": "How to use a script Injector to Block Rufus on Amazon permanently",
+      "url": "https://stackoverflow.com/questions/79981659/how-to-use-a-script-injector-to-block-rufus-on-amazon-permanently",
+      "published_at": "2026-07-17T16:34:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "pablostanley"
-    },
-    {
-      "title": "How can I learn Model Context Protocol (MCP) from scratch? Uisng Node.js / JavaScript",
-      "url": "https://stackoverflow.com/questions/79981530/how-can-i-learn-model-context-protocol-mcp-from-scratch-uisng-node-js-javas",
-      "published_at": "2026-07-17T08:51:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "node.js",
-        "model-context-protocol"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alagu sundaram"
+      "user": "Kim Yoonmi--Surname first"
     },
     {
       "title": "How can I make my page scroll past three elements?",
@@ -1344,19 +1357,6 @@
         "html",
         "css",
         "horizontal-scrolling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
-    },
-    {
-      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
-      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
-      "published_at": "2026-07-16T18:36:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1457,6 +1457,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elina"
+    },
+    {
+      "title": "Add controlling properties to make drag and drop experience smoother",
+      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
+      "published_at": "2026-07-14T19:35:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
     },
     {
       "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
@@ -1816,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1861,
       "user": "MDX-Tom"
     },
     {
@@ -1831,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1141,
       "user": "littledivy"
     },
     {
@@ -1846,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 780,
       "user": "Kappaemme-git"
     },
     {
@@ -1861,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 745,
       "user": "oil-oil"
     },
     {
@@ -1876,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 471,
       "user": "PengZhang64"
     },
     {
@@ -2305,19 +2320,6 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
-      "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
-      "url": "https://stackoverflow.com/questions/79981386/how-can-i-make-indicator-dots-for-my-instagram-like-staff-profile-gallery",
-      "published_at": "2026-07-16T18:36:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
-    },
-    {
       "title": "Why is toggle() not working on the images I want to hide/show?",
       "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
       "published_at": "2026-07-16T06:30:45.000Z",
@@ -2632,6 +2634,21 @@
       "user": "xbill"
     },
     {
+      "title": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "published_at": "2026-07-17T17:45:46.000Z",
+      "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
+      "tags": [
+        "AI",
+        "Apple",
+        "openai lawsuit",
+        "Satya Nadella"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
       "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
       "published_at": "2026-07-17T15:29:21.000Z",
@@ -2722,6 +2739,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2961,6 +2993,21 @@
       "user": "Klaudia Grzondziel"
     },
     {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3053,7 +3100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8537,
+      "stars": 8577,
       "user": "Fei-Away"
     },
     {
@@ -3068,7 +3115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 835,
       "user": "tandpfun"
     },
     {
@@ -3083,7 +3130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 637,
       "user": "KubeezMedia"
     },
     {
@@ -3098,7 +3145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 452,
       "user": "Blueturboguy07"
     },
     {
@@ -3113,7 +3160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "HeiGeAi"
     },
     {
@@ -3128,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1861,
       "user": "MDX-Tom"
     },
     {
@@ -3143,7 +3190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1141,
       "user": "littledivy"
     },
     {
@@ -3158,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 780,
       "user": "Kappaemme-git"
     },
     {
@@ -3173,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 745,
       "user": "oil-oil"
     },
     {
@@ -3188,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 471,
       "user": "PengZhang64"
     },
     {
@@ -3203,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "vshulcz"
     },
     {
@@ -3218,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "shibadogcap"
     },
     {
@@ -3278,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1153,
       "user": "pixel-point"
     },
     {
@@ -3308,8 +3355,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "published_at": "2026-07-16T07:06:09Z",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
+      "source": "GitHub",
+      "stars": 328,
+      "user": "pablostanley"
     },
     {
       "title": "opencoredev/domain-sdk - Add, verify, monitor, and remove customer domains with one TypeScript API.",
@@ -3327,21 +3389,6 @@
       "user": "opencoredev"
     },
     {
-      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-      "url": "https://github.com/pablostanley/yoinks",
-      "published_at": "2026-07-16T07:06:09Z",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "pablostanley"
-    },
-    {
       "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
       "published_at": "2026-07-14T20:04:23Z",
@@ -3353,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15663,
+      "stars": 15839,
       "user": "xai-org"
     },
     {
@@ -3368,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1062,
       "user": "CluvexStudio"
     },
     {
