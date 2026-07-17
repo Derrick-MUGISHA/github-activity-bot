@@ -46,21 +46,6 @@
       "user": "Sidhant Panda"
     },
     {
-      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
-      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k",
-      "published_at": "2026-07-15T23:58:42Z",
-      "description": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug that mocks never could.",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "ai",
-        "debugging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "DiffusionGemma: The Developer Guide",
       "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
       "published_at": "2026-07-16T14:27:09Z",
@@ -136,6 +121,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
+      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k",
+      "published_at": "2026-07-15T23:58:42Z",
+      "description": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug that mocks never could.",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "ai",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
       "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
       "published_at": "2026-07-15T18:56:45Z",
@@ -194,6 +194,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
       "user": "Zach"
+    },
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
     },
     {
       "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
@@ -646,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 684,
       "user": "tandpfun"
     },
     {
@@ -661,23 +676,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 320,
       "user": "Blueturboguy07"
     },
     {
-      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "url": "https://github.com/yeet-src/sigwire",
-      "published_at": "2026-07-13T19:26:32Z",
-      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+      "published_at": "2026-07-15T10:24:07Z",
+      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "yeet-src"
+      "stars": 161,
+      "user": "HeiGeAi"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -691,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1672,
+      "stars": 1722,
       "user": "MDX-Tom"
     },
     {
@@ -706,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 698,
       "user": "oil-oil"
     },
     {
@@ -721,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "ywddd"
     },
     {
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "MatinSenPai"
     },
     {
@@ -751,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "opencoredev"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 12236,
+      "stars": 13080,
       "user": "xai-org"
     },
     {
@@ -809,18 +824,6 @@
       "user": "kghose"
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "published_at": "2026-07-16T08:27:20.761-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hongminhee"
-    },
-    {
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
       "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
       "published_at": "2026-07-16T14:19:12.000Z",
@@ -835,17 +838,68 @@
       "user": "Sadhin"
     },
     {
-      "title": "How to create prompt version in vertex ai prompt library using python",
-      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
-      "published_at": "2026-07-16T11:15:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
+      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
+      "published_at": "2026-07-15T03:47:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
-        "python",
-        "google-cloud-vertex-ai"
+        "javascript",
+        "websocket",
+        "vite",
+        "reverse-proxy",
+        "hmr"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Subramanian"
+      "user": "Elina"
+    },
+    {
+      "title": "AI-Powered Search Integration Failing to Generate Revenue: Challenges with Monetization Strategies on AI-Driven Websites",
+      "url": "https://stackoverflow.com/questions/79981454/ai-powered-search-integration-failing-to-generate-revenue-challenges-with-monet",
+      "published_at": "2026-07-17T01:54:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32868475"
+    },
+    {
+      "title": "How Can AI Be Effectively Used to Monetize a Website? Insights and Examples of Successful AI Integration for Revenue Generation",
+      "url": "https://stackoverflow.com/questions/79981451/how-can-ai-be-effectively-used-to-monetize-a-website-insights-and-examples-of-s",
+      "published_at": "2026-07-17T01:47:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32851919"
+    },
+    {
+      "title": "Advanced developer tip: The Alarming Shutdown of High-Quality Websites: Understanding the Impact of AI and Exploring Solutions",
+      "url": "https://stackoverflow.com/questions/79981447/advanced-developer-tip-the-alarming-shutdown-of-high-quality-websites-understa",
+      "published_at": "2026-07-17T01:07:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32903707"
+    },
+    {
+      "title": "How Can Websites Sustain Themselves in the Age of AI? Exploring Revenue Strategies Beyond Traditional AI Integration",
+      "url": "https://stackoverflow.com/questions/79981450/how-can-websites-sustain-themselves-in-the-age-of-ai-exploring-revenue-strategi",
+      "published_at": "2026-07-17T01:44:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874459"
     },
     {
       "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
@@ -1191,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 6459,
       "user": "Fei-Away"
     },
     {
@@ -1206,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 684,
       "user": "tandpfun"
     },
     {
@@ -1221,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 598,
       "user": "KubeezMedia"
     },
     {
@@ -1236,23 +1290,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 320,
       "user": "Blueturboguy07"
     },
     {
-      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "url": "https://github.com/yeet-src/sigwire",
-      "published_at": "2026-07-13T19:26:32Z",
-      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+      "published_at": "2026-07-15T10:24:07Z",
+      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "yeet-src"
+      "stars": 161,
+      "user": "HeiGeAi"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -1266,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1073,
       "user": "pixel-point"
     },
     {
@@ -1296,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "MatinSenPai"
     },
     {
@@ -1311,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "opencoredev"
     },
     {
@@ -1328,21 +1382,6 @@
       "source": "GitHub",
       "stars": 257,
       "user": "gabriel-azara"
-    },
-    {
-      "title": "Textmate Scope custom HTML tag as JS like a script tag",
-      "url": "https://stackoverflow.com/questions/79981430/textmate-scope-custom-html-tag-as-js-like-a-script-tag",
-      "published_at": "2026-07-16T22:45:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "visual-studio-code",
-        "textmate"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Parker"
     },
     {
       "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
@@ -1465,6 +1504,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qxzsilver"
+    },
+    {
+      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
+      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
+      "published_at": "2026-07-15T03:47:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "websocket",
+        "vite",
+        "reverse-proxy",
+        "hmr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elina"
     },
     {
       "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
@@ -1792,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1672,
+      "stars": 1722,
       "user": "MDX-Tom"
     },
     {
@@ -1807,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1109,
       "user": "littledivy"
     },
     {
@@ -1822,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "Kappaemme-git"
     },
     {
@@ -1837,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 698,
       "user": "oil-oil"
     },
     {
@@ -1852,14 +1907,64 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202784495?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 341,
       "user": "Git-creat7"
+    },
+    {
+      "title": "can you help me in this code if you see this code is perfect directory also same",
+      "url": "https://stackoverflow.com/questions/79981467/can-you-help-me-in-this-code-if-you-see-this-code-is-perfect-directory-also-same",
+      "published_at": "2026-07-17T03:45:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-2.7"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "krishna pro"
+    },
+    {
+      "title": "AI-Powered Search Integration Failing to Generate Revenue: Challenges with Monetization Strategies on AI-Driven Websites",
+      "url": "https://stackoverflow.com/questions/79981454/ai-powered-search-integration-failing-to-generate-revenue-challenges-with-monet",
+      "published_at": "2026-07-17T01:54:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32868475"
+    },
+    {
+      "title": "How Can AI Be Effectively Used to Monetize a Website? Insights and Examples of Successful AI Integration for Revenue Generation",
+      "url": "https://stackoverflow.com/questions/79981451/how-can-ai-be-effectively-used-to-monetize-a-website-insights-and-examples-of-s",
+      "published_at": "2026-07-17T01:47:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32851919"
+    },
+    {
+      "title": "Advanced developer tip: The Alarming Shutdown of High-Quality Websites: Understanding the Impact of AI and Exploring Solutions",
+      "url": "https://stackoverflow.com/questions/79981447/advanced-developer-tip-the-alarming-shutdown-of-high-quality-websites-understa",
+      "published_at": "2026-07-17T01:07:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32903707"
     },
     {
       "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
       "url": "https://stackoverflow.com/questions/79981415/can-i-mix-raw-text-queries-and-precomputed-vectors-when-using-a-milvus-text-embe",
       "published_at": "2026-07-16T21:08:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "vector",
@@ -1868,6 +1973,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chloe Williams"
+    },
+    {
+      "title": "How Can Websites Sustain Themselves in the Age of AI? Exploring Revenue Strategies Beyond Traditional AI Integration",
+      "url": "https://stackoverflow.com/questions/79981450/how-can-websites-sustain-themselves-in-the-age-of-ai-exploring-revenue-strategi",
+      "published_at": "2026-07-17T01:44:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874459"
+    },
+    {
+      "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
+      "url": "https://stackoverflow.com/questions/79981356/why-do-c-and-fortran-ordered-numpy-arrays-show-the-same-l1-cache-miss-percentag",
+      "published_at": "2026-07-16T15:42:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "arrays",
+        "numpy",
+        "perf"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
     },
     {
       "title": "Possible to Add a Button to a Treeview Widget?",
@@ -1912,91 +2044,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Basilevs"
-    },
-    {
-      "title": "PyTorch/Captum: RuntimeError: gather(): Expected dtype int32/int64 for index",
-      "url": "https://stackoverflow.com/questions/79981390/pytorch-captum-runtimeerror-gather-expected-dtype-int32-int64-for-index",
-      "published_at": "2026-07-16T18:57:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "machine-learning",
-        "pytorch"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tessa"
-    },
-    {
-      "title": "Getting SSL error while fetching data from BLS",
-      "url": "https://stackoverflow.com/questions/79981376/getting-ssl-error-while-fetching-data-from-bls",
-      "published_at": "2026-07-16T17:47:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "ssl",
-        "python-requests",
-        "ssl-certificate"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hayat"
-    },
-    {
-      "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
-      "url": "https://stackoverflow.com/questions/79981356/why-do-c-and-fortran-ordered-numpy-arrays-show-the-same-l1-cache-miss-percentag",
-      "published_at": "2026-07-16T15:42:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "arrays",
-        "numpy",
-        "perf"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
-    },
-    {
-      "title": "Can't install keyboard package because pip won't work",
-      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
-      "published_at": "2026-07-16T14:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "ubuntu",
-        "pip",
-        "windows-subsystem-for-linux"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "King Of Noobs"
-    },
-    {
-      "title": "How to create prompt version in vertex ai prompt library using python",
-      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
-      "published_at": "2026-07-16T11:15:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "google-cloud-vertex-ai"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Subramanian"
-    },
-    {
-      "title": "The term 'Get-FileHash' is not recognized as the name of a cmdlet, function, script file, or operable program",
-      "url": "https://stackoverflow.com/questions/79981200/the-term-get-filehash-is-not-recognized-as-the-name-of-a-cmdlet-function-scr",
-      "published_at": "2026-07-16T07:11:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "powershell"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Srinivas Iyer"
     },
     {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
@@ -2280,21 +2327,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kghose"
-    },
-    {
-      "title": "Textmate Scope custom HTML tag as JS like a script tag",
-      "url": "https://stackoverflow.com/questions/79981430/textmate-scope-custom-html-tag-as-js-like-a-script-tag",
-      "published_at": "2026-07-16T22:45:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "visual-studio-code",
-        "textmate"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Parker"
     },
     {
       "title": "How can I make indicator dots for my \"instagram-like\" staff profile gallery",
@@ -2608,19 +2640,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How to create prompt version in vertex ai prompt library using python",
-      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
-      "published_at": "2026-07-16T11:15:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "google-cloud-vertex-ai"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Subramanian"
     }
   ],
   "Database": [
@@ -2695,6 +2714,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
+      "source": "Dev.to",
+      "user": "Don Johnson"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2904,19 +2938,19 @@
       "user": "Tahira Muhammad"
     },
     {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "published_at": "2026-07-13T19:37:38Z",
+      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
       "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
+        "ai",
+        "rust",
+        "cli",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
+      "user": "Don Johnson"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3011,7 +3045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 6459,
       "user": "Fei-Away"
     },
     {
@@ -3026,7 +3060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 684,
       "user": "tandpfun"
     },
     {
@@ -3041,7 +3075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 598,
       "user": "KubeezMedia"
     },
     {
@@ -3056,23 +3090,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 320,
       "user": "Blueturboguy07"
     },
     {
-      "title": "yeet-src/sigwire - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
-      "url": "https://github.com/yeet-src/sigwire",
-      "published_at": "2026-07-13T19:26:32Z",
-      "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+      "published_at": "2026-07-15T10:24:07Z",
+      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125224316?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "yeet-src"
+      "stars": 161,
+      "user": "HeiGeAi"
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
@@ -3086,7 +3120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1672,
+      "stars": 1722,
       "user": "MDX-Tom"
     },
     {
@@ -3101,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1109,
       "user": "littledivy"
     },
     {
@@ -3116,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "Kappaemme-git"
     },
     {
@@ -3131,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 698,
       "user": "oil-oil"
     },
     {
@@ -3146,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202784495?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 341,
       "user": "Git-creat7"
     },
     {
@@ -3161,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 308,
       "user": "vshulcz"
     },
     {
@@ -3176,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 122,
       "user": "shibadogcap"
     },
     {
@@ -3206,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "ywddd"
     },
     {
@@ -3236,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1073,
       "user": "pixel-point"
     },
     {
@@ -3266,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "MatinSenPai"
     },
     {
@@ -3281,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "opencoredev"
     },
     {
@@ -3311,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 12236,
+      "stars": 13080,
       "user": "xai-org"
     },
     {
@@ -3326,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 943,
       "user": "CluvexStudio"
     },
     {
@@ -3341,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "AyagamiDev"
     },
     {
@@ -3356,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "RongleCat"
     },
     {
