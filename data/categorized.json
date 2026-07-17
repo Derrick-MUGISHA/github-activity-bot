@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
+      "published_at": "2026-07-16T22:52:32Z",
+      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
+      "tags": [
+        "ai",
+        "career",
+        "design"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
+    {
       "title": "What is an \"agentic harness,\" actually?",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "published_at": "2026-07-16T21:19:20Z",
@@ -39,7 +53,7 @@
         "ai",
         "programming",
         "claude",
-        "llm"
+        "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png",
       "source": "Dev.to",
@@ -661,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 804,
       "user": "tandpfun"
     },
     {
@@ -676,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 438,
       "user": "Blueturboguy07"
     },
     {
@@ -691,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "HeiGeAi"
     },
     {
@@ -706,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1848,
       "user": "MDX-Tom"
     },
     {
@@ -721,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 739,
       "user": "oil-oil"
     },
     {
@@ -736,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 462,
       "user": "PengZhang64"
     },
     {
@@ -751,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 326,
       "user": "vshulcz"
     },
     {
@@ -766,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "ywddd"
     },
     {
@@ -781,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 513,
       "user": "MatinSenPai"
     },
     {
@@ -811,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15120,
+      "stars": 15446,
       "user": "xai-org"
     },
     {
@@ -838,6 +852,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thang"
+    },
+    {
+      "title": "We are Changing our Developer Productivity Experiment Design",
+      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "published_at": "2026-07-17T07:51:36.438-05:00",
+      "description": "Followup to [their 2025 study that showed a 19% decrease in productivity](https://lobste.rs/s/1batvy).\r\n\r\n[Data repo](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs).",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
@@ -868,6 +894,51 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elina"
+    },
+    {
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "published_at": "2026-07-17T15:29:21.000Z",
+      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+      "tags": [
+        "Security",
+        "Amazon Web Services",
+        "AWS",
+        "whoops"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "published_at": "2026-07-17T15:21:17.000Z",
+      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "tags": [
+        "AI",
+        "cloudflare",
+        "Patreon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "published_at": "2026-07-17T14:30:00.000Z",
+      "description": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being hel",
+      "tags": [
+        "Startups",
+        "Venture",
+        "Fundraising",
+        "True Ventures",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
@@ -910,37 +981,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "published_at": "2026-07-16T18:32:54.000Z",
-      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Google",
-        "Google Vids",
-        "Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "published_at": "2026-07-16T18:22:06.000Z",
-      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gaming",
-        "Roblox"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
@@ -1035,21 +1075,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
-      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
-      "published_at": "2026-07-15T04:30:47Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "productivity",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
-      "source": "Dev.to",
-      "user": "Tahira Muhammad"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1183,7 +1208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8331,
+      "stars": 8449,
       "user": "Fei-Away"
     },
     {
@@ -1198,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 804,
       "user": "tandpfun"
     },
     {
@@ -1213,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "KubeezMedia"
     },
     {
@@ -1228,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 438,
       "user": "Blueturboguy07"
     },
     {
@@ -1243,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "HeiGeAi"
     },
     {
@@ -1258,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1142,
       "user": "pixel-point"
     },
     {
@@ -1273,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 832,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1288,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 513,
       "user": "MatinSenPai"
     },
     {
@@ -1307,25 +1332,25 @@
       "user": "opencoredev"
     },
     {
-      "title": "stackblitz/bolt-slides - Use any agent to create stunning, interactive presentations",
-      "url": "https://github.com/stackblitz/bolt-slides",
-      "published_at": "2026-07-14T18:23:27Z",
-      "description": "Use any agent to create stunning, interactive presentations",
+      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "published_at": "2026-07-16T07:06:09Z",
+      "description": "yoink any video from your terminal. no shady ads.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 254,
-      "user": "stackblitz"
+      "stars": 286,
+      "user": "pablostanley"
     },
     {
       "title": "How can I learn Model Context Protocol (MCP) from scratch? Uisng Node.js / JavaScript",
       "url": "https://stackoverflow.com/questions/79981530/how-can-i-learn-model-context-protocol-mcp-from-scratch-uisng-node-js-javas",
       "published_at": "2026-07-17T08:51:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "node.js",
@@ -1817,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1848,
       "user": "MDX-Tom"
     },
     {
@@ -1832,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1132,
       "user": "littledivy"
     },
     {
@@ -1847,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "Kappaemme-git"
     },
     {
@@ -1862,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 739,
       "user": "oil-oil"
     },
     {
@@ -1877,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 462,
       "user": "PengZhang64"
     },
     {
@@ -1893,23 +1918,10 @@
       "user": "Martin"
     },
     {
-      "title": "Lexical Translation with python",
-      "url": "https://stackoverflow.com/questions/79981543/lexical-translation-with-python",
-      "published_at": "2026-07-17T09:23:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "translation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shahab khoram"
-    },
-    {
       "title": "Python Install Manager for offline installation in company environment",
       "url": "https://stackoverflow.com/questions/79981514/python-install-manager-for-offline-installation-in-company-environment",
       "published_at": "2026-07-17T07:42:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "installation",
@@ -1918,6 +1930,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Michael Hecht"
+    },
+    {
+      "title": "Lexical Translation with python",
+      "url": "https://stackoverflow.com/questions/79981543/lexical-translation-with-python",
+      "published_at": "2026-07-17T09:23:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "translation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shahab khoram"
     },
     {
       "title": "How to fix Pydantic wheel build?",
@@ -2334,21 +2359,6 @@
   ],
   "Mobile": [
     {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "published_at": "2026-07-16T18:22:06.000Z",
-      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gaming",
-        "Roblox"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
       "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
       "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
       "published_at": "2026-07-16T22:20:44.000Z",
@@ -2618,6 +2628,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "published_at": "2026-07-17T15:29:21.000Z",
+      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+      "tags": [
+        "Security",
+        "Amazon Web Services",
+        "AWS",
+        "whoops"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "published_at": "2026-07-17T15:21:17.000Z",
+      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "tags": [
+        "AI",
+        "cloudflare",
+        "Patreon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -2647,18 +2686,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "We're building Postgres in Rust. Using the LLVM of databases",
-      "url": "https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust",
-      "published_at": "2026-07-16T10:39:50.069-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "polyrand"
     },
     {
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
@@ -2853,6 +2880,21 @@
       "user": "brn"
     },
     {
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "published_at": "2026-07-17T15:29:21.000Z",
+      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+      "tags": [
+        "Security",
+        "Amazon Web Services",
+        "AWS",
+        "whoops"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
       "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
       "published_at": "2026-07-16T21:22:31.000Z",
@@ -2914,21 +2956,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
-      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
-      "published_at": "2026-07-15T04:30:47Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "productivity",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
-      "source": "Dev.to",
-      "user": "Tahira Muhammad"
-    },
-    {
       "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
       "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
       "published_at": "2026-07-13T19:37:38Z",
@@ -2942,21 +2969,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
       "user": "Don Johnson"
-    },
-    {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3051,7 +3063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8331,
+      "stars": 8449,
       "user": "Fei-Away"
     },
     {
@@ -3066,7 +3078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 804,
       "user": "tandpfun"
     },
     {
@@ -3081,7 +3093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "KubeezMedia"
     },
     {
@@ -3096,7 +3108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 438,
       "user": "Blueturboguy07"
     },
     {
@@ -3111,7 +3123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "HeiGeAi"
     },
     {
@@ -3126,7 +3138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1848,
       "user": "MDX-Tom"
     },
     {
@@ -3141,7 +3153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1132,
       "user": "littledivy"
     },
     {
@@ -3156,7 +3168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "Kappaemme-git"
     },
     {
@@ -3171,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 739,
       "user": "oil-oil"
     },
     {
@@ -3186,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 462,
       "user": "PengZhang64"
     },
     {
@@ -3201,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 326,
       "user": "vshulcz"
     },
     {
@@ -3246,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36771198?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "ywddd"
     },
     {
@@ -3276,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1142,
       "user": "pixel-point"
     },
     {
@@ -3291,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 832,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3306,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 513,
       "user": "MatinSenPai"
     },
     {
@@ -3325,19 +3337,19 @@
       "user": "opencoredev"
     },
     {
-      "title": "stackblitz/bolt-slides - Use any agent to create stunning, interactive presentations",
-      "url": "https://github.com/stackblitz/bolt-slides",
-      "published_at": "2026-07-14T18:23:27Z",
-      "description": "Use any agent to create stunning, interactive presentations",
+      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "published_at": "2026-07-16T07:06:09Z",
+      "description": "yoink any video from your terminal. no shady ads.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 254,
-      "user": "stackblitz"
+      "stars": 286,
+      "user": "pablostanley"
     },
     {
       "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
@@ -3351,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 15120,
+      "stars": 15446,
       "user": "xai-org"
     },
     {
@@ -3366,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1046,
       "user": "CluvexStudio"
     },
     {
@@ -3415,20 +3427,16 @@
       "user": "m-novotny"
     },
     {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "published_at": "2026-07-16T18:32:54.000Z",
-      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "title": "We are Changing our Developer Productivity Experiment Design",
+      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "published_at": "2026-07-17T07:51:36.438-05:00",
+      "description": "Followup to [their 2025 study that showed a 19% decrease in productivity](https://lobste.rs/s/1batvy).\r\n\r\n[Data repo](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs).",
       "tags": [
-        "AI",
-        "Apps",
-        "Google",
-        "Google Vids",
-        "Video"
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How I Used Harness Engineering to Make Our Company AI-Native",

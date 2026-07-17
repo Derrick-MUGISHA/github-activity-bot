@@ -1,7 +1,7 @@
 {
-  "total": 182,
+  "total": 183,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 59,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,34 +10,35 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 70,
-    "JavaScript": 39,
+    "AI": 73,
+    "JavaScript": 38,
     "Python": 35,
     "DevOps": 17,
     "WebDev": 5,
-    "Mobile": 3,
-    "Cloud": 16,
-    "Database": 5,
-    "Security": 15,
-    "Tools": 38
+    "Mobile": 2,
+    "Cloud": 18,
+    "Database": 4,
+    "Security": 16,
+    "Tools": 36
   },
   "by_language": {
     "Go": 42,
     "Python": 35,
-    "JavaScript": 39,
-    "Rust": 14,
+    "JavaScript": 38,
+    "Rust": 13,
     "Java": 27
   },
   "by_date": {
-    "2026-07-16": 38,
-    "2026-07-14": 13,
+    "2026-07-17": 18,
+    "2026-07-16": 35,
+    "2026-07-14": 12,
     "2026-07-13": 14,
-    "2026-07-15": 18,
+    "2026-07-15": 17,
     "2026-07-08": 4,
     "2026-07-12": 6,
     "2026-07-09": 3,
     "2026-07-07": 2,
-    "2026-07-06": 2,
+    "2026-07-06": 1,
     "2026-07-11": 7,
     "2026-06-29": 4,
     "2026-07-02": 1,
@@ -96,25 +97,24 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2022-08-01": 1,
-    "2026-07-17": 11
+    "2022-08-01": 1
   },
   "top_tags": {
-    "ai": 28,
+    "ai": 29,
     "github": 25,
     "open-source": 25,
     "python": 24,
     "javascript": 15,
-    "AI": 14,
-    "Security": 12,
+    "AI": 13,
+    "Security": 13,
     "JavaScript": 12,
     "Python": 11,
     "mcps": 10,
     "DevOps": 10,
+    "discuss": 9,
     "rust": 9,
-    "discuss": 8,
-    "llm": 8,
-    "webdev": 7,
+    "webdev": 8,
+    "llm": 7,
     "antigravity": 7,
     "go": 7,
     "gemma4": 6,
@@ -123,10 +123,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "26.8",
-    "Python": "22.3",
-    "JavaScript": "24.8",
-    "Rust": "8.9",
-    "Java": "17.2"
+    "Go": "27.1",
+    "Python": "22.6",
+    "JavaScript": "24.5",
+    "Rust": "8.4",
+    "Java": "17.4"
   }
 }
