@@ -46,21 +46,6 @@
       "user": "Sidhant Panda"
     },
     {
-      "title": "DiffusionGemma: The Developer Guide",
-      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
-      "published_at": "2026-07-16T14:27:09Z",
-      "description": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
-      "tags": [
-        "gemma",
-        "google",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
       "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
       "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6",
       "published_at": "2026-07-14T23:21:21Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "DiffusionGemma: The Developer Guide",
+      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
+      "published_at": "2026-07-16T14:27:09Z",
+      "description": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
+      "tags": [
+        "gemma",
+        "google",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
     },
     {
       "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 702,
       "user": "tandpfun"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 363,
       "user": "Blueturboguy07"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 184,
       "user": "HeiGeAi"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1752,
       "user": "MDX-Tom"
     },
     {
@@ -721,8 +721,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 707,
       "user": "oil-oil"
+    },
+    {
+      "title": "PengZhang64/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "published_at": "2026-07-16T15:02:10Z",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
+      "source": "GitHub",
+      "stars": 376,
+      "user": "PengZhang64"
     },
     {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
@@ -751,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "MatinSenPai"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "opencoredev"
     },
     {
@@ -781,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 13080,
+      "stars": 13568,
       "user": "xai-org"
     },
     {
@@ -809,6 +824,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hugoarnal"
+    },
+    {
+      "title": "Here's how I host my own AIM server",
+      "url": "https://veronicaexplains.net/open-oscar-server/",
+      "published_at": "2026-07-16T19:18:37.775-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
     },
     {
       "title": "What gdb frontend do you prefer (linux)",
@@ -852,54 +879,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elina"
-    },
-    {
-      "title": "AI-Powered Search Integration Failing to Generate Revenue: Challenges with Monetization Strategies on AI-Driven Websites",
-      "url": "https://stackoverflow.com/questions/79981454/ai-powered-search-integration-failing-to-generate-revenue-challenges-with-monet",
-      "published_at": "2026-07-17T01:54:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32868475"
-    },
-    {
-      "title": "How Can AI Be Effectively Used to Monetize a Website? Insights and Examples of Successful AI Integration for Revenue Generation",
-      "url": "https://stackoverflow.com/questions/79981451/how-can-ai-be-effectively-used-to-monetize-a-website-insights-and-examples-of-s",
-      "published_at": "2026-07-17T01:47:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32851919"
-    },
-    {
-      "title": "Advanced developer tip: The Alarming Shutdown of High-Quality Websites: Understanding the Impact of AI and Exploring Solutions",
-      "url": "https://stackoverflow.com/questions/79981447/advanced-developer-tip-the-alarming-shutdown-of-high-quality-websites-understa",
-      "published_at": "2026-07-17T01:07:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32903707"
-    },
-    {
-      "title": "How Can Websites Sustain Themselves in the Age of AI? Exploring Revenue Strategies Beyond Traditional AI Integration",
-      "url": "https://stackoverflow.com/questions/79981450/how-can-websites-sustain-themselves-in-the-age-of-ai-exploring-revenue-strategi",
-      "published_at": "2026-07-17T01:44:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32874459"
     },
     {
       "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
@@ -991,6 +970,22 @@
       "user": "Sarah Perez"
     },
     {
+      "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
+      "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
+      "published_at": "2026-07-16T22:20:44.000Z",
+      "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
+      "tags": [
+        "#Domain-Driven-Design",
+        "Dart",
+        "Mobile Development",
+        "Flutter",
+        "Observer Pattern"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
+    },
+    {
       "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
       "url": "https://www.freecodecamp.org/news/why-it-worked-on-my-machine-still-happens-in-2026/",
       "published_at": "2026-07-15T18:18:11.000Z",
@@ -1035,36 +1030,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
-      "url": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
-      "published_at": "2026-07-15T15:25:14.000Z",
-      "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
-    },
-    {
-      "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
-      "url": "https://www.freecodecamp.org/news/ai-paper-review-deep-unsupervised-learning-using-nonequilibrium-thermodynamics/",
-      "published_at": "2026-07-15T15:23:43.000Z",
-      "description": "Today, diffusion models power some of the most impressive AI systems ever built. They generate photorealistic images, create videos, synthesize speech, design proteins, and increasingly influence fiel",
-      "tags": [
-        "AI",
-        "MathJax",
-        "Deep Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mohammed Fahd Abrah"
     }
   ],
   "JavaScript": [
@@ -1245,7 +1210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 6459,
+      "stars": 7039,
       "user": "Fei-Away"
     },
     {
@@ -1260,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 702,
       "user": "tandpfun"
     },
     {
@@ -1275,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 606,
       "user": "KubeezMedia"
     },
     {
@@ -1290,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 363,
       "user": "Blueturboguy07"
     },
     {
@@ -1305,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 184,
       "user": "HeiGeAi"
     },
     {
@@ -1320,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1091,
       "user": "pixel-point"
     },
     {
@@ -1335,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 830,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1350,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "MatinSenPai"
     },
     {
@@ -1365,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "opencoredev"
     },
     {
@@ -1457,7 +1422,7 @@
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
       "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
       "published_at": "2026-07-16T11:56:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "database",
@@ -1520,6 +1485,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elina"
+    },
+    {
+      "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
+      "published_at": "2026-07-16T22:56:30.000Z",
+      "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
+      "tags": [
+        "Microservices",
+        "PayPal",
+        "payments",
+        "nestjs",
+        "Docker"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Md Tarikul Islam"
+    },
+    {
+      "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
+      "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
+      "published_at": "2026-07-16T22:20:44.000Z",
+      "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
+      "tags": [
+        "#Domain-Driven-Design",
+        "Dart",
+        "Mobile Development",
+        "Flutter",
+        "Observer Pattern"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
@@ -1847,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1752,
       "user": "MDX-Tom"
     },
     {
@@ -1862,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1114,
       "user": "littledivy"
     },
     {
@@ -1877,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 765,
       "user": "Kappaemme-git"
     },
     {
@@ -1892,73 +1889,49 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 707,
       "user": "oil-oil"
     },
     {
-      "title": "Git-creat7/grokRegister-cpa - Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-      "url": "https://github.com/Git-creat7/grokRegister-cpa",
-      "published_at": "2026-07-11T09:46:31Z",
-      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "title": "PengZhang64/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "published_at": "2026-07-16T15:02:10Z",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202784495?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 341,
-      "user": "Git-creat7"
+      "stars": 376,
+      "user": "PengZhang64"
     },
     {
-      "title": "can you help me in this code if you see this code is perfect directory also same",
-      "url": "https://stackoverflow.com/questions/79981467/can-you-help-me-in-this-code-if-you-see-this-code-is-perfect-directory-also-same",
-      "published_at": "2026-07-17T03:45:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "how to fix pydantic wheel build",
+      "url": "https://stackoverflow.com/questions/79981483/how-to-fix-pydantic-wheel-build",
+      "published_at": "2026-07-17T05:39:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "python-3.x",
-        "python-2.7"
+        "pip",
+        "pydantic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shake"
+    },
+    {
+      "title": "In this code if you see this code is perfect directory also same",
+      "url": "https://stackoverflow.com/questions/79981467/in-this-code-if-you-see-this-code-is-perfect-directory-also-same",
+      "published_at": "2026-07-17T03:45:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "krishna pro"
-    },
-    {
-      "title": "AI-Powered Search Integration Failing to Generate Revenue: Challenges with Monetization Strategies on AI-Driven Websites",
-      "url": "https://stackoverflow.com/questions/79981454/ai-powered-search-integration-failing-to-generate-revenue-challenges-with-monet",
-      "published_at": "2026-07-17T01:54:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32868475"
-    },
-    {
-      "title": "How Can AI Be Effectively Used to Monetize a Website? Insights and Examples of Successful AI Integration for Revenue Generation",
-      "url": "https://stackoverflow.com/questions/79981451/how-can-ai-be-effectively-used-to-monetize-a-website-insights-and-examples-of-s",
-      "published_at": "2026-07-17T01:47:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32851919"
-    },
-    {
-      "title": "Advanced developer tip: The Alarming Shutdown of High-Quality Websites: Understanding the Impact of AI and Exploring Solutions",
-      "url": "https://stackoverflow.com/questions/79981447/advanced-developer-tip-the-alarming-shutdown-of-high-quality-websites-understa",
-      "published_at": "2026-07-17T01:07:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32903707"
     },
     {
       "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
@@ -1973,18 +1946,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chloe Williams"
-    },
-    {
-      "title": "How Can Websites Sustain Themselves in the Age of AI? Exploring Revenue Strategies Beyond Traditional AI Integration",
-      "url": "https://stackoverflow.com/questions/79981450/how-can-websites-sustain-themselves-in-the-age-of-ai-exploring-revenue-strategi",
-      "published_at": "2026-07-17T01:44:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32874459"
     },
     {
       "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
@@ -2005,7 +1966,7 @@
       "title": "Possible to Add a Button to a Treeview Widget?",
       "url": "https://stackoverflow.com/questions/79981418/possible-to-add-a-button-to-a-treeview-widget",
       "published_at": "2026-07-16T21:41:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tkinter",
@@ -2046,6 +2007,50 @@
       "user": "Basilevs"
     },
     {
+      "title": "PyTorch/Captum: RuntimeError: gather(): Expected dtype int32/int64 for index",
+      "url": "https://stackoverflow.com/questions/79981390/pytorch-captum-runtimeerror-gather-expected-dtype-int32-int64-for-index",
+      "published_at": "2026-07-16T18:57:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "machine-learning",
+        "pytorch"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tessa"
+    },
+    {
+      "title": "Getting SSL error while fetching data from BLS",
+      "url": "https://stackoverflow.com/questions/79981376/getting-ssl-error-while-fetching-data-from-bls",
+      "published_at": "2026-07-16T17:47:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ssl",
+        "python-requests",
+        "ssl-certificate"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hayat"
+    },
+    {
+      "title": "Can't install keyboard package because pip won't work",
+      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
+      "published_at": "2026-07-16T14:25:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "ubuntu",
+        "pip",
+        "windows-subsystem-for-linux"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "King Of Noobs"
+    },
+    {
       "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
       "url": "https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/",
       "published_at": "2026-07-16T11:39:24.000Z",
@@ -2057,22 +2062,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
-      "url": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
-      "published_at": "2026-07-15T15:25:14.000Z",
-      "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "DevOps": [
@@ -2285,6 +2274,22 @@
       "source": "GitHub",
       "stars": 93,
       "user": "berkayyytech"
+    },
+    {
+      "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
+      "published_at": "2026-07-16T22:56:30.000Z",
+      "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
+      "tags": [
+        "Microservices",
+        "PayPal",
+        "payments",
+        "nestjs",
+        "Docker"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Md Tarikul Islam"
     }
   ],
   "WebDev": [
@@ -2385,6 +2390,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
+    },
+    {
+      "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
+      "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
+      "published_at": "2026-07-16T22:20:44.000Z",
+      "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
+      "tags": [
+        "#Domain-Driven-Design",
+        "Dart",
+        "Mobile Development",
+        "Flutter",
+        "Observer Pattern"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "Master Full-Stack Mobile Development with React Native",
@@ -2686,7 +2707,7 @@
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
       "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
       "published_at": "2026-07-16T11:56:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "database",
@@ -3045,7 +3066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 6459,
+      "stars": 7039,
       "user": "Fei-Away"
     },
     {
@@ -3060,7 +3081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 702,
       "user": "tandpfun"
     },
     {
@@ -3075,7 +3096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 606,
       "user": "KubeezMedia"
     },
     {
@@ -3090,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 363,
       "user": "Blueturboguy07"
     },
     {
@@ -3105,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 184,
       "user": "HeiGeAi"
     },
     {
@@ -3120,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1752,
       "user": "MDX-Tom"
     },
     {
@@ -3135,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1114,
       "user": "littledivy"
     },
     {
@@ -3150,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 765,
       "user": "Kappaemme-git"
     },
     {
@@ -3165,23 +3186,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 707,
       "user": "oil-oil"
     },
     {
-      "title": "Git-creat7/grokRegister-cpa - Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-      "url": "https://github.com/Git-creat7/grokRegister-cpa",
-      "published_at": "2026-07-11T09:46:31Z",
-      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "title": "PengZhang64/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "published_at": "2026-07-16T15:02:10Z",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202784495?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 341,
-      "user": "Git-creat7"
+      "stars": 376,
+      "user": "PengZhang64"
     },
     {
       "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
@@ -3195,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 314,
       "user": "vshulcz"
     },
     {
@@ -3210,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "shibadogcap"
     },
     {
@@ -3255,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212332204?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "AminMGMT"
     },
     {
@@ -3270,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1091,
       "user": "pixel-point"
     },
     {
@@ -3285,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 830,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3300,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "MatinSenPai"
     },
     {
@@ -3315,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "opencoredev"
     },
     {
@@ -3345,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 13080,
+      "stars": 13568,
       "user": "xai-org"
     },
     {
@@ -3360,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 961,
       "user": "CluvexStudio"
     },
     {
@@ -3390,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "RongleCat"
     },
     {
