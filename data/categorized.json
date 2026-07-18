@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 935,
       "user": "tandpfun"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 505,
       "user": "Blueturboguy07"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "HeiGeAi"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "oil-oil"
     },
     {
@@ -724,6 +724,21 @@
       "user": "PengZhang64"
     },
     {
+      "title": "nethical6/conversation-steganography - Use LLMs to hide secret messages inside normal looking conversations",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "published_at": "2026-07-17T04:58:22Z",
+      "description": "Use LLMs to hide secret messages inside normal looking conversations",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "nethical6"
+    },
+    {
       "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
       "url": "https://github.com/vshulcz/deja-vu",
       "published_at": "2026-07-14T07:45:44Z",
@@ -737,21 +752,6 @@
       "source": "GitHub",
       "stars": 342,
       "user": "vshulcz"
-    },
-    {
-      "title": "nethical6/conversation-steganography - Use LLMS to hide secret messages inside normal looking conversations",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "published_at": "2026-07-17T04:58:22Z",
-      "description": "Use LLMS to hide secret messages inside normal looking conversations",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "nethical6"
     },
     {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 557,
       "user": "MatinSenPai"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17067,
+      "stars": 17271,
       "user": "xai-org"
     },
     {
@@ -822,18 +822,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "FedericoSchonborn"
-    },
-    {
-      "title": "We are Changing our Developer Productivity Experiment Design",
-      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
-      "published_at": "2026-07-17T07:51:36.438-05:00",
-      "description": "Followup to [their 2025 study that showed a 19% decrease in productivity](https://lobste.rs/s/1batvy).\r\n\r\n[Data repo](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs).",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
@@ -866,22 +854,10 @@
       "user": "Elina"
     },
     {
-      "title": "How Websites Can Maintain Sustainability with AI-Driven Operations and Effective Monetization Strategies",
-      "url": "https://stackoverflow.com/questions/79981735/how-websites-can-maintain-sustainability-with-ai-driven-operations-and-effective",
-      "published_at": "2026-07-18T01:05:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32903707"
-    },
-    {
       "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
       "url": "https://stackoverflow.com/questions/79981731/how-can-i-create-a-pydantic-secret-field-that-is-plaintext-in-model-dump-but",
       "published_at": "2026-07-17T23:58:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pydantic",
@@ -1211,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8988,
+      "stars": 9123,
       "user": "Fei-Away"
     },
     {
@@ -1226,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 935,
       "user": "tandpfun"
     },
     {
@@ -1256,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 505,
       "user": "Blueturboguy07"
     },
     {
@@ -1271,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "HeiGeAi"
     },
     {
@@ -1286,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1177,
       "user": "pixel-point"
     },
     {
@@ -1316,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 557,
       "user": "MatinSenPai"
     },
     {
@@ -1331,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 470,
       "user": "pablostanley"
     },
     {
@@ -1346,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "stackblitz"
     },
     {
@@ -1363,10 +1339,23 @@
       "user": "veqq"
     },
     {
+      "title": "Where can i find resources for learning more about vibe coding?",
+      "url": "https://stackoverflow.com/questions/79981772/where-can-i-find-resources-for-learning-more-about-vibe-coding",
+      "published_at": "2026-07-18T05:44:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "advice",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andre Green"
+    },
+    {
       "title": "Simple WebAuthn Credential Registration and Attestation?",
       "url": "https://stackoverflow.com/questions/79981686/simple-webauthn-credential-registration-and-attestation",
       "published_at": "2026-07-17T18:13:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "best-practices",
         "javascript",
@@ -1462,19 +1451,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Why is toggle() not working on the images I want to hide/show?",
-      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
-      "published_at": "2026-07-16T06:30:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eden Leadbeatter"
     },
     {
       "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
@@ -1897,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 795,
       "user": "Kappaemme-git"
     },
     {
@@ -1912,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "oil-oil"
     },
     {
@@ -1942,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 354,
       "user": "Shadow-Weave"
     },
     {
@@ -1962,7 +1938,7 @@
       "title": "Why does numpy do a copy in this array slice?",
       "url": "https://stackoverflow.com/questions/79981758/why-does-numpy-do-a-copy-in-this-array-slice",
       "published_at": "2026-07-18T04:26:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "numpy",
@@ -1974,22 +1950,10 @@
       "user": "Anonymous1847"
     },
     {
-      "title": "How Websites Can Maintain Sustainability with AI-Driven Operations and Effective Monetization Strategies",
-      "url": "https://stackoverflow.com/questions/79981735/how-websites-can-maintain-sustainability-with-ai-driven-operations-and-effective",
-      "published_at": "2026-07-18T01:05:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32903707"
-    },
-    {
       "title": "Nested dictionary output",
       "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
       "published_at": "2026-07-17T21:05:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "dictionary"
@@ -2002,7 +1966,7 @@
       "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
       "url": "https://stackoverflow.com/questions/79981731/how-can-i-create-a-pydantic-secret-field-that-is-plaintext-in-model-dump-but",
       "published_at": "2026-07-17T23:58:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pydantic",
@@ -2016,7 +1980,7 @@
       "title": "Trouble with the \"RandomForestClassifier instance is not fitted yet\" error",
       "url": "https://stackoverflow.com/questions/79981695/trouble-with-the-randomforestclassifier-instance-is-not-fitted-yet-error",
       "published_at": "2026-07-17T19:08:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "scikit-learn"
@@ -2029,7 +1993,7 @@
       "title": "Microsoft Graph TO DO API: checklistItems wrong sort order",
       "url": "https://stackoverflow.com/questions/79981666/microsoft-graph-to-do-api-checklistitems-wrong-sort-order",
       "published_at": "2026-07-17T17:10:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "microsoft-graph-api",
@@ -2091,6 +2055,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shake"
+    },
+    {
+      "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
+      "url": "https://stackoverflow.com/questions/79981415/can-i-mix-raw-text-queries-and-precomputed-vectors-when-using-a-milvus-text-embe",
+      "published_at": "2026-07-16T21:08:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "vector",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chloe Williams"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2378,19 +2356,6 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
-      "title": "Why is toggle() not working on the images I want to hide/show?",
-      "url": "https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show",
-      "published_at": "2026-07-16T06:30:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eden Leadbeatter"
-    },
-    {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
       "published_at": "2026-07-17T20:34:10.000Z",
@@ -2436,7 +2401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "ZethRise"
     },
     {
@@ -3170,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8988,
+      "stars": 9123,
       "user": "Fei-Away"
     },
     {
@@ -3185,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 935,
       "user": "tandpfun"
     },
     {
@@ -3215,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 505,
       "user": "Blueturboguy07"
     },
     {
@@ -3230,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "HeiGeAi"
     },
     {
@@ -3260,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 795,
       "user": "Kappaemme-git"
     },
     {
@@ -3275,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "oil-oil"
     },
     {
@@ -3305,8 +3270,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 354,
       "user": "Shadow-Weave"
+    },
+    {
+      "title": "nethical6/conversation-steganography - Use LLMs to hide secret messages inside normal looking conversations",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "published_at": "2026-07-17T04:58:22Z",
+      "description": "Use LLMs to hide secret messages inside normal looking conversations",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "nethical6"
     },
     {
       "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
@@ -3322,21 +3302,6 @@
       "source": "GitHub",
       "stars": 342,
       "user": "vshulcz"
-    },
-    {
-      "title": "nethical6/conversation-steganography - Use LLMS to hide secret messages inside normal looking conversations",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "published_at": "2026-07-17T04:58:22Z",
-      "description": "Use LLMS to hide secret messages inside normal looking conversations",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "nethical6"
     },
     {
       "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
@@ -3395,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1177,
       "user": "pixel-point"
     },
     {
@@ -3425,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 557,
       "user": "MatinSenPai"
     },
     {
@@ -3440,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 470,
       "user": "pablostanley"
     },
     {
@@ -3455,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "stackblitz"
     },
     {
@@ -3470,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17067,
+      "stars": 17271,
       "user": "xai-org"
     },
     {
@@ -3485,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1170,
       "user": "CluvexStudio"
     },
     {
@@ -3500,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "ZethRise"
     },
     {
@@ -3515,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 130,
       "user": "m-novotny"
     },
     {
@@ -3530,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6879392?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "articulite"
     },
     {
@@ -3545,18 +3510,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "We are Changing our Developer Productivity Experiment Design",
-      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
-      "published_at": "2026-07-17T07:51:36.438-05:00",
-      "description": "Followup to [their 2025 study that showed a 19% decrease in productivity](https://lobste.rs/s/1batvy).\r\n\r\n[Data repo](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs).",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
