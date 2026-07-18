@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 74,
+    "AI": 72,
     "JavaScript": 39,
     "Python": 37,
     "DevOps": 15,
-    "WebDev": 7,
+    "WebDev": 6,
     "Mobile": 5,
     "Cloud": 19,
     "Database": 5,
     "Security": 14,
-    "Tools": 39
+    "Tools": 38
   },
   "by_language": {
     "Go": 39,
@@ -33,7 +33,7 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-07-17": 38,
+    "2026-07-17": 37,
     "2026-07-16": 19,
     "2026-07-14": 13,
     "2026-07-15": 12,
@@ -102,7 +102,7 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2022-08-01": 1,
-    "2026-07-18": 4
+    "2026-07-18": 5
   },
   "top_tags": {
     "ai": 28,
@@ -121,9 +121,9 @@
     "rust": 8,
     "llm": 7,
     "gemma4": 6,
+    "programming": 6,
     "antigravitycli": 6,
     "go": 6,
-    "programming": 5,
     "antigravity": 5
   },
   "trending_topics": [],
