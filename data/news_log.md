@@ -32526,3 +32526,1311 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-18 2:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (72 articles)
+
+#### 1. [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
+📅 Thu, 16 Jul 2026 22:52:32 GMT
+👤 By: Paulo Henrique | 📌 Source: Dev.to
+
+![I burned through thousands of AI tokens. Then a friend did it for free](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png)
+
+(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...
+
+🏷️ Tags: `ai`, `career`, `design`
+
+---
+
+#### 2. [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
+📅 Thu, 16 Jul 2026 19:41:43 GMT
+👤 By: Sean Boult | 📌 Source: Dev.to
+
+![Did You Know TLDs Can Be Websites?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png)
+
+You've probably registered a domain with Route53 or another popular registrar.  You pick something...
+
+🏷️ Tags: `aws`, `infrastructure`, `networking`, `webdev`
+
+---
+
+#### 3. [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07)
+📅 Thu, 16 Jul 2026 17:53:53 GMT
+👤 By: Sidhant Panda | 📌 Source: Dev.to
+
+![Claude might be saturating your machine](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png)
+
+My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...
+
+🏷️ Tags: `ai`, `programming`, `claude`, `agents`
+
+---
+
+#### 4. [5 Trends That Defined AI Engineering at World’s Fair 2026](https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6)
+📅 Tue, 14 Jul 2026 23:21:21 GMT
+👤 By: Richard MacManus | 📌 Source: Dev.to
+
+![5 Trends That Defined AI Engineering at World’s Fair 2026](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213Be9%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png)
+
+At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...
+
+🏷️ Tags: `agents`, `ai`, `news`, `softwareengineering`
+
+---
+
+#### 5. [DiffusionGemma: The Developer Guide](https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l)
+📅 Thu, 16 Jul 2026 14:27:09 GMT
+👤 By: Gemini Team | 📌 Source: Dev.to
+
+![DiffusionGemma: The Developer Guide](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp)
+
+Following our announcement in our launch blog post, we are sharing this developer guide to help you...
+
+🏷️ Tags: `gemma`, `google`, `ai`, `llm`
+
+---
+
+#### 6. [What is an "agentic harness," actually?](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie)
+📅 Thu, 16 Jul 2026 21:19:20 GMT
+👤 By: Tilde A. Thurium | 📌 Source: Dev.to
+
+![What is an "agentic harness," actually?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png)
+
+I've been hearing the word "harness" thrown around a lot lately. I assumed it just meant "the IDE" or...
+
+🏷️ Tags: `ai`, `agents`, `discuss`, `llm`
+
+---
+
+#### 7. [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok)
+📅 Sun, 12 Jul 2026 15:09:09 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png)
+
+Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...
+
+🏷️ Tags: `ai`, `cloud`, `google`, `llm`
+
+---
+
+#### 8. [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k)
+📅 Wed, 15 Jul 2026 23:58:42 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Smash Story: The Demo Script That Out-Debugged My Test Suite](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png)
+
+A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug that mocks never could.
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `ai`, `debugging`
+
+---
+
+#### 9. [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l)
+📅 Wed, 15 Jul 2026 18:56:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Why did my benchmark stop at N=22? A debugging story in nine bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png)
+
+Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...
+
+🏷️ Tags: `bugsmash`, `debugging`, `ai`, `python`
+
+---
+
+#### 10. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+### 🏷️ JavaScript (39 articles)
+
+#### 1. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 2. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (37 articles)
+
+#### 1. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 2. [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
+📅 Wed, 15 Jul 2026 18:56:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png)
+
+Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...
+
+🏷️ Tags: `bugsmash`, `python`, `go`, `debugging`
+
+---
+
+#### 3. [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l)
+📅 Wed, 15 Jul 2026 18:56:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Why did my benchmark stop at N=22? A debugging story in nine bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png)
+
+Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...
+
+🏷️ Tags: `bugsmash`, `debugging`, `ai`, `python`
+
+---
+
+#### 4. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 5. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 6. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 7. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 8. [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h)
+📅 Fri, 03 Jul 2026 02:55:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `python`, `tpu`, `mcps`
+
+---
+
+#### 9. [Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b)
+📅 Thu, 09 Jul 2026 13:12:41 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `antigravitycli`, `python`, `mcps`, `gemma`
+
+---
+
+#### 10. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (15 articles)
+
+#### 1. [HTTP gets a QUERY method so complex searches can stop pretending to be POST
+
+https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28)
+📅 Tue, 14 Jul 2026 11:59:15 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![HTTP gets a QUERY method so complex searches can stop pretending to be POST
+
+https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png)
+
+...
+
+🏷️ Tags: `api`, `networking`, `news`, `webdev`
+
+---
+
+#### 2. [Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9)
+📅 Mon, 29 Jun 2026 16:12:25 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png)
+
+Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...
+
+🏷️ Tags: `antigravity`, `googlecloud`, `kubernetes`, `cloud`
+
+---
+
+#### 3. [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2)
+📅 Tue, 23 Jun 2026 18:38:11 GMT
+👤 By: bredmond1019 | 📌 Source: Dev.to
+
+![Multi-Agent Observability: See Everything Your AI Agents Do](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png)
+
+Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.
+
+🏷️ Tags: `ai`, `claudecode`, `devops`, `tutorial`
+
+---
+
+#### 4. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (7 articles)
+
+#### 1. [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h)
+📅 Wed, 08 Jul 2026 15:01:47 GMT
+👤 By: Andrew Bone | 📌 Source: Dev.to
+
+![A Pragmatic Look at AI in 2030](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png)
+
+I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...
+
+🏷️ Tags: `ai`, `softwareengineering`, `discuss`, `webdev`
+
+---
+
+#### 2. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
+📅 Fri, 17 Jul 2026 21:07:10 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+@matheusmoreira  ([blog](https://www.matheusmoreira.com/)) built [lone lisp](https://github.com/lone-lang/lone) directly on Linux system calls. In this interview, he shares his knowledge of C and the Linux Kernel.
+
+---
+
+**How did you get into computing originally? What was your path before discovering Lisp etc.?**
+
+I've always liked computers, but what truly got me into programming was video games. When I was a kid, I used to play games from a series called Mega Man Battle Network, and I ended up getting inspired by those games. They're ultimately responsible for my learning English; I used to join forums as a non-English speaker and try to socialize. It was rough at the start but I improved! The same goes for my first language, C++.
+
+**How young were you when you started with C++?**
+
+In Brazil there are "technical schools" which is what I attended. They're normal highschool curriculum, with extra professional classes. I'm not sure if these are common abroad, if there is a term for it. There were other courses, also: chemistry, mechatronics... As for quality, it was basic, yet pretty good for a highschool level. It did make me start learning all by myself though; within 6 months, I'd already learned the entire curriculum. Eventually they hired me as a teacher's assistant to help fellow students.
+
+So when I started highschool, around 13-14, I took the informatics course and started learning C++ with a very old IDE called [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/), which still exists on source forge! I also browsed the tutorials on [cplusplus.com](https://cplusplus.com). I tried making games but wasn't very successful at it! It was pretty hard, especially because I had yet to learn all the physics I was supposed to be simulating :) What I did end up doing was learning a lot more languages. After some basic C++ proficiency, I learned quite a bit of Java, then Ruby, then Python... That eventually led me to Lisp and Scheme! I remember thinking scheme was extremely elegant when I first saw it.
+Ruby was my favorite language though. I wrote a few gems back then. I think one actually got a small following: [Acclaim](https://rubydoc.info/gems/acclaim/0.4.0), a git-like command based argument parser.
+
+**Cool! Did you happily jump into new languages or did you first try to stay with C++?**
+
+I think I started learning more languages after I exhausted the [cplusplus.com](https://cplusplus.com) tutorials. I felt if there was nothing else for me to learn on that site, then I should probably move on, right? Sun used to have a really big Java Tutorials website back then. I think I read that entire site. That was when I learned object-oriented programming. I wrote some java code as a teenager... Some "utilities libraries". In hindsight, it was just a badly implemented version of 1% of what Apache commons has! I think I even published it, might still be out there somewhere... I also remember experimenting a lot with Java Swing applications. I used to really like the Nimbus look and feel and made a circle/arc drawing application for my math professor once.
+
+**What motivated all of these delvings? What inspired you to keep checking out different languages and so on? Have you stuck with Ruby too?**
+
+School projects were a big motivator in my early school years, but at some point it was about curiosity, and a desire for The Right Thing. I wanted a language to call home. I stuck with Ruby the longest. It's a really nice language. I always have it installed, and have recently started a Rails project! But it has its imperfections too. The other language that I stuck with was C. Its low level simplicity was really captivating to me.
+
+I didn't forget C++, but I also didn't update my knowledge. Current C++ is essentially a completely new language, so I no longer claim I know C++. In a sense, I replaced it with C. C was always captivating for some reason, despite all the problems and legacy, but it really started getting entrenched in my mind when I started exploring the CRuby VM source code as a teenager. I had this really fun past time where I'd watch for interesting stackoverflow questions where someone would ask "why does Ruby act like X?" and I'd dig into the source code to figure it out.
+
+A few years ago I tried to transition to Rust, but it didn't quite stick. I'm also a huge fan of Zig and its creator. Have been since I watched "the road to Zig 1.0" keynote where he laid down reasons why people "rewrite things in C": speed, ABI...
+
+**What pros and cons kept you with C and Ruby?**
+
+Ruby was an extremely expressive language which "just fit" with my mental model. I could often guess a method name and it would work. It has nice things like singular/plural forms of method names, synonyms. Our brains work with these words, and Ruby supports them all.
+
+**[Matklad](https://alexalejandre.com/interviews/interview-with-matklad/) mentioned good APIs should be guessable and if he guesses stuff which don't exist, he'll often file a bug report saying the API demands it!**
+
+Ruby also enables composing eerily shell-like processing pipelines... items.each.with_index.map... It just keeps composing and you can do a LOT of work with very few characters.
+
+For C, the main advantage is the simplicity of the output. You write a function, it compiles to an ELF symbol and associated assembly code. They say you can see the compiler output when you write C, and it's true. With C++ the compiler adds a lot of machinery, it's very difficult to understand how it all fits together. With dynamic languages, it's just the same, but I found it easier to explore the source code of virtual machines than that of compilers.
+
+**So your C++ style changed, removing sugar until you were writing C?**
+
+Yes. My style also changed as I read more and more code written by other developers. I've explored CRuby code, CPython code, JVM code, a bit of guile code, even a bit of V8 code... I started to really admire expert C programmers when I started reading Linux kernel source code though. It's really good, probably the gold standard.
+
+**From the beginning, you read a lot? It's quite rare particularly today for people to really read others' code. How do you approach this? Any tricks or techniques?**
+
+I read a lot. I've always been the sort of curious person who wanted to know how the thing worked. I wasn't satisfied with just using some library, I wanted to know what it was doing under the hood. I wanted to know how the drivers talked to the hardware. I wanted to know all the hidden fun stuff. That's just the sort of thing that's interesting to me. The real applications I tried to make, I'd end up digressing into these unrelated explorations. Other programmers would tell me "why waste time on that? it's already solved" but I wanted to know how it was done, and eventually I also started to develop a sort of hubris that led me to want to reinvent the wheel, but better.
+
+I did get the message though. I felt like I was a bad fit for a career in software development because of this quirk, so I didn't pursue one in the end. Kept it as my hobby to this day.
+
+**When you first looked at driver code, how'd you make heads and tails of it all?**
+
+I couldn't make heads or tails of it all... at first. It was frustrating, but I kept persisting and eventually I was able to understand _some_ things, at least. I'm no hardware engineer, that's for sure... But I managed to reverse engineer some of my laptop's features. Still one of my proudest projects. My laptop is one of those Clevo barebones models. It has a pretty nice keyboard with RGB LEDs, most individually addressable. There was a REALLY bad windows app to control those LEDs. I swear it took over a minute to show a window on the screen, it was really aggravating. I used wireshark to intercept the USB packets it was sending to the keyboard and write a linux user space driver for it. I captured the packets, stared at the screen until I figured out their structure, and wrote a little C program to configure the keyboard for me. Threw it out on github and forgot about it... One day I went back there and somehow people were using the thing, one person even made a GUI for it. It was a pretty good feeling. I learned more about drivers and computer technology from trying to reverse engineer the rest of the laptop's features. ACPI power management stuff. I didn't quite figure everything out though, to this day.
+
+**You have an [article about linux system calls](https://www.matheusmoreira.com/articles/linux-system-calls), was that the moment you took the lone direction?**
+
+The code for system calls is pretty minimal, they work like normal function calls. I'd say the interesting part is that it allows you to bypass `libc` and target [linux directly](https://news.ycombinator.com/item?id=29106179). Linux is famous for user space ABI stability; userspace components not so much. It allows people to depend on Linux kernel directly, without other things in-between.
+
+I started with this general sense that people didn't want me to use them. I'd read the manuals and they'd say things like "this system call is not supported by glibc". I'd read wikipedia and there'd be an infograph is howing `glibc` wrapping linux, as though it was the CRT of Linux and other `libc`s didn't exist. Then I read an article on the LWN about how it took like two years for the `getrandom` system call to show up on glibc.
+
+
+
+**CRT?**
+
+C runtime. The standard C library: glibc, musl, uclibc.
+
+It's that package which breaks the entire world whenever they break compatibility. Because everything depends on it. I remember the article mentioned something like "maybe Linux should have a liblinux.a with just the syscalls, then people can bypass libc when they aren't helping by just passing `-llinux` to the compiler". I thought that was a really cool project idea so I went and created liblinux, which was just that: a collection of linux system call wrappers for freestanding C programming. It turned out that it was really fun to program against the Linux system call interface. So many of C's problems just disappear in freestanding mode.
+
+**What C problems disappear in freestanding mode?**
+
+The most basic one: `errno`. C has this notion of a "current error" which is a global variable. Every function sets it, and you're supposed to check it. Linux just returns you that error like a normal function would. The C libraries take that value, and put it in a global variable. It's just the way things are in C. Not in freestanding C. The legacy of C also disappears too. The C library has a lot of legacy code in it. The locale stuff, for example, is extremely problematic. It's also global state (a recurring theme!) which can cause very subtle errors based on things like environment variables. Liblinux taught me freestanding C, and how clean C could be... If only we could delete all of its legacy. It was painful. I had to write all of my own functions. From basic bytes copying functions, to integer->string conversion functions... The problem turned out to not be as insurmountable as I imagined though, and I persisted. I knew that when in doubt, I could always read code. I could see how the giants before me did it. The `glibc` repository was difficult to interpret but the `musl libc` source code is really clean and easy to dive into. It's been invaluable! It also stimulated a bit of creativity. For example, how could I create an automated test suite with no C library, no memory allocations, just static memory? I managed to do it in lone!
+
+I remember I even asked [Greg Kroah-Hartman](https://en.wikipedia.org/wiki/Greg_Kroah-Hartman) on Reddit about why Linux never had an "official" C library. He replied that Linux once had a [klibc](https://en.wikipedia.org/wiki/Klibc) project! The history of `liblinux` ended though: At some point I discovered Linux kernel folks were doing the very same thing! They had created a [nolibc.h](https://elixir.bootlin.com/linux/v6.2-rc4/source/tools/include/nolibc/nolibc.h) file that they were using internally in their own tools. I thought it was better than what I had come up with, and easier to use too. So I archived the project, and started something else: [Lone Lisp](https://github.com/lone-lang/lone). A whole programming language written in that paradigm. Deep down, I just wanted to prove to myself that I wasn't insane to think it was possible. If I could make a freestanding lisp that ran directly on linux, it would prove that any program could be written that way.
+
+> Modern Linux user space is monstrous and labyrinthine. Linux itself is not. I found it to be a really clean system. The basis of everything is actually the Linux system call binary interface. We can actually trash the entire user space and start from scratch with nothing but Linux. We can even trash the ubiquitous GNU stuff if we want.
+>
+> Why can't we have a compiler with built in system call support? Just add a system_call keyword that inlines Linux system call code using the supplied parameters. No need for libc bullshit in the middle. No need for C or any specific language. Someone could make a language today and that single feature would make it as capable as C is for systems programming. They could write software and boot Linux directly into it. [- Matheus 2021](https://news.ycombinator.com/item?id=28283632)
+
+To summarize, freestanding C removes some interesting C warts: all global state: `errno`, `rand`/`srand` state, locale state, `strtok` (not `reentrant`!), implicit file buffering which can occasionally bite people; badly designed APIs like gets (indefensible), `atexit`, `signal`, even `malloc`; lone's allocator is much nicer. `math.h` can get very messy with NaN, and it gets worse when `errno` is involved. Some things just never leave though. C's arcane integer promotion rules remain. Also the lack of overflow checking, but I use compiler builtins for those. I also worry a lot that I might be introducing my own warts... Hubris will no doubt bite me one day.
+
+**Do you know why the `nolibc.h` approach isn't more popular?**
+
+As of now, nolibc.h has become a sprawling directory in the kernel tree, it has become an ad-hoc libc of sorts. It seems they treat it as an internal project though, something meant to compile the internal tools linux uses. I think very few people outside linux kernel development know it exists. People could totally use it to build their own projects, but I'm not sure what sort of stability guarantees Linux offers in that regard.
+
+Relatedly, I've sent Cosmopolitan patches e.g. to help implement floating point parsing. I'm a fan of the project and the author. Even the people calling it a "dumb" hack are admitting that it's a genius hack as far as I'm concerned. It's just an amazing project that just coalesced an incredible amount of very wizardly knowledge into a single form which is the APE format. Something that manages to parse as a valid executable on various platforms with different executable formats is a very curious thing indeed. And it even does neat things on top of that, supports embedded archives in executables.
+
+**It's important to at least be thinking about hubris and how to avoid warts, hopefully. Many never introspect... Floating point's the only unchecked lone feature, what happens after? Do you want to build particular things in it.**
+
+As Steve Yegge said, just creating an interpreter creates a baby, a lifetime of work. Floating point is gonna be a hard one, but the work forward is literally unbounded.
+
+Just this weekend I implemented the error handling system. It's a Common Lisp style restartable condition system. Before that, every error path was a hard exit(255) from the interpreter. My next task is to replace all of those call sites with exceptions that can be handled within lisp. I also pushed proper tail call optimization support just now... Floating point is going to be a hard feature, if the patch I sent to Cosmopolitan is any indication. It's something I'll have to implement though. I also want to eventually start implementing ideas from the Erlang/BEAM system. I structured it so that there could one day be many interpreters running lisp code in parallel. Those are all language level features.
+
+What to build with the language itself? The very first project I want to make with lone... Is a replacement for my static site generator. I write my website in a fork of pugjs which I've been maintaining myself. It's my long term goal to write my own system in lone lisp to replace it. After that, I want to write my own shell. My own utilities. Start remaking the traditional Linux user space in my image.
+
+Those were the ideas that float around in my mind while I develop lone. One of my articles even mentions an implementation of `env` which just dumps the environment as a lone lisp table. Lone didn't have any iteration facilities at the time, so that was the best I could do. Now lone has generators! I can do a lot more... It's such a good feeling when I implement something and it just unlocks a lot of other stuff. The embedded segment feature is something I designed precisely for that "linux utility" use case. The lone interpreter has a feature where it reads a special ELF segment and just runs the code there, as though it was compiled in. So I can make lone programs by copying the interpreter, adding some lisp code to the copy, and it becomes a self-contained program. It's now got generators, delimited continuations, and I just introduced error handling.
+
+**How similar is the new error system to Common Lisp's??**
+
+The error system is similar in many ways but without the Common Lisp API where the signaling code gives options on how to restart, options like use-value. My system builds directly on top of the delimited continuation work. Until implementing them, continuations were just one of those mystical scheme features but I discovered that everybody was already using a version of it. Exceptions mechanisms are essentially a form of continuations, they just don't get captured into a value. And the magic is capturing the continuation. Alexis King's presentation on delimited continuations demystified that for me, it demonstrated that in the end it was just `memcpy`ing stacks. Making a copy of the stack, then "replaying" that stack somewhere else, like a VCR. Resumable exceptions. The error signaling system turned out to be just this, with a handler mechanism on top. I had to implement the "catch ErrorType -> code for ErrorType" part. I chose a simple system just mapping, say, a symbol like `'not-found`, to a lambda. So it tests the lambda's arity and if it takes one argument: `(lambda (error) ...)` it works just like every other language out there. But if it takes two: `(lambda (error continuation) ...)` then it provides a way to resume the code via continuations.
+
+Lone's error system makes the throw return a value to the calling code. Each exception handler can optionally receive a delimited continuation. If they do, they can call it to resume the erroneous code by returning a value.
+
+**Did you reject any specific systems or approaches?**
+
+I tend to reject the often heavyweight ways that other languages solve these things. For example, I explicitly rejected the Common Lisp style "restart API" which lets code enumerate a number of ways to restart. I wanted everything done in terms of simple language mechanisms in the evaluator itself, so restarts simply act as though signal/throw/transfer returned a value. I also rejected "special cases" in the evaluator whereas traditional Lisp implementations have `eval` explicitly support special forms such as `if`. In lone the evaluator doesn't have those special cases. It has support for FEXPRs, which are essentially evaluator plugins. That made certain things a lot more complicated than they had to be, just for the sake of that elegance (as perceived by me, at least). For example, tail call optimization worked for pure lisp functions, but not quite for the primitives. TCO for primitives has been fixed since then but it was buggy for a while, ultimately because of the design choice I made to factor them out of `eval`. I had to introduce special mechanisms for them to tail return.
+
+I have also been generally trying to come up with in-language ways to do common things, ways that exploit the evaluator machinery. For example, I made vectors (arrays) and tables (dictionaries) callable. `([1 2 3] 0)` returns `1`. Then `([1 2 3] 0 4)` modifies the vector so that it's `[4 2 3]`. Continuations and generators are also directly callable. There are two primitives: control and transfer. Control is just like begin, but it supports continuations. Transfer breaks out of the code to the nearest control block. It returns a callable continuation value encoding the program at the point it broke out. So resuming it is just `(continuation 'some-value)`. `(control (transfer 0) (lambda (value continuation) continuation))` Then you can make that `(transfer 0)` call return something else by calling `(continuation 'something-else)`. It works like a function (same calling convention) and you might be able to implement currying on top of it.
+
+**How many system calls does lone actually use?**
+
+When lone starts, there's just an `execve` system call by the parent process. Then about a dozen mmap system calls for internal memory management. Then it reads the script file from standard input, runs it, then exits. Minimal. As it executes, it might also cause more Linux system calls to fire internally, `mmap`, `munmap`, `mremap` (!). The module system also uses `openat` and `close`. Of Linux's wide repertoire of 300+ system calls, lone uses a small fraction. It provides a system-call primitive at the lisp level, though. So lisp code can do anything. Many of those system calls also require kernel data structures. Support for creating/manipulating those C structures is also pending. For example, `ioctl` is an important system call that will require that structure support work. It's what allows things like getting the terminal's size.
+
+**How far away do you think those things are from right now? Are you thinking of expanding the "roadmap"?**
+
+I don't know to be honest. I'm not very good at organization. Though I got a lot better with AI help. I've been using Claude as a manager of sorts. The work is unbounded, but the language itself is nearing its complete feature set. The most valuable thing Claude's been doing for me is... Code review and project management. I've been programming pretty much solo for over 15 years. Having another set of eyes on my project, critiquing my code, spotting problems, underdeveloped areas, was just world changing for me. I frequently point Claude at the entire lone codebase and tell it to be harsh and point out all issues, identify areas of future development. Discussing ideas with the AI is also really useful, it enabled me to refine my ideas on several instances. I improved the garbage collector and memory allocator a lot because the AI was able to teach me much improved algorithms. I still don't trust it to write code for me. I care too much about lone not to scrutinize every line that makes it into it. Actually writing the code myself is often educational for me too. But I'm definitely guilty of pointing Claude to my Javascript-based static site generator and have it vibecode entire features.
+
+When I ask Claude to review the entire codebase, it spots the problems and also suggests future directions, then it compiles them into documents. "User wants X", "User has rejected approach Y", it's been great for managing a lot of this ephemeral context that exists only in my mind. It's essentially automatically managing a todo list for me. I'll often say something like "We won't do this now, make a note of it for the future" and Claude will store it in the project's memory. For example, one of my planned features is support for GCC/clang compiler APIs. The most basic one is the stack protector functions. I have a note stored with everything known about those APIs.
+
+**What else inspired the language? You use "modern" Lisp syntax which [seems universal](https://p.hagelb.org/new-lisps.html) now.**
+
+Ruby and Scheme inspire me. I remembered how great it felt to write Ruby, and also how clean Scheme was as a language. I wanted to mix both and see what I got. It also helped a lot that lisp was really easy to parse. I hand wrote the parser and suddenly had all those nested lists I could play with, which is what I was really interested in. I didn't truly understand lisp though until I implemented FEXPR support in the evaluator. Something about the function just receiving the lists themselves, made it finally click.
+
+I think `[1 2 3]` for arrays and `{k v}` for dictionaries is very intuitive and nice. Besides Clojure and newLisp, Ruby, Python, Javascript all have that syntax as well. Not adopting that syntax could be a problem! It would add a lot of needless friction for programmers familiar with popular dynamic languages. The Common Lisp literals are also somewhat ugly: `#(1 2 3)` is a list but not quite due to the `#`?
+
+**What's good coding style to you?**
+
+My C style is a modified version of the Linux kernel's style. I tend to follow it closely, but break out my own conventions in some instances. For example, they really like uniform code to make it visually easy to parse. I like aligning and decorating the code a lot more. My Ruby style favored lack of punctuation. `method 'arg'` instead of `method('arg')`. The idea was to make the code read more like English prose. Well designed APIs also had this property: `collection.each.with_index { |item, i| ... }`. It might be too early for me to have an opinion on Lisp style, but I've been developing a strong preference for less syntactic nesting. Simple example: let. In lone, let works like this: `(let (a b c d ...) body...)` rather than the time honored `(let ((a b) (c d) ...) body...)`. My reasons for doing it this way mirrored the function application implementation. `((lambda (x y)) 10 20)` -> `x 10, y 20`. Using a `(x 10)` and `(y 20)` list just felt unnatural, they aren't really pairs, they felt more like an ordered sequence to my brain: `x 10 y 20`.
+
+**What's performance like?**
+
+There is one benchmark lone wins: startup speed. It can start and finish a program faster than Ruby can load Rubygems. Ad-hoc benchmarking has revealed that lone is about 10-100x... slower... than Python. They're in different performance categories though: lone is a list-level interpreter, like SICP's chapter 5.4. Python and Ruby are bytecode interpreters. I'm bravely resisting the bytecode compilation, just because I feel that I'd lose the essence of lisp if I convert the lists into bytecode. Is it really list processing if the evaluator isn't processing lists?
+
+I remember reading one article about how CPU branch predictors are getting so sophisticated even normal naive interpreters are becoming fast, they can apparently predict through the indirect branches now. That gave me some hope! My long term plan for performance was to keep the C interpreter as the ultimate baseline for bootstrapping, then write a JIT compiler inside lone itself. I can just `mmap` in some executable pages and emit instructions. That's when the compilation will begin... Python is routinely shamed for its poor performance so I'm afraid lone will end up getting bullied even more. But the truth is... It should be surprisingly viable for user space work. I ran some ad-hoc benchmarks against bash and absolutely crushed it, which people use all the time! (Though that might be a testing artifact as recursive fibonacci isn't exactly bash's strength and it may be spawning new processes on each iteration or something...) But for scripts, startup speed matters a lot. You can't have a virtual machine that takes half a second to bootstrap and lone really shines here.
+
+I can improve lone's startup further too. For example, the Ruby VM will run quite a lot of code to bootstrap itself. It will do things like initialize hash tables all over the place, things like environments mapping some variables to Ruby objects. For lone, I'm gonna have to add a buildstep to precompute all the hash tables and compile them to C initializers! Then Linux will `mmap` in the executable and it's ready to go, just like that! Great for scripts! Zig's comptime would make this really easy, but I didn't really know zig when I started lone.
+
+Lone has a few "intrinsic" modules; the top-level environment contains exactly two symbols: import and export. From there, all modules bootstrap their environments. Even things like `if` and `quote` have to be imported because I wanted users to have full control over every single name in their environments. You have to import _everything_ besides lists, literals and the function call mechanism. It's all very spartan at the moment; I've just implemented the stuff I needed for the implementation itself e.g. `flatten`. In total, there are perhaps 50 functions right now, primarily in the lone module which contains the language features: `if`, `let`, `begin`, `control/transfer`, `intercept/signal`...
+
+**How does `mmap` work exactly?**
+
+`mmap` is essentially a function that asks the kernel to give you "pages" of memory. It's a lot like `malloc`, but lower level. Each page is (most commonly) 4096 bytes of memory, you can ask for multiples of that. And you can ask for specific protections in those pages. Readable pages, writable pages, and executable pages (which is what JIT compilers use). Memory allocators build higher level interfaces on top of it because asking for 4 KiB when you need 16 bytes wastes a lot of memory. So the allocators ask for like 128 MB and then cut it up into chunks to serve the program's needs.
+
+**In the tests, you have various examples, but there's no language documentation yet (just implementation stuff). How will you approach that when the time comes?**
+
+It's very incomplete, but the truth is I'm running out of things to add to the language; I'll have to work on the standard library soon. I'll look at Ruby and Scheme for inspiration. Ruby's standard library is unmatched in my opinion, while I also enjoy Scheme's naming scheme. The iteration protocol is the next on the list. It's gonna be something like `(for (each collection) (lambda (item) ...))`. I have some `each` functions already, tried to copy Ruby there. They're due for a redesign though. They should all return generators. Then string manipulation functions. Even a basic string builder that allows efficient string concatenation would go a long way to make lone useful. I bet if I add this, and complete lone's iteration story, I could write a hiccup style web framework in lone.
+
+I'm in danger of being plagued by ADHD when I reach that stage though. Right now I'm working on all this fun low level stuff. Once that's done and it's "oh now I just gotta make the standard library" I might have trouble managing it... I'll get Claude to whip me into shape when the time comes.
+
+**I consider APL and Lisp to be simpler and try to evangelize, to empower and show how accessible things are... I rarely succeed. I try to awe people with "oh that's just X Y Z", as though it was really simple, but I get the opposite effect, it intimidates instead.**
+
+I just enjoy having these insights, right? Like continuations. Oh, it's just copying stack frames around. It was magical before, now it's a normal thing. I have the feeling people don't enjoy such insights, because ultimately they don't care. Deep down, one of lone's missions is to inspire people to have their own systems and explore. The people writing the manuals told me I couldn't. You can't use this syscall stuff, it's not for mortals like you. I want to use the forbidden stuff, I want to be the guy making the libraries, not just consuming them. I want lone to inspire others to do the same. One reason why I think people don't do it is the responsibility. To have your own system, you gotta own it. If it breaks, you gotta fix it. People think they already have too many responsibilities in life and computers would just add one more. I would like more people to choose that responsibility and enjoy all the rewards it brings.
+
+Writing lone gives me full control, even over the names I'm surrounded with. It feels like computing is so full of legacy. All of this entrenched code, it's wrong, it's ugly, but nobody touches it because it'd break everything if you deleted it. I'd like to see people get emboldened and start deleting the bad stuff. Maybe it won't be me who'll remake linux userspace, maybe it'll be the Rust or Zig folks. I got rid of libc, they warned me it'd break stuff, it'd break DNS, it'd break everything. I could have been intimidated but I pressed on. I just want to show the world, look, there's nothing to be afraid of. You can peel away all these layers. It's safe. And a fun journey too! Even if lone doesn't amount to anything, if I at least inspire that, I'll be happy.
+
+**I love this message of taking radical ownership of the whole stack, because you can. It's the same inspirational fire of [Decker](https://alexalejandre.com/programming/interview-with-john-earnest/) or [Fennel](https://alexalejandre.com/programming/interview-with-technomancy/) and its games.**
+
+Yeah. I really like the free software's values of user empowerment. Computers are world changing technology, we should own them, we can't let corporations or governments have control. I get pretty sad when I see people not caring about ownership, letting companies "manage" their computers for them. Thus the general purpose computers become appliances, something lesser. A lot of people hate projects like systemd but in a way, they're doing the exact same "reimagining" of Linux user space that I want to inspire. Maybe more heavy handed than I'd like, but I can't argue with how good systemd is. They reinvented it, and it was great. I want to see what else people are going to come up with, once they break away from the traditional *nix system. It's important to pick one's battles too. If I tried to make lone a bare metal lisp, I'm not sure if it would ever have booted. I'll let someone much smarter than me do that one. jart's sector lisp is a good example... Lisp in under 512 bytes of bootsector code.
+
+I use Termux on a daily basis to automate a lot of things. Would you believe it if I told you lone was born inside Termux? I wrote a lot of it on my phone. Although Android blocks quite a few syscalls (statx was the one that bit me), lone runs on Android and the test suite passes 100%!
+
+**You decided against a software career, what do you do?**
+
+I'm a doctor. I graduated medical school in 2019. It started with AI. In highschool, I started liking biology because I was reading about programming neural networks. Some days I work 10 to 14 hours straight, practicing medicine. Other days I don't work at all. Today is one such day. Schedule is clear, no appointments today. Medicine affords a bit of freedom to make one's own hours. Many career paths to choose from. Surgeons practically live in the hospitals. I wanted a more lighthearted lifestyle because I need time to unwind. I work at a popular clinic with electronic records. It's really efficient, especially for a techie like me. Even when the system is slow or doesn't have features, I make up for it with my own skills. Even some small templates saved to the computer speed things up by 100x. Thus I can have quick consults and maintain a good relationship with patients. Even the ability to touch type helps! I can type in everything while looking people in the eye! My peers can't! The rails project I mentioned earlier is exactly this. I'm making my own electronic patient records system to scratch my own itch. Even if it fails, I'll be well served.
+
+**There are precious few non-professional programmers. You of course started early, but why do you think more professionals don't scratch their own itches?**
+
+I think many don't actually like computers. To change this, we'd have to interest them in computing, how awesome computers can be. It does take effort to learn but most people's mindset seems to be focused on results. I already saw that attitude in highschool among people who chose to attend the programming classes. Curiosity is necessary to care about things beyond just the results, to dig into how the sausage is made. I'm not sure how to inspire that in people. If you find out how to do it, I'd like to know.
+
+🏷️ Tags: `interview`, `person`
+
+---
+
+#### 4. [How can I make my page scroll past three elements?](https://stackoverflow.com/questions/79981368/how-can-i-make-my-page-scroll-past-three-elements)
+📅 Thu, 16 Jul 2026 16:46:11 GMT
+👤 By: Ben Roriz-Dasilva | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `css`, `horizontal-scrolling`
+
+---
+
+#### 5. [Why is toggle() not working on the images I want to hide/show?](https://stackoverflow.com/questions/79981191/why-is-toggle-not-working-on-the-images-i-want-to-hide-show)
+📅 Thu, 16 Jul 2026 06:30:45 GMT
+👤 By: Eden Leadbeatter | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -3
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+#### 6. [How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript](https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/)
+📅 Fri, 17 Jul 2026 20:34:10 GMT
+👤 By: jabo Landry | 📌 Source: freeCodeCamp
+
+Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or
+
+🏷️ Tags: `anchor css`, `popup`, `modal`, `html modal`, `Accessibility`
+
+---
+
+#### 7. [How to Build a Browser-Based PDF Redaction Tool Using JavaScript](https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/)
+📅 Fri, 17 Jul 2026 20:33:11 GMT
+👤 By: Bhavin Sheth | 📌 Source: freeCodeCamp
+
+PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th
+
+🏷️ Tags: `JavaScript`, `Web Development`, `pdf`, `Online PDF Tools`, `pdf tutorial`
+
+---
+
+### 🏷️ Mobile (5 articles)
+
+#### 1. [ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust](https://github.com/ZethRise/Aethery)
+📅 Wed, 15 Jul 2026 16:30:13 GMT
+👤 By: ZethRise | 📌 Source: GitHub
+
+![ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust](https://avatars.githubusercontent.com/u/284843906?v=4)
+
+One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 140
+
+---
+
+#### 2. [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
+📅 Fri, 17 Jul 2026 21:07:10 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+@matheusmoreira  ([blog](https://www.matheusmoreira.com/)) built [lone lisp](https://github.com/lone-lang/lone) directly on Linux system calls. In this interview, he shares his knowledge of C and the Linux Kernel.
+
+---
+
+**How did you get into computing originally? What was your path before discovering Lisp etc.?**
+
+I've always liked computers, but what truly got me into programming was video games. When I was a kid, I used to play games from a series called Mega Man Battle Network, and I ended up getting inspired by those games. They're ultimately responsible for my learning English; I used to join forums as a non-English speaker and try to socialize. It was rough at the start but I improved! The same goes for my first language, C++.
+
+**How young were you when you started with C++?**
+
+In Brazil there are "technical schools" which is what I attended. They're normal highschool curriculum, with extra professional classes. I'm not sure if these are common abroad, if there is a term for it. There were other courses, also: chemistry, mechatronics... As for quality, it was basic, yet pretty good for a highschool level. It did make me start learning all by myself though; within 6 months, I'd already learned the entire curriculum. Eventually they hired me as a teacher's assistant to help fellow students.
+
+So when I started highschool, around 13-14, I took the informatics course and started learning C++ with a very old IDE called [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/), which still exists on source forge! I also browsed the tutorials on [cplusplus.com](https://cplusplus.com). I tried making games but wasn't very successful at it! It was pretty hard, especially because I had yet to learn all the physics I was supposed to be simulating :) What I did end up doing was learning a lot more languages. After some basic C++ proficiency, I learned quite a bit of Java, then Ruby, then Python... That eventually led me to Lisp and Scheme! I remember thinking scheme was extremely elegant when I first saw it.
+Ruby was my favorite language though. I wrote a few gems back then. I think one actually got a small following: [Acclaim](https://rubydoc.info/gems/acclaim/0.4.0), a git-like command based argument parser.
+
+**Cool! Did you happily jump into new languages or did you first try to stay with C++?**
+
+I think I started learning more languages after I exhausted the [cplusplus.com](https://cplusplus.com) tutorials. I felt if there was nothing else for me to learn on that site, then I should probably move on, right? Sun used to have a really big Java Tutorials website back then. I think I read that entire site. That was when I learned object-oriented programming. I wrote some java code as a teenager... Some "utilities libraries". In hindsight, it was just a badly implemented version of 1% of what Apache commons has! I think I even published it, might still be out there somewhere... I also remember experimenting a lot with Java Swing applications. I used to really like the Nimbus look and feel and made a circle/arc drawing application for my math professor once.
+
+**What motivated all of these delvings? What inspired you to keep checking out different languages and so on? Have you stuck with Ruby too?**
+
+School projects were a big motivator in my early school years, but at some point it was about curiosity, and a desire for The Right Thing. I wanted a language to call home. I stuck with Ruby the longest. It's a really nice language. I always have it installed, and have recently started a Rails project! But it has its imperfections too. The other language that I stuck with was C. Its low level simplicity was really captivating to me.
+
+I didn't forget C++, but I also didn't update my knowledge. Current C++ is essentially a completely new language, so I no longer claim I know C++. In a sense, I replaced it with C. C was always captivating for some reason, despite all the problems and legacy, but it really started getting entrenched in my mind when I started exploring the CRuby VM source code as a teenager. I had this really fun past time where I'd watch for interesting stackoverflow questions where someone would ask "why does Ruby act like X?" and I'd dig into the source code to figure it out.
+
+A few years ago I tried to transition to Rust, but it didn't quite stick. I'm also a huge fan of Zig and its creator. Have been since I watched "the road to Zig 1.0" keynote where he laid down reasons why people "rewrite things in C": speed, ABI...
+
+**What pros and cons kept you with C and Ruby?**
+
+Ruby was an extremely expressive language which "just fit" with my mental model. I could often guess a method name and it would work. It has nice things like singular/plural forms of method names, synonyms. Our brains work with these words, and Ruby supports them all.
+
+**[Matklad](https://alexalejandre.com/interviews/interview-with-matklad/) mentioned good APIs should be guessable and if he guesses stuff which don't exist, he'll often file a bug report saying the API demands it!**
+
+Ruby also enables composing eerily shell-like processing pipelines... items.each.with_index.map... It just keeps composing and you can do a LOT of work with very few characters.
+
+For C, the main advantage is the simplicity of the output. You write a function, it compiles to an ELF symbol and associated assembly code. They say you can see the compiler output when you write C, and it's true. With C++ the compiler adds a lot of machinery, it's very difficult to understand how it all fits together. With dynamic languages, it's just the same, but I found it easier to explore the source code of virtual machines than that of compilers.
+
+**So your C++ style changed, removing sugar until you were writing C?**
+
+Yes. My style also changed as I read more and more code written by other developers. I've explored CRuby code, CPython code, JVM code, a bit of guile code, even a bit of V8 code... I started to really admire expert C programmers when I started reading Linux kernel source code though. It's really good, probably the gold standard.
+
+**From the beginning, you read a lot? It's quite rare particularly today for people to really read others' code. How do you approach this? Any tricks or techniques?**
+
+I read a lot. I've always been the sort of curious person who wanted to know how the thing worked. I wasn't satisfied with just using some library, I wanted to know what it was doing under the hood. I wanted to know how the drivers talked to the hardware. I wanted to know all the hidden fun stuff. That's just the sort of thing that's interesting to me. The real applications I tried to make, I'd end up digressing into these unrelated explorations. Other programmers would tell me "why waste time on that? it's already solved" but I wanted to know how it was done, and eventually I also started to develop a sort of hubris that led me to want to reinvent the wheel, but better.
+
+I did get the message though. I felt like I was a bad fit for a career in software development because of this quirk, so I didn't pursue one in the end. Kept it as my hobby to this day.
+
+**When you first looked at driver code, how'd you make heads and tails of it all?**
+
+I couldn't make heads or tails of it all... at first. It was frustrating, but I kept persisting and eventually I was able to understand _some_ things, at least. I'm no hardware engineer, that's for sure... But I managed to reverse engineer some of my laptop's features. Still one of my proudest projects. My laptop is one of those Clevo barebones models. It has a pretty nice keyboard with RGB LEDs, most individually addressable. There was a REALLY bad windows app to control those LEDs. I swear it took over a minute to show a window on the screen, it was really aggravating. I used wireshark to intercept the USB packets it was sending to the keyboard and write a linux user space driver for it. I captured the packets, stared at the screen until I figured out their structure, and wrote a little C program to configure the keyboard for me. Threw it out on github and forgot about it... One day I went back there and somehow people were using the thing, one person even made a GUI for it. It was a pretty good feeling. I learned more about drivers and computer technology from trying to reverse engineer the rest of the laptop's features. ACPI power management stuff. I didn't quite figure everything out though, to this day.
+
+**You have an [article about linux system calls](https://www.matheusmoreira.com/articles/linux-system-calls), was that the moment you took the lone direction?**
+
+The code for system calls is pretty minimal, they work like normal function calls. I'd say the interesting part is that it allows you to bypass `libc` and target [linux directly](https://news.ycombinator.com/item?id=29106179). Linux is famous for user space ABI stability; userspace components not so much. It allows people to depend on Linux kernel directly, without other things in-between.
+
+I started with this general sense that people didn't want me to use them. I'd read the manuals and they'd say things like "this system call is not supported by glibc". I'd read wikipedia and there'd be an infograph is howing `glibc` wrapping linux, as though it was the CRT of Linux and other `libc`s didn't exist. Then I read an article on the LWN about how it took like two years for the `getrandom` system call to show up on glibc.
+
+
+
+**CRT?**
+
+C runtime. The standard C library: glibc, musl, uclibc.
+
+It's that package which breaks the entire world whenever they break compatibility. Because everything depends on it. I remember the article mentioned something like "maybe Linux should have a liblinux.a with just the syscalls, then people can bypass libc when they aren't helping by just passing `-llinux` to the compiler". I thought that was a really cool project idea so I went and created liblinux, which was just that: a collection of linux system call wrappers for freestanding C programming. It turned out that it was really fun to program against the Linux system call interface. So many of C's problems just disappear in freestanding mode.
+
+**What C problems disappear in freestanding mode?**
+
+The most basic one: `errno`. C has this notion of a "current error" which is a global variable. Every function sets it, and you're supposed to check it. Linux just returns you that error like a normal function would. The C libraries take that value, and put it in a global variable. It's just the way things are in C. Not in freestanding C. The legacy of C also disappears too. The C library has a lot of legacy code in it. The locale stuff, for example, is extremely problematic. It's also global state (a recurring theme!) which can cause very subtle errors based on things like environment variables. Liblinux taught me freestanding C, and how clean C could be... If only we could delete all of its legacy. It was painful. I had to write all of my own functions. From basic bytes copying functions, to integer->string conversion functions... The problem turned out to not be as insurmountable as I imagined though, and I persisted. I knew that when in doubt, I could always read code. I could see how the giants before me did it. The `glibc` repository was difficult to interpret but the `musl libc` source code is really clean and easy to dive into. It's been invaluable! It also stimulated a bit of creativity. For example, how could I create an automated test suite with no C library, no memory allocations, just static memory? I managed to do it in lone!
+
+I remember I even asked [Greg Kroah-Hartman](https://en.wikipedia.org/wiki/Greg_Kroah-Hartman) on Reddit about why Linux never had an "official" C library. He replied that Linux once had a [klibc](https://en.wikipedia.org/wiki/Klibc) project! The history of `liblinux` ended though: At some point I discovered Linux kernel folks were doing the very same thing! They had created a [nolibc.h](https://elixir.bootlin.com/linux/v6.2-rc4/source/tools/include/nolibc/nolibc.h) file that they were using internally in their own tools. I thought it was better than what I had come up with, and easier to use too. So I archived the project, and started something else: [Lone Lisp](https://github.com/lone-lang/lone). A whole programming language written in that paradigm. Deep down, I just wanted to prove to myself that I wasn't insane to think it was possible. If I could make a freestanding lisp that ran directly on linux, it would prove that any program could be written that way.
+
+> Modern Linux user space is monstrous and labyrinthine. Linux itself is not. I found it to be a really clean system. The basis of everything is actually the Linux system call binary interface. We can actually trash the entire user space and start from scratch with nothing but Linux. We can even trash the ubiquitous GNU stuff if we want.
+>
+> Why can't we have a compiler with built in system call support? Just add a system_call keyword that inlines Linux system call code using the supplied parameters. No need for libc bullshit in the middle. No need for C or any specific language. Someone could make a language today and that single feature would make it as capable as C is for systems programming. They could write software and boot Linux directly into it. [- Matheus 2021](https://news.ycombinator.com/item?id=28283632)
+
+To summarize, freestanding C removes some interesting C warts: all global state: `errno`, `rand`/`srand` state, locale state, `strtok` (not `reentrant`!), implicit file buffering which can occasionally bite people; badly designed APIs like gets (indefensible), `atexit`, `signal`, even `malloc`; lone's allocator is much nicer. `math.h` can get very messy with NaN, and it gets worse when `errno` is involved. Some things just never leave though. C's arcane integer promotion rules remain. Also the lack of overflow checking, but I use compiler builtins for those. I also worry a lot that I might be introducing my own warts... Hubris will no doubt bite me one day.
+
+**Do you know why the `nolibc.h` approach isn't more popular?**
+
+As of now, nolibc.h has become a sprawling directory in the kernel tree, it has become an ad-hoc libc of sorts. It seems they treat it as an internal project though, something meant to compile the internal tools linux uses. I think very few people outside linux kernel development know it exists. People could totally use it to build their own projects, but I'm not sure what sort of stability guarantees Linux offers in that regard.
+
+Relatedly, I've sent Cosmopolitan patches e.g. to help implement floating point parsing. I'm a fan of the project and the author. Even the people calling it a "dumb" hack are admitting that it's a genius hack as far as I'm concerned. It's just an amazing project that just coalesced an incredible amount of very wizardly knowledge into a single form which is the APE format. Something that manages to parse as a valid executable on various platforms with different executable formats is a very curious thing indeed. And it even does neat things on top of that, supports embedded archives in executables.
+
+**It's important to at least be thinking about hubris and how to avoid warts, hopefully. Many never introspect... Floating point's the only unchecked lone feature, what happens after? Do you want to build particular things in it.**
+
+As Steve Yegge said, just creating an interpreter creates a baby, a lifetime of work. Floating point is gonna be a hard one, but the work forward is literally unbounded.
+
+Just this weekend I implemented the error handling system. It's a Common Lisp style restartable condition system. Before that, every error path was a hard exit(255) from the interpreter. My next task is to replace all of those call sites with exceptions that can be handled within lisp. I also pushed proper tail call optimization support just now... Floating point is going to be a hard feature, if the patch I sent to Cosmopolitan is any indication. It's something I'll have to implement though. I also want to eventually start implementing ideas from the Erlang/BEAM system. I structured it so that there could one day be many interpreters running lisp code in parallel. Those are all language level features.
+
+What to build with the language itself? The very first project I want to make with lone... Is a replacement for my static site generator. I write my website in a fork of pugjs which I've been maintaining myself. It's my long term goal to write my own system in lone lisp to replace it. After that, I want to write my own shell. My own utilities. Start remaking the traditional Linux user space in my image.
+
+Those were the ideas that float around in my mind while I develop lone. One of my articles even mentions an implementation of `env` which just dumps the environment as a lone lisp table. Lone didn't have any iteration facilities at the time, so that was the best I could do. Now lone has generators! I can do a lot more... It's such a good feeling when I implement something and it just unlocks a lot of other stuff. The embedded segment feature is something I designed precisely for that "linux utility" use case. The lone interpreter has a feature where it reads a special ELF segment and just runs the code there, as though it was compiled in. So I can make lone programs by copying the interpreter, adding some lisp code to the copy, and it becomes a self-contained program. It's now got generators, delimited continuations, and I just introduced error handling.
+
+**How similar is the new error system to Common Lisp's??**
+
+The error system is similar in many ways but without the Common Lisp API where the signaling code gives options on how to restart, options like use-value. My system builds directly on top of the delimited continuation work. Until implementing them, continuations were just one of those mystical scheme features but I discovered that everybody was already using a version of it. Exceptions mechanisms are essentially a form of continuations, they just don't get captured into a value. And the magic is capturing the continuation. Alexis King's presentation on delimited continuations demystified that for me, it demonstrated that in the end it was just `memcpy`ing stacks. Making a copy of the stack, then "replaying" that stack somewhere else, like a VCR. Resumable exceptions. The error signaling system turned out to be just this, with a handler mechanism on top. I had to implement the "catch ErrorType -> code for ErrorType" part. I chose a simple system just mapping, say, a symbol like `'not-found`, to a lambda. So it tests the lambda's arity and if it takes one argument: `(lambda (error) ...)` it works just like every other language out there. But if it takes two: `(lambda (error continuation) ...)` then it provides a way to resume the code via continuations.
+
+Lone's error system makes the throw return a value to the calling code. Each exception handler can optionally receive a delimited continuation. If they do, they can call it to resume the erroneous code by returning a value.
+
+**Did you reject any specific systems or approaches?**
+
+I tend to reject the often heavyweight ways that other languages solve these things. For example, I explicitly rejected the Common Lisp style "restart API" which lets code enumerate a number of ways to restart. I wanted everything done in terms of simple language mechanisms in the evaluator itself, so restarts simply act as though signal/throw/transfer returned a value. I also rejected "special cases" in the evaluator whereas traditional Lisp implementations have `eval` explicitly support special forms such as `if`. In lone the evaluator doesn't have those special cases. It has support for FEXPRs, which are essentially evaluator plugins. That made certain things a lot more complicated than they had to be, just for the sake of that elegance (as perceived by me, at least). For example, tail call optimization worked for pure lisp functions, but not quite for the primitives. TCO for primitives has been fixed since then but it was buggy for a while, ultimately because of the design choice I made to factor them out of `eval`. I had to introduce special mechanisms for them to tail return.
+
+I have also been generally trying to come up with in-language ways to do common things, ways that exploit the evaluator machinery. For example, I made vectors (arrays) and tables (dictionaries) callable. `([1 2 3] 0)` returns `1`. Then `([1 2 3] 0 4)` modifies the vector so that it's `[4 2 3]`. Continuations and generators are also directly callable. There are two primitives: control and transfer. Control is just like begin, but it supports continuations. Transfer breaks out of the code to the nearest control block. It returns a callable continuation value encoding the program at the point it broke out. So resuming it is just `(continuation 'some-value)`. `(control (transfer 0) (lambda (value continuation) continuation))` Then you can make that `(transfer 0)` call return something else by calling `(continuation 'something-else)`. It works like a function (same calling convention) and you might be able to implement currying on top of it.
+
+**How many system calls does lone actually use?**
+
+When lone starts, there's just an `execve` system call by the parent process. Then about a dozen mmap system calls for internal memory management. Then it reads the script file from standard input, runs it, then exits. Minimal. As it executes, it might also cause more Linux system calls to fire internally, `mmap`, `munmap`, `mremap` (!). The module system also uses `openat` and `close`. Of Linux's wide repertoire of 300+ system calls, lone uses a small fraction. It provides a system-call primitive at the lisp level, though. So lisp code can do anything. Many of those system calls also require kernel data structures. Support for creating/manipulating those C structures is also pending. For example, `ioctl` is an important system call that will require that structure support work. It's what allows things like getting the terminal's size.
+
+**How far away do you think those things are from right now? Are you thinking of expanding the "roadmap"?**
+
+I don't know to be honest. I'm not very good at organization. Though I got a lot better with AI help. I've been using Claude as a manager of sorts. The work is unbounded, but the language itself is nearing its complete feature set. The most valuable thing Claude's been doing for me is... Code review and project management. I've been programming pretty much solo for over 15 years. Having another set of eyes on my project, critiquing my code, spotting problems, underdeveloped areas, was just world changing for me. I frequently point Claude at the entire lone codebase and tell it to be harsh and point out all issues, identify areas of future development. Discussing ideas with the AI is also really useful, it enabled me to refine my ideas on several instances. I improved the garbage collector and memory allocator a lot because the AI was able to teach me much improved algorithms. I still don't trust it to write code for me. I care too much about lone not to scrutinize every line that makes it into it. Actually writing the code myself is often educational for me too. But I'm definitely guilty of pointing Claude to my Javascript-based static site generator and have it vibecode entire features.
+
+When I ask Claude to review the entire codebase, it spots the problems and also suggests future directions, then it compiles them into documents. "User wants X", "User has rejected approach Y", it's been great for managing a lot of this ephemeral context that exists only in my mind. It's essentially automatically managing a todo list for me. I'll often say something like "We won't do this now, make a note of it for the future" and Claude will store it in the project's memory. For example, one of my planned features is support for GCC/clang compiler APIs. The most basic one is the stack protector functions. I have a note stored with everything known about those APIs.
+
+**What else inspired the language? You use "modern" Lisp syntax which [seems universal](https://p.hagelb.org/new-lisps.html) now.**
+
+Ruby and Scheme inspire me. I remembered how great it felt to write Ruby, and also how clean Scheme was as a language. I wanted to mix both and see what I got. It also helped a lot that lisp was really easy to parse. I hand wrote the parser and suddenly had all those nested lists I could play with, which is what I was really interested in. I didn't truly understand lisp though until I implemented FEXPR support in the evaluator. Something about the function just receiving the lists themselves, made it finally click.
+
+I think `[1 2 3]` for arrays and `{k v}` for dictionaries is very intuitive and nice. Besides Clojure and newLisp, Ruby, Python, Javascript all have that syntax as well. Not adopting that syntax could be a problem! It would add a lot of needless friction for programmers familiar with popular dynamic languages. The Common Lisp literals are also somewhat ugly: `#(1 2 3)` is a list but not quite due to the `#`?
+
+**What's good coding style to you?**
+
+My C style is a modified version of the Linux kernel's style. I tend to follow it closely, but break out my own conventions in some instances. For example, they really like uniform code to make it visually easy to parse. I like aligning and decorating the code a lot more. My Ruby style favored lack of punctuation. `method 'arg'` instead of `method('arg')`. The idea was to make the code read more like English prose. Well designed APIs also had this property: `collection.each.with_index { |item, i| ... }`. It might be too early for me to have an opinion on Lisp style, but I've been developing a strong preference for less syntactic nesting. Simple example: let. In lone, let works like this: `(let (a b c d ...) body...)` rather than the time honored `(let ((a b) (c d) ...) body...)`. My reasons for doing it this way mirrored the function application implementation. `((lambda (x y)) 10 20)` -> `x 10, y 20`. Using a `(x 10)` and `(y 20)` list just felt unnatural, they aren't really pairs, they felt more like an ordered sequence to my brain: `x 10 y 20`.
+
+**What's performance like?**
+
+There is one benchmark lone wins: startup speed. It can start and finish a program faster than Ruby can load Rubygems. Ad-hoc benchmarking has revealed that lone is about 10-100x... slower... than Python. They're in different performance categories though: lone is a list-level interpreter, like SICP's chapter 5.4. Python and Ruby are bytecode interpreters. I'm bravely resisting the bytecode compilation, just because I feel that I'd lose the essence of lisp if I convert the lists into bytecode. Is it really list processing if the evaluator isn't processing lists?
+
+I remember reading one article about how CPU branch predictors are getting so sophisticated even normal naive interpreters are becoming fast, they can apparently predict through the indirect branches now. That gave me some hope! My long term plan for performance was to keep the C interpreter as the ultimate baseline for bootstrapping, then write a JIT compiler inside lone itself. I can just `mmap` in some executable pages and emit instructions. That's when the compilation will begin... Python is routinely shamed for its poor performance so I'm afraid lone will end up getting bullied even more. But the truth is... It should be surprisingly viable for user space work. I ran some ad-hoc benchmarks against bash and absolutely crushed it, which people use all the time! (Though that might be a testing artifact as recursive fibonacci isn't exactly bash's strength and it may be spawning new processes on each iteration or something...) But for scripts, startup speed matters a lot. You can't have a virtual machine that takes half a second to bootstrap and lone really shines here.
+
+I can improve lone's startup further too. For example, the Ruby VM will run quite a lot of code to bootstrap itself. It will do things like initialize hash tables all over the place, things like environments mapping some variables to Ruby objects. For lone, I'm gonna have to add a buildstep to precompute all the hash tables and compile them to C initializers! Then Linux will `mmap` in the executable and it's ready to go, just like that! Great for scripts! Zig's comptime would make this really easy, but I didn't really know zig when I started lone.
+
+Lone has a few "intrinsic" modules; the top-level environment contains exactly two symbols: import and export. From there, all modules bootstrap their environments. Even things like `if` and `quote` have to be imported because I wanted users to have full control over every single name in their environments. You have to import _everything_ besides lists, literals and the function call mechanism. It's all very spartan at the moment; I've just implemented the stuff I needed for the implementation itself e.g. `flatten`. In total, there are perhaps 50 functions right now, primarily in the lone module which contains the language features: `if`, `let`, `begin`, `control/transfer`, `intercept/signal`...
+
+**How does `mmap` work exactly?**
+
+`mmap` is essentially a function that asks the kernel to give you "pages" of memory. It's a lot like `malloc`, but lower level. Each page is (most commonly) 4096 bytes of memory, you can ask for multiples of that. And you can ask for specific protections in those pages. Readable pages, writable pages, and executable pages (which is what JIT compilers use). Memory allocators build higher level interfaces on top of it because asking for 4 KiB when you need 16 bytes wastes a lot of memory. So the allocators ask for like 128 MB and then cut it up into chunks to serve the program's needs.
+
+**In the tests, you have various examples, but there's no language documentation yet (just implementation stuff). How will you approach that when the time comes?**
+
+It's very incomplete, but the truth is I'm running out of things to add to the language; I'll have to work on the standard library soon. I'll look at Ruby and Scheme for inspiration. Ruby's standard library is unmatched in my opinion, while I also enjoy Scheme's naming scheme. The iteration protocol is the next on the list. It's gonna be something like `(for (each collection) (lambda (item) ...))`. I have some `each` functions already, tried to copy Ruby there. They're due for a redesign though. They should all return generators. Then string manipulation functions. Even a basic string builder that allows efficient string concatenation would go a long way to make lone useful. I bet if I add this, and complete lone's iteration story, I could write a hiccup style web framework in lone.
+
+I'm in danger of being plagued by ADHD when I reach that stage though. Right now I'm working on all this fun low level stuff. Once that's done and it's "oh now I just gotta make the standard library" I might have trouble managing it... I'll get Claude to whip me into shape when the time comes.
+
+**I consider APL and Lisp to be simpler and try to evangelize, to empower and show how accessible things are... I rarely succeed. I try to awe people with "oh that's just X Y Z", as though it was really simple, but I get the opposite effect, it intimidates instead.**
+
+I just enjoy having these insights, right? Like continuations. Oh, it's just copying stack frames around. It was magical before, now it's a normal thing. I have the feeling people don't enjoy such insights, because ultimately they don't care. Deep down, one of lone's missions is to inspire people to have their own systems and explore. The people writing the manuals told me I couldn't. You can't use this syscall stuff, it's not for mortals like you. I want to use the forbidden stuff, I want to be the guy making the libraries, not just consuming them. I want lone to inspire others to do the same. One reason why I think people don't do it is the responsibility. To have your own system, you gotta own it. If it breaks, you gotta fix it. People think they already have too many responsibilities in life and computers would just add one more. I would like more people to choose that responsibility and enjoy all the rewards it brings.
+
+Writing lone gives me full control, even over the names I'm surrounded with. It feels like computing is so full of legacy. All of this entrenched code, it's wrong, it's ugly, but nobody touches it because it'd break everything if you deleted it. I'd like to see people get emboldened and start deleting the bad stuff. Maybe it won't be me who'll remake linux userspace, maybe it'll be the Rust or Zig folks. I got rid of libc, they warned me it'd break stuff, it'd break DNS, it'd break everything. I could have been intimidated but I pressed on. I just want to show the world, look, there's nothing to be afraid of. You can peel away all these layers. It's safe. And a fun journey too! Even if lone doesn't amount to anything, if I at least inspire that, I'll be happy.
+
+**I love this message of taking radical ownership of the whole stack, because you can. It's the same inspirational fire of [Decker](https://alexalejandre.com/programming/interview-with-john-earnest/) or [Fennel](https://alexalejandre.com/programming/interview-with-technomancy/) and its games.**
+
+Yeah. I really like the free software's values of user empowerment. Computers are world changing technology, we should own them, we can't let corporations or governments have control. I get pretty sad when I see people not caring about ownership, letting companies "manage" their computers for them. Thus the general purpose computers become appliances, something lesser. A lot of people hate projects like systemd but in a way, they're doing the exact same "reimagining" of Linux user space that I want to inspire. Maybe more heavy handed than I'd like, but I can't argue with how good systemd is. They reinvented it, and it was great. I want to see what else people are going to come up with, once they break away from the traditional *nix system. It's important to pick one's battles too. If I tried to make lone a bare metal lisp, I'm not sure if it would ever have booted. I'll let someone much smarter than me do that one. jart's sector lisp is a good example... Lisp in under 512 bytes of bootsector code.
+
+I use Termux on a daily basis to automate a lot of things. Would you believe it if I told you lone was born inside Termux? I wrote a lot of it on my phone. Although Android blocks quite a few syscalls (statx was the one that bit me), lone runs on Android and the test suite passes 100%!
+
+**You decided against a software career, what do you do?**
+
+I'm a doctor. I graduated medical school in 2019. It started with AI. In highschool, I started liking biology because I was reading about programming neural networks. Some days I work 10 to 14 hours straight, practicing medicine. Other days I don't work at all. Today is one such day. Schedule is clear, no appointments today. Medicine affords a bit of freedom to make one's own hours. Many career paths to choose from. Surgeons practically live in the hospitals. I wanted a more lighthearted lifestyle because I need time to unwind. I work at a popular clinic with electronic records. It's really efficient, especially for a techie like me. Even when the system is slow or doesn't have features, I make up for it with my own skills. Even some small templates saved to the computer speed things up by 100x. Thus I can have quick consults and maintain a good relationship with patients. Even the ability to touch type helps! I can type in everything while looking people in the eye! My peers can't! The rails project I mentioned earlier is exactly this. I'm making my own electronic patient records system to scratch my own itch. Even if it fails, I'll be well served.
+
+**There are precious few non-professional programmers. You of course started early, but why do you think more professionals don't scratch their own itches?**
+
+I think many don't actually like computers. To change this, we'd have to interest them in computing, how awesome computers can be. It does take effort to learn but most people's mindset seems to be focused on results. I already saw that attitude in highschool among people who chose to attend the programming classes. Curiosity is necessary to care about things beyond just the results, to dig into how the sausage is made. I'm not sure how to inspire that in people. If you find out how to do it, I'd like to know.
+
+🏷️ Tags: `interview`, `person`
+
+---
+
+#### 3. [How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC](https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/)
+📅 Fri, 17 Jul 2026 16:51:58 GMT
+👤 By: Jibril-M🍀 | 📌 Source: freeCodeCamp
+
+For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen
+
+🏷️ Tags: `AI`, `Machine Learning`, `nlp`, `React Native`, `Mobile Development`
+
+---
+
+#### 4. [The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart](https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/)
+📅 Thu, 16 Jul 2026 22:20:44 GMT
+👤 By: Oluwaseyi Fatunmole | 📌 Source: freeCodeCamp
+
+Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th
+
+🏷️ Tags: `#Domain-Driven-Design`, `Dart`, `Mobile Development`, `Flutter`, `Observer Pattern`
+
+---
+
+#### 5. [Master Full-Stack Mobile Development with React Native](https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/)
+📅 Thu, 16 Jul 2026 11:32:57 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build
+
+🏷️ Tags: `React Native`, `youtube`
+
+---
+
+### 🏷️ Cloud (20 articles)
+
+#### 1. [Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5)
+📅 Fri, 17 Jul 2026 13:39:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitrl8gh3fyh01vpega3c.png)
+
+I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...
+
+🏷️ Tags: `gemma`, `aws`, `infrastructure`
+
+---
+
+#### 2. [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
+📅 Thu, 16 Jul 2026 19:41:43 GMT
+👤 By: Sean Boult | 📌 Source: Dev.to
+
+![Did You Know TLDs Can Be Websites?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png)
+
+You've probably registered a domain with Route53 or another popular registrar.  You pick something...
+
+🏷️ Tags: `aws`, `infrastructure`, `networking`, `webdev`
+
+---
+
+#### 3. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 4. [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3)
+📅 Wed, 08 Jul 2026 13:26:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `mcps`, `googleantigravity`, `googletpu`, `gemma4`
+
+---
+
+#### 5. [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok)
+📅 Sun, 12 Jul 2026 15:09:09 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png)
+
+Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...
+
+🏷️ Tags: `ai`, `cloud`, `google`, `llm`
+
+---
+
+#### 6. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 7. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 8. [TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia)
+📅 Sat, 11 Jul 2026 21:21:38 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `mcps`, `tpu`, `31b`
+
+---
+
+#### 9. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 10. [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl)
+📅 Wed, 08 Jul 2026 13:02:03 GMT
+👤 By: Jen Looper | 📌 Source: Dev.to
+
+![Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png)
+
+At conference booths, developers often ask whether we support image generation at Cloudinary, given...
+
+🏷️ Tags: `ai`, `nanobanana`, `codenewbie`, `images`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
+📅 Fri, 17 Jul 2026 19:54:44 GMT
+👤 By: tumdum | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `databases`
+
+---
+
+#### 4. [MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose](https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos)
+📅 Thu, 16 Jul 2026 11:56:06 GMT
+👤 By: Harshit | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -3
+
+🏷️ Tags: `javascript`, `database`, `mongodb`
+
+---
+
+### 🏷️ Security (14 articles)
+
+#### 1. [A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe)
+📅 Mon, 13 Jul 2026 19:37:38 GMT
+👤 By: Don Johnson | 📌 Source: Dev.to
+
+![A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png)
+
+My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.
+
+🏷️ Tags: `ai`, `rust`, `cli`, `security`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Senators push to ditch social security numbers in light of Equifax hack](https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/)
+📅 Wed, 08 Nov 2017 22:49:56 GMT
+👤 By: Varcht | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (40 articles)
+
+#### 1. [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
+📅 Wed, 15 Jul 2026 18:56:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png)
+
+Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...
+
+🏷️ Tags: `bugsmash`, `python`, `go`, `debugging`
+
+---
+
+#### 2. [Automated GitHub Code Reviews Using Google Gemini](https://dev.to/gde/automated-github-code-reviews-using-google-gemini-4l0f)
+📅 Thu, 16 Jul 2026 11:16:35 GMT
+👤 By: Darren "Dazbo" Lester | 📌 Source: Dev.to
+
+![Automated GitHub Code Reviews Using Google Gemini](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2APYnfVcPz2Rm6WNA0mPYQPg.jpeg)
+
+I Built a Thing!   TL;DR — Google Gemini-based Pull Request reviews and Issue Triaging for...
+
+🏷️ Tags: `githubactions`, `pullrequest`, `cicdpipeline`, `googlegemini`
+
+---
+
+#### 3. [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng)
+📅 Thu, 09 Jul 2026 14:44:40 GMT
+👤 By: Klaudia Grzondziel | 📌 Source: Dev.to
+
+![Should I quit IT or just live through the burnout?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png)
+
+Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....
+
+🏷️ Tags: `mentalhealth`, `career`, `productivity`, `discuss`
+
+---
+
+#### 4. [A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe)
+📅 Mon, 13 Jul 2026 19:37:38 GMT
+👤 By: Don Johnson | 📌 Source: Dev.to
+
+![A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png)
+
+My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.
+
+🏷️ Tags: `ai`, `rust`, `cli`, `security`
+
+---
+
+#### 5. [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+📅 Wed, 08 Jul 2026 12:25:01 GMT
+👤 By: Web Developer Hyper | 📌 Source: Dev.to
+
+![✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png)
+
+Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+
+🏷️ Tags: `ai`, `webdev`, `discuss`, `productivity`
+
+---
+
+#### 6. [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f)
+📅 Mon, 13 Jul 2026 15:17:02 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![A lot of good points here https://antirez.com/news/169](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png)
+
+antirez.com
+
+🏷️ Tags: `ai`, `llm`, `productivity`, `programming`
+
+---
+
+#### 7. [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc)
+📅 Thu, 25 Jun 2026 15:07:57 GMT
+👤 By: Kate Pond | 📌 Source: Dev.to
+
+![Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png)
+
+How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.
+
+🏷️ Tags: `ai`, `evals`, `testing`, `personas`
+
+---
+
+#### 8. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+

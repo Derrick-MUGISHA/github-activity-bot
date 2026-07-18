@@ -30,21 +30,6 @@
       "user": "Sean Boult"
     },
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Claude might be saturating your machine",
       "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07",
       "published_at": "2026-07-16T17:53:53Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
       "source": "Dev.to",
       "user": "Gemini Team"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 892,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 481,
       "user": "Blueturboguy07"
     },
     {
@@ -675,23 +675,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "HeiGeAi"
-    },
-    {
-      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "published_at": "2026-07-11T09:44:24Z",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
-      "source": "GitHub",
-      "stars": 1873,
-      "user": "MDX-Tom"
     },
     {
       "title": "oil-oil/beautify-github-readme - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
@@ -705,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 754,
       "user": "oil-oil"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "vshulcz"
     },
     {
@@ -750,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 244,
       "user": "nethical6"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 535,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 16341,
+      "stars": 16409,
       "user": "xai-org"
     },
     {
@@ -863,6 +848,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sadhin"
+    },
+    {
+      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
+      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
+      "published_at": "2026-07-15T03:47:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "websocket",
+        "vite",
+        "reverse-proxy",
+        "hmr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elina"
     },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
@@ -1186,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8648,
+      "stars": 8662,
       "user": "Fei-Away"
     },
     {
@@ -1201,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 892,
       "user": "tandpfun"
     },
     {
@@ -1231,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 481,
       "user": "Blueturboguy07"
     },
     {
@@ -1246,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "HeiGeAi"
     },
     {
@@ -1291,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 535,
       "user": "MatinSenPai"
     },
     {
@@ -1306,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 417,
       "user": "pablostanley"
     },
     {
@@ -1357,7 +1358,7 @@
       "title": "React using a custom fetch hook, should you put data into state",
       "url": "https://stackoverflow.com/questions/79981675/react-using-a-custom-fetch-hook-should-you-put-data-into-state",
       "published_at": "2026-07-17T17:34:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1466,17 +1467,20 @@
       "user": "Harshit"
     },
     {
-      "title": "How to implement partial function in JavaScript - three-way sum partial application",
-      "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
-      "published_at": "2026-07-15T12:45:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
+      "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
+      "published_at": "2026-07-15T03:47:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "partial-application"
+        "websocket",
+        "vite",
+        "reverse-proxy",
+        "hmr"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "qxzsilver"
+      "user": "Elina"
     },
     {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
@@ -1843,21 +1847,6 @@
       "user": "arathore"
     },
     {
-      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "published_at": "2026-07-11T09:44:24Z",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
-      "source": "GitHub",
-      "stars": 1873,
-      "user": "MDX-Tom"
-    },
-    {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
       "published_at": "2026-07-13T05:13:00Z",
@@ -1869,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1149,
       "user": "littledivy"
     },
     {
@@ -1884,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 788,
       "user": "Kappaemme-git"
     },
     {
@@ -1899,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 754,
       "user": "oil-oil"
     },
     {
@@ -1916,6 +1905,21 @@
       "source": "GitHub",
       "stars": 478,
       "user": "PengZhang64"
+    },
+    {
+      "title": "QuantumByteOSS/quantumbyte - Open-source app builder engine — intent to working app",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "published_at": "2026-07-14T04:53:39Z",
+      "description": "Open-source app builder engine — intent to working app",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305254032?v=4",
+      "source": "GitHub",
+      "stars": 324,
+      "user": "QuantumByteOSS"
     },
     {
       "title": "Lobsters Interview with matheusmoreira about Lone Lisp",
@@ -2263,21 +2267,6 @@
       "user": "jknupp"
     },
     {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "berkayyytech"
-    },
-    {
       "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
       "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
       "published_at": "2026-07-17T20:31:41.000Z",
@@ -2425,7 +2414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "ZethRise"
     },
     {
@@ -3176,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 8648,
+      "stars": 8662,
       "user": "Fei-Away"
     },
     {
@@ -3191,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 892,
       "user": "tandpfun"
     },
     {
@@ -3221,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 481,
       "user": "Blueturboguy07"
     },
     {
@@ -3236,23 +3225,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "HeiGeAi"
-    },
-    {
-      "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "published_at": "2026-07-11T09:44:24Z",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6468993?v=4",
-      "source": "GitHub",
-      "stars": 1873,
-      "user": "MDX-Tom"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -3266,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1149,
       "user": "littledivy"
     },
     {
@@ -3281,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 788,
       "user": "Kappaemme-git"
     },
     {
@@ -3296,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 754,
       "user": "oil-oil"
     },
     {
@@ -3315,6 +3289,21 @@
       "user": "PengZhang64"
     },
     {
+      "title": "QuantumByteOSS/quantumbyte - Open-source app builder engine — intent to working app",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "published_at": "2026-07-14T04:53:39Z",
+      "description": "Open-source app builder engine — intent to working app",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305254032?v=4",
+      "source": "GitHub",
+      "stars": 324,
+      "user": "QuantumByteOSS"
+    },
+    {
       "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
       "url": "https://github.com/vshulcz/deja-vu",
       "published_at": "2026-07-14T07:45:44Z",
@@ -3326,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "vshulcz"
     },
     {
@@ -3341,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 244,
       "user": "nethical6"
     },
     {
@@ -3360,21 +3349,6 @@
       "user": "shibadogcap"
     },
     {
-      "title": "berkayyytech/vortex - A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "url": "https://github.com/berkayyytech/vortex",
-      "published_at": "2026-07-11T00:35:53Z",
-      "description": "A fast, agentless TUI for managing Linux VPS servers over SSH.  Mission Control dashboard, live Network Operations Center, Docker & process management, all keyboard-first. No agents to install.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106711577?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "berkayyytech"
-    },
-    {
       "title": "ywddd/grok-inspection - CPA plugin for background xAI/Grok account inspection",
       "url": "https://github.com/ywddd/grok-inspection",
       "published_at": "2026-07-12T15:04:42Z",
@@ -3388,6 +3362,21 @@
       "source": "GitHub",
       "stars": 84,
       "user": "ywddd"
+    },
+    {
+      "title": "rengwu/wayfinder-maps - Planetary visualization tool for /wayfinder maps",
+      "url": "https://github.com/rengwu/wayfinder-maps",
+      "published_at": "2026-07-12T04:40:27Z",
+      "description": "Planetary visualization tool for /wayfinder maps",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12826717?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "rengwu"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -3431,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 535,
       "user": "MatinSenPai"
     },
     {
@@ -3446,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 417,
       "user": "pablostanley"
     },
     {
@@ -3476,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 16341,
+      "stars": 16409,
       "user": "xai-org"
     },
     {
@@ -3491,38 +3480,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1142,
       "user": "CluvexStudio"
-    },
-    {
-      "title": "AyagamiDev/ayagami - 2D puppet model renderer compatible with Live2D",
-      "url": "https://github.com/AyagamiDev/ayagami",
-      "published_at": "2026-07-11T13:51:22Z",
-      "description": "2D puppet model renderer compatible with Live2D",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293505772?v=4",
-      "source": "GitHub",
-      "stars": 153,
-      "user": "AyagamiDev"
-    },
-    {
-      "title": "RongleCat/grok-go - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "url": "https://github.com/RongleCat/grok-go",
-      "published_at": "2026-07-11T18:30:24Z",
-      "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "RongleCat"
     },
     {
       "title": "ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
@@ -3536,8 +3495,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "ZethRise"
+    },
+    {
+      "title": "m-novotny/memguard-rs - Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+      "url": "https://github.com/m-novotny/memguard-rs",
+      "published_at": "2026-07-13T21:08:48Z",
+      "description": "Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "m-novotny"
+    },
+    {
+      "title": "articulite/BetterCopy - Better copy utility for modern Windows computers",
+      "url": "https://github.com/articulite/BetterCopy",
+      "published_at": "2026-07-14T00:32:32Z",
+      "description": "Better copy utility for modern Windows computers",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6879392?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "articulite"
     },
     {
       "title": "Lobsters Interview with matheusmoreira about Lone Lisp",
