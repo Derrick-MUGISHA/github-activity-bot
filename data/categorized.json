@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 972,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 239,
       "user": "HeiGeAi"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 505,
       "user": "nethical6"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 573,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17591,
+      "stars": 17684,
       "user": "xai-org"
     },
     {
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9334,
+      "stars": 9379,
       "user": "Fei-Away"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 972,
       "user": "tandpfun"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "KubeezMedia"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "Blueturboguy07"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 239,
       "user": "HeiGeAi"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1184,
       "user": "pixel-point"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 573,
       "user": "MatinSenPai"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 504,
       "user": "pablostanley"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "stackblitz"
     },
     {
@@ -1322,19 +1322,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "Where can i find resources for learning more about vibe coding?",
-      "url": "https://stackoverflow.com/questions/79981772/where-can-i-find-resources-for-learning-more-about-vibe-coding",
-      "published_at": "2026-07-18T05:44:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andre Green"
     },
     {
       "title": "React using a custom fetch hook, should you put data into state",
@@ -1466,6 +1453,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elina"
+    },
+    {
+      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
+      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
+      "published_at": "2026-06-14T22:38:15.000Z",
+      "description": "Stack Overflow question · 8 answers · score 0",
+      "tags": [
+        "javascript",
+        "ecmascript-5",
+        "ecmascript-3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "krabat1"
     },
     {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
@@ -1903,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "Shadow-Weave"
     },
     {
@@ -1923,7 +1924,7 @@
       "title": "Why does numpy do a copy in this array slice?",
       "url": "https://stackoverflow.com/questions/79981758/why-does-numpy-do-a-copy-in-this-array-slice",
       "published_at": "2026-07-18T04:26:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "numpy",
@@ -1933,6 +1934,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anonymous1847"
+    },
+    {
+      "title": "Jwt stale token revoke issue",
+      "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
+      "published_at": "2026-07-17T15:31:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "django",
+        "authentication",
+        "jwt",
+        "microservices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anshul"
     },
     {
       "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
@@ -2040,20 +2057,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shake"
-    },
-    {
-      "title": "Can I mix raw text queries and precomputed vectors when using a Milvus text embedding function",
-      "url": "https://stackoverflow.com/questions/79981415/can-i-mix-raw-text-queries-and-precomputed-vectors-when-using-a-milvus-text-embe",
-      "published_at": "2026-07-16T21:08:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "vector",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chloe Williams"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2386,7 +2389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "ZethRise"
     },
     {
@@ -2935,6 +2938,22 @@
       "user": "2352500"
     },
     {
+      "title": "Jwt stale token revoke issue",
+      "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
+      "published_at": "2026-07-17T15:31:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "django",
+        "authentication",
+        "jwt",
+        "microservices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anshul"
+    },
+    {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
       "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "published_at": "2026-07-17T22:55:09.000Z",
@@ -3120,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9334,
+      "stars": 9379,
       "user": "Fei-Away"
     },
     {
@@ -3135,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 972,
       "user": "tandpfun"
     },
     {
@@ -3150,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "KubeezMedia"
     },
     {
@@ -3165,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "Blueturboguy07"
     },
     {
@@ -3180,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 239,
       "user": "HeiGeAi"
     },
     {
@@ -3255,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "Shadow-Weave"
     },
     {
@@ -3270,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 505,
       "user": "nethical6"
     },
     {
@@ -3345,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1184,
       "user": "pixel-point"
     },
     {
@@ -3360,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3375,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 573,
       "user": "MatinSenPai"
     },
     {
@@ -3390,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 504,
       "user": "pablostanley"
     },
     {
@@ -3405,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "stackblitz"
     },
     {
@@ -3420,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17591,
+      "stars": 17684,
       "user": "xai-org"
     },
     {
@@ -3435,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1202,
       "user": "CluvexStudio"
     },
     {
@@ -3450,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "ZethRise"
     },
     {
@@ -3480,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6879392?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "articulite"
     },
     {
@@ -3507,6 +3526,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Hasnep"
+    },
+    {
+      "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel",
+      "url": "https://nextbsd.org/",
+      "published_at": "2026-07-18T06:04:52.609-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "freebsd",
+        "mac",
+        "osdev"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lproven"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
