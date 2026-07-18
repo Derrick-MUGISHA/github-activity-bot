@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-18 17:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-18 18:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [How I made a Rust hot path 27x faster, and the AI fix I refused to merge](https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg) | Dev.to |
 | 20 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 
-<sub>Last fetched: Sat, 18 Jul 2026 17:19:19 CAT</sub>
+<sub>Last fetched: Sat, 18 Jul 2026 18:18:40 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> try/catch, .catch(), error middleware
 
 </details>
 
-**2. `React` — How would you optimize a React app's performance?**
+**2. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Heap, stack, garbage collection
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -194,12 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.6%
-Go              ████████████████████████████ 23.8%
-Python          ██████████████████████████ 21.9%
-Java            ██████████████████████ 18.8%
-Rust            ████████ 6.9%
-Kotlin          ██ 1.3%
+JavaScript      ██████████████████████████████ 25.5%
+Go              ████████████████████████████ 24.2%
+Python          ██████████████████████████ 21.7%
+Java            ██████████████████████ 18.6%
+Rust            ████████ 6.8%
+Kotlin          █ 1.2%
 Ruby            █ 0.6%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -209,7 +209,7 @@ Swift           █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 41
-    "Go" : 38
+    "Go" : 39
     "Python" : 35
     "Java" : 30
     "Rust" : 11
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 18 Jul 2026 15:19:19 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 18 Jul 2026 16:18:40 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
