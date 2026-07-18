@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 983,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 520,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "HeiGeAi"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 783,
       "user": "oil-oil"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 530,
       "user": "nethical6"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "vshulcz"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 577,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17684,
+      "stars": 17802,
       "user": "xai-org"
     },
     {
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9379,
+      "stars": 9427,
       "user": "Fei-Away"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 983,
       "user": "tandpfun"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 651,
       "user": "KubeezMedia"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 520,
       "user": "Blueturboguy07"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "HeiGeAi"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1184,
+      "stars": 1187,
       "user": "pixel-point"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 577,
       "user": "MatinSenPai"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 514,
       "user": "pablostanley"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 354,
       "user": "stackblitz"
     },
     {
@@ -1425,20 +1425,6 @@
       "user": "Gary"
     },
     {
-      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
-      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
-      "published_at": "2026-07-16T11:56:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "database",
-        "mongodb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harshit"
-    },
-    {
       "title": "Vite HMR WebSocket fails behind a browser-based coding workspace reverse proxy",
       "url": "https://stackoverflow.com/questions/79980840/vite-hmr-websocket-fails-behind-a-browser-based-coding-workspace-reverse-proxy",
       "published_at": "2026-07-15T03:47:27.000Z",
@@ -1467,6 +1453,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "krabat1"
+    },
+    {
+      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
+      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
+      "published_at": "2026-06-12T11:44:28.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "saurav"
     },
     {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
@@ -1844,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1154,
       "user": "littledivy"
     },
     {
@@ -1859,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 803,
       "user": "Kappaemme-git"
     },
     {
@@ -1874,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 783,
       "user": "oil-oil"
     },
     {
@@ -1904,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Shadow-Weave"
     },
     {
@@ -1939,7 +1937,7 @@
       "title": "Jwt stale token revoke issue",
       "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
       "published_at": "2026-07-17T15:31:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "django",
@@ -2344,6 +2342,18 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
+      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
+      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
+      "published_at": "2026-06-12T11:44:28.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "saurav"
+    },
+    {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
       "published_at": "2026-07-17T20:34:10.000Z",
@@ -2389,7 +2399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "ZethRise"
     },
     {
@@ -2777,20 +2787,6 @@
       "user": "tumdum"
     },
     {
-      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
-      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
-      "published_at": "2026-07-16T11:56:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "database",
-        "mongodb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harshit"
-    },
-    {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "published_at": "2026-07-18T04:47:25.000Z",
@@ -2941,7 +2937,7 @@
       "title": "Jwt stale token revoke issue",
       "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
       "published_at": "2026-07-17T15:31:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "django",
@@ -3139,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9379,
+      "stars": 9427,
       "user": "Fei-Away"
     },
     {
@@ -3154,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 983,
       "user": "tandpfun"
     },
     {
@@ -3169,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 651,
       "user": "KubeezMedia"
     },
     {
@@ -3184,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 520,
       "user": "Blueturboguy07"
     },
     {
@@ -3199,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "HeiGeAi"
     },
     {
@@ -3214,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1154,
       "user": "littledivy"
     },
     {
@@ -3229,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 803,
       "user": "Kappaemme-git"
     },
     {
@@ -3244,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 783,
       "user": "oil-oil"
     },
     {
@@ -3274,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Shadow-Weave"
     },
     {
@@ -3289,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 530,
       "user": "nethical6"
     },
     {
@@ -3304,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "vshulcz"
     },
     {
@@ -3364,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1184,
+      "stars": 1187,
       "user": "pixel-point"
     },
     {
@@ -3394,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 577,
       "user": "MatinSenPai"
     },
     {
@@ -3409,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 514,
       "user": "pablostanley"
     },
     {
@@ -3424,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 354,
       "user": "stackblitz"
     },
     {
@@ -3439,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17684,
+      "stars": 17802,
       "user": "xai-org"
     },
     {
@@ -3454,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1208,
       "user": "CluvexStudio"
     },
     {
@@ -3469,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "ZethRise"
     },
     {
@@ -3488,19 +3484,19 @@
       "user": "m-novotny"
     },
     {
-      "title": "articulite/BetterCopy - Better copy utility for modern Windows computers",
-      "url": "https://github.com/articulite/BetterCopy",
-      "published_at": "2026-07-14T00:32:32Z",
-      "description": "Better copy utility for modern Windows computers",
+      "title": "inbjo/MirrorProxy - All-in-one mirror acceleration",
+      "url": "https://github.com/inbjo/MirrorProxy",
+      "published_at": "2026-07-15T05:51:24Z",
+      "description": "All-in-one mirror acceleration",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6879392?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 58,
-      "user": "articulite"
+      "stars": 68,
+      "user": "inbjo"
     },
     {
       "title": "Lobsters Interview with matheusmoreira about Lone Lisp",
@@ -3535,11 +3531,24 @@
       "tags": [
         "freebsd",
         "mac",
-        "osdev"
+        "osdev",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "lproven"
+    },
+    {
+      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
+      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
+      "published_at": "2026-06-12T11:44:28.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "saurav"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
