@@ -45,21 +45,6 @@
       "user": "Gemini Team"
     },
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "What is an \"agentic harness,\" actually?",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "published_at": "2026-07-16T21:19:20Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -178,21 +178,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
       "source": "Dev.to",
       "user": "Zach"
-    },
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
     },
     {
       "title": "The Myth of the Post-Documentation Era",
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 965,
       "user": "tandpfun"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 514,
       "user": "Blueturboguy07"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 237,
       "user": "HeiGeAi"
     },
     {
@@ -705,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "oil-oil"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 477,
       "user": "nethical6"
     },
     {
@@ -750,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "vshulcz"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 571,
       "user": "MatinSenPai"
     },
     {
@@ -795,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17441,
+      "stars": 17591,
       "user": "xai-org"
     },
     {
@@ -1187,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9236,
+      "stars": 9334,
       "user": "Fei-Away"
     },
     {
@@ -1202,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 965,
       "user": "tandpfun"
     },
     {
@@ -1217,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "KubeezMedia"
     },
     {
@@ -1232,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 514,
       "user": "Blueturboguy07"
     },
     {
@@ -1247,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 237,
       "user": "HeiGeAi"
     },
     {
@@ -1262,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1182,
       "user": "pixel-point"
     },
     {
@@ -1292,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 571,
       "user": "MatinSenPai"
     },
     {
@@ -1307,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 499,
       "user": "pablostanley"
     },
     {
@@ -1322,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 344,
       "user": "stackblitz"
     },
     {
@@ -1342,7 +1327,7 @@
       "title": "Where can i find resources for learning more about vibe coding?",
       "url": "https://stackoverflow.com/questions/79981772/where-can-i-find-resources-for-learning-more-about-vibe-coding",
       "published_at": "2026-07-18T05:44:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "javascript"
@@ -1858,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1153,
       "user": "littledivy"
     },
     {
@@ -1873,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 800,
       "user": "Kappaemme-git"
     },
     {
@@ -1888,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "oil-oil"
     },
     {
@@ -1967,7 +1952,7 @@
       "title": "Nested dictionary output",
       "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
       "published_at": "2026-07-17T21:05:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "dictionary"
@@ -1993,7 +1978,7 @@
       "title": "Microsoft Graph TO DO API: checklistItems wrong sort order",
       "url": "https://stackoverflow.com/questions/79981666/microsoft-graph-to-do-api-checklistitems-wrong-sort-order",
       "published_at": "2026-07-17T17:10:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "microsoft-graph-api",
@@ -2401,7 +2386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "ZethRise"
     },
     {
@@ -2818,21 +2803,6 @@
   ],
   "Security": [
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -3013,21 +2983,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "published_at": "2026-07-13T19:37:38Z",
-      "description": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "tags": [
-        "ai",
-        "rust",
-        "cli",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
-      "source": "Dev.to",
-      "user": "Don Johnson"
-    },
-    {
       "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
       "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
       "published_at": "2026-07-15T18:56:09Z",
@@ -3056,6 +3011,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2APYnfVcPz2Rm6WNA0mPYQPg.jpeg",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "published_at": "2026-07-06T15:50:31Z",
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "tags": [
+        "discuss",
+        "career",
+        "productivity",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3150,7 +3120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9236,
+      "stars": 9334,
       "user": "Fei-Away"
     },
     {
@@ -3165,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 965,
       "user": "tandpfun"
     },
     {
@@ -3180,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "KubeezMedia"
     },
     {
@@ -3195,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 514,
       "user": "Blueturboguy07"
     },
     {
@@ -3210,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 237,
       "user": "HeiGeAi"
     },
     {
@@ -3225,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1153,
       "user": "littledivy"
     },
     {
@@ -3240,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 800,
       "user": "Kappaemme-git"
     },
     {
@@ -3255,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "oil-oil"
     },
     {
@@ -3300,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 477,
       "user": "nethical6"
     },
     {
@@ -3315,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 350,
       "user": "vshulcz"
     },
     {
@@ -3375,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1182,
       "user": "pixel-point"
     },
     {
@@ -3405,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 571,
       "user": "MatinSenPai"
     },
     {
@@ -3420,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 499,
       "user": "pablostanley"
     },
     {
@@ -3435,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 344,
       "user": "stackblitz"
     },
     {
@@ -3450,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17441,
+      "stars": 17591,
       "user": "xai-org"
     },
     {
@@ -3465,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1197,
       "user": "CluvexStudio"
     },
     {
@@ -3480,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "ZethRise"
     },
     {
@@ -3510,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6879392?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 56,
       "user": "articulite"
     },
     {
@@ -3525,6 +3495,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "GitRoot",
+      "url": "https://gitroot.dev/",
+      "published_at": "2026-07-18T02:52:15.193-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Hasnep"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
