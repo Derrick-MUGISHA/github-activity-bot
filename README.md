@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-18 5:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-18 7:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
 | 20 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
 
-<sub>Last fetched: Sat, 18 Jul 2026 05:37:15 CAT</sub>
+<sub>Last fetched: Sat, 18 Jul 2026 07:54:54 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement LRU Cache**
+**1. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
-**2. `JavaScript` — What are closures and provide a practical example?**
+**2. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Request/response cycle, next(), chain of functions
 
 </details>
 
-**3. `DataStructures` — Find the longest substring without repeating characters**
+**3. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 41.2% | `████████████████████` |
-| **JavaScript** | 39 | 21.4% | `██████████░░░░░░░░░░` |
-| **Tools** | 39 | 21.4% | `██████████░░░░░░░░░░` |
+| **AI** | 74 | 40.7% | `████████████████████` |
+| **JavaScript** | 39 | 21.4% | `███████████░░░░░░░░░` |
+| **Tools** | 39 | 21.4% | `███████████░░░░░░░░░` |
 | **Python** | 37 | 20.3% | `██████████░░░░░░░░░░` |
-| **Cloud** | 20 | 11.0% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.4% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 18 Jul 2026 03:37:15 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 18 Jul 2026 05:54:54 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
