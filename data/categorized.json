@@ -45,21 +45,6 @@
       "user": "Gemini Team"
     },
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Did You Know TLDs Can Be Websites?",
       "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
       "published_at": "2026-07-16T19:41:43Z",
@@ -73,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
       "source": "Dev.to",
       "user": "Sean Boult"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -163,21 +163,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
-      "published_at": "2026-07-14T16:38:47Z",
-      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "tags": [
-        "rust",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
-      "source": "Dev.to",
-      "user": "Zach"
     },
     {
       "title": "The Myth of the Post-Documentation Era",
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1036,
       "user": "tandpfun"
     },
     {
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 543,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "HeiGeAi"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 808,
       "user": "oil-oil"
     },
     {
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 676,
       "user": "nethical6"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "vshulcz"
     },
     {
@@ -765,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 18584,
+      "stars": 18632,
       "user": "xai-org"
     },
     {
@@ -809,20 +794,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
-    },
-    {
-      "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
-      "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
-      "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "iframe",
-        "postmessage"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sadhin"
     },
     {
       "title": "any opinion on use AI for vibe coding as a newbie",
@@ -1187,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9716,
+      "stars": 9722,
       "user": "Fei-Away"
     },
     {
@@ -1202,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1036,
       "user": "tandpfun"
     },
     {
@@ -1232,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 543,
       "user": "Blueturboguy07"
     },
     {
@@ -1247,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "HeiGeAi"
     },
     {
@@ -1262,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1208,
       "user": "pixel-point"
     },
     {
@@ -1292,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "MatinSenPai"
     },
     {
@@ -1307,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 550,
       "user": "pablostanley"
     },
     {
@@ -1322,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "stackblitz"
     },
     {
@@ -1397,20 +1368,6 @@
       "user": "Ruturaj Rajwade"
     },
     {
-      "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
-      "url": "https://stackoverflow.com/questions/79981330/how-complex-web-builders-like-framer-com-transfer-huge-data-between-visual-canva",
-      "published_at": "2026-07-16T14:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "iframe",
-        "postmessage"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sadhin"
-    },
-    {
       "title": "Getting image from external endpoint in Node and passing to React",
       "url": "https://stackoverflow.com/questions/79970309/getting-image-from-external-endpoint-in-node-and-passing-to-react",
       "published_at": "2026-06-29T12:19:17.000Z",
@@ -1480,6 +1437,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vedant Shah"
+    },
+    {
+      "title": "VS Code stuck on \"Initializing 'tsconfig.json\"",
+      "url": "https://stackoverflow.com/questions/79857680/vs-code-stuck-on-initializing-tsconfig-json",
+      "published_at": "2025-12-30T16:55:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vue.js",
+        "visual-studio-code",
+        "vuejs3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "uli"
     },
     {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
@@ -1827,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1164,
+      "stars": 1167,
       "user": "littledivy"
     },
     {
@@ -1857,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 808,
       "user": "oil-oil"
     },
     {
@@ -1945,6 +1918,19 @@
       "user": "Martin"
     },
     {
+      "title": "Nested dictionary output",
+      "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
+      "published_at": "2026-07-17T21:05:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ariel lema"
+    },
+    {
       "title": "Jwt stale token revoke issue",
       "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
       "published_at": "2026-07-17T15:31:08.000Z",
@@ -1959,19 +1945,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anshul"
-    },
-    {
-      "title": "Nested dictionary output",
-      "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
-      "published_at": "2026-07-17T21:05:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ariel lema"
     },
     {
       "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
@@ -2890,6 +2863,19 @@
       "user": "2352500"
     },
     {
+      "title": "\"Half a Second\" - a book on the XZ backdoor",
+      "url": "https://www.half-second.com/",
+      "published_at": "2026-07-18T14:13:21.045-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rw-rw-rw-"
+    },
+    {
       "title": "Jwt stale token revoke issue",
       "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
       "published_at": "2026-07-17T15:31:08.000Z",
@@ -3106,7 +3092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9716,
+      "stars": 9722,
       "user": "Fei-Away"
     },
     {
@@ -3121,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1036,
       "user": "tandpfun"
     },
     {
@@ -3151,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 543,
       "user": "Blueturboguy07"
     },
     {
@@ -3166,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "HeiGeAi"
     },
     {
@@ -3181,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1164,
+      "stars": 1167,
       "user": "littledivy"
     },
     {
@@ -3211,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 808,
       "user": "oil-oil"
     },
     {
@@ -3256,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 676,
       "user": "nethical6"
     },
     {
@@ -3271,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "vshulcz"
     },
     {
@@ -3305,19 +3291,19 @@
       "user": "ywddd"
     },
     {
-      "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
-      "url": "https://github.com/iluvx/go-tg-api",
-      "published_at": "2026-07-18T05:13:20Z",
-      "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
+      "title": "scion-frontiers/farmtable - GitHub Repository",
+      "url": "https://github.com/scion-frontiers/farmtable",
+      "published_at": "2026-07-15T20:55:36Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175501983?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
       "source": "GitHub",
       "stars": 60,
-      "user": "iluvx"
+      "user": "scion-frontiers"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -3331,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1208,
       "user": "pixel-point"
     },
     {
@@ -3361,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "MatinSenPai"
     },
     {
@@ -3376,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 550,
       "user": "pablostanley"
     },
     {
@@ -3391,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "stackblitz"
     },
     {
@@ -3406,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 18584,
+      "stars": 18632,
       "user": "xai-org"
     },
     {
@@ -3421,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1250,
       "user": "CluvexStudio"
     },
     {
@@ -3466,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "inbjo"
     },
     {
