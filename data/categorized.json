@@ -195,21 +195,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots",
-      "url": "https://dev.to/gde/stop-your-llms-from-forgetting-part-2-how-a-graph-anchor-pyramid-cures-ais-relational-blindspots-4m33",
-      "published_at": "2026-07-15T03:22:14Z",
-      "description": "Have you ever had a brilliant solution get completely crushed by a single comment on a technical blog...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "llm",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6slbtjo06iji52xyb5mi.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
       "published_at": "2026-07-13T13:36:03Z",
@@ -358,6 +343,21 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "Omni Flash Preview with Codex",
       "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
       "published_at": "2026-07-05T02:28:00Z",
@@ -461,21 +461,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 992,
       "user": "tandpfun"
     },
     {
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "HeiGeAi"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 787,
       "user": "oil-oil"
     },
     {
@@ -705,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "PengZhang64"
     },
     {
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 566,
       "user": "nethical6"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "vshulcz"
     },
     {
@@ -765,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17802,
+      "stars": 18003,
       "user": "xai-org"
     },
     {
@@ -1041,6 +1026,36 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
+      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
+      "published_at": "2026-07-15T04:30:47Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "productivity",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
+      "source": "Dev.to",
+      "user": "Tahira Muhammad"
+    },
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1172,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9427,
+      "stars": 9531,
       "user": "Fei-Away"
     },
     {
@@ -1187,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 992,
       "user": "tandpfun"
     },
     {
@@ -1202,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "KubeezMedia"
     },
     {
@@ -1217,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "Blueturboguy07"
     },
     {
@@ -1232,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "HeiGeAi"
     },
     {
@@ -1247,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1191,
       "user": "pixel-point"
     },
     {
@@ -1277,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "MatinSenPai"
     },
     {
@@ -1292,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 526,
       "user": "pablostanley"
     },
     {
@@ -1307,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "stackblitz"
     },
     {
@@ -1322,6 +1337,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "veqq"
+    },
+    {
+      "title": "ie można zsynchronizować lokalnej biblioteki programu SharePoint 2019",
+      "url": "https://stackoverflow.com/questions/79981845/ie-mo%c5%bcna-zsynchronizowa%c4%87-lokalnej-biblioteki-programu-sharepoint-2019",
+      "published_at": "2026-07-18T13:16:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sebastian Tracz"
     },
     {
       "title": "React using a custom fetch hook, should you put data into state",
@@ -1441,30 +1468,19 @@
       "user": "Elina"
     },
     {
-      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
-      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
-      "published_at": "2026-06-14T22:38:15.000Z",
-      "description": "Stack Overflow question · 8 answers · score 0",
+      "title": "Getting image from external endpoint in Node and passing to React",
+      "url": "https://stackoverflow.com/questions/79970309/getting-image-from-external-endpoint-in-node-and-passing-to-react",
+      "published_at": "2026-06-29T12:19:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "ecmascript-5",
-        "ecmascript-3"
+        "node.js",
+        "image",
+        "base64"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "krabat1"
-    },
-    {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
+      "user": "Paddy Hallihan"
     },
     {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
@@ -1681,36 +1697,6 @@
       "user": "Abhishek Gupta"
     },
     {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
-      "published_at": "2026-07-03T02:55:09Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "python",
-        "tpu",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
-      "published_at": "2026-07-09T13:12:41Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "antigravitycli",
-        "python",
-        "mcps",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1842,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1155,
       "user": "littledivy"
     },
     {
@@ -1857,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 805,
       "user": "Kappaemme-git"
     },
     {
@@ -1872,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 787,
       "user": "oil-oil"
     },
     {
@@ -1887,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "PengZhang64"
     },
     {
@@ -1902,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "Shadow-Weave"
     },
     {
@@ -1990,6 +1976,18 @@
       "user": "trashparticle"
     },
     {
+      "title": "Default values not working in a sub-class",
+      "url": "https://stackoverflow.com/questions/79981563/default-values-not-working-in-a-sub-class",
+      "published_at": "2026-07-17T10:35:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Martin"
+    },
+    {
       "title": "Microsoft Graph TO DO API: checklistItems wrong sort order",
       "url": "https://stackoverflow.com/questions/79981666/microsoft-graph-to-do-api-checklistitems-wrong-sort-order",
       "published_at": "2026-07-17T17:10:00.000Z",
@@ -2002,18 +2000,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mafu Josh"
-    },
-    {
-      "title": "Default values not working in a sub-class",
-      "url": "https://stackoverflow.com/questions/79981563/default-values-not-working-in-a-sub-class",
-      "published_at": "2026-07-17T10:35:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Martin"
     },
     {
       "title": "Python Install Manager for offline installation in company environment",
@@ -2103,6 +2089,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+      "published_at": "2026-07-14T17:54:10Z",
+      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "tags": [
+        "devops",
+        "docker",
+        "ai",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
       "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
       "published_at": "2026-06-29T16:12:25Z",
@@ -2116,21 +2117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2342,18 +2328,6 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
-    },
-    {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
       "published_at": "2026-07-17T20:34:10.000Z",
@@ -2399,7 +2373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "ZethRise"
     },
     {
@@ -2685,36 +2659,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
-      "published_at": "2026-07-03T02:55:09Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "python",
-        "tpu",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
-      "published_at": "2026-07-09T13:12:41Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "antigravitycli",
-        "python",
-        "mcps",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Lobsters Interview with matheusmoreira about Lone Lisp",
@@ -3073,6 +3017,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
+      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
+      "published_at": "2026-07-15T04:30:47Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "productivity",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
+      "source": "Dev.to",
+      "user": "Tahira Muhammad"
+    },
+    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -3135,7 +3094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9427,
+      "stars": 9531,
       "user": "Fei-Away"
     },
     {
@@ -3150,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 992,
       "user": "tandpfun"
     },
     {
@@ -3165,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "KubeezMedia"
     },
     {
@@ -3180,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "Blueturboguy07"
     },
     {
@@ -3195,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "HeiGeAi"
     },
     {
@@ -3210,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1155,
       "user": "littledivy"
     },
     {
@@ -3225,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 805,
       "user": "Kappaemme-git"
     },
     {
@@ -3240,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 787,
       "user": "oil-oil"
     },
     {
@@ -3255,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "PengZhang64"
     },
     {
@@ -3270,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304036409?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "Shadow-Weave"
     },
     {
@@ -3285,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 566,
       "user": "nethical6"
     },
     {
@@ -3300,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "vshulcz"
     },
     {
@@ -3315,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 139,
       "user": "shibadogcap"
     },
     {
@@ -3360,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1191,
       "user": "pixel-point"
     },
     {
@@ -3390,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "MatinSenPai"
     },
     {
@@ -3405,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 526,
       "user": "pablostanley"
     },
     {
@@ -3420,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "stackblitz"
     },
     {
@@ -3435,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17802,
+      "stars": 18003,
       "user": "xai-org"
     },
     {
@@ -3450,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1212,
       "user": "CluvexStudio"
     },
     {
@@ -3465,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 160,
       "user": "ZethRise"
     },
     {
@@ -3495,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 76,
       "user": "inbjo"
     },
     {
@@ -3537,18 +3496,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "lproven"
-    },
-    {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
