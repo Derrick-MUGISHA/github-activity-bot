@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
-      "title": "Claude might be saturating your machine",
-      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07",
-      "published_at": "2026-07-16T17:53:53Z",
-      "description": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
-      "tags": [
-        "ai",
-        "programming",
-        "claude",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png",
-      "source": "Dev.to",
-      "user": "Sidhant Panda"
-    },
-    {
       "title": "I burned through thousands of AI tokens. Then a friend did it for free",
       "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
       "published_at": "2026-07-16T22:52:32Z",
@@ -73,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
       "source": "Dev.to",
       "user": "Gemini Team"
+    },
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
     },
     {
       "title": "What is an \"agentic harness,\" actually?",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Claude might be saturating your machine",
+      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07",
+      "published_at": "2026-07-16T17:53:53Z",
+      "description": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
+      "tags": [
+        "ai",
+        "programming",
+        "claude",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png",
+      "source": "Dev.to",
+      "user": "Sidhant Panda"
     },
     {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 947,
       "user": "tandpfun"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "Blueturboguy07"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "HeiGeAi"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 779,
       "user": "oil-oil"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 435,
       "user": "nethical6"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 345,
       "user": "vshulcz"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 565,
       "user": "MatinSenPai"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17271,
+      "stars": 17441,
       "user": "xai-org"
     },
     {
@@ -812,16 +812,16 @@
       "user": "veqq"
     },
     {
-      "title": "Here's how I host my own AIM server",
-      "url": "https://veronicaexplains.net/open-oscar-server/",
-      "published_at": "2026-07-16T19:18:37.775-05:00",
+      "title": "How does Pangram work?",
+      "url": "https://pangram.substack.com/p/how-does-pangram-work",
+      "published_at": "2026-07-18T01:17:08.172-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "networking"
+        "ai"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "user": "gnyeki"
     },
     {
       "title": "How complex web builders like framer.com transfer huge data between visual canvas iframe which is cross origin and still maintain performance?",
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9123,
+      "stars": 9236,
       "user": "Fei-Away"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 947,
       "user": "tandpfun"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "Blueturboguy07"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "HeiGeAi"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1181,
       "user": "pixel-point"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 565,
       "user": "MatinSenPai"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 484,
       "user": "pablostanley"
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 334,
       "user": "stackblitz"
     },
     {
@@ -1342,7 +1342,7 @@
       "title": "Where can i find resources for learning more about vibe coding?",
       "url": "https://stackoverflow.com/questions/79981772/where-can-i-find-resources-for-learning-more-about-vibe-coding",
       "published_at": "2026-07-18T05:44:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "javascript"
@@ -1350,22 +1350,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Andre Green"
-    },
-    {
-      "title": "Simple WebAuthn Credential Registration and Attestation?",
-      "url": "https://stackoverflow.com/questions/79981686/simple-webauthn-credential-registration-and-attestation",
-      "published_at": "2026-07-17T18:13:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "cross-browser",
-        "w3c",
-        "webauthn"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "midor"
     },
     {
       "title": "React using a custom fetch hook, should you put data into state",
@@ -1382,6 +1366,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tapialj"
+    },
+    {
+      "title": "Simple WebAuthn Credential Registration and Attestation?",
+      "url": "https://stackoverflow.com/questions/79981686/simple-webauthn-credential-registration-and-attestation",
+      "published_at": "2026-07-17T18:13:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "cross-browser",
+        "w3c",
+        "webauthn"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "midor"
     },
     {
       "title": "How to use a script Injector to Block Rufus on Amazon permanently",
@@ -1607,21 +1607,6 @@
       "user": "xbill"
     },
     {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
-      "published_at": "2026-07-15T18:56:09Z",
-      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
-      "tags": [
-        "bugsmash",
-        "python",
-        "go",
-        "debugging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
       "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
       "published_at": "2026-07-15T18:56:45Z",
@@ -1663,6 +1648,21 @@
         "antigravitycli"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
+      "published_at": "2026-07-15T18:56:09Z",
+      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "tags": [
+        "bugsmash",
+        "python",
+        "go",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1151,
       "user": "littledivy"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 797,
       "user": "Kappaemme-git"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 779,
       "user": "oil-oil"
     },
     {
@@ -1938,7 +1938,7 @@
       "title": "Why does numpy do a copy in this array slice?",
       "url": "https://stackoverflow.com/questions/79981758/why-does-numpy-do-a-copy-in-this-array-slice",
       "published_at": "2026-07-18T04:26:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "numpy",
@@ -1948,19 +1948,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anonymous1847"
-    },
-    {
-      "title": "Nested dictionary output",
-      "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
-      "published_at": "2026-07-17T21:05:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ariel lema"
     },
     {
       "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
@@ -1975,6 +1962,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Olsi Hoxha"
+    },
+    {
+      "title": "Nested dictionary output",
+      "url": "https://stackoverflow.com/questions/79981709/nested-dictionary-output",
+      "published_at": "2026-07-17T21:05:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ariel lema"
     },
     {
       "title": "Trouble with the \"RandomForestClassifier instance is not fitted yet\" error",
@@ -2401,7 +2401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "ZethRise"
     },
     {
@@ -2479,21 +2479,6 @@
       "user": "xbill"
     },
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -2522,6 +2507,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -2998,21 +2998,6 @@
   ],
   "Tools": [
     {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
-      "published_at": "2026-07-15T18:56:09Z",
-      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
-      "tags": [
-        "bugsmash",
-        "python",
-        "go",
-        "debugging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
       "published_at": "2026-07-09T14:44:40Z",
@@ -3041,6 +3026,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9lixfn8gih5go6n21wg.png",
       "source": "Dev.to",
       "user": "Don Johnson"
+    },
+    {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
+      "published_at": "2026-07-15T18:56:09Z",
+      "description": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "tags": [
+        "bugsmash",
+        "python",
+        "go",
+        "debugging"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Automated GitHub Code Reviews Using Google Gemini",
+      "url": "https://dev.to/gde/automated-github-code-reviews-using-google-gemini-4l0f",
+      "published_at": "2026-07-16T11:16:35Z",
+      "description": "I Built a Thing!   TL;DR — Google Gemini-based Pull Request reviews and Issue Triaging for...",
+      "tags": [
+        "githubactions",
+        "pullrequest",
+        "cicdpipeline",
+        "googlegemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2APYnfVcPz2Rm6WNA0mPYQPg.jpeg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -3135,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 9123,
+      "stars": 9236,
       "user": "Fei-Away"
     },
     {
@@ -3150,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 947,
       "user": "tandpfun"
     },
     {
@@ -3180,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "Blueturboguy07"
     },
     {
@@ -3195,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "HeiGeAi"
     },
     {
@@ -3210,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1151,
       "user": "littledivy"
     },
     {
@@ -3225,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 797,
       "user": "Kappaemme-git"
     },
     {
@@ -3240,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 779,
       "user": "oil-oil"
     },
     {
@@ -3285,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 435,
       "user": "nethical6"
     },
     {
@@ -3300,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 345,
       "user": "vshulcz"
     },
     {
@@ -3334,19 +3349,19 @@
       "user": "ywddd"
     },
     {
-      "title": "rengwu/wayfinder-maps - Planetary visualization tool for /wayfinder maps",
-      "url": "https://github.com/rengwu/wayfinder-maps",
-      "published_at": "2026-07-12T04:40:27Z",
-      "description": "Planetary visualization tool for /wayfinder maps",
+      "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
+      "url": "https://github.com/iluvx/go-tg-api",
+      "published_at": "2026-07-18T05:13:20Z",
+      "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12826717?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/175501983?v=4",
       "source": "GitHub",
-      "stars": 59,
-      "user": "rengwu"
+      "stars": 60,
+      "user": "iluvx"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -3360,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1181,
       "user": "pixel-point"
     },
     {
@@ -3375,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234955825?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "mereyabdenbekuly-ctrl"
     },
     {
@@ -3390,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 565,
       "user": "MatinSenPai"
     },
     {
@@ -3405,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 484,
       "user": "pablostanley"
     },
     {
@@ -3420,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 334,
       "user": "stackblitz"
     },
     {
@@ -3435,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 17271,
+      "stars": 17441,
       "user": "xai-org"
     },
     {
@@ -3450,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1186,
       "user": "CluvexStudio"
     },
     {
@@ -3465,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "ZethRise"
     },
     {
