@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-18 16:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-18 17:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [How I made a Rust hot path 27x faster, and the AI fix I refused to merge](https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg) | Dev.to |
 | 20 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 
-<sub>Last fetched: Sat, 18 Jul 2026 16:13:05 CAT</sub>
+<sub>Last fetched: Sat, 18 Jul 2026 17:19:19 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Implement a debounce function from scratch**
+**1. `DataStructures` — Implement a function to reverse a linked list**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Iterative or recursive, three pointers
 
 </details>
 
-**2. `DataStructures` — Find the median of two sorted arrays**
+**2. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**3. `Python` — What is the difference between list and tuple in Python?**
+**3. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> B-tree, trade-offs, query performance
 
 </details>
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8%
-Go              ███████████████████████████ 23.3%
-Python          ██████████████████████████ 22.0%
-Java            ██████████████████████ 18.9%
+JavaScript      ██████████████████████████████ 25.6%
+Go              ████████████████████████████ 23.8%
+Python          ██████████████████████████ 21.9%
+Java            ██████████████████████ 18.8%
 Rust            ████████ 6.9%
 Kotlin          ██ 1.3%
 Ruby            █ 0.6%
@@ -209,7 +209,7 @@ Swift           █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 41
-    "Go" : 37
+    "Go" : 38
     "Python" : 35
     "Java" : 30
     "Rust" : 11
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 18 Jul 2026 14:13:05 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 18 Jul 2026 15:19:19 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
