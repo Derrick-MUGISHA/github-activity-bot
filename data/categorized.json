@@ -45,21 +45,6 @@
       "user": "Gemini Team"
     },
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Did You Know TLDs Can Be Websites?",
@@ -463,6 +463,21 @@
       "user": "bredmond1019"
     },
     {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+      "published_at": "2026-07-14T16:38:47Z",
+      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "tags": [
+        "rust",
+        "ai",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
+      "source": "Dev.to",
+      "user": "Zach"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -630,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1117,
       "user": "tandpfun"
     },
     {
@@ -645,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 577,
       "user": "Blueturboguy07"
     },
     {
@@ -660,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "HeiGeAi"
     },
     {
@@ -675,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 844,
       "user": "oil-oil"
     },
     {
@@ -705,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 782,
       "user": "nethical6"
     },
     {
@@ -720,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "vshulcz"
     },
     {
@@ -735,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "MatinSenPai"
     },
     {
@@ -750,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19710,
+      "stars": 19755,
       "user": "xai-org"
     },
     {
@@ -801,7 +816,7 @@
       "title": "AI's Impact on Website Profitability: Revenue Generation, Cost Considerations, and Shutdown Risks",
       "url": "https://stackoverflow.com/questions/79981934/ais-impact-on-website-profitability-revenue-generation-cost-considerations-a",
       "published_at": "2026-07-19T01:32:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -810,18 +825,19 @@
       "user": "user32903707"
     },
     {
-      "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
-      "url": "https://stackoverflow.com/questions/79981731/how-can-i-create-a-pydantic-secret-field-that-is-plaintext-in-model-dump-but",
-      "published_at": "2026-07-17T23:58:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "published_at": "2026-07-19T14:00:00.000Z",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "tags": [
-        "python",
-        "pydantic",
-        "pydantic-v2"
+        "AI",
+        "nonprofit",
+        "large language models",
+        "current ai"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Olsi Hoxha"
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "Kimi: Threat or menace?",
@@ -914,21 +930,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "published_at": "2026-07-17T21:20:47.000Z",
-      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "tags": [
-        "AI",
-        "Security",
-        "TC",
-        "zoom"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -1157,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10119,
+      "stars": 10173,
       "user": "Fei-Away"
     },
     {
@@ -1172,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1117,
       "user": "tandpfun"
     },
     {
@@ -1187,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "KubeezMedia"
     },
     {
@@ -1202,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 577,
       "user": "Blueturboguy07"
     },
     {
@@ -1217,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "HeiGeAi"
     },
     {
@@ -1232,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1233,
       "user": "pixel-point"
     },
     {
@@ -1247,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 648,
       "user": "pablostanley"
     },
     {
@@ -1262,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "MatinSenPai"
     },
     {
@@ -1277,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 412,
       "user": "stackblitz"
     },
     {
@@ -1292,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "thesysdev"
     },
     {
@@ -1817,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1198,
       "user": "littledivy"
     },
     {
@@ -1832,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 844,
       "user": "oil-oil"
     },
     {
@@ -1862,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 430,
       "user": "lopopolo"
     },
     {
@@ -1877,14 +1878,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "pyang5166"
+    },
+    {
+      "title": "finding common characters from an array of words",
+      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
+      "published_at": "2026-07-19T13:12:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ann"
+    },
+    {
+      "title": "If I modify an imported Python module while a Slurm job is running, will later iterations use the new code?",
+      "url": "https://stackoverflow.com/questions/79982018/if-i-modify-an-imported-python-module-while-a-slurm-job-is-running-will-later-i",
+      "published_at": "2026-07-19T13:59:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ahmed"
     },
     {
       "title": "Is my Variable Elimination implementation correct? Asking because different TAs marked them differently",
       "url": "https://stackoverflow.com/questions/79982005/is-my-variable-elimination-implementation-correct-asking-because-different-tas",
       "published_at": "2026-07-19T12:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "python",
@@ -1942,7 +1968,7 @@
       "title": "AI's Impact on Website Profitability: Revenue Generation, Cost Considerations, and Shutdown Risks",
       "url": "https://stackoverflow.com/questions/79981934/ais-impact-on-website-profitability-revenue-generation-cost-considerations-a",
       "published_at": "2026-07-19T01:32:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -1989,36 +2015,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ariel lema"
-    },
-    {
-      "title": "Jwt stale token revoke issue",
-      "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
-      "published_at": "2026-07-17T15:31:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "django",
-        "authentication",
-        "jwt",
-        "microservices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anshul"
-    },
-    {
-      "title": "How can I create a Pydantic secret field that is plaintext in `model_dump()` but masked in every validation error?",
-      "url": "https://stackoverflow.com/questions/79981731/how-can-i-create-a-pydantic-secret-field-that-is-plaintext-in-model-dump-but",
-      "published_at": "2026-07-17T23:58:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "pydantic",
-        "pydantic-v2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Olsi Hoxha"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2338,7 +2334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "ZethRise"
     },
     {
@@ -2849,35 +2845,6 @@
       "user": "2352500"
     },
     {
-      "title": "wp2shell: Pre Authentication RCE in WordPress Core",
-      "url": "https://wp2shell.com/",
-      "published_at": "2026-07-18T13:12:17.428-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Helithumper"
-    },
-    {
-      "title": "Jwt stale token revoke issue",
-      "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
-      "published_at": "2026-07-17T15:31:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "django",
-        "authentication",
-        "jwt",
-        "microservices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anshul"
-    },
-    {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
       "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "published_at": "2026-07-17T22:55:09.000Z",
@@ -2892,21 +2859,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "published_at": "2026-07-17T21:20:47.000Z",
-      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "tags": [
-        "AI",
-        "Security",
-        "TC",
-        "zoom"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     }
   ],
   "Tools": [
@@ -3063,7 +3015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10119,
+      "stars": 10173,
       "user": "Fei-Away"
     },
     {
@@ -3078,7 +3030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1117,
       "user": "tandpfun"
     },
     {
@@ -3093,7 +3045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268049402?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "KubeezMedia"
     },
     {
@@ -3108,7 +3060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 577,
       "user": "Blueturboguy07"
     },
     {
@@ -3123,7 +3075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "HeiGeAi"
     },
     {
@@ -3138,7 +3090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1198,
       "user": "littledivy"
     },
     {
@@ -3153,7 +3105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 844,
       "user": "oil-oil"
     },
     {
@@ -3183,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 430,
       "user": "lopopolo"
     },
     {
@@ -3198,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 386,
       "user": "pyang5166"
     },
     {
@@ -3213,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 782,
       "user": "nethical6"
     },
     {
@@ -3228,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "vshulcz"
     },
     {
@@ -3258,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 79,
       "user": "scion-frontiers"
     },
     {
@@ -3288,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1233,
       "user": "pixel-point"
     },
     {
@@ -3303,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 648,
       "user": "pablostanley"
     },
     {
@@ -3318,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "MatinSenPai"
     },
     {
@@ -3333,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 412,
       "user": "stackblitz"
     },
     {
@@ -3348,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "thesysdev"
     },
     {
@@ -3363,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19710,
+      "stars": 19755,
       "user": "xai-org"
     },
     {
@@ -3378,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1284,
+      "stars": 1289,
       "user": "CluvexStudio"
     },
     {
@@ -3393,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "ZethRise"
     },
     {
@@ -3408,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "inbjo"
     },
     {
