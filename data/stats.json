@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 71,
+    "AI": 69,
     "JavaScript": 41,
     "Python": 37,
     "DevOps": 16,
@@ -33,7 +33,7 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-07-17": 24,
+    "2026-07-17": 23,
     "2026-07-16": 16,
     "2026-07-14": 15,
     "2026-07-15": 15,
@@ -103,14 +103,13 @@
     "2024-10-09": 1,
     "2022-08-01": 1,
     "2026-07-18": 15,
-    "2026-07-19": 5,
+    "2026-07-19": 7,
     "2026-06-14": 1,
     "2025-12-18": 1,
-    "2023-03-30": 1,
-    "2025-12-30": 1
+    "2023-03-30": 1
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 25,
     "github": 25,
     "open-source": 25,
     "python": 24,
@@ -122,14 +121,14 @@
     "discuss": 10,
     "mcps": 10,
     "DevOps": 10,
-    "webdev": 7,
     "typescript": 7,
+    "webdev": 6,
     "llm": 6,
     "antigravitycli": 6,
     "gemma4": 6,
-    "programming": 6,
     "go": 6,
-    "productivity": 5
+    "programming": 5,
+    "rust": 5
   },
   "trending_topics": [],
   "language_percentages": {
