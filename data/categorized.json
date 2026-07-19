@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
-      "published_at": "2026-07-16T22:52:32Z",
-      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "tags": [
-        "ai",
-        "career",
-        "design"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
-    {
       "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
       "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6",
       "published_at": "2026-07-14T23:21:21Z",
@@ -88,6 +74,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
+      "published_at": "2026-07-16T22:52:32Z",
+      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
+      "tags": [
+        "ai",
+        "career",
+        "design"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1131,
       "user": "tandpfun"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "Blueturboguy07"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 294,
       "user": "erickong"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 796,
       "user": "nethical6"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "vshulcz"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 617,
       "user": "MatinSenPai"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19809,
+      "stars": 19852,
       "user": "xai-org"
     },
     {
@@ -813,16 +813,18 @@
       "user": "Sahul Hameed"
     },
     {
-      "title": "AI's Impact on Website Profitability: Revenue Generation, Cost Considerations, and Shutdown Risks",
-      "url": "https://stackoverflow.com/questions/79981934/ais-impact-on-website-profitability-revenue-generation-cost-considerations-a",
-      "published_at": "2026-07-19T01:32:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "published_at": "2026-07-19T16:05:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
       "tags": [
-        "python"
+        "Transportation",
+        "Waymo",
+        "techcrunch mobility"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32903707"
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
@@ -913,22 +915,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "published_at": "2026-07-17T22:55:09.000Z",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "ai agent",
-        "Hermes Agent",
-        "Vertu"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -1142,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10216,
+      "stars": 10234,
       "user": "Fei-Away"
     },
     {
@@ -1157,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1131,
       "user": "tandpfun"
     },
     {
@@ -1187,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "Blueturboguy07"
     },
     {
@@ -1202,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 294,
       "user": "erickong"
     },
     {
@@ -1217,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1235,
       "user": "pixel-point"
     },
     {
@@ -1232,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 680,
       "user": "pablostanley"
     },
     {
@@ -1247,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 617,
       "user": "MatinSenPai"
     },
     {
@@ -1262,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "stackblitz"
     },
     {
@@ -1277,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "thesysdev"
     },
     {
@@ -1802,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1200,
       "user": "littledivy"
     },
     {
@@ -1847,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 464,
       "user": "lopopolo"
     },
     {
@@ -1862,14 +1848,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 397,
       "user": "pyang5166"
     },
     {
       "title": "finding common characters from an array of words",
       "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
       "published_at": "2026-07-19T13:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python"
       ],
@@ -1949,18 +1935,6 @@
       "user": "Sahul Hameed"
     },
     {
-      "title": "AI's Impact on Website Profitability: Revenue Generation, Cost Considerations, and Shutdown Risks",
-      "url": "https://stackoverflow.com/questions/79981934/ais-impact-on-website-profitability-revenue-generation-cost-considerations-a",
-      "published_at": "2026-07-19T01:32:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32903707"
-    },
-    {
       "title": "Why does numpy do a copy in this array slice?",
       "url": "https://stackoverflow.com/questions/79981758/why-does-numpy-do-a-copy-in-this-array-slice",
       "published_at": "2026-07-18T04:26:03.000Z",
@@ -1999,6 +1973,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ariel lema"
+    },
+    {
+      "title": "Jwt stale token revoke issue",
+      "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
+      "published_at": "2026-07-17T15:31:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "django",
+        "authentication",
+        "jwt",
+        "microservices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anshul"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2303,7 +2293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "ZethRise"
     },
     {
@@ -2829,20 +2819,20 @@
       "user": "2352500"
     },
     {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "published_at": "2026-07-17T22:55:09.000Z",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "title": "Jwt stale token revoke issue",
+      "url": "https://stackoverflow.com/questions/79981645/jwt-stale-token-revoke-issue",
+      "published_at": "2026-07-17T15:31:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
-        "AI",
-        "Hardware",
-        "ai agent",
-        "Hermes Agent",
-        "Vertu"
+        "python",
+        "django",
+        "authentication",
+        "jwt",
+        "microservices"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "source": "StackOverflow",
+      "user": "Anshul"
     }
   ],
   "Tools": [
@@ -2999,7 +2989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10216,
+      "stars": 10234,
       "user": "Fei-Away"
     },
     {
@@ -3014,7 +3004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1122,
+      "stars": 1131,
       "user": "tandpfun"
     },
     {
@@ -3044,7 +3034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "Blueturboguy07"
     },
     {
@@ -3059,7 +3049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 294,
       "user": "erickong"
     },
     {
@@ -3074,7 +3064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1200,
       "user": "littledivy"
     },
     {
@@ -3119,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 464,
       "user": "lopopolo"
     },
     {
@@ -3134,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 397,
       "user": "pyang5166"
     },
     {
@@ -3149,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 796,
       "user": "nethical6"
     },
     {
@@ -3164,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "vshulcz"
     },
     {
@@ -3194,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "scion-frontiers"
     },
     {
@@ -3224,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1235,
       "user": "pixel-point"
     },
     {
@@ -3239,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 680,
       "user": "pablostanley"
     },
     {
@@ -3254,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 617,
       "user": "MatinSenPai"
     },
     {
@@ -3269,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "stackblitz"
     },
     {
@@ -3284,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "thesysdev"
     },
     {
@@ -3299,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19809,
+      "stars": 19852,
       "user": "xai-org"
     },
     {
@@ -3314,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1295,
       "user": "CluvexStudio"
     },
     {
@@ -3329,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "ZethRise"
     },
     {
