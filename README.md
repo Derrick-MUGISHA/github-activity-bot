@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-19 16:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-19 17:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b) | Dev.to |
 | 20 | [2B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/2b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-4p7) | Dev.to |
 
-<sub>Last fetched: Sun, 19 Jul 2026 16:19:42 CAT</sub>
+<sub>Last fetched: Sun, 19 Jul 2026 17:31:09 CAT</sub>
 
 
 ---
@@ -122,25 +122,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain GIL and its implications for multithreading**
+**1. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**2. `Python` — Explain GIL and its implications for multithreading**
+**2. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -165,11 +165,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 68 | 37.0% | `████████████████████` |
-| **JavaScript** | 40 | 21.7% | `████████████░░░░░░░░` |
+| **JavaScript** | 39 | 21.2% | `███████████░░░░░░░░░` |
 | **Tools** | 39 | 21.2% | `███████████░░░░░░░░░` |
 | **Python** | 36 | 19.6% | `███████████░░░░░░░░░` |
-| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.3% | `██████░░░░░░░░░░░░░░` |
+| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 12 | 6.5% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -194,19 +194,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.0%
-Go              █████████████████████████████ 25.3%
-Python          ███████████████████████████ 23.4%
-Java            ██████████████████████ 18.8%
-Rust            ███████ 5.8%
-Kotlin          █ 0.6%
+Go              ██████████████████████████████ 25.5%
+JavaScript      ██████████████████████████████ 25.5%
+Python          ████████████████████████████ 23.5%
+Java            ██████████████████████ 19.0%
+Rust            ███████ 5.9%
+Kotlin          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 40
     "Go" : 39
+    "JavaScript" : 39
     "Python" : 36
     "Java" : 29
     "Rust" : 9
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-6-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 19 Jul 2026 14:19:42 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 19 Jul 2026 15:31:09 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

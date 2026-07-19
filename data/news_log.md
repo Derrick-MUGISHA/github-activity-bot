@@ -64956,3 +64956,945 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-19 17:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (68 articles)
+
+#### 1. [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
+📅 Thu, 16 Jul 2026 22:52:32 GMT
+👤 By: Paulo Henrique | 📌 Source: Dev.to
+
+![I burned through thousands of AI tokens. Then a friend did it for free](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png)
+
+(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...
+
+🏷️ Tags: `ai`, `career`, `design`
+
+---
+
+#### 2. [5 Trends That Defined AI Engineering at World’s Fair 2026](https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6)
+📅 Tue, 14 Jul 2026 23:21:21 GMT
+👤 By: Richard MacManus | 📌 Source: Dev.to
+
+![5 Trends That Defined AI Engineering at World’s Fair 2026](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213Be9%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png)
+
+At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...
+
+🏷️ Tags: `agents`, `ai`, `news`, `softwareengineering`
+
+---
+
+#### 3. [DiffusionGemma: The Developer Guide](https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l)
+📅 Thu, 16 Jul 2026 14:27:09 GMT
+👤 By: Gemini Team | 📌 Source: Dev.to
+
+![DiffusionGemma: The Developer Guide](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp)
+
+Following our announcement in our launch blog post, we are sharing this developer guide to help you...
+
+🏷️ Tags: `gemma`, `google`, `ai`, `llm`
+
+---
+
+#### 4. [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok)
+📅 Sun, 12 Jul 2026 15:09:09 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png)
+
+Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...
+
+🏷️ Tags: `ai`, `cloud`, `google`, `llm`
+
+---
+
+#### 5. [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k)
+📅 Wed, 15 Jul 2026 23:58:42 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Smash Story: The Demo Script That Out-Debugged My Test Suite](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png)
+
+A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug that mocks never could.
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `ai`, `debugging`
+
+---
+
+#### 6. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 7. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 8. [What is an "agentic harness," actually?](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie)
+📅 Thu, 16 Jul 2026 21:19:20 GMT
+👤 By: Tilde A. Thurium | 📌 Source: Dev.to
+
+![What is an "agentic harness," actually?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png)
+
+I've been hearing the word "harness" thrown around a lot lately. I assumed it just meant "the IDE" or...
+
+🏷️ Tags: `ai`, `agents`, `discuss`, `llm`
+
+---
+
+#### 9. [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
+📅 Thu, 16 Jul 2026 19:41:43 GMT
+👤 By: Sean Boult | 📌 Source: Dev.to
+
+![Did You Know TLDs Can Be Websites?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png)
+
+You've probably registered a domain with Route53 or another popular registrar.  You pick something...
+
+🏷️ Tags: `aws`, `infrastructure`, `networking`, `webdev`
+
+---
+
+#### 10. [The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al)
+📅 Mon, 13 Jul 2026 15:59:11 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![The Myth of the Post-Documentation Era](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png)
+
+There is a growing sentiment in engineering circles right now that documentation is a relic of the...
+
+🏷️ Tags: `ai`, `documentation`, `opensource`, `codequality`
+
+---
+
+### 🏷️ JavaScript (39 articles)
+
+#### 1. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 2. [Squashing an Accidental Node.js Fork Bomb with Sentry](https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp)
+📅 Wed, 15 Jul 2026 04:30:47 GMT
+👤 By: Tahira Muhammad | 📌 Source: Dev.to
+
+![Squashing an Accidental Node.js Fork Bomb with Sentry](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png)
+
+This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `productivity`, `devbugsmash`
+
+---
+
+#### 3. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (36 articles)
+
+#### 1. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 2. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 3. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 4. [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l)
+📅 Wed, 15 Jul 2026 18:56:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Why did my benchmark stop at N=22? A debugging story in nine bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png)
+
+Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...
+
+🏷️ Tags: `bugsmash`, `debugging`, `ai`, `python`
+
+---
+
+#### 5. [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
+📅 Wed, 15 Jul 2026 18:56:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png)
+
+Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...
+
+🏷️ Tags: `bugsmash`, `python`, `go`, `debugging`
+
+---
+
+#### 6. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 7. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 8. [Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h)
+📅 Fri, 03 Jul 2026 02:55:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `python`, `tpu`, `mcps`
+
+---
+
+#### 9. [Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b)
+📅 Thu, 09 Jul 2026 13:12:41 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `antigravitycli`, `python`, `mcps`, `gemma`
+
+---
+
+#### 10. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (15 articles)
+
+#### 1. [HTTP gets a QUERY method so complex searches can stop pretending to be POST
+
+https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28)
+📅 Tue, 14 Jul 2026 11:59:15 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![HTTP gets a QUERY method so complex searches can stop pretending to be POST
+
+https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png)
+
+...
+
+🏷️ Tags: `api`, `networking`, `news`, `webdev`
+
+---
+
+#### 2. [Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9)
+📅 Mon, 29 Jun 2026 16:12:25 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png)
+
+Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...
+
+🏷️ Tags: `antigravity`, `googlecloud`, `kubernetes`, `cloud`
+
+---
+
+#### 3. [Multi-Agent Observability: See Everything Your AI Agents Do](https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2)
+📅 Tue, 23 Jun 2026 18:38:11 GMT
+👤 By: bredmond1019 | 📌 Source: Dev.to
+
+![Multi-Agent Observability: See Everything Your AI Agents Do](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png)
+
+Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.
+
+🏷️ Tags: `ai`, `claudecode`, `devops`, `tutorial`
+
+---
+
+#### 4. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [A Pragmatic Look at AI in 2030](https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h)
+📅 Wed, 08 Jul 2026 15:01:47 GMT
+👤 By: Andrew Bone | 📌 Source: Dev.to
+
+![A Pragmatic Look at AI in 2030](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png)
+
+I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...
+
+🏷️ Tags: `ai`, `softwareengineering`, `discuss`, `webdev`
+
+---
+
+#### 2. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript](https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/)
+📅 Fri, 17 Jul 2026 20:34:10 GMT
+👤 By: jabo Landry | 📌 Source: freeCodeCamp
+
+Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or
+
+🏷️ Tags: `anchor css`, `popup`, `modal`, `html modal`, `Accessibility`
+
+---
+
+#### 4. [How to Build a Browser-Based PDF Redaction Tool Using JavaScript](https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/)
+📅 Fri, 17 Jul 2026 20:33:11 GMT
+👤 By: Bhavin Sheth | 📌 Source: freeCodeCamp
+
+PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th
+
+🏷️ Tags: `JavaScript`, `Web Development`, `pdf`, `Online PDF Tools`, `pdf tutorial`
+
+---
+
+### 🏷️ Mobile (5 articles)
+
+#### 1. [ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust](https://github.com/ZethRise/Aethery)
+📅 Wed, 15 Jul 2026 16:30:13 GMT
+👤 By: ZethRise | 📌 Source: GitHub
+
+![ZethRise/Aethery - One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust](https://avatars.githubusercontent.com/u/284843906?v=4)
+
+One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 175
+
+---
+
+#### 2. [Vibration on mobile web](https://stackoverflow.com/questions/79981945/vibration-on-mobile-web)
+📅 Sun, 19 Jul 2026 03:39:55 GMT
+👤 By: AlexCharonix | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -3
+
+🏷️ Tags: `javascript`, `web`, `game-development`
+
+---
+
+#### 3. [How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC](https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/)
+📅 Fri, 17 Jul 2026 16:51:58 GMT
+👤 By: Jibril-M🍀 | 📌 Source: freeCodeCamp
+
+For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen
+
+🏷️ Tags: `AI`, `Machine Learning`, `nlp`, `React Native`, `Mobile Development`
+
+---
+
+#### 4. [The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart](https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/)
+📅 Thu, 16 Jul 2026 22:20:44 GMT
+👤 By: Oluwaseyi Fatunmole | 📌 Source: freeCodeCamp
+
+Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th
+
+🏷️ Tags: `#Domain-Driven-Design`, `Dart`, `Mobile Development`, `Flutter`, `Observer Pattern`
+
+---
+
+#### 5. [Master Full-Stack Mobile Development with React Native](https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/)
+📅 Thu, 16 Jul 2026 11:32:57 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build
+
+🏷️ Tags: `React Native`, `youtube`
+
+---
+
+### 🏷️ Cloud (19 articles)
+
+#### 1. [Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5)
+📅 Fri, 17 Jul 2026 13:39:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitrl8gh3fyh01vpega3c.png)
+
+I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...
+
+🏷️ Tags: `gemma`, `aws`, `infrastructure`
+
+---
+
+#### 2. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 3. [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3)
+📅 Wed, 08 Jul 2026 13:26:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `mcps`, `googleantigravity`, `googletpu`, `gemma4`
+
+---
+
+#### 4. [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok)
+📅 Sun, 12 Jul 2026 15:09:09 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png)
+
+Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...
+
+🏷️ Tags: `ai`, `cloud`, `google`, `llm`
+
+---
+
+#### 5. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 6. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 7. [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
+📅 Thu, 16 Jul 2026 19:41:43 GMT
+👤 By: Sean Boult | 📌 Source: Dev.to
+
+![Did You Know TLDs Can Be Websites?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png)
+
+You've probably registered a domain with Route53 or another popular registrar.  You pick something...
+
+🏷️ Tags: `aws`, `infrastructure`, `networking`, `webdev`
+
+---
+
+#### 8. [TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia)
+📅 Sat, 11 Jul 2026 21:21:38 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `gemma4`, `mcps`, `tpu`, `31b`
+
+---
+
+#### 9. [Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf)
+📅 Mon, 13 Jul 2026 13:36:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png)
+
+A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.
+
+🏷️ Tags: `machinelearning`, `aws`, `ai`, `python`
+
+---
+
+#### 10. [Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl)
+📅 Wed, 08 Jul 2026 13:02:03 GMT
+👤 By: Jen Looper | 📌 Source: Dev.to
+
+![Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png)
+
+At conference booths, developers often ask whether we support image generation at Cloudinary, given...
+
+🏷️ Tags: `ai`, `nanobanana`, `codenewbie`, `images`
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k)
+📅 Tue, 23 Jun 2026 18:04:23 GMT
+👤 By: Abhishek Gupta | 📌 Source: Dev.to
+
+![Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png)
+
+Originally posted on...
+
+🏷️ Tags: `python`, `ai`, `azure`, `nosql`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
+📅 Sat, 18 Jul 2026 04:47:25 GMT
+👤 By: Connie Loizos | 📌 Source: TechCrunch
+
+Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
+
+🏷️ Tags: `AI`, `Venture`
+
+---
+
+### 🏷️ Security (12 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 3. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Senators push to ditch social security numbers in light of Equifax hack](https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/)
+📅 Wed, 08 Nov 2017 22:49:56 GMT
+👤 By: Varcht | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+📅 Wed, 09 Oct 2024 20:54:26 GMT
+👤 By: ewenjo | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (39 articles)
+
+#### 1. [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng)
+📅 Thu, 09 Jul 2026 14:44:40 GMT
+👤 By: Klaudia Grzondziel | 📌 Source: Dev.to
+
+![Should I quit IT or just live through the burnout?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png)
+
+Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....
+
+🏷️ Tags: `mentalhealth`, `career`, `productivity`, `discuss`
+
+---
+
+#### 2. [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
+📅 Wed, 15 Jul 2026 18:56:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5ny0p6dlpyj34uadzo8.png)
+
+Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...
+
+🏷️ Tags: `bugsmash`, `python`, `go`, `debugging`
+
+---
+
+#### 3. [Your Career Matters. So Does the Person Building It.](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle)
+📅 Mon, 06 Jul 2026 15:50:31 GMT
+👤 By: Hemapriya Kanagala | 📌 Source: Dev.to
+
+![Your Career Matters. So Does the Person Building It.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png)
+
+TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...
+
+🏷️ Tags: `discuss`, `career`, `productivity`, `mentalhealth`
+
+---
+
+#### 4. [✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec)
+📅 Wed, 08 Jul 2026 12:25:01 GMT
+👤 By: Web Developer Hyper | 📌 Source: Dev.to
+
+![✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png)
+
+Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...
+
+🏷️ Tags: `ai`, `webdev`, `discuss`, `productivity`
+
+---
+
+#### 5. [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f)
+📅 Mon, 13 Jul 2026 15:17:02 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![A lot of good points here https://antirez.com/news/169](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png)
+
+antirez.com
+
+🏷️ Tags: `ai`, `llm`, `productivity`, `programming`
+
+---
+
+#### 6. [Squashing an Accidental Node.js Fork Bomb with Sentry](https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp)
+📅 Wed, 15 Jul 2026 04:30:47 GMT
+👤 By: Tahira Muhammad | 📌 Source: Dev.to
+
+![Squashing an Accidental Node.js Fork Bomb with Sentry](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png)
+
+This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `productivity`, `devbugsmash`
+
+---
+
+#### 7. [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc)
+📅 Thu, 25 Jun 2026 15:07:57 GMT
+👤 By: Kate Pond | 📌 Source: Dev.to
+
+![Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png)
+
+How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.
+
+🏷️ Tags: `ai`, `evals`, `testing`, `personas`
+
+---
+
+#### 8. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
