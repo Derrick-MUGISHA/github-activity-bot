@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 607,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "erickong"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "oil-oil"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "PengZhang64"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "hoainho"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 819,
       "user": "nethical6"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 381,
       "user": "vshulcz"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19959,
+      "stars": 19974,
       "user": "xai-org"
     },
     {
@@ -841,6 +841,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "published_at": "2026-07-19T21:45:00.000Z",
+      "description": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "tags": [
+        "Media & Entertainment",
+        "Netflix",
+        "InterPositive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
@@ -1176,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10270,
+      "stars": 10272,
       "user": "Fei-Away"
     },
     {
@@ -1221,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 607,
       "user": "Blueturboguy07"
     },
     {
@@ -1236,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "erickong"
     },
     {
@@ -1251,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "hoainho"
     },
     {
@@ -1281,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 720,
       "user": "pablostanley"
     },
     {
@@ -1296,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "MatinSenPai"
     },
     {
@@ -1311,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 443,
       "user": "stackblitz"
     },
     {
@@ -1333,7 +1347,7 @@
       "title": "CSS adaptive to JS condition",
       "url": "https://stackoverflow.com/questions/79982037/css-adaptive-to-js-condition",
       "published_at": "2026-07-19T16:24:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "css",
@@ -1404,20 +1418,6 @@
       "user": "Paddy Hallihan"
     },
     {
-      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
-      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
-      "published_at": "2026-06-14T22:38:15.000Z",
-      "description": "Stack Overflow question · 8 answers · score 0",
-      "tags": [
-        "javascript",
-        "ecmascript-5",
-        "ecmascript-3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "krabat1"
-    },
-    {
       "title": "any opinion on use AI for vibe coding as a newbie",
       "url": "https://stackoverflow.com/questions/79850003/any-opinion-on-use-ai-for-vibe-coding-as-a-newbie",
       "published_at": "2025-12-18T04:02:46.000Z",
@@ -1472,6 +1472,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mikekoscinski"
+    },
+    {
+      "title": "How do I use vite with the \"new\" .net 7 web assembly project",
+      "url": "https://stackoverflow.com/questions/77341789/how-do-i-use-vite-with-the-new-net-7-web-assembly-project",
+      "published_at": "2023-10-22T21:38:22.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        ".net",
+        "vite",
+        "webassembly",
+        ".net-7.0"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nikolay"
     },
     {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
@@ -1849,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1206,
       "user": "littledivy"
     },
     {
@@ -1864,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "oil-oil"
     },
     {
@@ -1879,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 556,
       "user": "lopopolo"
     },
     {
@@ -1894,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "PengZhang64"
     },
     {
@@ -1909,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "hoainho"
     },
     {
@@ -1955,6 +1971,18 @@
       "user": "Ahmed"
     },
     {
+      "title": "finding common characters from an array of words",
+      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
+      "published_at": "2026-07-19T13:12:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ann"
+    },
+    {
       "title": "Is my Variable Elimination implementation correct? Asking because different TAs marked them differently",
       "url": "https://stackoverflow.com/questions/79982005/is-my-variable-elimination-implementation-correct-asking-because-different-tas",
       "published_at": "2026-07-19T12:31:00.000Z",
@@ -1969,18 +1997,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user12456500"
-    },
-    {
-      "title": "finding common characters from an array of words",
-      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
-      "published_at": "2026-07-19T13:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ann"
     },
     {
       "title": "How to set up an environment to a project",
@@ -2326,7 +2342,7 @@
       "title": "CSS adaptive to JS condition",
       "url": "https://stackoverflow.com/questions/79982037/css-adaptive-to-js-condition",
       "published_at": "2026-07-19T16:24:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "css",
@@ -3096,7 +3112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10270,
+      "stars": 10272,
       "user": "Fei-Away"
     },
     {
@@ -3141,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 607,
       "user": "Blueturboguy07"
     },
     {
@@ -3156,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "erickong"
     },
     {
@@ -3171,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1206,
       "user": "littledivy"
     },
     {
@@ -3186,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "oil-oil"
     },
     {
@@ -3201,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 556,
       "user": "lopopolo"
     },
     {
@@ -3216,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "PengZhang64"
     },
     {
@@ -3231,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "hoainho"
     },
     {
@@ -3246,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 819,
       "user": "nethical6"
     },
     {
@@ -3261,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 381,
       "user": "vshulcz"
     },
     {
@@ -3336,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 720,
       "user": "pablostanley"
     },
     {
@@ -3351,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "MatinSenPai"
     },
     {
@@ -3366,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 443,
       "user": "stackblitz"
     },
     {
@@ -3396,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19959,
+      "stars": 19974,
       "user": "xai-org"
     },
     {
@@ -3411,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1312,
       "user": "CluvexStudio"
     },
     {
@@ -3456,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67969809?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "m-novotny"
     },
     {
