@@ -1,7 +1,7 @@
 {
-  "total": 183,
+  "total": 184,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 69,
+    "AI": 70,
     "JavaScript": 40,
     "Python": 37,
     "DevOps": 15,
@@ -19,10 +19,10 @@
     "Cloud": 20,
     "Database": 3,
     "Security": 12,
-    "Tools": 40
+    "Tools": 41
   },
   "by_language": {
-    "Go": 40,
+    "Go": 41,
     "Python": 37,
     "JavaScript": 40,
     "Rust": 9,
@@ -36,7 +36,7 @@
     "2026-07-15": 13,
     "2026-07-08": 5,
     "2026-07-12": 2,
-    "2026-07-09": 3,
+    "2026-07-09": 4,
     "2026-07-07": 2,
     "2026-07-06": 2,
     "2026-07-13": 10,
@@ -109,7 +109,7 @@
     "2020-08-31": 1
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 27,
     "python": 25,
     "github": 25,
     "open-source": 25,
@@ -126,17 +126,17 @@
     "llm": 6,
     "antigravitycli": 6,
     "gemma4": 6,
+    "productivity": 6,
     "programming": 6,
-    "go": 6,
-    "rust": 6
+    "go": 6
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "25.6",
-    "Python": "23.7",
-    "JavaScript": "25.6",
-    "Rust": "5.8",
-    "Java": "18.6",
+    "Go": "26.1",
+    "Python": "23.6",
+    "JavaScript": "25.5",
+    "Rust": "5.7",
+    "Java": "18.5",
     "Kotlin": "0.6"
   }
 }
