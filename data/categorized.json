@@ -328,21 +328,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Omni Flash Preview with Codex",
       "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
       "published_at": "2026-07-05T02:28:00Z",
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1122,
       "user": "tandpfun"
     },
     {
@@ -660,23 +645,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "Blueturboguy07"
     },
     {
-      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "published_at": "2026-07-15T10:24:07Z",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "title": "erickong/penecho - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "url": "https://github.com/erickong/penecho",
+      "published_at": "2026-07-14T14:45:23Z",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "HeiGeAi"
+      "stars": 273,
+      "user": "erickong"
     },
     {
       "title": "oil-oil/beautify-github-readme - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 847,
       "user": "oil-oil"
     },
     {
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 789,
       "user": "nethical6"
     },
     {
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "vshulcz"
     },
     {
@@ -750,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 616,
       "user": "MatinSenPai"
     },
     {
@@ -765,11 +750,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19755,
+      "stars": 19809,
       "user": "xai-org"
     },
     {
-      "title": "Reviewing AI Code Is Not A Viable Argument",
+      "title": "Reviewing AI Code Is Not A Viable Argument (2025)",
       "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
       "published_at": "2026-07-18T11:25:19.769-05:00",
       "description": "Lobste.rs Discussion",
@@ -781,6 +766,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Diana"
+    },
+    {
+      "title": "Git email patch review addon for Thunderbird",
+      "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+      "published_at": "2026-07-19T09:02:59.178-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "email",
+        "show",
+        "vcs",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mccd"
     },
     {
       "title": "any opinion on use AI for vibe coding as a newbie",
@@ -823,6 +823,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32903707"
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published_at": "2026-07-19T14:52:08.000Z",
+      "description": "\"Everybody knows the Greeks are inside.\"",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "christopher nolan",
+        "The Odyssey"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
@@ -916,22 +931,6 @@
       "user": "Jagmeet Singh"
     },
     {
-      "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "published_at": "2026-07-17T22:12:56.000Z",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "Startups",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
       "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
       "published_at": "2026-07-17T21:03:56.000Z",
@@ -1010,21 +1009,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
       "source": "Dev.to",
       "user": "Tahira Muhammad"
-    },
-    {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1158,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10173,
+      "stars": 10216,
       "user": "Fei-Away"
     },
     {
@@ -1173,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1122,
       "user": "tandpfun"
     },
     {
@@ -1203,23 +1187,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "Blueturboguy07"
     },
     {
-      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "published_at": "2026-07-15T10:24:07Z",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "title": "erickong/penecho - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "url": "https://github.com/erickong/penecho",
+      "published_at": "2026-07-14T14:45:23Z",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "HeiGeAi"
+      "stars": 273,
+      "user": "erickong"
     },
     {
       "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
@@ -1233,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1234,
       "user": "pixel-point"
     },
     {
@@ -1248,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 661,
       "user": "pablostanley"
     },
     {
@@ -1263,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 616,
       "user": "MatinSenPai"
     },
     {
@@ -1278,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "stackblitz"
     },
     {
@@ -1293,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "thesysdev"
     },
     {
@@ -1818,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1199,
       "user": "littledivy"
     },
     {
@@ -1833,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 847,
       "user": "oil-oil"
     },
     {
@@ -1863,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 449,
       "user": "lopopolo"
     },
     {
@@ -1878,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "pyang5166"
     },
     {
@@ -2061,21 +2045,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-      "published_at": "2026-07-14T17:54:10Z",
-      "description": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "tags": [
-        "devops",
-        "docker",
-        "ai",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607799279861-4dd421887fb3%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
@@ -2653,6 +2622,21 @@
       "user": "xbill"
     },
     {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
       "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
       "published_at": "2026-07-17T20:31:41.000Z",
@@ -3015,7 +2999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10173,
+      "stars": 10216,
       "user": "Fei-Away"
     },
     {
@@ -3030,7 +3014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1122,
       "user": "tandpfun"
     },
     {
@@ -3060,23 +3044,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "Blueturboguy07"
     },
     {
-      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "published_at": "2026-07-15T10:24:07Z",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "title": "erickong/penecho - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "url": "https://github.com/erickong/penecho",
+      "published_at": "2026-07-14T14:45:23Z",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "HeiGeAi"
+      "stars": 273,
+      "user": "erickong"
     },
     {
       "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
@@ -3090,7 +3074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1199,
       "user": "littledivy"
     },
     {
@@ -3105,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 847,
       "user": "oil-oil"
     },
     {
@@ -3135,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 449,
       "user": "lopopolo"
     },
     {
@@ -3150,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "pyang5166"
     },
     {
@@ -3165,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 789,
       "user": "nethical6"
     },
     {
@@ -3180,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "vshulcz"
     },
     {
@@ -3240,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1234,
       "user": "pixel-point"
     },
     {
@@ -3255,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 661,
       "user": "pablostanley"
     },
     {
@@ -3270,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 616,
       "user": "MatinSenPai"
     },
     {
@@ -3285,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "stackblitz"
     },
     {
@@ -3300,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "thesysdev"
     },
     {
@@ -3315,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19755,
+      "stars": 19809,
       "user": "xai-org"
     },
     {
@@ -3330,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1292,
       "user": "CluvexStudio"
     },
     {
@@ -3360,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "inbjo"
     },
     {
@@ -3379,16 +3363,19 @@
       "user": "m-novotny"
     },
     {
-      "title": "GitRoot",
-      "url": "https://gitroot.dev/",
-      "published_at": "2026-07-18T02:52:15.193-05:00",
+      "title": "Git email patch review addon for Thunderbird",
+      "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+      "published_at": "2026-07-19T09:02:59.178-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "vcs"
+        "email",
+        "show",
+        "vcs",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Hasnep"
+      "user": "mccd"
     },
     {
       "title": "Why can my VS Code extension client not find a local module?",
