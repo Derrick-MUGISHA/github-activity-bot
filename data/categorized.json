@@ -180,6 +180,21 @@
       "user": "xbill"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
       "published_at": "2026-07-13T13:36:03Z",
@@ -630,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1146,
       "user": "tandpfun"
     },
     {
@@ -645,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "Blueturboguy07"
     },
     {
@@ -660,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 320,
       "user": "erickong"
     },
     {
@@ -675,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 856,
       "user": "oil-oil"
     },
     {
@@ -705,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 430,
       "user": "hoainho"
     },
     {
@@ -720,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 814,
       "user": "nethical6"
     },
     {
@@ -765,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19929,
+      "stars": 19942,
       "user": "xai-org"
     },
     {
@@ -816,7 +831,7 @@
       "title": "Python tkinter wait_window does not return",
       "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
       "published_at": "2026-07-19T19:04:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "windows",
@@ -1159,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10264,
+      "stars": 10266,
       "user": "Fei-Away"
     },
     {
@@ -1174,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1146,
       "user": "tandpfun"
     },
     {
@@ -1204,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "Blueturboguy07"
     },
     {
@@ -1219,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 320,
       "user": "erickong"
     },
     {
@@ -1234,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 430,
       "user": "hoainho"
     },
     {
@@ -1264,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 712,
       "user": "pablostanley"
     },
     {
@@ -1847,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 856,
       "user": "oil-oil"
     },
     {
@@ -1862,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 536,
       "user": "lopopolo"
     },
     {
@@ -1892,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 430,
       "user": "hoainho"
     },
     {
@@ -1913,7 +1928,7 @@
       "title": "Python tkinter wait_window does not return",
       "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
       "published_at": "2026-07-19T19:04:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "windows",
@@ -2970,6 +2985,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3077,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10264,
+      "stars": 10266,
       "user": "Fei-Away"
     },
     {
@@ -3092,7 +3122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1146,
       "user": "tandpfun"
     },
     {
@@ -3122,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "Blueturboguy07"
     },
     {
@@ -3137,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 320,
       "user": "erickong"
     },
     {
@@ -3167,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 856,
       "user": "oil-oil"
     },
     {
@@ -3182,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 536,
       "user": "lopopolo"
     },
     {
@@ -3212,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 430,
       "user": "hoainho"
     },
     {
@@ -3227,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 814,
       "user": "nethical6"
     },
     {
@@ -3272,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "scion-frontiers"
     },
     {
@@ -3317,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 712,
       "user": "pablostanley"
     },
     {
@@ -3377,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19929,
+      "stars": 19942,
       "user": "xai-org"
     },
     {
@@ -3392,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "CluvexStudio"
     },
     {
@@ -3474,7 +3504,7 @@
       "title": "Python tkinter wait_window does not return",
       "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
       "published_at": "2026-07-19T19:04:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "windows",
