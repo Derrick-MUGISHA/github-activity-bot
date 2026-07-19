@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-      "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6",
-      "published_at": "2026-07-14T23:21:21Z",
-      "description": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...",
-      "tags": [
-        "agents",
-        "ai",
-        "news",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%213Be9%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
       "title": "DiffusionGemma: The Developer Guide",
       "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
       "published_at": "2026-07-16T14:27:09Z",
@@ -478,6 +463,21 @@
       "user": "Zach"
     },
     {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1152,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 610,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "erickong"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 453,
       "user": "hoainho"
     },
     {
@@ -735,23 +735,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 822,
       "user": "nethical6"
-    },
-    {
-      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "published_at": "2026-07-14T07:45:44Z",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "vshulcz"
     },
     {
       "title": "MatinSenPai/Aether-GUI - One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
@@ -765,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19974,
+      "stars": 19998,
       "user": "xai-org"
     },
     {
@@ -923,9 +908,9 @@
       "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "tags": [
         "AI",
-        "nonprofit",
+        "current ai",
         "large language models",
-        "current ai"
+        "nonprofit"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1042,21 +1027,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
-      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
-      "published_at": "2026-07-15T04:30:47Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "productivity",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
-      "source": "Dev.to",
-      "user": "Tahira Muhammad"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1190,7 +1160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10272,
+      "stars": 10274,
       "user": "Fei-Away"
     },
     {
@@ -1205,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1152,
       "user": "tandpfun"
     },
     {
@@ -1235,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 610,
       "user": "Blueturboguy07"
     },
     {
@@ -1250,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "erickong"
     },
     {
@@ -1265,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 453,
       "user": "hoainho"
     },
     {
@@ -1280,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1238,
       "user": "pixel-point"
     },
     {
@@ -1295,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 727,
       "user": "pablostanley"
     },
     {
@@ -1310,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "MatinSenPai"
     },
     {
@@ -1347,7 +1317,7 @@
       "title": "CSS adaptive to JS condition",
       "url": "https://stackoverflow.com/questions/79982037/css-adaptive-to-js-condition",
       "published_at": "2026-07-19T16:24:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "css",
@@ -1865,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1209,
       "user": "littledivy"
     },
     {
@@ -1895,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 569,
       "user": "lopopolo"
     },
     {
@@ -1925,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 453,
       "user": "hoainho"
     },
     {
@@ -2342,7 +2312,7 @@
       "title": "CSS adaptive to JS condition",
       "url": "https://stackoverflow.com/questions/79982037/css-adaptive-to-js-condition",
       "published_at": "2026-07-19T16:24:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "css",
@@ -2398,7 +2368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "ZethRise"
     },
     {
@@ -3035,21 +3005,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Squashing an Accidental Node.js Fork Bomb with Sentry",
-      "url": "https://dev.to/tahiram32/squashing-an-accidental-nodejs-fork-bomb-with-sentry-23jp",
-      "published_at": "2026-07-15T04:30:47Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "productivity",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fta6zrjey5dlm8ye1cbmu.png",
-      "source": "Dev.to",
-      "user": "Tahira Muhammad"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
       "published_at": "2026-06-25T15:07:57Z",
@@ -3063,6 +3018,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
+    },
+    {
+      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
+      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
+      "published_at": "2026-06-23T14:46:09Z",
+      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
+      "tags": [
+        "programming",
+        "go",
+        "opensource",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
+      "source": "Dev.to",
+      "user": "Inhere"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3112,7 +3097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10272,
+      "stars": 10274,
       "user": "Fei-Away"
     },
     {
@@ -3127,7 +3112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1152,
       "user": "tandpfun"
     },
     {
@@ -3157,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 610,
       "user": "Blueturboguy07"
     },
     {
@@ -3172,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "erickong"
     },
     {
@@ -3187,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34997667?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1209,
       "user": "littledivy"
     },
     {
@@ -3217,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 569,
       "user": "lopopolo"
     },
     {
@@ -3247,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 453,
       "user": "hoainho"
     },
     {
@@ -3262,14 +3247,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 822,
       "user": "nethical6"
     },
     {
-      "title": "vshulcz/deja-vu - Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "title": "vshulcz/deja-vu - Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
       "url": "https://github.com/vshulcz/deja-vu",
       "published_at": "2026-07-14T07:45:44Z",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
       "tags": [
         "go",
         "github",
@@ -3337,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29034027?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1238,
       "user": "pixel-point"
     },
     {
@@ -3352,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 727,
       "user": "pablostanley"
     },
     {
@@ -3367,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "MatinSenPai"
     },
     {
@@ -3412,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 19974,
+      "stars": 19998,
       "user": "xai-org"
     },
     {
@@ -3427,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1315,
       "user": "CluvexStudio"
     },
     {
@@ -3442,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "ZethRise"
     },
     {
