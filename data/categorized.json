@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1210,
       "user": "tandpfun"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "Blueturboguy07"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 947,
       "user": "hoainho"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 874,
       "user": "nethical6"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 660,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20741,
+      "stars": 20750,
       "user": "xai-org"
     },
     {
@@ -825,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "yc-duan"
     },
     {
@@ -871,6 +871,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "published_at": "2026-07-20T21:21:15.000Z",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "tags": [
+        "AI",
+        "Alphabet",
+        "Google",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published_at": "2026-07-20T20:50:40.000Z",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+      "tags": [
+        "AI",
+        "mcp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
@@ -982,20 +1010,19 @@
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Hackers stole &#8216;significant&#8217; amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-      "published_at": "2026-07-20T15:01:20.000Z",
-      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+      "title": "That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
+      "url": "https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
+      "published_at": "2026-07-20T16:59:02.000Z",
+      "description": "It's mid 2026, and the best frontier models out there still hallucinate. I want you to gain two things from reading this article: understanding that AI hallucinations are still real and possibly harmf",
       "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "healthcare"
+        "AI",
+        "llm",
+        "hallucinations",
+        "coding agents"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "freeCodeCamp",
+      "user": "Omer Rosenbaum"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -1194,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11050,
+      "stars": 11053,
       "user": "Fei-Away"
     },
     {
@@ -1209,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1210,
       "user": "tandpfun"
     },
     {
@@ -1224,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "Blueturboguy07"
     },
     {
@@ -1269,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 947,
       "user": "hoainho"
     },
     {
@@ -1284,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 857,
       "user": "pablostanley"
     },
     {
@@ -1299,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 660,
       "user": "MatinSenPai"
     },
     {
@@ -1314,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 499,
       "user": "stackblitz"
     },
     {
@@ -1358,6 +1385,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "borisk"
+    },
+    {
+      "title": "What is the best way to go to load google recaptcha after consent?",
+      "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "Could this fetch response still be cached by the browser?",
@@ -1478,20 +1521,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marco Demaio"
-    },
-    {
-      "title": "Is there a Python equivalent to template literals in JavaScript?",
-      "url": "https://stackoverflow.com/questions/63678723/is-there-a-python-equivalent-to-template-literals-in-javascript",
-      "published_at": "2020-08-31T21:58:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 47",
-      "tags": [
-        "javascript",
-        "python",
-        "template-literals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mikekoscinski"
     },
     {
       "title": "Wrap Text In JavaScript",
@@ -1842,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 947,
       "user": "hoainho"
     },
     {
@@ -1857,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 685,
       "user": "lopopolo"
     },
     {
@@ -1887,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 485,
       "user": "xiejunjie524"
     },
     {
@@ -1904,20 +1933,6 @@
       "source": "GitHub",
       "stars": 465,
       "user": "pyang5166"
-    },
-    {
-      "title": "Is there a Python equivalent to template literals in JavaScript?",
-      "url": "https://stackoverflow.com/questions/63678723/is-there-a-python-equivalent-to-template-literals-in-javascript",
-      "published_at": "2020-08-31T21:58:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 47",
-      "tags": [
-        "javascript",
-        "python",
-        "template-literals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mikekoscinski"
     },
     {
       "title": "How do I optimize python watchdog to reduce filtering logic",
@@ -1949,19 +1964,6 @@
       "user": "tutoto"
     },
     {
-      "title": "Linear regression optimisation with python",
-      "url": "https://stackoverflow.com/questions/79982251/linear-regression-optimisation-with-python",
-      "published_at": "2026-07-20T13:45:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "linear-regression"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "daniel sas"
-    },
-    {
       "title": "Pandas df.info() shows None in Streamlit while head() and shape work correctly",
       "url": "https://stackoverflow.com/questions/79982220/pandas-df-info-shows-none-in-streamlit-while-head-and-shape-work-correctly",
       "published_at": "2026-07-20T11:38:26.000Z",
@@ -1975,6 +1977,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SivaKrishna Makani"
+    },
+    {
+      "title": "Linear regression optimisation with python",
+      "url": "https://stackoverflow.com/questions/79982251/linear-regression-optimisation-with-python",
+      "published_at": "2026-07-20T13:45:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "linear-regression"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "daniel sas"
     },
     {
       "title": "Default Creation Date in PIL ImageCms",
@@ -2075,19 +2090,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Darsh Shah"
-    },
-    {
-      "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
-      "url": "https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/",
-      "published_at": "2026-07-16T11:39:24.000Z",
-      "description": "Have you been wanting to learn how to code but found it a bit too overwhelming or confusing? We just published a brand new course on the freeCodeCamp.org YouTube channel that is designed specifically",
-      "tags": [
-        "Python",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "DevOps": [
@@ -2885,6 +2887,19 @@
       "user": "iancarroll"
     },
     {
+      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published_at": "2026-07-20T20:50:40.000Z",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+      "tags": [
+        "AI",
+        "mcp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
       "published_at": "2026-07-20T13:50:42.000Z",
@@ -3035,6 +3050,22 @@
       "user": "2352500"
     },
     {
+      "title": "What is the best way to go to load google recaptcha after consent?",
+      "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
+    },
+    {
       "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
       "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
       "published_at": "2026-07-20T15:35:37.000Z",
@@ -3049,38 +3080,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Hackers stole &#8216;significant&#8217; amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-      "published_at": "2026-07-20T15:01:20.000Z",
-      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "healthcare"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-07-20T14:30:00.000Z",
-      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
-      "tags": [
-        "Startups",
-        "Security",
-        "Hardware",
-        "Flock",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
@@ -3238,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11050,
+      "stars": 11053,
       "user": "Fei-Away"
     },
     {
@@ -3253,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1210,
       "user": "tandpfun"
     },
     {
@@ -3268,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "Blueturboguy07"
     },
     {
@@ -3313,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 947,
       "user": "hoainho"
     },
     {
@@ -3328,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 685,
       "user": "lopopolo"
     },
     {
@@ -3358,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 485,
       "user": "xiejunjie524"
     },
     {
@@ -3388,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 874,
       "user": "nethical6"
     },
     {
@@ -3463,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 857,
       "user": "pablostanley"
     },
     {
@@ -3478,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 660,
       "user": "MatinSenPai"
     },
     {
@@ -3493,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 499,
       "user": "stackblitz"
     },
     {
@@ -3538,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20741,
+      "stars": 20750,
       "user": "xai-org"
     },
     {
@@ -3553,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1391,
       "user": "CluvexStudio"
     },
     {
@@ -3583,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "yc-duan"
     },
     {
@@ -3598,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 126,
       "user": "gakonst"
     },
     {
@@ -3625,6 +3624,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "klingtnet"
+    },
+    {
+      "title": "What is the best way to go to load google recaptcha after consent?",
+      "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "Why can my VS Code extension client not find a local module?",
@@ -3655,6 +3670,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published_at": "2026-07-20T20:50:40.000Z",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+      "tags": [
+        "AI",
+        "mcp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
