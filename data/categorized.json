@@ -76,6 +76,20 @@
       "user": "xbill"
     },
     {
+      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
+      "published_at": "2026-07-16T22:52:32Z",
+      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
+      "tags": [
+        "ai",
+        "career",
+        "design"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
+    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
       "published_at": "2026-07-15T06:50:10Z",
@@ -89,20 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
-      "published_at": "2026-07-16T22:52:32Z",
-      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "tags": [
-        "ai",
-        "career",
-        "design"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1197,
       "user": "tandpfun"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "Blueturboguy07"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 381,
       "user": "erickong"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "HeiGeAi"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 826,
       "user": "hoainho"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 862,
       "user": "nethical6"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 644,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20643,
+      "stars": 20694,
       "user": "xai-org"
     },
     {
@@ -825,21 +825,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 162,
       "user": "yc-duan"
     },
     {
-      "title": "email encryption",
-      "url": "https://computer.rip/2026-07-19-email-encryption.html",
-      "published_at": "2026-07-20T00:39:53.885-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
+      "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
+      "published_at": "2026-07-20T15:24:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "cryptography",
-        "email"
+        "python",
+        "apache",
+        "airflow"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "binjip978"
+      "source": "StackOverflow",
+      "user": "tutoto"
     },
     {
       "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
@@ -872,6 +873,21 @@
       "user": "maxpa1n87"
     },
     {
+      "title": "Adobe camera app&#8217;s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "published_at": "2026-07-20T15:45:00.000Z",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
+      "tags": [
+        "Apps",
+        "Adobe",
+        "iOS",
+        "camera"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "YouTube clarifies policies around AI slop and upsetting videos",
       "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
       "published_at": "2026-07-20T15:23:06.000Z",
@@ -887,7 +903,7 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
       "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
       "published_at": "2026-07-20T15:15:00.000Z",
       "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
@@ -946,36 +962,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "published_at": "2026-07-19T19:24:45.000Z",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "Apple",
-        "Equity podcast"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: The battle over robotaxi rules",
-      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-      "published_at": "2026-07-19T16:05:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "tags": [
-        "Transportation",
-        "Waymo",
-        "techcrunch mobility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -1174,7 +1160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11013,
+      "stars": 11036,
       "user": "Fei-Away"
     },
     {
@@ -1189,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1197,
       "user": "tandpfun"
     },
     {
@@ -1204,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "Blueturboguy07"
     },
     {
@@ -1219,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 381,
       "user": "erickong"
     },
     {
@@ -1234,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "HeiGeAi"
     },
     {
@@ -1249,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 826,
       "user": "hoainho"
     },
     {
@@ -1264,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 846,
       "user": "pablostanley"
     },
     {
@@ -1279,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 644,
       "user": "MatinSenPai"
     },
     {
@@ -1294,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 485,
       "user": "stackblitz"
     },
     {
@@ -1309,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 288,
       "user": "thesysdev"
     },
     {
@@ -1489,6 +1475,22 @@
       "user": "ninja.coder"
     },
     {
+      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+      "published_at": "2026-07-20T13:50:42.000Z",
+      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+      "tags": [
+        "JavaScript",
+        "Security",
+        "Devops",
+        "Azure",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
+    },
+    {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
       "published_at": "2026-07-17T20:34:10.000Z",
@@ -1567,33 +1569,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
-      "url": "https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/",
-      "published_at": "2026-07-16T11:35:18.000Z",
-      "description": "Are you ready to unlock the true rendering power of your computer and create breathtaking visuals? We just published a new course on the freeCodeCamp.org YouTube channel that will teach you the fundam",
-      "tags": [
-        "p5.js",
-        "JavaScript",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "Master Full-Stack Mobile Development with React Native",
-      "url": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
-      "published_at": "2026-07-16T11:32:57.000Z",
-      "description": "Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build",
-      "tags": [
-        "React Native",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Python": [
@@ -1849,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 826,
       "user": "hoainho"
     },
     {
@@ -1864,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 638,
       "user": "lopopolo"
     },
     {
@@ -1894,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 478,
       "user": "xiejunjie524"
     },
     {
@@ -1909,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "pyang5166"
     },
     {
@@ -1927,10 +1902,24 @@
       "user": "mikekoscinski"
     },
     {
+      "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
+      "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
+      "published_at": "2026-07-20T15:24:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "apache",
+        "airflow"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tutoto"
+    },
+    {
       "title": "Linear regression optimisation with python",
       "url": "https://stackoverflow.com/questions/79982251/linear-regression-optimisation-with-python",
       "published_at": "2026-07-20T13:45:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "linear-regression"
@@ -2051,19 +2040,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alisa"
-    },
-    {
-      "title": "why is math.exp(2) has different value of e^2 than math.pow(math.e, 2) and math.e**2",
-      "url": "https://stackoverflow.com/questions/79981986/why-is-math-exp2-has-different-value-of-e2-than-math-powmath-e-2-and-math",
-      "published_at": "2026-07-19T09:50:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "eulers-number"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "von Hegel"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2273,8 +2249,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "inbjo"
+    },
+    {
+      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+      "published_at": "2026-07-20T13:50:42.000Z",
+      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+      "tags": [
+        "JavaScript",
+        "Security",
+        "Devops",
+        "Azure",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
@@ -2401,6 +2393,21 @@
       "user": "AlexCharonix"
     },
     {
+      "title": "Adobe camera app&#8217;s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "published_at": "2026-07-20T15:45:00.000Z",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
+      "tags": [
+        "Apps",
+        "Adobe",
+        "iOS",
+        "camera"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
       "url": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
       "published_at": "2026-07-17T16:51:58.000Z",
@@ -2431,19 +2438,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Master Full-Stack Mobile Development with React Native",
-      "url": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
-      "published_at": "2026-07-16T11:32:57.000Z",
-      "description": "Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build",
-      "tags": [
-        "React Native",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Cloud": [
@@ -2717,20 +2711,51 @@
       "user": "xbill"
     },
     {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "published_at": "2026-07-19T19:24:45.000Z",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "published_at": "2026-07-20T15:35:37.000Z",
+      "description": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
       "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "Apple",
-        "Equity podcast"
+        "Security",
+        "bugs",
+        "cybersecurity",
+        "hackers",
+        "hacking"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "From Manufacturing to Microservices: Universal Lessons About Reliability",
+      "url": "https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/",
+      "published_at": "2026-07-20T13:53:02.000Z",
+      "description": "Software engineers often think reliability is a modern challenge. We discuss uptime, distributed systems, observability, and fault tolerance as if they belong exclusively to cloud computing. In realit",
+      "tags": [
+        "Microservices",
+        "Software Engineering",
+        "Reliability",
+        "#manufacturing"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+      "published_at": "2026-07-20T13:50:42.000Z",
+      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+      "tags": [
+        "JavaScript",
+        "Security",
+        "Devops",
+        "Azure",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
@@ -2776,6 +2801,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+      "published_at": "2026-07-20T13:50:42.000Z",
+      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+      "tags": [
+        "JavaScript",
+        "Security",
+        "Devops",
+        "Azure",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     }
   ],
   "Security": [
@@ -2912,17 +2953,33 @@
       "user": "2352500"
     },
     {
-      "title": "email encryption",
-      "url": "https://computer.rip/2026-07-19-email-encryption.html",
-      "published_at": "2026-07-20T00:39:53.885-05:00",
+      "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+      "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+      "published_at": "2026-07-20T09:33:55.311-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "cryptography",
-        "email"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "binjip978"
+      "user": "afogel"
+    },
+    {
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "published_at": "2026-07-20T15:35:37.000Z",
+      "description": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+      "tags": [
+        "Security",
+        "bugs",
+        "cybersecurity",
+        "hackers",
+        "hacking"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Hackers stole &#8216;significant&#8217; amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
@@ -2971,6 +3028,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+      "published_at": "2026-07-20T13:50:42.000Z",
+      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+      "tags": [
+        "JavaScript",
+        "Security",
+        "Devops",
+        "Azure",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     }
   ],
   "Tools": [
@@ -3127,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11013,
+      "stars": 11036,
       "user": "Fei-Away"
     },
     {
@@ -3142,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1197,
       "user": "tandpfun"
     },
     {
@@ -3157,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "Blueturboguy07"
     },
     {
@@ -3172,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 381,
       "user": "erickong"
     },
     {
@@ -3187,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "HeiGeAi"
     },
     {
@@ -3202,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 826,
       "user": "hoainho"
     },
     {
@@ -3217,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 638,
       "user": "lopopolo"
     },
     {
@@ -3247,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 478,
       "user": "xiejunjie524"
     },
     {
@@ -3262,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "pyang5166"
     },
     {
@@ -3277,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 862,
       "user": "nethical6"
     },
     {
@@ -3292,8 +3365,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "vshulcz"
+    },
+    {
+      "title": "paxlabs-inc/machine-genome - Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "url": "https://github.com/paxlabs-inc/machine-genome",
+      "published_at": "2026-07-20T12:41:33Z",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
+      "source": "GitHub",
+      "stars": 207,
+      "user": "paxlabs-inc"
     },
     {
       "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
@@ -3326,21 +3414,6 @@
       "user": "scion-frontiers"
     },
     {
-      "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
-      "url": "https://github.com/iluvx/go-tg-api",
-      "published_at": "2026-07-18T05:13:20Z",
-      "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175501983?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "iluvx"
-    },
-    {
       "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
       "url": "https://github.com/pablostanley/yoinks",
       "published_at": "2026-07-16T07:06:09Z",
@@ -3352,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 846,
       "user": "pablostanley"
     },
     {
@@ -3367,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 644,
       "user": "MatinSenPai"
     },
     {
@@ -3382,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 485,
       "user": "stackblitz"
     },
     {
@@ -3397,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 288,
       "user": "thesysdev"
     },
     {
@@ -3427,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20643,
+      "stars": 20694,
       "user": "xai-org"
     },
     {
@@ -3442,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1377,
       "user": "CluvexStudio"
     },
     {
@@ -3457,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "inbjo"
     },
     {
@@ -3472,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 162,
       "user": "yc-duan"
     },
     {
@@ -3487,20 +3560,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "gakonst"
-    },
-    {
-      "title": "Minimal Git CI using hooks",
-      "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-      "published_at": "2026-07-20T03:28:45.648-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "klingtnet"
     },
     {
       "title": "Gitolite",
@@ -3514,6 +3575,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "matklad"
+    },
+    {
+      "title": "Minimal Git CI using hooks",
+      "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+      "published_at": "2026-07-20T03:28:45.648-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "klingtnet"
     },
     {
       "title": "Why can my VS Code extension client not find a local module?",
@@ -3544,6 +3617,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
+      "published_at": "2026-07-20T13:50:42.000Z",
+      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
+      "tags": [
+        "JavaScript",
+        "Security",
+        "Devops",
+        "Azure",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
