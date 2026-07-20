@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--20-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-20 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-20 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 | 20 | [What is an "agentic harness," actually?](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie) | Dev.to |
 
-<sub>Last fetched: Mon, 20 Jul 2026 21:04:14 CAT</sub>
+<sub>Last fetched: Mon, 20 Jul 2026 22:40:34 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the longest substring without repeating characters**
+**1. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Token bucket, sliding window, Redis
 
 </details>
 
-**2. `Python` — Explain decorators in Python with an example**
+**2. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Hash function, database design, caching, analytics
 
 </details>
 
-**3. `DataStructures` — Implement LRU Cache**
+**3. `JavaScript` — Implement a debounce function from scratch**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 70 | 38.0% | `████████████████████` |
-| **Tools** | 41 | 22.3% | `████████████░░░░░░░░` |
+| **AI** | 72 | 39.1% | `████████████████████` |
+| **Tools** | 41 | 22.3% | `███████████░░░░░░░░░` |
 | **JavaScript** | 39 | 21.2% | `███████████░░░░░░░░░` |
 | **Python** | 35 | 19.0% | `██████████░░░░░░░░░░` |
-| **Cloud** | 23 | 12.5% | `███████░░░░░░░░░░░░░` |
-| **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
+| **DevOps** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,11 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.4%
-Go              ███████████████████████████ 23.6%
-Python          ███████████████████████████ 23.6%
-Java            █████████████████████ 18.9%
-Rust            ████████ 6.8%
+JavaScript      ██████████████████████████████ 26.2%
+Go              ███████████████████████████ 23.5%
+Python          ███████████████████████████ 23.5%
+Java            ██████████████████████ 18.8%
+Rust            ████████ 6.7%
+Kotlin          █ 0.7%
 Swift           █ 0.7%
 
 ```
@@ -210,13 +211,14 @@ pie title Programming Languages Distribution
     "Python" : 35
     "Java" : 28
     "Rust" : 10
+    "Kotlin" : 1
     "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-34-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-34-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 20 Jul 2026 19:04:14 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 20 Jul 2026 20:40:34 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
