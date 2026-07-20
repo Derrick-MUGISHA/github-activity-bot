@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1213,
       "user": "tandpfun"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "Blueturboguy07"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "erickong"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 960,
       "user": "hoainho"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 875,
       "user": "nethical6"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 664,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20750,
+      "stars": 20761,
       "user": "xai-org"
     },
     {
@@ -873,6 +873,21 @@
       "user": "maxpa1n87"
     },
     {
+      "title": "Trump&#8217;s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "published_at": "2026-07-20T22:21:04.000Z",
+      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "TC",
+        "ai czar"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
       "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
       "published_at": "2026-07-20T21:21:15.000Z",
@@ -891,7 +906,7 @@
       "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
       "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
       "published_at": "2026-07-20T20:50:40.000Z",
-      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
       "tags": [
         "AI",
         "mcp"
@@ -994,20 +1009,20 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "published_at": "2026-07-20T15:15:00.000Z",
-      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
+      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
+      "published_at": "2026-07-20T21:27:11.000Z",
+      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
       "tags": [
-        "Startups",
-        "Venture",
-        "chips",
-        "infinity",
-        "nvidia"
+        "software development",
+        "AI",
+        "macOS",
+        "React",
+        "Swift"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "source": "freeCodeCamp",
+      "user": "Balogun Wahab"
     },
     {
       "title": "That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
@@ -1039,38 +1054,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Darsh Shah"
-    },
-    {
-      "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
-      "url": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
-      "published_at": "2026-07-17T16:51:58.000Z",
-      "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
-      "tags": [
-        "AI",
-        "Machine Learning",
-        "nlp",
-        "React Native",
-        "Mobile Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jibril-M🍀"
-    },
-    {
-      "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
-      "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
-      "published_at": "2026-07-16T22:20:44.000Z",
-      "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
-      "tags": [
-        "#Domain-Driven-Design",
-        "Dart",
-        "Mobile Development",
-        "Flutter",
-        "Observer Pattern"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "JavaScript": [
@@ -1221,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11053,
+      "stars": 11055,
       "user": "Fei-Away"
     },
     {
@@ -1236,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1213,
       "user": "tandpfun"
     },
     {
@@ -1251,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "Blueturboguy07"
     },
     {
@@ -1266,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "erickong"
     },
     {
@@ -1296,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 960,
       "user": "hoainho"
     },
     {
@@ -1326,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 664,
       "user": "MatinSenPai"
     },
     {
@@ -1356,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "thesysdev"
     },
     {
@@ -1385,6 +1368,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "borisk"
+    },
+    {
+      "title": "How to extract text from .doc/.ppt/.xls format on client side?",
+      "url": "https://stackoverflow.com/questions/79982360/how-to-extract-text-from-doc-ppt-xls-format-on-client-side",
+      "published_at": "2026-07-20T21:31:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Huzaifa mumtaz"
     },
     {
       "title": "What is the best way to go to load google recaptcha after consent?",
@@ -1523,18 +1519,52 @@
       "user": "Marco Demaio"
     },
     {
-      "title": "Wrap Text In JavaScript",
-      "url": "https://stackoverflow.com/questions/14484787/wrap-text-in-javascript",
-      "published_at": "2013-01-23T16:41:27.000Z",
-      "description": "Stack Overflow question · 15 answers · score 42",
+      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
+      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
+      "published_at": "2026-07-20T21:27:11.000Z",
+      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
       "tags": [
-        "javascript",
-        "jquery",
-        "word-wrap"
+        "software development",
+        "AI",
+        "macOS",
+        "React",
+        "Swift"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ninja.coder"
+      "source": "freeCodeCamp",
+      "user": "Balogun Wahab"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
+      "published_at": "2026-07-20T20:47:13.000Z",
+      "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "Hashnode"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
+      "published_at": "2026-07-20T20:46:12.000Z",
+      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
+      "tags": [
+        "Node.js",
+        "api",
+        "PostgreSQL",
+        "Security",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
@@ -1567,70 +1597,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "jabo Landry"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
-      "published_at": "2026-07-17T20:33:11.000Z",
-      "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "pdf tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
-      "url": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
-      "published_at": "2026-07-17T16:51:58.000Z",
-      "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
-      "tags": [
-        "AI",
-        "Machine Learning",
-        "nlp",
-        "React Native",
-        "Mobile Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jibril-M🍀"
-    },
-    {
-      "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
-      "url": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
-      "published_at": "2026-07-16T22:56:30.000Z",
-      "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
-      "tags": [
-        "Microservices",
-        "PayPal",
-        "payments",
-        "nestjs",
-        "Docker"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Md Tarikul Islam"
-    },
-    {
-      "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
-      "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
-      "published_at": "2026-07-16T22:20:44.000Z",
-      "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
-      "tags": [
-        "#Domain-Driven-Design",
-        "Dart",
-        "Mobile Development",
-        "Flutter",
-        "Observer Pattern"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Python": [
@@ -1871,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 960,
       "user": "hoainho"
     },
     {
@@ -1886,8 +1852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 699,
       "user": "lopopolo"
+    },
+    {
+      "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "published_at": "2026-07-18T06:51:05Z",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
+      "source": "GitHub",
+      "stars": 487,
+      "user": "xiejunjie524"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -1905,21 +1886,6 @@
       "user": "EthanXiang777"
     },
     {
-      "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-      "url": "https://github.com/xiejunjie524/handdraw-story-video",
-      "published_at": "2026-07-18T06:51:05Z",
-      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
-      "source": "GitHub",
-      "stars": 485,
-      "user": "xiejunjie524"
-    },
-    {
       "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
       "url": "https://github.com/pyang5166/gbro-collage-broll",
       "published_at": "2026-07-15T12:45:47Z",
@@ -1931,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "pyang5166"
     },
     {
@@ -2318,38 +2284,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
-      "published_at": "2026-07-17T20:31:41.000Z",
-      "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
-      "tags": [
-        "Platform Engineering",
-        "Devops",
-        "Kubernetes",
-        "gitops",
-        "Cloud Computing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
-    },
-    {
-      "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
-      "url": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
-      "published_at": "2026-07-16T22:56:30.000Z",
-      "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
-      "tags": [
-        "Microservices",
-        "PayPal",
-        "payments",
-        "nestjs",
-        "Docker"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Md Tarikul Islam"
     }
   ],
   "WebDev": [
@@ -2396,6 +2330,38 @@
       "user": "IscaMan"
     },
     {
+      "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
+      "published_at": "2026-07-20T20:47:13.000Z",
+      "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "Hashnode"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
+      "published_at": "2026-07-20T20:46:12.000Z",
+      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
+      "tags": [
+        "Node.js",
+        "api",
+        "PostgreSQL",
+        "Security",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
+    },
+    {
       "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
       "published_at": "2026-07-17T20:34:10.000Z",
@@ -2410,22 +2376,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "jabo Landry"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
-      "published_at": "2026-07-17T20:33:11.000Z",
-      "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "pdf tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2476,36 +2426,20 @@
       "user": "Ivan Mehta"
     },
     {
-      "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
-      "url": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
-      "published_at": "2026-07-17T16:51:58.000Z",
-      "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
+      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
+      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
+      "published_at": "2026-07-20T21:27:11.000Z",
+      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
       "tags": [
+        "software development",
         "AI",
-        "Machine Learning",
-        "nlp",
-        "React Native",
-        "Mobile Development"
+        "macOS",
+        "React",
+        "Swift"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Jibril-M🍀"
-    },
-    {
-      "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
-      "url": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
-      "published_at": "2026-07-16T22:20:44.000Z",
-      "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
-      "tags": [
-        "#Domain-Driven-Design",
-        "Dart",
-        "Mobile Development",
-        "Flutter",
-        "Observer Pattern"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
+      "user": "Balogun Wahab"
     }
   ],
   "Cloud": [
@@ -2811,6 +2745,22 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
+      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
+      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
+      "published_at": "2026-07-20T21:27:11.000Z",
+      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
+      "tags": [
+        "software development",
+        "AI",
+        "macOS",
+        "React",
+        "Swift"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Balogun Wahab"
+    },
+    {
       "title": "From Manufacturing to Microservices: Universal Lessons About Reliability",
       "url": "https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/",
       "published_at": "2026-07-20T13:53:02.000Z",
@@ -2840,22 +2790,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
-      "published_at": "2026-07-17T20:31:41.000Z",
-      "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
-      "tags": [
-        "Platform Engineering",
-        "Devops",
-        "Kubernetes",
-        "gitops",
-        "Cloud Computing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
     }
   ],
   "Database": [
@@ -2887,17 +2821,36 @@
       "user": "iancarroll"
     },
     {
-      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "published_at": "2026-07-20T20:50:40.000Z",
-      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+      "title": "How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies",
+      "url": "https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/",
+      "published_at": "2026-07-20T20:49:29.000Z",
+      "description": "In this article, you'll learn how to optimize SQL Server performance using T-SQL query tuning, indexing strategies, execution plans, and real-world optimization techniques for enterprise applications.",
       "tags": [
-        "AI",
-        "mcp"
+        "SQL Query Performance",
+        "Enterprise T-SQL",
+        "SQL Query Tuning",
+        "Query Performance",
+        "SQL Performance Tuning"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "source": "freeCodeCamp",
+      "user": "Gopinath Karunanithi"
+    },
+    {
+      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
+      "published_at": "2026-07-20T20:46:12.000Z",
+      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
+      "tags": [
+        "Node.js",
+        "api",
+        "PostgreSQL",
+        "Security",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
@@ -3082,6 +3035,22 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
+      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
+      "published_at": "2026-07-20T20:46:12.000Z",
+      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
+      "tags": [
+        "Node.js",
+        "api",
+        "PostgreSQL",
+        "Security",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
+    },
+    {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
       "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
       "published_at": "2026-07-20T13:50:42.000Z",
@@ -3237,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11053,
+      "stars": 11055,
       "user": "Fei-Away"
     },
     {
@@ -3252,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1213,
       "user": "tandpfun"
     },
     {
@@ -3267,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 657,
       "user": "Blueturboguy07"
     },
     {
@@ -3282,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "erickong"
     },
     {
@@ -3312,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 960,
       "user": "hoainho"
     },
     {
@@ -3327,8 +3296,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 699,
       "user": "lopopolo"
+    },
+    {
+      "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "published_at": "2026-07-18T06:51:05Z",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
+      "source": "GitHub",
+      "stars": 487,
+      "user": "xiejunjie524"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -3346,21 +3330,6 @@
       "user": "EthanXiang777"
     },
     {
-      "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-      "url": "https://github.com/xiejunjie524/handdraw-story-video",
-      "published_at": "2026-07-18T06:51:05Z",
-      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
-      "source": "GitHub",
-      "stars": 485,
-      "user": "xiejunjie524"
-    },
-    {
       "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
       "url": "https://github.com/pyang5166/gbro-collage-broll",
       "published_at": "2026-07-15T12:45:47Z",
@@ -3372,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "pyang5166"
     },
     {
@@ -3387,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 875,
       "user": "nethical6"
     },
     {
@@ -3402,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "vshulcz"
     },
     {
@@ -3417,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "paxlabs-inc"
     },
     {
@@ -3477,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 664,
       "user": "MatinSenPai"
     },
     {
@@ -3507,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "thesysdev"
     },
     {
@@ -3537,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20750,
+      "stars": 20761,
       "user": "xai-org"
     },
     {
@@ -3552,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1393,
       "user": "CluvexStudio"
     },
     {
@@ -3586,19 +3555,19 @@
       "user": "yc-duan"
     },
     {
-      "title": "gakonst/nanocodex - Blazing-fast, minimal, library-first reimplementation of Codex",
-      "url": "https://github.com/gakonst/nanocodex",
-      "published_at": "2026-07-15T22:46:14Z",
-      "description": "Blazing-fast, minimal, library-first reimplementation of Codex",
+      "title": "mesamirh/MovieBox-Tui - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "published_at": "2026-07-16T07:09:47Z",
+      "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 126,
-      "user": "gakonst"
+      "stars": 133,
+      "user": "mesamirh"
     },
     {
       "title": "Gitolite",
@@ -3624,6 +3593,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "klingtnet"
+    },
+    {
+      "title": "How to extract text from .doc/.ppt/.xls format on client side?",
+      "url": "https://stackoverflow.com/questions/79982360/how-to-extract-text-from-doc-ppt-xls-format-on-client-side",
+      "published_at": "2026-07-20T21:31:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Huzaifa mumtaz"
     },
     {
       "title": "What is the best way to go to load google recaptcha after consent?",
@@ -3672,17 +3654,36 @@
       "user": "maxpa1n87"
     },
     {
-      "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "published_at": "2026-07-20T20:50:40.000Z",
-      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+      "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
+      "published_at": "2026-07-20T20:47:13.000Z",
+      "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
       "tags": [
-        "AI",
-        "mcp"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Tutorial",
+        "Hashnode"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
+      "published_at": "2026-07-20T20:46:12.000Z",
+      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
+      "tags": [
+        "Node.js",
+        "api",
+        "PostgreSQL",
+        "Security",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
@@ -3699,38 +3700,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
-      "published_at": "2026-07-17T20:33:11.000Z",
-      "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "pdf tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
-      "published_at": "2026-07-17T20:31:41.000Z",
-      "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
-      "tags": [
-        "Platform Engineering",
-        "Devops",
-        "Kubernetes",
-        "gitops",
-        "Cloud Computing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
     }
   ]
 }
