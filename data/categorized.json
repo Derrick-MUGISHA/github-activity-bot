@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
+      "published_at": "2026-07-20T14:05:39Z",
+      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "tags": [
+        "discuss",
+        "management",
+        "codequality",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "published_at": "2026-07-20T09:55:58Z",
+      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
+    },
+    {
       "title": "DiffusionGemma: The Developer Guide",
       "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
       "published_at": "2026-07-16T14:27:09Z",
@@ -120,6 +150,21 @@
       "user": "Sean Boult"
     },
     {
+      "title": "Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG",
+      "url": "https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606",
+      "published_at": "2026-07-19T06:04:17Z",
+      "description": "Abstract   This article introduces Robust-GAP, a hierarchical Retrieval-Augmented...",
+      "tags": [
+        "ai",
+        "antigravity",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm3du9uxgsk71qsk0vgyp.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "The Myth of the Post-Documentation Era",
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
       "published_at": "2026-07-13T15:59:11Z",
@@ -148,21 +193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png",
       "source": "Dev.to",
       "user": "Sidhant Panda"
-    },
-    {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "published_at": "2026-07-15T18:56:45Z",
-      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "tags": [
-        "bugsmash",
-        "debugging",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
@@ -266,6 +296,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "RES, my personal safeguard against AI",
+      "url": "https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8",
+      "published_at": "2026-07-16T21:17:26Z",
+      "description": "The Problem   The more I use AI in my daily life, the longer my conversations get. And the...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbladnlcuy68md6gq3nqo.png",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -463,21 +508,6 @@
       "user": "Zach"
     },
     {
-      "title": "I Am Fired Up Again",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
-      "published_at": "2026-06-23T13:29:11Z",
-      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
-      "tags": [
-        "career",
-        "motivation",
-        "productivity",
-        "life"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -645,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1193,
       "user": "tandpfun"
     },
     {
@@ -660,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 646,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 379,
       "user": "erickong"
     },
     {
@@ -690,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "HeiGeAi"
     },
     {
@@ -705,12 +735,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 788,
       "user": "hoainho"
     },
     {
-      "title": "PengZhang64/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/PengZhang64/circuit-framework",
+      "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
       "published_at": "2026-07-16T15:02:10Z",
       "description": "Circuit Framework — multi-agent LLM trading research system",
       "tags": [
@@ -721,7 +751,7 @@
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
       "stars": 486,
-      "user": "PengZhang64"
+      "user": "EthanXiang777"
     },
     {
       "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
@@ -735,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 857,
       "user": "nethical6"
     },
     {
@@ -750,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "MatinSenPai"
     },
     {
@@ -780,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20579,
+      "stars": 20643,
       "user": "xai-org"
     },
     {
@@ -795,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 153,
       "user": "yc-duan"
     },
     {
@@ -812,25 +842,10 @@
       "user": "binjip978"
     },
     {
-      "title": "any opinion on use AI for vibe coding as a newbie",
-      "url": "https://stackoverflow.com/questions/79850003/any-opinion-on-use-ai-for-vibe-coding-as-a-newbie",
-      "published_at": "2025-12-18T04:02:46.000Z",
-      "description": "Stack Overflow question · 14 answers · score 4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "typescript",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vishal M"
-    },
-    {
       "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
       "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
       "published_at": "2026-07-20T08:07:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "python-3.x",
@@ -855,6 +870,52 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "published_at": "2026-07-20T15:23:06.000Z",
+      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "tags": [
+        "AI",
+        "Social",
+        "inauthentic activity",
+        "YouTube"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "published_at": "2026-07-20T15:15:00.000Z",
+      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "chips",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Hackers stole &#8216;significant&#8217; amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "published_at": "2026-07-20T15:01:20.000Z",
+      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "healthcare"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
@@ -890,13 +951,13 @@
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "published_at": "2026-07-19T19:24:45.000Z",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "tags": [
         "AI",
         "Gadgets",
         "Hardware",
         "Apple",
-        "OpenAI"
+        "Equity podcast"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -915,52 +976,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "published_at": "2026-07-19T14:52:08.000Z",
-      "description": "\"Everybody knows the Greeks are inside.\"",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "christopher nolan",
-        "The Odyssey"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "published_at": "2026-07-19T14:00:00.000Z",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "tags": [
-        "AI",
-        "current ai",
-        "large language models",
-        "nonprofit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "published_at": "2026-07-18T18:51:07.000Z",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "david sacks",
-        "dean ball",
-        "kimi"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -1159,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10974,
+      "stars": 11013,
       "user": "Fei-Away"
     },
     {
@@ -1174,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1193,
       "user": "tandpfun"
     },
     {
@@ -1189,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 646,
       "user": "Blueturboguy07"
     },
     {
@@ -1204,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 379,
       "user": "erickong"
     },
     {
@@ -1219,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "HeiGeAi"
     },
     {
@@ -1234,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 788,
       "user": "hoainho"
     },
     {
@@ -1249,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 836,
       "user": "pablostanley"
     },
     {
@@ -1264,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "MatinSenPai"
     },
     {
@@ -1279,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 482,
       "user": "stackblitz"
     },
     {
@@ -1294,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "thesysdev"
     },
     {
@@ -1384,34 +1399,35 @@
       "user": "AlexCharonix"
     },
     {
-      "title": "Getting image from external endpoint in Node and passing to React",
-      "url": "https://stackoverflow.com/questions/79970309/getting-image-from-external-endpoint-in-node-and-passing-to-react",
-      "published_at": "2026-06-29T12:19:17.000Z",
+      "title": "Add controlling properties to make drag and drop experience smoother",
+      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
+      "published_at": "2026-07-14T19:35:53.000Z",
       "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "node.js",
-        "image",
-        "base64"
+        "jquery",
+        "draggable",
+        "droppable"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Paddy Hallihan"
+      "user": "stonypaul"
     },
     {
-      "title": "any opinion on use AI for vibe coding as a newbie",
-      "url": "https://stackoverflow.com/questions/79850003/any-opinion-on-use-ai-for-vibe-coding-as-a-newbie",
-      "published_at": "2025-12-18T04:02:46.000Z",
-      "description": "Stack Overflow question · 14 answers · score 4",
+      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
+      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
+      "published_at": "2026-06-14T22:38:15.000Z",
+      "description": "Stack Overflow question · 8 answers · score 0",
       "tags": [
         "javascript",
-        "node.js",
-        "typescript",
-        "next.js"
+        "constructor",
+        "prototype",
+        "ecmascript-5",
+        "ecmascript-3"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Vishal M"
+      "user": "krabat1"
     },
     {
       "title": "504 (Outdated Optimize Dep) while using react-vite",
@@ -1582,6 +1598,21 @@
   ],
   "Python": [
     {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "published_at": "2026-07-20T09:55:58Z",
+      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
+    },
+    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -1623,21 +1654,6 @@
         "antigravitycli"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "published_at": "2026-07-15T18:56:45Z",
-      "description": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "tags": [
-        "bugsmash",
-        "debugging",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For2tqjyirncvfbzgnli9.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1833,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 788,
       "user": "hoainho"
     },
     {
@@ -1848,12 +1864,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 634,
       "user": "lopopolo"
     },
     {
-      "title": "PengZhang64/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/PengZhang64/circuit-framework",
+      "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
       "published_at": "2026-07-16T15:02:10Z",
       "description": "Circuit Framework — multi-agent LLM trading research system",
       "tags": [
@@ -1864,7 +1880,7 @@
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
       "stars": 486,
-      "user": "PengZhang64"
+      "user": "EthanXiang777"
     },
     {
       "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
@@ -1878,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 471,
       "user": "xiejunjie524"
     },
     {
@@ -1893,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 461,
       "user": "pyang5166"
     },
     {
@@ -1909,6 +1925,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mikekoscinski"
+    },
+    {
+      "title": "Linear regression optimisation with python",
+      "url": "https://stackoverflow.com/questions/79982251/linear-regression-optimisation-with-python",
+      "published_at": "2026-07-20T13:45:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "linear-regression"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "daniel sas"
     },
     {
       "title": "Pandas df.info() shows None in Streamlit while head() and shape work correctly",
@@ -1942,7 +1971,7 @@
       "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
       "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
       "published_at": "2026-07-20T08:07:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "python-3.x",
@@ -2035,21 +2064,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "von Hegel"
-    },
-    {
-      "title": "Why does NVIDIA LocateAnything-3B only produce valid output with torch==2.7.0 + transformers==4.57.1",
-      "url": "https://stackoverflow.com/questions/79981714/why-does-nvidia-locateanything-3b-only-produce-valid-output-with-torch-2-7-0",
-      "published_at": "2026-07-17T21:36:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "pytorch",
-        "huggingface-transformers",
-        "backwards-compatibility"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ShoutOutAndCalculate"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2259,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "inbjo"
     },
     {
@@ -2433,6 +2447,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "published_at": "2026-07-20T09:55:58Z",
+      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
+    },
     {
       "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
       "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5",
@@ -2688,31 +2717,16 @@
       "user": "xbill"
     },
     {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
-      "published_at": "2026-06-30T01:18:13Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "gemma",
-        "tpu",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "published_at": "2026-07-19T19:24:45.000Z",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "tags": [
         "AI",
         "Gadgets",
         "Hardware",
         "Apple",
-        "OpenAI"
+        "Equity podcast"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2911,6 +2925,38 @@
       "user": "binjip978"
     },
     {
+      "title": "Hackers stole &#8216;significant&#8217; amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "published_at": "2026-07-20T15:01:20.000Z",
+      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "healthcare"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-07-20T14:30:00.000Z",
+      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+      "tags": [
+        "Startups",
+        "Security",
+        "Hardware",
+        "Flock",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
       "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
       "published_at": "2026-07-20T12:39:28.000Z",
@@ -2989,6 +3035,21 @@
       "user": "Web Developer Hyper"
     },
     {
+      "title": "RES, my personal safeguard against AI",
+      "url": "https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8",
+      "published_at": "2026-07-16T21:17:26Z",
+      "description": "The Problem   The more I use AI in my daily life, the longer my conversations get. And the...",
+      "tags": [
+        "ai",
+        "productivity",
+        "beginners",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbladnlcuy68md6gq3nqo.png",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
+    },
+    {
       "title": "A lot of good points here https://antirez.com/news/169",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
       "published_at": "2026-07-13T15:17:02Z",
@@ -3017,36 +3078,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
       "source": "Dev.to",
       "user": "Kate Pond"
-    },
-    {
-      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
-      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
-      "published_at": "2026-06-23T14:46:09Z",
-      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
-      "tags": [
-        "programming",
-        "go",
-        "opensource",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
-      "source": "Dev.to",
-      "user": "Inhere"
-    },
-    {
-      "title": "I Am Fired Up Again",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
-      "published_at": "2026-06-23T13:29:11Z",
-      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
-      "tags": [
-        "career",
-        "motivation",
-        "productivity",
-        "life"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3096,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 10974,
+      "stars": 11013,
       "user": "Fei-Away"
     },
     {
@@ -3111,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1193,
       "user": "tandpfun"
     },
     {
@@ -3126,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 646,
       "user": "Blueturboguy07"
     },
     {
@@ -3141,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1572768?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 379,
       "user": "erickong"
     },
     {
@@ -3156,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "HeiGeAi"
     },
     {
@@ -3171,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 788,
       "user": "hoainho"
     },
     {
@@ -3186,12 +3217,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 634,
       "user": "lopopolo"
     },
     {
-      "title": "PengZhang64/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/PengZhang64/circuit-framework",
+      "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
       "published_at": "2026-07-16T15:02:10Z",
       "description": "Circuit Framework — multi-agent LLM trading research system",
       "tags": [
@@ -3202,7 +3233,7 @@
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
       "stars": 486,
-      "user": "PengZhang64"
+      "user": "EthanXiang777"
     },
     {
       "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
@@ -3216,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 471,
       "user": "xiejunjie524"
     },
     {
@@ -3231,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 461,
       "user": "pyang5166"
     },
     {
@@ -3246,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 857,
       "user": "nethical6"
     },
     {
@@ -3261,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 415,
       "user": "vshulcz"
     },
     {
@@ -3321,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 836,
       "user": "pablostanley"
     },
     {
@@ -3336,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "MatinSenPai"
     },
     {
@@ -3351,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28635252?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 482,
       "user": "stackblitz"
     },
     {
@@ -3366,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "thesysdev"
     },
     {
@@ -3396,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20579,
+      "stars": 20643,
       "user": "xai-org"
     },
     {
@@ -3411,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1373,
       "user": "CluvexStudio"
     },
     {
@@ -3426,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "inbjo"
     },
     {
@@ -3441,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 153,
       "user": "yc-duan"
     },
     {
@@ -3456,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 110,
       "user": "gakonst"
     },
     {
