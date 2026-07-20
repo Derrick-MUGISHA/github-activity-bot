@@ -106,20 +106,6 @@
       "user": "xbill"
     },
     {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
-      "published_at": "2026-07-16T22:52:32Z",
-      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "tags": [
-        "ai",
-        "career",
-        "design"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
-    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
       "published_at": "2026-07-15T06:50:10Z",
@@ -223,6 +209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyps17fax3528ebq5xt5o.png",
       "source": "Dev.to",
       "user": "Sidhant Panda"
+    },
+    {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -675,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1215,
       "user": "tandpfun"
     },
     {
@@ -690,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "Blueturboguy07"
     },
     {
@@ -735,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 977,
       "user": "hoainho"
     },
     {
@@ -765,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 877,
       "user": "nethical6"
     },
     {
@@ -780,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "MatinSenPai"
     },
     {
@@ -810,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20761,
+      "stars": 20771,
       "user": "xai-org"
     },
     {
@@ -825,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "yc-duan"
     },
     {
@@ -871,6 +872,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "published_at": "2026-07-20T23:39:35.000Z",
+      "description": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Ben Lamm",
+        "Colossal Biosciences",
+        "de-extinction tech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Trump&#8217;s latest AI czar has already resigned",
@@ -992,21 +1009,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "published_at": "2026-07-20T15:23:06.000Z",
-      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "tags": [
-        "AI",
-        "Social",
-        "YouTube",
-        "inauthentic activity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1219,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1215,
       "user": "tandpfun"
     },
     {
@@ -1234,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "Blueturboguy07"
     },
     {
@@ -1279,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 977,
       "user": "hoainho"
     },
     {
@@ -1294,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 860,
       "user": "pablostanley"
     },
     {
@@ -1309,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "MatinSenPai"
     },
     {
@@ -1339,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "thesysdev"
     },
     {
@@ -1837,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 977,
       "user": "hoainho"
     },
     {
@@ -1852,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 726,
       "user": "lopopolo"
     },
     {
@@ -1897,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 470,
       "user": "pyang5166"
     },
     {
@@ -1916,20 +1918,6 @@
       "user": "iamthebull"
     },
     {
-      "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
-      "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
-      "published_at": "2026-07-20T15:24:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "apache",
-        "airflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tutoto"
-    },
-    {
       "title": "Pandas df.info() shows None in Streamlit while head() and shape work correctly",
       "url": "https://stackoverflow.com/questions/79982220/pandas-df-info-shows-none-in-streamlit-while-head-and-shape-work-correctly",
       "published_at": "2026-07-20T11:38:26.000Z",
@@ -1943,6 +1931,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SivaKrishna Makani"
+    },
+    {
+      "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
+      "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
+      "published_at": "2026-07-20T15:24:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "apache",
+        "airflow"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tutoto"
     },
     {
       "title": "Linear regression optimisation with python",
@@ -2392,6 +2394,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AlexCharonix"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "published_at": "2026-07-20T23:39:35.000Z",
+      "description": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Ben Lamm",
+        "Colossal Biosciences",
+        "de-extinction tech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
@@ -3099,6 +3117,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3221,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1215,
       "user": "tandpfun"
     },
     {
@@ -3236,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "Blueturboguy07"
     },
     {
@@ -3281,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 977,
       "user": "hoainho"
     },
     {
@@ -3296,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 726,
       "user": "lopopolo"
     },
     {
@@ -3341,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 470,
       "user": "pyang5166"
     },
     {
@@ -3356,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 877,
       "user": "nethical6"
     },
     {
@@ -3371,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99616188?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "vshulcz"
     },
     {
@@ -3431,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 860,
       "user": "pablostanley"
     },
     {
@@ -3446,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 666,
       "user": "MatinSenPai"
     },
     {
@@ -3476,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "thesysdev"
     },
     {
@@ -3506,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130314967?v=4",
       "source": "GitHub",
-      "stars": 20761,
+      "stars": 20771,
       "user": "xai-org"
     },
     {
@@ -3521,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125141320?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1394,
       "user": "CluvexStudio"
     },
     {
@@ -3551,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "yc-duan"
     },
     {
@@ -3566,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 151,
       "user": "mesamirh"
     },
     {
