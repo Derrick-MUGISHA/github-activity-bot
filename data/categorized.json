@@ -76,21 +76,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
-      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k",
-      "published_at": "2026-07-15T23:58:42Z",
-      "description": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug that mocks never could.",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "ai",
-        "debugging"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpr9ri07aivu1a0q66zws.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
       "published_at": "2026-07-15T06:50:10Z",
@@ -240,20 +225,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "I burned through thousands of AI tokens. Then a friend did it for free",
       "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
       "published_at": "2026-07-16T22:52:32Z",
@@ -268,19 +239,18 @@
       "user": "Paulo Henrique"
     },
     {
-      "title": "RES, my personal safeguard against AI",
-      "url": "https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8",
-      "published_at": "2026-07-16T21:17:26Z",
-      "description": "The Problem   The more I use AI in my daily life, the longer my conversations get. And the...",
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "tags": [
         "ai",
-        "productivity",
-        "beginners",
-        "discuss"
+        "llm",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbladnlcuy68md6gq3nqo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
       "source": "Dev.to",
-      "user": "Thomas Bnt"
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -478,6 +448,36 @@
       "user": "bredmond1019"
     },
     {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1240,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 679,
       "user": "Blueturboguy07"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "HeiGeAi"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1228,
       "user": "hoainho"
     },
     {
@@ -720,8 +720,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 888,
       "user": "nethical6"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "published_at": "2026-07-19T11:44:41Z",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "Vincentwei1021"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -754,21 +769,6 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 199,
-      "user": "Vincentwei1021"
-    },
-    {
       "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
       "url": "https://github.com/yc-duan/fastctx",
       "published_at": "2026-07-17T03:05:57Z",
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 230,
       "user": "yc-duan"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 99,
       "user": "duxweb"
     },
     {
@@ -811,21 +811,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutoto"
-    },
-    {
-      "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
-      "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
-      "published_at": "2026-07-20T08:07:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "python-3.x",
-        "import",
-        "program-entry-point"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
     },
     {
       "title": "Python tkinter wait_window does not return",
@@ -1204,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11266,
+      "stars": 11373,
       "user": "Fei-Away"
     },
     {
@@ -1219,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1240,
       "user": "tandpfun"
     },
     {
@@ -1234,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 679,
       "user": "Blueturboguy07"
     },
     {
@@ -1249,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "HeiGeAi"
     },
     {
@@ -1264,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 199,
       "user": "joeseesun"
     },
     {
@@ -1279,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1228,
       "user": "hoainho"
     },
     {
@@ -1294,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 898,
       "user": "pablostanley"
     },
     {
@@ -1309,8 +1294,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "thesysdev"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "published_at": "2026-07-19T11:44:41Z",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "Vincentwei1021"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -1343,25 +1343,38 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "title": "JS seemingly calculating Fibonacci wrong",
+      "url": "https://stackoverflow.com/questions/79983480/js-seemingly-calculating-fibonacci-wrong",
+      "published_at": "2026-07-21T09:20:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "fibonacci",
+        "largenumber"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 199,
-      "user": "Vincentwei1021"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vorac"
+    },
+    {
+      "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
+      "url": "https://stackoverflow.com/questions/79983478/is-it-possible-to-retrieve-all-non-contiguous-text-selections-in-microsoft-word",
+      "published_at": "2026-07-21T09:13:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "ms-word",
+        "office-js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nitika Yadav"
     },
     {
       "title": "React SVG animation: lower water layers disappear during requestAnimationFrame interpolation",
       "url": "https://stackoverflow.com/questions/79983422/react-svg-animation-lower-water-layers-disappear-during-requestanimationframe-i",
       "published_at": "2026-07-21T06:09:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1433,21 +1446,6 @@
       "user": "IscaMan"
     },
     {
-      "title": "Why can my VS Code extension client not find a local module?",
-      "url": "https://stackoverflow.com/questions/79981958/why-can-my-vs-code-extension-client-not-find-a-local-module",
-      "published_at": "2026-07-19T06:12:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "npm",
-        "vscode-extensions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SASUKE31"
-    },
-    {
       "title": "Audio blobs and objectURL: is there a create/load delay in Firefox?",
       "url": "https://stackoverflow.com/questions/79981183/audio-blobs-and-objecturl-is-there-a-create-load-delay-in-firefox",
       "published_at": "2026-07-16T06:08:45.000Z",
@@ -1489,22 +1487,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
-      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
-      "published_at": "2026-06-14T22:38:15.000Z",
-      "description": "Stack Overflow question · 8 answers · score 0",
-      "tags": [
-        "javascript",
-        "constructor",
-        "prototype",
-        "ecmascript-5",
-        "ecmascript-3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "krabat1"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1824,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1228,
       "user": "hoainho"
     },
     {
@@ -1839,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 983,
       "user": "lopopolo"
     },
     {
@@ -1854,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 549,
       "user": "xiejunjie524"
     },
     {
@@ -1869,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 521,
       "user": "pyang5166"
     },
     {
@@ -1891,7 +1873,7 @@
       "title": "Application won't end after pressing the x on the second window",
       "url": "https://stackoverflow.com/questions/79982384/application-wont-end-after-pressing-the-x-on-the-second-window",
       "published_at": "2026-07-21T01:16:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "tkinter",
@@ -1932,19 +1914,6 @@
       "user": "SivaKrishna Makani"
     },
     {
-      "title": "Linear regression optimisation with python",
-      "url": "https://stackoverflow.com/questions/79982251/linear-regression-optimisation-with-python",
-      "published_at": "2026-07-20T13:45:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "linear-regression"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "daniel sas"
-    },
-    {
       "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
       "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
       "published_at": "2026-07-20T15:24:26.000Z",
@@ -1957,6 +1926,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutoto"
+    },
+    {
+      "title": "Linear regression optimisation with python",
+      "url": "https://stackoverflow.com/questions/79982251/linear-regression-optimisation-with-python",
+      "published_at": "2026-07-20T13:45:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "linear-regression"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "daniel sas"
     },
     {
       "title": "Default Creation Date in PIL ImageCms",
@@ -1972,21 +1954,6 @@
       "user": "malat"
     },
     {
-      "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
-      "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
-      "published_at": "2026-07-20T08:07:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "python-3.x",
-        "import",
-        "program-entry-point"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
-    },
-    {
       "title": "Python tkinter wait_window does not return",
       "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
       "published_at": "2026-07-19T19:04:24.000Z",
@@ -2000,6 +1967,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "finding common characters from an array of words",
+      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
+      "published_at": "2026-07-19T13:12:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ann"
     },
     {
       "title": "Is my Variable Elimination implementation correct? Asking because different TAs marked them differently",
@@ -2018,16 +1997,17 @@
       "user": "user12456500"
     },
     {
-      "title": "finding common characters from an array of words",
-      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
-      "published_at": "2026-07-19T13:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "If I modify an imported Python module while a Slurm job is running, will later iterations use the new code?",
+      "url": "https://stackoverflow.com/questions/79982018/if-i-modify-an-imported-python-module-while-a-slurm-job-is-running-will-later-i",
+      "published_at": "2026-07-19T13:59:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
+        "advice",
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ann"
+      "user": "Ahmed"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2255,7 +2235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "inbjo"
     },
     {
@@ -3129,21 +3109,6 @@
       "user": "Web Developer Hyper"
     },
     {
-      "title": "RES, my personal safeguard against AI",
-      "url": "https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8",
-      "published_at": "2026-07-16T21:17:26Z",
-      "description": "The Problem   The more I use AI in my daily life, the longer my conversations get. And the...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbladnlcuy68md6gq3nqo.png",
-      "source": "Dev.to",
-      "user": "Thomas Bnt"
-    },
-    {
       "title": "A lot of good points here https://antirez.com/news/169",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
       "published_at": "2026-07-13T15:17:02Z",
@@ -3187,6 +3152,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
       "source": "Dev.to",
       "user": "Inhere"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i",
+      "published_at": "2026-06-23T13:29:11Z",
+      "description": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, and still loving the work I do today.",
+      "tags": [
+        "career",
+        "motivation",
+        "productivity",
+        "life"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgpk1zws19f9ji4j11y5a.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3236,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11266,
+      "stars": 11373,
       "user": "Fei-Away"
     },
     {
@@ -3251,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1240,
       "user": "tandpfun"
     },
     {
@@ -3266,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 679,
       "user": "Blueturboguy07"
     },
     {
@@ -3281,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 298,
       "user": "HeiGeAi"
     },
     {
@@ -3296,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 199,
       "user": "joeseesun"
     },
     {
@@ -3311,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1228,
       "user": "hoainho"
     },
     {
@@ -3326,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 983,
       "user": "lopopolo"
     },
     {
@@ -3341,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 549,
       "user": "xiejunjie524"
     },
     {
@@ -3356,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 521,
       "user": "pyang5166"
     },
     {
@@ -3386,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 888,
       "user": "nethical6"
     },
     {
@@ -3401,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 278,
       "user": "paxlabs-inc"
     },
     {
@@ -3431,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "scion-frontiers"
     },
     {
@@ -3461,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 898,
       "user": "pablostanley"
     },
     {
@@ -3476,8 +3456,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "thesysdev"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "published_at": "2026-07-19T11:44:41Z",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "Vincentwei1021"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -3510,21 +3505,6 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 199,
-      "user": "Vincentwei1021"
-    },
-    {
       "title": "mesamirh/MovieBox-Tui - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
       "url": "https://github.com/mesamirh/MovieBox-Tui",
       "published_at": "2026-07-16T07:09:47Z",
@@ -3536,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 285,
       "user": "mesamirh"
     },
     {
@@ -3551,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 230,
       "user": "yc-duan"
     },
     {
@@ -3566,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "inbjo"
     },
     {
@@ -3581,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 137,
       "user": "gakonst"
     },
     {
@@ -3596,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 99,
       "user": "duxweb"
     },
     {
@@ -3611,18 +3591,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "matklad"
-    },
-    {
-      "title": "Minimal Git CI using hooks",
-      "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-      "published_at": "2026-07-20T03:28:45.648-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "klingtnet"
     },
     {
       "title": "How to extract text from .doc/.ppt/.xls format on client side?",
@@ -3652,21 +3620,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Why can my VS Code extension client not find a local module?",
-      "url": "https://stackoverflow.com/questions/79981958/why-can-my-vs-code-extension-client-not-find-a-local-module",
-      "published_at": "2026-07-19T06:12:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "npm",
-        "vscode-extensions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SASUKE31"
     },
     {
       "title": "Python tkinter wait_window does not return",
