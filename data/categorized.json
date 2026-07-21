@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
       "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
       "published_at": "2026-07-20T14:05:39Z",
@@ -46,19 +31,34 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
+      "published_at": "2026-07-21T16:31:50Z",
+      "description": "3.6...",
       "tags": [
         "ai",
-        "aws",
-        "devops",
-        "llm"
+        "google",
+        "llm",
+        "news"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -89,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
@@ -194,35 +209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
       "source": "Dev.to",
       "user": "christine"
-    },
-    {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
-      "published_at": "2026-07-16T22:52:32Z",
-      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "tags": [
-        "ai",
-        "career",
-        "design"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -660,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1263,
       "user": "tandpfun"
     },
     {
@@ -690,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "HeiGeAi"
     },
     {
@@ -720,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1364,
       "user": "hoainho"
     },
     {
@@ -750,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 902,
       "user": "nethical6"
     },
     {
@@ -765,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 377,
       "user": "Vincentwei1021"
     },
     {
@@ -810,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 251,
       "user": "yc-duan"
     },
     {
@@ -824,19 +810,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "bport"
-    },
-    {
-      "title": "Apakah kodingcamp.com itu benar benar simulator software engineers javascript terbaik didunia",
-      "url": "https://stackoverflow.com/questions/79983577/apakah-kodingcamp-com-itu-benar-benar-simulator-software-engineers-javascript-te",
-      "published_at": "2026-07-21T14:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nanangNSL"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -867,10 +840,40 @@
       "user": "Medulla Oblongata"
     },
     {
-      "title": "Light made a flip phone. It&#8217;s colorful and it&#8217;s cheap.",
+      "title": "Threads rolls out parental supervision tools",
+      "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+      "published_at": "2026-07-21T16:00:00.000Z",
+      "description": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Meta",
+        "Threads"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "published_at": "2026-07-21T15:37:05.000Z",
+      "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Chinese AI Models",
+        "open source ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Light made a flip phone — it&#8217;s colorful and it&#8217;s cheap",
       "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
       "published_at": "2026-07-21T15:00:00.000Z",
-      "description": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over twenty years later, the flip phone is relevant again.",
+      "description": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over 20 years later, the flip phone is relevant again.",
       "tags": [
         "Hardware",
         "Light Phone"
@@ -883,9 +886,10 @@
       "title": "After TikTok, Snap settles social media addiction case",
       "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
       "published_at": "2026-07-21T14:54:19.000Z",
-      "description": "Snap is the latest big tech company to settle a lawsuit that claimed social media platforms are harmful to children and young adults. The company has reached a &#8220;tentative&#8221; agreement in a case that was set to go to trial later this month. TikTok recently settled its portion of the case wi",
+      "description": "TikTok recently settled its portion of the case with the plaintiff ahead of a jury trial that starts next week in Los Angeles. YouTube has also reached a deal, leaving Meta as the only remaining defendant.",
       "tags": [
         "Social",
+        "In Brief",
         "lawsuit",
         "Snap",
         "Social media addiction"
@@ -903,6 +907,7 @@
         "Security",
         "copyright",
         "cyberattack",
+        "In Brief",
         "suno"
       ],
       "cover_image": null,
@@ -916,10 +921,9 @@
       "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
       "tags": [
         "Media & Entertainment",
-        "evergreens",
-        "HBO Max",
-        "Mergers and Acquisitions",
-        "Netflix"
+        "Netflix",
+        "Warner Bros",
+        "evergreens"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -939,51 +943,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "published_at": "2026-07-21T13:20:00.000Z",
-      "description": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
-      "tags": [
-        "Climate",
-        "Startups",
-        "Venture",
-        "clean energy",
-        "nuclear power and the environment"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "published_at": "2026-07-21T10:00:00.000Z",
-      "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Robotics",
-        "construction tech",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "published_at": "2026-07-21T00:12:24.000Z",
-      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -1197,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11460,
+      "stars": 11480,
       "user": "Fei-Away"
     },
     {
@@ -1212,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1263,
       "user": "tandpfun"
     },
     {
@@ -1242,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "HeiGeAi"
     },
     {
@@ -1272,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1364,
       "user": "hoainho"
     },
     {
@@ -1287,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 942,
       "user": "pablostanley"
     },
     {
@@ -1302,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 377,
       "user": "Vincentwei1021"
     },
     {
@@ -1317,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 309,
       "user": "thesysdev"
     },
     {
@@ -1351,17 +1310,19 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "Apakah kodingcamp.com itu benar benar simulator software engineers javascript terbaik didunia",
-      "url": "https://stackoverflow.com/questions/79983577/apakah-kodingcamp-com-itu-benar-benar-simulator-software-engineers-javascript-te",
-      "published_at": "2026-07-21T14:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
+      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
+      "published_at": "2026-07-21T11:41:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "arrays"
+        "typescript",
+        "amazon-web-services",
+        "amazon-cloudfront"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "nanangNSL"
+      "user": "goose_lake"
     },
     {
       "title": "In an unordered list is it possible to make the list items sortable but not draggable",
@@ -1377,21 +1338,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
     },
     {
       "title": "React SVG animation: lower water layers disappear during requestAnimationFrame interpolation",
@@ -1496,20 +1442,18 @@
       "user": "Gary"
     },
     {
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "published_at": "2026-07-21T13:20:00.000Z",
-      "description": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
+      "title": "Why would one use WebAssembly in the Backend?",
+      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
+      "published_at": "2026-07-14T04:26:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
-        "Climate",
-        "Startups",
-        "Venture",
-        "clean energy",
-        "nuclear power and the environment"
+        "advice",
+        "javascript",
+        "webassembly"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "source": "StackOverflow",
+      "user": "Femi"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1634,21 +1578,6 @@
         "antigravitycli"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1829,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1364,
       "user": "hoainho"
     },
     {
@@ -1844,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1173,
+      "stars": 1230,
       "user": "lopopolo"
     },
     {
@@ -1859,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 575,
       "user": "xiejunjie524"
     },
     {
@@ -1874,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 543,
       "user": "pyang5166"
     },
     {
@@ -1893,6 +1822,19 @@
       "user": "EthanXiang777"
     },
     {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "published_at": "2026-07-21T14:38:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Traci Phillip"
+    },
+    {
       "title": "Check if matrix contains only specific values in numpy",
       "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
       "published_at": "2026-07-21T13:49:29.000Z",
@@ -1906,23 +1848,24 @@
       "user": "Medulla Oblongata"
     },
     {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "title": "Is there a way to decipher nested and complex equations to its base components",
+      "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
+      "published_at": "2026-07-21T13:02:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "text-to-speech"
+        "regex",
+        "parsing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Traci Phillip"
+      "user": "frank"
     },
     {
       "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
       "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
       "published_at": "2026-07-21T14:21:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "raspberry-pi"
@@ -1930,19 +1873,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Bill"
-    },
-    {
-      "title": "Is there a way to decipher nested and complex equations to its base components",
-      "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
-      "published_at": "2026-07-21T13:02:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "frank"
     },
     {
       "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
@@ -1963,7 +1893,7 @@
       "title": "Python match case syntax gotcha",
       "url": "https://stackoverflow.com/questions/79983502/python-match-case-syntax-gotcha",
       "published_at": "2026-07-21T11:14:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "structural-pattern-matching"
@@ -2331,6 +2261,20 @@
       "user": "IscaMan"
     },
     {
+      "title": "Why would one use WebAssembly in the Backend?",
+      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
+      "published_at": "2026-07-14T04:26:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "advice",
+        "javascript",
+        "webassembly"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Femi"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
       "published_at": "2026-07-20T20:47:13.000Z",
@@ -2364,20 +2308,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "published_at": "2026-07-21T05:03:51.116-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "emacs",
-        "kotlin",
-        "scala"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jjba23"
-    },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
       "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
@@ -2426,21 +2356,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -2469,6 +2384,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
@@ -2572,21 +2502,6 @@
         "31b"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2744,9 +2659,10 @@
       "title": "After TikTok, Snap settles social media addiction case",
       "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
       "published_at": "2026-07-21T14:54:19.000Z",
-      "description": "Snap is the latest big tech company to settle a lawsuit that claimed social media platforms are harmful to children and young adults. The company has reached a &#8220;tentative&#8221; agreement in a case that was set to go to trial later this month. TikTok recently settled its portion of the case wi",
+      "description": "TikTok recently settled its portion of the case with the plaintiff ahead of a jury trial that starts next week in Los Angeles. YouTube has also reached a deal, leaving Meta as the only remaining defendant.",
       "tags": [
         "Social",
+        "In Brief",
         "lawsuit",
         "Snap",
         "Social media addiction"
@@ -2843,7 +2759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 117,
       "user": "cursor"
     },
     {
@@ -3066,6 +2982,7 @@
         "Security",
         "copyright",
         "cyberattack",
+        "In Brief",
         "suno"
       ],
       "cover_image": null,
@@ -3259,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11460,
+      "stars": 11480,
       "user": "Fei-Away"
     },
     {
@@ -3274,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1263,
       "user": "tandpfun"
     },
     {
@@ -3304,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "HeiGeAi"
     },
     {
@@ -3334,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1364,
       "user": "hoainho"
     },
     {
@@ -3349,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1173,
+      "stars": 1230,
       "user": "lopopolo"
     },
     {
@@ -3364,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 575,
       "user": "xiejunjie524"
     },
     {
@@ -3379,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 543,
       "user": "pyang5166"
     },
     {
@@ -3409,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 902,
       "user": "nethical6"
     },
     {
@@ -3424,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "paxlabs-inc"
     },
     {
@@ -3484,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 942,
       "user": "pablostanley"
     },
     {
@@ -3499,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 377,
       "user": "Vincentwei1021"
     },
     {
@@ -3514,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 309,
       "user": "thesysdev"
     },
     {
@@ -3559,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 346,
       "user": "mesamirh"
     },
     {
@@ -3574,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 251,
       "user": "yc-duan"
     },
     {
@@ -3604,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 151,
       "user": "gakonst"
     },
     {
@@ -3619,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 117,
       "user": "cursor"
     },
     {
@@ -3688,6 +3605,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Instagram now lets you swap out the music in your old posts",
+      "url": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
+      "published_at": "2026-07-21T16:15:00.000Z",
+      "description": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Instagram",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Threads rolls out parental supervision tools",
+      "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+      "published_at": "2026-07-21T16:00:00.000Z",
+      "description": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Meta",
+        "Threads"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "UK government scraps plans for digital ID cards after millions of Brits opposed",
