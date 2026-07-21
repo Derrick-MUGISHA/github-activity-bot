@@ -61,21 +61,6 @@
       "user": "Patrick Loeber"
     },
     {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "tags": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
+      "published_at": "2026-07-20T14:05:39Z",
+      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "tags": [
+        "discuss",
+        "management",
+        "codequality",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1279,
       "user": "tandpfun"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 700,
       "user": "Blueturboguy07"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1415,
       "user": "hoainho"
     },
     {
@@ -740,6 +740,21 @@
       "user": "nethical6"
     },
     {
+      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "url": "https://github.com/MobAI-App/simslim",
+      "published_at": "2026-07-20T15:55:18Z",
+      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "MobAI-App"
+    },
+    {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "published_at": "2026-07-19T11:44:41Z",
@@ -751,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "Vincentwei1021"
     },
     {
@@ -796,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "yc-duan"
     },
     {
@@ -850,6 +865,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Medulla Oblongata"
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "published_at": "2026-07-21T20:57:35.000Z",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "evergreens",
+        "social media bans"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "published_at": "2026-07-21T20:56:55.000Z",
+      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "tags": [
+        "AI",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
@@ -940,19 +985,16 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Threads rolls out parental supervision tools",
-      "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
-      "published_at": "2026-07-21T16:00:00.000Z",
-      "description": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
+      "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
+      "url": "https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/",
+      "published_at": "2026-07-21T17:39:01.000Z",
+      "description": "When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few",
       "tags": [
-        "Apps",
-        "Social",
-        "Meta",
-        "Threads"
+        "AI"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "source": "freeCodeCamp",
+      "user": "Mohammed Fahd Abrah"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -1000,22 +1042,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Omer Rosenbaum"
-    },
-    {
-      "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
-      "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
-      "published_at": "2026-07-17T21:03:56.000Z",
-      "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
-      "tags": [
-        "AI",
-        "ai agents",
-        "LLM-as-Judge",
-        "ollama",
-        "agent evaluation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
     }
   ],
   "JavaScript": [
@@ -1166,7 +1192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11490,
+      "stars": 11494,
       "user": "Fei-Away"
     },
     {
@@ -1181,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1279,
       "user": "tandpfun"
     },
     {
@@ -1196,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 700,
       "user": "Blueturboguy07"
     },
     {
@@ -1241,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1415,
       "user": "hoainho"
     },
     {
@@ -1256,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "pablostanley"
     },
     {
@@ -1271,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "Vincentwei1021"
     },
     {
@@ -1286,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "thesysdev"
     },
     {
@@ -1323,7 +1349,7 @@
       "title": "how to execute is code in browser with vscode",
       "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
       "published_at": "2026-07-21T19:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "visual-studio-code"
@@ -1336,7 +1362,7 @@
       "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
       "url": "https://stackoverflow.com/questions/79983647/in-vitest-with-angular-how-to-fix-compilation-error-cant-bind-to-myproperty",
       "published_at": "2026-07-21T18:25:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "angular",
@@ -1782,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1415,
       "user": "hoainho"
     },
     {
@@ -1797,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1409,
       "user": "lopopolo"
     },
     {
@@ -1827,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "pyang5166"
     },
     {
@@ -1849,7 +1875,7 @@
       "title": "A smart document with meta layers /meta tags with classifications?",
       "url": "https://stackoverflow.com/questions/79983665/a-smart-document-with-meta-layers-meta-tags-with-classifications",
       "published_at": "2026-07-21T19:31:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "python",
@@ -1917,7 +1943,7 @@
       "title": "Is there a way to decipher nested and complex equations to its base components",
       "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
       "published_at": "2026-07-21T13:02:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "regex",
@@ -1991,22 +2017,6 @@
         "ollama",
         "#qwen",
         "FastAPI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
-      "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
-      "published_at": "2026-07-17T21:03:56.000Z",
-      "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
-      "tags": [
-        "AI",
-        "ai agents",
-        "LLM-as-Judge",
-        "ollama",
-        "agent evaluation"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -2301,6 +2311,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "url": "https://github.com/MobAI-App/simslim",
+      "published_at": "2026-07-20T15:55:18Z",
+      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "MobAI-App"
+    },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
       "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
@@ -2736,7 +2761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "cursor"
     },
     {
@@ -3122,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11490,
+      "stars": 11494,
       "user": "Fei-Away"
     },
     {
@@ -3137,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1279,
       "user": "tandpfun"
     },
     {
@@ -3152,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 700,
       "user": "Blueturboguy07"
     },
     {
@@ -3197,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1415,
       "user": "hoainho"
     },
     {
@@ -3212,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1409,
       "user": "lopopolo"
     },
     {
@@ -3242,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "pyang5166"
     },
     {
@@ -3321,19 +3346,19 @@
       "user": "scion-frontiers"
     },
     {
-      "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
-      "url": "https://github.com/iluvx/go-tg-api",
-      "published_at": "2026-07-18T05:13:20Z",
-      "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
+      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "url": "https://github.com/MobAI-App/simslim",
+      "published_at": "2026-07-20T15:55:18Z",
+      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175501983?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 60,
-      "user": "iluvx"
+      "stars": 71,
+      "user": "MobAI-App"
     },
     {
       "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
@@ -3347,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "pablostanley"
     },
     {
@@ -3362,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "Vincentwei1021"
     },
     {
@@ -3377,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "thesysdev"
     },
     {
@@ -3422,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "mesamirh"
     },
     {
@@ -3437,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "yc-duan"
     },
     {
@@ -3467,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 162,
       "user": "gakonst"
     },
     {
@@ -3482,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "cursor"
     },
     {
@@ -3514,7 +3539,7 @@
       "title": "how to execute is code in browser with vscode",
       "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
       "published_at": "2026-07-21T19:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "visual-studio-code"
@@ -3553,34 +3578,18 @@
       "user": "Malte K"
     },
     {
-      "title": "Instagram now lets you swap out the music in your old posts",
-      "url": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
-      "published_at": "2026-07-21T16:15:00.000Z",
-      "description": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "published_at": "2026-07-21T20:56:55.000Z",
+      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "tags": [
-        "Apps",
-        "Social",
-        "Instagram",
-        "Meta"
+        "AI",
+        "Hugging Face",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Threads rolls out parental supervision tools",
-      "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
-      "published_at": "2026-07-21T16:00:00.000Z",
-      "description": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Meta",
-        "Threads"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "user": "Russell Brandom"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
