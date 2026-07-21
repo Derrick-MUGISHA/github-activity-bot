@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1281,
       "user": "tandpfun"
     },
     {
@@ -680,19 +680,19 @@
       "user": "HeiGeAi"
     },
     {
-      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "published_at": "2026-07-18T23:17:55Z",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 249,
-      "user": "livetennisapi"
+      "stars": 250,
+      "user": "Kritt-ai"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1426,
       "user": "hoainho"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 909,
       "user": "nethical6"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 74,
       "user": "MobAI-App"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "Vincentwei1021"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "yc-duan"
     },
     {
@@ -827,16 +827,17 @@
       "user": "FedericoSchonborn"
     },
     {
-      "title": "KDE for Enterprise Needs a Strong PIM Infrastructure",
-      "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-      "published_at": "2026-07-21T02:20:43.747-05:00",
+      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published_at": "2026-07-21T15:38:04.837-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "email"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "bport"
+      "user": "dustyweb"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -852,6 +853,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "goose_lake"
+    },
+    {
+      "title": "Why does asyncio deadlock without raising an exception?",
+      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
+      "published_at": "2026-07-21T21:39:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "async-await",
+        "concurrency",
+        "python-asyncio",
+        "deadlock"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anthony Joseph"
     },
     {
       "title": "Check if matrix contains only specific values in numpy",
@@ -889,8 +906,8 @@
       "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "tags": [
         "AI",
-        "Hugging Face",
-        "OpenAI"
+        "OpenAI",
+        "Hugging Face"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1192,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11494,
+      "stars": 11496,
       "user": "Fei-Away"
     },
     {
@@ -1207,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1281,
       "user": "tandpfun"
     },
     {
@@ -1241,19 +1258,19 @@
       "user": "HeiGeAi"
     },
     {
-      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "published_at": "2026-07-18T23:17:55Z",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 249,
-      "user": "livetennisapi"
+      "stars": 250,
+      "user": "Kritt-ai"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -1267,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1426,
       "user": "hoainho"
     },
     {
@@ -1282,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 956,
       "user": "pablostanley"
     },
     {
@@ -1297,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "Vincentwei1021"
     },
     {
@@ -1312,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "thesysdev"
     },
     {
@@ -1349,7 +1366,7 @@
       "title": "how to execute is code in browser with vscode",
       "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
       "published_at": "2026-07-21T19:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "visual-studio-code"
@@ -1359,24 +1376,10 @@
       "user": "user32959323"
     },
     {
-      "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
-      "url": "https://stackoverflow.com/questions/79983647/in-vitest-with-angular-how-to-fix-compilation-error-cant-bind-to-myproperty",
-      "published_at": "2026-07-21T18:25:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "angular",
-        "vitest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Diksha Verma"
-    },
-    {
       "title": "How to monkey patch Leaflet library?",
       "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
       "published_at": "2026-07-21T17:37:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "leaflet",
@@ -1386,6 +1389,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "plswork04"
+    },
+    {
+      "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
+      "url": "https://stackoverflow.com/questions/79983647/in-vitest-with-angular-how-to-fix-compilation-error-cant-bind-to-myproperty",
+      "published_at": "2026-07-21T18:25:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "angular",
+        "vitest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Diksha Verma"
     },
     {
       "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
@@ -1797,21 +1814,6 @@
       "user": "arathore"
     },
     {
-      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "url": "https://github.com/hoainho/img2threejs",
-      "published_at": "2026-07-15T02:58:39Z",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
-      "source": "GitHub",
-      "stars": 1415,
-      "user": "hoainho"
-    },
-    {
       "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
       "published_at": "2026-07-18T21:42:28Z",
@@ -1823,8 +1825,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1462,
       "user": "lopopolo"
+    },
+    {
+      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "url": "https://github.com/hoainho/img2threejs",
+      "published_at": "2026-07-15T02:58:39Z",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
+      "source": "GitHub",
+      "stars": 1426,
+      "user": "hoainho"
     },
     {
       "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
@@ -1838,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "xiejunjie524"
     },
     {
@@ -1872,6 +1889,34 @@
       "user": "EthanXiang777"
     },
     {
+      "title": "Taking File Data",
+      "url": "https://stackoverflow.com/questions/79983691/taking-file-data",
+      "published_at": "2026-07-21T21:41:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Edward Moreno"
+    },
+    {
+      "title": "Why does asyncio deadlock without raising an exception?",
+      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
+      "published_at": "2026-07-21T21:39:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "async-await",
+        "concurrency",
+        "python-asyncio",
+        "deadlock"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anthony Joseph"
+    },
+    {
       "title": "A smart document with meta layers /meta tags with classifications?",
       "url": "https://stackoverflow.com/questions/79983665/a-smart-document-with-meta-layers-meta-tags-with-classifications",
       "published_at": "2026-07-21T19:31:44.000Z",
@@ -1884,6 +1929,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "the"
+    },
+    {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "published_at": "2026-07-21T14:38:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Traci Phillip"
     },
     {
       "title": "Subclassing ndb's Property classes such that static type checking works",
@@ -1899,19 +1957,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
-    },
-    {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "text-to-speech"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Traci Phillip"
     },
     {
       "title": "Check if matrix contains only specific values in numpy",
@@ -1954,19 +1999,6 @@
       "user": "frank"
     },
     {
-      "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
-      "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
-      "published_at": "2026-07-21T14:21:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "raspberry-pi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Bill"
-    },
-    {
       "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
       "url": "https://stackoverflow.com/questions/79983484/why-can-importlib-reload-leave-existing-class-instances-using-stale-method-imp",
       "published_at": "2026-07-21T10:06:10.000Z",
@@ -1982,29 +2014,17 @@
       "user": "ali-raza-py"
     },
     {
-      "title": "Python match case syntax gotcha",
-      "url": "https://stackoverflow.com/questions/79983502/python-match-case-syntax-gotcha",
-      "published_at": "2026-07-21T11:14:50.000Z",
+      "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
+      "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
+      "published_at": "2026-07-21T14:21:00.000Z",
       "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "structural-pattern-matching"
+        "raspberry-pi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mortz"
-    },
-    {
-      "title": "Trying to improve my python error handling with try/except loops. Whats the best way to validate user input without making the code repetitive?",
-      "url": "https://stackoverflow.com/questions/79983481/trying-to-improve-my-python-error-handling-with-try-except-loops-whats-the-best",
-      "published_at": "2026-07-21T09:45:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Guilherme Lucidi"
+      "user": "Peter Bill"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2323,7 +2343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 74,
       "user": "MobAI-App"
     },
     {
@@ -2761,7 +2781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "cursor"
     },
     {
@@ -2945,6 +2965,32 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "2352500"
+    },
+    {
+      "title": "git --end-of-options",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "published_at": "2026-07-21T07:31:15.622-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "robalex"
+    },
+    {
+      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published_at": "2026-07-21T15:38:04.837-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dustyweb"
     },
     {
       "title": "432 Linux kernel CVEs published in the last 24 hours",
@@ -3147,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11494,
+      "stars": 11496,
       "user": "Fei-Away"
     },
     {
@@ -3162,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1281,
       "user": "tandpfun"
     },
     {
@@ -3196,34 +3242,19 @@
       "user": "HeiGeAi"
     },
     {
-      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "published_at": "2026-07-18T23:17:55Z",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 249,
-      "user": "livetennisapi"
-    },
-    {
-      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "url": "https://github.com/hoainho/img2threejs",
-      "published_at": "2026-07-15T02:58:39Z",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
-      "source": "GitHub",
-      "stars": 1415,
-      "user": "hoainho"
+      "stars": 250,
+      "user": "Kritt-ai"
     },
     {
       "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
@@ -3237,8 +3268,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1462,
       "user": "lopopolo"
+    },
+    {
+      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "url": "https://github.com/hoainho/img2threejs",
+      "published_at": "2026-07-15T02:58:39Z",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
+      "source": "GitHub",
+      "stars": 1426,
+      "user": "hoainho"
     },
     {
       "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
@@ -3252,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "xiejunjie524"
     },
     {
@@ -3297,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 909,
       "user": "nethical6"
     },
     {
@@ -3357,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 74,
       "user": "MobAI-App"
     },
     {
@@ -3372,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 956,
       "user": "pablostanley"
     },
     {
@@ -3387,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "Vincentwei1021"
     },
     {
@@ -3402,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "thesysdev"
     },
     {
@@ -3462,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "yc-duan"
     },
     {
@@ -3492,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "gakonst"
     },
     {
@@ -3507,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "cursor"
     },
     {
@@ -3529,6 +3575,7 @@
       "published_at": "2026-07-21T07:31:15.622-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "security",
         "vcs"
       ],
       "cover_image": null,
@@ -3539,7 +3586,7 @@
       "title": "how to execute is code in browser with vscode",
       "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
       "published_at": "2026-07-21T19:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "visual-studio-code"
@@ -3584,8 +3631,8 @@
       "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "tags": [
         "AI",
-        "Hugging Face",
-        "OpenAI"
+        "OpenAI",
+        "Hugging Face"
       ],
       "cover_image": null,
       "source": "TechCrunch",
