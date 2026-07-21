@@ -61,6 +61,21 @@
       "user": "Romina Elena Mendez Escobar"
     },
     {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -463,21 +478,6 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1249,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "Blueturboguy07"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1270,
+      "stars": 1297,
       "user": "hoainho"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 894,
       "user": "nethical6"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 324,
       "user": "Vincentwei1021"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 242,
       "user": "yc-duan"
     },
     {
@@ -814,6 +814,21 @@
       "user": "duxweb"
     },
     {
+      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
+      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
+      "published_at": "2026-07-21T11:41:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "amazon-web-services",
+        "amazon-cloudfront"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "goose_lake"
+    },
+    {
       "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
       "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
       "published_at": "2026-07-20T15:24:26.000Z",
@@ -828,29 +843,47 @@
       "user": "tutoto"
     },
     {
-      "title": "Python tkinter wait_window does not return",
-      "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
-      "published_at": "2026-07-19T19:04:24.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "windows",
-        "tkinter",
-        "tk-toolkit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "maxpa1n87"
-    },
-    {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "published_at": "2026-07-21T10:00:00.000Z",
-      "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "published_at": "2026-07-21T13:27:42.000Z",
+      "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
       "tags": [
         "AI",
-        "Robotics",
+        "Media & Entertainment",
+        "TC",
+        "Deezer",
+        "streaming"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+      "published_at": "2026-07-21T13:20:00.000Z",
+      "description": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
+      "tags": [
+        "Climate",
+        "Startups",
+        "Venture",
+        "clean energy",
+        "nuclear power and the environment"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "published_at": "2026-07-21T10:00:00.000Z",
+      "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+      "tags": [
+        "AI",
         "Fundraising",
+        "Robotics",
+        "construction tech",
         "Exclusive"
       ],
       "cover_image": null,
@@ -958,38 +991,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "published_at": "2026-07-20T19:11:25.000Z",
-      "description": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
-      "tags": [
-        "Fintech",
-        "Startups",
-        "Venture",
-        "AI agents",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-      "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "published_at": "2026-07-20T17:58:50.000Z",
-      "description": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "tags": [
-        "Media & Entertainment",
-        "HBO",
-        "Mergers and Acquisitions",
-        "Paramount",
-        "regulation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -1203,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11401,
+      "stars": 11428,
       "user": "Fei-Away"
     },
     {
@@ -1218,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1249,
       "user": "tandpfun"
     },
     {
@@ -1233,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "Blueturboguy07"
     },
     {
@@ -1278,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1270,
+      "stars": 1297,
       "user": "hoainho"
     },
     {
@@ -1293,23 +1294,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 914,
       "user": "pablostanley"
-    },
-    {
-      "title": "thesysdev/appless - What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "published_at": "2026-07-16T07:08:49Z",
-      "description": "What if your phone had no apps",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "thesysdev"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -1323,8 +1309,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 324,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "thesysdev/appless - What if your phone had no apps",
+      "url": "https://github.com/thesysdev/appless",
+      "published_at": "2026-07-16T07:08:49Z",
+      "description": "What if your phone had no apps",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "thesysdev"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -1355,6 +1356,36 @@
       "source": "GitHub",
       "stars": 250,
       "user": "robinhood-ape"
+    },
+    {
+      "title": "In an unordered list is it possible to make the list items sortable but not draggable",
+      "url": "https://stackoverflow.com/questions/79983525/in-an-unordered-list-is-it-possible-to-make-the-list-items-sortable-but-not-drag",
+      "published_at": "2026-07-21T12:17:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "draggable",
+        "jquery-ui-sortable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stonypaul"
+    },
+    {
+      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
+      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
+      "published_at": "2026-07-21T11:41:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "amazon-web-services",
+        "amazon-cloudfront"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "goose_lake"
     },
     {
       "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
@@ -1474,35 +1505,20 @@
       "user": "Femi"
     },
     {
-      "title": "Add controlling properties to make drag and drop experience smoother",
-      "url": "https://stackoverflow.com/questions/79980774/add-controlling-properties-to-make-drag-and-drop-experience-smoother",
-      "published_at": "2026-07-14T19:35:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+      "published_at": "2026-07-21T13:20:00.000Z",
+      "description": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
       "tags": [
-        "javascript",
-        "jquery",
-        "draggable",
-        "droppable"
+        "Climate",
+        "Startups",
+        "Venture",
+        "clean energy",
+        "nuclear power and the environment"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
-    },
-    {
-      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
-      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
-      "published_at": "2026-06-14T22:38:15.000Z",
-      "description": "Stack Overflow question · 8 answers · score 0",
-      "tags": [
-        "javascript",
-        "constructor",
-        "prototype",
-        "ecmascript-5",
-        "ecmascript-3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "krabat1"
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1822,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1270,
+      "stars": 1297,
       "user": "hoainho"
     },
     {
@@ -1837,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1092,
       "user": "lopopolo"
     },
     {
@@ -1852,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "xiejunjie524"
     },
     {
@@ -1867,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 533,
       "user": "pyang5166"
     },
     {
@@ -1886,6 +1902,19 @@
       "user": "EthanXiang777"
     },
     {
+      "title": "Is there a way to decipher nested and complex equations to its base components",
+      "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
+      "published_at": "2026-07-21T13:02:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "frank"
+    },
+    {
       "title": "Python match case syntax gotcha",
       "url": "https://stackoverflow.com/questions/79983502/python-match-case-syntax-gotcha",
       "published_at": "2026-07-21T11:14:50.000Z",
@@ -1902,7 +1931,7 @@
       "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
       "url": "https://stackoverflow.com/questions/79983484/why-can-importlib-reload-leave-existing-class-instances-using-stale-method-imp",
       "published_at": "2026-07-21T10:06:10.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "module",
@@ -1917,7 +1946,7 @@
       "title": "Trying to improve my python error handling with try/except loops. Whats the best way to validate user input without making the code repetitive?",
       "url": "https://stackoverflow.com/questions/79983481/trying-to-improve-my-python-error-handling-with-try-except-loops-whats-the-best",
       "published_at": "2026-07-21T09:45:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2008,21 +2037,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutoto"
-    },
-    {
-      "title": "Python tkinter wait_window does not return",
-      "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
-      "published_at": "2026-07-19T19:04:24.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "windows",
-        "tkinter",
-        "tk-toolkit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "maxpa1n87"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2483,6 +2497,21 @@
       "user": "Romina Elena Mendez Escobar"
     },
     {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -2723,20 +2752,19 @@
       "user": "xbill"
     },
     {
-      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-      "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "published_at": "2026-07-20T17:58:50.000Z",
-      "description": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
+      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
+      "published_at": "2026-07-21T11:41:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "Media & Entertainment",
-        "HBO",
-        "Mergers and Acquisitions",
-        "Paramount",
-        "regulation"
+        "javascript",
+        "typescript",
+        "amazon-web-services",
+        "amazon-cloudfront"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "source": "StackOverflow",
+      "user": "goose_lake"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -3060,6 +3088,21 @@
   ],
   "Tools": [
     {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
       "published_at": "2026-07-09T14:44:40Z",
@@ -3227,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11401,
+      "stars": 11428,
       "user": "Fei-Away"
     },
     {
@@ -3242,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1249,
       "user": "tandpfun"
     },
     {
@@ -3257,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "Blueturboguy07"
     },
     {
@@ -3302,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1270,
+      "stars": 1297,
       "user": "hoainho"
     },
     {
@@ -3317,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1092,
       "user": "lopopolo"
     },
     {
@@ -3332,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "xiejunjie524"
     },
     {
@@ -3347,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 533,
       "user": "pyang5166"
     },
     {
@@ -3377,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 894,
       "user": "nethical6"
     },
     {
@@ -3392,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "paxlabs-inc"
     },
     {
@@ -3452,23 +3495,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 914,
       "user": "pablostanley"
-    },
-    {
-      "title": "thesysdev/appless - What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "published_at": "2026-07-16T07:08:49Z",
-      "description": "What if your phone had no apps",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "thesysdev"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3482,8 +3510,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 324,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "thesysdev/appless - What if your phone had no apps",
+      "url": "https://github.com/thesysdev/appless",
+      "published_at": "2026-07-16T07:08:49Z",
+      "description": "What if your phone had no apps",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "thesysdev"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -3527,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 333,
       "user": "mesamirh"
     },
     {
@@ -3542,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 242,
       "user": "yc-duan"
     },
     {
@@ -3572,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 140,
       "user": "gakonst"
     },
     {
@@ -3602,6 +3645,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "GLaDER"
+    },
+    {
+      "title": "git --end-of-options",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "published_at": "2026-07-21T07:31:15.622-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "robalex"
     },
     {
       "title": "Gitolite",
@@ -3644,21 +3699,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Python tkinter wait_window does not return",
-      "url": "https://stackoverflow.com/questions/79982066/python-tkinter-wait-window-does-not-return",
-      "published_at": "2026-07-19T19:04:24.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "windows",
-        "tkinter",
-        "tk-toolkit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "maxpa1n87"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
