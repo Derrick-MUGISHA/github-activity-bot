@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-21 20:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-21 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -119,7 +119,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 19 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
 | 20 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
 
-<sub>Last fetched: Tue, 21 Jul 2026 20:20:18 CAT</sub>
+<sub>Last fetched: Tue, 21 Jul 2026 22:00:59 CAT</sub>
 
 
 ---
@@ -128,36 +128,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Explain event delegation and why it's useful**
+**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> Execution timing, event loop phases
 
 </details>
 
-**2. `Java` — What is the difference between abstract class and interface?**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `Python` — What is the difference between list and tuple in Python?**
+**3. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -171,14 +171,14 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 71 | 38.6% | `████████████████████` |
-| **Tools** | 43 | 23.4% | `████████████░░░░░░░░` |
-| **JavaScript** | 36 | 19.6% | `██████████░░░░░░░░░░` |
+| **Tools** | 44 | 23.9% | `████████████░░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
 | **Python** | 34 | 18.5% | `██████████░░░░░░░░░░` |
-| **Cloud** | 26 | 14.1% | `███████░░░░░░░░░░░░░` |
+| **Cloud** | 25 | 13.6% | `███████░░░░░░░░░░░░░` |
 | **DevOps** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 1 | 0.5% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -200,10 +200,10 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.1%
-JavaScript      █████████████████████████ 24.3%
-Python          ███████████████████████ 22.3%
-Java            ███████████████████ 18.2%
+Go              ██████████████████████████████ 27.9%
+JavaScript      ███████████████████████████ 25.2%
+Python          ████████████████████████ 22.4%
+Java            ████████████████████ 18.4%
 Rust            ██████ 5.4%
 Swift           █ 0.7%
 
@@ -211,8 +211,8 @@ Swift           █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 43
-    "JavaScript" : 36
+    "Go" : 41
+    "JavaScript" : 37
     "Python" : 33
     "Java" : 27
     "Rust" : 8
@@ -222,7 +222,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![tpu](https://img.shields.io/badge/tpu-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-11-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![tpu](https://img.shields.io/badge/tpu-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
 
 
 ---
@@ -274,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 21 Jul 2026 18:20:18 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 21 Jul 2026 20:00:59 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
