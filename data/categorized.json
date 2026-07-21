@@ -61,21 +61,6 @@
       "user": "Romina Elena Mendez Escobar"
     },
     {
-      "title": "DiffusionGemma: The Developer Guide",
-      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l",
-      "published_at": "2026-07-16T14:27:09Z",
-      "description": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
-      "tags": [
-        "gemma",
-        "google",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp2zipl6m21w9lod7kplw.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -134,36 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
     },
     {
       "title": "Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG",
@@ -448,6 +403,21 @@
       "user": "xbill"
     },
     {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+      "published_at": "2026-07-14T16:38:47Z",
+      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "tags": [
+        "rust",
+        "ai",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
+      "source": "Dev.to",
+      "user": "Zach"
+    },
+    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -506,21 +476,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
       "source": "Dev.to",
       "user": "bredmond1019"
-    },
-    {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
-      "published_at": "2026-07-14T16:38:47Z",
-      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "tags": [
-        "rust",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
-      "source": "Dev.to",
-      "user": "Zach"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -690,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1223,
       "user": "tandpfun"
     },
     {
@@ -705,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "Blueturboguy07"
     },
     {
@@ -720,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "HeiGeAi"
     },
     {
@@ -735,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1107,
       "user": "hoainho"
     },
     {
@@ -765,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 884,
       "user": "nethical6"
     },
     {
@@ -799,21 +754,6 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "KlaatAI/klaatcode - Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "url": "https://github.com/KlaatAI/klaatcode",
-      "published_at": "2026-07-17T11:38:10Z",
-      "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291060701?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "KlaatAI"
-    },
-    {
       "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
       "url": "https://github.com/yc-duan/fastctx",
       "published_at": "2026-07-17T03:05:57Z",
@@ -825,8 +765,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 200,
       "user": "yc-duan"
+    },
+    {
+      "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "url": "https://github.com/duxweb/ReTheme",
+      "published_at": "2026-07-18T16:27:16Z",
+      "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "duxweb"
     },
     {
       "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
@@ -846,7 +801,7 @@
       "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
       "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
       "published_at": "2026-07-20T08:07:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "python-3.x",
@@ -1218,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11072,
+      "stars": 11181,
       "user": "Fei-Away"
     },
     {
@@ -1233,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1223,
       "user": "tandpfun"
     },
     {
@@ -1248,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "Blueturboguy07"
     },
     {
@@ -1263,23 +1218,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "HeiGeAi"
     },
     {
-      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "published_at": "2026-07-18T20:00:46Z",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 172,
-      "user": "joeseesun"
+      "stars": 177,
+      "user": "lyu0805"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -1293,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1107,
       "user": "hoainho"
     },
     {
@@ -1308,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 880,
       "user": "pablostanley"
     },
     {
@@ -1323,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "thesysdev"
     },
     {
@@ -1357,31 +1312,19 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "KlaatAI/klaatcode - Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "url": "https://github.com/KlaatAI/klaatcode",
-      "published_at": "2026-07-17T11:38:10Z",
-      "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "title": "rjx18/codor - GitHub Repository",
+      "url": "https://github.com/rjx18/codor",
+      "published_at": "2026-07-19T15:09:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291060701?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 174,
-      "user": "KlaatAI"
-    },
-    {
-      "title": "JSON5E - JSON5 for Humans",
-      "url": "https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md",
-      "published_at": "2026-07-20T04:02:49.597-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "borisk"
+      "stars": 176,
+      "user": "rjx18"
     },
     {
       "title": "How to extract text from .doc/.ppt/.xls format on client side?",
@@ -1416,7 +1359,7 @@
       "title": "Could this fetch response still be cached by the browser?",
       "url": "https://stackoverflow.com/questions/79982108/could-this-fetch-response-still-be-cached-by-the-browser",
       "published_at": "2026-07-20T01:59:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "javascript",
         "fetch-api",
@@ -1866,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1107,
       "user": "hoainho"
     },
     {
@@ -1881,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 875,
       "user": "lopopolo"
     },
     {
@@ -1896,8 +1839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 518,
       "user": "xiejunjie524"
+    },
+    {
+      "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "published_at": "2026-07-15T12:45:47Z",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "pyang5166"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -1915,19 +1873,18 @@
       "user": "EthanXiang777"
     },
     {
-      "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "url": "https://github.com/pyang5166/gbro-collage-broll",
-      "published_at": "2026-07-15T12:45:47Z",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "title": "Customtkinter Application wont end after pressing the x on the second window",
+      "url": "https://stackoverflow.com/questions/79982384/customtkinter-application-wont-end-after-pressing-the-x-on-the-second-window",
+      "published_at": "2026-07-21T01:16:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "tkinter",
+        "customtkinter"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
-      "source": "GitHub",
-      "stars": 473,
-      "user": "pyang5166"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Esc "
     },
     {
       "title": "How do I optimize python watchdog to reduce filtering logic",
@@ -2003,7 +1960,7 @@
       "title": "Why does if __name__ == \"__main__\": exist in Python, and when should it be used?",
       "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
       "published_at": "2026-07-20T08:07:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "python-3.x",
@@ -2056,19 +2013,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ann"
-    },
-    {
-      "title": "If I modify an imported Python module while a Slurm job is running, will later iterations use the new code?",
-      "url": "https://stackoverflow.com/questions/79982018/if-i-modify-an-imported-python-module-while-a-slurm-job-is-running-will-later-i",
-      "published_at": "2026-07-19T13:59:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmed"
     },
     {
       "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
@@ -2489,6 +2433,20 @@
   ],
   "Cloud": [
     {
+      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
+      "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5",
+      "published_at": "2026-07-17T13:39:29Z",
+      "description": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
+      "tags": [
+        "gemma",
+        "aws",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitrl8gh3fyh01vpega3c.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Gemma4 DevOps In Action",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
       "published_at": "2026-07-20T14:20:31Z",
@@ -2517,20 +2475,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
       "source": "Dev.to",
       "user": "Romina Elena Mendez Escobar"
-    },
-    {
-      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
-      "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5",
-      "published_at": "2026-07-17T13:39:29Z",
-      "description": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
-      "tags": [
-        "gemma",
-        "aws",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitrl8gh3fyh01vpega3c.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
@@ -2606,21 +2550,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
@@ -2769,6 +2698,21 @@
         "gemma"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
+      "published_at": "2026-06-30T01:18:13Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "gemma",
+        "tpu",
+        "benchmark"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3202,6 +3146,21 @@
       "user": "Kate Pond"
     },
     {
+      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
+      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn",
+      "published_at": "2026-06-23T14:46:09Z",
+      "description": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
+      "tags": [
+        "programming",
+        "go",
+        "opensource",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4vaz1fw7bhwso5m2rz47.jpg",
+      "source": "Dev.to",
+      "user": "Inhere"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3249,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11072,
+      "stars": 11181,
       "user": "Fei-Away"
     },
     {
@@ -3264,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1223,
       "user": "tandpfun"
     },
     {
@@ -3279,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "Blueturboguy07"
     },
     {
@@ -3294,23 +3253,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "HeiGeAi"
     },
     {
-      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "published_at": "2026-07-18T20:00:46Z",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 172,
-      "user": "joeseesun"
+      "stars": 177,
+      "user": "lyu0805"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -3324,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1107,
       "user": "hoainho"
     },
     {
@@ -3339,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 875,
       "user": "lopopolo"
     },
     {
@@ -3354,8 +3313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 518,
       "user": "xiejunjie524"
+    },
+    {
+      "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "published_at": "2026-07-15T12:45:47Z",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "pyang5166"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -3373,21 +3347,6 @@
       "user": "EthanXiang777"
     },
     {
-      "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "url": "https://github.com/pyang5166/gbro-collage-broll",
-      "published_at": "2026-07-15T12:45:47Z",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
-      "source": "GitHub",
-      "stars": 473,
-      "user": "pyang5166"
-    },
-    {
       "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
       "url": "https://github.com/nethical6/conversation-steganography",
       "published_at": "2026-07-17T04:58:22Z",
@@ -3399,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 884,
       "user": "nethical6"
     },
     {
@@ -3414,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 273,
       "user": "paxlabs-inc"
     },
     {
@@ -3429,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "shibadogcap"
     },
     {
@@ -3444,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 97,
       "user": "scion-frontiers"
     },
     {
@@ -3474,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 880,
       "user": "pablostanley"
     },
     {
@@ -3489,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "thesysdev"
     },
     {
@@ -3523,19 +3482,49 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "KlaatAI/klaatcode - Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "url": "https://github.com/KlaatAI/klaatcode",
-      "published_at": "2026-07-17T11:38:10Z",
-      "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "title": "rjx18/codor - GitHub Repository",
+      "url": "https://github.com/rjx18/codor",
+      "published_at": "2026-07-19T15:09:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291060701?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 174,
-      "user": "KlaatAI"
+      "stars": 176,
+      "user": "rjx18"
+    },
+    {
+      "title": "mesamirh/MovieBox-Tui - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "published_at": "2026-07-16T07:09:47Z",
+      "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "mesamirh"
+    },
+    {
+      "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
+      "url": "https://github.com/yc-duan/fastctx",
+      "published_at": "2026-07-17T03:05:57Z",
+      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
+      "source": "GitHub",
+      "stars": 200,
+      "user": "yc-duan"
     },
     {
       "title": "inbjo/MirrorProxy - All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. ",
@@ -3553,36 +3542,6 @@
       "user": "inbjo"
     },
     {
-      "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
-      "url": "https://github.com/yc-duan/fastctx",
-      "published_at": "2026-07-17T03:05:57Z",
-      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
-      "source": "GitHub",
-      "stars": 176,
-      "user": "yc-duan"
-    },
-    {
-      "title": "mesamirh/MovieBox-Tui - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "published_at": "2026-07-16T07:09:47Z",
-      "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
-      "source": "GitHub",
-      "stars": 173,
-      "user": "mesamirh"
-    },
-    {
       "title": "gakonst/nanocodex - Blazing-fast, minimal, library-first reimplementation of Codex",
       "url": "https://github.com/gakonst/nanocodex",
       "published_at": "2026-07-15T22:46:14Z",
@@ -3594,23 +3553,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "gakonst"
     },
     {
-      "title": "Ruisi-Lu/academic-literature-mining-skill - Citation-complete agent-assisted scholarly literature mining in Rust with NVIDIA Nemotron and Qdrant",
-      "url": "https://github.com/Ruisi-Lu/academic-literature-mining-skill",
-      "published_at": "2026-07-18T17:34:00Z",
-      "description": "Citation-complete agent-assisted scholarly literature mining in Rust with NVIDIA Nemotron and Qdrant",
+      "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "url": "https://github.com/duxweb/ReTheme",
+      "published_at": "2026-07-18T16:27:16Z",
+      "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34283364?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 72,
-      "user": "Ruisi-Lu"
+      "stars": 76,
+      "user": "duxweb"
     },
     {
       "title": "Gitolite",
