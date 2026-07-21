@@ -383,7 +383,7 @@
         "webdev",
         "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9krbhbdv3n2ua40w97rt.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faoms0c2v2au9nexs8y9s.png",
       "source": "Dev.to",
       "user": "Zach"
     },
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1245,
       "user": "tandpfun"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 688,
       "user": "Blueturboguy07"
     },
     {
@@ -675,8 +675,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "HeiGeAi"
+    },
+    {
+      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "published_at": "2026-07-18T23:17:55Z",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "livetennisapi"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -690,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1270,
       "user": "hoainho"
     },
     {
@@ -720,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 892,
       "user": "nethical6"
     },
     {
@@ -735,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 296,
       "user": "Vincentwei1021"
     },
     {
@@ -780,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "yc-duan"
     },
     {
@@ -826,6 +841,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
+    },
+    {
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "published_at": "2026-07-21T10:00:00.000Z",
+      "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
@@ -960,22 +990,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Adobe camera app&#8217;s new feature will critique your photos using AI",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "published_at": "2026-07-20T15:45:00.000Z",
-      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Adobe",
-        "camera",
-        "iOS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -1189,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11373,
+      "stars": 11401,
       "user": "Fei-Away"
     },
     {
@@ -1204,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1245,
       "user": "tandpfun"
     },
     {
@@ -1219,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 688,
       "user": "Blueturboguy07"
     },
     {
@@ -1234,23 +1248,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "HeiGeAi"
     },
     {
-      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "published_at": "2026-07-18T20:00:46Z",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "published_at": "2026-07-18T23:17:55Z",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 199,
-      "user": "joeseesun"
+      "stars": 249,
+      "user": "livetennisapi"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -1264,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1270,
       "user": "hoainho"
     },
     {
@@ -1279,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 909,
       "user": "pablostanley"
     },
     {
@@ -1309,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 296,
       "user": "Vincentwei1021"
     },
     {
@@ -1341,20 +1355,6 @@
       "source": "GitHub",
       "stars": 250,
       "user": "robinhood-ape"
-    },
-    {
-      "title": "JS seemingly calculating Fibonacci wrong",
-      "url": "https://stackoverflow.com/questions/79983480/js-seemingly-calculating-fibonacci-wrong",
-      "published_at": "2026-07-21T09:20:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "fibonacci",
-        "largenumber"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vorac"
     },
     {
       "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
@@ -1487,6 +1487,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
+    },
+    {
+      "title": "Is fixing child.prototype.constructor necessary in ES5 if we solely rely on [[Prototype]] check methods like Object.getPrototypeOf()?",
+      "url": "https://stackoverflow.com/questions/79958924/is-fixing-child-prototype-constructor-necessary-in-es5-if-we-solely-rely-on-pr",
+      "published_at": "2026-06-14T22:38:15.000Z",
+      "description": "Stack Overflow question · 8 answers · score 0",
+      "tags": [
+        "javascript",
+        "constructor",
+        "prototype",
+        "ecmascript-5",
+        "ecmascript-3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "krabat1"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1806,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1270,
       "user": "hoainho"
     },
     {
@@ -1821,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1026,
       "user": "lopopolo"
     },
     {
@@ -1836,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 556,
       "user": "xiejunjie524"
     },
     {
@@ -1851,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 529,
       "user": "pyang5166"
     },
     {
@@ -1868,6 +1884,46 @@
       "source": "GitHub",
       "stars": 487,
       "user": "EthanXiang777"
+    },
+    {
+      "title": "Python match case syntax gotcha",
+      "url": "https://stackoverflow.com/questions/79983502/python-match-case-syntax-gotcha",
+      "published_at": "2026-07-21T11:14:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "structural-pattern-matching"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mortz"
+    },
+    {
+      "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
+      "url": "https://stackoverflow.com/questions/79983484/why-can-importlib-reload-leave-existing-class-instances-using-stale-method-imp",
+      "published_at": "2026-07-21T10:06:10.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "module",
+        "cpython",
+        "python-importlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ali-raza-py"
+    },
+    {
+      "title": "Trying to improve my python error handling with try/except loops. Whats the best way to validate user input without making the code repetitive?",
+      "url": "https://stackoverflow.com/questions/79983481/trying-to-improve-my-python-error-handling-with-try-except-loops-whats-the-best",
+      "published_at": "2026-07-21T09:45:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Guilherme Lucidi"
     },
     {
       "title": "Application won't end after pressing the x on the second window",
@@ -1887,7 +1943,7 @@
       "title": "How do I optimize python watchdog to reduce filtering logic",
       "url": "https://stackoverflow.com/questions/79982310/how-do-i-optimize-python-watchdog-to-reduce-filtering-logic",
       "published_at": "2026-07-20T17:37:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -1914,18 +1970,17 @@
       "user": "SivaKrishna Makani"
     },
     {
-      "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
-      "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
-      "published_at": "2026-07-20T15:24:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Default Creation Date in PIL ImageCms",
+      "url": "https://stackoverflow.com/questions/79982191/default-creation-date-in-pil-imagecms",
+      "published_at": "2026-07-20T10:08:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "apache",
-        "airflow"
+        "python-imaging-library"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "tutoto"
+      "user": "malat"
     },
     {
       "title": "Linear regression optimisation with python",
@@ -1941,17 +1996,18 @@
       "user": "daniel sas"
     },
     {
-      "title": "Default Creation Date in PIL ImageCms",
-      "url": "https://stackoverflow.com/questions/79982191/default-creation-date-in-pil-imagecms",
-      "published_at": "2026-07-20T10:08:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Apache Airflow (2.10.3) - Airflow Scheduler crashes on XCom deserialization of custom str subclass",
+      "url": "https://stackoverflow.com/questions/79982279/apache-airflow-2-10-3-airflow-scheduler-crashes-on-xcom-deserialization-of-c",
+      "published_at": "2026-07-20T15:24:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "python-imaging-library"
+        "apache",
+        "airflow"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "malat"
+      "user": "tutoto"
     },
     {
       "title": "Python tkinter wait_window does not return",
@@ -1967,47 +2023,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maxpa1n87"
-    },
-    {
-      "title": "finding common characters from an array of words",
-      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
-      "published_at": "2026-07-19T13:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ann"
-    },
-    {
-      "title": "Is my Variable Elimination implementation correct? Asking because different TAs marked them differently",
-      "url": "https://stackoverflow.com/questions/79982005/is-my-variable-elimination-implementation-correct-asking-because-different-tas",
-      "published_at": "2026-07-19T12:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "artificial-intelligence",
-        "bayesian",
-        "bayesian-networks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user12456500"
-    },
-    {
-      "title": "If I modify an imported Python module while a Slurm job is running, will later iterations use the new code?",
-      "url": "https://stackoverflow.com/questions/79982018/if-i-modify-an-imported-python-module-while-a-slurm-job-is-running-will-later-i",
-      "published_at": "2026-07-19T13:59:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmed"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2239,19 +2254,17 @@
       "user": "inbjo"
     },
     {
-      "title": "A deep dive into my Forgejo setup",
-      "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
-      "published_at": "2026-07-20T11:40:40.488-05:00",
-      "description": "Hello folks! I've recently resurrected my will for tech blogging and I thought someone else out there might also be considering setting up a Forgejo instance so I took the time to write about my journey into it.\r\n\r\nI'm looking forward to feedback, suggestions, etc, and I'll be happy to answer any questions too.\r\n\r\nHappy forgin'",
+      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+      "published_at": "2026-07-21T05:11:59.776-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
         "devops",
-        "show",
-        "systemd",
         "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Al3xFor"
+      "user": "GLaDER"
     },
     {
       "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
@@ -2362,6 +2375,20 @@
   ],
   "Mobile": [
     {
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "published_at": "2026-07-21T05:03:51.116-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "emacs",
+        "kotlin",
+        "scala"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jjba23"
+    },
+    {
       "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
       "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
       "published_at": "2026-07-20T23:39:35.000Z",
@@ -2392,22 +2419,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Adobe camera app&#8217;s new feature will critique your photos using AI",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "published_at": "2026-07-20T15:45:00.000Z",
-      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Adobe",
-        "camera",
-        "iOS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -3216,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11373,
+      "stars": 11401,
       "user": "Fei-Away"
     },
     {
@@ -3231,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1245,
       "user": "tandpfun"
     },
     {
@@ -3246,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 688,
       "user": "Blueturboguy07"
     },
     {
@@ -3261,23 +3272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "HeiGeAi"
     },
     {
-      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "published_at": "2026-07-18T20:00:46Z",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "published_at": "2026-07-18T23:17:55Z",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 199,
-      "user": "joeseesun"
+      "stars": 249,
+      "user": "livetennisapi"
     },
     {
       "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
@@ -3291,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1270,
       "user": "hoainho"
     },
     {
@@ -3306,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1026,
       "user": "lopopolo"
     },
     {
@@ -3321,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 556,
       "user": "xiejunjie524"
     },
     {
@@ -3336,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 529,
       "user": "pyang5166"
     },
     {
@@ -3366,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 892,
       "user": "nethical6"
     },
     {
@@ -3441,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 909,
       "user": "pablostanley"
     },
     {
@@ -3471,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 296,
       "user": "Vincentwei1021"
     },
     {
@@ -3516,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 313,
       "user": "mesamirh"
     },
     {
@@ -3531,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "yc-duan"
     },
     {
@@ -3578,6 +3589,19 @@
       "source": "GitHub",
       "stars": 99,
       "user": "duxweb"
+    },
+    {
+      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+      "published_at": "2026-07-21T05:11:59.776-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "GLaDER"
     },
     {
       "title": "Gitolite",
