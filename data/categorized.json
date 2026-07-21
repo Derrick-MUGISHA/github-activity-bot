@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
       "tags": [
         "discuss",
-        "management",
-        "codequality",
-        "product"
+        "ai",
+        "career",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Nazar Boyko"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -46,19 +46,34 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
+      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17",
+      "published_at": "2026-07-21T16:08:54Z",
+      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "tags": [
+        "ai",
+        "api",
+        "development",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F402qdonli9dvfkb6bl9s.webp",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
+      "published_at": "2026-07-20T14:05:39Z",
+      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
       "tags": [
         "discuss",
-        "ai",
-        "career",
-        "programming"
+        "management",
+        "codequality",
+        "product"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
       "source": "Dev.to",
-      "user": "Nazar Boyko"
+      "user": "Ben Halpern"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -194,21 +209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1268,
       "user": "tandpfun"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "Blueturboguy07"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1391,
       "user": "hoainho"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 905,
       "user": "nethical6"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 388,
       "user": "Vincentwei1021"
     },
     {
@@ -840,6 +840,51 @@
       "user": "Medulla Oblongata"
     },
     {
+      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+      "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+      "published_at": "2026-07-21T18:18:43.000Z",
+      "description": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "iPhone",
+        "Klarna"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "published_at": "2026-07-21T18:06:38.000Z",
+      "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "electrical grid"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "published_at": "2026-07-21T17:11:50.000Z",
+      "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Google",
+        "google gemini"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Threads rolls out parental supervision tools",
       "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
       "published_at": "2026-07-21T16:00:00.000Z",
@@ -913,36 +958,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "url": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-      "published_at": "2026-07-21T14:15:39.000Z",
-      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-      "tags": [
-        "Media & Entertainment",
-        "Netflix",
-        "Warner Bros",
-        "evergreens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "published_at": "2026-07-21T13:27:42.000Z",
-      "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Deezer",
-        "music streaming"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -1156,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11480,
+      "stars": 11485,
       "user": "Fei-Away"
     },
     {
@@ -1171,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1268,
       "user": "tandpfun"
     },
     {
@@ -1186,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "Blueturboguy07"
     },
     {
@@ -1231,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1391,
       "user": "hoainho"
     },
     {
@@ -1246,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 946,
       "user": "pablostanley"
     },
     {
@@ -1261,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 388,
       "user": "Vincentwei1021"
     },
     {
@@ -1276,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "thesysdev"
     },
     {
@@ -1308,6 +1323,21 @@
       "source": "GitHub",
       "stars": 250,
       "user": "robinhood-ape"
+    },
+    {
+      "title": "How to monkey patch Leaflet library?",
+      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
+      "published_at": "2026-07-21T17:37:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "leaflet",
+        "vite",
+        "monkeypatching"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "plswork04"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -1358,7 +1388,7 @@
       "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
       "url": "https://stackoverflow.com/questions/79983478/is-it-possible-to-retrieve-all-non-contiguous-text-selections-in-microsoft-word",
       "published_at": "2026-07-21T09:13:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "ms-word",
@@ -1440,20 +1470,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Why would one use WebAssembly in the Backend?",
-      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
-      "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "advice",
-        "javascript",
-        "webassembly"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Femi"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1758,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1391,
       "user": "hoainho"
     },
     {
@@ -1773,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1269,
       "user": "lopopolo"
     },
     {
@@ -1788,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "xiejunjie524"
     },
     {
@@ -1803,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "pyang5166"
     },
     {
@@ -1835,6 +1851,19 @@
       "user": "Traci Phillip"
     },
     {
+      "title": "How can I disable the constant font size of text when 3d zooming in plotly?",
+      "url": "https://stackoverflow.com/questions/79983614/how-can-i-disable-the-constant-font-size-of-text-when-3d-zooming-in-plotly",
+      "published_at": "2026-07-21T16:47:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "plotly"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "not2qubit"
+    },
+    {
       "title": "Check if matrix contains only specific values in numpy",
       "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
       "published_at": "2026-07-21T13:49:29.000Z",
@@ -1851,7 +1880,7 @@
       "title": "Is there a way to decipher nested and complex equations to its base components",
       "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
       "published_at": "2026-07-21T13:02:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "regex",
@@ -1893,7 +1922,7 @@
       "title": "Python match case syntax gotcha",
       "url": "https://stackoverflow.com/questions/79983502/python-match-case-syntax-gotcha",
       "published_at": "2026-07-21T11:14:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "structural-pattern-matching"
@@ -1942,21 +1971,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "Pandas df.info() shows None in Streamlit while head() and shape work correctly",
-      "url": "https://stackoverflow.com/questions/79982220/pandas-df-info-shows-none-in-streamlit-while-head-and-shape-work-correctly",
-      "published_at": "2026-07-20T11:38:26.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "streamlit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SivaKrishna Makani"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2259,20 +2273,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "IscaMan"
-    },
-    {
-      "title": "Why would one use WebAssembly in the Backend?",
-      "url": "https://stackoverflow.com/questions/79980516/why-would-one-use-webassembly-in-the-backend",
-      "published_at": "2026-07-14T04:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "advice",
-        "javascript",
-        "webassembly"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Femi"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
@@ -2759,7 +2759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 119,
       "user": "cursor"
     },
     {
@@ -3069,21 +3069,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3176,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
       "source": "GitHub",
-      "stars": 11480,
+      "stars": 11485,
       "user": "Fei-Away"
     },
     {
@@ -3191,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1268,
       "user": "tandpfun"
     },
     {
@@ -3206,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "Blueturboguy07"
     },
     {
@@ -3251,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1391,
       "user": "hoainho"
     },
     {
@@ -3266,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1269,
       "user": "lopopolo"
     },
     {
@@ -3281,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "xiejunjie524"
     },
     {
@@ -3296,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "pyang5166"
     },
     {
@@ -3326,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 905,
       "user": "nethical6"
     },
     {
@@ -3341,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "paxlabs-inc"
     },
     {
@@ -3401,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 946,
       "user": "pablostanley"
     },
     {
@@ -3416,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 388,
       "user": "Vincentwei1021"
     },
     {
@@ -3431,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 310,
       "user": "thesysdev"
     },
     {
@@ -3476,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 353,
       "user": "mesamirh"
     },
     {
@@ -3521,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 155,
       "user": "gakonst"
     },
     {
@@ -3536,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 119,
       "user": "cursor"
     },
     {
@@ -3563,19 +3548,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "robalex"
-    },
-    {
-      "title": "Gitolite",
-      "url": "https://gitolite.com/gitolite/index.html",
-      "published_at": "2026-07-20T07:10:14.933-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "matklad"
     },
     {
       "title": "How to extract text from .doc/.ppt/.xls format on client side?",
@@ -3635,21 +3607,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "UK government scraps plans for digital ID cards after millions of Brits opposed",
-      "url": "https://techcrunch.com/2026/07/21/uk-government-scraps-plans-for-digital-id-cards-after-millions-of-brits-opposed/",
-      "published_at": "2026-07-21T14:13:21.000Z",
-      "description": "The new U.K. government scrapped a digital ID program that millions of British people opposed, in place of a tax cut to tackle the cost of living.",
-      "tags": [
-        "Government & Policy",
-        "Privacy",
-        "In Brief",
-        "UK government"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
