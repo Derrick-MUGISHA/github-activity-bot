@@ -196,21 +196,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "The Myth of the Post-Documentation Era",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "published_at": "2026-07-13T15:59:11Z",
-      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "tags": [
-        "ai",
-        "documentation",
-        "opensource",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
       "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
       "published_at": "2026-07-09T22:12:22Z",
@@ -224,6 +209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
       "source": "Dev.to",
       "user": "christine"
+    },
+    {
+      "title": "The Myth of the Post-Documentation Era",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+      "published_at": "2026-07-13T15:59:11Z",
+      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "tags": [
+        "ai",
+        "documentation",
+        "opensource",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "What is an \"agentic harness,\" actually?",
@@ -463,21 +463,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
-      "published_at": "2026-07-14T16:38:47Z",
-      "description": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "tags": [
-        "rust",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faoms0c2v2au9nexs8y9s.png",
-      "source": "Dev.to",
-      "user": "Zach"
-    },
-    {
       "title": "The biggest World’s Fair yet powers down for the moment",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
       "published_at": "2026-07-03T14:45:31Z",
@@ -521,6 +506,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1291,
       "user": "tandpfun"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "Kritt-ai"
     },
     {
@@ -750,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 467,
       "user": "Icex0"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 915,
       "user": "nethical6"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 91,
       "user": "MobAI-App"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 452,
       "user": "Vincentwei1021"
     },
     {
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 286,
       "user": "yc-duan"
     },
     {
@@ -855,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "duxweb"
     },
     {
@@ -902,7 +902,7 @@
       "title": "Why does asyncio deadlock without raising an exception?",
       "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
       "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "async-await",
@@ -926,6 +926,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Medulla Oblongata"
+    },
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "published_at": "2026-07-22T03:20:57.000Z",
+      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "OpenAI",
+        "Physical Intelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Dimension Capital&#8217;s $800M third fund shows the intersection of science and compute is booming",
+      "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "published_at": "2026-07-22T01:27:58.000Z",
+      "description": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+      "tags": [
+        "Biotech & Health",
+        "Venture",
+        "biotech",
+        "Chai Discovery"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
@@ -1027,21 +1058,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-      "published_at": "2026-07-21T18:06:38.000Z",
-      "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
-      "tags": [
-        "AI",
-        "Climate",
-        "data centers",
-        "electrical grid"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1251,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1291,
       "user": "tandpfun"
     },
     {
@@ -1266,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "Kritt-ai"
     },
     {
@@ -1296,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 222,
       "user": "joeseesun"
     },
     {
@@ -1311,8 +1327,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 216,
       "user": "lyu0805"
+    },
+    {
+      "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "published_at": "2026-07-20T16:35:09Z",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "Charles-0509"
     },
     {
       "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
@@ -1326,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 971,
       "user": "pablostanley"
     },
     {
@@ -1341,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 452,
       "user": "Vincentwei1021"
     },
     {
@@ -1388,6 +1419,20 @@
       "source": "GitHub",
       "stars": 250,
       "user": "robinhood-ape"
+    },
+    {
+      "title": "Javascript not firing 100% of the time",
+      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
+      "published_at": "2026-07-22T02:58:09.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "rest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marc Lawson"
     },
     {
       "title": "How to monkey patch Leaflet library?",
@@ -1494,7 +1539,7 @@
       "title": "How to extract text from .doc/.ppt/.xls format on client side?",
       "url": "https://stackoverflow.com/questions/79982360/how-to-extract-text-from-doc-ppt-xls-format-on-client-side",
       "published_at": "2026-07-20T21:31:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "tooling-recommendation",
         "javascript"
@@ -1518,21 +1563,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Could this fetch response still be cached by the browser?",
-      "url": "https://stackoverflow.com/questions/79982108/could-this-fetch-response-still-be-cached-by-the-browser",
-      "published_at": "2026-07-20T01:59:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "javascript",
-        "fetch-api",
-        "browser-cache",
-        "revokeobjecturl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
@@ -1837,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1742,
       "user": "lopopolo"
     },
     {
@@ -1852,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 597,
       "user": "xiejunjie524"
     },
     {
@@ -1882,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 467,
       "user": "Icex0"
     },
     {
@@ -1897,14 +1927,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 369,
       "user": "powerycy"
+    },
+    {
+      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
+      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
+      "published_at": "2026-07-22T02:53:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "matplotlib",
+        "dynamic",
+        "colors",
+        "matplotlib-animation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bill Kerr"
     },
     {
       "title": "f-string W3School Challenge",
       "url": "https://stackoverflow.com/questions/79983703/f-string-w3school-challenge",
       "published_at": "2026-07-21T23:02:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "f-string"
@@ -1926,22 +1972,6 @@
       "user": "Edward Moreno"
     },
     {
-      "title": "Why does asyncio deadlock without raising an exception?",
-      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
-      "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "async-await",
-        "concurrency",
-        "python-asyncio",
-        "deadlock"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anthony Joseph"
-    },
-    {
       "title": "Subclassing ndb's Property classes such that static type checking works",
       "url": "https://stackoverflow.com/questions/79983655/subclassing-ndbs-property-classes-such-that-static-type-checking-works",
       "published_at": "2026-07-21T18:50:29.000Z",
@@ -1954,6 +1984,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
+    },
+    {
+      "title": "Why does asyncio deadlock without raising an exception?",
+      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
+      "published_at": "2026-07-21T21:39:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "async-await",
+        "concurrency",
+        "python-asyncio",
+        "deadlock"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anthony Joseph"
     },
     {
       "title": "A smart document with meta layers /meta tags with classifications?",
@@ -2024,20 +2070,6 @@
       "user": "not2qubit"
     },
     {
-      "title": "Is there a way to decipher nested and complex equations to its base components",
-      "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
-      "published_at": "2026-07-21T13:02:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "regex",
-        "parsing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "frank"
-    },
-    {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
       "url": "https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/",
       "published_at": "2026-07-20T22:07:49.000Z",
@@ -2099,6 +2131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2279,6 +2326,20 @@
       "user": "velmu"
     },
     {
+      "title": "Javascript not firing 100% of the time",
+      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
+      "published_at": "2026-07-22T02:58:09.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "rest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marc Lawson"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
       "published_at": "2026-07-20T20:47:13.000Z",
@@ -2324,7 +2385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 91,
       "user": "MobAI-App"
     },
     {
@@ -2721,21 +2782,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
-      "published_at": "2026-07-19T05:58:49Z",
-      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "0xtbug"
-    },
-    {
       "title": "cursor/minisqlite - GitHub Repository",
       "url": "https://github.com/cursor/minisqlite",
       "published_at": "2026-07-17T07:41:30Z",
@@ -2747,7 +2793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "cursor"
     },
     {
@@ -2933,17 +2979,19 @@
       "user": "2352500"
     },
     {
-      "title": "git --end-of-options",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "published_at": "2026-07-21T07:31:15.622-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "published_at": "2026-07-20T16:35:09Z",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "tags": [
-        "security",
-        "vcs"
+        "go",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "robalex"
+      "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "Charles-0509"
     },
     {
       "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
@@ -2959,17 +3007,17 @@
       "user": "dustyweb"
     },
     {
-      "title": "432 Linux kernel CVEs published in the last 24 hours",
-      "url": "https://lore.kernel.org/linux-cve-announce/",
-      "published_at": "2026-07-20T22:50:28.072-05:00",
+      "title": "git --end-of-options",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "published_at": "2026-07-21T07:31:15.622-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "linux",
-        "security"
+        "security",
+        "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Helithumper"
+      "user": "robalex"
     },
     {
       "title": "What is the best way to go to load google recaptcha after consent?",
@@ -3174,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1291,
       "user": "tandpfun"
     },
     {
@@ -3189,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "Kritt-ai"
     },
     {
@@ -3219,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 222,
       "user": "joeseesun"
     },
     {
@@ -3234,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 216,
       "user": "lyu0805"
     },
     {
@@ -3249,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1592,
+      "stars": 1742,
       "user": "lopopolo"
     },
     {
@@ -3264,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 597,
       "user": "xiejunjie524"
     },
     {
@@ -3294,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 467,
       "user": "Icex0"
     },
     {
@@ -3309,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 369,
       "user": "powerycy"
     },
     {
@@ -3324,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 915,
       "user": "nethical6"
     },
     {
@@ -3354,8 +3402,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 91,
       "user": "MobAI-App"
+    },
+    {
+      "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "published_at": "2026-07-20T16:35:09Z",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "Charles-0509"
     },
     {
       "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
@@ -3373,21 +3436,6 @@
       "user": "iluvx"
     },
     {
-      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
-      "published_at": "2026-07-19T05:58:49Z",
-      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "0xtbug"
-    },
-    {
       "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
       "url": "https://github.com/pablostanley/yoinks",
       "published_at": "2026-07-16T07:06:09Z",
@@ -3399,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 971,
       "user": "pablostanley"
     },
     {
@@ -3414,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 452,
       "user": "Vincentwei1021"
     },
     {
@@ -3474,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 369,
       "user": "mesamirh"
     },
     {
@@ -3489,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 286,
       "user": "yc-duan"
     },
     {
@@ -3504,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 139,
       "user": "cursor"
     },
     {
@@ -3519,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "duxweb"
     },
     {
@@ -3534,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 86,
       "user": "vncsmnl"
     },
     {
@@ -3580,7 +3628,7 @@
       "title": "How to extract text from .doc/.ppt/.xls format on client side?",
       "url": "https://stackoverflow.com/questions/79982360/how-to-extract-text-from-doc-ppt-xls-format-on-client-side",
       "published_at": "2026-07-20T21:31:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "tooling-recommendation",
         "javascript"
