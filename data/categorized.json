@@ -61,21 +61,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
       "published_at": "2026-07-21T03:48:40Z",
@@ -164,6 +149,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "MCP Configuration for Looker with Antigravity CLI",
@@ -667,18 +667,6 @@
       "user": "indigodaddy"
     },
     {
-      "title": "Ask HN: Gmail account security",
-      "url": "https://news.ycombinator.com/item?id=30051054",
-      "published_at": "2022-01-23T22:15:25Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "caseyf7"
-    },
-    {
       "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "published_at": "2026-07-21T15:38:04.837-05:00",
@@ -692,6 +680,18 @@
       "user": "dustyweb"
     },
     {
+      "title": "Ask HN: Gmail account security",
+      "url": "https://news.ycombinator.com/item?id=30051054",
+      "published_at": "2022-01-23T22:15:25Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "caseyf7"
+    },
+    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1350,
       "user": "tandpfun"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "Kritt-ai"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 951,
       "user": "nethical6"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 553,
       "user": "Jakubantalik"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 505,
       "user": "Vincentwei1021"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "pireel"
     },
     {
@@ -924,6 +924,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Medulla Oblongata"
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "published_at": "2026-07-22T20:49:03.000Z",
+      "description": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "chinese ai",
+        "kimi",
+        "moonshot"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "published_at": "2026-07-22T20:36:41.000Z",
+      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+      "tags": [
+        "Social",
+        "lawsuit",
+        "Meta",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
@@ -1032,32 +1063,50 @@
       "user": "Ram Iyer"
     },
     {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "published_at": "2026-07-22T16:24:08.000Z",
-      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
+      "url": "https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/",
+      "published_at": "2026-07-22T16:53:24.000Z",
+      "description": "Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the",
       "tags": [
-        "Startups",
-        "AI",
-        "Arcee AI"
+        "Healthcare AI",
+        "Machine Learning",
+        "Medical Imaging",
+        "Deep Learning",
+        "monai"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
     },
     {
-      "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "published_at": "2026-07-22T16:23:09.000Z",
-      "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "title": "How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/",
+      "published_at": "2026-07-22T16:42:12.000Z",
+      "description": "Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th",
       "tags": [
         "AI",
-        "Media & Entertainment",
-        "Substack"
+        "gemini",
+        "#PromptEngineering",
+        "llm"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Joan Ayebola"
+    },
+    {
+      "title": "How to Evaluate AI Code Quality: A Practical Guide for Engineers",
+      "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/",
+      "published_at": "2026-07-22T16:40:37.000Z",
+      "description": "You asked the AI to write a function. It gave you something that looks right. It even runs. But is it actually good? Most engineers stop there. They see green and move on. That habit will quietly caus",
+      "tags": [
+        "AI",
+        "Code Quality",
+        "llm",
+        "clean code"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1102,21 +1151,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Balogun Wahab"
-    },
-    {
-      "title": "That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
-      "url": "https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
-      "published_at": "2026-07-20T16:59:02.000Z",
-      "description": "It's mid 2026, and the best frontier models out there still hallucinate. I want you to gain two things from reading this article: understanding that AI hallucinations are still real and possibly harmf",
-      "tags": [
-        "AI",
-        "llm",
-        "hallucinations",
-        "coding agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Omer Rosenbaum"
     }
   ],
   "JavaScript": [
@@ -1267,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1350,
       "user": "tandpfun"
     },
     {
@@ -1282,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 390,
       "user": "gnipbao"
     },
     {
@@ -1297,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "Kritt-ai"
     },
     {
@@ -1327,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "lyu0805"
     },
     {
@@ -1357,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1040,
       "user": "pablostanley"
     },
     {
@@ -1372,23 +1406,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 553,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "published_at": "2026-07-21T14:24:08Z",
-      "description": "Get notified when big trades happen on Hyperliquid.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "0xhype"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -1402,8 +1421,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 505,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "published_at": "2026-07-21T14:24:08Z",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
+      "source": "GitHub",
+      "stars": 503,
+      "user": "0xhype"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -1417,8 +1451,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "pireel"
+    },
+    {
+      "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
+      "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+      "published_at": "2026-07-22T12:35:25.722-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jado"
     },
     {
       "title": "How to see service worker errors in Chromium debugger?",
@@ -1433,20 +1479,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AlanQ"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "iOS keyboard breaks page layout when opened",
@@ -1465,19 +1497,18 @@
       "user": "AbsolutLeo"
     },
     {
-      "title": "How to monkey patch Leaflet library?",
-      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
-      "published_at": "2026-07-21T17:37:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
-        "leaflet",
-        "vite",
-        "monkeypatching"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "plswork04"
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Javascript not firing 100% of the time",
@@ -1492,6 +1523,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marc Lawson"
+    },
+    {
+      "title": "How to monkey patch Leaflet library?",
+      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
+      "published_at": "2026-07-21T17:37:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "javascript",
+        "leaflet",
+        "vite",
+        "monkeypatching"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "plswork04"
     },
     {
       "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
@@ -1568,6 +1614,21 @@
       "user": "stonypaul"
     },
     {
+      "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/",
+      "published_at": "2026-07-22T16:47:40.000Z",
+      "description": "A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps",
+      "tags": [
+        "shadcn ui",
+        "JavaScript",
+        "React",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
+    },
+    {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
       "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
       "published_at": "2026-07-20T21:27:11.000Z",
@@ -1610,22 +1671,6 @@
         "PostgreSQL",
         "Security",
         "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-      "published_at": "2026-07-20T13:50:42.000Z",
-      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-      "tags": [
-        "JavaScript",
-        "Security",
-        "Devops",
-        "Azure",
-        "Node.js"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -1855,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2162,
+      "stars": 2175,
       "user": "lopopolo"
     },
     {
@@ -1885,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 510,
       "user": "powerycy"
     },
     {
@@ -1917,6 +1962,19 @@
       "source": "GitHub",
       "stars": 488,
       "user": "Icex0"
+    },
+    {
+      "title": "PyPI releases now reject new files after 14 days",
+      "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+      "published_at": "2026-07-22T10:01:49.549-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ngoldbaum"
     },
     {
       "title": "Best Way to Specify Linux Distribution Repo Version of Python Dependencies?",
@@ -2255,35 +2313,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-      "published_at": "2026-07-21T05:11:59.776-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "GLaDER"
-    },
-    {
-      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-      "published_at": "2026-07-20T13:50:42.000Z",
-      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-      "tags": [
-        "JavaScript",
-        "Security",
-        "Devops",
-        "Azure",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "WebDev": [
@@ -2326,7 +2355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "pireel"
     },
     {
@@ -2341,20 +2370,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cole-k"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "iOS keyboard breaks page layout when opened",
@@ -2373,6 +2388,20 @@
       "user": "AbsolutLeo"
     },
     {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
@@ -2385,6 +2414,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marc Lawson"
+    },
+    {
+      "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/",
+      "published_at": "2026-07-22T16:47:40.000Z",
+      "description": "A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps",
+      "tags": [
+        "shadcn ui",
+        "JavaScript",
+        "React",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
@@ -2452,22 +2496,6 @@
       "user": "AbsolutLeo"
     },
     {
-      "title": "Google is making it easier to switch from iPhone to Android",
-      "url": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
-      "published_at": "2026-07-22T17:08:03.000Z",
-      "description": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.",
-      "tags": [
-        "Apps",
-        "Hardware",
-        "Android",
-        "Google",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
       "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
       "published_at": "2026-07-20T21:27:11.000Z",
@@ -2514,21 +2542,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -2632,6 +2645,21 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2771,6 +2799,21 @@
       "user": "goose_lake"
     },
     {
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "published_at": "2026-07-22T20:36:41.000Z",
+      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+      "tags": [
+        "Social",
+        "lawsuit",
+        "Meta",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
       "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
       "published_at": "2026-07-22T19:42:56.000Z",
@@ -2800,37 +2843,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Balogun Wahab"
-    },
-    {
-      "title": "From Manufacturing to Microservices: Universal Lessons About Reliability",
-      "url": "https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/",
-      "published_at": "2026-07-20T13:53:02.000Z",
-      "description": "Software engineers often think reliability is a modern challenge. We discuss uptime, distributed systems, observability, and fault tolerance as if they belong exclusively to cloud computing. In realit",
-      "tags": [
-        "Microservices",
-        "Software Engineering",
-        "Reliability",
-        "#manufacturing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-      "published_at": "2026-07-20T13:50:42.000Z",
-      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-      "tags": [
-        "JavaScript",
-        "Security",
-        "Devops",
-        "Azure",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Database": [
@@ -2873,7 +2885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "cursor"
     },
     {
@@ -2903,22 +2915,6 @@
         "PostgreSQL",
         "Security",
         "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-      "published_at": "2026-07-20T13:50:42.000Z",
-      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-      "tags": [
-        "JavaScript",
-        "Security",
-        "Devops",
-        "Azure",
-        "Node.js"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -2987,18 +2983,6 @@
       "user": "helsinkiandrew"
     },
     {
-      "title": "Ask HN: Gmail account security",
-      "url": "https://news.ycombinator.com/item?id=30051054",
-      "published_at": "2022-01-23T22:15:25Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "caseyf7"
-    },
-    {
       "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "published_at": "2026-07-21T15:38:04.837-05:00",
@@ -3010,6 +2994,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dustyweb"
+    },
+    {
+      "title": "Ask HN: Gmail account security",
+      "url": "https://news.ycombinator.com/item?id=30051054",
+      "published_at": "2022-01-23T22:15:25Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "caseyf7"
     },
     {
       "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
@@ -3087,6 +3083,19 @@
       "user": "raymii"
     },
     {
+      "title": "PyPI releases now reject new files after 14 days",
+      "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+      "published_at": "2026-07-22T10:01:49.549-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ngoldbaum"
+    },
+    {
       "title": "Google Drive and Google Docs API | authentication exception: invalid scope, bad request",
       "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad",
       "published_at": "2026-07-22T15:12:24.000Z",
@@ -3129,22 +3138,6 @@
         "PostgreSQL",
         "Security",
         "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-      "published_at": "2026-07-20T13:50:42.000Z",
-      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-      "tags": [
-        "JavaScript",
-        "Security",
-        "Devops",
-        "Azure",
-        "Node.js"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -3305,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1350,
       "user": "tandpfun"
     },
     {
@@ -3320,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 390,
       "user": "gnipbao"
     },
     {
@@ -3335,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "Kritt-ai"
     },
     {
@@ -3365,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "lyu0805"
     },
     {
@@ -3380,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2162,
+      "stars": 2175,
       "user": "lopopolo"
     },
     {
@@ -3410,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 510,
       "user": "powerycy"
     },
     {
@@ -3455,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 951,
       "user": "nethical6"
     },
     {
@@ -3530,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1040,
       "user": "pablostanley"
     },
     {
@@ -3545,23 +3538,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 553,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "published_at": "2026-07-21T14:24:08Z",
-      "description": "Get notified when big trades happen on Hyperliquid.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "0xhype"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3575,8 +3553,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 505,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "published_at": "2026-07-21T14:24:08Z",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
+      "source": "GitHub",
+      "stars": 503,
+      "user": "0xhype"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -3590,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "pireel"
     },
     {
@@ -3605,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "mesamirh"
     },
     {
@@ -3635,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "cursor"
     },
     {
@@ -3667,19 +3660,6 @@
       "source": "GitHub",
       "stars": 106,
       "user": "vncsmnl"
-    },
-    {
-      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-      "published_at": "2026-07-21T05:11:59.776-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "GLaDER"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
@@ -3729,20 +3709,6 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
-      "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "published_at": "2026-07-22T16:23:09.000Z",
-      "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Substack"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
       "published_at": "2026-07-20T20:47:13.000Z",
@@ -3769,22 +3735,6 @@
         "PostgreSQL",
         "Security",
         "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-      "published_at": "2026-07-20T13:50:42.000Z",
-      "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-      "tags": [
-        "JavaScript",
-        "Security",
-        "Devops",
-        "Azure",
-        "Node.js"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
