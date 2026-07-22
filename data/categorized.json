@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -31,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "tags": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
       "published_at": "2026-07-21T16:31:50Z",
@@ -59,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
     },
     {
       "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
+      "published_at": "2026-07-20T14:05:39Z",
+      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "tags": [
+        "discuss",
+        "management",
+        "codequality",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1326,
       "user": "tandpfun"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Kritt-ai"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Icex0"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 940,
       "user": "nethical6"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 120,
       "user": "MobAI-App"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "Vincentwei1021"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 429,
       "user": "Jakubantalik"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 347,
       "user": "pireel"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 317,
       "user": "yc-duan"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 115,
       "user": "duxweb"
     },
     {
@@ -883,18 +883,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cole-k"
-    },
-    {
-      "title": "“No AI” Statements Are Much More Than Mere Statements",
-      "url": "https://journal.james-zhan.com/no-ai-statements/",
-      "published_at": "2026-07-21T13:02:26.878-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -941,6 +929,38 @@
       "user": "Anthony Joseph"
     },
     {
+      "title": "Cascade raises $3.5M to help construction firms find and win projects",
+      "url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+      "published_at": "2026-07-22T13:28:36.000Z",
+      "description": "a16z Speedrun, Ada Ventures, and Snowball VC have invested in Cascade's $3.5 million seed round.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "a16z speedrun",
+        "Cascade"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published_at": "2026-07-22T13:20:35.000Z",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Apps",
+        "Browser",
+        "evergreens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
       "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
       "published_at": "2026-07-22T13:00:00.000Z",
@@ -948,8 +968,8 @@
       "tags": [
         "AI",
         "Fundraising",
-        "Insight Venture Partners",
-        "creator economy"
+        "creator economy",
+        "Insight Venture Partners"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1047,34 +1067,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "published_at": "2026-07-21T20:56:55.000Z",
-      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "published_at": "2026-07-21T19:43:41.000Z",
-      "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "tags": [
-        "AI",
-        "jack dorsey",
-        "Slack"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1284,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1326,
       "user": "tandpfun"
     },
     {
@@ -1299,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 363,
       "user": "gnipbao"
     },
     {
@@ -1314,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Kritt-ai"
     },
     {
@@ -1344,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "lyu0805"
     },
     {
@@ -1359,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 141,
       "user": "Charles-0509"
     },
     {
@@ -1374,8 +1366,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1028,
       "user": "pablostanley"
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "published_at": "2026-07-21T14:24:08Z",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
+      "source": "GitHub",
+      "stars": 502,
+      "user": "0xhype"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -1389,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "Vincentwei1021"
     },
     {
@@ -1404,23 +1411,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 429,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "thesysdev/appless - What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "published_at": "2026-07-16T07:08:49Z",
-      "description": "What if your phone had no apps",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
-      "source": "GitHub",
-      "stars": 321,
-      "user": "thesysdev"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -1434,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 347,
       "user": "pireel"
     },
     {
@@ -1872,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2037,
+      "stars": 2095,
       "user": "lopopolo"
     },
     {
@@ -1887,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "xiejunjie524"
     },
     {
@@ -1917,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Icex0"
     },
     {
@@ -1932,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 471,
       "user": "powerycy"
     },
     {
@@ -1951,6 +1943,22 @@
       "user": "Omar Osman Mahamoud"
     },
     {
+      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
+      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
+      "published_at": "2026-07-22T02:53:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 6",
+      "tags": [
+        "python",
+        "matplotlib",
+        "dynamic",
+        "colors",
+        "matplotlib-animation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bill Kerr"
+    },
+    {
       "title": "My Reddit Login Bot get detected by antibot detection in reddit i am using selenium, brave-v1.87.188, chromium-v 145",
       "url": "https://stackoverflow.com/questions/79983786/my-reddit-login-bot-get-detected-by-antibot-detection-in-reddit-i-am-using-selen",
       "published_at": "2026-07-22T08:14:55.000Z",
@@ -1963,22 +1971,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sefat khan"
-    },
-    {
-      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
-      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
-      "published_at": "2026-07-22T02:53:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "matplotlib",
-        "dynamic",
-        "colors",
-        "matplotlib-animation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bill Kerr"
     },
     {
       "title": "Parsing a statement",
@@ -2035,18 +2027,6 @@
       "user": "GirlSM"
     },
     {
-      "title": "Taking File Data",
-      "url": "https://stackoverflow.com/questions/79983691/taking-file-data",
-      "published_at": "2026-07-21T21:41:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Edward Moreno"
-    },
-    {
       "title": "Subclassing ndb's Property classes such that static type checking works",
       "url": "https://stackoverflow.com/questions/79983655/subclassing-ndbs-property-classes-such-that-static-type-checking-works",
       "published_at": "2026-07-21T18:50:29.000Z",
@@ -2075,6 +2055,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anthony Joseph"
+    },
+    {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "published_at": "2026-07-21T14:38:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Traci Phillip"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2344,7 +2337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 347,
       "user": "pireel"
     },
     {
@@ -2420,7 +2413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 120,
       "user": "MobAI-App"
     },
     {
@@ -2429,9 +2422,11 @@
       "published_at": "2026-07-22T13:00:00.000Z",
       "description": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contacts hands-free and right from their car's screen.",
       "tags": [
-        "Transportation",
         "Apps",
-        "Social"
+        "Social",
+        "Transportation",
+        "Android Auto",
+        "apple carplay"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2828,7 +2823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 155,
       "user": "cursor"
     },
     {
@@ -3041,7 +3036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 141,
       "user": "Charles-0509"
     },
     {
@@ -3288,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1326,
       "user": "tandpfun"
     },
     {
@@ -3303,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 363,
       "user": "gnipbao"
     },
     {
@@ -3318,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Kritt-ai"
     },
     {
@@ -3348,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "lyu0805"
     },
     {
@@ -3363,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2037,
+      "stars": 2095,
       "user": "lopopolo"
     },
     {
@@ -3378,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "xiejunjie524"
     },
     {
@@ -3408,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Icex0"
     },
     {
@@ -3423,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 471,
       "user": "powerycy"
     },
     {
@@ -3438,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 940,
       "user": "nethical6"
     },
     {
@@ -3468,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 141,
       "user": "Charles-0509"
     },
     {
@@ -3483,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 120,
       "user": "MobAI-App"
     },
     {
@@ -3513,8 +3508,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1028,
       "user": "pablostanley"
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "published_at": "2026-07-21T14:24:08Z",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
+      "source": "GitHub",
+      "stars": 502,
+      "user": "0xhype"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3528,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "Vincentwei1021"
     },
     {
@@ -3543,23 +3553,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 429,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "thesysdev/appless - What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "published_at": "2026-07-16T07:08:49Z",
-      "description": "What if your phone had no apps",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
-      "source": "GitHub",
-      "stars": 321,
-      "user": "thesysdev"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -3573,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 347,
       "user": "pireel"
     },
     {
@@ -3588,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "mesamirh"
     },
     {
@@ -3603,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 317,
       "user": "yc-duan"
     },
     {
@@ -3618,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 155,
       "user": "cursor"
     },
     {
@@ -3633,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 115,
       "user": "duxweb"
     },
     {
@@ -3648,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 101,
       "user": "vncsmnl"
     },
     {
@@ -3734,20 +3729,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "published_at": "2026-07-21T20:56:55.000Z",
-      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
