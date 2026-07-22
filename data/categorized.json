@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1339,
       "user": "tandpfun"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 311,
       "user": "Kritt-ai"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "Icex0"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 945,
       "user": "nethical6"
     },
     {
@@ -793,23 +793,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "MobAI-App"
-    },
-    {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 495,
-      "user": "Vincentwei1021"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -823,8 +808,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 509,
       "user": "Jakubantalik"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "published_at": "2026-07-19T11:44:41Z",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 498,
+      "user": "Vincentwei1021"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 389,
       "user": "pireel"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "yc-duan"
     },
     {
@@ -888,7 +888,7 @@
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
       "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
       "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "typescript",
@@ -913,31 +913,57 @@
       "user": "mrityu"
     },
     {
-      "title": "Why does asyncio deadlock without raising an exception?",
-      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
-      "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Check if matrix contains only specific values in numpy",
+      "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
+      "published_at": "2026-07-21T13:49:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "async-await",
-        "concurrency",
-        "python-asyncio",
-        "deadlock"
+        "numpy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Anthony Joseph"
+      "user": "Medulla Oblongata"
+    },
+    {
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it&#8217;s not the model)",
+      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "published_at": "2026-07-22T18:02:57.000Z",
+      "description": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne",
+      "tags": [
+        "Anthropic",
+        "Matt Murphy",
+        "menlo ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "published_at": "2026-07-22T17:54:14.000Z",
+      "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "In Brief",
+        "monday.com",
+        "tech layoffs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
       "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
       "published_at": "2026-07-22T16:24:08.000Z",
-      "description": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
       "tags": [
-        "AI",
         "Startups",
-        "TC",
-        "chinese ai"
+        "AI",
+        "Arcee AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1032,38 +1058,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "published_at": "2026-07-22T10:00:00.000Z",
-      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "cyberstarts",
-        "Glow"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "published_at": "2026-07-22T08:00:00.000Z",
-      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI avatar",
-        "Enterprise",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1273,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1339,
       "user": "tandpfun"
     },
     {
@@ -1288,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 386,
       "user": "gnipbao"
     },
     {
@@ -1303,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 311,
       "user": "Kritt-ai"
     },
     {
@@ -1348,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "Charles-0509"
     },
     {
@@ -1363,8 +1357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1038,
       "user": "pablostanley"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 509,
+      "user": "Jakubantalik"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -1378,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 501,
       "user": "0xhype"
     },
     {
@@ -1393,23 +1402,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 498,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "Jakubantalik"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -1423,8 +1417,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 389,
       "user": "pireel"
+    },
+    {
+      "title": "iOS keyboard breaks page layout when opened",
+      "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
+      "published_at": "2026-07-22T17:24:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "ios",
+        "user-interface",
+        "vite-reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AbsolutLeo"
+    },
+    {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How to monkey patch Leaflet library?",
@@ -1470,6 +1494,21 @@
       "user": "Diksha Verma"
     },
     {
+      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
+      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
+      "published_at": "2026-07-21T11:41:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "amazon-web-services",
+        "amazon-cloudfront"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "goose_lake"
+    },
+    {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
       "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
       "published_at": "2026-07-20T20:58:56.000Z",
@@ -1500,21 +1539,6 @@
       "user": "Nitika Yadav"
     },
     {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
-    },
-    {
       "title": "In an unordered list is it possible to make the list items sortable but not draggable",
       "url": "https://stackoverflow.com/questions/79983525/in-an-unordered-list-is-it-possible-to-make-the-list-items-sortable-but-not-drag",
       "published_at": "2026-07-21T12:17:56.000Z",
@@ -1543,34 +1567,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Meher"
-    },
-    {
-      "title": "How to extract text from .doc/.ppt/.xls format on client side?",
-      "url": "https://stackoverflow.com/questions/79982360/how-to-extract-text-from-doc-ppt-xls-format-on-client-side",
-      "published_at": "2026-07-20T21:31:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Huzaifa mumtaz"
-    },
-    {
-      "title": "Could this fetch response still be cached by the browser?",
-      "url": "https://stackoverflow.com/questions/79982108/could-this-fetch-response-still-be-cached-by-the-browser",
-      "published_at": "2026-07-20T01:59:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "javascript",
-        "fetch-api",
-        "browser-cache",
-        "revokeobjecturl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1860,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2146,
       "user": "lopopolo"
     },
     {
@@ -1890,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 501,
       "user": "powerycy"
     },
     {
@@ -1920,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "Icex0"
     },
     {
@@ -2051,20 +2047,17 @@
       "user": "Traci Phillip"
     },
     {
-      "title": "Why does asyncio deadlock without raising an exception?",
-      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
-      "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Check if matrix contains only specific values in numpy",
+      "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
+      "published_at": "2026-07-21T13:49:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "async-await",
-        "concurrency",
-        "python-asyncio",
-        "deadlock"
+        "numpy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Anthony Joseph"
+      "user": "Medulla Oblongata"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2334,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 389,
       "user": "pireel"
     },
     {
@@ -2349,6 +2342,36 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cole-k"
+    },
+    {
+      "title": "iOS keyboard breaks page layout when opened",
+      "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
+      "published_at": "2026-07-22T17:24:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "ios",
+        "user-interface",
+        "vite-reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AbsolutLeo"
+    },
+    {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Javascript not firing 100% of the time",
@@ -2410,20 +2433,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "MobAI-App"
     },
     {
-      "title": "WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more",
-      "url": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
-      "published_at": "2026-07-22T13:00:00.000Z",
-      "description": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contacts hands-free and right from their car's screen.",
+      "title": "iOS keyboard breaks page layout when opened",
+      "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
+      "published_at": "2026-07-22T17:24:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "ios",
+        "user-interface",
+        "vite-reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AbsolutLeo"
+    },
+    {
+      "title": "Google is making it easier to switch from iPhone to Android",
+      "url": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+      "published_at": "2026-07-22T17:08:03.000Z",
+      "description": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.",
       "tags": [
         "Apps",
-        "Social",
-        "Transportation",
-        "Android Auto",
-        "apple carplay"
+        "Hardware",
+        "Android",
+        "Google",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2721,7 +2760,7 @@
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
       "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
       "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "typescript",
@@ -2820,7 +2859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "cursor"
     },
     {
@@ -3018,7 +3057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "Charles-0509"
     },
     {
@@ -3062,22 +3101,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "published_at": "2026-07-22T10:00:00.000Z",
-      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "cyberstarts",
-        "Glow"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
@@ -3266,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1339,
       "user": "tandpfun"
     },
     {
@@ -3281,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 386,
       "user": "gnipbao"
     },
     {
@@ -3296,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 311,
       "user": "Kritt-ai"
     },
     {
@@ -3341,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2146,
       "user": "lopopolo"
     },
     {
@@ -3371,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 501,
       "user": "powerycy"
     },
     {
@@ -3401,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "Icex0"
     },
     {
@@ -3416,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 945,
       "user": "nethical6"
     },
     {
@@ -3446,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "Charles-0509"
     },
     {
@@ -3461,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "MobAI-App"
     },
     {
@@ -3491,8 +3514,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1038,
       "user": "pablostanley"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 509,
+      "user": "Jakubantalik"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -3506,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 501,
       "user": "0xhype"
     },
     {
@@ -3521,23 +3559,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 498,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "Jakubantalik"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -3551,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 389,
       "user": "pireel"
     },
     {
@@ -3566,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 389,
       "user": "mesamirh"
     },
     {
@@ -3581,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "yc-duan"
     },
     {
@@ -3596,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "cursor"
     },
     {
@@ -3626,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "vncsmnl"
     },
     {
@@ -3659,19 +3682,6 @@
       "user": "Malte K"
     },
     {
-      "title": "How to extract text from .doc/.ppt/.xls format on client side?",
-      "url": "https://stackoverflow.com/questions/79982360/how-to-extract-text-from-doc-ppt-xls-format-on-client-side",
-      "published_at": "2026-07-20T21:31:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Huzaifa mumtaz"
-    },
-    {
       "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
       "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
       "published_at": "2026-07-22T16:23:09.000Z",
@@ -3684,22 +3694,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "published_at": "2026-07-22T10:00:00.000Z",
-      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "cyberstarts",
-        "Glow"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
