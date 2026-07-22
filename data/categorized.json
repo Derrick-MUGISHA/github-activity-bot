@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 974,
       "user": "nethical6"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "MobAI-App"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 590,
       "user": "Jakubantalik"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 509,
       "user": "Vincentwei1021"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 414,
       "user": "pireel"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "yc-duan"
     },
     {
@@ -940,15 +940,29 @@
       "user": "Medulla Oblongata"
     },
     {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "published_at": "2026-07-22T22:01:52.000Z",
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "tags": [
+        "AI",
+        "Alphabet",
+        "Google",
+        "google cloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
       "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "published_at": "2026-07-22T20:49:03.000Z",
-      "description": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+      "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
       "tags": [
         "AI",
         "Government & Policy",
-        "chinese ai",
-        "kimi",
+        "Anthropic",
         "moonshot"
       ],
       "cover_image": null,
@@ -1061,20 +1075,50 @@
       "user": "Theresa Loconsolo"
     },
     {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "published_at": "2026-07-22T17:54:14.000Z",
-      "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "title": "What Is HyDE? How to Improve RAG with Hypothetical Documents",
+      "url": "https://www.freecodecamp.org/news/what-is-hyde-how-to-improve-rag-with-hypothetical-documents/",
+      "published_at": "2026-07-22T21:32:17.000Z",
+      "description": "Retrieval-Augmented Generation, commonly known as RAG, has become one of the most widely used approaches for building applications with large language models. Instead of asking an LLM to answer entire",
       "tags": [
+        "RAG",
         "AI",
-        "Enterprise",
-        "In Brief",
-        "monday.com",
-        "tech layoffs"
+        "ai agents",
+        "llm"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "source": "freeCodeCamp",
+      "user": "Sameer Shukla"
+    },
+    {
+      "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
+      "url": "https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/",
+      "published_at": "2026-07-22T20:22:03.000Z",
+      "description": "When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change (\"move this bull",
+      "tags": [
+        "HTML",
+        "CSS",
+        "DOM",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "timothy ogbemudia"
+    },
+    {
+      "title": "How to Trace and Monitor AI Agents with LangSmith",
+      "url": "https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/",
+      "published_at": "2026-07-22T19:49:02.000Z",
+      "description": "In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls",
+      "tags": [
+        "AI",
+        "ai agents",
+        "LLM's",
+        "tracing",
+        "langsmith"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
     },
     {
       "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
@@ -1330,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 393,
       "user": "gnipbao"
     },
     {
@@ -1390,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "Charles-0509"
     },
     {
@@ -1405,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1044,
       "user": "pablostanley"
     },
     {
@@ -1420,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 590,
       "user": "Jakubantalik"
     },
     {
@@ -1435,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 509,
       "user": "Vincentwei1021"
     },
     {
@@ -1465,8 +1509,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 414,
       "user": "pireel"
+    },
+    {
+      "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
+      "url": "https://stackoverflow.com/questions/79983985/need-help-in-419-token-mismatch-in-laravel-sanctum-spa",
+      "published_at": "2026-07-22T21:49:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "php",
+        "csrf-token"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Syed Muhammad Irtaza"
     },
     {
       "title": "How to see service worker errors in Chromium debugger?",
@@ -1513,20 +1571,6 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
-      "title": "Javascript not firing 100% of the time",
-      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
-      "published_at": "2026-07-22T02:58:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "rest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marc Lawson"
-    },
-    {
       "title": "How to monkey patch Leaflet library?",
       "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
       "published_at": "2026-07-21T17:37:21.000Z",
@@ -1554,6 +1598,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diksha Verma"
+    },
+    {
+      "title": "Javascript not firing 100% of the time",
+      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
+      "published_at": "2026-07-22T02:58:09.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "rest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marc Lawson"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -1601,19 +1659,19 @@
       "user": "Nitika Yadav"
     },
     {
-      "title": "In an unordered list is it possible to make the list items sortable but not draggable",
-      "url": "https://stackoverflow.com/questions/79983525/in-an-unordered-list-is-it-possible-to-make-the-list-items-sortable-but-not-drag",
-      "published_at": "2026-07-21T12:17:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
+      "url": "https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/",
+      "published_at": "2026-07-22T20:22:03.000Z",
+      "description": "When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change (\"move this bull",
       "tags": [
-        "javascript",
-        "jquery",
-        "draggable",
-        "jquery-ui-sortable"
+        "HTML",
+        "CSS",
+        "DOM",
+        "JavaScript"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stonypaul"
+      "source": "freeCodeCamp",
+      "user": "timothy ogbemudia"
     },
     {
       "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
@@ -1645,38 +1703,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Balogun Wahab"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
-      "published_at": "2026-07-20T20:47:13.000Z",
-      "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Tutorial",
-        "Hashnode"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
-      "published_at": "2026-07-20T20:46:12.000Z",
-      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
-      "tags": [
-        "Node.js",
-        "api",
-        "PostgreSQL",
-        "Security",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Python": [
@@ -1902,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2183,
       "user": "lopopolo"
     },
     {
@@ -1917,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "xiejunjie524"
     },
     {
@@ -1932,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "powerycy"
     },
     {
@@ -2009,21 +2035,6 @@
       "user": "Pink Acorn"
     },
     {
-      "title": "Can Numba be used on a for loop without using a function?",
-      "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
-      "published_at": "2026-07-22T11:16:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "function",
-        "for-loop",
-        "numba"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Omar Osman Mahamoud"
-    },
-    {
       "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
       "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
       "published_at": "2026-07-22T02:53:31.000Z",
@@ -2038,6 +2049,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bill Kerr"
+    },
+    {
+      "title": "Can Numba be used on a for loop without using a function?",
+      "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
+      "published_at": "2026-07-22T11:16:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "function",
+        "for-loop",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Omar Osman Mahamoud"
     },
     {
       "title": "Parsing a statement",
@@ -2357,7 +2383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 414,
       "user": "pireel"
     },
     {
@@ -2407,7 +2433,7 @@
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2416,6 +2442,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marc Lawson"
+    },
+    {
+      "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
+      "url": "https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/",
+      "published_at": "2026-07-22T20:22:03.000Z",
+      "description": "When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change (\"move this bull",
+      "tags": [
+        "HTML",
+        "CSS",
+        "DOM",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "timothy ogbemudia"
     },
     {
       "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
@@ -2431,38 +2472,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
-      "published_at": "2026-07-20T20:47:13.000Z",
-      "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Tutorial",
-        "Hashnode"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
-      "published_at": "2026-07-20T20:46:12.000Z",
-      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
-      "tags": [
-        "Node.js",
-        "api",
-        "PostgreSQL",
-        "Security",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Mobile": [
@@ -2478,7 +2487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "MobAI-App"
     },
     {
@@ -2816,6 +2825,21 @@
       "user": "goose_lake"
     },
     {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "published_at": "2026-07-22T22:01:52.000Z",
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "tags": [
+        "AI",
+        "Alphabet",
+        "Google",
+        "google cloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Social media addiction lawsuit against Meta is dropped",
       "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
       "published_at": "2026-07-22T20:36:41.000Z",
@@ -2904,38 +2928,6 @@
       "source": "GitHub",
       "stars": 163,
       "user": "cursor"
-    },
-    {
-      "title": "How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies",
-      "url": "https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/",
-      "published_at": "2026-07-20T20:49:29.000Z",
-      "description": "In this article, you'll learn how to optimize SQL Server performance using T-SQL query tuning, indexing strategies, execution plans, and real-world optimization techniques for enterprise applications.",
-      "tags": [
-        "SQL Query Performance",
-        "Enterprise T-SQL",
-        "SQL Query Tuning",
-        "Query Performance",
-        "SQL Performance Tuning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gopinath Karunanithi"
-    },
-    {
-      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
-      "published_at": "2026-07-20T20:46:12.000Z",
-      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
-      "tags": [
-        "Node.js",
-        "api",
-        "PostgreSQL",
-        "Security",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Security": [
@@ -3083,7 +3075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "Charles-0509"
     },
     {
@@ -3155,22 +3147,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
-      "published_at": "2026-07-20T20:46:12.000Z",
-      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
-      "tags": [
-        "Node.js",
-        "api",
-        "PostgreSQL",
-        "Security",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Tools": [
@@ -3342,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 393,
       "user": "gnipbao"
     },
     {
@@ -3402,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2183,
       "user": "lopopolo"
     },
     {
@@ -3417,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "xiejunjie524"
     },
     {
@@ -3432,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "powerycy"
     },
     {
@@ -3477,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 974,
       "user": "nethical6"
     },
     {
@@ -3507,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "Charles-0509"
     },
     {
@@ -3522,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "MobAI-App"
     },
     {
@@ -3552,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1044,
       "user": "pablostanley"
     },
     {
@@ -3567,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 590,
       "user": "Jakubantalik"
     },
     {
@@ -3582,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 509,
       "user": "Vincentwei1021"
     },
     {
@@ -3612,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 414,
       "user": "pireel"
     },
     {
@@ -3627,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 421,
       "user": "mesamirh"
     },
     {
@@ -3642,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "yc-duan"
     },
     {
@@ -3736,38 +3712,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
-      "published_at": "2026-07-20T20:47:13.000Z",
-      "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Tutorial",
-        "Hashnode"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
-      "published_at": "2026-07-20T20:46:12.000Z",
-      "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
-      "tags": [
-        "Node.js",
-        "api",
-        "PostgreSQL",
-        "Security",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ]
 }
