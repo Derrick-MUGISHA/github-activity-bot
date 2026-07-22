@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-22 20:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-22 21:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,19 +37,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/new-gemini-models-dropped-59l8">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png" width="200" alt="New Gemini models dropped
-
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/" />
-      <br/>
-      <b>New Gemini models dropped
-
-https://blog.google/i...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp" width="200" alt="AI And Code Ownership: Who Is Responsible For Generated Code?" />
       <br/>
@@ -58,8 +45,6 @@ https://blog.google/i...</b>
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjtecye21uhduxpzyoj1s.png" width="200" alt="I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything" />
@@ -69,6 +54,8 @@ https://blog.google/i...</b>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr17r6je43j5a0o8cehz3.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -87,6 +74,15 @@ https://blog.google/i...</b>
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg" width="200" alt="Google Cloud Labs: Accelerate AI with Cloud Run" />
+      <br/>
+      <b>Google Cloud Labs: Accelerate AI with Cloud Run</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -97,18 +93,18 @@ https://blog.google/i...</b>
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) | Dev.to |
-| 2 | [New Gemini models dropped
+| 2 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
+| 3 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
+| 4 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei) | Dev.to |
+| 5 | [Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17) | Dev.to |
+| 6 | [Google Cloud Labs: Accelerate AI with Cloud Run](https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3) | Dev.to |
+| 7 | [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl) | Dev.to |
+| 8 | [Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) | Dev.to |
+| 9 | [Context Is King: Rethinking Domain Ownership, Product, and the "Spec Phase"](https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8) | Dev.to |
+| 10 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
+| 11 | [New Gemini models dropped
 
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/](https://dev.to/ben/new-gemini-models-dropped-59l8) | Dev.to |
-| 3 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
-| 4 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
-| 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei) | Dev.to |
-| 6 | [Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17) | Dev.to |
-| 7 | [Google Cloud Labs: Accelerate AI with Cloud Run](https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3) | Dev.to |
-| 8 | [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl) | Dev.to |
-| 9 | [Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) | Dev.to |
-| 10 | [Context Is King: Rethinking Domain Ownership, Product, and the "Spec Phase"](https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8) | Dev.to |
-| 11 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
 | 12 | [From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini](https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n) | Dev.to |
 | 13 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
 | 14 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
@@ -119,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 19 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 | 20 | [4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6) | Dev.to |
 
-<sub>Last fetched: Wed, 22 Jul 2026 20:10:50 CAT</sub>
+<sub>Last fetched: Wed, 22 Jul 2026 21:46:15 CAT</sub>
 
 
 ---
@@ -128,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Explain middleware in Express.js**
+**1. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> Mutability, performance, use cases
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Function wrappers, @syntax, practical uses
 
 </details>
 
-**3. `NodeJS` — Explain middleware in Express.js**
+**3. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -171,10 +167,10 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 78 | 42.9% | `████████████████████` |
-| **Tools** | 41 | 22.5% | `███████████░░░░░░░░░` |
+| **Tools** | 43 | 23.6% | `███████████░░░░░░░░░` |
 | **JavaScript** | 36 | 19.8% | `█████████░░░░░░░░░░░` |
 | **Python** | 32 | 17.6% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 22 | 12.1% | `██████░░░░░░░░░░░░░░` |
+| **Cloud** | 23 | 12.6% | `██████░░░░░░░░░░░░░░` |
 | **Security** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
@@ -278,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 22 Jul 2026 18:10:50 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 22 Jul 2026 19:46:15 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

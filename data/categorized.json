@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
-      "published_at": "2026-07-21T16:31:50Z",
-      "description": "3.6...",
-      "tags": [
-        "ai",
-        "google",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -117,6 +102,21 @@
         "product"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
+      "published_at": "2026-07-21T16:31:50Z",
+      "description": "3.6...",
+      "tags": [
+        "ai",
+        "google",
+        "llm",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
     },
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1346,
       "user": "tandpfun"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "Kritt-ai"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "EthanXiang777"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "Icex0"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 946,
       "user": "nethical6"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "MobAI-App"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 538,
       "user": "Jakubantalik"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 502,
       "user": "Vincentwei1021"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "pireel"
     },
     {
@@ -926,6 +926,82 @@
       "user": "Medulla Oblongata"
     },
     {
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "published_at": "2026-07-22T19:42:56.000Z",
+      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+      "tags": [
+        "Media & Entertainment",
+        "Mergers and Acquisitions",
+        "music streaming service",
+        "soundcloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "published_at": "2026-07-22T19:11:46.000Z",
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "tags": [
+        "AI",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "published_at": "2026-07-22T18:50:44.000Z",
+      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Venture",
+        "a16z",
+        "Andreessen Horowitz"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Science Corporation&#8217;s vision-restoring chip wins EU approval",
+      "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+      "published_at": "2026-07-22T18:18:02.000Z",
+      "description": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+      "tags": [
+        "Biotech & Health",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "published_at": "2026-07-22T18:13:58.000Z",
+      "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
+      "tags": [
+        "AI",
+        "Apps",
+        "Fundraising",
+        "Social",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it&#8217;s not the model)",
       "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
       "published_at": "2026-07-22T18:02:57.000Z",
@@ -982,82 +1058,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "OpenAI&#8217;s AI spending spree has ballooned to $750B",
-      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "published_at": "2026-07-22T16:13:30.000Z",
-      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "tags": [
-        "AI",
-        "Climate",
-        "data centers",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "If you pay a hacker&#8217;s ransom, chances are that they&#8217;ll come back for more",
-      "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
-      "published_at": "2026-07-22T15:29:41.000Z",
-      "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "ransomware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Cascade raises $3.5M to help construction firms find and win projects",
-      "url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
-      "published_at": "2026-07-22T13:28:36.000Z",
-      "description": "a16z Speedrun, Ada Ventures, and Snowball VC have invested in Cascade's $3.5 million seed round.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "a16z speedrun",
-        "Cascade"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "published_at": "2026-07-22T13:20:35.000Z",
-      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "tags": [
-        "Startups",
-        "AI",
-        "Apps",
-        "Browser",
-        "evergreens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "published_at": "2026-07-22T13:00:00.000Z",
-      "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "creator economy",
-        "Insight Venture Partners"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1346,
       "user": "tandpfun"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "gnipbao"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "Kritt-ai"
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "lyu0805"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "Charles-0509"
     },
     {
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 538,
       "user": "Jakubantalik"
     },
     {
@@ -1387,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "0xhype"
     },
     {
@@ -1402,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 502,
       "user": "Vincentwei1021"
     },
     {
@@ -1417,8 +1417,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "pireel"
+    },
+    {
+      "title": "How to see service worker errors in Chromium debugger?",
+      "url": "https://stackoverflow.com/questions/79983949/how-to-see-service-worker-errors-in-chromium-debugger",
+      "published_at": "2026-07-22T18:32:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "service-worker",
+        "chromium"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AlanQ"
+    },
+    {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "iOS keyboard breaks page layout when opened",
@@ -1435,20 +1463,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AbsolutLeo"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How to monkey patch Leaflet library?",
@@ -1552,21 +1566,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stonypaul"
-    },
-    {
-      "title": "React SVG animation: lower water layers disappear during requestAnimationFrame interpolation",
-      "url": "https://stackoverflow.com/questions/79983422/react-svg-animation-lower-water-layers-disappear-during-requestanimationframe-i",
-      "published_at": "2026-07-21T06:09:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "animation",
-        "svg"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Meher"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1856,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2146,
+      "stars": 2162,
       "user": "lopopolo"
     },
     {
@@ -1871,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "xiejunjie524"
     },
     {
@@ -1886,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 508,
       "user": "powerycy"
     },
     {
@@ -1901,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "EthanXiang777"
     },
     {
@@ -1916,14 +1915,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "Icex0"
     },
     {
       "title": "Best Way to Specify Linux Distribution Repo Version of Python Dependencies?",
       "url": "https://stackoverflow.com/questions/79983907/best-way-to-specify-linux-distribution-repo-version-of-python-dependencies",
       "published_at": "2026-07-22T16:06:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "python",
@@ -2327,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "pireel"
     },
     {
@@ -2344,6 +2343,20 @@
       "user": "cole-k"
     },
     {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "iOS keyboard breaks page layout when opened",
       "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
       "published_at": "2026-07-22T17:24:51.000Z",
@@ -2358,20 +2371,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AbsolutLeo"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Javascript not firing 100% of the time",
@@ -2433,7 +2432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "MobAI-App"
     },
     {
@@ -2772,6 +2771,21 @@
       "user": "goose_lake"
     },
     {
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "published_at": "2026-07-22T19:42:56.000Z",
+      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+      "tags": [
+        "Media & Entertainment",
+        "Mergers and Acquisitions",
+        "music streaming service",
+        "soundcloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
       "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
       "published_at": "2026-07-20T21:27:11.000Z",
@@ -2859,7 +2873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "cursor"
     },
     {
@@ -2985,18 +2999,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
-      "url": "https://saveflipper.ca/",
-      "published_at": "2024-02-21T11:20:49Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "pabs3"
-    },
-    {
       "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "published_at": "2026-07-21T15:38:04.837-05:00",
@@ -3008,6 +3010,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dustyweb"
+    },
+    {
+      "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
+      "url": "https://saveflipper.ca/",
+      "published_at": "2024-02-21T11:20:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "pabs3"
     },
     {
       "title": "Google Security Team Member on NSA: \"Fuck These Guys\"",
@@ -3057,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "Charles-0509"
     },
     {
@@ -3089,18 +3103,20 @@
       "user": "Pink Acorn"
     },
     {
-      "title": "If you pay a hacker&#8217;s ransom, chances are that they&#8217;ll come back for more",
-      "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
-      "published_at": "2026-07-22T15:29:41.000Z",
-      "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "published_at": "2026-07-22T19:11:46.000Z",
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
       "tags": [
+        "AI",
         "Security",
         "cyberattack",
-        "ransomware"
+        "cybersecurity",
+        "data breach"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
@@ -3289,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1346,
       "user": "tandpfun"
     },
     {
@@ -3304,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "gnipbao"
     },
     {
@@ -3319,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "Kritt-ai"
     },
     {
@@ -3349,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "lyu0805"
     },
     {
@@ -3364,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2146,
+      "stars": 2162,
       "user": "lopopolo"
     },
     {
@@ -3379,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "xiejunjie524"
     },
     {
@@ -3394,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 508,
       "user": "powerycy"
     },
     {
@@ -3409,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "EthanXiang777"
     },
     {
@@ -3424,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "Icex0"
     },
     {
@@ -3439,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 946,
       "user": "nethical6"
     },
     {
@@ -3469,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "Charles-0509"
     },
     {
@@ -3484,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "MobAI-App"
     },
     {
@@ -3529,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 538,
       "user": "Jakubantalik"
     },
     {
@@ -3544,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "0xhype"
     },
     {
@@ -3559,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 502,
       "user": "Vincentwei1021"
     },
     {
@@ -3574,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "pireel"
     },
     {
@@ -3589,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 401,
       "user": "mesamirh"
     },
     {
@@ -3619,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "cursor"
     },
     {
@@ -3649,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "vncsmnl"
     },
     {
@@ -3680,6 +3696,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "published_at": "2026-07-22T19:42:56.000Z",
+      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+      "tags": [
+        "Media & Entertainment",
+        "Mergers and Acquisitions",
+        "music streaming service",
+        "soundcloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "published_at": "2026-07-22T19:11:46.000Z",
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "tags": [
+        "AI",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
