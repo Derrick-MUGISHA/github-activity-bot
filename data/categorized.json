@@ -61,21 +61,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
       "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17",
       "published_at": "2026-07-21T16:08:54Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F402qdonli9dvfkb6bl9s.webp",
       "source": "Dev.to",
       "user": "Patrick Loeber"
+    },
+    {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Gemma4 DevOps In Action",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1317,
       "user": "tandpfun"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "Kritt-ai"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 271,
       "user": "livetennisapi"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "EthanXiang777"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "Icex0"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 935,
       "user": "nethical6"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 115,
       "user": "MobAI-App"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 480,
       "user": "Vincentwei1021"
     },
     {
@@ -823,23 +823,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 355,
       "user": "Jakubantalik"
     },
     {
-      "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
-      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "published_at": "2026-07-16T05:41:44Z",
-      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "published_at": "2026-07-20T09:34:24Z",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 253,
-      "user": "robinhood-ape"
+      "stars": 277,
+      "user": "pireel"
     },
     {
       "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "yc-duan"
     },
     {
@@ -868,8 +868,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "duxweb"
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "published_at": "2026-07-22T03:48:18.302-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rant",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cole-k"
     },
     {
       "title": "“No AI” Statements Are Much More Than Mere Statements",
@@ -926,6 +939,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anthony Joseph"
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "published_at": "2026-07-22T10:00:00.000Z",
+      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "Glow",
+        "redpoint ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
@@ -1269,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1317,
       "user": "tandpfun"
     },
     {
@@ -1284,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 307,
       "user": "gnipbao"
     },
     {
@@ -1299,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "Kritt-ai"
     },
     {
@@ -1314,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 271,
       "user": "livetennisapi"
     },
     {
@@ -1329,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "lyu0805"
     },
     {
@@ -1344,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 119,
       "user": "Charles-0509"
     },
     {
@@ -1359,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1012,
       "user": "pablostanley"
     },
     {
@@ -1374,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 480,
       "user": "Vincentwei1021"
     },
     {
@@ -1389,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 355,
       "user": "Jakubantalik"
     },
     {
@@ -1408,19 +1437,19 @@
       "user": "thesysdev"
     },
     {
-      "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
-      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "published_at": "2026-07-16T05:41:44Z",
-      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "published_at": "2026-07-20T09:34:24Z",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 253,
-      "user": "robinhood-ape"
+      "stars": 277,
+      "user": "pireel"
     },
     {
       "title": "Javascript not firing 100% of the time",
@@ -1539,6 +1568,21 @@
       "user": "Huzaifa mumtaz"
     },
     {
+      "title": "Could this fetch response still be cached by the browser?",
+      "url": "https://stackoverflow.com/questions/79982108/could-this-fetch-response-still-be-cached-by-the-browser",
+      "published_at": "2026-07-20T01:59:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score -2",
+      "tags": [
+        "javascript",
+        "fetch-api",
+        "browser-cache",
+        "revokeobjecturl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "What is the best way to go to load google recaptcha after consent?",
       "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
       "published_at": "2026-07-20T20:58:56.000Z",
@@ -1553,21 +1597,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Could this fetch response still be cached by the browser?",
-      "url": "https://stackoverflow.com/questions/79982108/could-this-fetch-response-still-be-cached-by-the-browser",
-      "published_at": "2026-07-20T01:59:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "javascript",
-        "fetch-api",
-        "browser-cache",
-        "revokeobjecturl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
@@ -1872,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 1992,
       "user": "lopopolo"
     },
     {
@@ -1887,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "xiejunjie524"
     },
     {
@@ -1902,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "EthanXiang777"
     },
     {
@@ -1917,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "Icex0"
     },
     {
@@ -1932,27 +1961,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 437,
       "user": "powerycy"
     },
     {
-      "title": "Some more things about Django I've been enjoying",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "published_at": "2026-07-21T21:46:37.877-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Can Numba be used on a for loop without using a function?",
+      "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
+      "published_at": "2026-07-22T11:16:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "web"
+        "function",
+        "for-loop",
+        "numba"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "w0nder1ng"
+      "source": "StackOverflow",
+      "user": "Omar Osman Mahamoud"
     },
     {
       "title": "My Reddit Login Bot get detected by antibot detection in reddit i am using selenium, brave-v1.87.188, chromium-v 145",
       "url": "https://stackoverflow.com/questions/79983786/my-reddit-login-bot-get-detected-by-antibot-detection-in-reddit-i-am-using-selen",
       "published_at": "2026-07-22T08:14:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "selenium-webdriver",
@@ -1966,7 +1997,7 @@
       "title": "Parsing a statement",
       "url": "https://stackoverflow.com/questions/79983776/parsing-a-statement",
       "published_at": "2026-07-22T07:51:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "regex"
@@ -1974,6 +2005,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daap"
+    },
+    {
+      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
+      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
+      "published_at": "2026-07-22T02:53:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "matplotlib",
+        "dynamic",
+        "colors",
+        "matplotlib-animation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bill Kerr"
     },
     {
       "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
@@ -2002,22 +2049,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ganesh K"
-    },
-    {
-      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
-      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
-      "published_at": "2026-07-22T02:53:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "matplotlib",
-        "dynamic",
-        "colors",
-        "matplotlib-animation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bill Kerr"
     },
     {
       "title": "f-string W3School Challenge",
@@ -2073,19 +2104,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anthony Joseph"
-    },
-    {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "text-to-speech"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Traci Phillip"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2344,6 +2362,34 @@
       "user": "velmu"
     },
     {
+      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "published_at": "2026-07-20T09:34:24Z",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
+      "source": "GitHub",
+      "stars": 277,
+      "user": "pireel"
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "published_at": "2026-07-22T03:48:18.302-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rant",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cole-k"
+    },
+    {
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
@@ -2403,7 +2449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 115,
       "user": "MobAI-App"
     },
     {
@@ -2797,7 +2843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "cursor"
     },
     {
@@ -2950,18 +2996,6 @@
       "user": "pabs3"
     },
     {
-      "title": "Google Security Team Member on NSA: \"Fuck These Guys\"",
-      "url": "https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k",
-      "published_at": "2013-11-06T04:51:41Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "cdvonstinkpot"
-    },
-    {
       "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "published_at": "2026-07-21T15:38:04.837-05:00",
@@ -2973,6 +3007,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dustyweb"
+    },
+    {
+      "title": "Google Security Team Member on NSA: \"Fuck These Guys\"",
+      "url": "https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k",
+      "published_at": "2013-11-06T04:51:41Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "cdvonstinkpot"
     },
     {
       "title": "Senators push to ditch social security numbers in light of Equifax hack",
@@ -3010,7 +3056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 119,
       "user": "Charles-0509"
     },
     {
@@ -3053,6 +3099,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "published_at": "2026-07-22T10:00:00.000Z",
+      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "Glow",
+        "redpoint ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
@@ -3241,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1317,
       "user": "tandpfun"
     },
     {
@@ -3256,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 307,
       "user": "gnipbao"
     },
     {
@@ -3271,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "Kritt-ai"
     },
     {
@@ -3286,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 271,
       "user": "livetennisapi"
     },
     {
@@ -3301,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "lyu0805"
     },
     {
@@ -3316,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 1992,
       "user": "lopopolo"
     },
     {
@@ -3331,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "xiejunjie524"
     },
     {
@@ -3346,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "EthanXiang777"
     },
     {
@@ -3361,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "Icex0"
     },
     {
@@ -3376,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 437,
       "user": "powerycy"
     },
     {
@@ -3391,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 935,
       "user": "nethical6"
     },
     {
@@ -3421,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 119,
       "user": "Charles-0509"
     },
     {
@@ -3436,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 115,
       "user": "MobAI-App"
     },
     {
@@ -3466,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1012,
       "user": "pablostanley"
     },
     {
@@ -3481,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 480,
       "user": "Vincentwei1021"
     },
     {
@@ -3496,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 355,
       "user": "Jakubantalik"
     },
     {
@@ -3515,19 +3577,19 @@
       "user": "thesysdev"
     },
     {
-      "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
-      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "published_at": "2026-07-16T05:41:44Z",
-      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "published_at": "2026-07-20T09:34:24Z",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 253,
-      "user": "robinhood-ape"
+      "stars": 277,
+      "user": "pireel"
     },
     {
       "title": "mesamirh/MovieBox-Tui - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
@@ -3541,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "mesamirh"
     },
     {
@@ -3556,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "yc-duan"
     },
     {
@@ -3571,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "cursor"
     },
     {
@@ -3586,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "duxweb"
     },
     {
@@ -3601,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "vncsmnl"
     },
     {
@@ -3658,6 +3720,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "published_at": "2026-07-22T10:00:00.000Z",
+      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "Glow",
+        "redpoint ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
