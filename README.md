@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-182-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--22-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-22 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-22 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -115,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 19 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 | 20 | [4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6) | Dev.to |
 
-<sub>Last fetched: Wed, 22 Jul 2026 22:52:14 CAT</sub>
+<sub>Last fetched: Wed, 22 Jul 2026 23:57:54 CAT</sub>
 
 
 ---
@@ -124,29 +124,18 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement LRU Cache**
+**1. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Doubly linked list + hash map, O(1) operations
-
-</details>
-
-**2. `Python` — Explain decorators in Python with an example**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**3. `DataStructures` — Implement a function to reverse a linked list**
+**2. `DataStructures` — Implement a function to reverse a linked list**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
@@ -154,6 +143,17 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Iterative or recursive, three pointers
+
+</details>
+
+**3. `JavaScript` — Implement a debounce function from scratch**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -166,14 +166,14 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 80 | 44.0% | `████████████████████` |
-| **Tools** | 40 | 22.0% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 37 | 20.3% | `█████████░░░░░░░░░░░` |
-| **Python** | 33 | 18.1% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 22 | 12.1% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
+| **AI** | 81 | 44.0% | `████████████████████` |
+| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 36 | 19.6% | `█████████░░░░░░░░░░░` |
+| **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
+| **Cloud** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 10 | 5.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -184,10 +184,10 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 59 |
-| HackerNews | 48 |
-| Lobste.rs | 10 |
+| Dev.to | 60 |
+| HackerNews | 49 |
 | GitHub | 25 |
+| Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
 | freeCodeCamp | 10 |
@@ -196,11 +196,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.5%
-JavaScript      ███████████████████████████ 24.8%
-Python          ███████████████████████ 21.5%
-Java            ████████████████████ 18.1%
-Rust            ██████ 5.4%
+Go              ██████████████████████████████ 27.9%
+JavaScript      ██████████████████████████ 24.5%
+Python          ███████████████████████ 21.8%
+Java            ████████████████████ 18.4%
+Rust            █████ 4.8%
 Swift           ██ 2.0%
 PHP             █ 0.7%
 
@@ -209,10 +209,10 @@ PHP             █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 41
-    "JavaScript" : 37
+    "JavaScript" : 36
     "Python" : 32
     "Java" : 27
-    "Rust" : 8
+    "Rust" : 7
     "Swift" : 3
     "PHP" : 1
 ```
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 22 Jul 2026 20:52:14 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 22 Jul 2026 21:57:54 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
