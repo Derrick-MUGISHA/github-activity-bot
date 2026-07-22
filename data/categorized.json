@@ -211,6 +211,65 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
+      "published_at": "2026-07-16T22:52:32Z",
+      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
+      "tags": [
+        "ai",
+        "career",
+        "design"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -464,21 +523,6 @@
       "user": "Abhishek Gupta"
     },
     {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -646,38 +690,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1285,
       "user": "tandpfun"
-    },
-    {
-      "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "published_at": "2026-07-15T22:17:25Z",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
-      "source": "GitHub",
-      "stars": 700,
-      "user": "Blueturboguy07"
-    },
-    {
-      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "published_at": "2026-07-15T10:24:07Z",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "HeiGeAi"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -691,23 +705,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 257,
       "user": "Kritt-ai"
     },
     {
-      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "url": "https://github.com/hoainho/img2threejs",
-      "published_at": "2026-07-15T02:58:39Z",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "published_at": "2026-07-18T23:17:55Z",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 1441,
-      "user": "hoainho"
+      "stars": 249,
+      "user": "livetennisapi"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -723,6 +737,21 @@
       "source": "GitHub",
       "stars": 487,
       "user": "EthanXiang777"
+    },
+    {
+      "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "published_at": "2026-07-17T20:18:33Z",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
+      "source": "GitHub",
+      "stars": 460,
+      "user": "Icex0"
     },
     {
       "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
@@ -751,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "MobAI-App"
     },
     {
@@ -766,23 +795,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 416,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "0xsline/OpenChatCut - Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "url": "https://github.com/0xsline/OpenChatCut",
-      "published_at": "2026-07-15T02:49:42Z",
-      "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "0xsline"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -800,6 +814,21 @@
       "user": "robinhood-ape"
     },
     {
+      "title": "robinhood-ape/robinhood-noxa-bundler - NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "published_at": "2026-07-16T05:41:33Z",
+      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "robinhood-ape"
+    },
+    {
       "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
       "url": "https://github.com/yc-duan/fastctx",
       "published_at": "2026-07-17T03:05:57Z",
@@ -811,20 +840,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 259,
       "user": "yc-duan"
     },
     {
-      "title": "“No AI” Statements Are Much More Than Mere Statements",
-      "url": "https://journal.james-zhan.com/no-ai-statements/",
-      "published_at": "2026-07-21T13:02:26.878-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "url": "https://github.com/duxweb/ReTheme",
+      "published_at": "2026-07-18T16:27:16Z",
+      "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
       "tags": [
-        "vibecoding"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "duxweb"
     },
     {
       "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
@@ -838,6 +870,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dustyweb"
+    },
+    {
+      "title": "“No AI” Statements Are Much More Than Mere Statements",
+      "url": "https://journal.james-zhan.com/no-ai-statements/",
+      "published_at": "2026-07-21T13:02:26.878-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -858,7 +902,7 @@
       "title": "Why does asyncio deadlock without raising an exception?",
       "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
       "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "async-await",
@@ -884,6 +928,19 @@
       "user": "Medulla Oblongata"
     },
     {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "published_at": "2026-07-21T23:55:10.000Z",
+      "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "tags": [
+        "AI",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "These are the countries moving to ban social media for children",
       "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
       "published_at": "2026-07-21T20:57:35.000Z",
@@ -900,14 +957,14 @@
       "user": "Aisha Malik"
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "published_at": "2026-07-21T20:56:55.000Z",
       "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "tags": [
         "AI",
-        "OpenAI",
-        "Hugging Face"
+        "Hugging Face",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -920,7 +977,8 @@
       "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
       "tags": [
         "AI",
-        "jack dorsey"
+        "jack dorsey",
+        "Slack"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -935,8 +993,7 @@
         "AI",
         "Apps",
         "Media & Entertainment",
-        "Social",
-        "TC"
+        "Social"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -985,21 +1042,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "published_at": "2026-07-21T17:11:50.000Z",
-      "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Google",
-        "google gemini"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1198,21 +1240,6 @@
       "user": "velmu"
     },
     {
-      "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "published_at": "2026-07-15T12:34:51Z",
-      "description": "Codex Dream Skin",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
-      "source": "GitHub",
-      "stars": 11496,
-      "user": "Fei-Away"
-    },
-    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -1224,38 +1251,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1285,
       "user": "tandpfun"
-    },
-    {
-      "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "published_at": "2026-07-15T22:17:25Z",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
-      "source": "GitHub",
-      "stars": 700,
-      "user": "Blueturboguy07"
-    },
-    {
-      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "published_at": "2026-07-15T10:24:07Z",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "HeiGeAi"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -1269,23 +1266,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 257,
       "user": "Kritt-ai"
     },
     {
-      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "url": "https://github.com/hoainho/img2threejs",
-      "published_at": "2026-07-15T02:58:39Z",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "published_at": "2026-07-18T23:17:55Z",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 1441,
-      "user": "hoainho"
+      "stars": 249,
+      "user": "livetennisapi"
+    },
+    {
+      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "published_at": "2026-07-18T20:00:46Z",
+      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 217,
+      "user": "joeseesun"
+    },
+    {
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "lyu0805"
     },
     {
       "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
@@ -1299,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 962,
       "user": "pablostanley"
     },
     {
@@ -1314,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 416,
       "user": "Vincentwei1021"
     },
     {
@@ -1329,23 +1356,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "thesysdev"
-    },
-    {
-      "title": "0xsline/OpenChatCut - Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "url": "https://github.com/0xsline/OpenChatCut",
-      "published_at": "2026-07-15T02:49:42Z",
-      "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "0xsline"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -1363,17 +1375,19 @@
       "user": "robinhood-ape"
     },
     {
-      "title": "how to execute is code in browser with vscode",
-      "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
-      "published_at": "2026-07-21T19:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "robinhood-ape/robinhood-noxa-bundler - NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "published_at": "2026-07-16T05:41:33Z",
+      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
       "tags": [
-        "javascript",
-        "visual-studio-code"
+        "typescript",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32959323"
+      "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "robinhood-ape"
     },
     {
       "title": "How to monkey patch Leaflet library?",
@@ -1389,6 +1403,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "plswork04"
+    },
+    {
+      "title": "how to execute is code in browser with vscode",
+      "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
+      "published_at": "2026-07-21T19:37:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "visual-studio-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32959323"
     },
     {
       "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
@@ -1480,7 +1507,7 @@
       "title": "What is the best way to go to load google recaptcha after consent?",
       "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
       "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1649,6 +1676,21 @@
       "user": "xbill"
     },
     {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -1662,36 +1704,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
-      "published_at": "2026-07-03T02:55:09Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "python",
-        "tpu",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
-      "published_at": "2026-07-09T13:12:41Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "antigravitycli",
-        "python",
-        "mcps",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1825,23 +1837,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1592,
       "user": "lopopolo"
-    },
-    {
-      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "url": "https://github.com/hoainho/img2threejs",
-      "published_at": "2026-07-15T02:58:39Z",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
-      "source": "GitHub",
-      "stars": 1441,
-      "user": "hoainho"
     },
     {
       "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
@@ -1855,23 +1852,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 583,
       "user": "xiejunjie524"
-    },
-    {
-      "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "url": "https://github.com/pyang5166/gbro-collage-broll",
-      "published_at": "2026-07-15T12:45:47Z",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "pyang5166"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -1887,6 +1869,36 @@
       "source": "GitHub",
       "stars": 487,
       "user": "EthanXiang777"
+    },
+    {
+      "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "published_at": "2026-07-17T20:18:33Z",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
+      "source": "GitHub",
+      "stars": 460,
+      "user": "Icex0"
+    },
+    {
+      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "published_at": "2026-07-20T14:58:48Z",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
+      "source": "GitHub",
+      "stars": 343,
+      "user": "powerycy"
     },
     {
       "title": "f-string W3School Challenge",
@@ -1905,7 +1917,7 @@
       "title": "Taking File Data",
       "url": "https://stackoverflow.com/questions/79983691/taking-file-data",
       "published_at": "2026-07-21T21:41:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python"
       ],
@@ -1917,7 +1929,7 @@
       "title": "Why does asyncio deadlock without raising an exception?",
       "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
       "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "async-await",
@@ -1933,7 +1945,7 @@
       "title": "Subclassing ndb's Property classes such that static type checking works",
       "url": "https://stackoverflow.com/questions/79983655/subclassing-ndbs-property-classes-such-that-static-type-checking-works",
       "published_at": "2026-07-21T18:50:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-typing",
@@ -1984,6 +1996,21 @@
       "user": "Medulla Oblongata"
     },
     {
+      "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
+      "url": "https://stackoverflow.com/questions/79983484/why-can-importlib-reload-leave-existing-class-instances-using-stale-method-imp",
+      "published_at": "2026-07-21T10:06:10.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "module",
+        "cpython",
+        "python-importlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ali-raza-py"
+    },
+    {
       "title": "How can I disable the constant font size of text when 3d zooming in plotly?",
       "url": "https://stackoverflow.com/questions/79983614/how-can-i-disable-the-constant-font-size-of-text-when-3d-zooming-in-plotly",
       "published_at": "2026-07-21T16:47:31.000Z",
@@ -2009,21 +2036,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "frank"
-    },
-    {
-      "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
-      "url": "https://stackoverflow.com/questions/79983484/why-can-importlib-reload-leave-existing-class-instances-using-stale-method-imp",
-      "published_at": "2026-07-21T10:06:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "module",
-        "cpython",
-        "python-importlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2087,21 +2099,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2224,21 +2221,6 @@
       "user": "jknupp"
     },
     {
-      "title": "inbjo/MirrorProxy - All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. ",
-      "url": "https://github.com/inbjo/MirrorProxy",
-      "published_at": "2026-07-15T05:51:24Z",
-      "description": "All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. ",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "inbjo"
-    },
-    {
       "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
       "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
       "published_at": "2026-07-21T05:11:59.776-05:00",
@@ -2342,7 +2324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "MobAI-App"
     },
     {
@@ -2543,6 +2525,21 @@
       "user": "xbill"
     },
     {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+      "published_at": "2026-07-13T13:36:03Z",
+      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
+      "tags": [
+        "machinelearning",
+        "aws",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
       "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
       "published_at": "2026-07-08T13:02:03Z",
@@ -2631,51 +2628,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-4-mcp-and-antigravity-cli-539h",
-      "published_at": "2026-07-03T02:55:09Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "python",
-        "tpu",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzqz5vmldd20o78r9sqi.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
-      "published_at": "2026-07-09T13:12:41Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "antigravitycli",
-        "python",
-        "mcps",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqnv8wnivcrszfgt4z2ge.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6",
-      "published_at": "2026-06-30T01:18:13Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "gemma",
-        "tpu",
-        "benchmark"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdayxwkojhfsrhvu0ixa3.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -2769,6 +2721,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
+      "published_at": "2026-07-19T05:58:49Z",
+      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "0xtbug"
+    },
+    {
       "title": "cursor/minisqlite - GitHub Repository",
       "url": "https://github.com/cursor/minisqlite",
       "published_at": "2026-07-17T07:41:30Z",
@@ -2780,7 +2747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "cursor"
     },
     {
@@ -3008,7 +2975,7 @@
       "title": "What is the best way to go to load google recaptcha after consent?",
       "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
       "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -3100,6 +3067,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3181,21 +3163,6 @@
       "user": "pabs3"
     },
     {
-      "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "published_at": "2026-07-15T12:34:51Z",
-      "description": "Codex Dream Skin",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100042407?v=4",
-      "source": "GitHub",
-      "stars": 11496,
-      "user": "Fei-Away"
-    },
-    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -3207,38 +3174,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1285,
       "user": "tandpfun"
-    },
-    {
-      "title": "Blueturboguy07/cue - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "published_at": "2026-07-15T22:17:25Z",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114044325?v=4",
-      "source": "GitHub",
-      "stars": 700,
-      "user": "Blueturboguy07"
-    },
-    {
-      "title": "HeiGeAi/heige-codex-skin-studio - 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "published_at": "2026-07-15T10:24:07Z",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/221471965?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "HeiGeAi"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -3252,8 +3189,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 257,
       "user": "Kritt-ai"
+    },
+    {
+      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "published_at": "2026-07-18T23:17:55Z",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "livetennisapi"
+    },
+    {
+      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "published_at": "2026-07-18T20:00:46Z",
+      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 217,
+      "user": "joeseesun"
+    },
+    {
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "lyu0805"
     },
     {
       "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
@@ -3267,23 +3249,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1592,
       "user": "lopopolo"
-    },
-    {
-      "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "url": "https://github.com/hoainho/img2threejs",
-      "published_at": "2026-07-15T02:58:39Z",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47898976?v=4",
-      "source": "GitHub",
-      "stars": 1441,
-      "user": "hoainho"
     },
     {
       "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
@@ -3297,23 +3264,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 583,
       "user": "xiejunjie524"
-    },
-    {
-      "title": "pyang5166/gbro-collage-broll - 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "url": "https://github.com/pyang5166/gbro-collage-broll",
-      "published_at": "2026-07-15T12:45:47Z",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176493563?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "pyang5166"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -3329,6 +3281,36 @@
       "source": "GitHub",
       "stars": 487,
       "user": "EthanXiang777"
+    },
+    {
+      "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "published_at": "2026-07-17T20:18:33Z",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
+      "source": "GitHub",
+      "stars": 460,
+      "user": "Icex0"
+    },
+    {
+      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "published_at": "2026-07-20T14:58:48Z",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
+      "source": "GitHub",
+      "stars": 343,
+      "user": "powerycy"
     },
     {
       "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
@@ -3361,36 +3343,6 @@
       "user": "paxlabs-inc"
     },
     {
-      "title": "shibadogcap/dpgk - ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "url": "https://github.com/shibadogcap/dpgk",
-      "published_at": "2026-07-15T14:10:03Z",
-      "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132909895?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "shibadogcap"
-    },
-    {
-      "title": "scion-frontiers/farmtable - GitHub Repository",
-      "url": "https://github.com/scion-frontiers/farmtable",
-      "published_at": "2026-07-15T20:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291301694?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "scion-frontiers"
-    },
-    {
       "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
       "url": "https://github.com/MobAI-App/simslim",
       "published_at": "2026-07-20T15:55:18Z",
@@ -3402,8 +3354,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "MobAI-App"
+    },
+    {
+      "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
+      "url": "https://github.com/iluvx/go-tg-api",
+      "published_at": "2026-07-18T05:13:20Z",
+      "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175501983?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "iluvx"
+    },
+    {
+      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
+      "published_at": "2026-07-19T05:58:49Z",
+      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "0xtbug"
     },
     {
       "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
@@ -3417,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 962,
       "user": "pablostanley"
     },
     {
@@ -3432,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 416,
       "user": "Vincentwei1021"
     },
     {
@@ -3447,23 +3429,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "thesysdev"
-    },
-    {
-      "title": "0xsline/OpenChatCut - Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "url": "https://github.com/0xsline/OpenChatCut",
-      "published_at": "2026-07-15T02:49:42Z",
-      "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "0xsline"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -3478,6 +3445,21 @@
       "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
       "source": "GitHub",
       "stars": 253,
+      "user": "robinhood-ape"
+    },
+    {
+      "title": "robinhood-ape/robinhood-noxa-bundler - NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "published_at": "2026-07-16T05:41:33Z",
+      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305583192?v=4",
+      "source": "GitHub",
+      "stars": 250,
       "user": "robinhood-ape"
     },
     {
@@ -3507,38 +3489,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 259,
       "user": "yc-duan"
-    },
-    {
-      "title": "inbjo/MirrorProxy - All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. ",
-      "url": "https://github.com/inbjo/MirrorProxy",
-      "published_at": "2026-07-15T05:51:24Z",
-      "description": "All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. ",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11854149?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "inbjo"
-    },
-    {
-      "title": "gakonst/nanocodex - Blazing-fast, minimal, library-first reimplementation of Codex",
-      "url": "https://github.com/gakonst/nanocodex",
-      "published_at": "2026-07-15T22:46:14Z",
-      "description": "Blazing-fast, minimal, library-first reimplementation of Codex",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17802178?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "gakonst"
     },
     {
       "title": "cursor/minisqlite - GitHub Repository",
@@ -3552,8 +3504,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "cursor"
+    },
+    {
+      "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "url": "https://github.com/duxweb/ReTheme",
+      "published_at": "2026-07-18T16:27:16Z",
+      "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "duxweb"
+    },
+    {
+      "title": "vncsmnl/rwx - 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
+      "url": "https://github.com/vncsmnl/rwx",
+      "published_at": "2026-07-18T16:44:05Z",
+      "description": "🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "vncsmnl"
     },
     {
       "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
@@ -3585,7 +3567,7 @@
       "title": "how to execute is code in browser with vscode",
       "url": "https://stackoverflow.com/questions/79983669/how-to-execute-is-code-in-browser-with-vscode",
       "published_at": "2026-07-21T19:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "visual-studio-code"
@@ -3611,7 +3593,7 @@
       "title": "What is the best way to go to load google recaptcha after consent?",
       "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
       "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -3624,14 +3606,27 @@
       "user": "Malte K"
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "published_at": "2026-07-21T23:55:10.000Z",
+      "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "tags": [
+        "AI",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "published_at": "2026-07-21T20:56:55.000Z",
       "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "tags": [
         "AI",
-        "OpenAI",
-        "Hugging Face"
+        "Hugging Face",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
