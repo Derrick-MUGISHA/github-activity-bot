@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1335,
       "user": "tandpfun"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 304,
       "user": "Kritt-ai"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 488,
       "user": "EthanXiang777"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "Icex0"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 944,
       "user": "nethical6"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "MobAI-App"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "Vincentwei1021"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 482,
       "user": "Jakubantalik"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 377,
       "user": "pireel"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "yc-duan"
     },
     {
@@ -916,7 +916,7 @@
       "title": "Why does asyncio deadlock without raising an exception?",
       "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
       "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "async-await",
@@ -927,6 +927,64 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anthony Joseph"
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "published_at": "2026-07-22T16:24:08.000Z",
+      "description": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "chinese ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "published_at": "2026-07-22T16:23:09.000Z",
+      "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Substack"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "OpenAI&#8217;s AI spending spree has ballooned to $750B",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "published_at": "2026-07-22T16:13:30.000Z",
+      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "If you pay a hacker&#8217;s ransom, chances are that they&#8217;ll come back for more",
+      "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
+      "published_at": "2026-07-22T15:29:41.000Z",
+      "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "ransomware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Cascade raises $3.5M to help construction firms find and win projects",
@@ -1006,67 +1064,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "published_at": "2026-07-22T03:20:57.000Z",
-      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "tags": [
-        "AI",
-        "TC",
-        "Anthropic",
-        "OpenAI",
-        "Physical Intelligence"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Dimension Capital&#8217;s $800M third fund shows the intersection of science and compute is booming",
-      "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "published_at": "2026-07-22T01:27:58.000Z",
-      "description": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-      "tags": [
-        "Biotech & Health",
-        "Venture",
-        "biotech",
-        "Chai Discovery",
-        "Dimension"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "published_at": "2026-07-21T23:55:10.000Z",
-      "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "tags": [
-        "AI",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "These are the countries moving to ban social media for children",
-      "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-      "published_at": "2026-07-21T20:57:35.000Z",
-      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "evergreens",
-        "social media bans"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1276,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1335,
       "user": "tandpfun"
     },
     {
@@ -1291,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 377,
       "user": "gnipbao"
     },
     {
@@ -1306,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 304,
       "user": "Kritt-ai"
     },
     {
@@ -1336,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "lyu0805"
     },
     {
@@ -1351,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 157,
       "user": "Charles-0509"
     },
     {
@@ -1366,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1034,
       "user": "pablostanley"
     },
     {
@@ -1396,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "Vincentwei1021"
     },
     {
@@ -1411,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 482,
       "user": "Jakubantalik"
     },
     {
@@ -1426,14 +1423,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 377,
       "user": "pireel"
+    },
+    {
+      "title": "How to monkey patch Leaflet library?",
+      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
+      "published_at": "2026-07-21T17:37:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "javascript",
+        "leaflet",
+        "vite",
+        "monkeypatching"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "plswork04"
     },
     {
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1442,22 +1454,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marc Lawson"
-    },
-    {
-      "title": "How to monkey patch Leaflet library?",
-      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
-      "published_at": "2026-07-21T17:37:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "typescript",
-        "leaflet",
-        "vite",
-        "monkeypatching"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "plswork04"
     },
     {
       "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
@@ -1472,6 +1468,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diksha Verma"
+    },
+    {
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
@@ -1559,22 +1571,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "What is the best way to go to load google recaptcha after consent?",
-      "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
-      "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "forms",
-        "recaptcha",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
     },
     {
       "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
@@ -1864,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2095,
+      "stars": 2133,
       "user": "lopopolo"
     },
     {
@@ -1879,8 +1875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "xiejunjie524"
+    },
+    {
+      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "published_at": "2026-07-20T14:58:48Z",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
+      "source": "GitHub",
+      "stars": 492,
+      "user": "powerycy"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -1894,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 488,
       "user": "EthanXiang777"
     },
     {
@@ -1909,23 +1920,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "Icex0"
     },
     {
-      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "published_at": "2026-07-20T14:58:48Z",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "title": "Best Way to Specify Linux Distribution Repo Version of Python Dependencies?",
+      "url": "https://stackoverflow.com/questions/79983907/best-way-to-specify-linux-distribution-repo-version-of-python-dependencies",
+      "published_at": "2026-07-22T16:06:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "python",
+        "linux"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jason Shapiro"
+    },
+    {
+      "title": "Google Drive and Google Docs API | authentication exception: invalid scope, bad request",
+      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad",
+      "published_at": "2026-07-22T15:12:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "google-drive-api",
+        "google-oauth",
+        "token",
+        "google-docs-api"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
-      "source": "GitHub",
-      "stars": 471,
-      "user": "powerycy"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pink Acorn"
     },
     {
       "title": "Can Numba be used on a for loop without using a function?",
@@ -1959,24 +1985,10 @@
       "user": "Bill Kerr"
     },
     {
-      "title": "My Reddit Login Bot get detected by antibot detection in reddit i am using selenium, brave-v1.87.188, chromium-v 145",
-      "url": "https://stackoverflow.com/questions/79983786/my-reddit-login-bot-get-detected-by-antibot-detection-in-reddit-i-am-using-selen",
-      "published_at": "2026-07-22T08:14:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "selenium-webdriver",
-        "reddit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sefat khan"
-    },
-    {
       "title": "Parsing a statement",
       "url": "https://stackoverflow.com/questions/79983776/parsing-a-statement",
       "published_at": "2026-07-22T07:51:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "regex"
@@ -1997,21 +2009,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrityu"
-    },
-    {
-      "title": "Improving a pipeline performance",
-      "url": "https://stackoverflow.com/questions/79983735/improving-a-pipeline-performance",
-      "published_at": "2026-07-22T05:06:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "pyspark",
-        "databricks-sql",
-        "data-engineering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ganesh K"
     },
     {
       "title": "f-string W3School Challenge",
@@ -2041,22 +2038,6 @@
       "user": "Ryan Pierce Williams"
     },
     {
-      "title": "Why does asyncio deadlock without raising an exception?",
-      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
-      "published_at": "2026-07-21T21:39:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "async-await",
-        "concurrency",
-        "python-asyncio",
-        "deadlock"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anthony Joseph"
-    },
-    {
       "title": "How do I use Bearer token with Python requests?",
       "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
       "published_at": "2026-07-21T14:38:43.000Z",
@@ -2068,6 +2049,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Traci Phillip"
+    },
+    {
+      "title": "Why does asyncio deadlock without raising an exception?",
+      "url": "https://stackoverflow.com/questions/79983689/why-does-asyncio-deadlock-without-raising-an-exception",
+      "published_at": "2026-07-21T21:39:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "async-await",
+        "concurrency",
+        "python-asyncio",
+        "deadlock"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anthony Joseph"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2337,7 +2334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 377,
       "user": "pireel"
     },
     {
@@ -2357,7 +2354,7 @@
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2413,7 +2410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "MobAI-App"
     },
     {
@@ -2823,23 +2820,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "cursor"
-    },
-    {
-      "title": "Improving a pipeline performance",
-      "url": "https://stackoverflow.com/questions/79983735/improving-a-pipeline-performance",
-      "published_at": "2026-07-22T05:06:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "pyspark",
-        "databricks-sql",
-        "data-engineering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ganesh K"
     },
     {
       "title": "How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies",
@@ -3036,7 +3018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 157,
       "user": "Charles-0509"
     },
     {
@@ -3052,33 +3034,34 @@
       "user": "raymii"
     },
     {
-      "title": "git --end-of-options",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "published_at": "2026-07-21T07:31:15.622-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "robalex"
-    },
-    {
-      "title": "What is the best way to go to load google recaptcha after consent?",
-      "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
-      "published_at": "2026-07-20T20:58:56.000Z",
+      "title": "Google Drive and Google Docs API | authentication exception: invalid scope, bad request",
+      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad",
+      "published_at": "2026-07-22T15:12:24.000Z",
       "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "forms",
-        "recaptcha",
-        "content-security-policy"
+        "python",
+        "google-drive-api",
+        "google-oauth",
+        "token",
+        "google-docs-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Malte K"
+      "user": "Pink Acorn"
+    },
+    {
+      "title": "If you pay a hacker&#8217;s ransom, chances are that they&#8217;ll come back for more",
+      "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
+      "published_at": "2026-07-22T15:29:41.000Z",
+      "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "ransomware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
@@ -3283,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1326,
+      "stars": 1335,
       "user": "tandpfun"
     },
     {
@@ -3298,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 377,
       "user": "gnipbao"
     },
     {
@@ -3313,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 304,
       "user": "Kritt-ai"
     },
     {
@@ -3343,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "lyu0805"
     },
     {
@@ -3358,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2095,
+      "stars": 2133,
       "user": "lopopolo"
     },
     {
@@ -3373,8 +3356,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "xiejunjie524"
+    },
+    {
+      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "published_at": "2026-07-20T14:58:48Z",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
+      "source": "GitHub",
+      "stars": 492,
+      "user": "powerycy"
     },
     {
       "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
@@ -3388,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 488,
       "user": "EthanXiang777"
     },
     {
@@ -3403,23 +3401,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "Icex0"
-    },
-    {
-      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "published_at": "2026-07-20T14:58:48Z",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
-      "source": "GitHub",
-      "stars": 471,
-      "user": "powerycy"
     },
     {
       "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
@@ -3433,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 944,
       "user": "nethical6"
     },
     {
@@ -3448,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "paxlabs-inc"
     },
     {
@@ -3463,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 157,
       "user": "Charles-0509"
     },
     {
@@ -3478,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "MobAI-App"
     },
     {
@@ -3508,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1034,
       "user": "pablostanley"
     },
     {
@@ -3538,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "Vincentwei1021"
     },
     {
@@ -3553,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 482,
       "user": "Jakubantalik"
     },
     {
@@ -3568,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 377,
       "user": "pireel"
     },
     {
@@ -3583,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "mesamirh"
     },
     {
@@ -3598,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "yc-duan"
     },
     {
@@ -3613,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "cursor"
     },
     {
@@ -3643,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "vncsmnl"
     },
     {
@@ -3660,17 +3643,20 @@
       "user": "GLaDER"
     },
     {
-      "title": "git --end-of-options",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "published_at": "2026-07-21T07:31:15.622-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "security",
-        "vcs"
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "hugo"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "robalex"
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "How to extract text from .doc/.ppt/.xls format on client side?",
@@ -3686,20 +3672,18 @@
       "user": "Huzaifa mumtaz"
     },
     {
-      "title": "What is the best way to go to load google recaptcha after consent?",
-      "url": "https://stackoverflow.com/questions/79982354/what-is-the-best-way-to-go-to-load-google-recaptcha-after-consent",
-      "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "published_at": "2026-07-22T16:23:09.000Z",
+      "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "forms",
-        "recaptcha",
-        "content-security-policy"
+        "AI",
+        "Media & Entertainment",
+        "Substack"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
@@ -3716,19 +3700,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "published_at": "2026-07-21T23:55:10.000Z",
-      "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "tags": [
-        "AI",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
