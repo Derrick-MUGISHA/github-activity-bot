@@ -211,21 +211,6 @@
       "user": "christine"
     },
     {
-      "title": "The Myth of the Post-Documentation Era",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "published_at": "2026-07-13T15:59:11Z",
-      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "tags": [
-        "ai",
-        "documentation",
-        "opensource",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "What is an \"agentic harness,\" actually?",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "published_at": "2026-07-16T21:19:20Z",
@@ -239,6 +224,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "The Myth of the Post-Documentation Era",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+      "published_at": "2026-07-13T15:59:11Z",
+      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "tags": [
+        "ai",
+        "documentation",
+        "opensource",
+        "codequality"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I burned through thousands of AI tokens. Then a friend did it for free",
@@ -523,6 +523,21 @@
       "user": "bredmond1019"
     },
     {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -667,17 +682,16 @@
       "user": "indigodaddy"
     },
     {
-      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published_at": "2026-07-21T15:38:04.837-05:00",
-      "description": "Lobste.rs Discussion",
+      "published_at": "2026-07-21T20:09:52Z",
+      "description": "HackerNews Discussion",
       "tags": [
-        "security",
-        "vibecoding"
+        "Security"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dustyweb"
+      "source": "HackerNews",
+      "user": "mfiguiere"
     },
     {
       "title": "Ask HN: Gmail account security",
@@ -703,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1353,
       "user": "tandpfun"
     },
     {
@@ -718,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "Kritt-ai"
     },
     {
@@ -778,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 961,
       "user": "nethical6"
     },
     {
@@ -808,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 573,
       "user": "Jakubantalik"
     },
     {
@@ -823,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 507,
       "user": "Vincentwei1021"
     },
     {
@@ -838,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 409,
       "user": "pireel"
     },
     {
@@ -1301,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1353,
       "user": "tandpfun"
     },
     {
@@ -1331,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "Kritt-ai"
     },
     {
@@ -1391,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1042,
       "user": "pablostanley"
     },
     {
@@ -1406,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 573,
       "user": "Jakubantalik"
     },
     {
@@ -1421,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 507,
       "user": "Vincentwei1021"
     },
     {
@@ -1451,20 +1465,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 409,
       "user": "pireel"
-    },
-    {
-      "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
-      "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
-      "published_at": "2026-07-22T12:35:25.722-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jado"
     },
     {
       "title": "How to see service worker errors in Chromium debugger?",
@@ -1900,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2175,
+      "stars": 2180,
       "user": "lopopolo"
     },
     {
@@ -2355,7 +2357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 409,
       "user": "pireel"
     },
     {
@@ -2784,6 +2786,21 @@
       "user": "Abhishek Gupta"
     },
     {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
+      "published_at": "2026-07-16T19:41:43Z",
+      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "tags": [
+        "aws",
+        "infrastructure",
+        "networking",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
+    },
+    {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
       "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
       "published_at": "2026-07-21T11:41:29.000Z",
@@ -2983,17 +3000,16 @@
       "user": "helsinkiandrew"
     },
     {
-      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published_at": "2026-07-21T15:38:04.837-05:00",
-      "description": "Lobste.rs Discussion",
+      "published_at": "2026-07-21T20:09:52Z",
+      "description": "HackerNews Discussion",
       "tags": [
-        "security",
-        "vibecoding"
+        "Security"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dustyweb"
+      "source": "HackerNews",
+      "user": "mfiguiere"
     },
     {
       "title": "Ask HN: Gmail account security",
@@ -3094,6 +3110,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ngoldbaum"
+    },
+    {
+      "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
+      "published_at": "2026-07-22T15:24:10.865-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rrampage"
     },
     {
       "title": "Google Drive and Google Docs API | authentication exception: invalid scope, bad request",
@@ -3298,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1353,
       "user": "tandpfun"
     },
     {
@@ -3328,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "Kritt-ai"
     },
     {
@@ -3373,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2175,
+      "stars": 2180,
       "user": "lopopolo"
     },
     {
@@ -3448,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 961,
       "user": "nethical6"
     },
     {
@@ -3523,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1042,
       "user": "pablostanley"
     },
     {
@@ -3538,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 573,
       "user": "Jakubantalik"
     },
     {
@@ -3553,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 507,
       "user": "Vincentwei1021"
     },
     {
@@ -3583,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 409,
       "user": "pireel"
     },
     {
@@ -3598,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 414,
       "user": "mesamirh"
     },
     {
