@@ -679,6 +679,19 @@
       "user": "caseyf7"
     },
     {
+      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published_at": "2026-07-21T15:38:04.837-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dustyweb"
+    },
+    {
       "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
       "published_at": "2026-07-16T06:17:00Z",
@@ -690,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1295,
+      "stars": 1311,
       "user": "tandpfun"
     },
     {
@@ -705,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 284,
       "user": "Kritt-ai"
     },
     {
@@ -720,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 263,
       "user": "livetennisapi"
     },
     {
@@ -750,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 477,
       "user": "Icex0"
     },
     {
@@ -765,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 930,
       "user": "nethical6"
     },
     {
@@ -780,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 109,
       "user": "MobAI-App"
     },
     {
@@ -795,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 473,
       "user": "Vincentwei1021"
     },
     {
@@ -810,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 330,
       "user": "Jakubantalik"
     },
     {
@@ -840,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 309,
       "user": "yc-duan"
     },
     {
@@ -855,21 +868,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 106,
       "user": "duxweb"
-    },
-    {
-      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published_at": "2026-07-21T15:38:04.837-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dustyweb"
     },
     {
       "title": "“No AI” Statements Are Much More Than Mere Statements",
@@ -928,17 +928,20 @@
       "user": "Anthony Joseph"
     },
     {
-      "title": "Check if matrix contains only specific values in numpy",
-      "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
-      "published_at": "2026-07-21T13:49:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "published_at": "2026-07-22T08:00:00.000Z",
+      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
       "tags": [
-        "python",
-        "numpy"
+        "Startups",
+        "AI",
+        "Enterprise",
+        "Exclusive",
+        "Synthesia"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Medulla Oblongata"
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -1057,20 +1060,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-      "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
-      "published_at": "2026-07-21T18:18:43.000Z",
-      "description": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "Klarna"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
@@ -1280,8 +1269,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1295,
+      "stars": 1311,
       "user": "tandpfun"
+    },
+    {
+      "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "published_at": "2026-07-21T08:54:45Z",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "gnipbao"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -1295,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 284,
       "user": "Kritt-ai"
     },
     {
@@ -1310,38 +1314,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 263,
       "user": "livetennisapi"
     },
     {
-      "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "published_at": "2026-07-21T08:54:45Z",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "gnipbao"
-    },
-    {
-      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "published_at": "2026-07-18T20:00:46Z",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 225,
-      "user": "joeseesun"
+      "stars": 229,
+      "user": "lyu0805"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -1355,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 109,
       "user": "Charles-0509"
     },
     {
@@ -1370,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1002,
       "user": "pablostanley"
     },
     {
@@ -1385,23 +1374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 473,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "thesysdev/appless - What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "published_at": "2026-07-16T07:08:49Z",
-      "description": "What if your phone had no apps",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "thesysdev"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -1415,8 +1389,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 330,
       "user": "Jakubantalik"
+    },
+    {
+      "title": "thesysdev/appless - What if your phone had no apps",
+      "url": "https://github.com/thesysdev/appless",
+      "published_at": "2026-07-16T07:08:49Z",
+      "description": "What if your phone had no apps",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "thesysdev"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -1451,7 +1440,7 @@
       "title": "How to monkey patch Leaflet library?",
       "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
       "published_at": "2026-07-21T17:37:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "typescript",
@@ -1883,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1946,
       "user": "lopopolo"
     },
     {
@@ -1898,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 609,
       "user": "xiejunjie524"
     },
     {
@@ -1928,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 477,
       "user": "Icex0"
     },
     {
@@ -1943,23 +1932,48 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 418,
       "user": "powerycy"
     },
     {
-      "title": "Improving a pipeline performance",
-      "url": "https://stackoverflow.com/questions/79983735/improving-a-pipeline-performance",
-      "published_at": "2026-07-22T05:06:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "published_at": "2026-07-21T21:46:37.877-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
         "python",
-        "pyspark",
-        "databricks-sql",
-        "data-engineering"
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "w0nder1ng"
+    },
+    {
+      "title": "My Reddit Login Bot get detected by antibot detection in reddit i am using selenium, brave-v1.87.188, chromium-v 145",
+      "url": "https://stackoverflow.com/questions/79983786/my-reddit-login-bot-get-detected-by-antibot-detection-in-reddit-i-am-using-selen",
+      "published_at": "2026-07-22T08:14:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "selenium-webdriver",
+        "reddit"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ganesh K"
+      "user": "sefat khan"
+    },
+    {
+      "title": "Parsing a statement",
+      "url": "https://stackoverflow.com/questions/79983776/parsing-a-statement",
+      "published_at": "2026-07-22T07:51:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daap"
     },
     {
       "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
@@ -1973,6 +1987,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrityu"
+    },
+    {
+      "title": "Improving a pipeline performance",
+      "url": "https://stackoverflow.com/questions/79983735/improving-a-pipeline-performance",
+      "published_at": "2026-07-22T05:06:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "pyspark",
+        "databricks-sql",
+        "data-engineering"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ganesh K"
     },
     {
       "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
@@ -2057,33 +2086,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Traci Phillip"
-    },
-    {
-      "title": "A smart document with meta layers /meta tags with classifications?",
-      "url": "https://stackoverflow.com/questions/79983665/a-smart-document-with-meta-layers-meta-tags-with-classifications",
-      "published_at": "2026-07-21T19:31:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "advice",
-        "python",
-        "metadata"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "the"
-    },
-    {
-      "title": "Check if matrix contains only specific values in numpy",
-      "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
-      "published_at": "2026-07-21T13:49:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Medulla Oblongata"
     },
     {
       "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
@@ -2401,7 +2403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 109,
       "user": "MobAI-App"
     },
     {
@@ -2795,14 +2797,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "cursor"
     },
     {
       "title": "Improving a pipeline performance",
       "url": "https://stackoverflow.com/questions/79983735/improving-a-pipeline-performance",
       "published_at": "2026-07-22T05:06:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "pyspark",
@@ -2960,6 +2962,19 @@
       "user": "cdvonstinkpot"
     },
     {
+      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published_at": "2026-07-21T15:38:04.837-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dustyweb"
+    },
+    {
       "title": "Senators push to ditch social security numbers in light of Equifax hack",
       "url": "https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/",
       "published_at": "2017-11-08T22:49:56Z",
@@ -2984,18 +2999,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Librarian's Letter to Google Security",
-      "url": "https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview",
-      "published_at": "2022-08-01T11:05:23Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "2352500"
-    },
-    {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "url": "https://github.com/Charles-0509/Grok-Register",
       "published_at": "2026-07-20T16:35:09Z",
@@ -3007,21 +3010,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 109,
       "user": "Charles-0509"
     },
     {
-      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published_at": "2026-07-21T15:38:04.837-05:00",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published_at": "2026-07-22T00:56:08.527-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security",
-        "vibecoding"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "dustyweb"
+      "user": "raymii"
     },
     {
       "title": "git --end-of-options",
@@ -3035,18 +3037,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "robalex"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published_at": "2026-07-22T00:56:08.527-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
     },
     {
       "title": "What is the best way to go to load google recaptcha after consent?",
@@ -3251,8 +3241,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
       "source": "GitHub",
-      "stars": 1295,
+      "stars": 1311,
       "user": "tandpfun"
+    },
+    {
+      "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "published_at": "2026-07-21T08:54:45Z",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "gnipbao"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -3266,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 284,
       "user": "Kritt-ai"
     },
     {
@@ -3281,38 +3286,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 263,
       "user": "livetennisapi"
     },
     {
-      "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "published_at": "2026-07-21T08:54:45Z",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "gnipbao"
-    },
-    {
-      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "published_at": "2026-07-18T20:00:46Z",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 225,
-      "user": "joeseesun"
+      "stars": 229,
+      "user": "lyu0805"
     },
     {
       "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
@@ -3326,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1946,
       "user": "lopopolo"
     },
     {
@@ -3341,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 609,
       "user": "xiejunjie524"
     },
     {
@@ -3371,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 477,
       "user": "Icex0"
     },
     {
@@ -3386,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 418,
       "user": "powerycy"
     },
     {
@@ -3401,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 930,
       "user": "nethical6"
     },
     {
@@ -3420,21 +3410,6 @@
       "user": "paxlabs-inc"
     },
     {
-      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "url": "https://github.com/MobAI-App/simslim",
-      "published_at": "2026-07-20T15:55:18Z",
-      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "MobAI-App"
-    },
-    {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "url": "https://github.com/Charles-0509/Grok-Register",
       "published_at": "2026-07-20T16:35:09Z",
@@ -3446,8 +3421,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 109,
       "user": "Charles-0509"
+    },
+    {
+      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "url": "https://github.com/MobAI-App/simslim",
+      "published_at": "2026-07-20T15:55:18Z",
+      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "MobAI-App"
     },
     {
       "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
@@ -3476,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1002,
       "user": "pablostanley"
     },
     {
@@ -3491,23 +3481,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 473,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "thesysdev/appless - What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "published_at": "2026-07-16T07:08:49Z",
-      "description": "What if your phone had no apps",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "thesysdev"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -3521,8 +3496,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 330,
       "user": "Jakubantalik"
+    },
+    {
+      "title": "thesysdev/appless - What if your phone had no apps",
+      "url": "https://github.com/thesysdev/appless",
+      "published_at": "2026-07-16T07:08:49Z",
+      "description": "What if your phone had no apps",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155424887?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "thesysdev"
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot - NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
@@ -3551,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 377,
       "user": "mesamirh"
     },
     {
@@ -3566,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 309,
       "user": "yc-duan"
     },
     {
@@ -3581,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "cursor"
     },
     {
@@ -3596,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 106,
       "user": "duxweb"
     },
     {
@@ -3611,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 94,
       "user": "vncsmnl"
     },
     {
