@@ -16,21 +16,6 @@
       "user": " Gábor Mészáros"
     },
     {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -177,6 +162,21 @@
         "antigravitycli"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
+      "published_at": "2026-07-21T00:10:45Z",
+      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
+      "tags": [
+        "googlecloud",
+        "tpu",
+        "vllm",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Kritt-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1071,
       "user": "nethical6"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "MobAI-App"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 888,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 652,
       "user": "pireel"
     },
     {
@@ -851,6 +851,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "FedericoSchonborn"
+    },
+    {
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "published_at": "2026-07-23T22:40:08.000Z",
+      "description": "Shashua has been invited to take the chairman of the board seat.",
+      "tags": [
+        "Transportation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -941,22 +953,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "published_at": "2026-07-23T17:00:00.000Z",
-      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "tags": [
-        "AI",
-        "Apps",
-        "TC",
-        "ChatGPT",
-        "chatgpt health"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
@@ -1211,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 543,
       "user": "gnipbao"
     },
     {
@@ -1226,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Kritt-ai"
     },
     {
@@ -1241,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 344,
       "user": "CatsJuice"
     },
     {
@@ -1256,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "lyu0805"
     },
     {
@@ -1286,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 287,
       "user": "Charles-0509"
     },
     {
@@ -1301,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1059,
       "user": "nyblnet"
     },
     {
@@ -1316,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 888,
       "user": "Vincentwei1021"
     },
     {
@@ -1331,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "Jakubantalik"
     },
     {
@@ -1346,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 652,
       "user": "pireel"
     },
     {
@@ -1444,7 +1440,7 @@
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
       "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
       "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1752,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2267,
+      "stars": 2269,
       "user": "lopopolo"
     },
     {
@@ -1767,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 910,
       "user": "andrewyng"
     },
     {
@@ -1782,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 645,
       "user": "powerycy"
     },
     {
@@ -1797,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "xiejunjie524"
     },
     {
@@ -1814,6 +1810,19 @@
       "source": "GitHub",
       "stars": 501,
       "user": "Icex0"
+    },
+    {
+      "title": "What is best practice for preventing a class attribute from becoming stale data?",
+      "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
+      "published_at": "2026-07-23T22:15:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
     },
     {
       "title": "Returning the value of the last expression calculated",
@@ -1942,19 +1951,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jason Shapiro"
-    },
-    {
-      "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
-      "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
-      "published_at": "2026-07-21T14:21:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "raspberry-pi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Bill"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2238,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 652,
       "user": "pireel"
     },
     {
@@ -2275,7 +2271,7 @@
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
       "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
       "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2362,7 +2358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "MobAI-App"
     },
     {
@@ -2412,6 +2408,18 @@
       "user": "AbsolutLeo"
     },
     {
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "published_at": "2026-07-23T22:40:08.000Z",
+      "description": "Shashua has been invited to take the chairman of the board seat.",
+      "tags": [
+        "Transportation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "published_at": "2026-07-23T20:33:02.000Z",
@@ -2444,21 +2452,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
@@ -2576,6 +2569,21 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
+      "published_at": "2026-07-21T00:10:45Z",
+      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
+      "tags": [
+        "googlecloud",
+        "tpu",
+        "vllm",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2919,7 +2927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 287,
       "user": "Charles-0509"
     },
     {
@@ -3151,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 543,
       "user": "gnipbao"
     },
     {
@@ -3166,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Kritt-ai"
     },
     {
@@ -3181,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 344,
       "user": "CatsJuice"
     },
     {
@@ -3196,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "lyu0805"
     },
     {
@@ -3226,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2267,
+      "stars": 2269,
       "user": "lopopolo"
     },
     {
@@ -3241,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 910,
       "user": "andrewyng"
     },
     {
@@ -3256,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 645,
       "user": "powerycy"
     },
     {
@@ -3271,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "xiejunjie524"
     },
     {
@@ -3301,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1071,
       "user": "nethical6"
     },
     {
@@ -3316,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 287,
       "user": "Charles-0509"
     },
     {
@@ -3346,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "MobAI-App"
     },
     {
@@ -3376,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1059,
       "user": "nyblnet"
     },
     {
@@ -3391,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 888,
       "user": "Vincentwei1021"
     },
     {
@@ -3406,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "Jakubantalik"
     },
     {
@@ -3421,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 652,
       "user": "pireel"
     },
     {
@@ -3481,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "vncsmnl"
     },
     {
