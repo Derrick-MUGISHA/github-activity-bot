@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "Kritt-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 498,
       "user": "Icex0"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1058,
       "user": "nethical6"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "MobAI-App"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 776,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 756,
       "user": "Vincentwei1021"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 628,
       "user": "pireel"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "yc-duan"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 117,
       "user": "duxweb"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "steelbrain"
     },
     {
@@ -881,19 +881,16 @@
       "user": "cole-k"
     },
     {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
+      "source": "Lobste.rs",
+      "user": "martinald"
     },
     {
       "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
@@ -907,6 +904,111 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrityu"
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "published_at": "2026-07-23T15:00:00.000Z",
+      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "tags": [
+        "TC",
+        "Startups",
+        "Hardware",
+        "AI",
+        "AI chips"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+      "published_at": "2026-07-23T15:00:00.000Z",
+      "description": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "EdTech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the Moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "published_at": "2026-07-23T15:00:00.000Z",
+      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "tags": [
+        "AI",
+        "Space",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Google closes in on another billion- user product with Gemini",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "published_at": "2026-07-23T14:52:44.000Z",
+      "description": "Gemini had over 750 million monthly users in February.",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google",
+        "Sundar Pichai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Amazon is bringing games to Prime Video",
+      "url": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
+      "published_at": "2026-07-23T14:49:05.000Z",
+      "description": "Amazon is hoping the addition of games can turn Prime Video into a one-stop entertainment destination, borrowing a strategy from Netflix, which has increasingly embraced party games over the past several years.",
+      "tags": [
+        "Apps",
+        "Gaming",
+        "Media & Entertainment",
+        "Amazon",
+        "prime video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
+      "url": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
+      "published_at": "2026-07-23T14:02:00.000Z",
+      "description": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
+      "tags": [
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Ford bets on Apple for its next-generation of EVs",
+      "url": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+      "published_at": "2026-07-23T13:58:37.000Z",
+      "description": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
+      "tags": [
+        "Apps",
+        "TC",
+        "Transportation",
+        "Apple",
+        "Ford"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez, Kirsten Korosec"
     },
     {
       "title": "Experts say exploiting Anthropic&#8217;s Fable isn&#8217;t how Kimi K3 got so good",
@@ -937,113 +1039,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "published_at": "2026-07-22T23:47:54.000Z",
-      "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Hardware",
-        "IBM"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "published_at": "2026-07-22T22:01:52.000Z",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "tags": [
-        "AI",
-        "Alphabet",
-        "Google",
-        "google cloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "published_at": "2026-07-22T20:49:03.000Z",
-      "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "moonshot"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Social media addiction lawsuit against Meta is dropped",
-      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-      "published_at": "2026-07-22T20:36:41.000Z",
-      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
-      "tags": [
-        "Social",
-        "lawsuit",
-        "Meta",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-      "published_at": "2026-07-22T19:42:56.000Z",
-      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
-      "tags": [
-        "Media & Entertainment",
-        "Mergers and Acquisitions",
-        "music streaming service",
-        "soundcloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "published_at": "2026-07-22T19:11:46.000Z",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "tags": [
-        "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "published_at": "2026-07-22T18:50:44.000Z",
-      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Venture",
-        "a16z",
-        "Andreessen Horowitz"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -1301,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 515,
       "user": "gnipbao"
     },
     {
@@ -1316,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "Kritt-ai"
     },
     {
@@ -1331,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 301,
       "user": "CatsJuice"
     },
     {
@@ -1346,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "lyu0805"
     },
     {
@@ -1361,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "joeseesun"
     },
     {
@@ -1376,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 268,
       "user": "Charles-0509"
     },
     {
@@ -1391,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 922,
       "user": "nyblnet"
     },
     {
@@ -1406,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 776,
       "user": "Jakubantalik"
     },
     {
@@ -1421,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 756,
       "user": "Vincentwei1021"
     },
     {
@@ -1436,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 628,
       "user": "pireel"
     },
     {
@@ -1453,6 +1448,21 @@
       "source": "GitHub",
       "stars": 504,
       "user": "0xhype"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
@@ -1486,6 +1496,20 @@
       "user": "Singh Jaskeat"
     },
     {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
       "url": "https://stackoverflow.com/questions/79983985/need-help-in-419-token-mismatch-in-laravel-sanctum-spa",
       "published_at": "2026-07-22T21:49:47.000Z",
@@ -1498,20 +1522,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Syed Muhammad Irtaza"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How to see service worker errors in Chromium debugger?",
@@ -1585,21 +1595,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diksha Verma"
-    },
-    {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
     },
     {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
@@ -1855,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2232,
+      "stars": 2245,
       "user": "lopopolo"
     },
     {
@@ -1870,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 631,
       "user": "xiejunjie524"
     },
     {
@@ -1885,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 617,
       "user": "powerycy"
     },
     {
@@ -1900,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 498,
       "user": "Icex0"
     },
     {
@@ -1915,27 +1910,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 326,
       "user": "AdelanSoulX"
-    },
-    {
-      "title": "PyPI releases now reject new files after 14 days",
-      "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-      "published_at": "2026-07-22T10:01:49.549-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ngoldbaum"
     },
     {
       "title": "How do I prevent redaction rectangles from removing surrounding text?",
       "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
       "published_at": "2026-07-23T09:38:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pymupdf",
@@ -2340,7 +2322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 628,
       "user": "pireel"
     },
     {
@@ -2357,10 +2339,25 @@
       "user": "cole-k"
     },
     {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
+    },
+    {
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
       "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
       "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -2476,7 +2473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "MobAI-App"
     },
     {
@@ -2812,66 +2809,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
-    },
-    {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "published_at": "2026-07-22T22:01:52.000Z",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "tags": [
-        "AI",
-        "Alphabet",
-        "Google",
-        "google cloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Social media addiction lawsuit against Meta is dropped",
-      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-      "published_at": "2026-07-22T20:36:41.000Z",
-      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
-      "tags": [
-        "Social",
-        "lawsuit",
-        "Meta",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-      "published_at": "2026-07-22T19:42:56.000Z",
-      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
-      "tags": [
-        "Media & Entertainment",
-        "Mergers and Acquisitions",
-        "music streaming service",
-        "soundcloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     }
   ],
   "Database": [
@@ -2929,7 +2866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "cursor"
     }
   ],
@@ -3078,7 +3015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 268,
       "user": "Charles-0509"
     },
     {
@@ -3094,29 +3031,19 @@
       "user": "trousers"
     },
     {
-      "title": "PyPI releases now reject new files after 14 days",
-      "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-      "published_at": "2026-07-22T10:01:49.549-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python",
-        "security"
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ngoldbaum"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published_at": "2026-07-22T00:56:08.527-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
@@ -3133,22 +3060,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pink Acorn"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "published_at": "2026-07-22T19:11:46.000Z",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "tags": [
-        "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
@@ -3321,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 515,
       "user": "gnipbao"
     },
     {
@@ -3336,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "Kritt-ai"
     },
     {
@@ -3351,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 301,
       "user": "CatsJuice"
     },
     {
@@ -3366,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "lyu0805"
     },
     {
@@ -3381,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "joeseesun"
     },
     {
@@ -3396,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2232,
+      "stars": 2245,
       "user": "lopopolo"
     },
     {
@@ -3411,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 631,
       "user": "xiejunjie524"
     },
     {
@@ -3426,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 617,
       "user": "powerycy"
     },
     {
@@ -3441,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 498,
       "user": "Icex0"
     },
     {
@@ -3456,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 326,
       "user": "AdelanSoulX"
     },
     {
@@ -3471,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1058,
       "user": "nethical6"
     },
     {
@@ -3486,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 268,
       "user": "Charles-0509"
     },
     {
@@ -3516,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "MobAI-App"
     },
     {
@@ -3546,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 922,
       "user": "nyblnet"
     },
     {
@@ -3561,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 776,
       "user": "Jakubantalik"
     },
     {
@@ -3576,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 756,
       "user": "Vincentwei1021"
     },
     {
@@ -3591,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 628,
       "user": "pireel"
     },
     {
@@ -3621,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "yc-duan"
     },
     {
@@ -3636,23 +3547,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "cursor"
-    },
-    {
-      "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
-      "url": "https://github.com/duxweb/ReTheme",
-      "published_at": "2026-07-18T16:27:16Z",
-      "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
-      "source": "GitHub",
-      "stars": 115,
-      "user": "duxweb"
     },
     {
       "title": "vncsmnl/rwx - 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
@@ -3666,8 +3562,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "vncsmnl"
+    },
+    {
+      "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "url": "https://github.com/duxweb/ReTheme",
+      "published_at": "2026-07-18T16:27:16Z",
+      "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "duxweb"
     },
     {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
@@ -3681,39 +3592,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "steelbrain"
     },
     {
-      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-      "published_at": "2026-07-22T19:42:56.000Z",
-      "description": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+      "title": "Ford bets on Apple for its next-generation of EVs",
+      "url": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+      "published_at": "2026-07-23T13:58:37.000Z",
+      "description": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
       "tags": [
-        "Media & Entertainment",
-        "Mergers and Acquisitions",
-        "music streaming service",
-        "soundcloud"
+        "Apps",
+        "TC",
+        "Transportation",
+        "Apple",
+        "Ford"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "published_at": "2026-07-22T19:11:46.000Z",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "tags": [
-        "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "user": "Sarah Perez, Kirsten Korosec"
     }
   ]
 }
