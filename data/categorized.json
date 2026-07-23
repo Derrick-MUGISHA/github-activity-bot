@@ -46,21 +46,6 @@
       "user": "Nazar Boyko"
     },
     {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
       "published_at": "2026-07-21T03:48:40Z",
@@ -121,21 +106,6 @@
       "user": "Romina Elena Mendez Escobar"
     },
     {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
       "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
       "published_at": "2026-07-20T16:26:42Z",
@@ -149,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
+      "published_at": "2026-07-12T15:09:09Z",
+      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "tags": [
+        "ai",
+        "cloud",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "Kritt-ai"
     },
     {
@@ -747,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1068,
       "user": "nethical6"
     },
     {
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "MobAI-App"
     },
     {
@@ -777,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 867,
       "user": "Vincentwei1021"
     },
     {
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "pireel"
     },
     {
@@ -837,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "steelbrain"
     },
     {
@@ -856,10 +841,78 @@
       "user": "duxweb"
     },
     {
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "published_at": "2026-07-22T20:04:08.424-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "martinald"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "published_at": "2026-07-23T20:33:02.000Z",
+      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "tags": [
+        "AI",
+        "amd",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Patreon lays off off 20% of its workforce",
+      "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "published_at": "2026-07-23T20:30:07.000Z",
+      "description": "In a memo to staff that was posted online, Conte the company's core business is strong, but that the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "tags": [
+        "Apps",
+        "Patreon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "published_at": "2026-07-23T20:13:24.000Z",
+      "description": "Corgi had announced a B1 round of $106 million at a $2.6 billion valuation at the end of May.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "TC",
+        "corgi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "published_at": "2026-07-23T19:00:00.000Z",
-      "description": "Claude's new voice model will let you reschedule your meeting or draft an email",
+      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
       "tags": [
         "AI",
         "Apps",
@@ -917,50 +970,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Tesla&#8217;s robotaxis are moving in reverse",
-      "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-      "published_at": "2026-07-23T16:29:59.000Z",
-      "description": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
-      "tags": [
-        "Transportation",
-        "Elon Musk",
-        "robotaxis",
-        "Tesla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "published_at": "2026-07-23T16:28:50.000Z",
-      "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-      "tags": [
-        "AI",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "published_at": "2026-07-23T15:00:00.000Z",
-      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Startups",
-        "TC",
-        "AI chips"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "Multi-Agent Coding & Deployment with TRAE IDE",
@@ -1053,6 +1062,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
+      "published_at": "2026-07-23T10:26:15Z",
+      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
+      "source": "Dev.to",
+      "user": "Francesco Ciulla"
+    },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
@@ -1200,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "gnipbao"
     },
     {
@@ -1215,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "Kritt-ai"
     },
     {
@@ -1230,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "CatsJuice"
     },
     {
@@ -1245,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "lyu0805"
     },
     {
@@ -1275,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "Charles-0509"
     },
     {
@@ -1290,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1029,
       "user": "nyblnet"
     },
     {
@@ -1305,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 867,
       "user": "Vincentwei1021"
     },
     {
@@ -1320,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "Jakubantalik"
     },
     {
@@ -1335,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "pireel"
     },
     {
@@ -1352,6 +1376,21 @@
       "source": "GitHub",
       "stars": 504,
       "user": "0xhype"
+    },
+    {
+      "title": "Attempting to hide a video element once it finishes playing",
+      "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
+      "published_at": "2026-07-23T20:23:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Justus Foehrkolb"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -1486,20 +1525,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AbsolutLeo"
-    },
-    {
-      "title": "Javascript not firing 100% of the time",
-      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
-      "published_at": "2026-07-22T02:58:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "rest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marc Lawson"
     },
     {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
@@ -1740,8 +1765,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2259,
+      "stars": 2265,
       "user": "lopopolo"
+    },
+    {
+      "title": "andrewyng/openworker - GitHub Repository",
+      "url": "https://github.com/andrewyng/openworker",
+      "published_at": "2026-07-20T01:52:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
+      "source": "GitHub",
+      "stars": 654,
+      "user": "andrewyng"
     },
     {
       "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
@@ -1755,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 642,
       "user": "powerycy"
     },
     {
@@ -1772,21 +1812,6 @@
       "source": "GitHub",
       "stars": 633,
       "user": "xiejunjie524"
-    },
-    {
-      "title": "andrewyng/openworker - GitHub Repository",
-      "url": "https://github.com/andrewyng/openworker",
-      "published_at": "2026-07-20T01:52:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
-      "source": "GitHub",
-      "stars": 533,
-      "user": "andrewyng"
     },
     {
       "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
@@ -1905,6 +1930,19 @@
       "user": "Pink Acorn"
     },
     {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "published_at": "2026-07-21T14:38:43.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Traci Phillip"
+    },
+    {
       "title": "Best Way to Specify Linux Distribution Repo Version of Python Dependencies?",
       "url": "https://stackoverflow.com/questions/79983907/best-way-to-specify-linux-distribution-repo-version-of-python-dependencies",
       "published_at": "2026-07-22T16:06:46.000Z",
@@ -1917,19 +1955,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jason Shapiro"
-    },
-    {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "text-to-speech"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Traci Phillip"
     },
     {
       "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
@@ -2173,6 +2198,21 @@
   ],
   "WebDev": [
     {
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
+      "published_at": "2026-07-23T10:26:15Z",
+      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
+      "source": "Dev.to",
+      "user": "Francesco Ciulla"
+    },
+    {
       "title": "A Pragmatic Look at AI in 2030",
       "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
       "published_at": "2026-07-08T15:01:47Z",
@@ -2211,8 +2251,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "pireel"
+    },
+    {
+      "title": "Attempting to hide a video element once it finishes playing",
+      "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
+      "published_at": "2026-07-23T20:23:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Justus Foehrkolb"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -2258,20 +2313,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AbsolutLeo"
-    },
-    {
-      "title": "Javascript not firing 100% of the time",
-      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
-      "published_at": "2026-07-22T02:58:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "rest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marc Lawson"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2334,7 +2375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "MobAI-App"
     },
     {
@@ -2384,6 +2425,21 @@
       "user": "AbsolutLeo"
     },
     {
+      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "published_at": "2026-07-23T20:33:02.000Z",
+      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "tags": [
+        "AI",
+        "amd",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
       "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
       "published_at": "2026-07-22T22:36:09.000Z",
@@ -2415,21 +2471,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -2742,7 +2783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "cursor"
     }
   ],
@@ -2891,8 +2932,46 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "Charles-0509"
+    },
+    {
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "published_at": "2026-07-22T20:54:48.999-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "trousers"
+    },
+    {
+      "title": "Silent Replacement of Trusted macOS App Executables",
+      "url": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
+      "published_at": "2026-07-23T08:37:15.334-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "mac",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "juri"
+    },
+    {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "martinald"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -2975,21 +3054,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
@@ -3113,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "gnipbao"
     },
     {
@@ -3128,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "Kritt-ai"
     },
     {
@@ -3143,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "CatsJuice"
     },
     {
@@ -3158,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "lyu0805"
     },
     {
@@ -3188,8 +3252,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2259,
+      "stars": 2265,
       "user": "lopopolo"
+    },
+    {
+      "title": "andrewyng/openworker - GitHub Repository",
+      "url": "https://github.com/andrewyng/openworker",
+      "published_at": "2026-07-20T01:52:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
+      "source": "GitHub",
+      "stars": 654,
+      "user": "andrewyng"
     },
     {
       "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
@@ -3203,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 642,
       "user": "powerycy"
     },
     {
@@ -3220,21 +3299,6 @@
       "source": "GitHub",
       "stars": 633,
       "user": "xiejunjie524"
-    },
-    {
-      "title": "andrewyng/openworker - GitHub Repository",
-      "url": "https://github.com/andrewyng/openworker",
-      "published_at": "2026-07-20T01:52:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
-      "source": "GitHub",
-      "stars": 533,
-      "user": "andrewyng"
     },
     {
       "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
@@ -3263,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1068,
       "user": "nethical6"
     },
     {
@@ -3278,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "Charles-0509"
     },
     {
@@ -3308,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "MobAI-App"
     },
     {
@@ -3338,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1029,
       "user": "nyblnet"
     },
     {
@@ -3353,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 867,
       "user": "Vincentwei1021"
     },
     {
@@ -3368,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "Jakubantalik"
     },
     {
@@ -3383,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "pireel"
     },
     {
@@ -3428,8 +3492,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "cursor"
+    },
+    {
+      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "url": "https://github.com/steelbrain/metal2vulkan",
+      "published_at": "2026-07-22T10:15:04Z",
+      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "steelbrain"
     },
     {
       "title": "vncsmnl/rwx - 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
@@ -3445,21 +3524,6 @@
       "source": "GitHub",
       "stars": 122,
       "user": "vncsmnl"
-    },
-    {
-      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "url": "https://github.com/steelbrain/metal2vulkan",
-      "published_at": "2026-07-22T10:15:04Z",
-      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "steelbrain"
     },
     {
       "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
