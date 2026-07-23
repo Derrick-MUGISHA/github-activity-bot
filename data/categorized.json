@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Kritt-ai"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "nethical6"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "MobAI-App"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 840,
       "user": "Vincentwei1021"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 796,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "pireel"
     },
     {
@@ -826,6 +826,21 @@
       "user": "yc-duan"
     },
     {
+      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "url": "https://github.com/steelbrain/metal2vulkan",
+      "published_at": "2026-07-22T10:15:04Z",
+      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "steelbrain"
+    },
+    {
       "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
       "url": "https://github.com/duxweb/ReTheme",
       "published_at": "2026-07-18T16:27:16Z",
@@ -839,21 +854,6 @@
       "source": "GitHub",
       "stars": 117,
       "user": "duxweb"
-    },
-    {
-      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "url": "https://github.com/steelbrain/metal2vulkan",
-      "published_at": "2026-07-22T10:15:04Z",
-      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 114,
-      "user": "steelbrain"
     },
     {
       "title": "Protecting our FLOSS commons from LLMs",
@@ -881,17 +881,36 @@
       "user": "martinald"
     },
     {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "published_at": "2026-07-22T03:48:18.302-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "published_at": "2026-07-23T17:07:35.000Z",
+      "description": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of",
       "tags": [
-        "rant",
-        "web"
+        "AI",
+        "Media & Entertainment",
+        "AI audio",
+        "AI image",
+        "ai video"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cole-k"
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "published_at": "2026-07-23T17:00:00.000Z",
+      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "ChatGPT",
+        "chatgpt health"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Tesla&#8217;s robotaxis are moving in reverse",
@@ -982,35 +1001,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Amazon is bringing games to Prime Video",
-      "url": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
-      "published_at": "2026-07-23T14:49:05.000Z",
-      "description": "Amazon is hoping the addition of games can turn Prime Video into a one-stop entertainment destination, borrowing a strategy from Netflix, which has increasingly embraced party games over the past several years.",
-      "tags": [
-        "Apps",
-        "Gaming",
-        "Media & Entertainment",
-        "Amazon",
-        "prime video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
-      "url": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
-      "published_at": "2026-07-23T14:02:00.000Z",
-      "description": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
-      "tags": [
-        "Startups",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "Multi-Agent Coding & Deployment with TRAE IDE",
@@ -1250,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 533,
       "user": "gnipbao"
     },
     {
@@ -1265,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Kritt-ai"
     },
     {
@@ -1280,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 331,
       "user": "CatsJuice"
     },
     {
@@ -1295,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "lyu0805"
     },
     {
@@ -1325,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "Charles-0509"
     },
     {
@@ -1340,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 991,
       "user": "nyblnet"
     },
     {
@@ -1355,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 840,
       "user": "Vincentwei1021"
     },
     {
@@ -1370,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 796,
       "user": "Jakubantalik"
     },
     {
@@ -1385,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "pireel"
     },
     {
@@ -1404,21 +1394,6 @@
       "user": "0xhype"
     },
     {
-      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
-      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
-      "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "performance",
-        "react-native-flatlist"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testing Tester"
-    },
-    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -1432,6 +1407,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
+    },
+    {
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
+      "published_at": "2026-07-23T14:31:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "performance",
+        "react-native-flatlist"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testing Tester"
     },
     {
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
@@ -1790,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2252,
+      "stars": 2256,
       "user": "lopopolo"
     },
     {
@@ -1820,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 632,
       "user": "powerycy"
     },
     {
@@ -1850,14 +1840,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "AdelanSoulX"
     },
     {
       "title": "Returning the value of the last expression calculated",
       "url": "https://stackoverflow.com/questions/79984274/returning-the-value-of-the-last-expression-calculated",
       "published_at": "2026-07-23T16:01:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2261,21 +2251,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "pireel"
-    },
-    {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "published_at": "2026-07-22T03:48:18.302-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rant",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cole-k"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -2397,7 +2374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "MobAI-App"
     },
     {
@@ -2805,7 +2782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "cursor"
     }
   ],
@@ -2954,7 +2931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "Charles-0509"
     },
     {
@@ -3012,6 +2989,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pink Acorn"
+    },
+    {
+      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
+      "url": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
+      "published_at": "2026-07-23T17:27:08.000Z",
+      "description": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
+      "tags": [
+        "Security",
+        "critical infrastructure",
+        "cyberattacks",
+        "cybersecurity",
+        "United States government"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
@@ -3184,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 533,
       "user": "gnipbao"
     },
     {
@@ -3199,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Kritt-ai"
     },
     {
@@ -3214,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 331,
       "user": "CatsJuice"
     },
     {
@@ -3229,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "lyu0805"
     },
     {
@@ -3259,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2252,
+      "stars": 2256,
       "user": "lopopolo"
     },
     {
@@ -3289,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 632,
       "user": "powerycy"
     },
     {
@@ -3319,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "AdelanSoulX"
     },
     {
@@ -3334,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "nethical6"
     },
     {
@@ -3349,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "Charles-0509"
     },
     {
@@ -3379,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "MobAI-App"
     },
     {
@@ -3409,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 991,
       "user": "nyblnet"
     },
     {
@@ -3424,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 840,
       "user": "Vincentwei1021"
     },
     {
@@ -3439,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 796,
       "user": "Jakubantalik"
     },
     {
@@ -3454,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "pireel"
     },
     {
@@ -3499,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "cursor"
     },
     {
@@ -3514,8 +3507,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "vncsmnl"
+    },
+    {
+      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "url": "https://github.com/steelbrain/metal2vulkan",
+      "published_at": "2026-07-22T10:15:04Z",
+      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "steelbrain"
     },
     {
       "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
@@ -3531,21 +3539,6 @@
       "source": "GitHub",
       "stars": 117,
       "user": "duxweb"
-    },
-    {
-      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "url": "https://github.com/steelbrain/metal2vulkan",
-      "published_at": "2026-07-22T10:15:04Z",
-      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 114,
-      "user": "steelbrain"
     },
     {
       "title": "Multi-Agent Coding & Deployment with TRAE IDE",
