@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
+      "published_at": "2026-07-22T22:03:30Z",
+      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
+      "tags": [
+        "ai",
+        "loopengineering",
+        "claude",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
+    },
+    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -194,21 +209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm3du9uxgsk71qsk0vgyp.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "What is an \"agentic harness,\" actually?",
@@ -706,21 +706,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "published_at": "2026-07-16T06:17:00Z",
-      "description": "Your clothes, extracted and organized with gpt-image.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
-      "source": "GitHub",
-      "stars": 1353,
-      "user": "tandpfun"
-    },
-    {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
       "url": "https://github.com/Kritt-ai/open-kritt",
       "published_at": "2026-07-20T20:26:24Z",
@@ -732,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 320,
       "user": "Kritt-ai"
     },
     {
@@ -749,21 +734,6 @@
       "source": "GitHub",
       "stars": 271,
       "user": "livetennisapi"
-    },
-    {
-      "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/EthanXiang777/circuit-framework",
-      "published_at": "2026-07-16T15:02:10Z",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
-      "source": "GitHub",
-      "stars": 489,
-      "user": "EthanXiang777"
     },
     {
       "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
@@ -792,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 980,
       "user": "nethical6"
     },
     {
@@ -822,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 607,
       "user": "Jakubantalik"
     },
     {
@@ -837,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "Vincentwei1021"
     },
     {
@@ -852,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "pireel"
     },
     {
@@ -867,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "yc-duan"
     },
     {
@@ -884,6 +854,21 @@
       "source": "GitHub",
       "stars": 115,
       "user": "duxweb"
+    },
+    {
+      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "url": "https://github.com/steelbrain/metal2vulkan",
+      "published_at": "2026-07-22T10:15:04Z",
+      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "steelbrain"
     },
     {
       "title": "So Reddit has decided that plain HTML is unsafe",
@@ -938,6 +923,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Medulla Oblongata"
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "published_at": "2026-07-22T23:47:54.000Z",
+      "description": "After IBM's stock crashed last week on warnings of a poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Hardware",
+        "TC",
+        "IBM"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Google justifies its massive AI spending with a booming cloud business",
@@ -1059,20 +1060,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it&#8217;s not the model)",
-      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "published_at": "2026-07-22T18:02:57.000Z",
-      "description": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne",
-      "tags": [
-        "Anthropic",
-        "Matt Murphy",
-        "menlo ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "What Is HyDE? How to Improve RAG with Hypothetical Documents",
@@ -1348,21 +1335,6 @@
       "user": "velmu"
     },
     {
-      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "published_at": "2026-07-16T06:17:00Z",
-      "description": "Your clothes, extracted and organized with gpt-image.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
-      "source": "GitHub",
-      "stars": 1353,
-      "user": "tandpfun"
-    },
-    {
       "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "published_at": "2026-07-21T08:54:45Z",
@@ -1389,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 320,
       "user": "Kritt-ai"
     },
     {
@@ -1419,8 +1391,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "lyu0805"
+    },
+    {
+      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "published_at": "2026-07-18T20:00:46Z",
+      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "joeseesun"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -1434,23 +1421,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 169,
       "user": "Charles-0509"
-    },
-    {
-      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-      "url": "https://github.com/pablostanley/yoinks",
-      "published_at": "2026-07-16T07:06:09Z",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
-      "source": "GitHub",
-      "stars": 1044,
-      "user": "pablostanley"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -1464,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 607,
       "user": "Jakubantalik"
     },
     {
@@ -1479,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "Vincentwei1021"
     },
     {
@@ -1509,8 +1481,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "pireel"
+    },
+    {
+      "title": "nyblnet/bento - GitHub Repository",
+      "url": "https://github.com/nyblnet/bento",
+      "published_at": "2026-07-17T16:55:09Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
+      "source": "GitHub",
+      "stars": 405,
+      "user": "nyblnet"
     },
     {
       "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
@@ -1586,20 +1573,6 @@
       "user": "plswork04"
     },
     {
-      "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
-      "url": "https://stackoverflow.com/questions/79983647/in-vitest-with-angular-how-to-fix-compilation-error-cant-bind-to-myproperty",
-      "published_at": "2026-07-21T18:25:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "angular",
-        "vitest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Diksha Verma"
-    },
-    {
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
@@ -1612,6 +1585,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marc Lawson"
+    },
+    {
+      "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
+      "url": "https://stackoverflow.com/questions/79983647/in-vitest-with-angular-how-to-fix-compilation-error-cant-bind-to-myproperty",
+      "published_at": "2026-07-21T18:25:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "angular",
+        "vitest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Diksha Verma"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -1928,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2183,
+      "stars": 2188,
       "user": "lopopolo"
     },
     {
@@ -1958,23 +1945,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "powerycy"
-    },
-    {
-      "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/EthanXiang777/circuit-framework",
-      "published_at": "2026-07-16T15:02:10Z",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
-      "source": "GitHub",
-      "stars": 489,
-      "user": "EthanXiang777"
     },
     {
       "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
@@ -1990,6 +1962,21 @@
       "source": "GitHub",
       "stars": 488,
       "user": "Icex0"
+    },
+    {
+      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "published_at": "2026-07-20T14:23:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "AdelanSoulX"
     },
     {
       "title": "PyPI releases now reject new files after 14 days",
@@ -2383,7 +2370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "pireel"
     },
     {
@@ -2645,21 +2632,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma4 DevOps In Action",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
       "published_at": "2026-07-20T14:20:31Z",
@@ -2671,6 +2643,21 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
+      "published_at": "2026-07-07T17:12:47Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "googleantigravity",
+        "python",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3075,7 +3062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 169,
       "user": "Charles-0509"
     },
     {
@@ -3196,21 +3183,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3292,21 +3264,6 @@
       "user": "pabs3"
     },
     {
-      "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "published_at": "2026-07-16T06:17:00Z",
-      "description": "Your clothes, extracted and organized with gpt-image.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28990589?v=4",
-      "source": "GitHub",
-      "stars": 1353,
-      "user": "tandpfun"
-    },
-    {
       "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "published_at": "2026-07-21T08:54:45Z",
@@ -3333,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 320,
       "user": "Kritt-ai"
     },
     {
@@ -3363,8 +3320,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "lyu0805"
+    },
+    {
+      "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "published_at": "2026-07-18T20:00:46Z",
+      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "joeseesun"
     },
     {
       "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
@@ -3378,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2183,
+      "stars": 2188,
       "user": "lopopolo"
     },
     {
@@ -3408,23 +3380,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 512,
       "user": "powerycy"
-    },
-    {
-      "title": "EthanXiang777/circuit-framework - Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/EthanXiang777/circuit-framework",
-      "published_at": "2026-07-16T15:02:10Z",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156494645?v=4",
-      "source": "GitHub",
-      "stars": 489,
-      "user": "EthanXiang777"
     },
     {
       "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
@@ -3442,6 +3399,21 @@
       "user": "Icex0"
     },
     {
+      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "published_at": "2026-07-20T14:23:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "AdelanSoulX"
+    },
+    {
       "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
       "url": "https://github.com/nethical6/conversation-steganography",
       "published_at": "2026-07-17T04:58:22Z",
@@ -3453,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 980,
       "user": "nethical6"
     },
     {
@@ -3483,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 169,
       "user": "Charles-0509"
     },
     {
@@ -3517,21 +3489,6 @@
       "user": "iluvx"
     },
     {
-      "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-      "url": "https://github.com/pablostanley/yoinks",
-      "published_at": "2026-07-16T07:06:09Z",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7430988?v=4",
-      "source": "GitHub",
-      "stars": 1044,
-      "user": "pablostanley"
-    },
-    {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "url": "https://github.com/Jakubantalik/thinking-orbs",
       "published_at": "2026-07-21T07:01:53Z",
@@ -3543,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 607,
       "user": "Jakubantalik"
     },
     {
@@ -3558,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 512,
       "user": "Vincentwei1021"
     },
     {
@@ -3588,23 +3545,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "pireel"
     },
     {
-      "title": "mesamirh/MovieBox-Tui - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "published_at": "2026-07-16T07:09:47Z",
-      "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+      "title": "nyblnet/bento - GitHub Repository",
+      "url": "https://github.com/nyblnet/bento",
+      "published_at": "2026-07-17T16:55:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73069638?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 421,
-      "user": "mesamirh"
+      "stars": 405,
+      "user": "nyblnet"
     },
     {
       "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
@@ -3618,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 327,
       "user": "yc-duan"
     },
     {
@@ -3663,8 +3620,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "vncsmnl"
+    },
+    {
+      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "url": "https://github.com/steelbrain/metal2vulkan",
+      "published_at": "2026-07-22T10:15:04Z",
+      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "steelbrain"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
