@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1069,
       "user": "nethical6"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 878,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "pireel"
     },
     {
@@ -853,20 +853,7 @@
       "user": "FedericoSchonborn"
     },
     {
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-      "published_at": "2026-07-23T05:16:17.349-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "martinald"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "published_at": "2026-07-23T20:33:02.000Z",
       "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
@@ -881,12 +868,13 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "Patreon lays off off 20% of its workforce",
+      "title": "Patreon lays off 20% of its workforce",
       "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
       "published_at": "2026-07-23T20:30:07.000Z",
-      "description": "In a memo to staff that was posted online, Conte the company's core business is strong, but that the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "description": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
       "tags": [
         "Apps",
+        "Layoffs",
         "Patreon"
       ],
       "cover_image": null,
@@ -897,11 +885,10 @@
       "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
       "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
       "published_at": "2026-07-23T20:13:24.000Z",
-      "description": "Corgi had announced a B1 round of $106 million at a $2.6 billion valuation at the end of May.",
+      "description": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
       "tags": [
         "Fundraising",
         "Startups",
-        "TC",
         "corgi"
       ],
       "cover_image": null,
@@ -970,6 +957,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
+      "url": "https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/",
+      "published_at": "2026-07-23T16:59:35.000Z",
+      "description": "Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "Multi-Agent Coding & Deployment with TRAE IDE",
@@ -1043,22 +1046,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "timothy ogbemudia"
-    },
-    {
-      "title": "How to Trace and Monitor AI Agents with LangSmith",
-      "url": "https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/",
-      "published_at": "2026-07-22T19:49:02.000Z",
-      "description": "In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls",
-      "tags": [
-        "AI",
-        "ai agents",
-        "LLM's",
-        "tracing",
-        "langsmith"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
     }
   ],
   "JavaScript": [
@@ -1224,7 +1211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "gnipbao"
     },
     {
@@ -1254,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "CatsJuice"
     },
     {
@@ -1314,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1040,
       "user": "nyblnet"
     },
     {
@@ -1329,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 878,
       "user": "Vincentwei1021"
     },
     {
@@ -1344,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "Jakubantalik"
     },
     {
@@ -1359,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "pireel"
     },
     {
@@ -1381,7 +1368,7 @@
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1765,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2265,
+      "stars": 2267,
       "user": "lopopolo"
     },
     {
@@ -1780,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 792,
       "user": "andrewyng"
     },
     {
@@ -1795,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 644,
       "user": "powerycy"
     },
     {
@@ -1868,6 +1855,22 @@
       "user": "mortalmuffin"
     },
     {
+      "title": "Conway's Game of Life: How can we colour the cells based on number of neighbours? (change number of neighbours to age of cells)",
+      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-can-we-colour-the-cells-based-on-number-of-neighbours",
+      "published_at": "2026-07-22T02:53:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 8",
+      "tags": [
+        "python",
+        "matplotlib",
+        "dynamic",
+        "colors",
+        "matplotlib-animation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bill Kerr"
+    },
+    {
       "title": "How can I directly declare Unicode rather than finding a string to encode?",
       "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
       "published_at": "2026-07-23T01:35:11.000Z",
@@ -1881,22 +1884,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Xianzhe Meng"
-    },
-    {
-      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours? (change number of neighbours to age of cells)",
-      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours-c",
-      "published_at": "2026-07-22T02:53:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 8",
-      "tags": [
-        "python",
-        "matplotlib",
-        "dynamic",
-        "colors",
-        "matplotlib-animation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bill Kerr"
     },
     {
       "title": "Can Numba be used on a for loop without using a function?",
@@ -2251,14 +2238,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "pireel"
     },
     {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2425,7 +2412,7 @@
       "user": "AbsolutLeo"
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "published_at": "2026-07-23T20:33:02.000Z",
       "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
@@ -2783,7 +2770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "cursor"
     }
   ],
@@ -2959,19 +2946,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "juri"
-    },
-    {
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-      "published_at": "2026-07-23T05:16:17.349-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "martinald"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3177,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "gnipbao"
     },
     {
@@ -3207,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "CatsJuice"
     },
     {
@@ -3252,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2265,
+      "stars": 2267,
       "user": "lopopolo"
     },
     {
@@ -3267,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 792,
       "user": "andrewyng"
     },
     {
@@ -3282,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 644,
       "user": "powerycy"
     },
     {
@@ -3327,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1069,
       "user": "nethical6"
     },
     {
@@ -3402,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1040,
       "user": "nyblnet"
     },
     {
@@ -3417,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 878,
       "user": "Vincentwei1021"
     },
     {
@@ -3432,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "Jakubantalik"
     },
     {
@@ -3447,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "pireel"
     },
     {
@@ -3492,8 +3466,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "cursor"
+    },
+    {
+      "title": "vncsmnl/rwx - 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
+      "url": "https://github.com/vncsmnl/rwx",
+      "published_at": "2026-07-18T16:44:05Z",
+      "description": "🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "vncsmnl"
     },
     {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
@@ -3509,21 +3498,6 @@
       "source": "GitHub",
       "stars": 123,
       "user": "steelbrain"
-    },
-    {
-      "title": "vncsmnl/rwx - 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
-      "url": "https://github.com/vncsmnl/rwx",
-      "published_at": "2026-07-18T16:44:05Z",
-      "description": "🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
-      "source": "GitHub",
-      "stars": 122,
-      "user": "vncsmnl"
     },
     {
       "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
@@ -3555,6 +3529,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
+      "url": "https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/",
+      "published_at": "2026-07-23T16:59:35.000Z",
+      "description": "Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "Multi-Agent Coding & Deployment with TRAE IDE",
