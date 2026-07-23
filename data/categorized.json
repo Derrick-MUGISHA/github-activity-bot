@@ -46,21 +46,6 @@
       "user": "Nazar Boyko"
     },
     {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17",
-      "published_at": "2026-07-21T16:08:54Z",
-      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "tags": [
-        "ai",
-        "api",
-        "development",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F402qdonli9dvfkb6bl9s.webp",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
       "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
       "published_at": "2026-07-21T13:00:00Z",
@@ -538,6 +523,21 @@
       "user": "Abhishek Gupta"
     },
     {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 346,
       "user": "Kritt-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "Icex0"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1041,
       "user": "nethical6"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "MobAI-App"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 733,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 659,
       "user": "Vincentwei1021"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 598,
       "user": "pireel"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 375,
       "user": "yc-duan"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "steelbrain"
     },
     {
@@ -881,21 +881,6 @@
       "user": "cole-k"
     },
     {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
-    },
-    {
       "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
       "url": "https://stackoverflow.com/questions/79983740/pip-uv-and-conda-fail-silently-or-force-install-to-appdata-roaming-igno",
       "published_at": "2026-07-22T05:20:25.000Z",
@@ -907,6 +892,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrityu"
+    },
+    {
+      "title": "Experts say exploiting Anthropic&#8217;s Fable isn&#8217;t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "published_at": "2026-07-23T11:00:00.000Z",
+      "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -1029,19 +1026,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sean O'Kane"
-    },
-    {
-      "title": "Science Corporation&#8217;s vision-restoring chip wins EU approval",
-      "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-      "published_at": "2026-07-22T18:18:02.000Z",
-      "description": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
-      "tags": [
-        "Biotech & Health",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -1299,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 490,
       "user": "gnipbao"
     },
     {
@@ -1314,23 +1298,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 346,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "published_at": "2026-07-19T10:41:16Z",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "lyu0805"
     },
     {
       "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
@@ -1344,8 +1313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 263,
       "user": "CatsJuice"
+    },
+    {
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
+      "source": "GitHub",
+      "stars": 257,
+      "user": "lyu0805"
     },
     {
       "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
@@ -1359,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "joeseesun"
     },
     {
@@ -1374,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 250,
       "user": "Charles-0509"
     },
     {
@@ -1389,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 799,
       "user": "nyblnet"
     },
     {
@@ -1404,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 733,
       "user": "Jakubantalik"
     },
     {
@@ -1419,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 659,
       "user": "Vincentwei1021"
     },
     {
@@ -1434,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 598,
       "user": "pireel"
     },
     {
@@ -1449,15 +1433,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "0xhype"
+    },
+    {
+      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
+      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
+      "published_at": "2026-07-23T10:14:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "excel",
+        "type-conversion",
+        "exceljs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user31009838"
     },
     {
       "title": "How do websites prevent users from downloading PDFs using Chrome Developer Tools?",
       "url": "https://stackoverflow.com/questions/79984127/how-do-websites-prevent-users-from-downloading-pdfs-using-chrome-developer-tools",
       "published_at": "2026-07-23T08:52:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
+        "best-practices",
         "javascript"
       ],
       "cover_image": null,
@@ -1541,7 +1542,7 @@
       "title": "How to monkey patch Leaflet library?",
       "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
       "published_at": "2026-07-21T17:37:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "leaflet",
@@ -1579,21 +1580,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diksha Verma"
-    },
-    {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
     },
     {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
@@ -1849,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2218,
+      "stars": 2224,
       "user": "lopopolo"
     },
     {
@@ -1864,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 629,
       "user": "xiejunjie524"
     },
     {
@@ -1879,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 598,
       "user": "powerycy"
     },
     {
@@ -1894,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "Icex0"
     },
     {
@@ -1909,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 317,
       "user": "AdelanSoulX"
     },
     {
@@ -1926,22 +1912,24 @@
       "user": "ngoldbaum"
     },
     {
-      "title": "Invalid key hash. The key hash Ipr8tCi8zqHeEKz/MEL5HL3iwil= does not match any stored key hashes. Configure your app key hashes at htt/",
-      "url": "https://stackoverflow.com/questions/79984099/invalid-key-hash-the-key-hash-ipr8tci8zqheekz-mel5hl3iwil-does-not-match-any-s",
-      "published_at": "2026-07-23T07:42:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "How do I prevent redaction rectangles from removing surrounding text?",
+      "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
+      "published_at": "2026-07-23T09:38:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "pymupdf",
+        "redaction"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ritik Don"
+      "user": "mortalmuffin"
     },
     {
       "title": "How can I directly declare Unicode rather than finding a string to encode?",
       "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
       "published_at": "2026-07-23T01:35:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "unicode",
@@ -1952,22 +1940,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Xianzhe Meng"
-    },
-    {
-      "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
-      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad-re",
-      "published_at": "2026-07-22T15:12:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "google-drive-api",
-        "google-oauth",
-        "token",
-        "google-docs-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pink Acorn"
     },
     {
       "title": "Conway's Game of Life: How to colour the cells based on number of neighbours? (edit: change number of neighbours to age of cells)",
@@ -2001,10 +1973,26 @@
       "user": "Omar Osman Mahamoud"
     },
     {
+      "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
+      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad-re",
+      "published_at": "2026-07-22T15:12:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "google-drive-api",
+        "google-oauth",
+        "token",
+        "google-docs-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pink Acorn"
+    },
+    {
       "title": "Best Way to Specify Linux Distribution Repo Version of Python Dependencies?",
       "url": "https://stackoverflow.com/questions/79983907/best-way-to-specify-linux-distribution-repo-version-of-python-dependencies",
       "published_at": "2026-07-22T16:06:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "best-practices",
         "python",
@@ -2142,6 +2130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
+      "published_at": "2026-06-23T18:38:11Z",
+      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "devops",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
+      "source": "Dev.to",
+      "user": "bredmond1019"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2318,7 +2321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 598,
       "user": "pireel"
     },
     {
@@ -2454,7 +2457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "MobAI-App"
     },
     {
@@ -2792,21 +2795,6 @@
       "user": "Abhishek Gupta"
     },
     {
-      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
-      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
-      "published_at": "2026-07-21T11:41:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "amazon-web-services",
-        "amazon-cloudfront"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "goose_lake"
-    },
-    {
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
       "published_at": "2026-07-22T22:01:52.000Z",
@@ -2907,7 +2895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "cursor"
     }
   ],
@@ -3056,7 +3044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 250,
       "user": "Charles-0509"
     },
     {
@@ -3299,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 490,
       "user": "gnipbao"
     },
     {
@@ -3314,23 +3302,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 346,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "published_at": "2026-07-19T10:41:16Z",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "lyu0805"
     },
     {
       "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
@@ -3344,8 +3317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 263,
       "user": "CatsJuice"
+    },
+    {
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
+      "source": "GitHub",
+      "stars": 257,
+      "user": "lyu0805"
     },
     {
       "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
@@ -3359,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "joeseesun"
     },
     {
@@ -3374,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2218,
+      "stars": 2224,
       "user": "lopopolo"
     },
     {
@@ -3389,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 629,
       "user": "xiejunjie524"
     },
     {
@@ -3404,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 598,
       "user": "powerycy"
     },
     {
@@ -3419,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "Icex0"
     },
     {
@@ -3434,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 317,
       "user": "AdelanSoulX"
     },
     {
@@ -3449,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1041,
       "user": "nethical6"
     },
     {
@@ -3464,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 250,
       "user": "Charles-0509"
     },
     {
@@ -3494,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "MobAI-App"
     },
     {
@@ -3524,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 799,
       "user": "nyblnet"
     },
     {
@@ -3539,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 733,
       "user": "Jakubantalik"
     },
     {
@@ -3554,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 659,
       "user": "Vincentwei1021"
     },
     {
@@ -3569,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 598,
       "user": "pireel"
     },
     {
@@ -3584,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "0xhype"
     },
     {
@@ -3599,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 375,
       "user": "yc-duan"
     },
     {
@@ -3614,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "cursor"
     },
     {
@@ -3659,15 +3647,16 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "steelbrain"
     },
     {
       "title": "How do websites prevent users from downloading PDFs using Chrome Developer Tools?",
       "url": "https://stackoverflow.com/questions/79984127/how-do-websites-prevent-users-from-downloading-pdfs-using-chrome-developer-tools",
       "published_at": "2026-07-23T08:52:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
+        "best-practices",
         "javascript"
       ],
       "cover_image": null,
