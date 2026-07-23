@@ -211,6 +211,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "What is an \"agentic harness,\" actually?",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "published_at": "2026-07-16T21:19:20Z",
@@ -493,36 +508,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
-    },
-    {
       "title": "Did You Know TLDs Can Be Websites?",
       "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
       "published_at": "2026-07-16T19:41:43Z",
@@ -536,6 +521,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
       "source": "Dev.to",
       "user": "Sean Boult"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -717,23 +717,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 341,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "published_at": "2026-07-18T23:17:55Z",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "livetennisapi"
     },
     {
       "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
@@ -747,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "Icex0"
     },
     {
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1027,
       "user": "nethical6"
     },
     {
@@ -777,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "MobAI-App"
     },
     {
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 709,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 617,
       "user": "Vincentwei1021"
     },
     {
@@ -822,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 572,
       "user": "pireel"
     },
     {
@@ -837,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 370,
       "user": "yc-duan"
     },
     {
@@ -852,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "duxweb"
     },
     {
@@ -867,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 107,
       "user": "steelbrain"
     },
     {
@@ -1314,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 466,
       "user": "gnipbao"
     },
     {
@@ -1329,23 +1314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 341,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "published_at": "2026-07-18T23:17:55Z",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "livetennisapi"
     },
     {
       "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
@@ -1359,8 +1329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "lyu0805"
+    },
+    {
+      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "published_at": "2026-07-20T17:13:15Z",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "CatsJuice"
     },
     {
       "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 244,
       "user": "joeseesun"
     },
     {
@@ -1389,23 +1374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 233,
       "user": "Charles-0509"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "Jakubantalik"
     },
     {
       "title": "nyblnet/bento - GitHub Repository",
@@ -1419,8 +1389,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 727,
       "user": "nyblnet"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 709,
+      "user": "Jakubantalik"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -1434,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 617,
       "user": "Vincentwei1021"
     },
     {
@@ -1449,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 572,
       "user": "pireel"
     },
     {
@@ -1468,31 +1453,31 @@
       "user": "0xhype"
     },
     {
-      "title": "How can I identify music from an audio file using an API in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79984080/how-can-i-identify-music-from-an-audio-file-using-an-api-in-javascript",
-      "published_at": "2026-07-23T06:10:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How do websites prevent users from downloading PDFs using Chrome Developer Tools?",
+      "url": "https://stackoverflow.com/questions/79984127/how-do-websites-prevent-users-from-downloading-pdfs-using-chrome-developer-tools",
+      "published_at": "2026-07-23T08:52:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "javascript",
-        "html"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Haroon Arshad"
+      "user": "Rath Rath"
     },
     {
-      "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
-      "url": "https://stackoverflow.com/questions/79983985/need-help-in-419-token-mismatch-in-laravel-sanctum-spa",
-      "published_at": "2026-07-22T21:49:47.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "dynamic links with expo React Native useAudioPlayer",
+      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
+      "published_at": "2026-07-23T07:49:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "php",
-        "csrf-token"
+        "react-native",
+        "audio",
+        "expo"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Syed Muhammad Irtaza"
+      "user": "Singh Jaskeat"
     },
     {
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
@@ -1507,6 +1492,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ben Roriz-Dasilva"
+    },
+    {
+      "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
+      "url": "https://stackoverflow.com/questions/79983985/need-help-in-419-token-mismatch-in-laravel-sanctum-spa",
+      "published_at": "2026-07-22T21:49:47.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "php",
+        "csrf-token"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Syed Muhammad Irtaza"
     },
     {
       "title": "How to see service worker errors in Chromium debugger?",
@@ -1595,22 +1594,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "goose_lake"
-    },
-    {
-      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
-      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
-      "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "forms",
-        "recaptcha",
-        "hugo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
     },
     {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
@@ -1866,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2209,
+      "stars": 2218,
       "user": "lopopolo"
     },
     {
@@ -1881,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 626,
       "user": "xiejunjie524"
     },
     {
@@ -1896,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 586,
       "user": "powerycy"
     },
     {
@@ -1911,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "Icex0"
     },
     {
@@ -1926,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "AdelanSoulX"
     },
     {
@@ -1943,10 +1926,22 @@
       "user": "ngoldbaum"
     },
     {
+      "title": "Invalid key hash. The key hash Ipr8tCi8zqHeEKz/MEL5HL3iwil= does not match any stored key hashes. Configure your app key hashes at htt/",
+      "url": "https://stackoverflow.com/questions/79984099/invalid-key-hash-the-key-hash-ipr8tci8zqheekz-mel5hl3iwil-does-not-match-any-s",
+      "published_at": "2026-07-23T07:42:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ritik Don"
+    },
+    {
       "title": "How can I directly declare Unicode rather than finding a string to encode?",
       "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
       "published_at": "2026-07-23T01:35:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "unicode",
@@ -2020,6 +2015,32 @@
       "user": "Jason Shapiro"
     },
     {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "published_at": "2026-07-21T14:38:43.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Traci Phillip"
+    },
+    {
+      "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
+      "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
+      "published_at": "2026-07-21T14:21:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "raspberry-pi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter Bill"
+    },
+    {
       "title": "Parsing a statement",
       "url": "https://stackoverflow.com/questions/79983776/parsing-a-statement",
       "published_at": "2026-07-22T07:51:31.000Z",
@@ -2044,46 +2065,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrityu"
-    },
-    {
-      "title": "f-string W3School Challenge",
-      "url": "https://stackoverflow.com/questions/79983703/f-string-w3school-challenge",
-      "published_at": "2026-07-21T23:02:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "f-string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "GirlSM"
-    },
-    {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "text-to-speech"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Traci Phillip"
-    },
-    {
-      "title": "Subclassing ndb's Property classes such that static type checking works",
-      "url": "https://stackoverflow.com/questions/79983655/subclassing-ndbs-property-classes-such-that-static-type-checking-works",
-      "published_at": "2026-07-21T18:50:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing",
-        "ndb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ryan Pierce Williams"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2161,21 +2142,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2352,7 +2318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 572,
       "user": "pireel"
     },
     {
@@ -2367,19 +2333,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cole-k"
-    },
-    {
-      "title": "How can I identify music from an audio file using an API in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79984080/how-can-i-identify-music-from-an-audio-file-using-an-api-in-javascript",
-      "published_at": "2026-07-23T06:10:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Haroon Arshad"
     },
     {
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
@@ -2501,8 +2454,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "MobAI-App"
+    },
+    {
+      "title": "dynamic links with expo React Native useAudioPlayer",
+      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
+      "published_at": "2026-07-23T07:49:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "audio",
+        "expo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Singh Jaskeat"
     },
     {
       "title": "iOS keyboard breaks page layout when opened",
@@ -2794,21 +2762,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
-    {
       "title": "Did You Know TLDs Can Be Websites?",
       "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
       "published_at": "2026-07-16T19:41:43Z",
@@ -2822,6 +2775,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
       "source": "Dev.to",
       "user": "Sean Boult"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
+      "published_at": "2026-06-23T18:04:23Z",
+      "description": "Originally posted on...",
+      "tags": [
+        "python",
+        "ai",
+        "azure",
+        "nosql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
+      "source": "Dev.to",
+      "user": "Abhishek Gupta"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -2913,6 +2881,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
+      "published_at": "2026-07-19T05:58:49Z",
+      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
+      "source": "GitHub",
+      "stars": 57,
+      "user": "0xtbug"
+    },
+    {
       "title": "cursor/minisqlite - GitHub Repository",
       "url": "https://github.com/cursor/minisqlite",
       "published_at": "2026-07-17T07:41:30Z",
@@ -2924,7 +2907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 175,
       "user": "cursor"
     }
   ],
@@ -3073,20 +3056,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 233,
       "user": "Charles-0509"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published_at": "2026-07-22T00:56:08.527-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
     },
     {
       "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
@@ -3099,6 +3070,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "trousers"
+    },
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published_at": "2026-07-22T00:56:08.527-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "raymii"
     },
     {
       "title": "PyPI releases now reject new files after 14 days",
@@ -3209,6 +3192,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3301,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 466,
       "user": "gnipbao"
     },
     {
@@ -3316,23 +3314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 341,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "livetennisapi/livetennisapi-mcp - MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "published_at": "2026-07-18T23:17:55Z",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306618864?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "livetennisapi"
     },
     {
       "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
@@ -3346,8 +3329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "lyu0805"
+    },
+    {
+      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "published_at": "2026-07-20T17:13:15Z",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "CatsJuice"
     },
     {
       "title": "joeseesun/qiaomu-cut-skill - 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
@@ -3361,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 244,
       "user": "joeseesun"
     },
     {
@@ -3376,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2209,
+      "stars": 2218,
       "user": "lopopolo"
     },
     {
@@ -3391,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 626,
       "user": "xiejunjie524"
     },
     {
@@ -3406,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 586,
       "user": "powerycy"
     },
     {
@@ -3421,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "Icex0"
     },
     {
@@ -3436,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "AdelanSoulX"
     },
     {
@@ -3451,23 +3449,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1027,
       "user": "nethical6"
-    },
-    {
-      "title": "paxlabs-inc/machine-genome - Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "url": "https://github.com/paxlabs-inc/machine-genome",
-      "published_at": "2026-07-20T12:41:33Z",
-      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "paxlabs-inc"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -3481,8 +3464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 233,
       "user": "Charles-0509"
+    },
+    {
+      "title": "paxlabs-inc/machine-genome - Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "url": "https://github.com/paxlabs-inc/machine-genome",
+      "published_at": "2026-07-20T12:41:33Z",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "paxlabs-inc"
     },
     {
       "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
@@ -3496,38 +3494,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "MobAI-App"
     },
     {
-      "title": "iluvx/go-tg-api - Build Telegram bots and user clients in Go — without wrestling MTProto.",
-      "url": "https://github.com/iluvx/go-tg-api",
-      "published_at": "2026-07-18T05:13:20Z",
-      "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
+      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
+      "published_at": "2026-07-19T05:58:49Z",
+      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175501983?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
       "source": "GitHub",
-      "stars": 60,
-      "user": "iluvx"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "Jakubantalik"
+      "stars": 57,
+      "user": "0xtbug"
     },
     {
       "title": "nyblnet/bento - GitHub Repository",
@@ -3541,8 +3524,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 727,
       "user": "nyblnet"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 709,
+      "user": "Jakubantalik"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3556,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 617,
       "user": "Vincentwei1021"
     },
     {
@@ -3571,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 572,
       "user": "pireel"
     },
     {
@@ -3601,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 370,
       "user": "yc-duan"
     },
     {
@@ -3616,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 175,
       "user": "cursor"
     },
     {
@@ -3631,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122009850?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "duxweb"
     },
     {
@@ -3646,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "vncsmnl"
     },
     {
@@ -3661,24 +3659,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 107,
       "user": "steelbrain"
     },
     {
-      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
-      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
-      "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How do websites prevent users from downloading PDFs using Chrome Developer Tools?",
+      "url": "https://stackoverflow.com/questions/79984127/how-do-websites-prevent-users-from-downloading-pdfs-using-chrome-developer-tools",
+      "published_at": "2026-07-23T08:52:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "forms",
-        "recaptcha",
-        "hugo"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Malte K"
+      "user": "Rath Rath"
     },
     {
       "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
