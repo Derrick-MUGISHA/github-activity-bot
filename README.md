@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-24 0:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-24 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -102,20 +102,20 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 8 | [New Gemini models dropped
 
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/](https://dev.to/ben/new-gemini-models-dropped-59l8) | Dev.to |
-| 9 | [From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini](https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n) | Dev.to |
-| 10 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
-| 11 | [Theatre Kid to Developer Advocate, None of This Was Planned](https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje) | Dev.to |
-| 12 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
-| 13 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
-| 14 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
-| 15 | [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl) | Dev.to |
-| 16 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
-| 17 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
-| 18 | [tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) | Dev.to |
+| 9 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
+| 10 | [Theatre Kid to Developer Advocate, None of This Was Planned](https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje) | Dev.to |
+| 11 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
+| 12 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
+| 13 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
+| 14 | [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl) | Dev.to |
+| 15 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 16 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
+| 17 | [tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) | Dev.to |
+| 18 | [From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini](https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n) | Dev.to |
 | 19 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 | 20 | [4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6) | Dev.to |
 
-<sub>Last fetched: Fri, 24 Jul 2026 00:46:09 CAT</sub>
+<sub>Last fetched: Fri, 24 Jul 2026 01:46:38 CAT</sub>
 
 
 ---
@@ -124,18 +124,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a distributed cache system**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Consistency, partitioning, replication, eviction policies
-
-</details>
-
-**2. `Database` — Design a database schema for a social media platform**
+**1. `Database` — Design a database schema for a social media platform**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
@@ -146,14 +135,25 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 </details>
 
-**3. `Database` — What is the difference between SQL and NoSQL databases?**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -166,7 +166,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 73 | 39.7% | `████████████████████` |
+| **AI** | 74 | 40.2% | `████████████████████` |
 | **Tools** | 36 | 19.6% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 34 | 18.5% | `█████████░░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
@@ -196,11 +196,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.7%
-JavaScript      ██████████████████████████ 23.3%
-Python          █████████████████████████ 22.6%
-Java            █████████████████████ 18.5%
-Rust            ███████ 6.2%
+Go              ██████████████████████████████ 26.9%
+JavaScript      ██████████████████████████ 23.4%
+Python          █████████████████████████ 22.8%
+Java            █████████████████████ 18.6%
+Rust            ██████ 5.5%
 Swift           ██ 2.1%
 PHP             █ 0.7%
 
@@ -212,7 +212,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 34
     "Python" : 33
     "Java" : 27
-    "Rust" : 9
+    "Rust" : 8
     "Swift" : 3
     "PHP" : 1
 ```
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 23 Jul 2026 22:46:09 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 23 Jul 2026 23:46:38 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
