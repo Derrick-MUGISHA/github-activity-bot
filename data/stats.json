@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 73,
+    "AI": 74,
     "JavaScript": 34,
     "Python": 33,
     "DevOps": 15,
@@ -24,7 +24,7 @@
   "by_language": {
     "JavaScript": 34,
     "Java": 27,
-    "Rust": 9,
+    "Rust": 8,
     "Go": 39,
     "Python": 33,
     "Swift": 3,
@@ -121,20 +121,20 @@
     "DevOps": 10,
     "webdev": 8,
     "mcps": 8,
+    "programming": 6,
     "rust": 6,
     "career": 6,
-    "programming": 5,
+    "vibecoding": 6,
     "tpu": 5,
-    "antigravitycli": 5,
-    "gemma4": 5
+    "antigravitycli": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "23.3",
-    "Java": "18.5",
-    "Rust": "6.2",
-    "Go": "26.7",
-    "Python": "22.6",
+    "JavaScript": "23.4",
+    "Java": "18.6",
+    "Rust": "5.5",
+    "Go": "26.9",
+    "Python": "22.8",
     "Swift": "2.1",
     "PHP": "0.7"
   }

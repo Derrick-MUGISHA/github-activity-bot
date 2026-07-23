@@ -76,21 +76,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
-    },
-    {
       "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
       "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
       "published_at": "2026-07-20T16:26:42Z",
@@ -179,6 +164,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "published_at": "2026-07-20T09:55:58Z",
+      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG",
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "Icex0"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1072,
       "user": "nethical6"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "MobAI-App"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 907,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 823,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 655,
       "user": "pireel"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 126,
       "user": "steelbrain"
     },
     {
@@ -853,12 +853,27 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "martinald"
+    },
+    {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
       "published_at": "2026-07-23T22:40:08.000Z",
       "description": "Shashua has been invited to take the chairman of the board seat.",
       "tags": [
-        "Transportation"
+        "Transportation",
+        "In Brief",
+        "Mobileye"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1207,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "gnipbao"
     },
     {
@@ -1222,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "Kritt-ai"
     },
     {
@@ -1237,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 350,
       "user": "CatsJuice"
     },
     {
@@ -1297,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1073,
       "user": "nyblnet"
     },
     {
@@ -1312,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 907,
       "user": "Vincentwei1021"
     },
     {
@@ -1327,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 823,
       "user": "Jakubantalik"
     },
     {
@@ -1342,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 655,
       "user": "pireel"
     },
     {
@@ -1422,6 +1437,20 @@
       "user": "user31009838"
     },
     {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "dynamic links with expo React Native useAudioPlayer",
       "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
       "published_at": "2026-07-23T07:49:56.000Z",
@@ -1435,20 +1464,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Singh Jaskeat"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
@@ -1542,21 +1557,6 @@
       "user": "xbill"
     },
     {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
-    },
-    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -1585,6 +1585,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "published_at": "2026-07-20T09:55:58Z",
+      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
@@ -1748,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2269,
+      "stars": 2272,
       "user": "lopopolo"
     },
     {
@@ -1763,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 1026,
       "user": "andrewyng"
     },
     {
@@ -1778,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 647,
       "user": "powerycy"
     },
     {
@@ -1808,14 +1823,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "Icex0"
     },
     {
       "title": "What is best practice for preventing a class attribute from becoming stale data?",
       "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
       "published_at": "2026-07-23T22:15:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "best-practices",
         "python"
@@ -2234,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 655,
       "user": "pireel"
     },
     {
@@ -2358,7 +2373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "MobAI-App"
     },
     {
@@ -2413,7 +2428,9 @@
       "published_at": "2026-07-23T22:40:08.000Z",
       "description": "Shashua has been invited to take the chairman of the board seat.",
       "tags": [
-        "Transportation"
+        "Transportation",
+        "In Brief",
+        "Mobileye"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2481,21 +2498,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
@@ -2586,6 +2588,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "published_at": "2026-07-20T09:55:58Z",
+      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
@@ -2778,7 +2795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 189,
       "user": "cursor"
     }
   ],
@@ -2943,17 +2960,17 @@
       "user": "trousers"
     },
     {
-      "title": "Silent Replacement of Trusted macOS App Executables",
-      "url": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
-      "published_at": "2026-07-23T08:37:15.334-05:00",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "mac",
-        "security"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "juri"
+      "user": "martinald"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3159,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "gnipbao"
     },
     {
@@ -3174,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "Kritt-ai"
     },
     {
@@ -3189,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 350,
       "user": "CatsJuice"
     },
     {
@@ -3234,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2269,
+      "stars": 2272,
       "user": "lopopolo"
     },
     {
@@ -3249,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 1026,
       "user": "andrewyng"
     },
     {
@@ -3264,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 647,
       "user": "powerycy"
     },
     {
@@ -3294,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "Icex0"
     },
     {
@@ -3309,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1072,
       "user": "nethical6"
     },
     {
@@ -3354,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "MobAI-App"
     },
     {
@@ -3384,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1073,
       "user": "nyblnet"
     },
     {
@@ -3399,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 907,
       "user": "Vincentwei1021"
     },
     {
@@ -3414,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 823,
       "user": "Jakubantalik"
     },
     {
@@ -3429,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 655,
       "user": "pireel"
     },
     {
@@ -3474,8 +3491,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 189,
       "user": "cursor"
+    },
+    {
+      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "url": "https://github.com/steelbrain/metal2vulkan",
+      "published_at": "2026-07-22T10:15:04Z",
+      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 126,
+      "user": "steelbrain"
     },
     {
       "title": "vncsmnl/rwx - 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.",
@@ -3491,21 +3523,6 @@
       "source": "GitHub",
       "stars": 125,
       "user": "vncsmnl"
-    },
-    {
-      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "url": "https://github.com/steelbrain/metal2vulkan",
-      "published_at": "2026-07-22T10:15:04Z",
-      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 123,
-      "user": "steelbrain"
     },
     {
       "title": "duxweb/ReTheme - 🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
