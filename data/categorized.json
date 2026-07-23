@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 353,
       "user": "Kritt-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Icex0"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1062,
       "user": "nethical6"
     },
     {
@@ -762,23 +762,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 158,
       "user": "MobAI-App"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 776,
-      "user": "Jakubantalik"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -792,8 +777,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 814,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 788,
+      "user": "Jakubantalik"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 639,
       "user": "pireel"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "steelbrain"
     },
     {
@@ -868,6 +868,19 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "martinald"
+    },
+    {
       "title": "So Reddit has decided that plain HTML is unsafe",
       "url": "https://www.cole-k.com/2026/07/21/reddit/",
       "published_at": "2026-07-22T03:48:18.302-05:00",
@@ -881,29 +894,32 @@
       "user": "cole-k"
     },
     {
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-      "published_at": "2026-07-23T05:16:17.349-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Tesla&#8217;s robotaxis are moving in reverse",
+      "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+      "published_at": "2026-07-23T16:29:59.000Z",
+      "description": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
       "tags": [
-        "vibecoding"
+        "Transportation",
+        "Elon Musk",
+        "robotaxis",
+        "Tesla"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "martinald"
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
     },
     {
-      "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
-      "url": "https://stackoverflow.com/questions/79983740/pip-uv-and-conda-fail-silently-or-force-install-to-appdata-roaming-igno",
-      "published_at": "2026-07-22T05:20:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "published_at": "2026-07-23T16:28:50.000Z",
+      "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
       "tags": [
-        "python",
-        "pip"
+        "AI",
+        "Meta"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mrityu"
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
@@ -911,10 +927,10 @@
       "published_at": "2026-07-23T15:00:00.000Z",
       "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
       "tags": [
-        "TC",
-        "Startups",
-        "Hardware",
         "AI",
+        "Hardware",
+        "Startups",
+        "TC",
         "AI chips"
       ],
       "cover_image": null,
@@ -925,7 +941,7 @@
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
       "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
       "published_at": "2026-07-23T15:00:00.000Z",
-      "description": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
+      "description": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
       "tags": [
         "Startups",
         "Venture",
@@ -936,21 +952,23 @@
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Nvidia is sending GPUs to the Moon",
+      "title": "Nvidia is sending GPUs to the moon",
       "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
       "published_at": "2026-07-23T15:00:00.000Z",
       "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
       "tags": [
         "AI",
         "Space",
-        "Exclusive"
+        "Exclusive",
+        "lunar outpost",
+        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
     },
     {
-      "title": "Google closes in on another billion- user product with Gemini",
+      "title": "Google&#8217;s Gemini nears billion-user milestone",
       "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
       "published_at": "2026-07-23T14:52:44.000Z",
       "description": "Gemini had over 750 million monthly users in February.",
@@ -995,50 +1013,17 @@
       "user": "TechCrunch Events"
     },
     {
-      "title": "Ford bets on Apple for its next-generation of EVs",
-      "url": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-      "published_at": "2026-07-23T13:58:37.000Z",
-      "description": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
+      "title": "Multi-Agent Coding & Deployment with TRAE IDE",
+      "url": "https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/",
+      "published_at": "2026-07-23T13:14:37.000Z",
+      "description": "Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products",
       "tags": [
-        "Apps",
-        "TC",
-        "Transportation",
-        "Apple",
-        "Ford"
+        "#ai-tools",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez, Kirsten Korosec"
-    },
-    {
-      "title": "Experts say exploiting Anthropic&#8217;s Fable isn&#8217;t how Kimi K3 got so good",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "published_at": "2026-07-23T11:00:00.000Z",
-      "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "fable",
-        "kimi"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "published_at": "2026-07-23T06:09:13.000Z",
-      "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Startups",
-        "ServiceNow"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -1115,37 +1100,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
-      "url": "https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/",
-      "published_at": "2026-07-22T16:53:24.000Z",
-      "description": "Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the",
-      "tags": [
-        "Healthcare AI",
-        "Machine Learning",
-        "Medical Imaging",
-        "Deep Learning",
-        "monai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
-    },
-    {
-      "title": "How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/",
-      "published_at": "2026-07-22T16:42:12.000Z",
-      "description": "Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th",
-      "tags": [
-        "AI",
-        "gemini",
-        "#PromptEngineering",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Joan Ayebola"
     }
   ],
   "JavaScript": [
@@ -1296,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 526,
       "user": "gnipbao"
     },
     {
@@ -1311,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 353,
       "user": "Kritt-ai"
     },
     {
@@ -1326,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 319,
       "user": "CatsJuice"
     },
     {
@@ -1341,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 271,
       "user": "lyu0805"
     },
     {
@@ -1356,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "joeseesun"
     },
     {
@@ -1371,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 279,
       "user": "Charles-0509"
     },
     {
@@ -1386,23 +1340,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 971,
       "user": "nyblnet"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 776,
-      "user": "Jakubantalik"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -1416,8 +1355,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 814,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 788,
+      "user": "Jakubantalik"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -1431,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 639,
       "user": "pireel"
     },
     {
@@ -1448,6 +1402,21 @@
       "source": "GitHub",
       "stars": 504,
       "user": "0xhype"
+    },
+    {
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
+      "published_at": "2026-07-23T14:31:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "performance",
+        "react-native-flatlist"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testing Tester"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -1468,7 +1437,7 @@
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
       "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
       "published_at": "2026-07-23T10:14:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "node.js",
@@ -1583,20 +1552,6 @@
       "user": "Marc Lawson"
     },
     {
-      "title": "In Vitest with Angular, How to fix Compilation error ''Can't bind to 'myProperty' since it isn't a known property of 'app-a' for running tests?",
-      "url": "https://stackoverflow.com/questions/79983647/in-vitest-with-angular-how-to-fix-compilation-error-cant-bind-to-myproperty",
-      "published_at": "2026-07-21T18:25:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "angular",
-        "vitest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Diksha Verma"
-    },
-    {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/",
       "published_at": "2026-07-22T20:22:03.000Z",
@@ -1610,21 +1565,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "timothy ogbemudia"
-    },
-    {
-      "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
-      "url": "https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/",
-      "published_at": "2026-07-22T16:47:40.000Z",
-      "description": "A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps",
-      "tags": [
-        "shadcn ui",
-        "JavaScript",
-        "React",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
     }
   ],
   "Python": [
@@ -1850,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2252,
       "user": "lopopolo"
     },
     {
@@ -1865,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 633,
       "user": "xiejunjie524"
     },
     {
@@ -1880,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 626,
       "user": "powerycy"
     },
     {
@@ -1895,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Icex0"
     },
     {
@@ -1910,14 +1850,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 329,
       "user": "AdelanSoulX"
+    },
+    {
+      "title": "Returning the value of the last expression calculated",
+      "url": "https://stackoverflow.com/questions/79984274/returning-the-value-of-the-last-expression-calculated",
+      "published_at": "2026-07-23T16:01:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Γιάννης Σωτήρχος"
+    },
+    {
+      "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
+      "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
+      "published_at": "2026-07-23T15:47:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "multiprocessing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Skadi Grossberndt"
     },
     {
       "title": "How do I prevent redaction rectangles from removing surrounding text?",
       "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
       "published_at": "2026-07-23T09:38:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "pymupdf",
@@ -1943,8 +1908,8 @@
       "user": "Xianzhe Meng"
     },
     {
-      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours? (edit: change number of neighbours to age of cells)",
-      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours-e",
+      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours? (change number of neighbours to age of cells)",
+      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours-c",
       "published_at": "2026-07-22T02:53:31.000Z",
       "description": "Stack Overflow question · 1 answers · score 7",
       "tags": [
@@ -2020,7 +1985,7 @@
       "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
       "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
       "published_at": "2026-07-21T14:21:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "raspberry-pi"
@@ -2028,32 +1993,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Bill"
-    },
-    {
-      "title": "Parsing a statement",
-      "url": "https://stackoverflow.com/questions/79983776/parsing-a-statement",
-      "published_at": "2026-07-22T07:51:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daap"
-    },
-    {
-      "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
-      "url": "https://stackoverflow.com/questions/79983740/pip-uv-and-conda-fail-silently-or-force-install-to-appdata-roaming-igno",
-      "published_at": "2026-07-22T05:20:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "pip"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mrityu"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2322,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 639,
       "user": "pireel"
     },
     {
@@ -2443,21 +2382,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "timothy ogbemudia"
-    },
-    {
-      "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
-      "url": "https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/",
-      "published_at": "2026-07-22T16:47:40.000Z",
-      "description": "A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps",
-      "tags": [
-        "shadcn ui",
-        "JavaScript",
-        "React",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
     }
   ],
   "Mobile": [
@@ -2473,8 +2397,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 158,
       "user": "MobAI-App"
+    },
+    {
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
+      "published_at": "2026-07-23T14:31:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "performance",
+        "react-native-flatlist"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testing Tester"
     },
     {
       "title": "dynamic links with expo React Native useAudioPlayer",
@@ -3015,7 +2954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 279,
       "user": "Charles-0509"
     },
     {
@@ -3029,6 +2968,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "trousers"
+    },
+    {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "published_at": "2026-07-23T05:16:17.349-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "martinald"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3232,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 526,
       "user": "gnipbao"
     },
     {
@@ -3247,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 353,
       "user": "Kritt-ai"
     },
     {
@@ -3262,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 319,
       "user": "CatsJuice"
     },
     {
@@ -3277,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 271,
       "user": "lyu0805"
     },
     {
@@ -3292,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "joeseesun"
     },
     {
@@ -3307,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2252,
       "user": "lopopolo"
     },
     {
@@ -3322,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 633,
       "user": "xiejunjie524"
     },
     {
@@ -3337,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 626,
       "user": "powerycy"
     },
     {
@@ -3352,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Icex0"
     },
     {
@@ -3367,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 329,
       "user": "AdelanSoulX"
     },
     {
@@ -3382,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1062,
       "user": "nethical6"
     },
     {
@@ -3397,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 279,
       "user": "Charles-0509"
     },
     {
@@ -3427,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 158,
       "user": "MobAI-App"
     },
     {
@@ -3457,23 +3409,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 971,
       "user": "nyblnet"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 776,
-      "user": "Jakubantalik"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3487,8 +3424,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 814,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 788,
+      "user": "Jakubantalik"
     },
     {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
@@ -3502,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 639,
       "user": "pireel"
     },
     {
@@ -3562,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 120,
       "user": "vncsmnl"
     },
     {
@@ -3592,24 +3544,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "steelbrain"
     },
     {
-      "title": "Ford bets on Apple for its next-generation of EVs",
-      "url": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-      "published_at": "2026-07-23T13:58:37.000Z",
-      "description": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
+      "title": "Multi-Agent Coding & Deployment with TRAE IDE",
+      "url": "https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/",
+      "published_at": "2026-07-23T13:14:37.000Z",
+      "description": "Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products",
       "tags": [
-        "Apps",
-        "TC",
-        "Transportation",
-        "Apple",
-        "Ford"
+        "#ai-tools",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez, Kirsten Korosec"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     }
   ]
 }
