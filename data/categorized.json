@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "Kritt-ai"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Icex0"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1013,
       "user": "nethical6"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "MobAI-App"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 679,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 565,
       "user": "Vincentwei1021"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 525,
       "user": "pireel"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 354,
       "user": "yc-duan"
     },
     {
@@ -867,8 +867,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 100,
       "user": "steelbrain"
+    },
+    {
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "published_at": "2026-07-22T20:04:08.424-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
     },
     {
       "title": "So Reddit has decided that plain HTML is unsafe",
@@ -882,18 +894,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cole-k"
-    },
-    {
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "published_at": "2026-07-22T20:04:08.424-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
     },
     {
       "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
@@ -922,6 +922,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrityu"
+    },
+    {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "published_at": "2026-07-23T06:09:13.000Z",
+      "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "ServiceNow"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
@@ -1044,20 +1059,34 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "published_at": "2026-07-22T18:13:58.000Z",
-      "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
+      "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
+      "url": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
+      "published_at": "2026-07-22T23:16:07.000Z",
+      "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
       "tags": [
-        "AI",
-        "Apps",
-        "Fundraising",
-        "Social",
-        "Exclusive"
+        "SEO",
+        "Artificial Intelligence",
+        "Web Development",
+        "Python",
+        "web scraping"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Chudi Nnorukam"
+    },
+    {
+      "title": "How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand",
+      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/",
+      "published_at": "2026-07-22T23:15:29.000Z",
+      "description": "In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker",
+      "tags": [
+        "Kubernetes",
+        "networking",
+        "cni"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Shubham Katara"
     },
     {
       "title": "What Is HyDE? How to Improve RAG with Hypothetical Documents",
@@ -1135,65 +1164,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Joan Ayebola"
-    },
-    {
-      "title": "How to Evaluate AI Code Quality: A Practical Guide for Engineers",
-      "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/",
-      "published_at": "2026-07-22T16:40:37.000Z",
-      "description": "You asked the AI to write a function. It gave you something that looks right. It even runs. But is it actually good? Most engineers stop there. They see green and move on. That habit will quietly caus",
-      "tags": [
-        "AI",
-        "Code Quality",
-        "llm",
-        "clean code"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
-      "url": "https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/",
-      "published_at": "2026-07-21T17:39:01.000Z",
-      "description": "When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mohammed Fahd Abrah"
-    },
-    {
-      "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
-      "url": "https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/",
-      "published_at": "2026-07-20T22:07:49.000Z",
-      "description": "In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "ollama",
-        "#qwen",
-        "FastAPI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
-      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
-      "published_at": "2026-07-20T21:27:11.000Z",
-      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
-      "tags": [
-        "software development",
-        "AI",
-        "macOS",
-        "React",
-        "Swift"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Balogun Wahab"
     }
   ],
   "JavaScript": [
@@ -1344,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 435,
       "user": "gnipbao"
     },
     {
@@ -1359,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "Kritt-ai"
     },
     {
@@ -1389,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "lyu0805"
     },
     {
@@ -1404,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "joeseesun"
     },
     {
@@ -1419,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 200,
       "user": "Charles-0509"
     },
     {
@@ -1434,23 +1404,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 679,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "Vincentwei1021"
     },
     {
       "title": "nyblnet/bento - GitHub Repository",
@@ -1464,8 +1419,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 607,
       "user": "nyblnet"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "published_at": "2026-07-19T11:44:41Z",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 565,
+      "user": "Vincentwei1021"
+    },
+    {
+      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "published_at": "2026-07-20T09:34:24Z",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
+      "source": "GitHub",
+      "stars": 525,
+      "user": "pireel"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -1483,39 +1468,23 @@
       "user": "0xhype"
     },
     {
-      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "published_at": "2026-07-20T09:34:24Z",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
-      "source": "GitHub",
-      "stars": 486,
-      "user": "pireel"
-    },
-    {
-      "title": "How to see service worker errors in Chromium debugger?",
-      "url": "https://stackoverflow.com/questions/79983949/how-to-see-service-worker-errors-in-chromium-debugger",
-      "published_at": "2026-07-22T18:32:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "How can I identify music from an audio file using an API in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79984080/how-can-i-identify-music-from-an-audio-file-using-an-api-in-javascript",
+      "published_at": "2026-07-23T06:10:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
-        "service-worker",
-        "chromium"
+        "html"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AlanQ"
+      "user": "Haroon Arshad"
     },
     {
       "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
       "url": "https://stackoverflow.com/questions/79983985/need-help-in-419-token-mismatch-in-laravel-sanctum-spa",
       "published_at": "2026-07-22T21:49:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "php",
@@ -1524,6 +1493,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Syed Muhammad Irtaza"
+    },
+    {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
+      "title": "How to see service worker errors in Chromium debugger?",
+      "url": "https://stackoverflow.com/questions/79983949/how-to-see-service-worker-errors-in-chromium-debugger",
+      "published_at": "2026-07-22T18:32:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "service-worker",
+        "chromium"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AlanQ"
     },
     {
       "title": "iOS keyboard breaks page layout when opened",
@@ -1540,20 +1537,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AbsolutLeo"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How to monkey patch Leaflet library?",
@@ -1630,20 +1613,6 @@
       "user": "Malte K"
     },
     {
-      "title": "Is it possible to retrieve all non-contiguous text selections in Microsoft Word using Office.js?",
-      "url": "https://stackoverflow.com/questions/79983478/is-it-possible-to-retrieve-all-non-contiguous-text-selections-in-microsoft-word",
-      "published_at": "2026-07-21T09:13:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "ms-word",
-        "office-js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nitika Yadav"
-    },
-    {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/",
       "published_at": "2026-07-22T20:22:03.000Z",
@@ -1672,22 +1641,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
-      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
-      "published_at": "2026-07-20T21:27:11.000Z",
-      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
-      "tags": [
-        "software development",
-        "AI",
-        "macOS",
-        "React",
-        "Swift"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Balogun Wahab"
     }
   ],
   "Python": [
@@ -1913,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2201,
+      "stars": 2209,
       "user": "lopopolo"
     },
     {
@@ -1943,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 568,
       "user": "powerycy"
     },
     {
@@ -1958,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Icex0"
     },
     {
@@ -1973,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 311,
       "user": "AdelanSoulX"
     },
     {
@@ -2006,19 +1959,20 @@
       "user": "Xianzhe Meng"
     },
     {
-      "title": "Can Numba be used on a for loop without using a function?",
-      "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
-      "published_at": "2026-07-22T11:16:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
+      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad-re",
+      "published_at": "2026-07-22T15:12:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "function",
-        "for-loop",
-        "numba"
+        "google-drive-api",
+        "google-oauth",
+        "token",
+        "google-docs-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Omar Osman Mahamoud"
+      "user": "Pink Acorn"
     },
     {
       "title": "Conway's Game of Life: How to colour the cells based on number of neighbours? (edit: change number of neighbours to age of cells)",
@@ -2037,6 +1991,21 @@
       "user": "Bill Kerr"
     },
     {
+      "title": "Can Numba be used on a for loop without using a function?",
+      "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
+      "published_at": "2026-07-22T11:16:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "function",
+        "for-loop",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Omar Osman Mahamoud"
+    },
+    {
       "title": "Best Way to Specify Linux Distribution Repo Version of Python Dependencies?",
       "url": "https://stackoverflow.com/questions/79983907/best-way-to-specify-linux-distribution-repo-version-of-python-dependencies",
       "published_at": "2026-07-22T16:06:46.000Z",
@@ -2049,22 +2018,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jason Shapiro"
-    },
-    {
-      "title": "Google Drive and Google Docs API | authentication exception: invalid scope, bad request",
-      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad",
-      "published_at": "2026-07-22T15:12:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "google-drive-api",
-        "google-oauth",
-        "token",
-        "google-docs-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pink Acorn"
     },
     {
       "title": "Parsing a statement",
@@ -2106,6 +2059,19 @@
       "user": "GirlSM"
     },
     {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "published_at": "2026-07-21T14:38:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Traci Phillip"
+    },
+    {
       "title": "Subclassing ndb's Property classes such that static type checking works",
       "url": "https://stackoverflow.com/questions/79983655/subclassing-ndbs-property-classes-such-that-static-type-checking-works",
       "published_at": "2026-07-21T18:50:29.000Z",
@@ -2120,33 +2086,34 @@
       "user": "Ryan Pierce Williams"
     },
     {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
+      "url": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
+      "published_at": "2026-07-22T23:16:07.000Z",
+      "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
       "tags": [
-        "python",
-        "text-to-speech"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Traci Phillip"
-    },
-    {
-      "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
-      "url": "https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/",
-      "published_at": "2026-07-20T22:07:49.000Z",
-      "description": "In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin",
-      "tags": [
-        "AI",
-        "ai-agent",
-        "ollama",
-        "#qwen",
-        "FastAPI"
+        "SEO",
+        "Artificial Intelligence",
+        "Web Development",
+        "Python",
+        "web scraping"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Darsh Shah"
+      "user": "Chudi Nnorukam"
+    },
+    {
+      "title": "How Programmatic Advertising Works",
+      "url": "https://www.freecodecamp.org/news/how-programmatic-advertising-works/",
+      "published_at": "2026-07-22T22:37:11.000Z",
+      "description": "Most tutorials on programmatic advertising stop at the web banner. That's a shame, because the idea gets far more interesting once you follow it off the screen and into the physical world. If you've n",
+      "tags": [
+        "Advertising",
+        "automation",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     }
   ],
   "DevOps": [
@@ -2329,6 +2296,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand",
+      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/",
+      "published_at": "2026-07-22T23:15:29.000Z",
+      "description": "In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker",
+      "tags": [
+        "Kubernetes",
+        "networking",
+        "cni"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Shubham Katara"
     }
   ],
   "WebDev": [
@@ -2371,7 +2352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 525,
       "user": "pireel"
     },
     {
@@ -2386,6 +2367,33 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cole-k"
+    },
+    {
+      "title": "How can I identify music from an audio file using an API in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79984080/how-can-i-identify-music-from-an-audio-file-using-an-api-in-javascript",
+      "published_at": "2026-07-23T06:10:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Haroon Arshad"
+    },
+    {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "iOS keyboard breaks page layout when opened",
@@ -2404,20 +2412,6 @@
       "user": "AbsolutLeo"
     },
     {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
-    },
-    {
       "title": "Javascript not firing 100% of the time",
       "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
       "published_at": "2026-07-22T02:58:09.000Z",
@@ -2430,6 +2424,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marc Lawson"
+    },
+    {
+      "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
+      "url": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
+      "published_at": "2026-07-22T23:16:07.000Z",
+      "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
+      "tags": [
+        "SEO",
+        "Artificial Intelligence",
+        "Web Development",
+        "Python",
+        "web scraping"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chudi Nnorukam"
+    },
+    {
+      "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
+      "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
+      "published_at": "2026-07-22T22:36:09.000Z",
+      "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
+      "tags": [
+        "gRPC",
+        "RPC",
+        "Dart",
+        "Flutter",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
@@ -2475,7 +2501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "MobAI-App"
     },
     {
@@ -2495,20 +2521,20 @@
       "user": "AbsolutLeo"
     },
     {
-      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
-      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
-      "published_at": "2026-07-20T21:27:11.000Z",
-      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
+      "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
+      "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
+      "published_at": "2026-07-22T22:36:09.000Z",
+      "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
       "tags": [
-        "software development",
-        "AI",
-        "macOS",
-        "React",
-        "Swift"
+        "gRPC",
+        "RPC",
+        "Dart",
+        "Flutter",
+        "Google"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Balogun Wahab"
+      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Cloud": [
@@ -2856,22 +2882,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
-      "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
-      "published_at": "2026-07-20T21:27:11.000Z",
-      "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
-      "tags": [
-        "software development",
-        "AI",
-        "macOS",
-        "React",
-        "Swift"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Balogun Wahab"
     }
   ],
   "Database": [
@@ -2914,7 +2924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "cursor"
     }
   ],
@@ -3063,7 +3073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 200,
       "user": "Charles-0509"
     },
     {
@@ -3079,6 +3089,18 @@
       "user": "raymii"
     },
     {
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "published_at": "2026-07-22T20:54:48.999-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "trousers"
+    },
+    {
       "title": "PyPI releases now reject new files after 14 days",
       "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
       "published_at": "2026-07-22T10:01:49.549-05:00",
@@ -3092,20 +3114,8 @@
       "user": "ngoldbaum"
     },
     {
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "published_at": "2026-07-22T20:54:48.999-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "trousers"
-    },
-    {
-      "title": "Google Drive and Google Docs API | authentication exception: invalid scope, bad request",
-      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad",
+      "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
+      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad-re",
       "published_at": "2026-07-22T15:12:24.000Z",
       "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
@@ -3134,6 +3144,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
+      "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
+      "published_at": "2026-07-22T22:36:09.000Z",
+      "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
+      "tags": [
+        "gRPC",
+        "RPC",
+        "Dart",
+        "Flutter",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Tools": [
@@ -3275,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 435,
       "user": "gnipbao"
     },
     {
@@ -3290,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "Kritt-ai"
     },
     {
@@ -3320,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 249,
       "user": "lyu0805"
     },
     {
@@ -3335,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "joeseesun"
     },
     {
@@ -3350,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2201,
+      "stars": 2209,
       "user": "lopopolo"
     },
     {
@@ -3380,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 568,
       "user": "powerycy"
     },
     {
@@ -3395,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Icex0"
     },
     {
@@ -3410,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 311,
       "user": "AdelanSoulX"
     },
     {
@@ -3425,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1013,
       "user": "nethical6"
     },
     {
@@ -3455,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 200,
       "user": "Charles-0509"
     },
     {
@@ -3470,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "MobAI-App"
     },
     {
@@ -3500,23 +3526,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 679,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "Vincentwei1021"
     },
     {
       "title": "nyblnet/bento - GitHub Repository",
@@ -3530,8 +3541,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 607,
       "user": "nyblnet"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "published_at": "2026-07-19T11:44:41Z",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 565,
+      "user": "Vincentwei1021"
+    },
+    {
+      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "published_at": "2026-07-20T09:34:24Z",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
+      "source": "GitHub",
+      "stars": 525,
+      "user": "pireel"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -3549,21 +3590,6 @@
       "user": "0xhype"
     },
     {
-      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "published_at": "2026-07-20T09:34:24Z",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
-      "source": "GitHub",
-      "stars": 486,
-      "user": "pireel"
-    },
-    {
       "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
       "url": "https://github.com/yc-duan/fastctx",
       "published_at": "2026-07-17T03:05:57Z",
@@ -3575,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 354,
       "user": "yc-duan"
     },
     {
@@ -3590,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "cursor"
     },
     {
@@ -3620,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "vncsmnl"
     },
     {
@@ -3635,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 100,
       "user": "steelbrain"
     },
     {
