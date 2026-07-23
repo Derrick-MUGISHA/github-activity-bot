@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 79,
+    "AI": 80,
     "JavaScript": 34,
     "Python": 34,
     "DevOps": 15,
     "WebDev": 11,
     "Mobile": 4,
-    "Cloud": 22,
+    "Cloud": 23,
     "Database": 4,
     "Security": 18,
-    "Tools": 38
+    "Tools": 37
   },
   "by_language": {
     "Go": 42,
@@ -31,8 +31,8 @@
     "PHP": 1
   },
   "by_date": {
-    "2026-07-22": 36,
-    "2026-07-21": 13,
+    "2026-07-22": 35,
+    "2026-07-21": 14,
     "2026-07-20": 14,
     "2026-07-15": 2,
     "2026-07-08": 4,
@@ -121,12 +121,12 @@
     "DevOps": 10,
     "mcps": 8,
     "webdev": 7,
+    "typescript": 6,
     "googlecloud": 5,
     "tpu": 5,
     "career": 5,
     "antigravity": 5,
-    "antigravitycli": 5,
-    "gemma4": 5
+    "antigravitycli": 5
   },
   "trending_topics": [],
   "language_percentages": {
