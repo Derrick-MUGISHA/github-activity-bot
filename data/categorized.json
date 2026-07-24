@@ -1,19 +1,94 @@
 {
   "AI": [
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
+      "published_at": "2026-07-24T12:27:58Z",
+      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
       "tags": [
-        "discuss",
         "ai",
-        "career",
-        "programming"
+        "gemini",
+        "mcp",
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
-      "user": "Nazar Boyko"
+      "user": "xbill"
+    },
+    {
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
+      "published_at": "2026-07-24T12:35:53Z",
+      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
+      "published_at": "2026-07-24T14:35:41Z",
+      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
+    },
+    {
+      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
+      "published_at": "2026-07-23T23:57:31Z",
+      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
+      "tags": [
+        "ai",
+        "codex",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
+      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
+      "published_at": "2026-07-24T00:52:30Z",
+      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
+      "tags": [
+        "cloud",
+        "cloudrun",
+        "googlecloud",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
+      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
+      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
+      "published_at": "2026-07-23T13:24:50Z",
+      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
+      "tags": [
+        "ai",
+        "cloud",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
@@ -29,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
       "source": "Dev.to",
       "user": " Gábor Mészáros"
+    },
+    {
+      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g",
+      "published_at": "2026-07-22T22:44:23Z",
+      "description": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-turn stateful edits, an idiot-proof install guide, and a dogfooded cover image.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
@@ -61,6 +151,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
+      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
+      "published_at": "2026-07-22T17:36:07Z",
+      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "devops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
+      "source": "Dev.to",
+      "user": "Stephanie Wong"
+    },
+    {
       "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
       "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
       "published_at": "2026-07-20T16:26:42Z",
@@ -76,6 +181,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
+      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
+      "published_at": "2026-07-23T09:25:08Z",
+      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokphnsh2gqzwmiuskcei.jpeg",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
       "published_at": "2026-07-12T15:09:09Z",
@@ -89,6 +209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -388,141 +523,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "tags": [
-        "aie",
-        "gamedev",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
-      "published_at": "2026-07-14T09:57:26Z",
-      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
-      "tags": [
-        "ai",
-        "agents",
-        "adk",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Omni Flash Preview with Codex",
-      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
-      "published_at": "2026-07-05T02:28:00Z",
-      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "tags": [
-        "omniflash",
-        "xcode",
-        "aivideogenerator",
-        "mcpserver"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd",
-      "published_at": "2026-07-14T15:06:56Z",
-      "description": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "tags": [
-        "gemma",
-        "google",
-        "llm",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdih5ex6xxv8q0jc2ztdb.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
-      "title": "GRIND404: I turned my \"Passion\" for LeetCode into a playable arcade game",
-      "url": "https://dev.to/gde/grind404-i-turned-my-passion-for-leetcode-into-a-playable-arcade-game-1hnl",
-      "published_at": "2026-07-10T20:21:25Z",
-      "description": "This is a submission for the DEV Weekend Challenge: Passion Edition.           What I Built   My...",
-      "tags": [
-        "weekendchallenge",
-        "googleai",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft9s0x8q2d8oowubc9ssz.gif",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca",
-      "published_at": "2026-07-03T14:45:31Z",
-      "description": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
-      "tags": [
-        "aie",
-        "ai",
-        "techtalks",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwt440ubxmwgw326k4emp.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "A Developer's Guide to Agent Hooks in Antigravity CLI",
-      "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no",
-      "published_at": "2026-06-26T07:03:01Z",
-      "description": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "howto"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cln49hofanjo055owq6.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1320,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 907,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 702,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "steelbrain"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "neural-maze"
     },
     {
@@ -864,6 +864,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "creative AR Tech"
+    },
+    {
+      "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "published_at": "2026-07-24T13:36:42.000Z",
+      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "In Brief",
+        "OpenAI",
+        "voice mode"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -936,21 +952,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "published_at": "2026-07-23T19:00:00.000Z",
-      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
@@ -1190,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 602,
       "user": "gnipbao"
     },
     {
@@ -1205,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 509,
       "user": "CatsJuice"
     },
     {
@@ -1235,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "lyu0805"
     },
     {
@@ -1265,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 403,
       "user": "Charles-0509"
     },
     {
@@ -1280,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1320,
       "user": "Vincentwei1021"
     },
     {
@@ -1295,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 907,
       "user": "Jakubantalik"
     },
     {
@@ -1310,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 702,
       "user": "pireel"
     },
     {
@@ -1342,6 +1343,22 @@
       "source": "GitHub",
       "stars": 221,
       "user": "rjx18"
+    },
+    {
+      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
+      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
+      "published_at": "2026-07-24T14:42:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "angular",
+        "google-chrome",
+        "onbeforeunload"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavik Gedia"
     },
     {
       "title": "lit removing conditional checked attribute from radio",
@@ -1478,20 +1495,6 @@
       "user": "Syed Muhammad Irtaza"
     },
     {
-      "title": "How to see service worker errors in Chromium debugger?",
-      "url": "https://stackoverflow.com/questions/79983949/how-to-see-service-worker-errors-in-chromium-debugger",
-      "published_at": "2026-07-22T18:32:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "service-worker",
-        "chromium"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AlanQ"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -1598,21 +1601,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1746,7 +1734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2655,
+      "stars": 2892,
       "user": "andrewyng"
     },
     {
@@ -1761,7 +1749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2305,
+      "stars": 2310,
       "user": "lopopolo"
     },
     {
@@ -1776,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 783,
       "user": "powerycy"
     },
     {
@@ -1806,8 +1794,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "berabuddies"
+    },
+    {
+      "title": "Sending android Notifications in python flet",
+      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
+      "published_at": "2026-07-24T14:25:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ahmed"
     },
     {
       "title": "How to normalize complex JSON using pandas?",
@@ -1877,6 +1877,19 @@
       "user": "Γιάννης Σωτήρχος"
     },
     {
+      "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
+      "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
+      "published_at": "2026-07-23T15:47:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "multiprocessing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Skadi Grossberndt"
+    },
+    {
       "title": "How can I directly declare Unicode rather than finding a string to encode?",
       "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
       "published_at": "2026-07-23T01:35:11.000Z",
@@ -1906,19 +1919,6 @@
       "user": "mortalmuffin"
     },
     {
-      "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
-      "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
-      "published_at": "2026-07-23T15:47:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "multiprocessing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Skadi Grossberndt"
-    },
-    {
       "title": "Conway's Game of Life: How can we colour the cells based on number of neighbours? (change number of neighbours to age of cells)",
       "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-can-we-colour-the-cells-based-on-number-of-neighbours",
       "published_at": "2026-07-22T02:53:31.000Z",
@@ -1933,21 +1933,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bill Kerr"
-    },
-    {
-      "title": "Can Numba be used on a for loop without using a function?",
-      "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
-      "published_at": "2026-07-22T11:16:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "function",
-        "for-loop",
-        "numba"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Omar Osman Mahamoud"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -1982,6 +1967,21 @@
   ],
   "DevOps": [
     {
+      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
+      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
+      "published_at": "2026-07-22T17:36:07Z",
+      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "devops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
+      "source": "Dev.to",
+      "user": "Stephanie Wong"
+    },
+    {
       "title": "Gemma4 DevOps In Action",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
       "published_at": "2026-07-20T14:20:31Z",
@@ -2010,21 +2010,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
-      "published_at": "2026-06-29T16:12:25Z",
-      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2158,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "neural-maze"
     },
     {
@@ -2231,8 +2216,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 702,
       "user": "pireel"
+    },
+    {
+      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
+      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
+      "published_at": "2026-07-24T14:42:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "angular",
+        "google-chrome",
+        "onbeforeunload"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavik Gedia"
     },
     {
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
@@ -2374,6 +2375,18 @@
       "user": "Singh Jaskeat"
     },
     {
+      "title": "Sending android Notifications in python flet",
+      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
+      "published_at": "2026-07-24T14:25:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ahmed"
+    },
+    {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
       "published_at": "2026-07-23T22:40:08.000Z",
@@ -2420,6 +2433,36 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
+      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
+      "published_at": "2026-07-24T00:52:30Z",
+      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
+      "tags": [
+        "cloud",
+        "cloudrun",
+        "googlecloud",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
+      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
+      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
+      "published_at": "2026-07-23T13:24:50Z",
+      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
+      "tags": [
+        "ai",
+        "cloud",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
@@ -2629,84 +2672,9 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
-      "published_at": "2026-06-23T03:39:55Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "speculativedecoding",
-        "antigravitycli",
-        "qat",
-        "blackwell6000"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn",
-      "published_at": "2026-06-22T02:44:39Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "gemma4",
-        "mcps",
-        "antigravity",
-        "blackwell"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
-      "published_at": "2026-06-29T16:12:25Z",
-      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
     }
   ],
   "Database": [
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
-      "published_at": "2026-06-23T18:04:23Z",
-      "description": "Originally posted on...",
-      "tags": [
-        "python",
-        "ai",
-        "azure",
-        "nosql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
-      "source": "Dev.to",
-      "user": "Abhishek Gupta"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2731,7 +2699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "berabuddies"
     },
     {
@@ -2761,11 +2729,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "neural-maze"
     }
   ],
   "Security": [
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
+      "published_at": "2026-07-24T14:35:41Z",
+      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2910,7 +2893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 403,
       "user": "Charles-0509"
     },
     {
@@ -2961,6 +2944,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
+      "published_at": "2026-07-24T12:27:58Z",
+      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
@@ -3052,21 +3050,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3114,7 +3097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 602,
       "user": "gnipbao"
     },
     {
@@ -3129,7 +3112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 509,
       "user": "CatsJuice"
     },
     {
@@ -3159,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "lyu0805"
     },
     {
@@ -3189,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2655,
+      "stars": 2892,
       "user": "andrewyng"
     },
     {
@@ -3204,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2305,
+      "stars": 2310,
       "user": "lopopolo"
     },
     {
@@ -3219,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 783,
       "user": "powerycy"
     },
     {
@@ -3249,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "berabuddies"
     },
     {
@@ -3264,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 403,
       "user": "Charles-0509"
     },
     {
@@ -3339,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1320,
       "user": "Vincentwei1021"
     },
     {
@@ -3354,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 907,
       "user": "Jakubantalik"
     },
     {
@@ -3369,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 702,
       "user": "pireel"
     },
     {
@@ -3414,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "steelbrain"
     },
     {
@@ -3429,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "vncsmnl"
     },
     {
@@ -3459,23 +3442,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "neural-maze"
     },
     {
-      "title": "lanpishu6300/multiraft - Thin Multi-Raft library for matching HA (openraft + openraft-multi).",
-      "url": "https://github.com/lanpishu6300/multiraft",
-      "published_at": "2026-07-18T14:57:14Z",
-      "description": "Thin Multi-Raft library for matching HA (openraft + openraft-multi).",
+      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
+      "published_at": "2026-07-23T09:43:07Z",
+      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13306065?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 103,
-      "user": "lanpishu6300"
+      "stars": 106,
+      "user": "rrrjqy66"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
