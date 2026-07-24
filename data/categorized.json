@@ -211,21 +211,6 @@
       "user": "christine"
     },
     {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "The Myth of the Post-Documentation Era",
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
       "published_at": "2026-07-13T15:59:11Z",
@@ -239,6 +224,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "published_at": "2026-07-16T21:19:20Z",
+      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "I burned through thousands of AI tokens. Then a friend did it for free",
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 369,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1247,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 888,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 138,
       "user": "steelbrain"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "neural-maze"
     },
     {
@@ -848,6 +848,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "FedericoSchonborn"
+    },
+    {
+      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
+      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
+      "published_at": "2026-07-24T10:18:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "reactjs",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "creative AR Tech"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -1190,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "gnipbao"
     },
     {
@@ -1205,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 498,
       "user": "CatsJuice"
     },
     {
@@ -1220,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 369,
       "user": "Kritt-ai"
     },
     {
@@ -1265,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 383,
       "user": "Charles-0509"
     },
     {
@@ -1280,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1247,
       "user": "Vincentwei1021"
     },
     {
@@ -1295,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 888,
       "user": "Jakubantalik"
     },
     {
@@ -1310,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "pireel"
     },
     {
@@ -1340,14 +1356,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "rjx18"
+    },
+    {
+      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
+      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
+      "published_at": "2026-07-24T10:18:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "reactjs",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "creative AR Tech"
     },
     {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1477,20 +1509,19 @@
       "user": "plswork04"
     },
     {
-      "title": "iOS keyboard breaks page layout when opened",
-      "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
-      "published_at": "2026-07-22T17:24:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to normalize complex JSON using pandas?",
+      "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
+      "published_at": "2026-07-24T11:07:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "javascript",
-        "css",
-        "ios",
-        "user-interface",
-        "vite-reactjs"
+        "python",
+        "json",
+        "pandas",
+        "normalization"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AbsolutLeo"
+      "user": "user22099079"
     },
     {
       "title": "How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers",
@@ -1732,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2350,
+      "stars": 2503,
       "user": "andrewyng"
     },
     {
@@ -1747,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2298,
+      "stars": 2299,
       "user": "lopopolo"
     },
     {
@@ -1762,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 756,
       "user": "powerycy"
     },
     {
@@ -1777,27 +1808,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "xiejunjie524"
     },
     {
-      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
-      "url": "https://github.com/AdelanSoulX/PM-Sniper",
-      "published_at": "2026-07-20T14:23:19Z",
-      "description": "Trending GitHub Repository",
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "published_at": "2026-07-22T22:26:08Z",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 362,
-      "user": "AdelanSoulX"
+      "stars": 367,
+      "user": "berabuddies"
     },
     {
-      "title": "How do I get Python GEKKO chemical splittter unit operation to propagate mole fractions from input to output streams?",
-      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splittter-unit-operation-to-propagate-mole-fr",
+      "title": "How to normalize complex JSON using pandas?",
+      "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
+      "published_at": "2026-07-24T11:07:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "normalization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22099079"
+    },
+    {
+      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
+      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
       "published_at": "2026-07-24T09:02:03.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
@@ -1863,19 +1909,6 @@
       "user": "Xianzhe Meng"
     },
     {
-      "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
-      "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
-      "published_at": "2026-07-23T15:47:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "multiprocessing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Skadi Grossberndt"
-    },
-    {
       "title": "How do I prevent redaction rectangles from removing surrounding text?",
       "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
       "published_at": "2026-07-23T09:38:49.000Z",
@@ -1888,6 +1921,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mortalmuffin"
+    },
+    {
+      "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
+      "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
+      "published_at": "2026-07-23T15:47:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "multiprocessing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Skadi Grossberndt"
     },
     {
       "title": "Conway's Game of Life: How can we colour the cells based on number of neighbours? (change number of neighbours to age of cells)",
@@ -1919,22 +1965,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Omar Osman Mahamoud"
-    },
-    {
-      "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
-      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad-re",
-      "published_at": "2026-07-22T15:12:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "google-drive-api",
-        "google-oauth",
-        "token",
-        "google-docs-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pink Acorn"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2145,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "neural-maze"
     },
     {
@@ -2218,14 +2248,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "pireel"
+    },
+    {
+      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
+      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
+      "published_at": "2026-07-24T10:18:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "reactjs",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "creative AR Tech"
     },
     {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2264,22 +2310,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ben Roriz-Dasilva"
-    },
-    {
-      "title": "iOS keyboard breaks page layout when opened",
-      "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
-      "published_at": "2026-07-22T17:24:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "ios",
-        "user-interface",
-        "vite-reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AbsolutLeo"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2327,7 +2357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "MobAI-App"
     },
     {
@@ -2359,22 +2389,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Singh Jaskeat"
-    },
-    {
-      "title": "iOS keyboard breaks page layout when opened",
-      "url": "https://stackoverflow.com/questions/79983933/ios-keyboard-breaks-page-layout-when-opened",
-      "published_at": "2026-07-22T17:24:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "ios",
-        "user-interface",
-        "vite-reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AbsolutLeo"
     },
     {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
@@ -2723,6 +2737,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "published_at": "2026-07-22T22:26:08Z",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
+      "source": "GitHub",
+      "stars": 367,
+      "user": "berabuddies"
+    },
+    {
       "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
       "url": "https://github.com/0xtbug/unofficial-pddikti-api",
       "published_at": "2026-07-19T05:58:49Z",
@@ -2749,7 +2778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "neural-maze"
     }
   ],
@@ -2898,7 +2927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 383,
       "user": "Charles-0509"
     },
     {
@@ -2915,22 +2944,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "Google Drive and Google Docs API authentication exception: invalid scope, bad request",
-      "url": "https://stackoverflow.com/questions/79983897/google-drive-and-google-docs-api-authentication-exception-invalid-scope-bad-re",
-      "published_at": "2026-07-22T15:12:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "google-drive-api",
-        "google-oauth",
-        "token",
-        "google-docs-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pink Acorn"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -3134,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "gnipbao"
     },
     {
@@ -3149,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 498,
       "user": "CatsJuice"
     },
     {
@@ -3164,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 369,
       "user": "Kritt-ai"
     },
     {
@@ -3209,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2350,
+      "stars": 2503,
       "user": "andrewyng"
     },
     {
@@ -3224,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2298,
+      "stars": 2299,
       "user": "lopopolo"
     },
     {
@@ -3239,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 756,
       "user": "powerycy"
     },
     {
@@ -3254,23 +3267,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "xiejunjie524"
     },
     {
-      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
-      "url": "https://github.com/AdelanSoulX/PM-Sniper",
-      "published_at": "2026-07-20T14:23:19Z",
-      "description": "Trending GitHub Repository",
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "published_at": "2026-07-22T22:26:08Z",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 362,
-      "user": "AdelanSoulX"
+      "stars": 367,
+      "user": "berabuddies"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -3284,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 383,
       "user": "Charles-0509"
     },
     {
@@ -3314,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "MobAI-App"
     },
     {
@@ -3359,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1247,
       "user": "Vincentwei1021"
     },
     {
@@ -3374,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 888,
       "user": "Jakubantalik"
     },
     {
@@ -3389,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "pireel"
     },
     {
@@ -3419,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "rjx18"
     },
     {
@@ -3434,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 138,
       "user": "steelbrain"
     },
     {
@@ -3449,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "vncsmnl"
     },
     {
@@ -3494,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "neural-maze"
     },
     {
