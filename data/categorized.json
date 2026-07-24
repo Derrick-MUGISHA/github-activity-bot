@@ -1,306 +1,6 @@
 {
   "AI": [
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "published_at": "2026-07-24T12:35:53Z",
-      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
-      "published_at": "2026-07-23T23:57:31Z",
-      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
-      "tags": [
-        "ai",
-        "codex",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "published_at": "2026-07-24T00:52:30Z",
-      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
-      "tags": [
-        "cloud",
-        "cloudrun",
-        "googlecloud",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
-      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
-      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
-      "published_at": "2026-07-23T13:24:50Z",
-      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
-      "tags": [
-        "ai",
-        "cloud",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
-      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g",
-      "published_at": "2026-07-22T22:44:23Z",
-      "description": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-turn stateful edits, an idiot-proof install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
-      "published_at": "2026-07-21T16:31:50Z",
-      "description": "3.6...",
-      "tags": [
-        "ai",
-        "google",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
-    },
-    {
-      "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
-      "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
-      "published_at": "2026-07-20T16:26:42Z",
-      "description": "I never planned to be in tech.  Growing up in Mumbai, I loved acting. Directing. Theatre. That was my...",
-      "tags": [
-        "career",
-        "beginners",
-        "womenintech",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
-      "published_at": "2026-07-23T09:25:08Z",
-      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokphnsh2gqzwmiuskcei.jpeg",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
-    },
-    {
       "title": "Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG",
       "url": "https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606",
       "published_at": "2026-07-19T06:04:17Z",
@@ -717,7 +417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1413,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 930,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "steelbrain"
     },
     {
@@ -826,19 +526,19 @@
       "user": "neural-maze"
     },
     {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
+      "title": "QW-AI-Code/Aether - GitHub Repository",
+      "url": "https://github.com/QW-AI-Code/Aether",
+      "published_at": "2026-07-20T17:06:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
       "stars": 106,
-      "user": "Evokoa"
+      "user": "QW-AI-Code"
     },
     {
       "title": "Open Weights and American AI Leadership",
@@ -911,6 +611,37 @@
       "user": "ZS6HJH"
     },
     {
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "published_at": "2026-07-24T23:25:47.000Z",
+      "description": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue re-lighting the booster's rocket engines.",
+      "tags": [
+        "Space",
+        "Transportation",
+        "SpaceX",
+        "Starship"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "published_at": "2026-07-24T22:25:58.000Z",
+      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Exclusive",
+        "neolab",
+        "Reid Hoffman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
       "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
       "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
       "published_at": "2026-07-24T22:10:00.000Z",
@@ -946,13 +677,11 @@
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "published_at": "2026-07-24T18:07:32.000Z",
-      "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant",
+      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
       "tags": [
-        "Apps",
         "AI",
-        "TC",
-        "cognition",
-        "AI agents"
+        "Apps",
+        "cognition"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1001,34 +730,68 @@
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "published_at": "2026-07-24T17:00:00.000Z",
-      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "title": "How to Diagnose Production Bugs When You Can't Reproduce Them Locally",
+      "url": "https://www.freecodecamp.org/news/how-to-diagnose-production-bugs-when-you-can-t-reproduce-them-locally/",
+      "published_at": "2026-07-24T20:54:36.000Z",
+      "description": "Every developer eventually encounters the same frustrating problem. A customer reports that your application is failing in production. You try the exact same workflow on your development machine, but",
       "tags": [
-        "AI",
-        "Anthropic",
-        "Opus"
+        "debugging",
+        "production",
+        "PaaS",
+        "Environment",
+        "Software Engineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
-      "title": "India&#8217;s move against Jack Dorsey&#8217;s Bitchat sparks legal debate",
-      "url": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
-      "published_at": "2026-07-24T16:54:58.000Z",
-      "description": "The offline messaging app surged in popularity in India amid protests in New Delhi.",
+      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
+      "published_at": "2026-07-24T20:44:56.000Z",
+      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
       "tags": [
-        "Government & Policy",
-        "Social",
-        "Apps",
-        "Bitchat",
-        "jack dorsey"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "Tutorial"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "How to Use Prompt Engineering and Context Engineering for AI Agents",
+      "url": "https://www.freecodecamp.org/news/how-to-use-prompt-engineering-and-context-engineering-for-ai-agents/",
+      "published_at": "2026-07-24T20:43:29.000Z",
+      "description": "In this tutorial, I’ll show you how prompt engineering and context engineering can improve an AI agent's performance. We’ll build a simple local agent, start with a baseline input, then improve it wit",
+      "tags": [
+        "AI",
+        "ai agents",
+        "#PromptEngineering",
+        "context engineering",
+        "#qwen"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
+      "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
+      "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
+      "published_at": "2026-07-24T20:38:36.000Z",
+      "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
+      "tags": [
+        "Workflow Automation",
+        "Orchestration",
+        "orchestration-platform",
+        "Python automation",
+        "it automation tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rob Walters"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -1074,68 +837,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "Multi-Agent Coding & Deployment with TRAE IDE",
-      "url": "https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/",
-      "published_at": "2026-07-23T13:14:37.000Z",
-      "description": "Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products",
-      "tags": [
-        "#ai-tools",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
-      "url": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
-      "published_at": "2026-07-22T23:16:07.000Z",
-      "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
-      "tags": [
-        "SEO",
-        "Artificial Intelligence",
-        "Web Development",
-        "Python",
-        "web scraping"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chudi Nnorukam"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
-      "published_at": "2026-07-23T10:26:15Z",
-      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
-      "source": "Dev.to",
-      "user": "Francesco Ciulla"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
     {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
@@ -1268,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 606,
       "user": "gnipbao"
     },
     {
@@ -1283,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 520,
       "user": "CatsJuice"
     },
     {
@@ -1343,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "Charles-0509"
     },
     {
@@ -1358,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1413,
       "user": "Vincentwei1021"
     },
     {
@@ -1373,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 930,
       "user": "Jakubantalik"
     },
     {
@@ -1418,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "RongleCat"
     },
     {
@@ -1586,6 +1290,22 @@
       "user": "user22099079"
     },
     {
+      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
+      "published_at": "2026-07-24T20:44:56.000Z",
+      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
       "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
       "published_at": "2026-07-24T18:30:52.000Z",
@@ -1632,66 +1352,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
-    },
     {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
@@ -1839,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3310,
+      "stars": 3345,
       "user": "andrewyng"
     },
     {
@@ -1854,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2321,
       "user": "lopopolo"
     },
     {
@@ -1869,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 800,
       "user": "powerycy"
     },
     {
@@ -1899,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 385,
       "user": "berabuddies"
     },
     {
@@ -2049,53 +1709,23 @@
       "user": "SMM"
     },
     {
-      "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
-      "url": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
-      "published_at": "2026-07-22T23:16:07.000Z",
-      "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
+      "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
+      "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
+      "published_at": "2026-07-24T20:38:36.000Z",
+      "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
       "tags": [
-        "SEO",
-        "Artificial Intelligence",
-        "Web Development",
-        "Python",
-        "web scraping"
+        "Workflow Automation",
+        "Orchestration",
+        "orchestration-platform",
+        "Python automation",
+        "it automation tools"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Chudi Nnorukam"
+      "user": "Rob Walters"
     }
   ],
   "DevOps": [
-    {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
       "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
@@ -2249,21 +1879,6 @@
   ],
   "WebDev": [
     {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
-      "published_at": "2026-07-23T10:26:15Z",
-      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
-      "source": "Dev.to",
-      "user": "Francesco Ciulla"
-    },
-    {
       "title": "A Pragmatic Look at AI in 2030",
       "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
       "published_at": "2026-07-08T15:01:47Z",
@@ -2368,6 +1983,22 @@
       "user": "Justus Foehrkolb"
     },
     {
+      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
+      "published_at": "2026-07-24T20:44:56.000Z",
+      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "Build Bulletproof APIs using TypeScript in Express",
       "url": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
       "published_at": "2026-07-24T14:24:13.000Z",
@@ -2379,22 +2010,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
-      "url": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
-      "published_at": "2026-07-22T23:16:07.000Z",
-      "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
-      "tags": [
-        "SEO",
-        "Artificial Intelligence",
-        "Web Development",
-        "Python",
-        "web scraping"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chudi Nnorukam"
     }
   ],
   "Mobile": [
@@ -2410,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "MobAI-App"
     },
     {
@@ -2456,171 +2071,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "published_at": "2026-07-24T00:52:30Z",
-      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
-      "tags": [
-        "cloud",
-        "cloudrun",
-        "googlecloud",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
-      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
-      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
-      "published_at": "2026-07-23T13:24:50Z",
-      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
-      "tags": [
-        "ai",
-        "cloud",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
-      "published_at": "2026-07-08T13:26:02Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "googleantigravity",
-        "googletpu",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
-    },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
@@ -2738,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 385,
       "user": "berabuddies"
     },
     {
@@ -2820,21 +2270,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2979,7 +2414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "Charles-0509"
     },
     {
@@ -3014,36 +2449,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-      "published_at": "2026-07-09T14:44:40Z",
-      "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "tags": [
-        "mentalhealth",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
-    },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
       "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
@@ -3167,7 +2572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 606,
       "user": "gnipbao"
     },
     {
@@ -3182,7 +2587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 520,
       "user": "CatsJuice"
     },
     {
@@ -3242,7 +2647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3310,
+      "stars": 3345,
       "user": "andrewyng"
     },
     {
@@ -3257,7 +2662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2321,
       "user": "lopopolo"
     },
     {
@@ -3272,7 +2677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 800,
       "user": "powerycy"
     },
     {
@@ -3302,7 +2707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 385,
       "user": "berabuddies"
     },
     {
@@ -3317,7 +2722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "Charles-0509"
     },
     {
@@ -3347,7 +2752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "MobAI-App"
     },
     {
@@ -3392,7 +2797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1413,
       "user": "Vincentwei1021"
     },
     {
@@ -3407,7 +2812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 930,
       "user": "Jakubantalik"
     },
     {
@@ -3452,7 +2857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "RongleCat"
     },
     {
@@ -3467,7 +2872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "steelbrain"
     },
     {
@@ -3516,19 +2921,19 @@
       "user": "neural-maze"
     },
     {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
+      "title": "QW-AI-Code/Aether - GitHub Repository",
+      "url": "https://github.com/QW-AI-Code/Aether",
+      "published_at": "2026-07-20T17:06:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
       "stars": 106,
-      "user": "Evokoa"
+      "user": "QW-AI-Code"
     },
     {
       "title": "git rebase -i is not that scary",
@@ -3553,6 +2958,38 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
+      "published_at": "2026-07-24T20:44:56.000Z",
+      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "Online PDF Tools",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
+      "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
+      "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
+      "published_at": "2026-07-24T20:38:36.000Z",
+      "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
+      "tags": [
+        "Workflow Automation",
+        "Orchestration",
+        "orchestration-platform",
+        "Python automation",
+        "it automation tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rob Walters"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -3598,19 +3035,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "Multi-Agent Coding & Deployment with TRAE IDE",
-      "url": "https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/",
-      "published_at": "2026-07-23T13:14:37.000Z",
-      "description": "Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products",
-      "tags": [
-        "#ai-tools",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ]
 }
