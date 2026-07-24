@@ -196,6 +196,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "What is an \"agentic harness,\" actually?",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
       "published_at": "2026-07-16T21:19:20Z",
@@ -297,6 +312,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
       "source": "Dev.to",
       "user": "Andrew Bone"
+    },
+    {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
@@ -478,21 +508,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -506,21 +521,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpl5cml2x8viuu2i64s2.png",
       "source": "Dev.to",
       "user": "Abhishek Gupta"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -706,36 +706,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-      "url": "https://github.com/Icex0/wp2shell-poc",
-      "published_at": "2026-07-17T20:18:33Z",
-      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "Icex0"
-    },
-    {
-      "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "published_at": "2026-07-17T04:58:22Z",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
-      "source": "GitHub",
-      "stars": 1072,
-      "user": "nethical6"
-    },
-    {
       "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
       "url": "https://github.com/MobAI-App/simslim",
       "published_at": "2026-07-20T15:55:18Z",
@@ -747,8 +717,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "MobAI-App"
+    },
+    {
+      "title": "2921323707/CPA_Orbit - From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
+      "url": "https://github.com/2921323707/CPA_Orbit",
+      "published_at": "2026-07-18T15:42:12Z",
+      "description": "From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/184733054?v=4",
+      "source": "GitHub",
+      "stars": 56,
+      "user": "2921323707"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 934,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 827,
       "user": "Jakubantalik"
     },
     {
@@ -792,23 +777,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "pireel"
-    },
-    {
-      "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
-      "url": "https://github.com/yc-duan/fastctx",
-      "published_at": "2026-07-17T03:05:57Z",
-      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "yc-duan"
     },
     {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
@@ -822,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "steelbrain"
     },
     {
@@ -841,6 +811,36 @@
       "user": "duxweb"
     },
     {
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "neural-maze"
+    },
+    {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "Evokoa"
+    },
+    {
       "title": "Protecting our FLOSS commons from LLMs",
       "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
       "published_at": "2026-07-22T20:04:08.424-05:00",
@@ -851,6 +851,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "FedericoSchonborn"
+    },
+    {
+      "title": "You should selfhost your mail (in 2026)",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "published_at": "2026-07-23T16:10:09.035-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "email"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cinemast"
     },
     {
       "title": "The first known runaway AI agent - or a very bad marketing stunt?",
@@ -864,6 +876,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "martinald"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "published_at": "2026-07-24T01:00:00.000Z",
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "tags": [
+        "Security",
+        "AI",
+        "hackers",
+        "hacking",
+        "bugs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
@@ -952,22 +980,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "published_at": "2026-07-23T17:07:35.000Z",
-      "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Startups",
-        "AI audio",
-        "AI image"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
@@ -1222,8 +1234,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 558,
       "user": "gnipbao"
+    },
+    {
+      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "published_at": "2026-07-20T17:13:15Z",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
+      "source": "GitHub",
+      "stars": 364,
+      "user": "CatsJuice"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -1241,21 +1268,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "url": "https://github.com/CatsJuice/sticker-forge",
-      "published_at": "2026-07-20T17:13:15Z",
-      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "CatsJuice"
-    },
-    {
       "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
       "url": "https://github.com/lyu0805/OpenBrowser",
       "published_at": "2026-07-19T10:41:16Z",
@@ -1267,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 281,
       "user": "lyu0805"
     },
     {
@@ -1282,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "joeseesun"
     },
     {
@@ -1301,21 +1313,6 @@
       "user": "Charles-0509"
     },
     {
-      "title": "nyblnet/bento - GitHub Repository",
-      "url": "https://github.com/nyblnet/bento",
-      "published_at": "2026-07-17T16:55:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
-      "source": "GitHub",
-      "stars": 1073,
-      "user": "nyblnet"
-    },
-    {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "published_at": "2026-07-19T11:44:41Z",
@@ -1327,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 934,
       "user": "Vincentwei1021"
     },
     {
@@ -1342,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 827,
       "user": "Jakubantalik"
     },
     {
@@ -1357,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "pireel"
     },
     {
@@ -1376,6 +1373,21 @@
       "user": "0xhype"
     },
     {
+      "title": "rjx18/codor - GitHub Repository",
+      "url": "https://github.com/rjx18/codor",
+      "published_at": "2026-07-19T15:09:48Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
+      "source": "GitHub",
+      "stars": 216,
+      "user": "rjx18"
+    },
+    {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
@@ -1391,6 +1403,21 @@
       "user": "Justus Foehrkolb"
     },
     {
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
+      "published_at": "2026-07-23T14:31:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "performance",
+        "react-native-flatlist"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testing Tester"
+    },
+    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -1404,21 +1431,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
-      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
-      "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "performance",
-        "react-native-flatlist"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testing Tester"
     },
     {
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
@@ -1763,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2272,
+      "stars": 2275,
       "user": "lopopolo"
     },
     {
@@ -1778,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1233,
       "user": "andrewyng"
     },
     {
@@ -1793,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 656,
       "user": "powerycy"
     },
     {
@@ -1812,19 +1824,19 @@
       "user": "xiejunjie524"
     },
     {
-      "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-      "url": "https://github.com/Icex0/wp2shell-poc",
-      "published_at": "2026-07-17T20:18:33Z",
-      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "published_at": "2026-07-20T14:23:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "Icex0"
+      "stars": 341,
+      "user": "AdelanSoulX"
     },
     {
       "title": "What is best practice for preventing a class attribute from becoming stale data?",
@@ -1843,7 +1855,7 @@
       "title": "Returning the value of the last expression calculated",
       "url": "https://stackoverflow.com/questions/79984274/returning-the-value-of-the-last-expression-calculated",
       "published_at": "2026-07-23T16:01:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2045,21 +2057,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2",
-      "published_at": "2026-06-23T18:38:11Z",
-      "description": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously, track their activities, and scale your AI engineering impact with complete visibility.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "devops",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvix27ba8aoypmysbw5ws.png",
-      "source": "Dev.to",
-      "user": "bredmond1019"
-    },
-    {
       "title": "The Big DevOps Misunderstanding",
       "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
       "published_at": "2021-12-19T20:07:33Z",
@@ -2180,6 +2177,21 @@
       "user": "jknupp"
     },
     {
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "neural-maze"
+    },
+    {
       "title": "How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/",
       "published_at": "2026-07-22T23:15:29.000Z",
@@ -2249,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "pireel"
     },
     {
@@ -2373,14 +2385,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "MobAI-App"
     },
     {
       "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
       "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
       "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "react-native",
@@ -2635,6 +2647,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
       "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
       "published_at": "2026-07-08T13:02:03Z",
@@ -2710,21 +2737,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13",
-      "published_at": "2026-07-16T19:41:43Z",
-      "description": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "tags": [
-        "aws",
-        "infrastructure",
-        "networking",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fblgshp7eqquxul35zwjc.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
       "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k",
       "published_at": "2026-06-23T18:04:23Z",
@@ -2784,19 +2796,19 @@
       "user": "0xtbug"
     },
     {
-      "title": "cursor/minisqlite - GitHub Repository",
-      "url": "https://github.com/cursor/minisqlite",
-      "published_at": "2026-07-17T07:41:30Z",
-      "description": "Trending GitHub Repository",
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 189,
-      "user": "cursor"
+      "stars": 93,
+      "user": "neural-maze"
     }
   ],
   "Security": [
@@ -3004,6 +3016,22 @@
       "user": "Pink Acorn"
     },
     {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "published_at": "2026-07-24T01:00:00.000Z",
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "tags": [
+        "Security",
+        "AI",
+        "hackers",
+        "hacking",
+        "bugs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "published_at": "2026-07-23T18:38:34.000Z",
@@ -3018,22 +3046,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
-      "url": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
-      "published_at": "2026-07-23T17:27:08.000Z",
-      "description": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
-      "tags": [
-        "Security",
-        "critical infrastructure",
-        "cyberattacks",
-        "cybersecurity",
-        "Iran-US War"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
@@ -3084,6 +3096,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "published_at": "2026-07-08T12:25:01Z",
@@ -3097,6 +3124,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
       "source": "Dev.to",
       "user": "Web Developer Hyper"
+    },
+    {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
+      "published_at": "2026-07-21T13:00:00Z",
+      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "A lot of good points here https://antirez.com/news/169",
@@ -3176,8 +3218,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 558,
       "user": "gnipbao"
+    },
+    {
+      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "published_at": "2026-07-20T17:13:15Z",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
+      "source": "GitHub",
+      "stars": 364,
+      "user": "CatsJuice"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -3195,21 +3252,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "url": "https://github.com/CatsJuice/sticker-forge",
-      "published_at": "2026-07-20T17:13:15Z",
-      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "CatsJuice"
-    },
-    {
       "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
       "url": "https://github.com/lyu0805/OpenBrowser",
       "published_at": "2026-07-19T10:41:16Z",
@@ -3221,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 281,
       "user": "lyu0805"
     },
     {
@@ -3236,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "joeseesun"
     },
     {
@@ -3251,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2272,
+      "stars": 2275,
       "user": "lopopolo"
     },
     {
@@ -3266,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1233,
       "user": "andrewyng"
     },
     {
@@ -3281,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 656,
       "user": "powerycy"
     },
     {
@@ -3300,34 +3342,19 @@
       "user": "xiejunjie524"
     },
     {
-      "title": "Icex0/wp2shell-poc - wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-      "url": "https://github.com/Icex0/wp2shell-poc",
-      "published_at": "2026-07-17T20:18:33Z",
-      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "published_at": "2026-07-20T14:23:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99045665?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "Icex0"
-    },
-    {
-      "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "published_at": "2026-07-17T04:58:22Z",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79095297?v=4",
-      "source": "GitHub",
-      "stars": 1072,
-      "user": "nethical6"
+      "stars": 341,
+      "user": "AdelanSoulX"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -3371,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "MobAI-App"
     },
     {
@@ -3390,19 +3417,19 @@
       "user": "0xtbug"
     },
     {
-      "title": "nyblnet/bento - GitHub Repository",
-      "url": "https://github.com/nyblnet/bento",
-      "published_at": "2026-07-17T16:55:09Z",
-      "description": "Trending GitHub Repository",
+      "title": "2921323707/CPA_Orbit - From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
+      "url": "https://github.com/2921323707/CPA_Orbit",
+      "published_at": "2026-07-18T15:42:12Z",
+      "description": "From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306268465?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "source": "GitHub",
-      "stars": 1073,
-      "user": "nyblnet"
+      "stars": 56,
+      "user": "2921323707"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3416,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 934,
       "user": "Vincentwei1021"
     },
     {
@@ -3431,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 827,
       "user": "Jakubantalik"
     },
     {
@@ -3446,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "pireel"
     },
     {
@@ -3465,34 +3492,19 @@
       "user": "0xhype"
     },
     {
-      "title": "yc-duan/fastctx - Fast, context-efficient repository tools for AI agents (MCP)",
-      "url": "https://github.com/yc-duan/fastctx",
-      "published_at": "2026-07-17T03:05:57Z",
-      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205539026?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "yc-duan"
-    },
-    {
-      "title": "cursor/minisqlite - GitHub Repository",
-      "url": "https://github.com/cursor/minisqlite",
-      "published_at": "2026-07-17T07:41:30Z",
+      "title": "rjx18/codor - GitHub Repository",
+      "url": "https://github.com/rjx18/codor",
+      "published_at": "2026-07-19T15:09:48Z",
       "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126759922?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 189,
-      "user": "cursor"
+      "stars": 216,
+      "user": "rjx18"
     },
     {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
@@ -3506,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "steelbrain"
     },
     {
@@ -3540,20 +3552,50 @@
       "user": "duxweb"
     },
     {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "published_at": "2026-07-23T17:07:35.000Z",
-      "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "neural-maze"
+    },
+    {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "Evokoa"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "published_at": "2026-07-24T01:00:00.000Z",
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "tags": [
+        "Security",
         "AI",
-        "Media & Entertainment",
-        "Startups",
-        "AI audio",
-        "AI image"
+        "hackers",
+        "hacking",
+        "bugs"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
