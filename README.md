@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-24 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-25 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -115,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 19 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
 | 20 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
 
-<sub>Last fetched: Fri, 24 Jul 2026 23:07:06 CAT</sub>
+<sub>Last fetched: Sat, 25 Jul 2026 00:19:45 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the median of two sorted arrays**
+**1. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-**3. `Python` — Implement a context manager using __enter__ and __exit__**
+**3. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -167,8 +167,8 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 77 | 42.1% | `████████████████████` |
-| **Tools** | 42 | 23.0% | `███████████░░░░░░░░░` |
-| **JavaScript** | 38 | 20.8% | `██████████░░░░░░░░░░` |
+| **Tools** | 41 | 22.4% | `███████████░░░░░░░░░` |
+| **JavaScript** | 37 | 20.2% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
@@ -196,11 +196,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.8%
-JavaScript      █████████████████████████ 25.2%
-Python          █████████████████████ 20.5%
-Java            ██████████████████ 17.9%
-Rust            █████ 4.6%
+Go              ██████████████████████████████ 30.3%
+JavaScript      ████████████████████████ 24.3%
+Python          ████████████████████ 20.4%
+Java            ██████████████████ 17.8%
+Rust            █████ 5.3%
 Swift           █ 1.3%
 Kotlin          █ 0.7%
 
@@ -208,11 +208,11 @@ Kotlin          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 45
-    "JavaScript" : 38
+    "Go" : 46
+    "JavaScript" : 37
     "Python" : 31
     "Java" : 27
-    "Rust" : 7
+    "Rust" : 8
     "Swift" : 2
     "Kotlin" : 1
 ```
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 24 Jul 2026 21:07:06 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 24 Jul 2026 22:19:45 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

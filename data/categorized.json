@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1399,
+      "stars": 1406,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "steelbrain"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 118,
       "user": "neural-maze"
     },
     {
@@ -841,18 +841,6 @@
       "user": "Evokoa"
     },
     {
-      "title": "You should selfhost your mail (in 2026)",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "published_at": "2026-07-23T16:10:09.035-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "email"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cinemast"
-    },
-    {
       "title": "Open Weights and American AI Leadership",
       "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
       "published_at": "2026-07-24T09:01:24.514-05:00",
@@ -865,10 +853,22 @@
       "user": "stick"
     },
     {
+      "title": "You should selfhost your mail (in 2026)",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "published_at": "2026-07-23T16:10:09.035-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "email"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cinemast"
+    },
+    {
       "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
       "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
       "published_at": "2026-07-24T16:27:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "huggingface",
@@ -911,6 +911,38 @@
       "user": "ZS6HJH"
     },
     {
+      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+      "published_at": "2026-07-24T22:10:00.000Z",
+      "description": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+      "tags": [
+        "Startups",
+        "Fintech",
+        "TechCrunch Disrupt",
+        "Robinhood",
+        "Plaid"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+      "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+      "published_at": "2026-07-24T21:15:00.000Z",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "evergreens",
+        "social media bans"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "published_at": "2026-07-24T18:07:32.000Z",
@@ -932,9 +964,8 @@
       "published_at": "2026-07-24T17:53:30.000Z",
       "description": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
       "tags": [
-        "Security",
         "Government & Policy",
-        "privacy",
+        "Security",
         "cybersecurity",
         "us border"
       ],
@@ -950,8 +981,8 @@
       "tags": [
         "Fundraising",
         "anduril",
-        "Palmer Luckey",
-        "defense tech"
+        "defense tech",
+        "Palmer Luckey"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -998,33 +1029,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "OpenAI&#8217;s own model went rogue before Kimi had Wall Street sweating",
-      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "published_at": "2026-07-24T16:50:08.000Z",
-      "description": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to ",
-      "tags": [
-        "tech",
-        "startup"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Sam Altman&#8217;s biometric startup World raises $52.5M via crypto sale",
-      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "published_at": "2026-07-24T16:11:56.000Z",
-      "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "tags": [
-        "Crypto",
-        "World",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -1279,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "CatsJuice"
     },
     {
@@ -1354,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1399,
+      "stars": 1406,
       "user": "Vincentwei1021"
     },
     {
@@ -1369,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "Jakubantalik"
     },
     {
@@ -1384,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "pireel"
     },
     {
@@ -1414,14 +1418,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "RongleCat"
     },
     {
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "python",
@@ -1580,19 +1584,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user22099079"
-    },
-    {
-      "title": "OpenAI&#8217;s own model went rogue before Kimi had Wall Street sweating",
-      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "published_at": "2026-07-24T16:50:08.000Z",
-      "description": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to ",
-      "tags": [
-        "tech",
-        "startup"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -1848,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3265,
+      "stars": 3310,
       "user": "andrewyng"
     },
     {
@@ -1863,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2316,
+      "stars": 2320,
       "user": "lopopolo"
     },
     {
@@ -1915,7 +1906,7 @@
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "python",
@@ -1929,7 +1920,7 @@
       "title": "How to perform an inner join in psycopg using a variable to join on",
       "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
       "published_at": "2026-07-24T19:17:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -1944,7 +1935,7 @@
       "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
       "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
       "published_at": "2026-07-24T16:27:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "huggingface",
@@ -2252,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 118,
       "user": "neural-maze"
     }
   ],
@@ -2311,7 +2302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "pireel"
     },
     {
@@ -2777,14 +2768,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 118,
       "user": "neural-maze"
     },
     {
       "title": "How to perform an inner join in psycopg using a variable to join on",
       "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
       "published_at": "2026-07-24T19:17:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -3012,9 +3003,8 @@
       "published_at": "2026-07-24T17:53:30.000Z",
       "description": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
       "tags": [
-        "Security",
         "Government & Policy",
-        "privacy",
+        "Security",
         "cybersecurity",
         "us border"
       ],
@@ -3192,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "CatsJuice"
     },
     {
@@ -3252,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3265,
+      "stars": 3310,
       "user": "andrewyng"
     },
     {
@@ -3267,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2316,
+      "stars": 2320,
       "user": "lopopolo"
     },
     {
@@ -3342,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "paxlabs-inc"
     },
     {
@@ -3402,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1399,
+      "stars": 1406,
       "user": "Vincentwei1021"
     },
     {
@@ -3417,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "Jakubantalik"
     },
     {
@@ -3432,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "pireel"
     },
     {
@@ -3462,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "RongleCat"
     },
     {
@@ -3477,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "steelbrain"
     },
     {
@@ -3522,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 118,
       "user": "neural-maze"
     },
     {
@@ -3563,20 +3553,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Sam Altman&#8217;s biometric startup World raises $52.5M via crypto sale",
-      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "published_at": "2026-07-24T16:11:56.000Z",
-      "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "tags": [
-        "Crypto",
-        "World",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
