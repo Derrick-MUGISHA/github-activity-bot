@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-24 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-24 13:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -115,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 19 | [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh) | Dev.to |
 | 20 | [4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI](https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6) | Dev.to |
 
-<sub>Last fetched: Fri, 24 Jul 2026 11:43:50 CAT</sub>
+<sub>Last fetched: Fri, 24 Jul 2026 13:29:56 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain decorators in Python with an example**
+**1. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**2. `SystemDesign` — Design Twitter's timeline feature**
+**2. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Heap, stack, garbage collection
 
 </details>
 
-**3. `Python` — What is the difference between list and tuple in Python?**
+**3. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Ownership, mutability, data flow direction
 
 </details>
 
@@ -166,16 +166,16 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 72 | 39.1% | `████████████████████` |
-| **Tools** | 38 | 20.7% | `███████████░░░░░░░░░` |
-| **JavaScript** | 34 | 18.5% | `█████████░░░░░░░░░░░` |
+| **AI** | 73 | 39.7% | `████████████████████` |
+| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.0% | `██████████░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -196,12 +196,12 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.4%
-JavaScript      ██████████████████████████ 23.3%
-Python          █████████████████████████ 22.6%
-Java            ███████████████████ 17.8%
+Go              ██████████████████████████████ 26.9%
+JavaScript      ███████████████████████████ 24.1%
+Python          █████████████████████████ 22.8%
+Java            ████████████████████ 17.9%
 Rust            ██████ 5.5%
-Swift           ██ 2.1%
+Swift           ██ 1.4%
 PHP             █ 0.7%
 Ruby            █ 0.7%
 
@@ -209,12 +209,12 @@ Ruby            █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 40
-    "JavaScript" : 34
+    "Go" : 39
+    "JavaScript" : 35
     "Python" : 33
     "Java" : 26
     "Rust" : 8
-    "Swift" : 3
+    "Swift" : 2
     "PHP" : 1
     "Ruby" : 1
 ```
@@ -274,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 24 Jul 2026 09:43:50 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 24 Jul 2026 11:29:56 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
