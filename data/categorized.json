@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1349,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 916,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 705,
       "user": "pireel"
     },
     {
@@ -822,8 +822,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 112,
       "user": "neural-maze"
+    },
+    {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 106,
+      "user": "Evokoa"
     },
     {
       "title": "You should selfhost your mail (in 2026)",
@@ -838,32 +853,181 @@
       "user": "cinemast"
     },
     {
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "published_at": "2026-07-22T20:04:08.424-05:00",
+      "title": "Open Weights and American AI Leadership",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+      "published_at": "2026-07-24T09:01:24.514-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "vibecoding"
+        "ai"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "user": "stick"
     },
     {
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
       "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
       "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
-        "html",
-        "reactjs",
         "node.js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "creative AR Tech"
+    },
+    {
+      "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
+      "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
+      "published_at": "2026-07-24T16:27:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "huggingface",
+        "llama-index",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RF2"
+    },
+    {
+      "title": "ID switching and changing while tracking people in a cctv retail store footage",
+      "url": "https://stackoverflow.com/questions/79985609/id-switching-and-changing-while-tracking-people-in-a-cctv-retail-store-footage",
+      "published_at": "2026-07-24T15:54:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "video",
+        "object-detection",
+        "yolov8"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayoub Jeribi"
+    },
+    {
+      "title": "nRF24L01 Python (Luckfox Pico / Linux SPI) throwing MAX_RT / failing to communicate with ESP32 receiver nRF24L01",
+      "url": "https://stackoverflow.com/questions/79985596/nrf24l01-python-luckfox-pico-linux-spi-throwing-max-rt-failing-to-communic",
+      "published_at": "2026-07-24T15:05:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "embedded-linux",
+        "spi",
+        "radio-transmission",
+        "rockchip"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ZS6HJH"
+    },
+    {
+      "title": "India&#8217;s move against Jack Dorsey&#8217;s Bitchat sparks legal debate",
+      "url": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
+      "published_at": "2026-07-24T16:54:58.000Z",
+      "description": "The offline messaging app surged in popularity in India amid protests in New Delhi.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "Bitchat",
+        "jack dorsey"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "OpenAI&#8217;s own model went rogue before Kimi had Wall Street sweating",
+      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "published_at": "2026-07-24T16:50:08.000Z",
+      "description": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to ",
+      "tags": [
+        "tech",
+        "startup"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Sam Altman&#8217;s biometric startup World raises $52.5M via crypto sale",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "published_at": "2026-07-24T16:11:56.000Z",
+      "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
+      "tags": [
+        "Crypto",
+        "crypto",
+        "sam altman",
+        "World",
+        "Worldcoin"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "published_at": "2026-07-24T15:51:49.000Z",
+      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Hugging Face",
+        "Microsoft",
+        "mistral"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Rivian sues the US government for &#8216;full refund&#8217; of Trump tariffs",
+      "url": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
+      "published_at": "2026-07-24T15:16:31.000Z",
+      "description": "The automaker joins a long line of companies seeking such refunds. In April, Rivian CFO Claire McDonough said she expected the company stood to reap a refund in the \"tens of millions of dollars.\"",
+      "tags": [
+        "Transportation",
+        "Exclusive",
+        "Rivian"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "published_at": "2026-07-24T15:13:57.000Z",
+      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "published_at": "2026-07-24T15:09:55.000Z",
+      "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "tags": [
+        "AI",
+        "In Brief",
+        "MidJourney"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
@@ -895,63 +1059,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "published_at": "2026-07-23T22:40:08.000Z",
-      "description": "Shashua has been invited to take the chairman of the board seat.",
-      "tags": [
-        "Transportation",
-        "In Brief",
-        "Mobileye"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "published_at": "2026-07-23T20:33:02.000Z",
-      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "tags": [
-        "AI",
-        "amd",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Patreon lays off 20% of its workforce",
-      "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-      "published_at": "2026-07-23T20:30:07.000Z",
-      "description": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
-      "tags": [
-        "Apps",
-        "Layoffs",
-        "Patreon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "published_at": "2026-07-23T20:13:24.000Z",
-      "description": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "corgi"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
@@ -1191,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 604,
       "user": "gnipbao"
     },
     {
@@ -1206,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 514,
       "user": "CatsJuice"
     },
     {
@@ -1236,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "lyu0805"
     },
     {
@@ -1251,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "joeseesun"
     },
     {
@@ -1266,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 415,
       "user": "Charles-0509"
     },
     {
@@ -1281,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1349,
       "user": "Vincentwei1021"
     },
     {
@@ -1296,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 916,
       "user": "Jakubantalik"
     },
     {
@@ -1311,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 705,
       "user": "pireel"
     },
     {
@@ -1330,25 +1437,41 @@
       "user": "0xhype"
     },
     {
-      "title": "rjx18/codor - GitHub Repository",
-      "url": "https://github.com/rjx18/codor",
-      "published_at": "2026-07-19T15:09:48Z",
-      "description": "Trending GitHub Repository",
+      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "url": "https://github.com/RongleCat/grok-app",
+      "published_at": "2026-07-23T16:43:40Z",
+      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 221,
-      "user": "rjx18"
+      "stars": 226,
+      "user": "RongleCat"
+    },
+    {
+      "title": "jquery.ripples causes random glitches after running for some time",
+      "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
+      "published_at": "2026-07-24T15:12:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "reactjs",
+        "next.js",
+        "webgl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ss511"
     },
     {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -1375,15 +1498,27 @@
       "user": "Pete"
     },
     {
+      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
+      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
+      "published_at": "2026-07-24T12:00:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "jsx"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eskimopest"
+    },
+    {
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
       "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
       "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
-        "html",
-        "reactjs",
         "node.js"
       ],
       "cover_image": null,
@@ -1465,36 +1600,6 @@
       "user": "Ben Roriz-Dasilva"
     },
     {
-      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
-      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
-      "published_at": "2026-07-23T10:14:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "excel",
-        "type-conversion",
-        "exceljs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user31009838"
-    },
-    {
-      "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
-      "url": "https://stackoverflow.com/questions/79983985/need-help-in-419-token-mismatch-in-laravel-sanctum-spa",
-      "published_at": "2026-07-22T21:49:47.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "php",
-        "csrf-token"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Syed Muhammad Irtaza"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -1508,6 +1613,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user22099079"
+    },
+    {
+      "title": "OpenAI&#8217;s own model went rogue before Kimi had Wall Street sweating",
+      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "published_at": "2026-07-24T16:50:08.000Z",
+      "description": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to ",
+      "tags": [
+        "tech",
+        "startup"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
     },
     {
       "title": "How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers",
@@ -1734,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2892,
+      "stars": 3070,
       "user": "andrewyng"
     },
     {
@@ -1749,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2310,
+      "stars": 2311,
       "user": "lopopolo"
     },
     {
@@ -1764,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 795,
       "user": "powerycy"
     },
     {
@@ -1794,16 +1912,78 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 379,
       "user": "berabuddies"
+    },
+    {
+      "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
+      "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
+      "published_at": "2026-07-24T16:27:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "huggingface",
+        "llama-index",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RF2"
+    },
+    {
+      "title": "Using the Pynput Listener and Key Pressing for the Numpad on Linux?",
+      "url": "https://stackoverflow.com/questions/79985612/using-the-pynput-listener-and-key-pressing-for-the-numpad-on-linux",
+      "published_at": "2026-07-24T16:02:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pynput",
+        "numpad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "paush"
+    },
+    {
+      "title": "ID switching and changing while tracking people in a cctv retail store footage",
+      "url": "https://stackoverflow.com/questions/79985609/id-switching-and-changing-while-tracking-people-in-a-cctv-retail-store-footage",
+      "published_at": "2026-07-24T15:54:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "video",
+        "object-detection",
+        "yolov8"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayoub Jeribi"
+    },
+    {
+      "title": "nRF24L01 Python (Luckfox Pico / Linux SPI) throwing MAX_RT / failing to communicate with ESP32 receiver nRF24L01",
+      "url": "https://stackoverflow.com/questions/79985596/nrf24l01-python-luckfox-pico-linux-spi-throwing-max-rt-failing-to-communic",
+      "published_at": "2026-07-24T15:05:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "embedded-linux",
+        "spi",
+        "radio-transmission",
+        "rockchip"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ZS6HJH"
     },
     {
       "title": "Sending android Notifications in python flet",
       "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
       "published_at": "2026-07-24T14:25:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "python"
+        "python",
+        "flet"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1825,19 +2005,6 @@
       "user": "user22099079"
     },
     {
-      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
-      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
-      "published_at": "2026-07-24T09:02:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "gekko"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JacquesStrydom"
-    },
-    {
       "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
       "url": "https://stackoverflow.com/questions/79985434/selenium-wire-post-request-returns-403-forbidden-although-cookies-csrf-token",
       "published_at": "2026-07-24T05:34:17.000Z",
@@ -1850,6 +2017,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SMM"
+    },
+    {
+      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
+      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
+      "published_at": "2026-07-24T09:02:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "gekko"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JacquesStrydom"
     },
     {
       "title": "What is best practice for preventing a class attribute from becoming stale data?",
@@ -1875,64 +2055,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Γιάννης Σωτήρχος"
-    },
-    {
-      "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
-      "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
-      "published_at": "2026-07-23T15:47:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "multiprocessing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Skadi Grossberndt"
-    },
-    {
-      "title": "How can I directly declare Unicode rather than finding a string to encode?",
-      "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
-      "published_at": "2026-07-23T01:35:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "unicode",
-        "decode",
-        "encode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xianzhe Meng"
-    },
-    {
-      "title": "How do I prevent redaction rectangles from removing surrounding text?",
-      "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
-      "published_at": "2026-07-23T09:38:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "pymupdf",
-        "redaction"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mortalmuffin"
-    },
-    {
-      "title": "Conway's Game of Life: How can we colour the cells based on number of neighbours? (change number of neighbours to age of cells)",
-      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-can-we-colour-the-cells-based-on-number-of-neighbours",
-      "published_at": "2026-07-22T02:53:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 8",
-      "tags": [
-        "python",
-        "matplotlib",
-        "dynamic",
-        "colors",
-        "matplotlib-animation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bill Kerr"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2143,7 +2265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 112,
       "user": "neural-maze"
     },
     {
@@ -2216,14 +2338,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 705,
       "user": "pireel"
     },
     {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -2234,22 +2356,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavik Gedia"
-    },
-    {
-      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
-      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
-      "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "html",
-        "reactjs",
-        "node.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "creative AR Tech"
     },
     {
       "title": "Attempting to hide a video element once it finishes playing",
@@ -2341,7 +2447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "MobAI-App"
     },
     {
@@ -2378,42 +2484,14 @@
       "title": "Sending android Notifications in python flet",
       "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
       "published_at": "2026-07-24T14:25:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "python"
+        "python",
+        "flet"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ahmed"
-    },
-    {
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "published_at": "2026-07-23T22:40:08.000Z",
-      "description": "Shashua has been invited to take the chairman of the board seat.",
-      "tags": [
-        "Transportation",
-        "In Brief",
-        "Mobileye"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "published_at": "2026-07-23T20:33:02.000Z",
-      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "tags": [
-        "AI",
-        "amd",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
@@ -2699,7 +2777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 379,
       "user": "berabuddies"
     },
     {
@@ -2729,7 +2807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 112,
       "user": "neural-maze"
     }
   ],
@@ -2893,7 +2971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 415,
       "user": "Charles-0509"
     },
     {
@@ -3097,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 604,
       "user": "gnipbao"
     },
     {
@@ -3112,7 +3190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 514,
       "user": "CatsJuice"
     },
     {
@@ -3142,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "lyu0805"
     },
     {
@@ -3157,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "joeseesun"
     },
     {
@@ -3172,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2892,
+      "stars": 3070,
       "user": "andrewyng"
     },
     {
@@ -3187,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2310,
+      "stars": 2311,
       "user": "lopopolo"
     },
     {
@@ -3202,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 795,
       "user": "powerycy"
     },
     {
@@ -3232,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 379,
       "user": "berabuddies"
     },
     {
@@ -3247,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 415,
       "user": "Charles-0509"
     },
     {
@@ -3277,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "MobAI-App"
     },
     {
@@ -3322,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1349,
       "user": "Vincentwei1021"
     },
     {
@@ -3337,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 916,
       "user": "Jakubantalik"
     },
     {
@@ -3352,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 705,
       "user": "pireel"
     },
     {
@@ -3371,19 +3449,19 @@
       "user": "0xhype"
     },
     {
-      "title": "rjx18/codor - GitHub Repository",
-      "url": "https://github.com/rjx18/codor",
-      "published_at": "2026-07-19T15:09:48Z",
-      "description": "Trending GitHub Repository",
+      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "url": "https://github.com/RongleCat/grok-app",
+      "published_at": "2026-07-23T16:43:40Z",
+      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 221,
-      "user": "rjx18"
+      "stars": 226,
+      "user": "RongleCat"
     },
     {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
@@ -3412,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "vncsmnl"
     },
     {
@@ -3442,23 +3520,54 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 112,
       "user": "neural-maze"
     },
     {
-      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
-      "published_at": "2026-07-23T09:43:07Z",
-      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
       "stars": 106,
-      "user": "rrrjqy66"
+      "user": "Evokoa"
+    },
+    {
+      "title": "Sam Altman&#8217;s biometric startup World raises $52.5M via crypto sale",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "published_at": "2026-07-24T16:11:56.000Z",
+      "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
+      "tags": [
+        "Crypto",
+        "crypto",
+        "sam altman",
+        "World",
+        "Worldcoin"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "published_at": "2026-07-24T15:13:57.000Z",
+      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
