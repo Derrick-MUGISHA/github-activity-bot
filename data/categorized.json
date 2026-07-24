@@ -121,21 +121,6 @@
       "user": "xbill"
     },
     {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "tags": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
       "published_at": "2026-07-21T16:31:50Z",
@@ -329,6 +314,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm3du9uxgsk71qsk0vgyp.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
+      "published_at": "2026-07-20T14:05:39Z",
+      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "tags": [
+        "discuss",
+        "management",
+        "codequality",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1371,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 919,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "pireel"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "neural-maze"
     },
     {
@@ -926,6 +926,79 @@
       "user": "ZS6HJH"
     },
     {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "published_at": "2026-07-24T18:07:32.000Z",
+      "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "AI agents",
+        "cognition"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "US accuses American of allegedly wiping his phone using a &#8216;duress&#8217; password during border search",
+      "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+      "published_at": "2026-07-24T17:53:30.000Z",
+      "description": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
+      "tags": [
+        "Government & Policy",
+        "Security",
+        "cybersecurity",
+        "privacy",
+        "us border"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year&#8217;s mark",
+      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+      "published_at": "2026-07-24T17:33:19.000Z",
+      "description": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
+      "tags": [
+        "Fundraising",
+        "anduril",
+        "defense tech",
+        "Palmer Luckey"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+      "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "published_at": "2026-07-24T17:00:00.000Z",
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "tags": [
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "published_at": "2026-07-24T17:00:00.000Z",
+      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Opus"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "India&#8217;s move against Jack Dorsey&#8217;s Bitchat sparks legal debate",
       "url": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
       "published_at": "2026-07-24T16:54:58.000Z",
@@ -961,10 +1034,8 @@
       "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
       "tags": [
         "Crypto",
-        "crypto",
         "sam altman",
-        "World",
-        "Worldcoin"
+        "World"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1001,64 +1072,17 @@
       "user": "Sean O'Kane"
     },
     {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "published_at": "2026-07-24T15:13:57.000Z",
-      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
+      "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
+      "published_at": "2026-07-24T15:44:48.000Z",
+      "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
       "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Bluesky"
+        "ai-agent",
+        "AI"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "published_at": "2026-07-24T15:09:55.000Z",
-      "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "tags": [
-        "AI",
-        "In Brief",
-        "MidJourney"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "published_at": "2026-07-24T13:36:42.000Z",
-      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "In Brief",
-        "OpenAI",
-        "voice mode"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "published_at": "2026-07-24T01:00:00.000Z",
-      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "tags": [
-        "AI",
-        "Security",
-        "cybersecurity",
-        "Zero-days"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
@@ -1118,21 +1142,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Shubham Katara"
-    },
-    {
-      "title": "What Is HyDE? How to Improve RAG with Hypothetical Documents",
-      "url": "https://www.freecodecamp.org/news/what-is-hyde-how-to-improve-rag-with-hypothetical-documents/",
-      "published_at": "2026-07-22T21:32:17.000Z",
-      "description": "Retrieval-Augmented Generation, commonly known as RAG, has become one of the most widely used approaches for building applications with large language models. Instead of asking an LLM to answer entire",
-      "tags": [
-        "RAG",
-        "AI",
-        "ai agents",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Sameer Shukla"
     }
   ],
   "JavaScript": [
@@ -1313,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "CatsJuice"
     },
     {
@@ -1328,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "Kritt-ai"
     },
     {
@@ -1343,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "lyu0805"
     },
     {
@@ -1373,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 420,
       "user": "Charles-0509"
     },
     {
@@ -1388,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1371,
       "user": "Vincentwei1021"
     },
     {
@@ -1403,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 919,
       "user": "Jakubantalik"
     },
     {
@@ -1418,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "pireel"
     },
     {
@@ -1448,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 232,
       "user": "RongleCat"
     },
     {
@@ -1460,12 +1469,39 @@
         "javascript",
         "jquery",
         "reactjs",
-        "next.js",
         "webgl"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ss511"
+    },
+    {
+      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
+      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
+      "published_at": "2026-07-24T12:00:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "jsx"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eskimopest"
+    },
+    {
+      "title": "lit removing conditional checked attribute from radio",
+      "url": "https://stackoverflow.com/questions/79985539/lit-removing-conditional-checked-attribute-from-radio",
+      "published_at": "2026-07-24T12:02:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "vite",
+        "lit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pete"
     },
     {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
@@ -1484,34 +1520,6 @@
       "user": "Bhavik Gedia"
     },
     {
-      "title": "lit removing conditional checked attribute from radio",
-      "url": "https://stackoverflow.com/questions/79985539/lit-removing-conditional-checked-attribute-from-radio",
-      "published_at": "2026-07-24T12:02:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "vite",
-        "lit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pete"
-    },
-    {
-      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
-      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
-      "published_at": "2026-07-24T12:00:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "jsx"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eskimopest"
-    },
-    {
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
       "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
       "published_at": "2026-07-24T10:18:31.000Z",
@@ -1524,6 +1532,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "creative AR Tech"
+    },
+    {
+      "title": "Tree Shaking / Minifying Firebase using esbuild",
+      "url": "https://stackoverflow.com/questions/79984376/tree-shaking-minifying-firebase-using-esbuild",
+      "published_at": "2026-07-23T23:28:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "esbuild",
+        "tree-shaking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeremy Krolik"
     },
     {
       "title": "Attempting to hide a video element once it finishes playing",
@@ -1586,20 +1609,6 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -1626,6 +1635,19 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Build Bulletproof APIs using TypeScript in Express",
+      "url": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
+      "published_at": "2026-07-24T14:24:13.000Z",
+      "description": "If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our",
+      "tags": [
+        "TypeScript",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers",
@@ -1852,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3149,
       "user": "andrewyng"
     },
     {
@@ -1867,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2313,
       "user": "lopopolo"
     },
     {
@@ -1882,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 798,
       "user": "powerycy"
     },
     {
@@ -1912,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "berabuddies"
     },
     {
@@ -2071,20 +2093,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chudi Nnorukam"
-    },
-    {
-      "title": "How Programmatic Advertising Works",
-      "url": "https://www.freecodecamp.org/news/how-programmatic-advertising-works/",
-      "published_at": "2026-07-22T22:37:11.000Z",
-      "description": "Most tutorials on programmatic advertising stop at the web banner. That's a shame, because the idea gets far more interesting once you follow it off the screen and into the physical world. If you've n",
-      "tags": [
-        "Advertising",
-        "automation",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "DevOps": [
@@ -2265,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "neural-maze"
     },
     {
@@ -2338,7 +2346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "pireel"
     },
     {
@@ -2388,18 +2396,17 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "title": "Build Bulletproof APIs using TypeScript in Express",
+      "url": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
+      "published_at": "2026-07-24T14:24:13.000Z",
+      "description": "If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "TypeScript",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2416,22 +2423,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chudi Nnorukam"
-    },
-    {
-      "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
-      "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
-      "published_at": "2026-07-22T22:36:09.000Z",
-      "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
-      "tags": [
-        "gRPC",
-        "RPC",
-        "Dart",
-        "Flutter",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Mobile": [
@@ -2447,7 +2438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "MobAI-App"
     },
     {
@@ -2494,20 +2485,17 @@
       "user": "ahmed"
     },
     {
-      "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
-      "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
-      "published_at": "2026-07-22T22:36:09.000Z",
-      "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
+      "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
+      "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
+      "published_at": "2026-07-24T15:44:48.000Z",
+      "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
       "tags": [
-        "gRPC",
-        "RPC",
-        "Dart",
-        "Flutter",
-        "Google"
+        "ai-agent",
+        "AI"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
+      "user": "Manish Shivanandhan"
     }
   ],
   "Cloud": [
@@ -2777,7 +2765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "berabuddies"
     },
     {
@@ -2807,8 +2795,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "neural-maze"
+    },
+    {
+      "title": "Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)",
+      "url": "https://www.freecodecamp.org/news/firestore-data-modeling-guide-embedded-documents-vs-referencing-with-a-blog-case-study/",
+      "published_at": "2026-07-24T15:19:10.000Z",
+      "description": "When developers transition from the relational world (MySQL, PostgreSQL) to Firestore, Firebase's NoSQL document database, they often bring their old habits with them. They try to replicate tables, fo",
+      "tags": [
+        "firestore",
+        "Firebase",
+        "NoSQL",
+        "Databases",
+        "Query"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Caleb Mintoumba"
     }
   ],
   "Security": [
@@ -2971,7 +2975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 420,
       "user": "Charles-0509"
     },
     {
@@ -2990,35 +2994,20 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "published_at": "2026-07-24T01:00:00.000Z",
-      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "title": "US accuses American of allegedly wiping his phone using a &#8216;duress&#8217; password during border search",
+      "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+      "published_at": "2026-07-24T17:53:30.000Z",
+      "description": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
       "tags": [
-        "AI",
+        "Government & Policy",
         "Security",
         "cybersecurity",
-        "Zero-days"
+        "privacy",
+        "us border"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
-      "url": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
-      "published_at": "2026-07-22T22:36:09.000Z",
-      "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
-      "tags": [
-        "gRPC",
-        "RPC",
-        "Dart",
-        "Flutter",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3190,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "CatsJuice"
     },
     {
@@ -3205,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "Kritt-ai"
     },
     {
@@ -3220,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "lyu0805"
     },
     {
@@ -3250,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3149,
       "user": "andrewyng"
     },
     {
@@ -3265,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2313,
       "user": "lopopolo"
     },
     {
@@ -3280,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 798,
       "user": "powerycy"
     },
     {
@@ -3310,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "berabuddies"
     },
     {
@@ -3325,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 420,
       "user": "Charles-0509"
     },
     {
@@ -3355,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "MobAI-App"
     },
     {
@@ -3400,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1371,
       "user": "Vincentwei1021"
     },
     {
@@ -3415,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 919,
       "user": "Jakubantalik"
     },
     {
@@ -3430,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "pireel"
     },
     {
@@ -3460,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 232,
       "user": "RongleCat"
     },
     {
@@ -3490,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "vncsmnl"
     },
     {
@@ -3520,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "neural-maze"
     },
     {
@@ -3539,50 +3528,43 @@
       "user": "Evokoa"
     },
     {
+      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+      "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "published_at": "2026-07-24T17:00:00.000Z",
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "tags": [
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Sam Altman&#8217;s biometric startup World raises $52.5M via crypto sale",
       "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
       "published_at": "2026-07-24T16:11:56.000Z",
       "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
       "tags": [
         "Crypto",
-        "crypto",
         "sam altman",
-        "World",
-        "Worldcoin"
+        "World"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
     },
     {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "published_at": "2026-07-24T15:13:57.000Z",
-      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
+      "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
+      "published_at": "2026-07-24T15:44:48.000Z",
+      "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
       "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Bluesky"
+        "ai-agent",
+        "AI"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "published_at": "2026-07-24T01:00:00.000Z",
-      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "tags": [
-        "AI",
-        "Security",
-        "cybersecurity",
-        "Zero-days"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
