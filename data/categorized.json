@@ -31,21 +31,6 @@
       "user": " Gábor Mészáros"
     },
     {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
       "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
       "published_at": "2026-07-20T14:05:39Z",
@@ -132,6 +117,21 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
+      "published_at": "2026-07-21T03:48:40Z",
+      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
+      "tags": [
+        "tpu",
+        "llm",
+        "vllm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "MobAI-App"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "2921323707"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1274,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 899,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "pireel"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "neural-maze"
     },
     {
@@ -853,7 +853,7 @@
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
       "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
       "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "javascript",
@@ -951,22 +951,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "published_at": "2026-07-23T18:38:34.000Z",
-      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "AegisAI",
-        "battery ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
@@ -1206,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "gnipbao"
     },
     {
@@ -1221,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 504,
       "user": "CatsJuice"
     },
     {
@@ -1236,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Kritt-ai"
     },
     {
@@ -1266,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "joeseesun"
     },
     {
@@ -1281,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "Charles-0509"
     },
     {
@@ -1296,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1274,
       "user": "Vincentwei1021"
     },
     {
@@ -1311,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 899,
       "user": "Jakubantalik"
     },
     {
@@ -1326,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "pireel"
     },
     {
@@ -1356,14 +1340,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "rjx18"
+    },
+    {
+      "title": "lit removing conditional checked attribute from radio",
+      "url": "https://stackoverflow.com/questions/79985539/lit-removing-conditional-checked-attribute-from-radio",
+      "published_at": "2026-07-24T12:02:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "vite",
+        "lit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pete"
     },
     {
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
       "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
       "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "javascript",
@@ -1494,25 +1492,10 @@
       "user": "AlanQ"
     },
     {
-      "title": "How to monkey patch Leaflet library?",
-      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
-      "published_at": "2026-07-21T17:37:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "javascript",
-        "leaflet",
-        "vite",
-        "monkeypatching"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "plswork04"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "json",
@@ -1763,7 +1746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2503,
+      "stars": 2655,
       "user": "andrewyng"
     },
     {
@@ -1778,7 +1761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2299,
+      "stars": 2305,
       "user": "lopopolo"
     },
     {
@@ -1793,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 769,
       "user": "powerycy"
     },
     {
@@ -1823,14 +1806,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 372,
       "user": "berabuddies"
     },
     {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "json",
@@ -1858,7 +1841,7 @@
       "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
       "url": "https://stackoverflow.com/questions/79985434/selenium-wire-post-request-returns-403-forbidden-although-cookies-csrf-token",
       "published_at": "2026-07-24T05:34:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "selenium-chromedriver",
@@ -2175,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "neural-maze"
     },
     {
@@ -2248,14 +2231,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "pireel"
     },
     {
       "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
       "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
       "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "javascript",
@@ -2357,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "MobAI-App"
     },
     {
@@ -2437,21 +2420,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
@@ -2539,6 +2507,21 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
+      "published_at": "2026-07-21T03:48:40Z",
+      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
+      "tags": [
+        "tpu",
+        "llm",
+        "vllm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2748,7 +2731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 372,
       "user": "berabuddies"
     },
     {
@@ -2778,7 +2761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "neural-maze"
     }
   ],
@@ -2927,7 +2910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "Charles-0509"
     },
     {
@@ -2959,22 +2942,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "published_at": "2026-07-23T18:38:34.000Z",
-      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "AegisAI",
-        "battery ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
@@ -3147,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "gnipbao"
     },
     {
@@ -3162,7 +3129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 504,
       "user": "CatsJuice"
     },
     {
@@ -3177,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Kritt-ai"
     },
     {
@@ -3207,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "joeseesun"
     },
     {
@@ -3222,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2503,
+      "stars": 2655,
       "user": "andrewyng"
     },
     {
@@ -3237,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2299,
+      "stars": 2305,
       "user": "lopopolo"
     },
     {
@@ -3252,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 769,
       "user": "powerycy"
     },
     {
@@ -3282,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 372,
       "user": "berabuddies"
     },
     {
@@ -3297,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "Charles-0509"
     },
     {
@@ -3327,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "MobAI-App"
     },
     {
@@ -3342,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "2921323707"
     },
     {
@@ -3372,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1274,
       "user": "Vincentwei1021"
     },
     {
@@ -3387,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 899,
       "user": "Jakubantalik"
     },
     {
@@ -3402,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 692,
       "user": "pireel"
     },
     {
@@ -3432,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65652050?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "rjx18"
     },
     {
@@ -3481,6 +3448,21 @@
       "user": "duxweb"
     },
     {
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "neural-maze"
+    },
+    {
       "title": "lanpishu6300/multiraft - Thin Multi-Raft library for matching HA (openraft + openraft-multi).",
       "url": "https://github.com/lanpishu6300/multiraft",
       "published_at": "2026-07-18T14:57:14Z",
@@ -3494,21 +3476,6 @@
       "source": "GitHub",
       "stars": 103,
       "user": "lanpishu6300"
-    },
-    {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
-      "source": "GitHub",
-      "stars": 102,
-      "user": "neural-maze"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
