@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
+    },
+    {
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
+      "published_at": "2026-07-22T22:03:30Z",
+      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
+      "tags": [
+        "ai",
+        "loopengineering",
+        "claude",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 366,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 175,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1202,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 878,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 685,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "steelbrain"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "neural-maze"
     },
     {
@@ -1190,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 592,
       "user": "gnipbao"
     },
     {
@@ -1205,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 489,
       "user": "CatsJuice"
     },
     {
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 366,
       "user": "Kritt-ai"
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 301,
       "user": "lyu0805"
     },
     {
@@ -1250,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "joeseesun"
     },
     {
@@ -1265,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 376,
       "user": "Charles-0509"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1202,
       "user": "Vincentwei1021"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 878,
       "user": "Jakubantalik"
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 685,
       "user": "pireel"
     },
     {
@@ -1325,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 508,
       "user": "0xhype"
     },
     {
@@ -1347,7 +1347,7 @@
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1404,6 +1404,20 @@
       "user": "MatrixRonny"
     },
     {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
       "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
       "published_at": "2026-07-23T10:14:24.000Z",
@@ -1418,20 +1432,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
-    },
-    {
-      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
-      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
-      "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "Need help in 419 token Mismatch in Laravel Sanctum SPA",
@@ -1721,21 +1721,6 @@
       "user": "arathore"
     },
     {
-      "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "published_at": "2026-07-18T21:42:28Z",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
-      "source": "GitHub",
-      "stars": 2292,
-      "user": "lopopolo"
-    },
-    {
       "title": "andrewyng/openworker - GitHub Repository",
       "url": "https://github.com/andrewyng/openworker",
       "published_at": "2026-07-20T01:52:32Z",
@@ -1747,8 +1732,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2097,
+      "stars": 2350,
       "user": "andrewyng"
+    },
+    {
+      "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "published_at": "2026-07-18T21:42:28Z",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
+      "source": "GitHub",
+      "stars": 2298,
+      "user": "lopopolo"
     },
     {
       "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
@@ -1762,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 746,
       "user": "powerycy"
     },
     {
@@ -1777,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "xiejunjie524"
     },
     {
@@ -1792,14 +1792,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 362,
       "user": "AdelanSoulX"
+    },
+    {
+      "title": "How do I get Python GEKKO chemical splittter unit operation to propagate mole fractions from input to output streams?",
+      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splittter-unit-operation-to-propagate-mole-fr",
+      "published_at": "2026-07-24T09:02:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "gekko"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JacquesStrydom"
     },
     {
       "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
       "url": "https://stackoverflow.com/questions/79985434/selenium-wire-post-request-returns-403-forbidden-although-cookies-csrf-token",
       "published_at": "2026-07-24T05:34:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "selenium-chromedriver",
@@ -1813,7 +1826,7 @@
       "title": "What is best practice for preventing a class attribute from becoming stale data?",
       "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
       "published_at": "2026-07-23T22:15:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "best-practices",
         "python"
@@ -1826,7 +1839,7 @@
       "title": "Returning the value of the last expression calculated",
       "url": "https://stackoverflow.com/questions/79984274/returning-the-value-of-the-last-expression-calculated",
       "published_at": "2026-07-23T16:01:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1835,10 +1848,25 @@
       "user": "Γιάννης Σωτήρχος"
     },
     {
+      "title": "How can I directly declare Unicode rather than finding a string to encode?",
+      "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
+      "published_at": "2026-07-23T01:35:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "unicode",
+        "decode",
+        "encode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xianzhe Meng"
+    },
+    {
       "title": "How do I store calculated values for later use from a multiprocessing process in Python?",
       "url": "https://stackoverflow.com/questions/79984264/how-do-i-store-calculated-values-for-later-use-from-a-multiprocessing-process-in",
       "published_at": "2026-07-23T15:47:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "multiprocessing"
@@ -1878,21 +1906,6 @@
       "user": "Bill Kerr"
     },
     {
-      "title": "How can I directly declare Unicode rather than finding a string to encode?",
-      "url": "https://stackoverflow.com/questions/79984022/how-can-i-directly-declare-unicode-rather-than-finding-a-string-to-encode",
-      "published_at": "2026-07-23T01:35:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "unicode",
-        "decode",
-        "encode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xianzhe Meng"
-    },
-    {
       "title": "Can Numba be used on a for loop without using a function?",
       "url": "https://stackoverflow.com/questions/79983833/can-numba-be-used-on-a-for-loop-without-using-a-function",
       "published_at": "2026-07-22T11:16:24.000Z",
@@ -1922,19 +1935,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pink Acorn"
-    },
-    {
-      "title": "How do I use Bearer token with Python requests?",
-      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
-      "published_at": "2026-07-21T14:38:43.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "text-to-speech"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Traci Phillip"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2145,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "neural-maze"
     },
     {
@@ -2218,14 +2218,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 685,
       "user": "pireel"
     },
     {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2255,7 +2255,7 @@
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
       "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
       "published_at": "2026-07-22T17:18:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2327,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 175,
       "user": "MobAI-App"
     },
     {
@@ -2749,7 +2749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "neural-maze"
     }
   ],
@@ -2898,20 +2898,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 376,
       "user": "Charles-0509"
-    },
-    {
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "published_at": "2026-07-22T20:54:48.999-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "trousers"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3146,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 592,
       "user": "gnipbao"
     },
     {
@@ -3161,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 489,
       "user": "CatsJuice"
     },
     {
@@ -3176,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 366,
       "user": "Kritt-ai"
     },
     {
@@ -3191,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 301,
       "user": "lyu0805"
     },
     {
@@ -3206,23 +3194,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "joeseesun"
-    },
-    {
-      "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "published_at": "2026-07-18T21:42:28Z",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
-      "source": "GitHub",
-      "stars": 2292,
-      "user": "lopopolo"
     },
     {
       "title": "andrewyng/openworker - GitHub Repository",
@@ -3236,8 +3209,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 2097,
+      "stars": 2350,
       "user": "andrewyng"
+    },
+    {
+      "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "published_at": "2026-07-18T21:42:28Z",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
+      "source": "GitHub",
+      "stars": 2298,
+      "user": "lopopolo"
     },
     {
       "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
@@ -3251,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 746,
       "user": "powerycy"
     },
     {
@@ -3266,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128920834?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 639,
       "user": "xiejunjie524"
     },
     {
@@ -3281,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 362,
       "user": "AdelanSoulX"
     },
     {
@@ -3296,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 376,
       "user": "Charles-0509"
     },
     {
@@ -3326,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 175,
       "user": "MobAI-App"
     },
     {
@@ -3371,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1202,
       "user": "Vincentwei1021"
     },
     {
@@ -3386,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 878,
       "user": "Jakubantalik"
     },
     {
@@ -3401,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 685,
       "user": "pireel"
     },
     {
@@ -3416,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 508,
       "user": "0xhype"
     },
     {
@@ -3446,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "steelbrain"
     },
     {
@@ -3461,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59481808?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 134,
       "user": "vncsmnl"
     },
     {
@@ -3480,10 +3468,10 @@
       "user": "duxweb"
     },
     {
-      "title": "lanpishu6300/match-rust - Rust dual-track crypto matching engines (Apache-2.0). Companion to lanpishu6300/crypto-exchange.",
-      "url": "https://github.com/lanpishu6300/match-rust",
-      "published_at": "2026-07-18T13:42:43Z",
-      "description": "Rust dual-track crypto matching engines (Apache-2.0). Companion to lanpishu6300/crypto-exchange.",
+      "title": "lanpishu6300/multiraft - Thin Multi-Raft library for matching HA (openraft + openraft-multi).",
+      "url": "https://github.com/lanpishu6300/multiraft",
+      "published_at": "2026-07-18T14:57:14Z",
+      "description": "Thin Multi-Raft library for matching HA (openraft + openraft-multi).",
       "tags": [
         "rust",
         "github",
@@ -3491,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13306065?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "lanpishu6300"
     },
     {
@@ -3506,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "neural-maze"
     },
     {
