@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "Kritt-ai"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1399,
       "user": "Vincentwei1021"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "neural-maze"
     },
     {
@@ -865,27 +865,12 @@
       "user": "stick"
     },
     {
-      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
-      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
-      "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "node.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "creative AR Tech"
-    },
-    {
       "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
       "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
       "published_at": "2026-07-24T16:27:58.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "python-3.x",
         "huggingface",
         "llama-index",
         "rag"
@@ -1042,20 +1027,20 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "published_at": "2026-07-24T15:51:49.000Z",
-      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
+      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
+      "published_at": "2026-07-24T18:30:52.000Z",
+      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
       "tags": [
+        "Node.js",
         "AI",
-        "Government & Policy",
-        "Microsoft",
-        "nvidia",
-        "OpenAI"
+        "JavaScript",
+        "Tutorial",
+        "gemini"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -1114,20 +1099,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chudi Nnorukam"
-    },
-    {
-      "title": "How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand",
-      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/",
-      "published_at": "2026-07-22T23:15:29.000Z",
-      "description": "In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker",
-      "tags": [
-        "Kubernetes",
-        "networking",
-        "cni"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shubham Katara"
     }
   ],
   "JavaScript": [
@@ -1308,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "CatsJuice"
     },
     {
@@ -1323,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "Kritt-ai"
     },
     {
@@ -1383,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1399,
       "user": "Vincentwei1021"
     },
     {
@@ -1450,7 +1421,7 @@
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "python",
@@ -1464,7 +1435,7 @@
       "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
       "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
       "published_at": "2026-07-24T19:06:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -1536,20 +1507,6 @@
       "user": "Bhavik Gedia"
     },
     {
-      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
-      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
-      "published_at": "2026-07-24T10:18:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "node.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "creative AR Tech"
-    },
-    {
       "title": "Tree Shaking / Minifying Firebase using esbuild",
       "url": "https://stackoverflow.com/questions/79984376/tree-shaking-minifying-firebase-using-esbuild",
       "published_at": "2026-07-23T23:28:30.000Z",
@@ -1595,6 +1552,21 @@
       "user": "Justus Foehrkolb"
     },
     {
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
+      "published_at": "2026-07-23T14:31:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "performance",
+        "react-native-flatlist"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testing Tester"
+    },
+    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -1621,6 +1593,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
+      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
+      "published_at": "2026-07-24T18:30:52.000Z",
+      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
+      "tags": [
+        "Node.js",
+        "AI",
+        "JavaScript",
+        "Tutorial",
+        "gemini"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "Build Bulletproof APIs using TypeScript in Express",
@@ -1860,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3215,
+      "stars": 3265,
       "user": "andrewyng"
     },
     {
@@ -1875,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2314,
+      "stars": 2316,
       "user": "lopopolo"
     },
     {
@@ -1927,7 +1915,7 @@
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "python",
@@ -1951,6 +1939,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
+      "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
+      "published_at": "2026-07-24T16:27:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "huggingface",
+        "llama-index",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RF2"
     },
     {
       "title": "How to access QML managed QSlider from PySide?",
@@ -1980,22 +1983,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "paush"
-    },
-    {
-      "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
-      "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
-      "published_at": "2026-07-24T16:27:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "python-3.x",
-        "huggingface",
-        "llama-index",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RF2"
     },
     {
       "title": "ID switching and changing while tracking people in a cctv retail store footage",
@@ -2029,19 +2016,6 @@
       "user": "ZS6HJH"
     },
     {
-      "title": "Sending android Notifications in python flet",
-      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
-      "published_at": "2026-07-24T14:25:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "flet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ahmed"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -2055,6 +2029,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user22099079"
+    },
+    {
+      "title": "Sending android Notifications in python flet",
+      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
+      "published_at": "2026-07-24T14:25:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "flet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ahmed"
     },
     {
       "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
@@ -2265,22 +2252,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "neural-maze"
-    },
-    {
-      "title": "How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand",
-      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/",
-      "published_at": "2026-07-22T23:15:29.000Z",
-      "description": "In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker",
-      "tags": [
-        "Kubernetes",
-        "networking",
-        "cni"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shubham Katara"
     }
   ],
   "WebDev": [
@@ -2345,7 +2318,7 @@
       "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
       "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
       "published_at": "2026-07-24T19:06:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -2448,6 +2421,21 @@
       "source": "GitHub",
       "stars": 184,
       "user": "MobAI-App"
+    },
+    {
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
+      "published_at": "2026-07-23T14:31:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "performance",
+        "react-native-flatlist"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testing Tester"
     },
     {
       "title": "Sending android Notifications in python flet",
@@ -2721,7 +2709,7 @@
       "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
       "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
       "published_at": "2026-07-24T19:06:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -2789,7 +2777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "neural-maze"
     },
     {
@@ -2806,6 +2794,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
+      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
+      "published_at": "2026-07-24T18:30:52.000Z",
+      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
+      "tags": [
+        "Node.js",
+        "AI",
+        "JavaScript",
+        "Tutorial",
+        "gemini"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)",
@@ -3188,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "CatsJuice"
     },
     {
@@ -3203,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "Kritt-ai"
     },
     {
@@ -3248,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3215,
+      "stars": 3265,
       "user": "andrewyng"
     },
     {
@@ -3263,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2314,
+      "stars": 2316,
       "user": "lopopolo"
     },
     {
@@ -3398,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1399,
       "user": "Vincentwei1021"
     },
     {
@@ -3518,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "neural-maze"
     },
     {
@@ -3535,6 +3539,18 @@
       "source": "GitHub",
       "stars": 106,
       "user": "Evokoa"
+    },
+    {
+      "title": "git rebase -i is not that scary",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "published_at": "2026-07-24T12:41:20.428-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
     },
     {
       "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
@@ -3561,6 +3577,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
+    },
+    {
+      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
+      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
+      "published_at": "2026-07-24T18:30:52.000Z",
+      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
+      "tags": [
+        "Node.js",
+        "AI",
+        "JavaScript",
+        "Tutorial",
+        "gemini"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Zia Ullah"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
