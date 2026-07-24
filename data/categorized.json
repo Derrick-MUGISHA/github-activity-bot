@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1391,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 926,
       "user": "Jakubantalik"
     },
     {
@@ -931,11 +931,11 @@
       "published_at": "2026-07-24T18:07:32.000Z",
       "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant",
       "tags": [
-        "AI",
         "Apps",
+        "AI",
         "TC",
-        "AI agents",
-        "cognition"
+        "cognition",
+        "AI agents"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -947,10 +947,10 @@
       "published_at": "2026-07-24T17:53:30.000Z",
       "description": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
       "tags": [
-        "Government & Policy",
         "Security",
-        "cybersecurity",
+        "Government & Policy",
         "privacy",
+        "cybersecurity",
         "us border"
       ],
       "cover_image": null,
@@ -965,8 +965,8 @@
       "tags": [
         "Fundraising",
         "anduril",
-        "defense tech",
-        "Palmer Luckey"
+        "Palmer Luckey",
+        "defense tech"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1004,9 +1004,9 @@
       "published_at": "2026-07-24T16:54:58.000Z",
       "description": "The offline messaging app surged in popularity in India amid protests in New Delhi.",
       "tags": [
-        "Apps",
         "Government & Policy",
         "Social",
+        "Apps",
         "Bitchat",
         "jack dorsey"
       ],
@@ -1034,8 +1034,8 @@
       "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
       "tags": [
         "Crypto",
-        "sam altman",
-        "World"
+        "World",
+        "sam altman"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1049,27 +1049,13 @@
       "tags": [
         "AI",
         "Government & Policy",
-        "Hugging Face",
         "Microsoft",
-        "mistral"
+        "nvidia",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Rivian sues the US government for &#8216;full refund&#8217; of Trump tariffs",
-      "url": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
-      "published_at": "2026-07-24T15:16:31.000Z",
-      "description": "The automaker joins a long line of companies seeking such refunds. In April, Rivian CFO Claire McDonough said she expected the company stood to reap a refund in the \"tens of millions of dollars.\"",
-      "tags": [
-        "Transportation",
-        "Exclusive",
-        "Rivian"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -1307,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "gnipbao"
     },
     {
@@ -1322,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "CatsJuice"
     },
     {
@@ -1382,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "Charles-0509"
     },
     {
@@ -1397,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1391,
       "user": "Vincentwei1021"
     },
     {
@@ -1412,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 926,
       "user": "Jakubantalik"
     },
     {
@@ -1442,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 509,
       "user": "0xhype"
     },
     {
@@ -1457,8 +1443,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 237,
       "user": "RongleCat"
+    },
+    {
+      "title": "Please help me with the design of an Agentic Chatbot System",
+      "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
+      "published_at": "2026-07-24T19:31:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "python",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Major Tom"
+    },
+    {
+      "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
+      "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
+      "published_at": "2026-07-24T19:06:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "cloudinary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rupesh Choudhary"
     },
     {
       "title": "jquery.ripples causes random glitches after running for some time",
@@ -1549,6 +1565,21 @@
       "user": "Jeremy Krolik"
     },
     {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
+    },
+    {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
@@ -1562,51 +1593,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Justus Foehrkolb"
-    },
-    {
-      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
-      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
-      "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "performance",
-        "react-native-flatlist"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testing Tester"
-    },
-    {
-      "title": "dynamic links with expo React Native useAudioPlayer",
-      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
-      "published_at": "2026-07-23T07:49:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "audio",
-        "expo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Singh Jaskeat"
-    },
-    {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
     },
     {
       "title": "How to normalize complex JSON using pandas?",
@@ -1874,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3149,
+      "stars": 3215,
       "user": "andrewyng"
     },
     {
@@ -1889,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2313,
+      "stars": 2314,
       "user": "lopopolo"
     },
     {
@@ -1904,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 799,
       "user": "powerycy"
     },
     {
@@ -1938,20 +1924,48 @@
       "user": "berabuddies"
     },
     {
-      "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
-      "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
-      "published_at": "2026-07-24T16:27:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Please help me with the design of an Agentic Chatbot System",
+      "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
+      "published_at": "2026-07-24T19:31:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
+        "javascript",
         "python",
-        "python-3.x",
-        "huggingface",
-        "llama-index",
-        "rag"
+        "artificial-intelligence"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "RF2"
+      "user": "Major Tom"
+    },
+    {
+      "title": "How to perform an inner join in psycopg using a variable to join on",
+      "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
+      "published_at": "2026-07-24T19:17:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql",
+        "psycopg2",
+        "psycopg3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "How to access QML managed QSlider from PySide?",
+      "url": "https://stackoverflow.com/questions/79985639/how-to-access-qml-managed-qslider-from-pyside",
+      "published_at": "2026-07-24T18:05:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "qml",
+        "pyside",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Basilevs"
     },
     {
       "title": "Using the Pynput Listener and Key Pressing for the Numpad on Linux?",
@@ -1966,6 +1980,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "paush"
+    },
+    {
+      "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
+      "url": "https://stackoverflow.com/questions/79985618/embedding-models-fail-possibly-on-scientific-characters-no-matter-how-the-pdf-is",
+      "published_at": "2026-07-24T16:27:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "huggingface",
+        "llama-index",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RF2"
     },
     {
       "title": "ID switching and changing while tracking people in a cctv retail store footage",
@@ -2039,44 +2069,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SMM"
-    },
-    {
-      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
-      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
-      "published_at": "2026-07-24T09:02:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "gekko"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JacquesStrydom"
-    },
-    {
-      "title": "What is best practice for preventing a class attribute from becoming stale data?",
-      "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
-      "published_at": "2026-07-23T22:15:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
-    },
-    {
-      "title": "Returning the value of the last expression calculated",
-      "url": "https://stackoverflow.com/questions/79984274/returning-the-value-of-the-last-expression-calculated",
-      "published_at": "2026-07-23T16:01:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Γιάννης Σωτήρχος"
     },
     {
       "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
@@ -2350,6 +2342,22 @@
       "user": "pireel"
     },
     {
+      "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
+      "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
+      "published_at": "2026-07-24T19:06:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "cloudinary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rupesh Choudhary"
+    },
+    {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
@@ -2366,6 +2374,21 @@
       "user": "Bhavik Gedia"
     },
     {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
+    },
+    {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
@@ -2379,21 +2402,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Justus Foehrkolb"
-    },
-    {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
     },
     {
       "title": "Build Bulletproof APIs using TypeScript in Express",
@@ -2440,36 +2448,6 @@
       "source": "GitHub",
       "stars": 184,
       "user": "MobAI-App"
-    },
-    {
-      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
-      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
-      "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "performance",
-        "react-native-flatlist"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testing Tester"
-    },
-    {
-      "title": "dynamic links with expo React Native useAudioPlayer",
-      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
-      "published_at": "2026-07-23T07:49:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "audio",
-        "expo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Singh Jaskeat"
     },
     {
       "title": "Sending android Notifications in python flet",
@@ -2738,6 +2716,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
+      "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
+      "published_at": "2026-07-24T19:06:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "cloudinary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rupesh Choudhary"
     }
   ],
   "Database": [
@@ -2797,6 +2791,21 @@
       "source": "GitHub",
       "stars": 113,
       "user": "neural-maze"
+    },
+    {
+      "title": "How to perform an inner join in psycopg using a variable to join on",
+      "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
+      "published_at": "2026-07-24T19:17:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql",
+        "psycopg2",
+        "psycopg3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
     },
     {
       "title": "Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)",
@@ -2975,14 +2984,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "Charles-0509"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2999,10 +3008,10 @@
       "published_at": "2026-07-24T17:53:30.000Z",
       "description": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
       "tags": [
-        "Government & Policy",
         "Security",
-        "cybersecurity",
+        "Government & Policy",
         "privacy",
+        "cybersecurity",
         "us border"
       ],
       "cover_image": null,
@@ -3164,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "gnipbao"
     },
     {
@@ -3179,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "CatsJuice"
     },
     {
@@ -3239,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3149,
+      "stars": 3215,
       "user": "andrewyng"
     },
     {
@@ -3254,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860434?v=4",
       "source": "GitHub",
-      "stars": 2313,
+      "stars": 2314,
       "user": "lopopolo"
     },
     {
@@ -3269,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 799,
       "user": "powerycy"
     },
     {
@@ -3314,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "Charles-0509"
     },
     {
@@ -3389,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1391,
       "user": "Vincentwei1021"
     },
     {
@@ -3404,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 926,
       "user": "Jakubantalik"
     },
     {
@@ -3434,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 509,
       "user": "0xhype"
     },
     {
@@ -3449,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 237,
       "user": "RongleCat"
     },
     {
@@ -3546,8 +3555,8 @@
       "description": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
       "tags": [
         "Crypto",
-        "sam altman",
-        "World"
+        "World",
+        "sam altman"
       ],
       "cover_image": null,
       "source": "TechCrunch",
