@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 700,
       "user": "slvDev"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 501,
       "user": "mikiarlo3"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "iximiuz"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1700,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 979,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 741,
       "user": "pireel"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "steelbrain"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "neural-maze"
     },
     {
@@ -852,14 +852,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 117,
       "user": "Evokoa"
     },
     {
       "title": "Is X_test really unseen data if I split it from the original dataset before training?",
       "url": "https://stackoverflow.com/questions/79985851/is-x-test-really-unseen-data-if-i-split-it-from-the-original-dataset-before-trai",
       "published_at": "2026-07-25T15:02:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "advice",
         "python",
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "CatsJuice"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "zeus-panel"
     },
     {
@@ -1354,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "Charles-0509"
     },
     {
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1700,
       "user": "Vincentwei1021"
     },
     {
@@ -1384,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 979,
       "user": "Jakubantalik"
     },
     {
@@ -1399,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 741,
       "user": "pireel"
     },
     {
@@ -1414,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "0xhype"
     },
     {
@@ -1552,6 +1552,20 @@
       "user": "MatrixRonny"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 29 answers · score 19",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
@@ -1565,20 +1579,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Justus Foehrkolb"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1835,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4535,
+      "stars": 4619,
       "user": "andrewyng"
     },
     {
@@ -1850,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "powerycy"
     },
     {
@@ -1865,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 700,
       "user": "slvDev"
     },
     {
@@ -1880,14 +1880,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 501,
       "user": "mikiarlo3"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "url": "https://github.com/berabuddies/redis-poc",
       "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "tags": [
         "python",
         "github",
@@ -1895,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "berabuddies"
     },
     {
@@ -1916,7 +1916,7 @@
       "title": "Wrapper around generators and lists with list-like interface",
       "url": "https://stackoverflow.com/questions/79985882/wrapper-around-generators-and-lists-with-list-like-interface",
       "published_at": "2026-07-25T16:51:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "generator"
@@ -1929,7 +1929,7 @@
       "title": "Is X_test really unseen data if I split it from the original dataset before training?",
       "url": "https://stackoverflow.com/questions/79985851/is-x-test-really-unseen-data-if-i-split-it-from-the-original-dataset-before-trai",
       "published_at": "2026-07-25T15:02:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "advice",
         "python",
@@ -2234,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "neural-maze"
     }
   ],
@@ -2293,7 +2293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 741,
       "user": "pireel"
     },
     {
@@ -2328,6 +2328,20 @@
       "user": "MatrixRonny"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 29 answers · score 19",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Attempting to hide a video element once it finishes playing",
       "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
       "published_at": "2026-07-23T20:23:40.000Z",
@@ -2341,20 +2355,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Justus Foehrkolb"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2681,7 +2681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "zeus-panel"
     },
     {
@@ -2739,14 +2739,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "zeus-panel"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "url": "https://github.com/berabuddies/redis-poc",
       "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "tags": [
         "python",
         "github",
@@ -2754,7 +2754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "berabuddies"
     },
     {
@@ -2784,7 +2784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "neural-maze"
     },
     {
@@ -3009,7 +3009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "Charles-0509"
     },
     {
@@ -3197,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "CatsJuice"
     },
     {
@@ -3212,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "zeus-panel"
     },
     {
@@ -3257,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4535,
+      "stars": 4619,
       "user": "andrewyng"
     },
     {
@@ -3272,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "powerycy"
     },
     {
@@ -3287,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 700,
       "user": "slvDev"
     },
     {
@@ -3302,14 +3302,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 501,
       "user": "mikiarlo3"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "url": "https://github.com/berabuddies/redis-poc",
       "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "tags": [
         "python",
         "github",
@@ -3317,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "berabuddies"
     },
     {
@@ -3332,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 458,
       "user": "Charles-0509"
     },
     {
@@ -3377,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "iximiuz"
     },
     {
@@ -3407,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1700,
       "user": "Vincentwei1021"
     },
     {
@@ -3422,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 979,
       "user": "Jakubantalik"
     },
     {
@@ -3437,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 741,
       "user": "pireel"
     },
     {
@@ -3452,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "0xhype"
     },
     {
@@ -3482,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "steelbrain"
     },
     {
@@ -3497,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "neural-maze"
     },
     {
@@ -3512,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "rrrjqy66"
     },
     {
@@ -3542,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 117,
       "user": "Evokoa"
     },
     {
