@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-25 6:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-25 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,15 +37,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp" width="200" alt="Investing in multi-agent AI safety research" />
-      <br/>
-      <b>Investing in multi-agent AI safety research</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7mg9mllna3bxhb0zsy.png" width="200" alt="Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…" />
       <br/>
@@ -54,8 +45,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg" width="200" alt="Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP" />
@@ -65,11 +54,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg" width="200" alt="Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP" />
       <br/>
       <b>Teaching Codex to Paint: A Stateful Image-Editing ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp" width="200" alt="Investing in multi-agent AI safety research" />
+      <br/>
+      <b>Investing in multi-agent AI safety research</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,10 +93,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1) | Dev.to |
-| 2 | [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l) | Dev.to |
-| 3 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
-| 4 | [Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn) | Dev.to |
-| 5 | [Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc) | Dev.to |
+| 2 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
+| 3 | [Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn) | Dev.to |
+| 4 | [Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc) | Dev.to |
+| 5 | [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l) | Dev.to |
 | 6 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2) | Dev.to |
 | 7 | [Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback](https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc) | Dev.to |
 | 8 | [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) | Dev.to |
@@ -111,11 +111,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 15 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
 | 16 | [[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini](https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220) | Dev.to |
 | 17 | [Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i) | Dev.to |
-| 18 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
-| 19 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
+| 18 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
+| 19 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
 | 20 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
 
-<sub>Last fetched: Sat, 25 Jul 2026 06:28:29 CAT</sub>
+<sub>Last fetched: Sat, 25 Jul 2026 08:43:15 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**3. `Database` — What is database normalization and denormalization?**
+**3. `DataStructures` — Implement a function to reverse a linked list**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Iterative or recursive, three pointers
 
 </details>
 
@@ -166,11 +166,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.5% | `████████████████████` |
+| **AI** | 77 | 42.1% | `████████████████████` |
 | **Tools** | 41 | 22.4% | `███████████░░░░░░░░░` |
 | **JavaScript** | 38 | 20.8% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 25 Jul 2026 04:28:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 25 Jul 2026 06:43:15 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
