@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Kritt-ai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 579,
       "user": "slvDev"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "MobAI-App"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 61,
       "user": "iximiuz"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1600,
       "user": "Vincentwei1021"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 723,
       "user": "pireel"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "steelbrain"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "neural-maze"
     },
     {
@@ -1009,6 +1009,22 @@
       "user": "Ram Iyer"
     },
     {
+      "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-real-time-object-detection-and-tracking-pipeline-with-ros-2-and-yolov11/",
+      "published_at": "2026-07-25T00:26:13.000Z",
+      "description": "If you've ever tried to build a robotics system that can actually see, track, and respond to the world around it, you know that the hard part isn't training a detection model. The hard part is making",
+      "tags": [
+        "robotics",
+        "YOLO",
+        "Computer Vision",
+        "object detection",
+        "pyhon"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Iyanuoluwa Enoch Oke"
+    },
+    {
       "title": "How to Diagnose Production Bugs When You Can't Reproduce Them Locally",
       "url": "https://www.freecodecamp.org/news/how-to-diagnose-production-bugs-when-you-can-t-reproduce-them-locally/",
       "published_at": "2026-07-24T20:54:36.000Z",
@@ -1100,22 +1116,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
-      "url": "https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/",
-      "published_at": "2026-07-23T16:59:35.000Z",
-      "description": "Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "JavaScript": [
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "gnipbao"
     },
     {
@@ -1296,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 540,
       "user": "CatsJuice"
     },
     {
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 432,
       "user": "zeus-panel"
     },
     {
@@ -1326,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Kritt-ai"
     },
     {
@@ -1341,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 362,
       "user": "melloworchid8rr6g"
     },
     {
@@ -1356,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "Charles-0509"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1600,
       "user": "Vincentwei1021"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "Jakubantalik"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 723,
       "user": "pireel"
     },
     {
@@ -1431,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "RongleCat"
     },
     {
@@ -1447,22 +1447,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Major Tom"
-    },
-    {
-      "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
-      "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
-      "published_at": "2026-07-24T19:06:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "cloudinary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rupesh Choudhary"
     },
     {
       "title": "lit removing conditional checked attribute from radio",
@@ -1567,6 +1551,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Justus Foehrkolb"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 30 answers · score 17",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
@@ -1867,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3798,
+      "stars": 3878,
       "user": "andrewyng"
     },
     {
@@ -1882,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 828,
       "user": "powerycy"
     },
     {
@@ -1897,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 579,
       "user": "slvDev"
     },
     {
@@ -2268,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "neural-maze"
     }
   ],
@@ -2327,24 +2325,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 723,
       "user": "pireel"
-    },
-    {
-      "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
-      "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
-      "published_at": "2026-07-24T19:06:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "cloudinary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rupesh Choudhary"
     },
     {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
@@ -2391,6 +2373,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Justus Foehrkolb"
+    },
+    {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 30 answers · score 17",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
     },
     {
       "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
@@ -2449,7 +2445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "MobAI-App"
     },
     {
@@ -2734,24 +2730,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 432,
       "user": "zeus-panel"
-    },
-    {
-      "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
-      "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
-      "published_at": "2026-07-24T19:06:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "cloudinary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rupesh Choudhary"
     }
   ],
   "Database": [
@@ -2779,7 +2759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 432,
       "user": "zeus-panel"
     },
     {
@@ -2809,7 +2789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "neural-maze"
     },
     {
@@ -3036,7 +3016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "Charles-0509"
     },
     {
@@ -3224,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 617,
       "user": "gnipbao"
     },
     {
@@ -3239,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 540,
       "user": "CatsJuice"
     },
     {
@@ -3254,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 432,
       "user": "zeus-panel"
     },
     {
@@ -3269,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Kritt-ai"
     },
     {
@@ -3284,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 362,
       "user": "melloworchid8rr6g"
     },
     {
@@ -3299,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3798,
+      "stars": 3878,
       "user": "andrewyng"
     },
     {
@@ -3314,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 828,
       "user": "powerycy"
     },
     {
@@ -3329,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 579,
       "user": "slvDev"
     },
     {
@@ -3374,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "Charles-0509"
     },
     {
@@ -3404,8 +3384,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "MobAI-App"
+    },
+    {
+      "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
+      "url": "https://github.com/iximiuz/shellgym",
+      "published_at": "2026-07-23T14:11:41Z",
+      "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "iximiuz"
     },
     {
       "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
@@ -3423,21 +3418,6 @@
       "user": "0xtbug"
     },
     {
-      "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
-      "url": "https://github.com/iximiuz/shellgym",
-      "published_at": "2026-07-23T14:11:41Z",
-      "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "iximiuz"
-    },
-    {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "published_at": "2026-07-19T11:44:41Z",
@@ -3449,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1600,
       "user": "Vincentwei1021"
     },
     {
@@ -3464,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "Jakubantalik"
     },
     {
@@ -3479,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 723,
       "user": "pireel"
     },
     {
@@ -3509,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "RongleCat"
     },
     {
@@ -3524,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "steelbrain"
     },
     {
@@ -3539,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "neural-maze"
     },
     {
@@ -3659,22 +3639,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
-      "url": "https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/",
-      "published_at": "2026-07-23T16:59:35.000Z",
-      "description": "Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ]
 }
