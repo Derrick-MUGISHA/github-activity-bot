@@ -434,21 +434,6 @@
       "user": "Iain Thomson"
     },
     {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
       "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
       "published_at": "2026-07-21T13:00:00Z",
@@ -462,6 +447,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
+      "published_at": "2026-07-08T15:01:47Z",
+      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
+      "source": "Dev.to",
+      "user": "Andrew Bone"
     },
     {
       "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
@@ -521,6 +521,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "published_at": "2026-06-29T20:00:00Z",
+      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
+      "tags": [
+        "aie",
+        "gamedev",
+        "ai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -702,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 379,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 549,
       "user": "slvDev"
     },
     {
@@ -732,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 53,
       "user": "iximiuz"
     },
     {
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1535,
+      "stars": 1575,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 945,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "pireel"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "steelbrain"
     },
     {
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "neural-maze"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "QW-AI-Code"
     },
     {
@@ -869,21 +884,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RF2"
-    },
-    {
-      "title": "ID switching and changing while tracking people in a cctv retail store footage",
-      "url": "https://stackoverflow.com/questions/79985609/id-switching-and-changing-while-tracking-people-in-a-cctv-retail-store-footage",
-      "published_at": "2026-07-24T15:54:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "video",
-        "object-detection",
-        "yolov8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayoub Jeribi"
     },
     {
       "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 614,
       "user": "gnipbao"
     },
     {
@@ -1296,23 +1296,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "CatsJuice"
-    },
-    {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 375,
-      "user": "Kritt-ai"
     },
     {
       "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
@@ -1326,8 +1311,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 402,
       "user": "zeus-panel"
+    },
+    {
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "Kritt-ai"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1535,
+      "stars": 1575,
       "user": "Vincentwei1021"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 945,
       "user": "Jakubantalik"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "pireel"
     },
     {
@@ -1431,14 +1431,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "RongleCat"
     },
     {
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "python",
@@ -1569,19 +1569,18 @@
       "user": "Justus Foehrkolb"
     },
     {
-      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
-      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
-      "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
-        "react-native",
-        "performance",
-        "react-native-flatlist"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Testing Tester"
+      "user": "Ben Roriz-Dasilva"
     },
     {
       "title": "How to normalize complex JSON using pandas?",
@@ -1868,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3652,
+      "stars": 3798,
       "user": "andrewyng"
     },
     {
@@ -1883,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "powerycy"
     },
     {
@@ -1898,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 549,
       "user": "slvDev"
     },
     {
@@ -1913,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "AdelanSoulX"
     },
     {
@@ -1928,14 +1927,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 408,
       "user": "AdelanSupport"
     },
     {
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "python",
@@ -1946,10 +1945,26 @@
       "user": "Major Tom"
     },
     {
+      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
+      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
+      "published_at": "2026-07-25T07:12:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "redis",
+        "concurrency",
+        "python-asyncio",
+        "publish-subscribe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
+    },
+    {
       "title": "How to find the position of a path of coordinate points where the average difference between it and another path of a similar shape is the lowest?",
       "url": "https://stackoverflow.com/questions/79985711/how-to-find-the-position-of-a-path-of-coordinate-points-where-the-average-differ",
       "published_at": "2026-07-25T02:24:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "micropython"
@@ -2031,6 +2046,19 @@
       "user": "paush"
     },
     {
+      "title": "What is best practice for preventing a class attribute from becoming stale data?",
+      "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
+      "published_at": "2026-07-23T22:15:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
+    },
+    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -2044,34 +2072,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user22099079"
-    },
-    {
-      "title": "ID switching and changing while tracking people in a cctv retail store footage",
-      "url": "https://stackoverflow.com/questions/79985609/id-switching-and-changing-while-tracking-people-in-a-cctv-retail-store-footage",
-      "published_at": "2026-07-24T15:54:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "video",
-        "object-detection",
-        "yolov8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayoub Jeribi"
-    },
-    {
-      "title": "What is best practice for preventing a class attribute from becoming stale data?",
-      "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
-      "published_at": "2026-07-23T22:15:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2268,7 +2268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "neural-maze"
     }
   ],
@@ -2327,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "pireel"
     },
     {
@@ -2393,6 +2393,20 @@
       "user": "Justus Foehrkolb"
     },
     {
+      "title": "How could I scroll vertically past an item that only accepts horizontal scrolling?",
+      "url": "https://stackoverflow.com/questions/79983930/how-could-i-scroll-vertically-past-an-item-that-only-accepts-horizontal-scrollin",
+      "published_at": "2026-07-22T17:18:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben Roriz-Dasilva"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
       "published_at": "2026-07-24T20:44:56.000Z",
@@ -2435,23 +2449,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "MobAI-App"
-    },
-    {
-      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
-      "url": "https://stackoverflow.com/questions/79984245/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered",
-      "published_at": "2026-07-23T14:31:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "react-native",
-        "performance",
-        "react-native-flatlist"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testing Tester"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2709,6 +2708,21 @@
       "user": "xbill"
     },
     {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
+      "published_at": "2026-06-23T03:39:55Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "speculativedecoding",
+        "antigravitycli",
+        "qat",
+        "blackwell6000"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
       "url": "https://github.com/zeus-panel/ZEUS-PANEL",
       "published_at": "2026-07-20T11:37:49Z",
@@ -2720,7 +2734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 402,
       "user": "zeus-panel"
     },
     {
@@ -2765,7 +2779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 402,
       "user": "zeus-panel"
     },
     {
@@ -2795,8 +2809,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "neural-maze"
+    },
+    {
+      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
+      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
+      "published_at": "2026-07-25T07:12:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "redis",
+        "concurrency",
+        "python-asyncio",
+        "publish-subscribe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
     },
     {
       "title": "How to perform an inner join in psycopg using a variable to join on",
@@ -3194,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 614,
       "user": "gnipbao"
     },
     {
@@ -3209,23 +3239,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "CatsJuice"
-    },
-    {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 375,
-      "user": "Kritt-ai"
     },
     {
       "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
@@ -3239,8 +3254,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 402,
       "user": "zeus-panel"
+    },
+    {
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "Kritt-ai"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -3269,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3652,
+      "stars": 3798,
       "user": "andrewyng"
     },
     {
@@ -3284,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "powerycy"
     },
     {
@@ -3299,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 549,
       "user": "slvDev"
     },
     {
@@ -3314,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "AdelanSoulX"
     },
     {
@@ -3329,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 408,
       "user": "AdelanSupport"
     },
     {
@@ -3374,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "MobAI-App"
     },
     {
@@ -3404,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 53,
       "user": "iximiuz"
     },
     {
@@ -3419,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1535,
+      "stars": 1575,
       "user": "Vincentwei1021"
     },
     {
@@ -3434,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 945,
       "user": "Jakubantalik"
     },
     {
@@ -3449,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "pireel"
     },
     {
@@ -3479,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "RongleCat"
     },
     {
@@ -3494,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "steelbrain"
     },
     {
@@ -3509,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "neural-maze"
     },
     {
@@ -3524,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "QW-AI-Code"
     },
     {
@@ -3539,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "rrrjqy66"
     },
     {
