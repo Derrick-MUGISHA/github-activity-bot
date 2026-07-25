@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
       "published_at": "2026-07-24T12:27:58Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
+      "published_at": "2026-07-24T14:35:41Z",
+      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
+      "source": "Dev.to",
+      "user": "Gemini Team"
     },
     {
       "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
@@ -166,21 +166,6 @@
       "user": "Patrick Loeber"
     },
     {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -194,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
+      "published_at": "2026-07-12T15:09:09Z",
+      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "tags": [
+        "ai",
+        "cloud",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 501,
       "user": "slvDev"
     },
     {
@@ -732,8 +732,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "MobAI-App"
+    },
+    {
+      "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
+      "url": "https://github.com/iximiuz/shellgym",
+      "published_at": "2026-07-23T14:11:41Z",
+      "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "iximiuz"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -747,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1535,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 939,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "pireel"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "neural-maze"
     },
     {
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "QW-AI-Code"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "Evokoa"
     },
     {
@@ -1266,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "gnipbao"
     },
     {
@@ -1281,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 532,
       "user": "CatsJuice"
     },
     {
@@ -1300,6 +1315,21 @@
       "user": "Kritt-ai"
     },
     {
+      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "published_at": "2026-07-20T11:37:49Z",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "source": "GitHub",
+      "stars": 333,
+      "user": "zeus-panel"
+    },
+    {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
       "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
       "published_at": "2026-07-24T18:16:29Z",
@@ -1315,21 +1345,6 @@
       "user": "melloworchid8rr6g"
     },
     {
-      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "published_at": "2026-07-19T10:41:16Z",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
-      "source": "GitHub",
-      "stars": 308,
-      "user": "lyu0805"
-    },
-    {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "url": "https://github.com/Charles-0509/Grok-Register",
       "published_at": "2026-07-20T16:35:09Z",
@@ -1341,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "Charles-0509"
     },
     {
@@ -1356,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1535,
       "user": "Vincentwei1021"
     },
     {
@@ -1371,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 939,
       "user": "Jakubantalik"
     },
     {
@@ -1386,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "pireel"
     },
     {
@@ -1416,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "RongleCat"
     },
     {
@@ -1450,6 +1465,20 @@
       "user": "Rupesh Choudhary"
     },
     {
+      "title": "lit removing conditional checked attribute from radio",
+      "url": "https://stackoverflow.com/questions/79985539/lit-removing-conditional-checked-attribute-from-radio",
+      "published_at": "2026-07-24T12:02:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "vite",
+        "lit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pete"
+    },
+    {
       "title": "jquery.ripples causes random glitches after running for some time",
       "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
       "published_at": "2026-07-24T15:12:29.000Z",
@@ -1463,20 +1492,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ss511"
-    },
-    {
-      "title": "lit removing conditional checked attribute from radio",
-      "url": "https://stackoverflow.com/questions/79985539/lit-removing-conditional-checked-attribute-from-radio",
-      "published_at": "2026-07-24T12:02:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "vite",
-        "lit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pete"
     },
     {
       "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
@@ -1853,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3560,
+      "stars": 3652,
       "user": "andrewyng"
     },
     {
@@ -1868,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "powerycy"
     },
     {
@@ -1883,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 501,
       "user": "slvDev"
     },
     {
@@ -1898,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "AdelanSoulX"
     },
     {
@@ -1913,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 403,
       "user": "AdelanSupport"
     },
     {
@@ -1947,7 +1962,7 @@
       "title": "How to access QML managed QSlider from PySide?",
       "url": "https://stackoverflow.com/questions/79985639/how-to-access-qml-managed-qslider-from-pyside",
       "published_at": "2026-07-24T18:05:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "qml",
@@ -1962,7 +1977,7 @@
       "title": "How to perform an inner join in psycopg using a variable to join on",
       "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
       "published_at": "2026-07-24T19:17:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -2016,21 +2031,6 @@
       "user": "paush"
     },
     {
-      "title": "ID switching and changing while tracking people in a cctv retail store footage",
-      "url": "https://stackoverflow.com/questions/79985609/id-switching-and-changing-while-tracking-people-in-a-cctv-retail-store-footage",
-      "published_at": "2026-07-24T15:54:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "video",
-        "object-detection",
-        "yolov8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ayoub Jeribi"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -2044,6 +2044,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user22099079"
+    },
+    {
+      "title": "ID switching and changing while tracking people in a cctv retail store footage",
+      "url": "https://stackoverflow.com/questions/79985609/id-switching-and-changing-while-tracking-people-in-a-cctv-retail-store-footage",
+      "published_at": "2026-07-24T15:54:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "video",
+        "object-detection",
+        "yolov8"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ayoub Jeribi"
     },
     {
       "title": "What is best practice for preventing a class attribute from becoming stale data?",
@@ -2253,7 +2268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "neural-maze"
     }
   ],
@@ -2312,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "pireel"
     },
     {
@@ -2420,7 +2435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "MobAI-App"
     },
     {
@@ -2694,6 +2709,21 @@
       "user": "xbill"
     },
     {
+      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "published_at": "2026-07-20T11:37:49Z",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "source": "GitHub",
+      "stars": 333,
+      "user": "zeus-panel"
+    },
+    {
       "title": "Can't upload images using cloudinary and multer in my pern stack backend project",
       "url": "https://stackoverflow.com/questions/79985647/cant-upload-images-using-cloudinary-and-multer-in-my-pern-stack-backend-project",
       "published_at": "2026-07-24T19:06:02.000Z",
@@ -2724,6 +2754,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "published_at": "2026-07-20T11:37:49Z",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "source": "GitHub",
+      "stars": 333,
+      "user": "zeus-panel"
+    },
+    {
       "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
       "url": "https://github.com/0xtbug/unofficial-pddikti-api",
       "published_at": "2026-07-19T05:58:49Z",
@@ -2750,26 +2795,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "neural-maze"
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY Actually Scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "published_at": "2026-07-24T14:48:17.145-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
     },
     {
       "title": "How to perform an inner join in psycopg using a variable to join on",
       "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
       "published_at": "2026-07-24T19:17:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -2973,7 +3006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "Charles-0509"
     },
     {
@@ -3161,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "gnipbao"
     },
     {
@@ -3176,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 532,
       "user": "CatsJuice"
     },
     {
@@ -3195,6 +3228,21 @@
       "user": "Kritt-ai"
     },
     {
+      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "published_at": "2026-07-20T11:37:49Z",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "source": "GitHub",
+      "stars": 333,
+      "user": "zeus-panel"
+    },
+    {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
       "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
       "published_at": "2026-07-24T18:16:29Z",
@@ -3210,21 +3258,6 @@
       "user": "melloworchid8rr6g"
     },
     {
-      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "published_at": "2026-07-19T10:41:16Z",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
-      "source": "GitHub",
-      "stars": 308,
-      "user": "lyu0805"
-    },
-    {
       "title": "andrewyng/openworker - GitHub Repository",
       "url": "https://github.com/andrewyng/openworker",
       "published_at": "2026-07-20T01:52:32Z",
@@ -3236,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3560,
+      "stars": 3652,
       "user": "andrewyng"
     },
     {
@@ -3251,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "powerycy"
     },
     {
@@ -3266,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 501,
       "user": "slvDev"
     },
     {
@@ -3281,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "AdelanSoulX"
     },
     {
@@ -3296,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 403,
       "user": "AdelanSupport"
     },
     {
@@ -3311,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 438,
       "user": "Charles-0509"
     },
     {
@@ -3341,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "MobAI-App"
     },
     {
@@ -3360,19 +3393,19 @@
       "user": "0xtbug"
     },
     {
-      "title": "gsxhq/gsxui - shadcn-style components for gsx — copy-in, type-checked, server-rendered",
-      "url": "https://github.com/gsxhq/gsxui",
-      "published_at": "2026-07-22T20:53:41Z",
-      "description": "shadcn-style components for gsx — copy-in, type-checked, server-rendered",
+      "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
+      "url": "https://github.com/iximiuz/shellgym",
+      "published_at": "2026-07-23T14:11:41Z",
+      "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 45,
-      "user": "gsxhq"
+      "stars": 47,
+      "user": "iximiuz"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3386,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1535,
       "user": "Vincentwei1021"
     },
     {
@@ -3401,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 939,
       "user": "Jakubantalik"
     },
     {
@@ -3416,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "pireel"
     },
     {
@@ -3446,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "RongleCat"
     },
     {
@@ -3476,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "neural-maze"
     },
     {
@@ -3491,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "QW-AI-Code"
     },
     {
@@ -3521,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "Evokoa"
     },
     {
