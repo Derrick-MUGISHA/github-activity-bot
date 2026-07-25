@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "published_at": "2026-07-24T12:35:53Z",
-      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Investing in multi-agent AI safety research",
       "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
       "published_at": "2026-07-24T14:35:41Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
       "source": "Dev.to",
       "user": "Caleb Duff"
+    },
+    {
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
+      "published_at": "2026-07-24T12:35:53Z",
+      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "Kritt-ai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 729,
       "user": "slvDev"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 561,
       "user": "mikiarlo3"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "iximiuz"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1723,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 991,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "pireel"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "neural-maze"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 121,
       "user": "Evokoa"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "QW-AI-Code"
     },
     {
@@ -884,6 +884,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asim Murtaza"
+    },
+    {
+      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "published_at": "2026-07-25T20:55:11.000Z",
+      "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Amazon",
+        "Warner Bros Discovery"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
@@ -1002,22 +1017,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-      "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-      "published_at": "2026-07-24T21:15:00.000Z",
-      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "evergreens",
-        "social media bans"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1307,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "CatsJuice"
     },
     {
@@ -1322,8 +1321,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 528,
       "user": "zeus-panel"
+    },
+    {
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "source": "GitHub",
+      "stars": 390,
+      "user": "Kritt-ai"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -1339,21 +1353,6 @@
       "source": "GitHub",
       "stars": 389,
       "user": "melloworchid8rr6g"
-    },
-    {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 389,
-      "user": "Kritt-ai"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -1382,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1723,
       "user": "Vincentwei1021"
     },
     {
@@ -1397,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 991,
       "user": "Jakubantalik"
     },
     {
@@ -1412,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "pireel"
     },
     {
@@ -1579,19 +1578,19 @@
       "user": "aaron"
     },
     {
-      "title": "Attempting to hide a video element once it finishes playing",
-      "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
-      "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "dynamic links with expo React Native useAudioPlayer",
+      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
+      "published_at": "2026-07-23T07:49:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "html",
-        "css",
-        "video"
+        "react-native",
+        "audio",
+        "expo"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Justus Foehrkolb"
+      "user": "Singh Jaskeat"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1848,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4712,
+      "stars": 4779,
       "user": "andrewyng"
     },
     {
@@ -1878,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 729,
       "user": "slvDev"
     },
     {
@@ -1893,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 561,
       "user": "mikiarlo3"
     },
     {
@@ -2247,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "neural-maze"
     }
   ],
@@ -2306,7 +2305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "pireel"
     },
     {
@@ -2355,21 +2354,6 @@
       "user": "aaron"
     },
     {
-      "title": "Attempting to hide a video element once it finishes playing",
-      "url": "https://stackoverflow.com/questions/79984346/attempting-to-hide-a-video-element-once-it-finishes-playing",
-      "published_at": "2026-07-23T20:23:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Justus Foehrkolb"
-    },
-    {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
       "published_at": "2026-07-24T20:44:56.000Z",
@@ -2412,7 +2396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "MobAI-App"
     },
     {
@@ -2426,6 +2410,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "raymii"
+    },
+    {
+      "title": "dynamic links with expo React Native useAudioPlayer",
+      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
+      "published_at": "2026-07-23T07:49:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "audio",
+        "expo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Singh Jaskeat"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2694,7 +2693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 528,
       "user": "zeus-panel"
     },
     {
@@ -2725,6 +2724,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alekscooper"
+    },
+    {
+      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "published_at": "2026-07-25T20:55:11.000Z",
+      "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Amazon",
+        "Warner Bros Discovery"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     }
   ],
   "Database": [
@@ -2752,7 +2766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 528,
       "user": "zeus-panel"
     },
     {
@@ -2797,7 +2811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "neural-maze"
     },
     {
@@ -3039,6 +3053,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
+    },
+    {
+      "title": "The hacker who humiliated spyware makers and was never caught",
+      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "published_at": "2026-07-25T20:24:14.000Z",
+      "description": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+      "tags": [
+        "Security",
+        "hackers",
+        "cybersecurity",
+        "hacking team",
+        "hacktivist"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3210,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "CatsJuice"
     },
     {
@@ -3225,8 +3255,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 528,
       "user": "zeus-panel"
+    },
+    {
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "source": "GitHub",
+      "stars": 390,
+      "user": "Kritt-ai"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -3244,21 +3289,6 @@
       "user": "melloworchid8rr6g"
     },
     {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 389,
-      "user": "Kritt-ai"
-    },
-    {
       "title": "andrewyng/openworker - GitHub Repository",
       "url": "https://github.com/andrewyng/openworker",
       "published_at": "2026-07-20T01:52:32Z",
@@ -3270,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4712,
+      "stars": 4779,
       "user": "andrewyng"
     },
     {
@@ -3300,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 729,
       "user": "slvDev"
     },
     {
@@ -3315,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 561,
       "user": "mikiarlo3"
     },
     {
@@ -3375,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "MobAI-App"
     },
     {
@@ -3390,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "iximiuz"
     },
     {
@@ -3420,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1723,
       "user": "Vincentwei1021"
     },
     {
@@ -3435,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 991,
       "user": "Jakubantalik"
     },
     {
@@ -3450,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "pireel"
     },
     {
@@ -3495,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "neural-maze"
     },
     {
@@ -3514,6 +3544,21 @@
       "user": "steelbrain"
     },
     {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 121,
+      "user": "Evokoa"
+    },
+    {
       "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
       "url": "https://github.com/rrrjqy66/BlackHoleTrash",
       "published_at": "2026-07-23T09:43:07Z",
@@ -3529,21 +3574,6 @@
       "user": "rrrjqy66"
     },
     {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 118,
-      "user": "Evokoa"
-    },
-    {
       "title": "QW-AI-Code/Aether - GitHub Repository",
       "url": "https://github.com/QW-AI-Code/Aether",
       "published_at": "2026-07-20T17:06:38Z",
@@ -3555,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "QW-AI-Code"
     },
     {
