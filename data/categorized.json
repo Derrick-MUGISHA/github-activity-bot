@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "Kritt-ai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 719,
       "user": "slvDev"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 539,
       "user": "mikiarlo3"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 102,
       "user": "iximiuz"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1711,
       "user": "Vincentwei1021"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 986,
       "user": "Jakubantalik"
     },
     {
@@ -792,8 +792,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 743,
       "user": "pireel"
+    },
+    {
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "neural-maze"
     },
     {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
@@ -811,19 +826,19 @@
       "user": "steelbrain"
     },
     {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 148,
-      "user": "neural-maze"
+      "stars": 118,
+      "user": "Evokoa"
     },
     {
       "title": "QW-AI-Code/Aether - GitHub Repository",
@@ -841,25 +856,10 @@
       "user": "QW-AI-Code"
     },
     {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "Evokoa"
-    },
-    {
       "title": "Is X_test really unseen data if I split it from the original dataset before training?",
       "url": "https://stackoverflow.com/questions/79985851/is-x-test-really-unseen-data-if-i-split-it-from-the-original-dataset-before-trai",
       "published_at": "2026-07-25T15:02:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "advice",
         "python",
@@ -884,6 +884,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asim Murtaza"
+    },
+    {
+      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "published_at": "2026-07-25T19:23:32.000Z",
+      "description": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+      "tags": [
+        "Transportation",
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
@@ -1294,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 561,
       "user": "CatsJuice"
     },
     {
@@ -1309,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 526,
       "user": "zeus-panel"
     },
     {
@@ -1324,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "melloworchid8rr6g"
     },
     {
@@ -1339,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "Kritt-ai"
     },
     {
@@ -1354,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "Charles-0509"
     },
     {
@@ -1369,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1711,
       "user": "Vincentwei1021"
     },
     {
@@ -1384,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 986,
       "user": "Jakubantalik"
     },
     {
@@ -1399,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 743,
       "user": "pireel"
     },
     {
@@ -1452,7 +1465,7 @@
       "title": "jquery.ripples causes random glitches after running for some time",
       "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
       "published_at": "2026-07-24T15:12:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "jquery",
@@ -1467,7 +1480,7 @@
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "python",
@@ -1835,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4619,
+      "stars": 4712,
       "user": "andrewyng"
     },
     {
@@ -1850,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 869,
       "user": "powerycy"
     },
     {
@@ -1865,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 719,
       "user": "slvDev"
     },
     {
@@ -1880,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 539,
       "user": "mikiarlo3"
     },
     {
@@ -1895,14 +1908,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "berabuddies"
     },
     {
       "title": "Please help me with the design of an Agentic Chatbot System",
       "url": "https://stackoverflow.com/questions/79985654/please-help-me-with-the-design-of-an-agentic-chatbot-system",
       "published_at": "2026-07-24T19:31:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "python",
@@ -1929,7 +1942,7 @@
       "title": "Is X_test really unseen data if I split it from the original dataset before training?",
       "url": "https://stackoverflow.com/questions/79985851/is-x-test-really-unseen-data-if-i-split-it-from-the-original-dataset-before-trai",
       "published_at": "2026-07-25T15:02:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "advice",
         "python",
@@ -2234,7 +2247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "neural-maze"
     }
   ],
@@ -2293,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 743,
       "user": "pireel"
     },
     {
@@ -2399,7 +2412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "MobAI-App"
     },
     {
@@ -2681,7 +2694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 526,
       "user": "zeus-panel"
     },
     {
@@ -2739,7 +2752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 526,
       "user": "zeus-panel"
     },
     {
@@ -2754,7 +2767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "berabuddies"
     },
     {
@@ -2784,7 +2797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "neural-maze"
     },
     {
@@ -3009,7 +3022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "Charles-0509"
     },
     {
@@ -3197,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 561,
       "user": "CatsJuice"
     },
     {
@@ -3212,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 526,
       "user": "zeus-panel"
     },
     {
@@ -3227,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "melloworchid8rr6g"
     },
     {
@@ -3242,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "Kritt-ai"
     },
     {
@@ -3257,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4619,
+      "stars": 4712,
       "user": "andrewyng"
     },
     {
@@ -3272,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 869,
       "user": "powerycy"
     },
     {
@@ -3287,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 719,
       "user": "slvDev"
     },
     {
@@ -3302,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 539,
       "user": "mikiarlo3"
     },
     {
@@ -3317,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "berabuddies"
     },
     {
@@ -3332,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "Charles-0509"
     },
     {
@@ -3362,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 206,
       "user": "MobAI-App"
     },
     {
@@ -3377,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 102,
       "user": "iximiuz"
     },
     {
@@ -3407,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1711,
       "user": "Vincentwei1021"
     },
     {
@@ -3422,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 986,
       "user": "Jakubantalik"
     },
     {
@@ -3437,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 743,
       "user": "pireel"
     },
     {
@@ -3471,6 +3484,21 @@
       "user": "RongleCat"
     },
     {
+      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "url": "https://github.com/neural-maze/production-ocr-course",
+      "published_at": "2026-07-22T08:50:00Z",
+      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "neural-maze"
+    },
+    {
       "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
       "url": "https://github.com/steelbrain/metal2vulkan",
       "published_at": "2026-07-22T10:15:04Z",
@@ -3484,21 +3512,6 @@
       "source": "GitHub",
       "stars": 151,
       "user": "steelbrain"
-    },
-    {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
-      "source": "GitHub",
-      "stars": 148,
-      "user": "neural-maze"
     },
     {
       "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
@@ -3516,6 +3529,21 @@
       "user": "rrrjqy66"
     },
     {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "Evokoa"
+    },
+    {
       "title": "QW-AI-Code/Aether - GitHub Repository",
       "url": "https://github.com/QW-AI-Code/Aether",
       "published_at": "2026-07-20T17:06:38Z",
@@ -3529,21 +3557,6 @@
       "source": "GitHub",
       "stars": 117,
       "user": "QW-AI-Code"
-    },
-    {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "Evokoa"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
